@@ -120,7 +120,7 @@ if __name__ == '__main__':
 欢迎转载，请注明出处和作者，同时保留声明和联系方式。
 
 ### 联系方式
-- Github：[XueweiHan](https://github.com/521xueweihan)
+- Github：[削微寒](https://github.com/521xueweihan)
 
 - 博客园：[削微寒](http://www.cnblogs.com/xueweihan/)
 
