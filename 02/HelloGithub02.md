@@ -10,7 +10,10 @@
 
 所以，我就想做一个月刊的形式，面向新手的github月刊，月刊的内容主要包括：中文项目、少许英文项目、翻译的书籍以及教程。项目越容易上手越好，看起来越cool越好！主要是能动手用起来，我觉得这样会有助于编程能力的提高。《HelloGithub月刊》这个项目就诞生了！😄
 
-### Python项目
+---
+>以下为本期内容
+
+#### Python项目
 1、[螺壳网](https://github.com/alvan/luokr.com)：python Tornado写的开源网站，[访问](http://luokr.com/)，如图：
 ![](https://github.com/521xueweihan/HelloGithub/blob/master/02/img/%E8%9E%BA%E5%A3%B3%E7%BD%91-min.png)
 
@@ -88,7 +91,7 @@ if __name__ == '__main__':
     run()
 ```
 
-### 其他项目（UI，CSS，JS等）
+#### 其他项目（UI，CSS，JS等）
 6、[ant-motion](https://github.com/ant-motion/ant-motion)：[在线演示](http://motion.ant.design/#/cases/help?_k=8bdppr)
 
 7、[jQuery WeUI](https://github.com/lihongxun945/jquery-weui)：可能是最好用 WeUI 版本，如图：
@@ -110,16 +113,19 @@ if __name__ == '__main__':
 </script>
 ```
 
-### 往期回顾
+#### 往期回顾
+- [第三期](https://github.com/521xueweihan/HelloGithub/blob/master/03/HelloGithub03.md)
 - [第二期](https://github.com/521xueweihan/HelloGithub/blob/master/02/HelloGithub02.md)
 - [第一期](https://github.com/521xueweihan/HelloGithub/blob/master/01/HelloGithub01.md)
 
-### 声明
+---
+
+## 声明
 不管你事大神，还是菜鸟，只要你发现了好玩的开源项目，都可以联系我，让更多人知道。或许你发现的项目会让别人由衷的感慨：“原来还有这么有意思的项目！编程可以这么酷！”
 
 欢迎转载，请注明出处和作者，同时保留声明和联系方式。
 
-### 联系方式
+## 联系方式
 - Github：[削微寒](https://github.com/521xueweihan)
 
 - 博客园：[削微寒](http://www.cnblogs.com/xueweihan/)
