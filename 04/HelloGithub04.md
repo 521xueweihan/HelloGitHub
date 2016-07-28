@@ -52,6 +52,8 @@
 
 10、[awesome-mac](https://github.com/jaywcjlove/awesome-mac)：排版相当好的一个awesome系列文章，文中介绍了很多mac上好用的工具。
 
+11、（http://www.cs.cmu.edu/~cil/vision.html）The Computer vision Homepage，主要介绍计算机视觉方面的相关资讯和算法等等。
+
 #### 其它期
 - [第四期](https://github.com/521xueweihan/HelloGithub/blob/master/04/HelloGithub04.md)
 - [第三期](https://github.com/521xueweihan/HelloGithub/blob/master/03/HelloGithub03.md)
