@@ -1,6 +1,8 @@
 # 《HelloGithub月刊》
 >兴趣是最好的老师，而**《HelloGithub》** 就是帮你找到兴趣！
 
+![](https://github.com/521xueweihan/HelloGithub/blob/master/01/img/hello-github.png)
+
 因为我比较熟悉python语言，所以月刊中python语言的项目居多，个人能力有限，其他语言涉及甚少，欢迎各路人士加入，丰富月刊的内容。
 
 当然，如果您有更好的建议或者意见，欢迎<a href="mailto:595666367@qq.com">发邮件给我</a>。
