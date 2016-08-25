@@ -1,5 +1,7 @@
 #《HelloGithub》第五期
->兴趣是最好的老师，** [《HelloGithub》](https://github.com/521xueweihan/HelloGithub) ** 就是帮你找到兴趣！
+>兴趣是最好的老师，[《HelloGithub》](https://github.com/521xueweihan/HelloGithub)就是帮你找到兴趣！
+
+![](https://github.com/521xueweihan/HelloGithub/blob/master/01/img/hello-github.jpg)
 
 欢迎各路人士加入本项目，丰富月刊的内容，也可以直接在[Issue](https://github.com/521xueweihan/HelloGithub/issues/new)（需要登录github账号）分享你觉得好的项目。
 
