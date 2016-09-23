@@ -9,6 +9,7 @@ import os
 import logging
 import smtplib
 import datetime
+from operator import itemgetter
 from email.mime.text import MIMEText
 from email.header import Header
 
@@ -21,15 +22,14 @@ logging.basicConfig(
     format='%(name)s %(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s'
 )
 logger = logging.getLogger('Bot')  # 设置log名称
-
-API = {
-    'events': 'https://api.github.com/users/你的github用户名/received_events/public'
-}
-
 # github帐号
 ACCOUNT = {
     'username': '',
     'password': ''
+}
+
+API = {
+    'events': 'https://api.github.com/users/{username}/received_events/public'.format(username=ACCOUNT['username'])
 }
 
 # 发送邮件，邮箱的信息
@@ -59,7 +59,7 @@ CONTENT_FORMAT = """
         <th>starred日期</th>
         <th>项目star数量</th>
       </tr>
-      {starred_info}
+      {project_info_string}
     </table>
 """
 
@@ -111,6 +111,35 @@ def analyze(json_data):
     return result_data
 
 
+def get_stars(data):
+    """
+    获取stars数量
+    """
+    project_info_list = []
+    for fi_data in data:
+        project_info = dict()
+        project_info['user'] = fi_data['actor']['login']
+        project_info['user_url'] = 'https://github.com/' + project_info['user']
+        project_info['avatar_url'] = fi_data['actor']['avatar_url']
+        project_info['repo_name'] = fi_data['repo']['name']
+        project_info['repo_url'] = 'https://github.com/' + project_info['repo_name']
+        project_info['date_time'] = fi_data['date_time']
+        try:
+            repo_stars = requests.get(fi_data['repo']['url'], timeout=2).json()
+            if repo_stars:
+                project_info['repo_stars'] = int(repo_stars['stargazers_count'])
+            else:
+                project_info['repo_stars'] = -1
+        except Exception as e:
+            project_info['repo_stars'] = -1
+            logger.warning(u'获取：{} 项目星数失败——{}'.format(
+                project_info['repo_name'], e))
+        finally:
+            project_info_list.append(project_info)
+    project_info_list = sorted(project_info_list, key=itemgetter('repo_stars'), reverse=True)
+    return project_info_list
+
+
 def make_content():
     """
     生成发布邮件的内容
@@ -118,35 +147,17 @@ def make_content():
     json_data = get_data()
     data = analyze(json_data)
     content = []
-
-    for fi_data in data:
-        user = fi_data['actor']['login']
-        user_url = 'https://github.com/' + user
-        avatar_url = fi_data['actor']['avatar_url']
-        repo_name = fi_data['repo']['name']
-        repo_url = 'https://github.com/' + repo_name
-        date_time = fi_data['date_time']
-        try:
-            repo_stars = requests.get(fi_data['repo']['url'], timeout=2).json()
-            if repo_stars:
-                repo_stars = repo_stars['stargazers_count']
-            else:
-                repo_stars = '未知数'
-        except Exception as e:
-            repo_stars = '未知数'
-            logger.warning(u'获取：{} 项目星数失败——{}'.format(repo_name, e))
-        starred_info = """<tr>
-                            <td><img src={avatar_url} width=32px></img></td>
-                            <td><a href={user_url}>{user}</a></td>
-                            <td><a href={repo_url}>{repo_name}</a></td>
-                            <td>{date_time}</td>
-                            <td>{repo_stars}</td>
-                          </tr>
-                       """.format(user=user, repo_name=repo_name,
-                                  repo_url=repo_url, user_url=user_url,
-                                  avatar_url=avatar_url, repo_stars=repo_stars,
-                                  date_time=date_time)
-        content.append(starred_info)
+    project_info_list = get_stars(data)
+    for project_info in project_info_list:
+        project_info_string = """<tr>
+                                <td><img src={avatar_url} width=32px></img></td>
+                                <td><a href={user_url}>{user}</a></td>
+                                <td><a href={repo_url}>{repo_name}</a></td>
+                                <td>{date_time}</td>
+                                <td>{repo_stars}</td>
+                              </tr>
+                           """.format(**project_info)
+        content.append(project_info_string)
     return content
 
 
@@ -159,7 +170,7 @@ def send_email(receivers, email_content):
 
     # 三个参数：第一个为文本内容，第二个 html 设置文本格式，第三个 utf-8 设置编码
     message = MIMEText(
-        CONTENT_FORMAT.format(starred_info=''.join(email_content)),
+        CONTENT_FORMAT.format(project_info_string=''.join(email_content)),
         'html', 'utf-8'
     )
     message['From'] = Header(u'Github机器人', 'utf-8')

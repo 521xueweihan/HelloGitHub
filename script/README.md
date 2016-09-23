@@ -9,10 +9,6 @@
 1. 安装依赖：`pip install -r requirements.txt`
 2. 配置脚本中相关参数：
 	```
-	API = {
-	    'events': 'https://api.github.com/users/你的github用户名/received_events/public'
-	}
-
 	# github帐号
 	ACCOUNT = {
 	    'username': '',
@@ -36,7 +32,8 @@
 **最后：**`python github_bot.py`
 
 ## 开发日志
-
+#### 2016-9-24
+实现根据star数量，从高到低展示。
 #### 2016-9-5
 实现请求Github api获取关注的用户star的项目、过滤内容、定时发邮件
 
