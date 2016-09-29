@@ -17,7 +17,7 @@ import requests
 
 logging.basicConfig(
     level=logging.WARNING,
-    filename=os.path.join(os.getcwd(), 'bot_log.txt'),
+    filename=os.path.join(os.path.dirname(__file__), 'bot_log.txt'),
     filemode='a',
     format='%(name)s %(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s'
 )
@@ -92,7 +92,9 @@ def check_condition(data):
     date_condition = create_time >= (datetime.datetime.now()
                                      - datetime.timedelta(days=DAY))
     if (data['type'] == 'WatchEvent') and date_condition:
-        if data['payload']['action'] == 'started':
+        # 不统计自己项目的star事件
+        if data['payload']['action'] == 'started' and \
+           ACCOUNT['username'] not in data['repo']['name']:
             data['date_time'] = create_time.strftime("%Y-%m-%d %H:%M:%S")
             return True
     else:
