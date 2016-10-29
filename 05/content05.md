@@ -1,6 +1,3 @@
----
->**以下为本期内容**｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub)
-
 #### Python项目
 1、[caravel](https://github.com/airbnb/caravel)：**企业级项目**，airbnb做的数据探索、展示平台。功能很强大，可以用来做数据分析、展示。如下图：
 

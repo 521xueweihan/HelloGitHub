@@ -1,6 +1,3 @@
----
->**以下为本期内容**｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub)
-
 #### Python项目
 1、[Young](https://github.com/shiyanhui/Young)：基于Tornado框架、MongoDB数据库，写的功能丰富的社区项目。详细的[安装步骤](https://github.com/shiyanhui/Young/blob/master/README_CN.md)，适合学习如何创建社区类web app。[在线预览](http://beyoung.io/)，项目运行效果图：
 

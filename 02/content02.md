@@ -1,6 +1,3 @@
----
->**以下为本期内容**｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub)
-
 #### Python项目
 1、[螺壳网](https://github.com/alvan/luokr.com)：python Tornado写的开源网站，[访问](http://luokr.com/)，如图：
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/02/img/%E8%9E%BA%E5%A3%B3%E7%BD%91-min.png)

@@ -1,6 +1,3 @@
----
->**以下为本期内容**｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub)
-
 #### Python项目
 1、[XX-Net](https://github.com/XX-net/XX-Net)：python写的基于免费GAE(Google旗下开发、托管网络应用程序的平台)，科学上网工具。[中文文档](https://github.com/XX-net/XX-Net/wiki/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3)
 

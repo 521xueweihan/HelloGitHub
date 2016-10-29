@@ -1,6 +1,3 @@
----
->**以下为本期内容**｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub)
-
 #### Python项目
 1、[The Hitchhiker’s Guide to Python](https://github.com/kennethreitz/python-guide)：[requests库](https://github.com/kennethreitz/requests)作者——kennethreitz，写的python教程，已经完结，出书。是个指导性教程，不是语法层面的，涵盖项目结构、代码风格，进阶、工具等方方面面。虽然是**英文版**([中文翻译版](http://pythonguidecn.readthedocs.io/zh/latest/))，但我这个英语渣都能看懂，你肯定也可以，快去看看吧，开卷有益。[在线阅读](http://docs.python-guide.org/en/latest/)
 

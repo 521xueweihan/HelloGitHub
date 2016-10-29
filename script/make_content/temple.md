@@ -10,6 +10,9 @@
 
 最后[《HelloGitHub》](https://github.com/521xueweihan/HelloGitHub)这个项目就诞生了！😁
 
+---
+>**以下为本期内容**｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub)
+
 {{ hello_github_content }}
 
 ## 声明
