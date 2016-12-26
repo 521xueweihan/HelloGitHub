@@ -56,8 +56,8 @@ mui框架有效的解决了这些问题，这是一个可以方便开发出高�
 欢迎转载，请注明出处和作者，同时保留声明和联系方式。
 
 ## 联系方式
-- GitHub：[削微寒](https://github.com/521xueweihan)
+- [削微寒](https://github.com/521xueweihan)
 
-- 博客园：[削微寒](http://www.cnblogs.com/xueweihan/)
+- [博客园](http://www.cnblogs.com/xueweihan/)
 
-- 邮箱：595666367@qq.com
+- [知乎专栏](https://zhuanlan.zhihu.com/hellogithub)
