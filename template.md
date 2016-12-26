@@ -28,5 +28,3 @@
 - GitHub：[削微寒](https://github.com/521xueweihan)
 
 - 博客园：[削微寒](http://www.cnblogs.com/xueweihan/)
-
-- 邮箱：595666367@qq.com

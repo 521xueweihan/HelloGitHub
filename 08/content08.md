@@ -1,7 +1,7 @@
 #### Python项目
 1、[reddit](https://github.com/reddit/reddit)：[reddit.com](https://www.reddit.com/)网站的源码，通过这个项目，可以学习 python 在构建大型项目中的使用、项目结构、代码风格、python技巧的使用方法等。[安装教程](https://github.com/reddit/reddit/wiki/Install-guide)
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/08/img/reddit-show-min.jpeg)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/08/img/reddit-show-min.jpg)
 
 2、[httpstat](https://github.com/reorx/httpstat)：httpstat 美化了`curl`的结果，使得结果更加可读。同时它无依赖、兼容Python3、一共才300+行。还可以显示 HTTP 请求的每个过程中消耗的时间，如下图：
 
