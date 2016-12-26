@@ -16,12 +16,12 @@
 
 5、[知乎日报web版---vue](https://github.com/yatessss/zhihudaily-vue)：用vue.js写的知乎日报手机web版，[展示](http://zhihudaily-vue.yatessss.com/)，需打开chrome浏览器的手机模拟功能，来获得比较好的浏览效果。访问展示图如下：
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/04/img/zhihu-vue.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/04/img/zhihu-vue-min.png)
 
 #### Java项目
 6、[CacheCloud](https://github.com/sohutv/cachecloud):搜狐视频的CacheCloud提供一个Redis云管理平台，功能强大，教程详细（有视频教程），文档齐全，**企业级开源项目**。
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/04/img/cachecloud.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/04/img/cachecloud-min.png)
 
 #### 其它
 7、**新的一轮招聘就要开始了，所以发几个GitHub上面我觉得很好的面试相关的项目，希望可以帮助到准备面试的同学**：

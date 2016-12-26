@@ -3,16 +3,16 @@
 
 - [ant-design 酷！](https://github.com/ant-design/ant-design)：[文档](http://ant.design/docs/react/introduce)
 
-- [Minos](https://github.com/phith0n/Minos):一个基于Tornado/mongodb/redis的社区系统。[预览](http://minos.leavesongs.com/)
+- [Minos](https://github.com/phith0n/Minos)：一个基于Tornado/mongodb/redis的社区系统。[预览](http://minos.leavesongs.com/)
 
 - [TuShare](https://github.com/waditu/tushare)：TuShare是一个免费、开源的python财经数据接口包。[TuShare文档](http://tushare.org/index.html)
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/01/img/TuShare2.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/01/img/TuShare-min.png)
 
 - [VeryNginx](https://github.com/alexazhou/VeryNginx)：一个功能强大而对人类友好的 Nginx 扩展程序。
 [VeryNginx文档](https://github.com/alexazhou/VeryNginx/blob/master/readme_zh.md)
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/01/img/VeryNginx.jpeg)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/01/img/VeryNginx-min.jpeg)
 
 - [中文网页重设与排版](https://github.com/sofish/typo.css)：目标：一致化浏览器排版效果，构建最适合中文阅读的网页排版。包括桌面和移动平台。[预览](http://typo.sofi.sh/)
 
@@ -27,7 +27,7 @@
 
 - [Archey for OS X 命令行中显示计算机的基本信息](https://github.com/obihann/archey-osx)
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/01/img/Archey%20for%20OS%20X.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/01/img/Archey%20for%20OS%20X-min.png)
 
 
 #### 书籍、教程、资料：
@@ -41,7 +41,7 @@
 
 - [图说设计模式](https://github.com/me115/design_patterns)：[在线阅读](http://design-patterns.readthedocs.io/zh_CN/latest/index.html#)
 
-- [面向程序员的数据挖掘指南](https://github.com/egrcc/guidetodatamining)：[在线阅读](http://guidetodatamining.com/)
+- [面向程序员的数据挖掘指南](http://guidetodatamining.com/)：中文版由于版权问题已被删除
 
 - [Linux工具快速教程](https://github.com/me115/linuxtools_rst)：[在线阅读](http://linuxtools-rst.readthedocs.io/zh_CN/latest/)
 
