@@ -18,7 +18,7 @@
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/05/img/caravel-show-min.png)
 
-2、[flaskbb](https://github.com/sh4nks/flaskbb)：基于flask框架做的论坛，功能有限，轻量级的论坛应用[在线文档](http://flaskbb.readthedocs.io/en/latest/index.html)，可以在这个项目上进行二次开发，实现更加负责的功能。[在线预览](https://forums.flaskbb.org)
+2、[flaskbb](https://github.com/sh4nks/flaskbb)：基于flask框架做的论坛，功能有限，轻量级的论坛应用[在线文档](http://flaskbb.readthedocs.io/en/latest/index.html)，可以在这个项目上进行二次开发，实现更加复杂的功能。[在线预览](https://forums.flaskbb.org)
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/05/img/flask-bb-show-min.png)
 
