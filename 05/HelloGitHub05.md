@@ -11,7 +11,7 @@
 最后[《HelloGitHub》](https://github.com/521xueweihan/HelloGitHub)这个项目就诞生了！😁
 
 ---
->**以下为本期内容**｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub)
+>**以下为本期内容**｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub)｜每个月 28 号发布最新一期，首发在我的 [GitHub](https://github.com/521xueweihan) 上。
 
 #### Python项目
 1、[caravel](https://github.com/airbnb/caravel)：**企业级项目**，airbnb做的数据探索、展示平台。功能很强大，可以用来做数据分析、展示。如下图：

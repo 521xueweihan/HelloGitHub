@@ -11,7 +11,7 @@
 最后[《HelloGitHub》](https://github.com/521xueweihan/HelloGitHub)这个项目就诞生了！😁
 
 ---
->**以下为本期内容**｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub)
+>**以下为本期内容**｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub)｜每个月 28 号发布最新一期，首发在我的 [GitHub](https://github.com/521xueweihan) 上。
 
 #### Python项目
 1、[reddit](https://github.com/reddit/reddit)：[reddit.com](https://www.reddit.com/)网站的源码，通过这个项目，可以学习 python 在构建大型项目中的使用、项目结构、代码风格、python技巧的使用方法等。[安装教程](https://github.com/reddit/reddit/wiki/Install-guide)

@@ -11,7 +11,7 @@
 最后[《HelloGitHub》](https://github.com/521xueweihan/HelloGitHub)这个项目就诞生了！😁
 
 ---
->**以下为本期内容**｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub)
+>**以下为本期内容**｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub)｜每个月 28 号发布最新一期，首发在我的 [GitHub](https://github.com/521xueweihan) 上。
 
 #### Python项目
 1、[httpie](https://github.com/jkbrzt/httpie)：非常好用的命令行HTTP客户端，cURL的的替代者，返回的结果支持**高亮**，提高了可读性。可用来：调试接口、查看服务器返回的HTTP协议的信息。[在线文档](https://httpie.org/docs#examples)，下面的是cURL和httpie的返回结果对比图：
