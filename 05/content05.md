@@ -1,5 +1,5 @@
 #### Python项目
-1、[caravel](https://github.com/airbnb/caravel)：**企业级项目**，airbnb做的数据探索、展示平台。功能很强大，可以用来做数据分析、展示。如下图：
+1、[superset](https://github.com/airbnb/superset)：**企业级项目**，airbnb做的数据探索、展示平台。功能很强大，可以用来做数据分析、展示。如下图：
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/05/img/caravel-show-min.png)
 
