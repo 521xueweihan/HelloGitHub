@@ -14,9 +14,9 @@
 >**以下为本期内容**｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub)｜每个月 28 号发布最新一期，首发在我的 [GitHub](https://github.com/521xueweihan) 上。
 
 #### Python项目
-1、[caravel](https://github.com/airbnb/caravel)：**企业级项目**，airbnb做的数据探索、展示平台。功能很强大，可以用来做数据分析、展示。如下图：
+1、[superset](https://github.com/airbnb/superset)：**企业级项目**，airbnb做的数据探索、展示平台。功能很强大，可以用来做数据分析、展示。如下图：
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/05/img/caravel-show-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/05/img/superset-min.gif)
 
 2、[flaskbb](https://github.com/sh4nks/flaskbb)：基于flask框架做的论坛，功能有限，轻量级的论坛应用[在线文档](http://flaskbb.readthedocs.io/en/latest/index.html)，可以在这个项目上进行二次开发，实现更加复杂的功能。[在线预览](https://forums.flaskbb.org)
 
