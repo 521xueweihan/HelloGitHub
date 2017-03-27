@@ -46,21 +46,21 @@ Hello Google!
 | Keybinding | Description |
 | :--------- | :------ |
 | Ctrl+R | 发送请求 |
-| Ctrl+C | 推出 |
+| Ctrl+C | 退出 |
 | Ctrl+K,Shift+Tab | 前视图 |
 | Ctlr+J,Tab | 下一个视图 |
-| Ctrl+H,Alt+H | 打开关闭历史 |
+| Ctrl+H,Alt+H | 打开／关闭历史 |
 | Down | 向下移动一条视图线 |
 | Up | 向上移动一条视图线 |
 | Page down | 向下移动一个视图页 |
 | Page up | 向下移动一个视图页 |
-| F2 | 跳转到URL |
+| F2 | 跳转到 URL |
 | F3 | 跳转到查询参数 |
-| F4 | 跳转到HTTP方法 |
+| F4 | 跳转到 HTTP 方法 |
 | F5 | 跳转到请求体 |
-| F6 | 跳转到header |
+| F6 | 跳转到 header |
 | F7 | 跳转到搜索 |
-| F8 | 跳转到响应header |
+| F8 | 跳转到响应 header |
 | F9 | 跳转到响应体 |
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/12/img/wuzz.gif)
@@ -78,12 +78,12 @@ Hello Google!
 
 7、[screenfull.js](https://github.com/sindresorhus/screenfull.js)：极小、跨平台的 JavaScript 全屏插件，[在线demo](https://sindresorhus.com/screenfull.js/)
 
-8、[octotree](https://github.com/buunguyen/octotree)：为 GitHub 和 Gitlab 网站，提供直观地显示项目目录结构的浏览器插件，效果如下：
+8、[octotree](https://github.com/buunguyen/octotree)：为 GitHub 和 GitLab 网站，提供直观地显示项目目录结构的浏览器插件，效果如下：
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/12/img/octotree-show-min.png)
 
 #### C#项目
-9、[ScreenToGif](https://github.com/NickeManarin/ScreenToGif)：此工具可以记录屏幕的选定区域、网络摄像头的实时图像和绘图板上的实时图像。可以编辑并将动画保存为 gif 或视频
+9、[ScreenToGif](https://github.com/NickeManarin/ScreenToGif)：此工具可以记录屏幕的选定区域、网络摄像头的实时图像和绘图板上的实时图像。可以编辑并将动画保存为 GIF 或视频
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/12/img/screen-to-gif-show-min.png)
 
@@ -96,7 +96,7 @@ Hello Google!
 - ...
 
 #### C项目
-11、[tbox](https://github.com/tboox/tbox)：一个用C语言实现的跨平台开发库，用于解决不同操作系统的兼容问题，并且充分利用了各个平台独有的一些特性进行优化。[中文说明](https://github.com/tboox/tbox/blob/master/README_zh.md)
+11、[tbox](https://github.com/tboox/tbox)：一个用 C 语言实现的跨平台开发库，用于解决不同操作系统的兼容问题，并且充分利用了各个平台独有的一些特性进行优化。[中文说明](https://github.com/tboox/tbox/blob/master/README_zh.md)
 
 
 #### Objective-C项目
