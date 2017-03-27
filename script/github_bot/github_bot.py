@@ -47,6 +47,9 @@ RECEIVERS = []
 # 几天前
 DAY = 1
 
+# 项目stars临界值
+STARS = 200
+
 # qq邮件服务文档：http://service.mail.qq.com/cgi-bin/help?id=28
 
 
@@ -115,7 +118,7 @@ def analyze(json_data):
 
 def get_stars(data):
     """
-    获取stars数量
+    获取stars数量，同时过滤掉stars数量少的项目
     """
     project_info_list = []
     for fi_data in data:
@@ -137,7 +140,9 @@ def get_stars(data):
             logger.warning(u'获取：{} 项目星数失败——{}'.format(
                 project_info['repo_name'], e))
         finally:
-            project_info_list.append(project_info)
+            if project_info['repo_stars'] >= STARS or project_info['repo_stars'] == -1:
+                # 过滤掉star数量低于临界值的项目
+                project_info_list.append(project_info)
     project_info_list = sorted(project_info_list, key=itemgetter('repo_stars'), reverse=True)
     return project_info_list
 
