@@ -70,7 +70,8 @@ def make_content(num):
 def make_all_content():
     dir_list = os.listdir(os.path.abspath(os.curdir))
     for fi_dir in dir_list:
-        if os.path.isdir(fi_dir):
+        # 忽略‘script’的目录
+        if os.path.isdir(fi_dir) and 'script' not in fi_dir:
             make_content(fi_dir)
 
 
