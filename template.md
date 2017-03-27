@@ -1,4 +1,4 @@
-#《HelloGitHub》第{{ hello_github_num }}期
+# 《HelloGitHub》第{{ hello_github_num }}期
 >兴趣是最好的老师，[《HelloGitHub》](https://github.com/521xueweihan/HelloGitHub)就是帮你找到兴趣！
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/01/img/hello-github.jpg)

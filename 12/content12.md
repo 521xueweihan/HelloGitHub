@@ -26,7 +26,7 @@ Hello Google!
 ```
 
 #### Go项目
-3、[wuzz](https://github.com/asciimoo/wuzz)：wuzz 是用于调试 HTTP 请求的交互式命令行工具，可以用来检查和修改请求。常用命令如下：
+3、[wuzz](https://github.com/asciimoo/wuzz)：wuzz 是用于调试 HTTP 请求的交互式命令行工具，可以用来检查和修改请求。常用操作如下：
 
 | Keybinding | Description |
 | :--------- | :------ |
@@ -54,12 +54,12 @@ Hello Google!
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/12/img/sshtron.gif)
 
-#### Javascript项目
+#### JavaScript项目
 5、[vue2-elm](https://github.com/bailicangdu/vue2-elm)：基于 vue2 + vuex 构建一个大型单页面应用，此项目大大小小共 45 个页面，涉及注册、登录、商品展示、购物车、下单等等，是一个完整的流程，
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/12/img/vue2-elm-show-min.png)
 
-6、[standard](https://github.com/feross/standard)：统一 JavaScript，只需一種樣式，[中文](https://github.com/feross/standard/blob/master/docs/README-zhtw.md)
+6、[standard](https://github.com/feross/standard)：统一 JavaScript，只需一种样式，[中文](https://github.com/feross/standard/blob/master/docs/README-zhtw.md)
 
 7、[screenfull.js](https://github.com/sindresorhus/screenfull.js)：极小、跨平台的 JavaScript 全屏插件，[在线demo](https://sindresorhus.com/screenfull.js/)
 
@@ -68,7 +68,7 @@ Hello Google!
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/12/img/octotree-show-min.png)
 
 #### C#项目
-9、[ScreenToGif](https://github.com/NickeManarin/ScreenToGif)：此工具可以记录屏幕的选定区域、网络摄像头的实时图像和绘图板上的实时图纸。可以编辑并将动画保存为 gif 或视频
+9、[ScreenToGif](https://github.com/NickeManarin/ScreenToGif)：此工具可以记录屏幕的选定区域、网络摄像头的实时图像和绘图板上的实时图像。可以编辑并将动画保存为 gif 或视频
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/12/img/screen-to-gif-show-min.png)
 
@@ -85,7 +85,7 @@ Hello Google!
 
 
 #### Objective-C项目
-12、[bitbar](https://github.com/matryer/bitbar)：Bitbar 是可以将任何（自己或别人写好的）脚本的**输出**放在Mac OS X状态栏中。同时，支持自定义更新频率。例如：比特币的价格、HelloGitHub 项目的 star 数量（欢迎star本项目😄），使用步骤如下：
+12、[bitbar](https://github.com/matryer/bitbar)：Bitbar 是可以将任何（自己或别人写好的）脚本的**输出**到 Mac OS 的状态栏上。同时，支持自定义更新频率。例如：比特币的价格、HelloGitHub 项目的 star 数量（欢迎star本项目😄），使用步骤如下：
 
 1. 运行该程序，选择脚本所在目录
 2. 确保脚本的有执行权限，赋予执行权限的命令：`chmod +x 你的脚本.sh`
