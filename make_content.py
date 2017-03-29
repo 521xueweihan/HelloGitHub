@@ -2,7 +2,6 @@
 # -*- coding:utf-8 -*-
 #
 #   Author  :   XueWeiHan
-#   E-mail  :   595666367@qq.com
 #   Date    :   16/10/21 下午1:41
 #   Desc    :   HelloGitHub项目——生成月刊脚本
 """

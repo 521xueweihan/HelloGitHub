@@ -12,18 +12,18 @@
 
 ---
 ### 往期回顾
-- [第12期](https://github.com/521xueweihan/HelloGitHub/blob/master/12/HelloGitHub12.md)
-- [第11期](https://github.com/521xueweihan/HelloGitHub/blob/master/11/HelloGitHub11.md)
-- [第10期](https://github.com/521xueweihan/HelloGitHub/blob/master/10/HelloGitHub10.md)
-- [第09期](https://github.com/521xueweihan/HelloGitHub/blob/master/09/HelloGitHub09.md)
-- [第08期](https://github.com/521xueweihan/HelloGitHub/blob/master/08/HelloGitHub08.md)
-- [第07期](https://github.com/521xueweihan/HelloGitHub/blob/master/07/HelloGitHub07.md)
-- [第06期](https://github.com/521xueweihan/HelloGitHub/blob/master/06/HelloGitHub06.md)
-- [第05期](https://github.com/521xueweihan/HelloGitHub/blob/master/05/HelloGitHub05.md)
-- [第04期](https://github.com/521xueweihan/HelloGitHub/blob/master/04/HelloGitHub04.md)
-- [第03期](https://github.com/521xueweihan/HelloGitHub/blob/master/03/HelloGitHub03.md)
-- [第02期](https://github.com/521xueweihan/HelloGitHub/blob/master/02/HelloGitHub02.md)
-- [第01期](https://github.com/521xueweihan/HelloGitHub/blob/master/01/HelloGitHub01.md)
+- [第 12 期](https://github.com/521xueweihan/HelloGitHub/blob/master/12/HelloGitHub12.md)
+- [第 11 期](https://github.com/521xueweihan/HelloGitHub/blob/master/11/HelloGitHub11.md)
+- [第 10 期](https://github.com/521xueweihan/HelloGitHub/blob/master/10/HelloGitHub10.md)
+- [第 09 期](https://github.com/521xueweihan/HelloGitHub/blob/master/09/HelloGitHub09.md)
+- [第 08 期](https://github.com/521xueweihan/HelloGitHub/blob/master/08/HelloGitHub08.md)
+- [第 07 期](https://github.com/521xueweihan/HelloGitHub/blob/master/07/HelloGitHub07.md)
+- [第 06 期](https://github.com/521xueweihan/HelloGitHub/blob/master/06/HelloGitHub06.md)
+- [第 05 期](https://github.com/521xueweihan/HelloGitHub/blob/master/05/HelloGitHub05.md)
+- [第 04 期](https://github.com/521xueweihan/HelloGitHub/blob/master/04/HelloGitHub04.md)
+- [第 03 期](https://github.com/521xueweihan/HelloGitHub/blob/master/03/HelloGitHub03.md)
+- [第 02 期](https://github.com/521xueweihan/HelloGitHub/blob/master/02/HelloGitHub02.md)
+- [第 01 期](https://github.com/521xueweihan/HelloGitHub/blob/master/01/HelloGitHub01.md)
 
 ---
 ## 声明

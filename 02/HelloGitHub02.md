@@ -1,4 +1,4 @@
-# 《HelloGitHub》第02期
+# 《HelloGitHub》第 02 期
 >兴趣是最好的老师，[《HelloGitHub》](https://github.com/521xueweihan/HelloGitHub)就是帮你找到兴趣！
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/01/img/hello-github.jpg)
@@ -13,24 +13,24 @@
 ---
 >**以下为本期内容**｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub)｜每个月 28 号发布最新一期，首发在我的 [GitHub](https://github.com/521xueweihan) 上。
 
-#### Python项目
-1、[螺壳网](https://github.com/alvan/luokr.com)：python Tornado写的开源网站，[访问](http://luokr.com/)，如图：
+#### Python 项目
+1、[luokr.com](https://github.com/alvan/luokr.com)：Python Tornado 写的开源网站——螺壳网，[访问](http://luokr.com/)，如图：
+
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/02/img/%E8%9E%BA%E5%A3%B3%E7%BD%91-min.png)
 
-2、[手撕包菜网站](https://github.com/78/ssbc)：python Django写的种子搜索网站，[访问](http://www.cilibaba.com/)，如图：
+2、[ssbc](https://github.com/78/ssbc)：Python Django 写的种子搜索网站——手撕包菜，[访问](http://www.cilibaba.com/)，如图：
+
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/02/img/%E6%89%8B%E6%92%95%E5%8C%85%E8%8F%9C%E7%BD%91-min.png)
 
-3、[Listen 1](https://github.com/listen1)：Listen 1 让你用一个网页就能听到多个网站的在线音乐，支持各种平台。如图：
+3、[listen1](https://github.com/listen1)：Listen 1 让你用一个网页就能听到多个网站的在线音乐，支持各种平台。如图：
+
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/02/img/listen1-min.png)
 
-4、[pyhton代码片段](https://github.com/RealHacker/python-gems) or [leetcode答案](https://github.com/RealHacker/leetcode-solutions)
+4、[python-gems](https://github.com/RealHacker/python-gems)：有趣的 Pyhton 代码片段集合
 
-5、[老齐的python算法实现](https://github.com/qiwsir/algorithm)
+5、[algorithm](https://github.com/qiwsir/algorithm)：老齐的 Python 算法教程
 
-6、[python-goose](https://github.com/grangier/python-goose)：python内容，文章提取器
-
-Goose提取中文内容，示例代码
-
+6、[python-goose](https://github.com/grangier/python-goose)：Goose 用于文章提取器，提取中文内容的示例代码：
 ```python
 >>> from goose import Goose
 >>> from goose.text import StopWordsChinese
@@ -45,8 +45,7 @@ Goose提取中文内容，示例代码
 一些亲北京阵营议员欢迎梁振英道歉，且认为应能获得香港民众接受，但这些议员也质问梁振英有
 ```
 
-7、[mincss](https://github.com/peterbe/mincss)：python写的用来找到css中没有用到的代码片段，并删除。适用于：想要做一个页面，但是不会写css人。示例代码如下：
-
+7、[mincss](https://github.com/peterbe/mincss)：Python 写的用来找到 CSS 中没有用到的代码片段，并删除。适用于：想要做一个页面，但是不会写 CSS 人。示例代码如下：
 ```python
 #coding:utf-8
 #!/usr/bin/env python
@@ -91,17 +90,18 @@ if __name__ == '__main__':
     run()
 ```
 
-#### 其他项目（UI，CSS，JS等）
-6、[ant-motion](https://github.com/ant-motion/ant-motion)：[在线演示](http://motion.ant.design/#/cases/help?_k=8bdppr)
+8、[jquery-weui](https://github.com/lihongxun945/jquery-weui)：可能是最好用 WeUI 版本，展示效果如下：
 
-7、[jQuery WeUI](https://github.com/lihongxun945/jquery-weui)：可能是最好用 WeUI 版本，如图：
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/02/img/jquery-weui-min.png)
 
-8 、[wechat-h5-boilerplate](https://github.com/panteng/wechat-h5-boilerplate)：为腾讯微信优化的H5动效模板，帮助你快速构建全屏滚动型H5页面，[示例](http://panteng.me/demos/whb/)
+9、[github-markdown-css](https://github.com/sindresorhus/github-markdown-css)：仿 GitHub 的 Markdown 的样式，就是使用了这个 CSS 后，Markdown 展示效果和 GitHub 的大致一样。[示例](https://sindresorhus.com/github-markdown-css/)
 
-9、[github-markdown-css](https://github.com/sindresorhus/github-markdown-css)：GitHub的markdown的css，就是使用了这个css后，markdown展示效果和GitHub的大致一样。[示例](https://sindresorhus.com/github-markdown-css/)
+#### JavaScript 项目
+10、[ant-motion](https://github.com/ant-motion/ant-motion)：阿里开源的项目，可以方便快捷的制作一个公司的介绍页，[在线演示](https://motion.ant.design/)
 
-10、 [waitForImages](https://github.com/alexanderdickson/waitForImages)：背景加载完事件，示例代码：
+11、[wechat-h5-boilerplate](https://github.com/panteng/wechat-h5-boilerplate)：为腾讯微信优化的 HTML5 动效模板，帮助你快速构建全屏滚动型 HTML5 页面，[示例](http://panteng.me/demos/whb/)
+
+12、[waitForImages](https://github.com/alexanderdickson/waitForImages)：背景加载完事件，示例代码：
 ```html
 <script type="text/javascript" src="http://catmull.uk/downloads/bg-loaded/bg-loaded.js"></script>
 <script type="text/javascript">
@@ -112,6 +112,9 @@ if __name__ == '__main__':
    });
 </script>
 ```
+
+#### 其它
+13、[leetcode-solutions](https://github.com/RealHacker/leetcode-solutions)：Leetcode OJ 的 Python 算法实现
 
 ---
 
