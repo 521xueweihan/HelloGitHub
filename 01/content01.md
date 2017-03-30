@@ -46,5 +46,3 @@
 16、[Learning-SICP](https://github.com/DeathKing/Learning-SICP)：《计算机程序的构造和解释》公开课
 
 17、[awesome-python-cn](https://github.com/jobbole/awesome-python-cn)：awesome-python 中文版
-
----

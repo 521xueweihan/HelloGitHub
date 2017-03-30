@@ -37,5 +37,3 @@
 13、[neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)：《神经网络与深度学习》相关代码 Python 实现，[神经网络与深度学习－中文在线阅读](https://tigerneil.gitbooks.io/neural-networks-and-deep-learning-zh/content/chapter1.html)，该书中的相关理论的 Python 代码实现
 
 14、[awesome-mac](https://github.com/jaywcjlove/awesome-mac)：排版相当好的一个 awesome 系列文章，文中介绍了很多 Mac 上好用的工具。
-
----

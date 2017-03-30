@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 05 期
->兴趣是最好的老师，[《HelloGitHub》](https://github.com/521xueweihan/HelloGitHub)就是帮你找到兴趣！
+>兴趣是最好的老师，[HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 就是帮你找到兴趣！
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/01/img/hello-github.jpg)
 
@@ -8,10 +8,10 @@
 
 所以，我就做了一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 的人群的月刊，月刊的内容包括：**各种编程语言的项目**、**各种让生活变得更美好的工具**、**书籍、学习笔记、教程等**。这些项目都是非常容易上手，而且非常 Cool，主要是希望大家能动手用起来，加入到**开源社区**中。会编程的可以贡献代码，不会编程的可以反馈使用这些工具中的 Bug、帮着宣传你觉得优秀的项目、Star 项目⭐️。同时你将学习到更多编程知识、提高自己的编程技巧、发现自己的**兴趣**。
 
-最后[《HelloGitHub》](https://github.com/521xueweihan/HelloGitHub)这个项目就诞生了！😁
+🎉 最后 [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 这个项目就诞生了 🎉
 
 ---
->**以下为本期内容**｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub)｜每个月 28 号发布最新一期，首发在我的 [GitHub](https://github.com/521xueweihan) 上。
+｜**以下为本期内容**｜每个月 28 号发布最新一期，首发在我的 [GitHub](https://github.com/521xueweihan) 上｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)｜
 
 #### Python 项目
 1、[superset](https://github.com/airbnb/superset)：**企业级项目**，airbnb 做的数据探索、展示平台。功能很强大，可以用来做数据分析、展示。如下图：
@@ -69,13 +69,13 @@ $pinyin->convert('带着希望去旅行，比到达终点更美好', PINYIN_ASCI
 
 12、[Security Guide for Developers 实用性开发人员安全须知](https://github.com/FallibleInc/security-guide-for-developers)：这是一个 checklist，作为一个 real word web developer 你应该在实际工作中不断地谨慎使用这套列表，减少安全隐患。[中文翻译版](https://github.com/FallibleInc/security-guide-for-developers/blob/master/README-zh.md)
 
----
 
+---
 
 ## 声明
 如果你发现了好玩、有意义的开源项目，[点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。
 
-- 分享项目格式：项目名称——项目地址：项目描述(中文)，追求完美👉项目上手 Demo、有图有真相～
+- 分享项目格式：`项目名称——项目地址：项目描述(中文)，追求完美👉项目上手 demo、截图`
 
 或许你分享的项目会让别人由衷的感慨：“原来还有这么有意思的项目！编程可以这么酷！”
 
