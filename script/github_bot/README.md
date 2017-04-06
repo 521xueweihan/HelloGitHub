@@ -32,6 +32,10 @@
 **最后**：`python github_bot.py`
 
 ## 开发日志
+#### 2017-4-6
+1. GitHub Api 更新，event 最多获取 300 条
+2. 新注册帐号 521hellogithub 用于获取每天的数据
+
 #### 2017-3-28
 增加收集项目 star 临界值
 
