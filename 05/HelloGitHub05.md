@@ -67,7 +67,7 @@ $pinyin->convert('带着希望去旅行，比到达终点更美好', PINYIN_ASCI
 
 11、[Solve-App-Store-Review-Problem](https://github.com/wg689/Solve-App-Store-Review-Problem)：App Store 审核未通过的解决方案。
 
-12、[Security Guide for Developers 实用性开发人员安全须知](https://github.com/FallibleInc/security-guide-for-developers)：这是一个 checklist，作为一个 real word web developer 你应该在实际工作中不断地谨慎使用这套列表，减少安全隐患。[中文翻译版](https://github.com/FallibleInc/security-guide-for-developers/blob/master/README-zh.md)
+12、[security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers)：这是一个 checklist，作为一个 real word web developer 你应该在实际工作中不断地谨慎使用这套列表，减少安全隐患。[中文翻译版](https://github.com/FallibleInc/security-guide-for-developers/blob/master/README-zh.md)
 
 
 ---
