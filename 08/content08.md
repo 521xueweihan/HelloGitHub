@@ -62,7 +62,7 @@ finally:
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/08/img/discourse-show-min.png)
 
 #### JavaScript 项目
-6、[WeFlow](https://github.com/weixin/WeFlow)：微信出品的一个高效、强大、跨平台的 Web 前端开发工作流工具，[官网](https://weflow.io/)：
+6、[WeFlow](https://github.com/weixin/WeFlow)：微信出品的一个高效、强大、跨平台的 Web 前端开发工作流工具，[官网](https://weflow.io/)
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/08/img/weflow-show-min.jpeg)
 

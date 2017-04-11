@@ -51,7 +51,7 @@ ngrok http 8000
 5、[VulApps](https://github.com/Medicean/VulApps)：VulApps 是用于快速搭建各种漏洞环境，可用来学习、理解常见的漏洞，增强自己在开发过程的安全意识
 
 #### JavaScript 项目
-6、[vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0)：这是一个 Vue2.0 示例，克隆 [Hacker News]((https://news.ycombinator.com/)) 网站（我感觉比原站好看多了😅）
+6、[vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0)：这是一个 Vue2.0 示例，克隆 [Hacker News](https://news.ycombinator.com/) 网站（我感觉比原站好看多了😅）
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/09/img/vue-hackernews-show-min.png)
 

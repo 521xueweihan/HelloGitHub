@@ -7,7 +7,7 @@
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/10/img/locust-show-min.png)
 
-3、[jumpserver](https://github.com/jumpserver/jumpserver)：Jumpserver 是一款由 Python 编写开源的跳板机(是一类可作为跳板批量操作远程设备的网络设备)系统，实现了跳板机应有的功能。基于 SSH 协议来管理，客户端无需安装 agent。支持常见 Linux 系统，效果如下：
+3、[jumpserver](https://github.com/jumpserver/jumpserver)：Jumpserver 是一款由 Python 编写开源的跳板机（是一类可作为跳板批量操作远程设备的网络设备）系统，实现了跳板机应有的功能。基于 SSH 协议来管理，客户端无需安装 agent。支持常见 Linux 系统，效果如下：
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/10/img/jumpserver-min.gif)
 

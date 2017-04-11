@@ -1,36 +1,75 @@
 # 《HelloGitHub》第 02 期
->兴趣是最好的老师，[HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 就是帮你找到兴趣！
+>兴趣是最好的老师，HelloGitHub 就是帮你找到兴趣！
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/01/img/hello-github.jpg)
 
 ## 简介
-最开始我只是想把自己在浏览 [GitHub](https://github.com/) 过程中，发现的有意思、高质量、容易上手的项目收集起来，这样便于以后查找和学习。后来一想，如果给这些 GitHub 项目都加上简单的效果图和一些通俗易懂的中文介绍。应该能够帮助到我这样的新手激发兴趣去参与、学习这些优秀、好玩的开源项目。
+**分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。**
 
-所以，我就做了一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 的人群的月刊，月刊的内容包括：**各种编程语言的项目**、**各种让生活变得更美好的工具**、**书籍、学习笔记、教程等**。这些项目都是非常容易上手，而且非常 Cool，主要是希望大家能动手用起来，加入到**开源社区**中。会编程的可以贡献代码，不会编程的可以反馈使用这些工具中的 Bug、帮着宣传你觉得优秀的项目、Star 项目⭐️。同时你将学习到更多编程知识、提高自己的编程技巧、发现自己的**兴趣**。
-
-🎉 最后 [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 这个项目就诞生了 🎉
+🎉 然后 [HelloGitHub](http://hellogithub.com/) 这个项目就诞生了 🎉
 
 ---
-｜**以下为本期内容**｜每个月 28 号发布最新一期，首发在我的 [GitHub](https://github.com/521xueweihan) 上｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)｜
+｜**以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)｜
+
+#### CSS 项目
+
+<details>
+
+1、[github-markdown-css](https://github.com/sindresorhus/github-markdown-css)：仿 GitHub 的 Markdown 的样式，就是使用了这个 CSS 后，Markdown 展示效果和 GitHub 的大致一样。[示例](https://sindresorhus.com/github-markdown-css/)
+
+</details>
+
+#### JavaScript 项目
+
+<details>
+
+2、[jquery-weui](https://github.com/lihongxun945/jquery-weui)：可能是最好用 WeUI 版本，展示效果如下：
+
+
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/02/img/jquery-weui-min.png)
+
+3、[ant-motion](https://github.com/ant-motion/ant-motion)：阿里开源的项目，可以方便快捷的制作一个公司的介绍页，[在线演示](https://motion.ant.design/)
+
+4、[wechat-h5-boilerplate](https://github.com/panteng/wechat-h5-boilerplate)：为腾讯微信优化的 HTML5 动效模板，帮助你快速构建全屏滚动型 HTML5 页面，[示例](http://panteng.me/demos/whb/)
+
+5、[waitForImages](https://github.com/alexanderdickson/waitForImages)：背景加载完事件，示例代码：
+```html
+<script type="text/javascript" src="http://catmull.uk/downloads/bg-loaded/bg-loaded.js"></script>
+<script type="text/javascript">
+   $('body').bgLoaded({
+      afterLoaded : function() {
+         alert('Background image done loading');
+      }
+   });
+</script>
+```
+
+</details>
 
 #### Python 项目
-1、[luokr.com](https://github.com/alvan/luokr.com)：Python Tornado 写的开源网站——螺壳网，[访问](http://luokr.com/)，如图：
+
+<details>
+
+6、[luokr.com](https://github.com/alvan/luokr.com)：Python Tornado 写的开源网站——螺壳网，[访问](http://luokr.com/)，如图：
+
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/02/img/%E8%9E%BA%E5%A3%B3%E7%BD%91-min.png)
 
-2、[ssbc](https://github.com/78/ssbc)：Python Django 写的种子搜索网站——手撕包菜，[访问](http://www.cilibaba.com/)，如图：
+7、[ssbc](https://github.com/78/ssbc)：Python Django 写的种子搜索网站——手撕包菜，[访问](http://www.cilibaba.com/)，如图：
+
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/02/img/%E6%89%8B%E6%92%95%E5%8C%85%E8%8F%9C%E7%BD%91-min.png)
 
-3、[listen1](https://github.com/listen1)：Listen 1 让你用一个网页就能听到多个网站的在线音乐，支持各种平台。如图：
+8、[listen1](https://github.com/listen1)：Listen 1 让你用一个网页就能听到多个网站的在线音乐，支持各种平台。如图：
+
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/02/img/listen1-min.png)
 
-4、[python-gems](https://github.com/RealHacker/python-gems)：有趣的 Pyhton 代码片段集合
+9、[python-gems](https://github.com/RealHacker/python-gems)：有趣的 Pyhton 代码片段集合
 
-5、[algorithm](https://github.com/qiwsir/algorithm)：老齐的 Python 算法教程
+10、[algorithm](https://github.com/qiwsir/algorithm)：老齐的 Python 算法教程
 
-6、[python-goose](https://github.com/grangier/python-goose)：Goose 用于文章提取器，提取中文内容的示例代码：
+11、[python-goose](https://github.com/grangier/python-goose)：Goose 用于文章提取器，提取中文内容的示例代码：
 ```python
 >>> from goose import Goose
 >>> from goose.text import StopWordsChinese
@@ -45,7 +84,7 @@
 一些亲北京阵营议员欢迎梁振英道歉，且认为应能获得香港民众接受，但这些议员也质问梁振英有
 ```
 
-7、[mincss](https://github.com/peterbe/mincss)：Python 写的用来找到 CSS 中没有用到的代码片段，并删除。适用于：想要做一个页面，但是不会写 CSS 人。示例代码如下：
+12、[mincss](https://github.com/peterbe/mincss)：Python 写的用来找到 CSS 中没有用到的代码片段，并删除。适用于：想要做一个页面，但是不会写 CSS 人。示例代码如下：
 ```python
 #coding:utf-8
 #!/usr/bin/env python
@@ -90,31 +129,16 @@ if __name__ == '__main__':
     run()
 ```
 
-8、[jquery-weui](https://github.com/lihongxun945/jquery-weui)：可能是最好用 WeUI 版本，展示效果如下：
-
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/02/img/jquery-weui-min.png)
-
-9、[github-markdown-css](https://github.com/sindresorhus/github-markdown-css)：仿 GitHub 的 Markdown 的样式，就是使用了这个 CSS 后，Markdown 展示效果和 GitHub 的大致一样。[示例](https://sindresorhus.com/github-markdown-css/)
-
-#### JavaScript 项目
-10、[ant-motion](https://github.com/ant-motion/ant-motion)：阿里开源的项目，可以方便快捷的制作一个公司的介绍页，[在线演示](https://motion.ant.design/)
-
-11、[wechat-h5-boilerplate](https://github.com/panteng/wechat-h5-boilerplate)：为腾讯微信优化的 HTML5 动效模板，帮助你快速构建全屏滚动型 HTML5 页面，[示例](http://panteng.me/demos/whb/)
-
-12、[waitForImages](https://github.com/alexanderdickson/waitForImages)：背景加载完事件，示例代码：
-```html
-<script type="text/javascript" src="http://catmull.uk/downloads/bg-loaded/bg-loaded.js"></script>
-<script type="text/javascript">
-   $('body').bgLoaded({
-      afterLoaded : function() {
-         alert('Background image done loading');
-      }
-   });
-</script>
-```
+</details>
 
 #### 其它
+
+<details>
+
 13、[leetcode-solutions](https://github.com/RealHacker/leetcode-solutions)：Leetcode OJ 的 Python 算法实现
+
+</details>
+
 
 
 ---
@@ -129,8 +153,14 @@ if __name__ == '__main__':
 **欢迎转载，请注明出处和作者，同时保留声明和联系方式。**
 
 ## 联系方式
-- [削微寒](https://github.com/521xueweihan)
+- [GitHub](https://github.com/521xueweihan)
+
+- [GitBook](https://gitbook.hellogithub.com/)
 
 - [博客园](http://www.cnblogs.com/xueweihan/)
+
+- [简书](http://www.jianshu.com/u/f04b57b6f433)
+
+- [掘金](https://juejin.im/user/5677785f60b2298f122fe889)
 
 - [知乎专栏](https://zhuanlan.zhihu.com/hellogithub)

@@ -85,7 +85,7 @@ Hello Google!
 
 
 #### Objective-C 项目
-12、[bitbar](https://github.com/matryer/bitbar)：Bitbar 是可以将任何（自己或别人写好的）脚本的**输出**到 Mac OS 的状态栏上。同时，支持自定义更新频率。例如：比特币的价格、HelloGitHub 项目的 star 数量（欢迎 star 本项目😄），使用步骤如下：
+12、[bitbar](https://github.com/matryer/bitbar)：Bitbar 是可以将任何（自己或别人写好的）脚本的**输出**到 Mac OS 的状态栏上。同时，支持自定义更新频率。例如：定时获取比特币的价格、HelloGitHub 项目的 star 数量，使用步骤如下：
 
 1. 运行该程序，选择脚本所在目录
 2. 确保脚本的有执行权限，赋予执行权限的命令：`chmod +x script.sh`
@@ -94,7 +94,7 @@ Hello Google!
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/12/img/bitbar-show-min.png)
 
 #### 开源书籍
-13、[explore-python](https://github.com/ethan-funny/explore-python)：感谢 [ethan-funny](https://github.com/ethan-funny) **编写并推荐** 的《Python 之旅》，该书总结了 Python 相关的知识点，力求深入浅出、条理清晰。
+13、[explore-python](https://github.com/ethan-funny/explore-python)：《Python 之旅》，该书总结了 Python 相关的知识点，力求深入浅出、条理清晰。*感谢推荐人：[ethan-funny](https://github.com/ethan-funny)*
 
 14、[The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md)：《编程之法：面试和算法心得》
 
@@ -105,8 +105,6 @@ Hello Google!
 
 17、[node-interview](https://github.com/ElemeFE/node-interview)：如何通过饿了么 Node.js 面试
 
-18、[android-open-project](https://github.com/Trinea/android-open-project)：Android 开源项目集合
+18、[gophers](https://github.com/egonelbre/gophers)：Go 吉祥物的各种图片素材
 
-19、[gophers](https://github.com/egonelbre/gophers)：Go 吉祥物的各种图片素材
-
-20、[algs4](https://github.com/kevin-wayne/algs4)：（英文）算法第四版书中的示例代码（Java）
+19、[algs4](https://github.com/kevin-wayne/algs4)：（英文）算法第四版书中的示例代码（Java）

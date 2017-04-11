@@ -75,13 +75,14 @@ if __name__ == '__main__':
     run()
 ```
 
-8、[jquery-weui](https://github.com/lihongxun945/jquery-weui)：可能是最好用 WeUI 版本，展示效果如下：
+#### CSS 项目
+8、[github-markdown-css](https://github.com/sindresorhus/github-markdown-css)：仿 GitHub 的 Markdown 的样式，就是使用了这个 CSS 后，Markdown 展示效果和 GitHub 的大致一样。[示例](https://sindresorhus.com/github-markdown-css/)
+
+#### JavaScript 项目
+9、[jquery-weui](https://github.com/lihongxun945/jquery-weui)：可能是最好用 WeUI 版本，展示效果如下：
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/02/img/jquery-weui-min.png)
 
-9、[github-markdown-css](https://github.com/sindresorhus/github-markdown-css)：仿 GitHub 的 Markdown 的样式，就是使用了这个 CSS 后，Markdown 展示效果和 GitHub 的大致一样。[示例](https://sindresorhus.com/github-markdown-css/)
-
-#### JavaScript 项目
 10、[ant-motion](https://github.com/ant-motion/ant-motion)：阿里开源的项目，可以方便快捷的制作一个公司的介绍页，[在线演示](https://motion.ant.design/)
 
 11、[wechat-h5-boilerplate](https://github.com/panteng/wechat-h5-boilerplate)：为腾讯微信优化的 HTML5 动效模板，帮助你快速构建全屏滚动型 HTML5 页面，[示例](http://panteng.me/demos/whb/)
