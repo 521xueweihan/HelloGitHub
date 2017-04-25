@@ -14,6 +14,7 @@
 
 ---
 ### 往期回顾
+- [第 13 期](https://github.com/521xueweihan/HelloGitHub/blob/master/13/HelloGitHub13.md)
 - [第 12 期](https://github.com/521xueweihan/HelloGitHub/blob/master/12/HelloGitHub12.md)
 - [第 11 期](https://github.com/521xueweihan/HelloGitHub/blob/master/11/HelloGitHub11.md)
 - [第 10 期](https://github.com/521xueweihan/HelloGitHub/blob/master/10/HelloGitHub10.md)
