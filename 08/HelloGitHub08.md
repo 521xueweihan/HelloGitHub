@@ -12,9 +12,6 @@
 ｜**以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)｜
 
 #### C# 项目
-
-<details>
-
 1、[Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)：Newtonsoft.Json 是一款 .NET 平台中开源的 JSON 序列化和反序列化类库，示例代码：
 ```C#
 public class Account
@@ -51,12 +48,7 @@ string json = JsonConvert.SerializeObject(account, Formatting.Indented);
 Console.WriteLine(json);
 ```
 
-</details>
-
 #### C++ 项目
-
-<details>
-
 2、[libco](https://github.com/Tencent/libco)：腾讯的开源项目——libco 是微信后台大规模使用的 C/C++ 协程库，2013 年至今稳定运行在微信后台的数万台机器上。
 - 无需侵入业务逻辑，把多进程、多线程服务改造成协程服务，并发能力得到百倍提升
 - 支持 CGI 框架，轻松构建 Web 服务
@@ -68,23 +60,13 @@ Console.WriteLine(json);
     - 语言级别的 lambda 实现，结合协程原地编写并执行后台异步任务
     - 基于 epoll/kqueue 实现的小而轻的网络框架，基于时间轮盘实现的高性能定时器
 
-</details>
-
 #### Go 项目
-
-<details>
-
 3、[kcptun](https://github.com/xtaci/kcptun)：也许是世界上最快的 UDP 传输工具，支持 macOS/Linux/Windows/FreeBSD/ARM/Raspberry Pi/OpenWrt。
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/08/img/kcptun-show-min.png)
 
-</details>
-
 #### Java 项目
-
-<details>
-
 4、[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)：Android 开发人员不得不收集的代码，[中文介绍](https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md)
 
 5、[DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)：Bilibili 开源的，Android 开源弹幕引擎·烈焰弹幕使，特性：
@@ -100,12 +82,7 @@ Console.WriteLine(json);
 - 支持多种弹幕参数设置
 - 支持多种方式的弹幕屏蔽
 
-</details>
-
 #### JavaScript 项目
-
-<details>
-
 6、[WeFlow](https://github.com/weixin/WeFlow)：微信出品的一个高效、强大、跨平台的 Web 前端开发工作流工具，[官网](https://weflow.io/)
 
 
@@ -113,12 +90,7 @@ Console.WriteLine(json);
 
 7、[atrament.js](https://github.com/jakubfiala/atrament.js)：极小的 JavaScript 画板，[在线演示](http://fiala.uk/atrament.js/demo/)
 
-</details>
-
 #### Objective-C 项目
-
-<details>
-
 8、[aria2gui](https://github.com/yangshun1029/aria2gui)：Aria2 的 Mac 客户端（下载工具），[介绍、使用方法](http://www.jianshu.com/p/1290f8e7b326)，特点：
 - 集成了 aria2，运行后即完成配置工作
 - 多线程下载
@@ -131,12 +103,7 @@ Console.WriteLine(json);
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/08/img/aria2gui-show-min.png)
 
-</details>
-
 #### Python 项目
-
-<details>
-
 9、[reddit](https://github.com/reddit/reddit)：[reddit.com](https://www.reddit.com/) 网站的源码，通过这个项目，可以学习 Python 在构建大型项目中的使用、项目结构、代码风格、Python 技巧的使用方法等。[安装教程](https://github.com/reddit/reddit/wiki/Install-guide)
 
 
@@ -191,23 +158,13 @@ finally:
     connection.close()  # 操作完数据库一要记得调用 close 方法，关闭连接
 ```
 
-</details>
-
 #### Ruby 项目
-
-<details>
-
 12、[discourse](https://github.com/discourse/discourse)：Ruby 语言写的论坛，百分之百开源、免费。
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/08/img/discourse-show-min.png)
 
-</details>
-
 #### 其它
-
-<details>
-
 13、[How-To-Ask-Questions-The-Smart-Way](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)：提问的智慧，提出一个好的问题是解决问题的关键
 
 14、[jstraining](https://github.com/ruanyf/jstraining)：阮一峰写的全栈工程师培训材料
@@ -221,8 +178,6 @@ finally:
 18、[weex](https://github.com/alibaba/weex)：移动端，跨平台前端框架，[详细的中文档](https://github.com/weexteam/article/wiki/Weex中文文档)
 
 19、[macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)：MacOS 的安全和隐私指南，[中文翻译版](https://github.com/xitu/macOS-Security-and-Privacy-Guide/blob/master/README-cn.md)
-
-</details>
 
 
 

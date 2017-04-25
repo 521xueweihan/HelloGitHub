@@ -12,28 +12,15 @@
 ｜**以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)｜
 
 #### C# 项目
-
-<details>
-
 1、[Cowboy](https://github.com/gaochundong/Cowboy)：Cowboy.WebSockets 是一个基于 .NET/C# 实现的开源 WebSocket 网络库，[详细介绍](http://www.cnblogs.com/gaochundong/p/cowboy_websockets.html)
 
-</details>
-
 #### Go 项目
-
-<details>
-
 2、[wukong](https://github.com/huichen/wukong)：悟空引擎，是一个高度可定制的全文搜索引擎，[为什么要有悟空引擎](https://github.com/huichen/wukong/blob/master/docs/why_wukong.md)，[入门教程](https://github.com/huichen/wukong/blob/master/docs/codelab.md)，这个项目的搜索引擎原理如下：
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/06/img/wukong-show-min.png)
 
-</details>
-
 #### Java 项目
-
-<details>
-
 3、[moco](https://github.com/dreamhead/moco)：开发过程中需要依赖一些接口，这些接口要么是搭建环境困难，要么是还没有实现，要么是交互比较复杂。这种情况下，使用 mock server 来 mock（模拟）这些接口，以便开发和测试能够正常进行，*感谢推荐人：[QA_imp](https://home.cnblogs.com/u/bu1tcat/)*。快速上手步骤：
 ```
 1. 下载 Moco：https://repo1.maven.org/maven2/com/github/dreamhead/moco-runner/0.11.0/moco-runner-0.11.0-standalone.jar
@@ -57,12 +44,7 @@ java -jar moco-runner-<version>-standalone.jar http -p 12306 -c foo.json
 
 4、[disconf](https://github.com/knightliao/disconf)：**企业级开源项目 Disconf** 是一个分布式配置管理平台，专注于各种 *分布式系统配置管理* 的通用组件／通用平台，提供统一的配置管理服务。核心目标：一个 jar 包，到处运行。[在线文档](http://disconf.readthedocs.io/zh_CN/latest/index.html)
 
-</details>
-
 #### JavaScript 项目
-
-<details>
-
 5、[vue-sui-demo](https://github.com/eteplus/vue-sui-demo)：这是一个用 Vue 和 SUI-Mobile 写的移动端 Demo，可以用来学习 Vue.js。[项目线上预览](http://blog.coderfun.com/vue-sui-demo/)，效果图如下：
 
 
@@ -70,12 +52,7 @@ java -jar moco-runner-<version>-standalone.jar http -p 12306 -c foo.json
 
 6、[nodePPT](https://github.com/ksky521/nodePPT)：这可能是迄今为止最好的网页版演示库，[在线演示](http://qdemo.sinaapp.com/)
 
-</details>
-
 #### Python 项目
-
-<details>
-
 7、[Young](https://github.com/shiyanhui/Young)：基于 Tornado 框架、MongoDB 数据库，写的功能丰富的社区项目。详细的[安装步骤](https://github.com/shiyanhui/Young/blob/master/README_CN.md)，适合学习如何创建社区类 Web App。[在线预览](http://beyoung.io/)，项目运行效果图：
 
 
@@ -102,23 +79,13 @@ test_first_character()
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/06/img/qrcode-show-min.png)
 
-</details>
-
 #### Swift 项目
-
-<details>
-
 10、[12306ForMac](https://github.com/fancymax/12306ForMac)：非官方的 12306 购票，Mac OS 客户端
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/06/img/12306ForMac-show-min.png)
 
-</details>
-
 #### 其它
-
-<details>
-
 11、[Apollo-11](https://github.com/chrislgarry/Apollo-11)：阿波罗 11 号代码，[中文介绍](https://github.com/chrislgarry/Apollo-11/blob/master/README.zh_cn.md)
 
 12、[weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack)：【应用号】IDE + 破解 + Demo
@@ -145,8 +112,6 @@ brew install mercurial
 14、[hosts](https://github.com/racaljk/hosts)：最新可用的 Google hosts 文件。
 
 15、[LearningNotes](https://github.com/GeniusVJR/LearningNotes)：很全面的学习笔记，偏向 Android 和 Java
-
-</details>
 
 
 

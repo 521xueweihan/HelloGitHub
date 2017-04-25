@@ -12,17 +12,9 @@
 ｜**以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)｜
 
 #### C# 项目
-
-<details>
-
 1、[WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)：微信公众平台 SDK，支持 .NET Framework 及 .NET Core。已支持微信公众号、企业号、开放平台、微信支付、JSSDK。此项目开源、免费、持续维护。
 
-</details>
-
 #### Go 项目
-
-<details>
-
 2、[gogs](https://github.com/gogits/gogs)：用 Go 写的一款极易搭建的自助 Git 服务，支持所有平台。就像 GitLab 一样的服务，但是 GitLab 是基于 ruby 语言的。另外：完善的中文文档、支持 Go 语言支持的所有平台，包括 Linux、Mac OS X、Windows 以及 ARM 平台。[中文介绍](https://github.com/gogits/gogs/blob/master/README_ZH.md)
 
 
@@ -33,23 +25,13 @@
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/05/img/gh-ost-general-flow-min.png)
 
-</details>
-
 #### JavaScript 项目
-
-<details>
-
 4、[share.js](https://github.com/overtrue/share.js)：一键分享到微博、QQ 空间、QQ 好友、微信、腾讯微博、豆瓣等社交网站的 JavaScript 项目。[在线演示](http://overtrue.me/share.js/)
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/05/img/share-js-show-min.png)
 
-</details>
-
 #### PHP 项目
-
-<details>
-
 5、[pinyin](https://github.com/overtrue/pinyin)：PHP 写的基于 [CC-CEDICT](https://cc-cedict.org/wiki/) 词典的中文转拼音工具，更准确的支持多音字的汉字转拼音解决方案，示例代码：
 ```php
 use Overtrue\Pinyin\Pinyin;
@@ -66,12 +48,7 @@ $pinyin->convert('带着希望去旅行，比到达终点更美好', PINYIN_ASCI
 //["dai4","zhe","xi1","wang4","qu4","lv3","xing2","bi3","dao4","da2","zhong1","dian3","geng4","mei3","hao3"]
 ```
 
-</details>
-
 #### Python 项目
-
-<details>
-
 6、[superset](https://github.com/airbnb/superset)：**企业级项目**，airbnb 做的数据探索、展示平台。功能很强大，可以用来做数据分析、展示。如下图：
 
 
@@ -84,12 +61,7 @@ $pinyin->convert('带着希望去旅行，比到达终点更美好', PINYIN_ASCI
 
 8、[fuck-login](https://github.com/xchaoinfo/fuck-login)：模拟登录一些知名的网站，为了方便爬取需要登录的网站。**注意**：控制爬虫的爬取频率！
 
-</details>
-
 #### 其它
-
-<details>
-
 9、[bytesize-icons](https://github.com/danklammer/bytesize-icons)：极小、极简的 SVG 图标集合，[在线演示](http://danklammer.com/articles/svg-stroke-ftw/#give-it-a-spin)。
 
 
@@ -100,8 +72,6 @@ $pinyin->convert('带着希望去旅行，比到达终点更美好', PINYIN_ASCI
 11、[Solve-App-Store-Review-Problem](https://github.com/wg689/Solve-App-Store-Review-Problem)：App Store 审核未通过的解决方案。
 
 12、[security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers)：这是一个 checklist，作为一个 real word web developer 你应该在实际工作中不断地谨慎使用这套列表，减少安全隐患。[中文翻译版](https://github.com/FallibleInc/security-guide-for-developers/blob/master/README-zh.md)
-
-</details>
 
 
 

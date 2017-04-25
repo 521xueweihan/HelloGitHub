@@ -12,47 +12,24 @@
 ｜**以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)｜
 
 #### Android 项目
-
-<details>
-
 1、[android](https://github.com/SmartisanTech/android)：锤子开源的 One Step 项目，一步（one step）是通过拖拽完成将信息发送至应用或联系人的动作，节省了在不同应用之间切换的诸多步骤，第一次打通了手持设备中应用间的边界，[One Step](http://www.smartisan.com/m1/#/os?section=onestep)
 
 2、[android-open-project](https://github.com/Trinea/android-open-project)：Android 开源项目分类汇总
 
-</details>
-
 #### C++ 项目
-
-<details>
-
 3、[json](https://github.com/nlohmann/json)：C++ 的 JSON 库
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/09/img/json-show.gif)
 
-</details>
-
 #### Go 项目
-
-<details>
-
 4、[lantern](https://github.com/getlantern/lantern)：Lantern ——> 蓝灯
 
-</details>
-
 #### Java 项目
-
-<details>
-
 5、[MSEC](https://github.com/Tencent/MSEC)：MSEC 是腾讯开源的，毫秒服务引擎(Mass Service Engine in Cluster)
 它是一个开源框架，适用于在廉价机器组成的集群上开发和运营分布式后台服务。毫秒服务引擎集 RPC、名字发现服务、负载均衡、业务监控、灰度发布、容量管理、日志管理、key-value 存储于一体，[官网介绍](http://haomiao.qq.com/index.html#documents)
 
-</details>
-
 #### JavaScript 项目
-
-<details>
-
 6、[vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0)：这是一个 Vue2.0 示例，克隆 [Hacker News](https://news.ycombinator.com/) 网站（我感觉比原站好看多了😅）
 
 
@@ -62,20 +39,10 @@
 
 8、[pomelo](https://github.com/NetEase/pomelo)：Pomelo 网易开源的一个 Node.js 游戏服务器框架，[Demo](http://pomelo.netease.com/demo.html)
 
-</details>
-
 #### PHP 项目
-
-<details>
-
 9、[VulApps](https://github.com/Medicean/VulApps)：VulApps 是用于快速搭建各种漏洞环境，可用来学习、理解常见的漏洞，增强自己在开发过程的安全意识
 
-</details>
-
 #### Python 项目
-
-<details>
-
 10、[flask-limiter](https://github.com/alisaifee/flask-limiter)：Flask-Limiter 是一个 Flask 的扩展库，它可以根据访问者的 IP 限制其访问频率、次数等，示例代码如下：
 ```python
 from flask import Flask
@@ -123,20 +90,10 @@ ngrok http 8000
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/09/img/glances-show-min.png)
 
-</details>
-
 #### Swift 项目
-
-<details>
-
 13、[Kingfisher](https://github.com/onevcat/Kingfisher)：Kingfisher 是一个异步下载和缓存图片的库，你可以把它看做 SDWebImage 的纯 Swift 实现和替代。它可以帮助简单地实现像是用户头像或者 table view 里面的图片的下载和缓存这样的工作，以提高 app 速度和帮助开发者节省时间，[作者的中文博客](http://project.onevcat.com/)
 
-</details>
-
 #### 其它
-
-<details>
-
 14、[freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn)：freecodecamp 是一个自由的开源编程社区，[freecodecamp 中文社区](https://freecodecamp.cn)
 
 15、[Web-Frontend-Introduction-And-Best-Practicesa](https://github.com/wxyyxc1992/Web-Frontend-Introduction-And-Engineering-Practices)：Web 前端开发入门与实践练习
@@ -149,23 +106,11 @@ ngrok http 8000
 
 19、[FromXToGo](https://github.com/golang/go/wiki/FromXToGo)：（英文）如果你正从某个语言（PHP, Python, Ruby 等）想要换到 Golang 却又害怕吗？
 
-</details>
-
 #### 开源书籍
-
-<details>
-
 20、[the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN)：《The Way to Go》中文译本，中文正式名《Go 入门指南》
 
-</details>
-
 #### 机器学习
-
-<details>
-
 21、[machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)：自上而下的学习路线，软件工程师的机器学习，[中文版](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)
-
-</details>
 
 
 

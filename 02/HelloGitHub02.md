@@ -12,17 +12,9 @@
 ｜**以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)｜
 
 #### CSS 项目
-
-<details>
-
 1、[github-markdown-css](https://github.com/sindresorhus/github-markdown-css)：仿 GitHub 的 Markdown 的样式，就是使用了这个 CSS 后，Markdown 展示效果和 GitHub 的大致一样。[示例](https://sindresorhus.com/github-markdown-css/)
 
-</details>
-
 #### JavaScript 项目
-
-<details>
-
 2、[jquery-weui](https://github.com/lihongxun945/jquery-weui)：可能是最好用 WeUI 版本，展示效果如下：
 
 
@@ -44,12 +36,7 @@
 </script>
 ```
 
-</details>
-
 #### Python 项目
-
-<details>
-
 6、[luokr.com](https://github.com/alvan/luokr.com)：Python Tornado 写的开源网站——螺壳网，[访问](http://luokr.com/)，如图：
 
 
@@ -129,15 +116,8 @@ if __name__ == '__main__':
     run()
 ```
 
-</details>
-
 #### 其它
-
-<details>
-
 13、[leetcode-solutions](https://github.com/RealHacker/leetcode-solutions)：Leetcode OJ 的 Python 算法实现
-
-</details>
 
 
 

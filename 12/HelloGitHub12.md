@@ -12,9 +12,6 @@
 ｜**以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)｜
 
 #### Android 项目
-
-<details>
-
 1、[fresco](https://github.com/facebook/fresco)：Facebook 开源的 Android 管理图片的库，[中文文档](https://www.fresco-cn.org/docs/index.html)。包含功能如下：
 - 显示占位图直到加载完成
 - 下载图片
@@ -22,32 +19,17 @@
 - 图片不再显示时，从内存中移除
 - 等等
 
-</details>
-
 #### C 项目
-
-<details>
-
 2、[tbox](https://github.com/tboox/tbox)：一个用 C 语言实现的跨平台开发库，用于解决不同操作系统的兼容问题，并且充分利用了各个平台独有的一些特性进行优化。[中文说明](https://github.com/tboox/tbox/blob/master/README_zh.md)
 
 
-</details>
-
 #### C# 项目
-
-<details>
-
 3、[ScreenToGif](https://github.com/NickeManarin/ScreenToGif)：此工具可以记录屏幕的选定区域、网络摄像头的实时图像和绘图板上的实时图像。可以编辑并将动画保存为 GIF 或视频
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/12/img/screen-to-gif-show-min.png)
 
-</details>
-
 #### Go 项目
-
-<details>
-
 4、[wuzz](https://github.com/asciimoo/wuzz)：wuzz 是用于调试 HTTP 请求的交互式命令行工具，可以用来检查和修改请求。常用操作如下：
 
 | Keybinding | Description |
@@ -78,12 +60,7 @@
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/12/img/sshtron.gif)
 
-</details>
-
 #### JavaScript 项目
-
-<details>
-
 6、[vue2-elm](https://github.com/bailicangdu/vue2-elm)：基于 vue2 + vuex 构建一个大型单页面应用，此项目大大小小共 45 个页面，涉及注册、登录、商品展示、购物车、下单等等，是一个完整的流程，
 
 
@@ -98,12 +75,7 @@
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/12/img/octotree-show-min.png)
 
-</details>
-
 #### Objective-C 项目
-
-<details>
-
 10、[bitbar](https://github.com/matryer/bitbar)：Bitbar 是可以将任何（自己或别人写好的）脚本的**输出**到 Mac OS 的状态栏上。同时，支持自定义更新频率。例如：定时获取比特币的价格、HelloGitHub 项目的 star 数量，使用步骤如下：
 
 1. 运行该程序，选择脚本所在目录
@@ -113,12 +85,7 @@
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/12/img/bitbar-show-min.png)
 
-</details>
-
 #### Python 项目
-
-<details>
-
 11、[mycli](https://github.com/dbcli/mycli)：mycli 是一个带语法高亮、自动补全的 MySQL 命令行客户端工具。例如，连接数据库方法：`mycli -h localhost -u 用户名 数据库`
 
 
@@ -146,12 +113,7 @@ $ ./example.py hello --name=Google
 Hello Google!
 ```
 
-</details>
-
 #### 其它
-
-<details>
-
 13、[performance-column](https://github.com/barretlee/performance-column)：[阿里胡子哥](https://github.com/barretlee)写的《性能专栏》，旨在提升 PC/H5/Native 等多个端上对性能的认知，[阅读地址](https://github.com/barretlee/performance-column/issues)
 
 14、[node-interview](https://github.com/ElemeFE/node-interview)：如何通过饿了么 Node.js 面试
@@ -160,19 +122,12 @@ Hello Google!
 
 16、[algs4](https://github.com/kevin-wayne/algs4)：（英文）算法第四版书中的示例代码（Java）
 
-</details>
-
 #### 开源书籍
-
-<details>
-
 17、[explore-python](https://github.com/ethan-funny/explore-python)：《Python 之旅》，该书总结了 Python 相关的知识点，力求深入浅出、条理清晰。*感谢推荐人：[ethan-funny](https://github.com/ethan-funny)*
 
 18、[The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md)：《编程之法：面试和算法心得》
 
 19、[react-naive-book](https://github.com/huzidaha/react-naive-book)：开源、免费、专业、简单的 React.js 教程
-
-</details>
 
 
 
