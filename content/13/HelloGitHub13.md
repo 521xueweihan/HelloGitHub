@@ -1,21 +1,25 @@
 # 《HelloGitHub》第 13 期
 >兴趣是最好的老师，HelloGitHub 就是帮你找到兴趣！
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/01/img/hello-github.jpg)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/hello-github.jpg)
 
 ## 简介
-**分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。**
+**HelloGitHub —— 分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。**
+
+最开始我只是想把自己在浏览 GitHub 过程中，发现的有意思、高质量、容易上手的项目收集起来，这样便于以后查找和学习。后来一想，如果给这些 GitHub 项目都加上简单的效果图和一些通俗易懂的中文介绍。应该能够帮助到我这样的新手激发兴趣去参与、学习这些优秀、好玩的开源项目。
+
+所以，我就做了一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 的人群的月刊，月刊的内容包括：**各种编程语言的项目**、**各种让生活变得更美好的工具**、**书籍、学习笔记、教程等**。这些项目都是非常容易上手，而且非常 Cool，主要是希望大家能动手用起来，加入到**开源社区**中。会编程的可以贡献代码，不会编程的可以反馈使用这些工具中的 Bug、帮着宣传你觉得优秀的项目、Star 项目⭐️。同时你将学习到更多编程知识、提高自己的编程技巧、发现自己的**兴趣**。
 
 🎉 然后 [HelloGitHub](https://hellogithub.com/) 这个项目就诞生了 🎉
 
 ---
-｜**以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)｜
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)
 
 #### Android 项目
 1、[Grav](https://github.com/glomadrian/Grav)：Android 粒子动画效果，非常炫酷。让 APP 逼格更上一层楼，*感谢推荐人：[jp1017](https://github.com/jp1017)*
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/13/img/Grav.gif)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/Grav.gif)
 
 2、[AndroidLibs](https://github.com/XXApple/AndroidLibs)：Android 开源代码大全，收集 Android 开发中优秀的开源组件库，方便大家查询，*感谢推荐人：[jp1017](https://github.com/jp1017)*
 
@@ -28,7 +32,7 @@
 5、[Dopamine](https://github.com/digimezzo/Dopamine)：基于WPF编写的现代扁平风格轻量级播放器，*感谢推荐人：[PeoLeser](https://github.com/PeoLeser)*
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/13/img/Dopamine-show-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/Dopamine-show-min.png)
 
 #### C++ 项目
 6、[ltp](https://github.com/HIT-SCIR/ltp)：语言技术平台（Language Technology Platform，LTP）是哈工大社会计算与信息检索研究中心历时十年开发的一整套中文语言处理系统。
@@ -37,7 +41,7 @@
 7、[dnt](https://github.com/shiyanhui/dht)：DHT 实现了 BitTorrent DHT 协议，它包含两种模式，标准模式和爬虫模式。标准模式遵循 DHT 协议，你可以把它当做一个标准的 DHT 组件。爬虫模式是为了嗅探到更多 torrent 文件信息，它在某些方面不遵循 DHT 协议。 基于爬虫模式，你可以打造你自己的 BTDigg，[演示地址](http://bthub.io/)
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/13/img/dnt-show-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/dnt-show-min.png)
 
 8、[gobyexample](https://github.com/mmcgrana/gobyexample)：Go 示例代码，[在线浏览](https://gobyexample.com/)
 
@@ -49,17 +53,17 @@
 11、[gifify](https://github.com/vvo/gifify)：可以选择视频文件的某一时间间隔做成 gif 动图
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/13/img/gifify.gif)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/gifify.gif)
 
 12、[cmder](https://github.com/cmderdev/cmder)：Windows 控制台模拟器，运行效果如下：
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/13/img/cmder-show-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/cmder-show-min.png)
 
 13、[Vue2.0LOL](https://github.com/arronf2e/Vue2.0LOL)：Vue2.0 版英雄联盟助手，*感谢推荐人：[arronf2e](https://github.com/arronf2e)*
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/13/img/vue2.0lol-show-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/vue2.0lol-show-min.png)
 
 14、[typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)：TypeScript 入门教程
 
@@ -67,7 +71,7 @@
 15、[PYSearch](https://github.com/iphone5solo/PYSearch)：一款综合（QQ 音乐、微信、美团、优酷、虎牙直播等多款 App）风格的搜索控制器，*感谢推荐人：[iphone5solo](https://github.com/iphone5solo)*
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/13/img/PYSearch-show-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/PYSearch-show-min.png)
 
 16、[PPRows](https://github.com/jkpang/PPRows)：在 Mac 上计算你写了多少行代码的工具，*感谢推荐人：[jkpang](https://github.com/jkpang)*
 
@@ -79,7 +83,7 @@
 6. 支持忽略代码中的空行, 代码行数计算更精确.
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/13/img/PPRows.gif)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/PPRows.gif)
 
 #### Python 项目
 17、[ngxtop](https://github.com/lebinh/ngxtop)：解析 nginx 访问日志并格式化输出有用的信息，可以用来实时了解你的服务器正在发生的情况。安装命令 `pip install ngxtop`，输出示例如下：
@@ -146,7 +150,7 @@ Request failed
 23、[SwitchHosts](https://github.com/oldj/SwitchHosts)：一个用于快速切换 hosts 文件的小程序，基于 Electron 开发，*感谢推荐人：[jp1017](https://github.com/jp1017)*
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/13/img/SwitchHosts-show-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/SwitchHosts-show-min.png)
 
 24、[alloyteam](https://github.com/AlloyTeam/alloyteam.github.com)：腾讯 AlloyTeam 开源项目官网
 

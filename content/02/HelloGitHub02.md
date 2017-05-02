@@ -1,15 +1,19 @@
 # 《HelloGitHub》第 02 期
 >兴趣是最好的老师，HelloGitHub 就是帮你找到兴趣！
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/01/img/hello-github.jpg)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/hello-github.jpg)
 
 ## 简介
-**分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。**
+**HelloGitHub —— 分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。**
+
+最开始我只是想把自己在浏览 GitHub 过程中，发现的有意思、高质量、容易上手的项目收集起来，这样便于以后查找和学习。后来一想，如果给这些 GitHub 项目都加上简单的效果图和一些通俗易懂的中文介绍。应该能够帮助到我这样的新手激发兴趣去参与、学习这些优秀、好玩的开源项目。
+
+所以，我就做了一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 的人群的月刊，月刊的内容包括：**各种编程语言的项目**、**各种让生活变得更美好的工具**、**书籍、学习笔记、教程等**。这些项目都是非常容易上手，而且非常 Cool，主要是希望大家能动手用起来，加入到**开源社区**中。会编程的可以贡献代码，不会编程的可以反馈使用这些工具中的 Bug、帮着宣传你觉得优秀的项目、Star 项目⭐️。同时你将学习到更多编程知识、提高自己的编程技巧、发现自己的**兴趣**。
 
 🎉 然后 [HelloGitHub](https://hellogithub.com/) 这个项目就诞生了 🎉
 
 ---
-｜**以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)｜
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)
 
 #### CSS 项目
 1、[github-markdown-css](https://github.com/sindresorhus/github-markdown-css)：仿 GitHub 的 Markdown 的样式，就是使用了这个 CSS 后，Markdown 展示效果和 GitHub 的大致一样。[示例](https://sindresorhus.com/github-markdown-css/)
@@ -18,7 +22,7 @@
 2、[jquery-weui](https://github.com/lihongxun945/jquery-weui)：可能是最好用 WeUI 版本，展示效果如下：
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/02/img/jquery-weui-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/02/img/jquery-weui-min.png)
 
 3、[ant-motion](https://github.com/ant-motion/ant-motion)：阿里开源的项目，可以方便快捷的制作一个公司的介绍页，[在线演示](https://motion.ant.design/)
 
@@ -40,17 +44,17 @@
 6、[luokr.com](https://github.com/alvan/luokr.com)：Python Tornado 写的开源网站——螺壳网，[访问](http://luokr.com/)，如图：
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/02/img/%E8%9E%BA%E5%A3%B3%E7%BD%91-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/02/img/%E8%9E%BA%E5%A3%B3%E7%BD%91-min.png)
 
 7、[ssbc](https://github.com/78/ssbc)：Python Django 写的种子搜索网站——手撕包菜，[访问](http://www.cilibaba.com/)，如图：
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/02/img/%E6%89%8B%E6%92%95%E5%8C%85%E8%8F%9C%E7%BD%91-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/02/img/%E6%89%8B%E6%92%95%E5%8C%85%E8%8F%9C%E7%BD%91-min.png)
 
 8、[listen1](https://github.com/listen1)：Listen 1 让你用一个网页就能听到多个网站的在线音乐，支持各种平台。如图：
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/02/img/listen1-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/02/img/listen1-min.png)
 
 9、[python-gems](https://github.com/RealHacker/python-gems)：有趣的 Pyhton 代码片段集合
 

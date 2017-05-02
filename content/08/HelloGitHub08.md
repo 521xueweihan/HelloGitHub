@@ -1,15 +1,19 @@
 # 《HelloGitHub》第 08 期
 >兴趣是最好的老师，HelloGitHub 就是帮你找到兴趣！
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/01/img/hello-github.jpg)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/hello-github.jpg)
 
 ## 简介
-**分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。**
+**HelloGitHub —— 分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。**
+
+最开始我只是想把自己在浏览 GitHub 过程中，发现的有意思、高质量、容易上手的项目收集起来，这样便于以后查找和学习。后来一想，如果给这些 GitHub 项目都加上简单的效果图和一些通俗易懂的中文介绍。应该能够帮助到我这样的新手激发兴趣去参与、学习这些优秀、好玩的开源项目。
+
+所以，我就做了一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 的人群的月刊，月刊的内容包括：**各种编程语言的项目**、**各种让生活变得更美好的工具**、**书籍、学习笔记、教程等**。这些项目都是非常容易上手，而且非常 Cool，主要是希望大家能动手用起来，加入到**开源社区**中。会编程的可以贡献代码，不会编程的可以反馈使用这些工具中的 Bug、帮着宣传你觉得优秀的项目、Star 项目⭐️。同时你将学习到更多编程知识、提高自己的编程技巧、发现自己的**兴趣**。
 
 🎉 然后 [HelloGitHub](https://hellogithub.com/) 这个项目就诞生了 🎉
 
 ---
-｜**以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)｜
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)
 
 #### C# 项目
 1、[Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)：Newtonsoft.Json 是一款 .NET 平台中开源的 JSON 序列化和反序列化类库，示例代码：
@@ -64,7 +68,7 @@ Console.WriteLine(json);
 3、[kcptun](https://github.com/xtaci/kcptun)：也许是世界上最快的 UDP 传输工具，支持 macOS/Linux/Windows/FreeBSD/ARM/Raspberry Pi/OpenWrt。
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/08/img/kcptun-show-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/08/img/kcptun-show-min.png)
 
 #### Java 项目
 4、[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)：Android 开发人员不得不收集的代码，[中文介绍](https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md)
@@ -86,7 +90,7 @@ Console.WriteLine(json);
 6、[WeFlow](https://github.com/weixin/WeFlow)：微信出品的一个高效、强大、跨平台的 Web 前端开发工作流工具，[官网](https://weflow.io/)
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/08/img/weflow-show-min.jpeg)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/08/img/weflow-show-min.jpeg)
 
 7、[atrament.js](https://github.com/jakubfiala/atrament.js)：极小的 JavaScript 画板，[在线演示](http://fiala.uk/atrament.js/demo/)
 
@@ -101,18 +105,18 @@ Console.WriteLine(json);
 - 任务完成通知
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/08/img/aria2gui-show-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/08/img/aria2gui-show-min.png)
 
 #### Python 项目
 9、[reddit](https://github.com/reddit/reddit)：[reddit.com](https://www.reddit.com/) 网站的源码，通过这个项目，可以学习 Python 在构建大型项目中的使用、项目结构、代码风格、Python 技巧的使用方法等。[安装教程](https://github.com/reddit/reddit/wiki/Install-guide)
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/08/img/reddit-show-min.jpg)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/08/img/reddit-show-min.jpg)
 
 10、[httpstat](https://github.com/reorx/httpstat)：httpstat 美化了 `curl` 的结果，使得结果更加可读。同时它无依赖、兼容 Python3、一共才 300 多行。还可以显示 HTTP 请求的每个过程中消耗的时间，如下图：
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/08/img/httpstat-show-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/08/img/httpstat-show-min.png)
 
 11、[PyMySQL](https://github.com/PyMySQL/PyMySQL)：纯 Pyton 写的 MySQL 库，纯 Python 的好处就是可以运行在任何装有 Python 解释器（CPython、PyPy、IronPython）的平台上。相对于 [MySQLdb](https://github.com/farcepest/MySQLdb1) 性能几乎一样，使用方法也一样，但是 **PyMySQL 安装方法极其简单**——`pip install PyMySQL`，PyMySQL 使用示例代码：
 ```
@@ -162,7 +166,7 @@ finally:
 12、[discourse](https://github.com/discourse/discourse)：Ruby 语言写的论坛，百分之百开源、免费。
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/08/img/discourse-show-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/08/img/discourse-show-min.png)
 
 #### 其它
 13、[How-To-Ask-Questions-The-Smart-Way](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)：提问的智慧，提出一个好的问题是解决问题的关键

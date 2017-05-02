@@ -1,7 +1,7 @@
 # GitHub Bot
 >兴趣是最好的老师，[HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 就是帮你找到兴趣！
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/01/img/hello-github.jpg)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/hello-github.jpg)
 
 ## 运行步骤
 这个脚本主要使用收集 GitHub 上优秀的项目，用于编写[《HelloGitHub 月刊》](https://github.com/521xueweihan/HelloGitHub)，后面还会持续开发～

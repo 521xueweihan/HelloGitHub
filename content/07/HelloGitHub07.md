@@ -1,15 +1,19 @@
 # 《HelloGitHub》第 07 期
 >兴趣是最好的老师，HelloGitHub 就是帮你找到兴趣！
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/01/img/hello-github.jpg)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/hello-github.jpg)
 
 ## 简介
-**分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。**
+**HelloGitHub —— 分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。**
+
+最开始我只是想把自己在浏览 GitHub 过程中，发现的有意思、高质量、容易上手的项目收集起来，这样便于以后查找和学习。后来一想，如果给这些 GitHub 项目都加上简单的效果图和一些通俗易懂的中文介绍。应该能够帮助到我这样的新手激发兴趣去参与、学习这些优秀、好玩的开源项目。
+
+所以，我就做了一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 的人群的月刊，月刊的内容包括：**各种编程语言的项目**、**各种让生活变得更美好的工具**、**书籍、学习笔记、教程等**。这些项目都是非常容易上手，而且非常 Cool，主要是希望大家能动手用起来，加入到**开源社区**中。会编程的可以贡献代码，不会编程的可以反馈使用这些工具中的 Bug、帮着宣传你觉得优秀的项目、Star 项目⭐️。同时你将学习到更多编程知识、提高自己的编程技巧、发现自己的**兴趣**。
 
 🎉 然后 [HelloGitHub](https://hellogithub.com/) 这个项目就诞生了 🎉
 
 ---
-｜**以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)｜
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)
 
 #### C 项目
 1、[BaiduPCS](https://github.com/GangZhuo/BaiduPCS)：C 写的百度网盘命令行工具，[在线文档](https://github.com/GangZhuo/BaiduPCS/wiki/BaiduPCS-基本使用)
@@ -18,7 +22,7 @@
 2、[MongoCola](https://github.com/magicdict/MongoCola)：MongoCola 是一个开源的 MongoDB 管理工具。持续开发、维护已经有**五年**了，[开发历程](http://www.cnblogs.com/TextEditor/p/5473190.html)，效果图如下：
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/07/img/mongocola-show-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/07/img/mongocola-show-min.png)
 
 #### C++ 项目
 3、[cpr](https://github.com/whoshuu/cpr)：C++ 版 `Request for human`，[在线文档](https://whoshuu.github.io/cpr/)，示例代码：
@@ -44,12 +48,12 @@ int main(int argc, char** argv) {
 #### JavaScript 项目
 6、[nodeclub](https://github.com/cnodejs/nodeclub)：Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统，[社区地址](http://cnodejs.org
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/07/img/nodeclub-show-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/07/img/nodeclub-show-min.png)
 
 7、[clipboard](https://github.com/zenorocha/clipboard.js)：实现了点击文本内容的 JavaScript 插件，优点：最新、极小、无任依赖、使用简单方便。[在线文档](https://clipboardjs.com)
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/07/img/clipboard-show-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/07/img/clipboard-show-min.png)
 
 #### Objective-C 项目
 8、[PYPhotoBrowser](https://github.com/iphone5solo/PYPhotoBrowser)：高仿 QQ、微信效果的图片浏览器（支持原图和缩略图、多种手势、CocoaPods），*感谢推荐人：[CoderKo1o](https://github.com/iphone5solo)*
@@ -58,7 +62,7 @@ int main(int argc, char** argv) {
 9、[httpie](https://github.com/jkbrzt/httpie)：非常好用的命令行 HTTP 客户端，cURL 的替代者，返回的结果支持**高亮**，提高了可读性。用于调试接口、查看服务器返回的 HTTP 协议的信息。[在线文档](https://httpie.org/docs#examples)，下面的是 cURL 和 httpie 的返回结果对比图：
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/07/img/httpie-show-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/07/img/httpie-show-min.png)
 
 10、[langid](https://github.com/saffsd/langid.py)：用于识别输入文本数据所属的语种，目前支持 97 种语言识别。*感谢推荐人：[zhbzz2007](https://github.com/zhbzz2007)*。示例代码：
 ```python

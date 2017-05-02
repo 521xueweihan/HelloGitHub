@@ -1,15 +1,19 @@
 # 《HelloGitHub》第 09 期
 >兴趣是最好的老师，HelloGitHub 就是帮你找到兴趣！
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/01/img/hello-github.jpg)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/hello-github.jpg)
 
 ## 简介
-**分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。**
+**HelloGitHub —— 分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。**
+
+最开始我只是想把自己在浏览 GitHub 过程中，发现的有意思、高质量、容易上手的项目收集起来，这样便于以后查找和学习。后来一想，如果给这些 GitHub 项目都加上简单的效果图和一些通俗易懂的中文介绍。应该能够帮助到我这样的新手激发兴趣去参与、学习这些优秀、好玩的开源项目。
+
+所以，我就做了一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 的人群的月刊，月刊的内容包括：**各种编程语言的项目**、**各种让生活变得更美好的工具**、**书籍、学习笔记、教程等**。这些项目都是非常容易上手，而且非常 Cool，主要是希望大家能动手用起来，加入到**开源社区**中。会编程的可以贡献代码，不会编程的可以反馈使用这些工具中的 Bug、帮着宣传你觉得优秀的项目、Star 项目⭐️。同时你将学习到更多编程知识、提高自己的编程技巧、发现自己的**兴趣**。
 
 🎉 然后 [HelloGitHub](https://hellogithub.com/) 这个项目就诞生了 🎉
 
 ---
-｜**以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)｜
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)
 
 #### Android 项目
 1、[android](https://github.com/SmartisanTech/android)：锤子开源的 One Step 项目，一步（one step）是通过拖拽完成将信息发送至应用或联系人的动作，节省了在不同应用之间切换的诸多步骤，第一次打通了手持设备中应用间的边界，[One Step](http://www.smartisan.com/m1/#/os?section=onestep)
@@ -20,7 +24,7 @@
 3、[json](https://github.com/nlohmann/json)：C++ 的 JSON 库
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/09/img/json-show.gif)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/09/img/json-show.gif)
 
 #### Go 项目
 4、[lantern](https://github.com/getlantern/lantern)：Lantern ——> 蓝灯
@@ -33,7 +37,7 @@
 6、[vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0)：这是一个 Vue2.0 示例，克隆 [Hacker News](https://news.ycombinator.com/) 网站（我感觉比原站好看多了😅）
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/09/img/vue-hackernews-show-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/09/img/vue-hackernews-show-min.png)
 
 7、[N-blog](https://github.com/nswbmw/N-blog)：N-blog 项目是面向新手的 Node.js 教程，该教程讲述了 Node.js 基本知识点，同时结合搭建一个多人博客的实战，从零基础到实际开发，由浅到深帮助新手入门 Node.js 这门语言
 
@@ -83,12 +87,12 @@ ngrok http 8000
 ```
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/09/img/ngrok-show-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/09/img/ngrok-show-min.png)
 
 12、[glances](https://github.com/nicolargo/glances)：Glances 是一个可以让你**一目了然**你的系统情况（类 top、htop)的工具，它界面友好，安装方便：`pip install glances`
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/09/img/glances-show-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/09/img/glances-show-min.png)
 
 #### Swift 项目
 13、[Kingfisher](https://github.com/onevcat/Kingfisher)：Kingfisher 是一个异步下载和缓存图片的库，你可以把它看做 SDWebImage 的纯 Swift 实现和替代。它可以帮助简单地实现像是用户头像或者 table view 里面的图片的下载和缓存这样的工作，以提高 app 速度和帮助开发者节省时间，[作者的中文博客](http://project.onevcat.com/)

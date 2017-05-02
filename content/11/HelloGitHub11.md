@@ -1,21 +1,25 @@
 # 《HelloGitHub》第 11 期
 >兴趣是最好的老师，HelloGitHub 就是帮你找到兴趣！
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/01/img/hello-github.jpg)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/hello-github.jpg)
 
 ## 简介
-**分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。**
+**HelloGitHub —— 分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。**
+
+最开始我只是想把自己在浏览 GitHub 过程中，发现的有意思、高质量、容易上手的项目收集起来，这样便于以后查找和学习。后来一想，如果给这些 GitHub 项目都加上简单的效果图和一些通俗易懂的中文介绍。应该能够帮助到我这样的新手激发兴趣去参与、学习这些优秀、好玩的开源项目。
+
+所以，我就做了一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 的人群的月刊，月刊的内容包括：**各种编程语言的项目**、**各种让生活变得更美好的工具**、**书籍、学习笔记、教程等**。这些项目都是非常容易上手，而且非常 Cool，主要是希望大家能动手用起来，加入到**开源社区**中。会编程的可以贡献代码，不会编程的可以反馈使用这些工具中的 Bug、帮着宣传你觉得优秀的项目、Star 项目⭐️。同时你将学习到更多编程知识、提高自己的编程技巧、发现自己的**兴趣**。
 
 🎉 然后 [HelloGitHub](https://hellogithub.com/) 这个项目就诞生了 🎉
 
 ---
-｜**以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)｜
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)
 
 #### Android 项目
 1、[WechatLuckyMoney](https://github.com/veryyoung/WechatLuckyMoney)：微信抢红包插件，基于 Xposed 框架，速度快得冷人发指。为避免过度拉仇恨，请谨慎使用（哈哈哈😄）。
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/11/img/wechatluckymoney.gif)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/11/img/wechatluckymoney.gif)
 
 2、[GitClub](https://github.com/TellH/GitClub)：GitClub 不仅仅是一个 GitHub 客户端，还是一个发现优秀 GitHub 开源项目的 App
 
@@ -51,18 +55,18 @@ Transfer/sec:    606.33MB
 - 部署简单，不依赖 Tomcat
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/11/img/tale-show-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/11/img/tale-show-min.png)
 
 6、[jvm-mon](https://github.com/ajermakovics/jvm-mon)：命令行模式的 JVM 监控
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/11/img/jvm-show-min.png)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/11/img/jvm-show-min.png)
 
 #### Javascript 项目
 7、[react-tetris](https://github.com/chvin/react-tetris)：逼真的俄罗斯方块（非常逼真、强大！），详细的技术介绍，[在线试玩](https://chvin.github.io/react-tetris/?lan=zh)
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/11/img/tetris.gif)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/11/img/tetris.gif)
 
 #### Python 项目
 8、[sh](https://github.com/amoffat/sh)：sh 是一个成熟，用于替代 subprocess，它允许你调用任何程序，就像它是一个函数，支持 Python2.6 - 3.5
@@ -82,7 +86,7 @@ print ifconfig("eth0")
 11、[Swift30Projects](https://github.com/soapyigu/Swift30Projects)：30 个小型 Swift Apps，可以用来上手学习、练习移动开发。
 
 
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/11/img/swift30projects-show-min.jpg)
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/11/img/swift30projects-show-min.jpg)
 
 #### 其它
 12、[linux-command](https://github.com/jaywcjlove/linux-command)：Linux 命令大全搜索工具，内容包含 Linux 命令手册、详解、学习、搜集

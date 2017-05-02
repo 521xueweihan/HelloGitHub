@@ -1,4 +1,4 @@
-# HelloGitHub
+# 《HelloGitHub》第 {{ hello_github_num }} 期
 >兴趣是最好的老师，HelloGitHub 就是帮你找到兴趣！
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/img/hello-github.jpg)
@@ -10,28 +10,12 @@
 
 所以，我就做了一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 的人群的月刊，月刊的内容包括：**各种编程语言的项目**、**各种让生活变得更美好的工具**、**书籍、学习笔记、教程等**。这些项目都是非常容易上手，而且非常 Cool，主要是希望大家能动手用起来，加入到**开源社区**中。会编程的可以贡献代码，不会编程的可以反馈使用这些工具中的 Bug、帮着宣传你觉得优秀的项目、Star 项目⭐️。同时你将学习到更多编程知识、提高自己的编程技巧、发现自己的**兴趣**。
 
-🎉 最后 [HelloGitHub](http://hellogithub.com/) 这个项目就诞生了 🎉
+🎉 然后 [HelloGitHub](https://hellogithub.com/) 这个项目就诞生了 🎉
 
 ---
-### 往期回顾
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)
 
-<details>
-
-- [第 13 期](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/HelloGitHub13.md)
-- [第 12 期](https://github.com/521xueweihan/HelloGitHub/blob/master/content/12/HelloGitHub12.md)
-- [第 11 期](https://github.com/521xueweihan/HelloGitHub/blob/master/content/11/HelloGitHub11.md)
-- [第 10 期](https://github.com/521xueweihan/HelloGitHub/blob/master/content/10/HelloGitHub10.md)
-- [第 09 期](https://github.com/521xueweihan/HelloGitHub/blob/master/content/09/HelloGitHub09.md)
-- [第 08 期](https://github.com/521xueweihan/HelloGitHub/blob/master/content/08/HelloGitHub08.md)
-- [第 07 期](https://github.com/521xueweihan/HelloGitHub/blob/master/content/07/HelloGitHub07.md)
-- [第 06 期](https://github.com/521xueweihan/HelloGitHub/blob/master/content/06/HelloGitHub06.md)
-- [第 05 期](https://github.com/521xueweihan/HelloGitHub/blob/master/content/05/HelloGitHub05.md)
-- [第 04 期](https://github.com/521xueweihan/HelloGitHub/blob/master/content/04/HelloGitHub04.md)
-- [第 03 期](https://github.com/521xueweihan/HelloGitHub/blob/master/content/03/HelloGitHub03.md)
-- [第 02 期](https://github.com/521xueweihan/HelloGitHub/blob/master/content/02/HelloGitHub02.md)
-- [第 01 期](https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/HelloGitHub01.md)
-
-</details>
+{{ hello_github_content }}
 
 ---
 
