@@ -65,3 +65,7 @@ local_settings.py
 
 # mac
 .DS_Store
+
+# hellogithub
+*.db
+content*.md

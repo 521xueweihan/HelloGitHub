@@ -29,7 +29,7 @@ ACCOUNT = {
 }
 
 API = {
-    'events': 'https://api.github.com/users/{username}/received_events/public'.format(username=ACCOUNT['username'])
+    'events': 'https://api.github.com/users/{username}/received_events'.format(username=ACCOUNT['username'])
 }
 
 # 发送邮件，邮箱的信息
@@ -47,6 +47,9 @@ RECEIVERS = []
 # 几天前
 DAY = 1
 
+# 项目stars临界值
+STARS = 100
+
 # qq邮件服务文档：http://service.mail.qq.com/cgi-bin/help?id=28
 
 
@@ -56,21 +59,22 @@ CONTENT_FORMAT = """
         <th>头像</th>
         <th>用户名</th>
         <th>项目名</th>
-        <th>starred日期</th>
-        <th>项目star数量</th>
+        <th>starred 日期</th>
+        <th>项目 star 数量</th>
       </tr>
       {project_info_string}
     </table>
 """
 
 
-def get_data(page=1, per_page=100):
+def get_data(page=1):
     """
     从目标源获取数据
+    https://developer.github.com/v3/activity/events/
+    GitHub 规定：默认每页 30 条，最多 300 条目
     """
 
-    args = '?page={page}&per_page={per_page}'.format(
-        page=page, per_page=per_page)
+    args = '?page={page}'.format(page=page)
 
     response = requests.get(API['events']+args,
                             auth=(ACCOUNT['username'], ACCOUNT['password']))
@@ -79,8 +83,22 @@ def get_data(page=1, per_page=100):
         resp_json = response.json()
         return resp_json
     else:
-        logging.error('请求api失败：', status_code)
-        return None
+        logging.error('请求 event api 失败：', status_code)
+        return []
+
+
+def get_all_data():
+    """
+    获取全部 300 条的数据
+    https://developer.github.com/v3/activity/events/
+    GitHub 规定：默认每页 30 条，最多 300 条目
+    """
+    all_data_list = []
+    for i in range(10):
+        response_json = get_data(i+1)
+        if response_json:
+            all_data_list.extend(response_json)
+    return all_data_list
 
 
 def check_condition(data):
@@ -115,7 +133,7 @@ def analyze(json_data):
 
 def get_stars(data):
     """
-    获取stars数量
+    获取stars数量，同时过滤掉stars数量少的项目
     """
     project_info_list = []
     for fi_data in data:
@@ -137,7 +155,9 @@ def get_stars(data):
             logger.warning(u'获取：{} 项目星数失败——{}'.format(
                 project_info['repo_name'], e))
         finally:
-            project_info_list.append(project_info)
+            if project_info['repo_stars'] >= STARS or project_info['repo_stars'] == -1:
+                # 过滤掉star数量低于临界值的项目
+                project_info_list.append(project_info)
     project_info_list = sorted(project_info_list, key=itemgetter('repo_stars'), reverse=True)
     return project_info_list
 
@@ -146,7 +166,7 @@ def make_content():
     """
     生成发布邮件的内容
     """
-    json_data = get_data()
+    json_data = get_all_data()
     data = analyze(json_data)
     content = []
     project_info_list = get_stars(data)
@@ -175,10 +195,10 @@ def send_email(receivers, email_content):
         CONTENT_FORMAT.format(project_info_string=''.join(email_content)),
         'html', 'utf-8'
     )
-    message['From'] = Header(u'Github机器人', 'utf-8')
+    message['From'] = Header(u'GitHub 机器人', 'utf-8')
     message['To'] = Header(u'削微寒', 'utf-8')
 
-    subject = u'今日Github热点'  # 设置邮件主题
+    subject = u'今日 GitHub 热点'  # 设置邮件主题
     message['Subject'] = Header(subject, 'utf-8')
     try:
         smtp_obj = smtplib.SMTP_SSL()  # qq邮箱要求是https连接，所以需要用SMTP_SSL
