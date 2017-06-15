@@ -15,16 +15,8 @@
 ---
 > **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)
 
-#### Android 项目
-1、[WechatLuckyMoney](https://github.com/veryyoung/WechatLuckyMoney)：微信抢红包插件，基于 Xposed 框架，速度快得冷人发指。为避免过度拉仇恨，请谨慎使用（哈哈哈😄）。
-
-
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/11/img/wechatluckymoney.gif)
-
-2、[GitClub](https://github.com/TellH/GitClub)：GitClub 不仅仅是一个 GitHub 客户端，还是一个发现优秀 GitHub 开源项目的 App
-
 #### C 项目
-3、[wrk](https://github.com/wg/wrk)：现代 HTTP 基准测试（实现对一类测试对象的某项性能指标进行定量的和可对比的测试）工具，使用示例：
+1、[wrk](https://github.com/wg/wrk)：现代 HTTP 基准测试（实现对一类测试对象的某项性能指标进行定量的和可对比的测试）工具，使用示例：
 ```sh
 # 输入命令
 wrk -t12 -c400 -d30s http://127.0.0.1:8080/index.html
@@ -41,9 +33,16 @@ Transfer/sec:    606.33MB
 ```
 
 #### Go 项目
-4、[negroni](https://github.com/urfave/negroni)：Negroni 是一个很地道的 Web 中间件，它不是一个框架，是为了方便使用 net/http 而设计的一个库而已。[中文介绍](https://github.com/urfave/negroni/blob/master/translations/README_zh_cn.md)
+2、[negroni](https://github.com/urfave/negroni)：Negroni 是一个很地道的 Web 中间件，它不是一个框架，是为了方便使用 net/http 而设计的一个库而已。[中文介绍](https://github.com/urfave/negroni/blob/master/translations/README_zh_cn.md)
 
 #### Java 项目
+3、[WechatLuckyMoney](https://github.com/veryyoung/WechatLuckyMoney)：微信抢红包插件，基于 Xposed 框架，速度快得冷人发指。为避免过度拉仇恨，请谨慎使用（哈哈哈😄）。
+
+
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/11/img/wechatluckymoney.gif)
+
+4、[GitClub](https://github.com/TellH/GitClub)：GitClub 不仅仅是一个 GitHub 客户端，还是一个发现优秀 GitHub 开源项目的 App
+
 5、[tale](https://github.com/otale/tale)：简洁、漂亮、轻量级、Java 博客，[在线预览](https://tale.biezhi.me/)。特性：
 - 设计简洁，界面美观
 - Markdown 文章发布
@@ -62,7 +61,7 @@ Transfer/sec:    606.33MB
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/11/img/jvm-show-min.png)
 
-#### Javascript 项目
+#### JavaScript 项目
 7、[react-tetris](https://github.com/chvin/react-tetris)：逼真的俄罗斯方块（非常逼真、强大！），详细的技术介绍，[在线试玩](https://chvin.github.io/react-tetris/?lan=zh)
 
 

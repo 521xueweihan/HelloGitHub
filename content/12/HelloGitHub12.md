@@ -15,26 +15,18 @@
 ---
 > **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)
 
-#### Android 项目
-1、[fresco](https://github.com/facebook/fresco)：Facebook 开源的 Android 管理图片的库，[中文文档](https://www.fresco-cn.org/docs/index.html)。包含功能如下：
-- 显示占位图直到加载完成
-- 下载图片
-- 缓存图片
-- 图片不再显示时，从内存中移除
-- 等等
-
 #### C 项目
-2、[tbox](https://github.com/tboox/tbox)：一个用 C 语言实现的跨平台开发库，用于解决不同操作系统的兼容问题，并且充分利用了各个平台独有的一些特性进行优化。[中文说明](https://github.com/tboox/tbox/blob/master/README_zh.md)
+1、[tbox](https://github.com/tboox/tbox)：一个用 C 语言实现的跨平台开发库，用于解决不同操作系统的兼容问题，并且充分利用了各个平台独有的一些特性进行优化。[中文说明](https://github.com/tboox/tbox/blob/master/README_zh.md)
 
 
 #### C# 项目
-3、[ScreenToGif](https://github.com/NickeManarin/ScreenToGif)：此工具可以记录屏幕的选定区域、网络摄像头的实时图像和绘图板上的实时图像。可以编辑并将动画保存为 GIF 或视频
+2、[ScreenToGif](https://github.com/NickeManarin/ScreenToGif)：此工具可以记录屏幕的选定区域、网络摄像头的实时图像和绘图板上的实时图像。可以编辑并将动画保存为 GIF 或视频
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/12/img/screen-to-gif-show-min.png)
 
 #### Go 项目
-4、[wuzz](https://github.com/asciimoo/wuzz)：wuzz 是用于调试 HTTP 请求的交互式命令行工具，可以用来检查和修改请求。常用操作如下：
+3、[wuzz](https://github.com/asciimoo/wuzz)：wuzz 是用于调试 HTTP 请求的交互式命令行工具，可以用来检查和修改请求。常用操作如下：
 
 | Keybinding | Description |
 | :--------- | :------ |
@@ -59,10 +51,18 @@
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/12/img/wuzz.gif)
 
-5、[sshtron](https://github.com/zachlatta/sshtron)：sshtron 是通过 SSH 运行的多人贪吃蛇游戏，命令行输入：`ssh sshtron.zachlatta.com`，无需安装等待几秒即可进行游戏（因为服务器在国外，很卡😅）
+4、[sshtron](https://github.com/zachlatta/sshtron)：sshtron 是通过 SSH 运行的多人贪吃蛇游戏，命令行输入：`ssh sshtron.zachlatta.com`，无需安装等待几秒即可进行游戏（因为服务器在国外，很卡😅）
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/12/img/sshtron.gif)
+
+#### Java 项目
+5、[fresco](https://github.com/facebook/fresco)：Facebook 开源的 Android 管理图片的库，[中文文档](https://www.fresco-cn.org/docs/index.html)。包含功能如下：
+- 显示占位图直到加载完成
+- 下载图片
+- 缓存图片
+- 图片不再显示时，从内存中移除
+- 等等
 
 #### JavaScript 项目
 6、[vue2-elm](https://github.com/bailicangdu/vue2-elm)：基于 vue2 + vuex 构建一个大型单页面应用，此项目大大小小共 45 个页面，涉及注册、登录、商品展示、购物车、下单等等，是一个完整的流程，

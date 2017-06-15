@@ -15,35 +15,35 @@
 ---
 > **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)
 
-#### Android 项目
-1、[Grav](https://github.com/glomadrian/Grav)：Android 粒子动画效果，非常炫酷。让 APP 逼格更上一层楼，*感谢推荐人：[jp1017](https://github.com/jp1017)*
-
-
-![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/Grav.gif)
-
-2、[AndroidLibs](https://github.com/XXApple/AndroidLibs)：Android 开源代码大全，收集 Android 开发中优秀的开源组件库，方便大家查询，*感谢推荐人：[jp1017](https://github.com/jp1017)*
-
-3、[android-discuss](https://github.com/android-cn/android-discuss)：Android 问题交流讨论坛，包含 Android 开发中的各种问题讨论，*感谢推荐人：[jp1017](https://github.com/jp1017)*
-
 #### C 项目
-4、[awesome-c-cn](https://github.com/jobbole/awesome-c-cn)：C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
+1、[awesome-c-cn](https://github.com/jobbole/awesome-c-cn)：C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
 
 #### C# 项目
-5、[Dopamine](https://github.com/digimezzo/Dopamine)：基于WPF编写的现代扁平风格轻量级播放器，*感谢推荐人：[PeoLeser](https://github.com/PeoLeser)*
+2、[Dopamine](https://github.com/digimezzo/Dopamine)：基于WPF编写的现代扁平风格轻量级播放器，*感谢推荐人：[PeoLeser](https://github.com/PeoLeser)*
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/Dopamine-show-min.png)
 
 #### C++ 项目
-6、[ltp](https://github.com/HIT-SCIR/ltp)：语言技术平台（Language Technology Platform，LTP）是哈工大社会计算与信息检索研究中心历时十年开发的一整套中文语言处理系统。
+3、[ltp](https://github.com/HIT-SCIR/ltp)：语言技术平台（Language Technology Platform，LTP）是哈工大社会计算与信息检索研究中心历时十年开发的一整套中文语言处理系统。
 
 #### Go 项目
-7、[dnt](https://github.com/shiyanhui/dht)：DHT 实现了 BitTorrent DHT 协议，它包含两种模式，标准模式和爬虫模式。标准模式遵循 DHT 协议，你可以把它当做一个标准的 DHT 组件。爬虫模式是为了嗅探到更多 torrent 文件信息，它在某些方面不遵循 DHT 协议。 基于爬虫模式，你可以打造你自己的 BTDigg，[演示地址](http://bthub.io/)
+4、[dnt](https://github.com/shiyanhui/dht)：DHT 实现了 BitTorrent DHT 协议，它包含两种模式，标准模式和爬虫模式。标准模式遵循 DHT 协议，你可以把它当做一个标准的 DHT 组件。爬虫模式是为了嗅探到更多 torrent 文件信息，它在某些方面不遵循 DHT 协议。 基于爬虫模式，你可以打造你自己的 BTDigg，[演示地址](http://bthub.io/)
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/dnt-show-min.png)
 
-8、[gobyexample](https://github.com/mmcgrana/gobyexample)：Go 示例代码，[在线浏览](https://gobyexample.com/)
+5、[gobyexample](https://github.com/mmcgrana/gobyexample)：Go 示例代码，[在线浏览](https://gobyexample.com/)
+
+#### Java 项目
+6、[Grav](https://github.com/glomadrian/Grav)：Android 粒子动画效果，非常炫酷。让 APP 逼格更上一层楼，*感谢推荐人：[jp1017](https://github.com/jp1017)*
+
+
+![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/Grav.gif)
+
+7、[AndroidLibs](https://github.com/XXApple/AndroidLibs)：Android 开源代码大全，收集 Android 开发中优秀的开源组件库，方便大家查询，*感谢推荐人：[jp1017](https://github.com/jp1017)*
+
+8、[android-discuss](https://github.com/android-cn/android-discuss)：Android 问题交流讨论坛，包含 Android 开发中的各种问题讨论，*感谢推荐人：[jp1017](https://github.com/jp1017)*
 
 #### JavaScript 项目
 9、[js-stack-from-scratch](https://github.com/pd4d10/js-stack-from-scratch)：从零开始构建 JavaScript 技术栈（中文版），*感谢推荐人：[jp1017](https://github.com/jp1017)*
