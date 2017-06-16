@@ -94,8 +94,10 @@ Console.WriteLine(json);
 
 7、[atrament.js](https://github.com/jakubfiala/atrament.js)：极小的 JavaScript 画板，[在线演示](http://fiala.uk/atrament.js/demo/)
 
+8、[weex](https://github.com/apache/incubator-weex)：移动端，跨平台前端框架，[详细的中文档](https://weex-project.io/cn/guide/)
+
 #### Objective-C 项目
-8、[aria2gui](https://github.com/yangshun1029/aria2gui)：Aria2 的 Mac 客户端（下载工具），[介绍、使用方法](http://www.jianshu.com/p/1290f8e7b326)，特点：
+9、[aria2gui](https://github.com/yangshun1029/aria2gui)：Aria2 的 Mac 客户端（下载工具），[介绍、使用方法](http://www.jianshu.com/p/1290f8e7b326)，特点：
 - 集成了 aria2，运行后即完成配置工作
 - 多线程下载
 - 未完成任务退出可以自动保存
@@ -108,17 +110,17 @@ Console.WriteLine(json);
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/08/img/aria2gui-show-min.png)
 
 #### Python 项目
-9、[reddit](https://github.com/reddit/reddit)：[reddit.com](https://www.reddit.com/) 网站的源码，通过这个项目，可以学习 Python 在构建大型项目中的使用、项目结构、代码风格、Python 技巧的使用方法等。[安装教程](https://github.com/reddit/reddit/wiki/Install-guide)
+10、[reddit](https://github.com/reddit/reddit)：[reddit.com](https://www.reddit.com/) 网站的源码，通过这个项目，可以学习 Python 在构建大型项目中的使用、项目结构、代码风格、Python 技巧的使用方法等。[安装教程](https://github.com/reddit/reddit/wiki/Install-guide)
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/08/img/reddit-show-min.jpg)
 
-10、[httpstat](https://github.com/reorx/httpstat)：httpstat 美化了 `curl` 的结果，使得结果更加可读。同时它无依赖、兼容 Python3、一共才 300 多行。还可以显示 HTTP 请求的每个过程中消耗的时间，如下图：
+11、[httpstat](https://github.com/reorx/httpstat)：httpstat 美化了 `curl` 的结果，使得结果更加可读。同时它无依赖、兼容 Python3、一共才 300 多行。还可以显示 HTTP 请求的每个过程中消耗的时间，如下图：
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/08/img/httpstat-show-min.png)
 
-11、[PyMySQL](https://github.com/PyMySQL/PyMySQL)：纯 Pyton 写的 MySQL 库，纯 Python 的好处就是可以运行在任何装有 Python 解释器（CPython、PyPy、IronPython）的平台上。相对于 [MySQLdb](https://github.com/farcepest/MySQLdb1) 性能几乎一样，使用方法也一样，但是 **PyMySQL 安装方法极其简单**——`pip install PyMySQL`，PyMySQL 使用示例代码：
+12、[PyMySQL](https://github.com/PyMySQL/PyMySQL)：纯 Pyton 写的 MySQL 库，纯 Python 的好处就是可以运行在任何装有 Python 解释器（CPython、PyPy、IronPython）的平台上。相对于 [MySQLdb](https://github.com/farcepest/MySQLdb1) 性能几乎一样，使用方法也一样，但是 **PyMySQL 安装方法极其简单**——`pip install PyMySQL`，PyMySQL 使用示例代码：
 ```
 # 下面为例子需要的数据库的建表语句
 CREATE TABLE `users` (
@@ -163,23 +165,21 @@ finally:
 ```
 
 #### Ruby 项目
-12、[discourse](https://github.com/discourse/discourse)：Ruby 语言写的论坛，百分之百开源、免费。
+13、[discourse](https://github.com/discourse/discourse)：Ruby 语言写的论坛，百分之百开源、免费。
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/08/img/discourse-show-min.png)
 
 #### 其它
-13、[How-To-Ask-Questions-The-Smart-Way](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)：提问的智慧，提出一个好的问题是解决问题的关键
+14、[How-To-Ask-Questions-The-Smart-Way](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)：提问的智慧，提出一个好的问题是解决问题的关键
 
-14、[jstraining](https://github.com/ruanyf/jstraining)：阮一峰写的全栈工程师培训材料
+15、[jstraining](https://github.com/ruanyf/jstraining)：阮一峰写的全栈工程师培训材料
 
-15、[PTVS](https://github.com/Microsoft/PTVS)：Visual Studio 下的 Python 开发插件
+16、[PTVS](https://github.com/Microsoft/PTVS)：Visual Studio 下的 Python 开发插件
 
-16、[the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)：中文版 Apple 官方 Swift 教程《The Swift Programming Language》
+17、[the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)：中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 
-17、[styleguide](https://github.com/fex-team/styleguide)：百度前端研发团队的文档与源码编写风格
-
-18、[weex](https://github.com/alibaba/weex)：移动端，跨平台前端框架，[详细的中文档](https://github.com/weexteam/article/wiki/Weex中文文档)
+18、[styleguide](https://github.com/fex-team/styleguide)：百度前端研发团队的文档与源码编写风格
 
 19、[macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)：MacOS 的安全和隐私指南，[中文翻译版](https://github.com/xitu/macOS-Security-and-Privacy-Guide/blob/master/README-cn.md)
 
@@ -201,7 +201,7 @@ finally:
 
 - [GitBook](https://gitbook.hellogithub.com/)
 
-- [博客园](http://www.cnblogs.com/xueweihan/)
+- [博客园](https://www.cnblogs.com/xueweihan/)
 
 - [简书](http://www.jianshu.com/u/f04b57b6f433)
 

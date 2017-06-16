@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
 5、[beego](https://github.com/astaxie/beego)：一个使用 Go 的思维来帮助您构建并开发 Go 应用程序的开源框架，齐全的文档（中文），丰富的使用案例。[官网地址](https://beego.me)
 
 #### JavaScript 项目
-6、[nodeclub](https://github.com/cnodejs/nodeclub)：Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统，[社区地址](http://cnodejs.org
+6、[nodeclub](https://github.com/cnodejs/nodeclub)：Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统，[社区地址](https://cnodejs.org/)
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/07/img/nodeclub-show-min.png)
 
@@ -112,7 +112,7 @@ ua.random
 
 13、[learning-react](https://github.com/yiminghe/learning-react)：[yiminghe](https://github.com/yiminghe) 的 react 中文教程，包含[入门](http://yiminghe.me/learning-react/tutorial/zh-cn/intro.html#/)和[进阶](http://yiminghe.me/learning-react/tutorial/zh-cn/advanced.html#/)
 
-14、[static](https://github.com/staticfile/static)：这个项目是一个仓库，它尽可能全面收录优秀的开源库，并免费为之提供 CDN 加速服务，使之有更好的访问速度和稳定的环境。同时，它也提供开源库源接入的入口，让所有人都可以提交开源库，包括 JavaScript、CSS、image 和 swf 等静态文件。[访问 Staticfile CDN](http://staticfile.org)
+14、[static](https://github.com/staticfile/static)：这个项目是一个仓库，它尽可能全面收录优秀的开源库，并免费为之提供 CDN 加速服务，使之有更好的访问速度和稳定的环境。同时，它也提供开源库源接入的入口，让所有人都可以提交开源库，包括 JavaScript、CSS、image 和 swf 等静态文件。[访问 Staticfile CDN](https://www.staticfile.org/about.html)
 
 15、[WebFundamentals](https://github.com/google/WebFundamentals)：（英文）Google 的 Web 开发者最佳练习教程
 
@@ -139,7 +139,7 @@ ua.random
 
 - [GitBook](https://gitbook.hellogithub.com/)
 
-- [博客园](http://www.cnblogs.com/xueweihan/)
+- [博客园](https://www.cnblogs.com/xueweihan/)
 
 - [简书](http://www.jianshu.com/u/f04b57b6f433)
 

@@ -131,7 +131,7 @@ print ifconfig("eth0")
 
 - [GitBook](https://gitbook.hellogithub.com/)
 
-- [博客园](http://www.cnblogs.com/xueweihan/)
+- [博客园](https://www.cnblogs.com/xueweihan/)
 
 - [简书](http://www.jianshu.com/u/f04b57b6f433)
 

@@ -16,7 +16,7 @@
 > **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)
 
 #### CSS 项目
-1、[animate.css](https://github.com/daneden/animate.css)：提供炫酷动画效果，同时方便、易用、跨浏览器的 CSS 库。[在线演示](http://daneden.github.io/animate.css/)
+1、[animate.css](https://github.com/daneden/animate.css)：提供炫酷动画效果，同时方便、易用、跨浏览器的 CSS 库。[在线演示](https://daneden.github.io/animate.css/)
 
 2、[mui](https://github.com/dcloudio/mui)：最接近原生 APP 体验的高性能框架。性能和体验的差距，一直是 mobile App 开发者放弃 HTML5 的首要原因。mui 框架有效的解决了这些问题，这是一个可以方便开发出高性能 App 的框架，也是目前最接近原生 App 效果的框架。[mui 官网](http://dev.dcloud.net.cn/mui/)
 
@@ -30,7 +30,7 @@
 4、[greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy)：Greys 是 Java 在线问题诊断工具。
 
 #### JavaScript 项目
-5、[OS.js](https://github.com/os-js/OS.js)：JavaScript 写的基于浏览器上的桌面操作系统。[在线演示](https://osjsv2.0o.no/)，使用展示如图：
+5、[OS.js](https://github.com/os-js/OS.js)：JavaScript 写的基于浏览器上的桌面操作系统。[在线演示](https://demo.os-js.org/)，使用展示如图：
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/03/img/os-js-min.png)
@@ -72,7 +72,7 @@
 
 - [GitBook](https://gitbook.hellogithub.com/)
 
-- [博客园](http://www.cnblogs.com/xueweihan/)
+- [博客园](https://www.cnblogs.com/xueweihan/)
 
 - [简书](http://www.jianshu.com/u/f04b57b6f433)
 

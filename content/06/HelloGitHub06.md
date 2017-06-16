@@ -49,7 +49,7 @@ java -jar moco-runner-<version>-standalone.jar http -p 12306 -c foo.json
 4、[disconf](https://github.com/knightliao/disconf)：**企业级开源项目 Disconf** 是一个分布式配置管理平台，专注于各种 *分布式系统配置管理* 的通用组件／通用平台，提供统一的配置管理服务。核心目标：一个 jar 包，到处运行。[在线文档](http://disconf.readthedocs.io/zh_CN/latest/index.html)
 
 #### JavaScript 项目
-5、[vue-sui-demo](https://github.com/eteplus/vue-sui-demo)：这是一个用 Vue 和 SUI-Mobile 写的移动端 Demo，可以用来学习 Vue.js。[项目线上预览](http://blog.coderfun.com/vue-sui-demo/)，效果图如下：
+5、[vue-sui-demo](https://github.com/eteplus/vue-sui-demo)：这是一个用 Vue 和 SUI-Mobile 写的移动端 Demo，可以用来学习 Vue.js。[项目线上预览](https://eteplus.github.io/vue-sui-demo/)，效果图如下：
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/06/img/vue-sui-demo-show-min.png)
@@ -135,7 +135,7 @@ brew install mercurial
 
 - [GitBook](https://gitbook.hellogithub.com/)
 
-- [博客园](http://www.cnblogs.com/xueweihan/)
+- [博客园](https://www.cnblogs.com/xueweihan/)
 
 - [简书](http://www.jianshu.com/u/f04b57b6f433)
 

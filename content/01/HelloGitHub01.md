@@ -34,7 +34,7 @@
 #### Python 项目
 5、[awesome-python-webapp](https://github.com/michaelliao/awesome-python-webapp)：廖老师的 Python 入门教程中的实践项目的代码，[教程在线阅读](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001397616003925a3d157284cd24bc0952d6c4a7c9d8c55000)
 
-6、[Minos](https://github.com/phith0n/Minos)：一个基于 Tornado/MongoDB/Redis 的社区系统，[预览](http://minos.leavesongs.com/)
+6、[Minos](https://github.com/phith0n/Minos)：一个基于 Tornado/MongoDB/Redis 的社区系统
 
 7、[tushare](https://github.com/waditu/tushare)：TuShare 是一个免费、开源的 Python 财经数据接口包，[TuShare 文档](http://tushare.org/index.html)
 
@@ -63,7 +63,7 @@
 
 14、[Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN)：《Python 最佳实践指南中文版》，[在线阅读](http://pythonguidecn.readthedocs.io/zh/latest/)
 
-15、[design_patterns](https://github.com/me115/design_patterns)：《图说设计模式》，[在线阅读](http://design-patterns.readthedocs.io/zh_CN/latest/index.html#)
+15、[design_patterns](https://github.com/me115/design_patterns)：《图说设计模式》，[在线阅读](https://design-patterns.readthedocs.io/zh_CN/latest/index.html#)
 
 16、[linuxtools_rst](https://github.com/me115/linuxtools_rst)：《Linux 工具快速教程》，[在线阅读](http://linuxtools-rst.readthedocs.io/zh_CN/latest/)
 
@@ -87,7 +87,7 @@
 
 - [GitBook](https://gitbook.hellogithub.com/)
 
-- [博客园](http://www.cnblogs.com/xueweihan/)
+- [博客园](https://www.cnblogs.com/xueweihan/)
 
 - [简书](http://www.jianshu.com/u/f04b57b6f433)
 
