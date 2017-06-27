@@ -21,7 +21,7 @@
 1、[awesome-c-cn](https://github.com/jobbole/awesome-c-cn)：C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
 
 #### C# 项目
-2、[Dopamine](https://github.com/digimezzo/Dopamine)：基于WPF编写的现代扁平风格轻量级播放器，*感谢推荐人：[PeoLeser](https://github.com/PeoLeser)*
+2、[Dopamine](https://github.com/digimezzo/Dopamine)：基于WPF编写的现代扁平风格轻量级播放器
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/Dopamine-show-min.png)
@@ -38,17 +38,17 @@
 5、[gobyexample](https://github.com/mmcgrana/gobyexample)：Go 示例代码，[在线浏览](https://gobyexample.com/)
 
 #### Java 项目
-6、[Grav](https://github.com/glomadrian/Grav)：Android 粒子动画效果，非常炫酷。让 APP 逼格更上一层楼，*感谢推荐人：[jp1017](https://github.com/jp1017)*
+6、[Grav](https://github.com/glomadrian/Grav)：Android 粒子动画效果，非常炫酷。让 APP 逼格更上一层楼
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/Grav.gif)
 
-7、[AndroidLibs](https://github.com/XXApple/AndroidLibs)：Android 开源代码大全，收集 Android 开发中优秀的开源组件库，方便大家查询，*感谢推荐人：[jp1017](https://github.com/jp1017)*
+7、[AndroidLibs](https://github.com/XXApple/AndroidLibs)：Android 开源代码大全，收集 Android 开发中优秀的开源组件库，方便大家查询
 
-8、[android-discuss](https://github.com/android-cn/android-discuss)：Android 问题交流讨论坛，包含 Android 开发中的各种问题讨论，*感谢推荐人：[jp1017](https://github.com/jp1017)*
+8、[android-discuss](https://github.com/android-cn/android-discuss)：Android 问题交流讨论坛，包含 Android 开发中的各种问题讨论
 
 #### JavaScript 项目
-9、[js-stack-from-scratch](https://github.com/pd4d10/js-stack-from-scratch)：从零开始构建 JavaScript 技术栈（中文版），*感谢推荐人：[jp1017](https://github.com/jp1017)*
+9、[js-stack-from-scratch](https://github.com/pd4d10/js-stack-from-scratch)：从零开始构建 JavaScript 技术栈（中文版）
 
 10、[element](https://github.com/ElemeFE/element)：一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的组件库，提供了配套设计资源，帮助你的网站快速成型。[官网](http://element.eleme.io/#/zh-CN)
 
@@ -62,7 +62,7 @@
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/cmder-show-min.png)
 
-13、[Vue2.0LOL](https://github.com/arronf2e/Vue2.0LOL)：Vue2.0 版英雄联盟助手，*感谢推荐人：[arronf2e](https://github.com/arronf2e)*
+13、[Vue2.0LOL](https://github.com/arronf2e/Vue2.0LOL)：Vue2.0 版英雄联盟助手
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/vue2.0lol-show-min.png)
@@ -70,19 +70,19 @@
 14、[typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)：TypeScript 入门教程
 
 #### Objective-C 项目
-15、[PYSearch](https://github.com/iphone5solo/PYSearch)：一款综合（QQ 音乐、微信、美团、优酷、虎牙直播等多款 App）风格的搜索控制器，*感谢推荐人：[iphone5solo](https://github.com/iphone5solo)*
+15、[PYSearch](https://github.com/iphone5solo/PYSearch)：一款综合（QQ 音乐、微信、美团、优酷、虎牙直播等多款 App）风格的搜索控制器
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/PYSearch-show-min.png)
 
-16、[PPRows](https://github.com/jkpang/PPRows)：在 Mac 上计算你写了多少行代码的工具，*感谢推荐人：[jkpang](https://github.com/jkpang)*
+16、[PPRows](https://github.com/jkpang/PPRows)：在 Mac 上计算你写了多少行代码的工具
 
-1. 支持检测参与计算的代码文件夹数量以及代码行数;
-2. 支持同时检测多文件/多文件夹代码;
-3. 支持自定义检测的文件类型,例如:c,swift,oc, java....类型的代码文件;
-4. 支持自定义需要忽略检测的文件夹, 例如: iOS工程中的Pods文件夹;
-5. 支持中文与英文,跟随系统语言变化
-6. 支持忽略代码中的空行, 代码行数计算更精确.
+1. 支持检测参与计算的代码文件夹数量以及代码行数；
+2. 支持同时检测多文件／多文件夹代码；
+3. 支持自定义检测的文件类型,例如：C、Swift、Java 等类型的代码文件；
+4. 支持自定义需要忽略检测的文件夹, 例如：iOS 工程中的 Pods 文件夹；
+5. 支持中文与英文，跟随系统语言变化；
+6. 支持忽略代码中的空行，代码行数计算更精确；
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/PPRows.gif)
@@ -126,7 +126,7 @@ Detailed:
 └── 等等
 ```
 
-19、[searx](https://github.com/asciimoo/searx)：分分钟打造一个聚合的搜索引擎，使用简单，部署方便。拓展方便，基于插件式的管理。[演示地址](https://searx.me/)，*感谢推荐人：[BruceDone](https://github.com/BruceDone)*
+19、[searx](https://github.com/asciimoo/searx)：分分钟打造一个聚合的搜索引擎，使用简单，部署方便。拓展方便，基于插件式的管理。[演示地址](https://searx.me/)
 
 20、[grequests](https://github.com/kennethreitz/grequests)：Rquests + Gevent 让异步 HTTP 变得简单、人性化。示例代码：
 ```python
@@ -149,7 +149,7 @@ Request failed
 
 22、[uBlock](https://github.com/gorhill/uBlock)：uBlock Origin 不只是一个广告过滤工具，它是具有一般性用途的过滤工具，屏蔽广告的功能是通过支持 Adblock Plus 过滤规则语法实现的。uBlock 还扩充了语法，一开始就支持自定义过滤规则，[中文文档](https://github.com/fang5566/uBlock/blob/master/README.md#ublock-origin)
 
-23、[SwitchHosts](https://github.com/oldj/SwitchHosts)：一个用于快速切换 hosts 文件的小程序，基于 Electron 开发，*感谢推荐人：[jp1017](https://github.com/jp1017)*
+23、[SwitchHosts](https://github.com/oldj/SwitchHosts)：一个用于快速切换 hosts 文件的小程序，基于 Electron 开发
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/SwitchHosts-show-min.png)

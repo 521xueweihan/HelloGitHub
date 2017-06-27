@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/07/img/clipboard-show-min.png)
 
 #### Objective-C 项目
-8、[PYPhotoBrowser](https://github.com/iphone5solo/PYPhotoBrowser)：高仿 QQ、微信效果的图片浏览器（支持原图和缩略图、多种手势、CocoaPods），*感谢推荐人：[CoderKo1o](https://github.com/iphone5solo)*
+8、[PYPhotoBrowser](https://github.com/iphone5solo/PYPhotoBrowser)：高仿 QQ、微信效果的图片浏览器（支持原图和缩略图、多种手势、CocoaPods）
 
 #### Python 项目
 9、[httpie](https://github.com/jkbrzt/httpie)：非常好用的命令行 HTTP 客户端，cURL 的替代者，返回的结果支持**高亮**，提高了可读性。用于调试接口、查看服务器返回的 HTTP 协议的信息。[在线文档](https://httpie.org/docs#examples)，下面的是 cURL 和 httpie 的返回结果对比图：
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/07/img/httpie-show-min.png)
 
-10、[langid](https://github.com/saffsd/langid.py)：用于识别输入文本数据所属的语种，目前支持 97 种语言识别。*感谢推荐人：[zhbzz2007](https://github.com/zhbzz2007)*。示例代码：
+10、[langid](https://github.com/saffsd/langid.py)：用于识别输入文本数据所属的语种，目前支持 97 种语言识别。示例代码：
 ```python
 import langid
 text1 = "I am a coder and love data mining"

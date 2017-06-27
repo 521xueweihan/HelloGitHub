@@ -50,7 +50,7 @@
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/15/img/font-spider-show-min.png)
 
-10、[slick](https://github.com/kenwheeler/slick)：实现了几乎所有效果的轮播图插件，[在线演示](kenwheeler.github.io/slick/)
+10、[slick](https://github.com/kenwheeler/slick)：实现了几乎所有效果的轮播图插件，[在线演示](http://kenwheeler.github.io/slick/)
 
 #### Objective-C 项目
 11、[spectacle](https://github.com/eczarny/spectacle)：OS X 系统下的窗口管理工具，通过快捷键方便、快捷的调整窗口大小和位置

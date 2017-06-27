@@ -55,7 +55,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/14/img/browserquest-show-min.png)
 
-11、[Rental](https://github.com/answershuto/Rental)：一款租房 APP，基于 Node.js 爬虫，爬取 58 同城租房信息，并用地图进行可视化展示，方便用户获取周围租房信息，*感谢推荐人：[answershuto](https://github.com/answershuto)*
+11、[Rental](https://github.com/answershuto/Rental)：一款租房 APP，基于 Node.js 爬虫，爬取 58 同城租房信息，并用地图进行可视化展示，方便用户获取周围租房信息
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/14/img/rental-show-min.png)
