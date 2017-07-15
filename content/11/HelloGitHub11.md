@@ -111,7 +111,7 @@ print ifconfig("eth0")
 
 20、[docker_practice](https://github.com/yeasy/docker_practice)：Dokcer 从入门到实践
 
-21、[explore-flask](https://github.com/rpicard/explore-flask)：[《explore flask》中文翻译](https://spacewander.github.io/explore-flask-zh/index.html)
+21、[explore-flask](https://github.com/spacewander/explore-flask-zh)：[《explore flask》中文翻译](https://spacewander.github.io/explore-flask-zh/index.html)
 
 22、[react-cookbook](https://github.com/shimohq/react-cookbook)：编写简洁漂亮，可维护的 React 应用
 
