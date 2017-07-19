@@ -117,9 +117,7 @@ brew install mercurial
 安装Go时没有进度条
 ```
 
-14、[hosts](https://github.com/racaljk/hosts)：最新可用的 Google hosts 文件。
-
-15、[LearningNotes](https://github.com/GeniusVJR/LearningNotes)：很全面的学习笔记，偏向 Android 和 Java
+14、[LearningNotes](https://github.com/GeniusVJR/LearningNotes)：很全面的学习笔记，偏向 Android 和 Java
 
 
 

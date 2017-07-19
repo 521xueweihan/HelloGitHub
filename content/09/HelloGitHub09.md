@@ -26,7 +26,7 @@
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/09/img/json-show.gif)
 
 #### Go 项目
-2、[lantern](https://github.com/getlantern/lantern)：Lantern ——> 蓝灯
+2、[vim-go](https://github.com/fatih/vim-go)：Go 的 vim 配置
 
 #### Java 项目
 3、[MSEC](https://github.com/Tencent/MSEC)：MSEC 是腾讯开源的，毫秒服务引擎(Mass Service Engine in Cluster)

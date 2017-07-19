@@ -51,12 +51,10 @@
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/03/img/wali-show.gif)
 
 #### Python 项目
-8、[XX-Net](https://github.com/XX-net/XX-Net)：Python 写的基于免费 GAE，科学上网工具。[中文文档](https://github.com/XX-net/XX-Net/wiki/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3)
-
-9、[KindleEar](https://github.com/cdhigh/KindleEar)：这是一个运行在 Google App Engine(GAE) 上的 Kindle 个人推送服务应用，生成排版精美的杂志模式 `mobi/epub` 格式自动每天推送至您的 Kindle 或其他邮箱。
+8、[KindleEar](https://github.com/cdhigh/KindleEar)：这是一个运行在 Google App Engine(GAE) 上的 Kindle 个人推送服务应用，生成排版精美的杂志模式 `mobi/epub` 格式自动每天推送至您的 Kindle 或其他邮箱。
 
 #### 其它
-10、[css-creating](https://github.com/cssdream/css-creating)：CSS 创作指南
+9、[css-creating](https://github.com/cssdream/css-creating)：CSS 创作指南
 
 
 

@@ -147,29 +147,27 @@ Request failed
 ```
 
 #### 其它
-21、[gettorbrowser](https://github.com/TheTorProject/gettorbrowser)：Download Tor Browser from Github（Tor——洋葱路由器，是实现匿名通信的自由软件）
+21、[uBlock](https://github.com/gorhill/uBlock)：uBlock Origin 不只是一个广告过滤工具，它是具有一般性用途的过滤工具，屏蔽广告的功能是通过支持 Adblock Plus 过滤规则语法实现的。uBlock 还扩充了语法，一开始就支持自定义过滤规则，[中文文档](https://github.com/fang5566/uBlock/blob/master/README.md#ublock-origin)
 
-22、[uBlock](https://github.com/gorhill/uBlock)：uBlock Origin 不只是一个广告过滤工具，它是具有一般性用途的过滤工具，屏蔽广告的功能是通过支持 Adblock Plus 过滤规则语法实现的。uBlock 还扩充了语法，一开始就支持自定义过滤规则，[中文文档](https://github.com/fang5566/uBlock/blob/master/README.md#ublock-origin)
-
-23、[SwitchHosts](https://github.com/oldj/SwitchHosts)：一个用于快速切换 hosts 文件的小程序，基于 Electron 开发
+22、[SwitchHosts](https://github.com/oldj/SwitchHosts)：一个用于快速切换 hosts 文件的小程序，基于 Electron 开发
 
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/img/SwitchHosts-show-min.png)
 
-24、[alloyteam](https://github.com/AlloyTeam/alloyteam.github.com)：腾讯 AlloyTeam 开源项目官网
+23、[alloyteam](https://github.com/AlloyTeam/alloyteam.github.com)：腾讯 AlloyTeam 开源项目官网
 
-25、[be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer)：成为专业程序员路上用到的各种优秀资料、神器及框架
+24、[be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer)：成为专业程序员路上用到的各种优秀资料、神器及框架
 
-26、[gold-miner](https://github.com/xitu/gold-miner)：掘金翻译计划，翻译掘金上优质的英文文章
+25、[gold-miner](https://github.com/xitu/gold-miner)：掘金翻译计划，翻译掘金上优质的英文文章
 
-27、[Awesome-Windows](https://github.com/Awesome-Windows/Awesome)：一个 Windows 上优质和精选的最佳应用程序及工具列表。[中文版](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
+26、[Awesome-Windows](https://github.com/Awesome-Windows/Awesome)：一个 Windows 上优质和精选的最佳应用程序及工具列表。[中文版](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 
-28、[SuperTinySocialIcons](https://github.com/edent/SuperTinySocialIcons)：1KB以下，超级小型社交图标
+27、[SuperTinySocialIcons](https://github.com/edent/SuperTinySocialIcons)：1KB以下，超级小型社交图标
 
 #### 开源书籍
-29、[growth-ebook](https://github.com/phodal/growth-ebook)：全栈增长工程师指南，[在线阅读](http://growth.phodal.com/)
+28、[growth-ebook](https://github.com/phodal/growth-ebook)：全栈增长工程师指南，[在线阅读](http://growth.phodal.com/)
 
-30、[free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)：免费的计算机编程类中文书籍
+29、[free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)：免费的计算机编程类中文书籍
 
 
 
