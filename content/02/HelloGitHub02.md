@@ -28,7 +28,7 @@
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/02/img/jquery-weui-min.png)
 
-3、[ant-motion](https://github.com/ant-motion/ant-motion)：阿里开源的项目，可以方便快捷的制作一个公司的介绍页，[在线演示](https://motion.ant.design/)
+3、[ant-motion](https://github.com/ant-motion/ant-motion)：阿里开源的项目，一套 React 框架动效解决方案，可以帮助开发者，更容易的在项目中使用动效。同时可以方便快捷地制作一个公司的介绍页，[在线演示](https://motion.ant.design/)
 
 4、[wechat-h5-boilerplate](https://github.com/panteng/wechat-h5-boilerplate)：为腾讯微信优化的 HTML5 动效模板，帮助你快速构建全屏滚动型 HTML5 页面，[示例](https://panteng.github.io/wechat-h5-boilerplate/)
 
@@ -105,7 +105,6 @@ def run():
         print('- ' * 40)
         print("AFTER:")
         print(each.after)
-        print("\n")
 
     # 输出link引用的css的简化前和简化后的css代码
     print("LINKS ".ljust(79, '-'))
@@ -117,8 +116,6 @@ def run():
         print('- ' * 40)
         print("AFTER:")
         print(each.after)
-        print("\n")
-
 
 if __name__ == '__main__':
     run()
