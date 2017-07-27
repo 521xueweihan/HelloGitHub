@@ -14,6 +14,7 @@
 所以，我打算写个脚本，用于生成月刊，这样如果修改了通用内容部分，就只需要重新生成月刊，而不需要
 手动修改已发布的所有期的内容。
 """
+from __future__ import print_function
 import sys
 import os
 
@@ -34,7 +35,7 @@ def check_path(path):
     检查路径是否存在
     """
     if not os.path.exists(path):
-        print 'not exist: {path}'.format(path=path)
+        print('not exist: {path}'.format(path=path))
         return False
     else:
         return True
@@ -64,7 +65,7 @@ def make_content(num):
     output_data = temple_data.replace(CONTENT_FLAG, content_data)
 
     write_file(os.path.join(output_path, 'HelloGitHub{num}.md'.format(num=num)), output_data)
-    print 'Make 《GitHub月刊{num}》 successful！'.format(num=num)
+    print('Make 《GitHub月刊{num}》 successful！'.format(num=num))
 
 
 def make_all_content():
