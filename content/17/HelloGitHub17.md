@@ -39,7 +39,7 @@
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/17/img/casbin-show-min.png)
 
 #### Java 项目
-6、[GankMM](https://github.com/maning0303/GankMM)：干货集中营 Android 客户端。每天一张美女图片，一个视频短片，若干Android，iOS等程序干货，周一到周五每天更新，数据全部由 [干货集中营](Gank.io) 提供。项目简单完整，涉及内容全面，利于学习 Android 开发的技巧
+6、[GankMM](https://github.com/maning0303/GankMM)：干货集中营 Android 客户端。每天一张美女图片，一个视频短片，若干Android，iOS等程序干货，周一到周五每天更新，数据全部由 [干货集中营](http://gank.io/) 提供。项目简单完整，涉及内容全面，利于学习 Android 开发的技巧
 
 ![](https://github.com/521xueweihan/HelloGitHub/blob/master/content/17/img/GankMM.gif)
 

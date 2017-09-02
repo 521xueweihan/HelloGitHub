@@ -14,7 +14,7 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 [HelloGitHub.com](https://hellogithub.com) 这个网站就诞生了 🎉
 
 
 ## 往期回顾
@@ -22,12 +22,12 @@
 | ------- | ----- | ------------ | ------ | --------- |
 | [第 01 期](/content/01/HelloGitHub01.md) | [第 02 期](/content/02/HelloGitHub02.md) | [第 03 期](/content/03/HelloGitHub03.md) | [第 04 期](/content/04/HelloGitHub04.md) | [第 05 期](/content/05/HelloGitHub05.md) |
 | [第 06 期](/content/06/HelloGitHub06.md) | [第 07 期](/content/07/HelloGitHub07.md) | [第 08 期](/content/08/HelloGitHub08.md) | [第 09 期](/content/09/HelloGitHub09.md) | [第 10 期](/content/10/HelloGitHub10.md) |
-| [第 11 期](/content/11/HelloGitHub11.md) | [第 12期](/content/12/HelloGitHub12.md) | [第 13 期](/content/13/HelloGitHub13.md) | [第 14 期](/content/14/HelloGitHub14.md) | [第 15 期](/content/15/HelloGitHub15.md) |
-| [第 16 期](/content/16/HelloGitHub16.md) | [第 17 期](/content/17/HelloGitHub17.md) 
+| [第 11 期](/content/11/HelloGitHub11.md) | [第 12 期](/content/12/HelloGitHub12.md) | [第 13 期](/content/13/HelloGitHub13.md) | [第 14 期](/content/14/HelloGitHub14.md) | [第 15 期](/content/15/HelloGitHub15.md) |
+| [第 16 期](/content/16/HelloGitHub16.md) | [第 17 期](/content/17/HelloGitHub17.md)
 
 **每个月 :two::eight: 号发布最新一期**｜[贡献人列表](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md)
 
 ## 声明
-如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。
+如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。HelloGitHub.com 网站源码已开源[项目地址](https://github.com/521xueweihan/hellogithub.com)，欢迎一起开发讨论。
 
 **欢迎转载，请注明出处和作者，同时保留声明。**
