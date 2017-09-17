@@ -30,4 +30,4 @@
 ## 声明
 如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。HelloGitHub.com 网站源码已开源[项目地址](https://github.com/521xueweihan/hellogithub.com)，欢迎一起开发讨论。
 
-**欢迎转载，请注明出处和作者，同时保留声明。**
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
