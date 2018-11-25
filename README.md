@@ -1,12 +1,12 @@
-# HelloGitHub
->兴趣是最好的老师，**HelloGitHub** 就是帮你找到编程的兴趣！
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/logo.png"/><br><br>
+  <br><strong>HelloGitHub</strong> 一个分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
+</p>
 
 ## 简介
-分享 GitHub 上有趣、入门级的开源项目。
-
-这是一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 人群的月刊，月刊的内容包括：**各种编程语言的项目**、**让生活变得更美好的工具**、**书籍、学习笔记、教程等**，这些开源项目大多都是非常容易上手，而且非常 Cool。主要是希望大家能动手用起来，加入到**开源社区**中。
+这是一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 人群的项目。该项目的月刊内容包括：**各种编程语言的项目**、**让生活变得更美好的工具**、**书籍、学习笔记、教程等**，这些开源项目大多都是非常容易上手、很 Cool，能够让你用很短时间感受到编程的魅力和便捷。从而让大家感受到编程的乐趣，动手开始编程。加入到**开源社区**、回馈社区。
 - 会编程的可以贡献代码
 - 不会编程的可以反馈使用这些工具中的 Bug
 - 帮着宣传你觉得优秀的项目
@@ -28,8 +28,24 @@
 | [第 26 期](/content/26/HelloGitHub26.md) | [第 27 期](/content/27/HelloGitHub27.md) | [第 28 期](/content/28/HelloGitHub28.md) | [第 29 期](/content/29/HelloGitHub29.md) | [第 30 期](/content/30/HelloGitHub30.md) |
 | [第 31 期](/content/31/HelloGitHub31.md) |
 
-
 **每个月 :two::eight: 号发布最新一期**｜[贡献者列表](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md)
+
+## 合作组织
+<table>
+  <thead>
+    <tr>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/FGDBTKD">
+          <img src="https://avatars3.githubusercontent.com/u/40509403?s=80&v=4" style="max-width:100%;"><br>
+          <sub><b>FGDBTKD</b></sub><br>
+          <sub>AI/ML/DL/NLP</sub>
+        </a><br>
+      </th>
+    </tr>
+  </thead>
+</table>
+
+
 ## 星图
 
 [![Star chart](https://hellogithub.com/starchart/521xueweihan/HelloGitHub.svg)](https://hellogithub.com/starchart/521xueweihan/HelloGitHub)
