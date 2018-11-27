@@ -31,6 +31,8 @@
 **每个月 :two::eight: 号发布最新一期**｜[贡献者列表](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md)
 
 ## 合作组织
+欢迎各路:octocat:开源组织合作。[点击联系我](Mailto:595666367@qq.com)
+
 <table>
   <thead>
     <tr>
