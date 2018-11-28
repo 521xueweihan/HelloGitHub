@@ -26,7 +26,7 @@
 | [第 16 期](/content/16/HelloGitHub16.md) | [第 17 期](/content/17/HelloGitHub17.md) | [第 18 期](/content/18/HelloGitHub18.md) | [第 19 期](/content/19/HelloGitHub19.md) | [第 20 期](/content/20/HelloGitHub20.md) |
 | [第 21 期](/content/21/HelloGitHub21.md) | [第 22 期](/content/22/HelloGitHub22.md) | [第 23 期](/content/23/HelloGitHub23.md) | [第 24 期](/content/24/HelloGitHub24.md) | [第 25 期](/content/25/HelloGitHub25.md) |
 | [第 26 期](/content/26/HelloGitHub26.md) | [第 27 期](/content/27/HelloGitHub27.md) | [第 28 期](/content/28/HelloGitHub28.md) | [第 29 期](/content/29/HelloGitHub29.md) | [第 30 期](/content/30/HelloGitHub30.md) |
-| [第 31 期](/content/31/HelloGitHub31.md) |
+| [第 31 期](/content/31/HelloGitHub31.md) | [第 32 期](/content/32/HelloGitHub32.md) |
 
 **每个月 :two::eight: 号发布最新一期**｜[贡献者列表](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md)
 
@@ -46,11 +46,6 @@
     </tr>
   </thead>
 </table>
-
-
-## 星图
-
-[![Star chart](https://hellogithub.com/starchart/521xueweihan/HelloGitHub.svg)](https://hellogithub.com/starchart/521xueweihan/HelloGitHub)
                     
 ## 声明
 如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。HelloGitHub.com 网站源码已开源[项目地址](https://github.com/521xueweihan/hellogithub.com)，欢迎一起开发讨论。
