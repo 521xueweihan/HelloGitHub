@@ -85,6 +85,8 @@ namespace WeixinSDK.Test.Fake
 #### Go 项目
 6、[excelize](https://github.com/360EntSecGroup-Skylar/excelize)：操作 XLSX 文件，支持 Microsoft Excel™ 2007 以更高版本
 
+![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/excelize-min.png)
+
 #### Java 项目
 7、[SSM](https://github.com/crossoverJie/SSM)：基于现在流行的 `Spring+SpringMVC+Mybatis` 框架，逐步搭建一个现在互联网流行的项目架构。特点：
 - 门槛低，**绝对适合新手**
