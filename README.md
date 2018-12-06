@@ -5,6 +5,12 @@
   <br><strong>HelloGitHub</strong> 一个分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
 </p>
 
+<p align="center">
+  <a href="https://gitter.im/hellogithub-chat/HelloGitHub"><img src="https://img.shields.io/gitter/room/hellogithub-chat/HelloGitHub.svg?style=popout-square" alt="Gitter"></a>  
+  <a href="https://github.com/521xueweihan/HelloGitHub/stargazers"><img src="https://img.shields.io/github/stars/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub stars"></a>
+  <a href="https://github.com/521xueweihan/HelloGitHub/issues"><img src="https://img.shields.io/github/issues/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub issues"></a> 
+</p>
+
 ## 简介
 这是一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 人群的项目。该项目的月刊内容包括：**各种编程语言的项目**、**让生活变得更美好的工具**、**书籍、学习笔记、教程等**，这些开源项目大多都是非常容易上手、很 Cool，能够让你用很短时间感受到编程的魅力和便捷。从而让大家感受到编程的乐趣，动手开始编程。加入到**开源社区**、回馈社区。
 - 会编程的可以贡献代码
