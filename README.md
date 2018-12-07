@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/readme.gif"/><br><br>
   <br><strong>HelloGitHub</strong> 一个分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
@@ -44,9 +42,16 @@
     <tr>
       <th align="center" style="width: 80px;">
         <a href="https://github.com/FGDBTKD">
-          <img src="https://avatars3.githubusercontent.com/u/40509403?s=80&v=4" style="max-width:100%;"><br>
-          <sub><b>FGDBTKD</b></sub><br>
+          <img src="https://avatars3.githubusercontent.com/u/40509403?s=100&v=4" style="max-width:100%;"><br>
+          <sub>FGDBTKD</sub><br>
           <sub>AI/ML/DL/NLP</sub>
+        </a><br>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/d2-projects">
+          <img src="https://avatars3.githubusercontent.com/u/40857578?s=100&v=4" style="max-width:100%;"><br>
+          <sub>D2 Projects</sub><br>
+          <sub>Vue/JavaScript</sub>
         </a><br>
       </th>
     </tr>
