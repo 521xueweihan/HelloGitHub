@@ -57,7 +57,7 @@
 
 11、[AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md)：这个项目主要是国内一线互联网公司的 Java 和 Android 方面的内部面试题。
 
-12、[How-to-Be-A-Programmer-CN](https://github.com/ahangchen/How-to-Be-A-Programmer-CN)：如何做好一枚程序员（中文翻译版）
+12、[How-to-Be-A-Programmer-CN](https://github.com/braydie/HowToBeAProgrammer/tree/master/zh)：如何做好一枚程序员（中文翻译版）
 
 13、[neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)：《神经网络与深度学习》相关代码 Python 实现，[神经网络与深度学习－中文在线阅读](https://tigerneil.gitbooks.io/neural-networks-and-deep-learning-zh/content/chapter1.html)，该书中的相关理论的 Python 代码实现
 
