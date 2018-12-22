@@ -50,7 +50,7 @@
 
 ![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/img/%E8%9E%BA%E5%A3%B3%E7%BD%91-min.png)
 
-7、[ssbc](https://github.com/78/ssbc)：Python Django 写的种子搜索网站——手撕包菜，[访问](http://www.cilibaba.com/)，如图：
+7、[ssbc](https://github.com/78/ssbc)：Python Django 写的种子搜索网站——手撕包菜，[访问](http://www.cilibaba.com/)(目前无法访问)，如图：
 
 
 ![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/img/%E6%89%8B%E6%92%95%E5%8C%85%E8%8F%9C%E7%BD%91-min.png)
