@@ -139,7 +139,7 @@ def get_data(url):
 
 ![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/IBAnimatable.gif)
 
-17、[TuringCalendar](https://github.com/zhihaozhang/TuringCalendar)：图灵教育推出的限量款[编程日历 2018](http://www.ituring.com.cn/book/download/43507086-33c3-40e9-9115-d610e1333bca)，因为简约大气的设计和每周一个编程语言的介绍，在程序员中广受欢迎。现在日历 PDF 的源文件已经该源，于是就有了这个项目。一个 macOS 桌面上的日历 widget，效果图如下：
+17、[TuringCalendar](https://github.com/zhihaozhang/TuringCalendar)：图灵教育推出的限量款[编程日历 2018](http://www.ituring.com.cn/book/download/43507086-33c3-40e9-9115-d610e1333bca)，因为简约大气的设计和每周一个编程语言的介绍，在程序员中广受欢迎。现在日历 PDF 的源文件已经开源，于是就有了这个项目。一个 macOS 桌面上的日历 widget，效果图如下：
 
 ![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/TuringCalendar-min.jpeg)
 
