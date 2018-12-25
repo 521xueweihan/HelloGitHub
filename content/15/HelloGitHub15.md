@@ -17,7 +17,7 @@
 🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
 
 ---
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
 
 #### C++ 项目
 1、[Snake](https://github.com/stevennl/Snake)：贪吃蛇游戏 AI 版，通过算法实现让小蛇通过吃豆，最后蛇的身体填满整个地图算结束。该项目详细描述实现思想以及相关算法的讨论

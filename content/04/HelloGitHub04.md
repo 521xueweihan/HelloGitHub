@@ -17,7 +17,7 @@
 🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
 
 ---
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
 
 #### Java 项目
 1、[cachecloud](https://github.com/sohutv/cachecloud)：搜狐视频开源的 CacheCloud 项目，提供了一个 Redis 云管理平台，功能强大，教程详细（有视频教程），文档齐全，**企业级开源项目**

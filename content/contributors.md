@@ -1,7 +1,7 @@
 ## 核心贡献者
-| <img src="https://avatars0.githubusercontent.com/u/4099698?s=50&v=4"> | <img src="https://avatars0.githubusercontent.com/u/12341577?s=50&v=4"> |  <img src="https://avatars0.githubusercontent.com/u/17007026?s=50&v=4"> |
+| <img src="https://avatars0.githubusercontent.com/u/4099698?s=50&v=4"> | <img src="https://avatars0.githubusercontent.com/u/46031112?s=50&v=4"> |  <img src="https://avatars0.githubusercontent.com/u/17007026?s=50&v=4"> |
 | :------: | :------: | :------: | 
-| [franklingu](https://github.com/franklingu) | [JameJJ](https://github.com/JameJJ) |  [FrontMage](https://github.com/FrontMage) | 
+| [franklingu](https://github.com/franklingu) | [ming995](https://github.com/ming995) |  [FrontMage](https://github.com/FrontMage) | 
 
 ## 贡献者列表
 快来加入我们吧，希望尽快写满一整页！**目前共计 106 位贡献者**

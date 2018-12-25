@@ -17,7 +17,7 @@
 🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
 
 ---
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
 
 #### C# 项目
 1、[csharplang](https://github.com/dotnet/csharplang)：C# 语言设计官方项目，在这里你可以直接参与讨论。同时还有：

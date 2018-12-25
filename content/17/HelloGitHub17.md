@@ -17,7 +17,7 @@
 🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
 
 ---
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#往期回顾)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
 
 #### C# 项目
 1、[ASTool](https://github.com/asheigithub/ASTool)：NET2.0 实现的 AS3（第三代 Flash 脚本）解释器，可用于嵌入 unity 做热更。一个完整的脚本语言解释执行系统，从语法树分析开始一直到实际执行
