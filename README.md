@@ -17,8 +17,6 @@
 ## 内容
 **每月 28 号**发布[最新一期](/content/32/HelloGitHub32.md)｜[贡献者列表](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md) | [官网](https://hellogithub.com)
 
-欢迎 [点击分享](https://github.com/521xueweihan/HelloGitHub/issues/new) 自荐或发现的开源项目，也可安装 [分享插件](https://awesome.fairyever.com/article/chrome-extension.html) 更便捷地推荐有趣的开源项目。
-
 | :squirrel: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
 | [第 32 期](/content/32/HelloGitHub32.md) | [第 31 期](/content/31/HelloGitHub31.md) |
@@ -28,6 +26,8 @@
 | [第 15 期](/content/15/HelloGitHub15.md) | [第 14 期](/content/14/HelloGitHub14.md) | [第 13 期](/content/13/HelloGitHub13.md) | [第 12 期](/content/12/HelloGitHub12.md) | [第 11 期](/content/11/HelloGitHub11.md) |
 | [第 10 期](/content/10/HelloGitHub10.md) | [第 09 期](/content/09/HelloGitHub09.md) | [第 08 期](/content/08/HelloGitHub08.md) | [第 07 期](/content/07/HelloGitHub07.md) | [第 06 期](/content/06/HelloGitHub06.md) |
 | [第 05 期](/content/05/HelloGitHub05.md) | [第 04 期](/content/04/HelloGitHub04.md) | [第 03 期](/content/03/HelloGitHub03.md) | [第 02 期](/content/02/HelloGitHub02.md) | [第 01 期](/content/01/HelloGitHub01.md) |
+
+欢迎 [点击分享](https://github.com/521xueweihan/HelloGitHub/issues/new) 自荐或发现的开源项目，也可安装 [分享插件](https://awesome.fairyever.com/article/chrome-extension.html) 更便捷地推荐有趣的开源项目。
 
 ## 合作组织
 欢迎各路:octocat:开源组织合作。[点击联系我](Mailto:595666367@qq.com)
