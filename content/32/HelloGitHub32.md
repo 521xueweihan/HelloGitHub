@@ -88,7 +88,7 @@ Output:
 - 等等
 
 ```
-echo "select title from sakila.film" | ./soar 
+echo "select title from sakila.film" | ./soar
 # Query: 25807E6B94BEA72C
 ★ ★ ★ ★ ☆ 80分
 SELECT
@@ -181,7 +181,7 @@ SpiderMan.init(this)
       */
     @Override
     public void onCrash(Thread t, Throwable ex, CrashModel model) {
-      
+
     }
 });
 ```

@@ -78,7 +78,7 @@ fetch('/url').then(res => {}).catch(err => {})
 9、[iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization)：关于 iOS 性能优化梳理。包含基本工具、业务优化、内存优化、卡顿优化、布局优化、电量优化、 安装包瘦身、启动优化、网络优化等
 
 #### PHP 项目
-10、[arithmetic-php](https://github.com/PuShaoWei/arithmetic-php)：PHP 语言实现的各类算法合集 
+10、[arithmetic-php](https://github.com/PuShaoWei/arithmetic-php)：PHP 语言实现的各类算法合集
 
 #### Python 项目
 11、[rq](https://github.com/rq/rq)：基于 redis 的简单、轻量级任务队列库。可以帮助理解简单的任务队列模式和设计。使用简单、文档健全，适用于小型项目或简单的场景。

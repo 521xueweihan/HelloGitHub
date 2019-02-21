@@ -80,9 +80,9 @@ String str = ...;
 Integer integ = ...;
 Double[] doubleArray = ...;
 ...
-   
+
 // create a tuple
-Triplet<String,Integer,Double[]> triplet = Triplet.with(str, integ, doubleArray); 
+Triplet<String,Integer,Double[]> triplet = Triplet.with(str, integ, doubleArray);
 
 // fetch data
 ...
@@ -121,25 +121,25 @@ Overall Stats
 # 总命令数
 Lines Processed  	10
 # QPS
-Commands/Sec     	1.03       
+Commands/Sec     	1.03
 
 # 出现最多的 key 的前缀
-Top Prefixes                           
+Top Prefixes
 ========================================
 startchart  	9	(90.00%)
 
 # 请求最多的key
-Top Keys                                
+Top Keys
 ========================================
 startchart:521xueweihan/hellogithub  	9	(90.00%)
 
 # 请求最多的命令
-Top Commands                        
+Top Commands
 ========================================
 get  	9	(90.00%)
 
 # 请求响应时间的分布
-Command Time (microsecs)       
+Command Time (microsecs)
 ========================================
 Median  	583914.0
 75%     	637395.0
@@ -152,7 +152,7 @@ Heaviest Commands (microsecs)
 get  	9746157.0
 
 # 慢请求列表
-Slowest Calls                             
+Slowest Calls
 ========================================
 5703923.0  	"get" "startchart:521xueweihan/hellogithub"
 637395.0   	"get" "startchart:521xueweihan/hellogithub"

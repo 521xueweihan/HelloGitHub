@@ -85,7 +85,7 @@ var hot = new Handsontable(container, {
 ```
 示例 1
 # ls 查看当前目录下的文件
-> ls 
+> ls
 document.txt
 folder
 image.jpg

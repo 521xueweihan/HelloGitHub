@@ -72,7 +72,7 @@ git bug ls
 ```java
 public class ActivityEdgeEffectColor extends BaseActivity {
     private CoolViewPager vp;
-    
+
     private void initViewPager(){
         vp = findViewById(R.id.vp);
         vp.setScrollMode(CoolViewPager.ScrollMode.VERTICAL);

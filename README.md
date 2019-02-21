@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://gitter.im/hellogithub-chat/HelloGitHub"><img src="https://img.shields.io/gitter/room/hellogithub-chat/HelloGitHub.svg?style=popout-square" alt="Gitter"></a>  
+  <a href="https://gitter.im/hellogithub-chat/HelloGitHub"><img src="https://img.shields.io/gitter/room/hellogithub-chat/HelloGitHub.svg?style=popout-square" alt="Gitter"></a>
   <a href="https://github.com/521xueweihan/HelloGitHub/stargazers"><img src="https://img.shields.io/github/stars/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub stars"></a>
-  <a href="https://github.com/521xueweihan/HelloGitHub/issues"><img src="https://img.shields.io/github/issues/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub issues"></a> 
+  <a href="https://github.com/521xueweihan/HelloGitHub/issues"><img src="https://img.shields.io/github/issues/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub issues"></a>
 </p>
 
 ## 简介
@@ -52,6 +52,6 @@
     </tr>
   </thead>
 </table>
-                    
+
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

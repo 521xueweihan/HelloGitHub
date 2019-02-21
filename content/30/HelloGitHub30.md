@@ -34,7 +34,7 @@
 
 4、[nes](https://github.com/fogleman/nes)：Golang 写的 NES 模拟器。现在可能已经没人玩 NES 游戏了，不过可以了解下怎么写模拟器、如何用 Go 模拟 CPU 和 GPU
 ```
-1. 安装 
+1. 安装
 go get github.com/fogleman/nes
 
 2. 运行

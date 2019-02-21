@@ -113,7 +113,7 @@ $ appify -name "My Go Application" -icon ./icon.png /path/to/bin
 from tenacity import retry, stop_after_attempt
 
 # 通过装饰器，实现遇到异常重试3次
-@retry(stop=stop_after_attempt(3)) 
+@retry(stop=stop_after_attempt(3))
 def get_data(url):
     response = requests.get(url)
     response_json = response.json()

@@ -106,20 +106,20 @@ _attrLabel = [NudeIn make:^(NUDTextMaker *make) {
 
 /// 对声明了 link 属性的部分定义回调
  (void)linkHandler:(NUDAction *)action {
-    
+
     if ([action isKindOfClass:[NUDLinkAction class]]) {
-        
+
         NUDLinkAction *linkAction = (NUDLinkAction *)action;
-        
+
         UIAlertController *alertController = [UIAlertController alertControllerWithTitle:linkAction.string message:nil preferredStyle:UIAlertControllerStyleAlert];
-    
+
         [alertController addAction:[UIAlertAction actionWithTitle:@"OK" style:UIAlertActionStyleDefault handler:^(UIAlertAction * _Nonnull action) {
         }]];
-        
+
         [self presentViewController:alertController animated:YES completion:nil];
-        
+
     }
-    
+
 }
 ```
 
@@ -179,7 +179,7 @@ _attrLabel = [NudeIn make:^(NUDTextMaker *make) {
 
 ![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/FaceBoxes.png)
 
-33、[SSH](https://github.com/mahyarnajibi/SSH)：该项目是 ICCV2017 论文 [SSH:Single Stage Headless Face Detector](https://arxiv.org/abs/1708.03979) 
+33、[SSH](https://github.com/mahyarnajibi/SSH)：该项目是 ICCV2017 论文 [SSH:Single Stage Headless Face Detector](https://arxiv.org/abs/1708.03979)
  作者自己开源的项目，算是官方开源项目，具有一定的权威性。SSH 也算是人脸检测中一个经典的方法，具有较高的精度和较快的速度。项目实现了论文中的很多细节，对复现过程也有详细的讲解，容易实现。美中不足的是论文中的 Pyramid 方式，该项目没有实现
 
 ![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/SSH.jpeg)

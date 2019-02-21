@@ -122,7 +122,7 @@ import { render, WeElement, define } from 'omi'
 
 define('my-counter', class extends WeElement {
     static observe = true
-    
+
     data = {
       count: 1
     }

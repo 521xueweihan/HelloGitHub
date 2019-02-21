@@ -108,7 +108,7 @@ func main() {
 $ git clone https://github.com/go-gitea/gitea
 $ cd gitea
 $ TAGS="bindata" make generate all
-$ ./gitea web 
+$ ./gitea web
 ```
 
 #### Java 项目
