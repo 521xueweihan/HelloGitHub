@@ -1,7 +1,7 @@
 ## 项目推荐
-- 项目名称：
-
 - 项目地址：
+
+- 类别：选择列表：（C、C#、C++、CSS、Go、Java、Kotlin、Objective-C、PHP、Python、Ruby、Swift、其它、书籍、机器学习）
 
 - 项目后续更新计划：
 
