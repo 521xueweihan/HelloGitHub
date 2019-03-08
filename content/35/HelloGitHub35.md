@@ -192,7 +192,7 @@ if __name__ == '__main__':
 
 22、[OI-WIKI](https://github.com/24OI/OI-WIKI)：免费、开放、持续更新的编程竞赛相关知识教程。包含竞赛的基础知识、常见题型、解题思路以及常用工具等内容，帮助大家更快速、深入地学习编程竞赛相关知识
 
-23、[USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource)：该仓库收录中国科学技术大学众多课程资源。包括电子版教材、参考书、讲义、试卷、学习心得、习题解答等。以计算机学院课程为主，也包含公选课、自由选修等其他课程。
+23、[USTC-CS-Courses-Resource](https://github.com/USTC-Resource/USTC-Course)：该仓库收录中国科学技术大学众多课程资源。包括电子版教材、参考书、讲义、试卷、学习心得、习题解答等。以计算机学院课程为主，也包含公选课、自由选修等其他课程。
 
 ![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/USTC-CS-Courses-Resource.png)
 
