@@ -257,7 +257,7 @@ Hello, Click!
 25、[iOS-Developer-Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)：（英文） iOS 开发者学习路线图
 
 #### 其它
-26、[Visual-Studio-Code-Keymap-CN](https://github.com/Sugar250/Visual-Studio-Code-Keymap-CN)：VS Code 编辑器官方快捷键查图汉化版
+26、[Visual-Studio-Code-Keymap-CN](https://github.com/OrwillT/Visual-Studio-Code-Keymap-CN)：VS Code 编辑器官方快捷键查图汉化版
 
 27、[algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)：算法可视化工具。你可以自由选择自己想学习的算法，每个算法它都清晰描绘了其原理和运作过程
 
