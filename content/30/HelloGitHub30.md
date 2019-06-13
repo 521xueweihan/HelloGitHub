@@ -1,7 +1,8 @@
 # 《HelloGitHub》第 30 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
-
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
+<p align="center">
+    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+</p>
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -22,12 +23,12 @@
 #### C++ 项目
 1、[2048.cpp](https://github.com/plibither8/2048.cpp)：C++ 写的终端 2048 游戏
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/2048.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/2048.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### CSS 项目
 2、[github-corners](https://github.com/tholman/github-corners)：在你的网站右上角挂上章鱼猫。效果如下：
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/github-corners.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/github-corners.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Go 项目
 3、[frp](https://github.com/fatedier/frp)：一个可用于内网穿透的高性能的反向代理应用，支持 tcp、udp、http、https 协议。有时想要让其他人（外网）通过域名访问或者测试我们在本地搭建的 web 服务，但是由于本地机器没有公网 IP，无法将域名解析到本地的机器，通过 frp 就可以实现这一功能。例如：微信公众号开发、slack bot 开发等，[中文文档](https://github.com/fatedier/frp/blob/master/README_zh.md)
@@ -41,7 +42,7 @@ go get github.com/fogleman/nes
 nes [rom文件的路径]
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/nes.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/nes.png' style="max-width:80%; max-height=80%;"></img></p>
 
 5、[filebrowser](https://github.com/filebrowser/filebrowser)：自带文件浏览器的网盘服务。支持功能：文件浏览、文件生成分享链接、批量上传、文件夹创建等服务、用户系统。安装步骤如下：
 1. 安装：`docker pull filebrowser/filebrowser`
@@ -57,7 +58,7 @@ nes [rom文件的路径]
     ```
 4. 访问：然后访问 `http://localhost` 即可，默认是 80 端口，改端口的话修改 `config.json` 文件
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/filebrowser.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/filebrowser.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Java 项目
 6、[cicada](https://github.com/TogetherOS/cicada)：基于 Netty4 实现的快速、轻量级 Web 框架。没有过多的依赖，核心 jar 包仅 30KB。一行代码即可启动 HTTP 服务，支持灵活的传参方式。[中文文档](https://github.com/TogetherOS/cicada/blob/master/README-ZH.md)，示例代码：
@@ -72,7 +73,7 @@ public class MainStart {
 #### JavaScript 项目
 7、[legoflow](https://github.com/legoflow/legoflow)：内置最前沿的 WebPack4、Babel7、Gulp4 的构建工具，无需安装复杂的系统环境，更轻、更强、开箱即用的前端工作流客户端
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/legoflow.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/legoflow.png' style="max-width:80%; max-height=80%;"></img></p>
 
 8、[v-uploader](https://github.com/TerryZ/v-uploader)：基于 Vue2 简洁易用、可批量、拖拽的文件上传插件。该[作者 GitHub 仓库](https://github.com/TerryZ?tab=repositories) 还有很多使用 Vue 开发的组件，想学习编写 Vue 组件的同学可以前去学习、借鉴。[文档及示例](https://terryz.gitee.io/vue/#/upload/demo)，支持功能：
 - 单文件上传模式带图片预览框
@@ -80,11 +81,11 @@ public class MainStart {
 - 批量上传模式支持图片预览、文件拖拽
 - 健全的上传文件限制，文件类型、文件尺寸、自定义校验等
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/v-uploader.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/v-uploader.png' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[ice](https://github.com/alibaba/ice)：让前端开发简单而友好，海量可复用物料，配套桌面工具极速构建前端应用。模板比较多，样式易于定制，物料的概念很好。可用来极速构建中后台应用，[官网](https://alibaba.github.io/ice/iceworks)
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/ice.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/ice.png' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[thejsway](https://github.com/bpesquet/thejsway)：JavaScript 教程（英文），该教程对新手友好、全面。从编程基础到前端、后端 Web 开发。该教程采用 ES2015 语法编写，还有良好的编程习惯指导。使用 ESLint 、Pretties 工具，并遵循 [AirBnb 风格指南](https://github.com/airbnb/javascript)。每章都有练习，使得获得的技能付诸于事件。最后的一个实战项目将指导你创建[新闻 Web 应用](https://thejsway-publink.herokuapp.com/)
 
@@ -94,7 +95,7 @@ public class MainStart {
 #### Python 项目
 12、[termtosvg](https://github.com/nbedos/termtosvg)：Python 写的终端记录器。通过命令 `termtosvg` 运行该工具，然后在终端执行你要展示的命令，最终输入 `exit` 命令结束录制，本地会生成一份 SVG 动画，可用于分享、展示终端操作。效果如下：
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/termtosvg.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/termtosvg.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 13、[cx-extractor-python](https://github.com/chrislinan/cx-extractor-python)：这是一个对网页正文进行抽取的工具。 [cx-extractor](https://github.com/chrislinan/cx-extractor/blob/master/%E5%9F%BA%E4%BA%8E%E8%A1%8C%E5%9D%97%E5%88%86%E5%B8%83%E5%87%BD%E6%95%B0%E7%9A%84%E9%80%9A%E7%94%A8%E7%BD%91%E9%A1%B5%E6%AD%A3%E6%96%87%E6%8A%BD%E5%8F%96%E7%AE%97%E6%B3%95.pdf) 算法的 python 版本，改进了原有算法，使其支持中英文，对新闻类网页正文抽取效果较好。示例代码：
 ```python
@@ -110,7 +111,7 @@ print(s)
 #### Swift 项目
 14、[FileHider-for-mac](https://github.com/zhihaozhang/FileHider-for-mac)：一款将你的文件夹、文件隐藏起来的小工具。适用于 macOS X 10.10 及以后的版本
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/FileHider-for-mac.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/FileHider-for-mac.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### 其它
 15、[weekly](https://github.com/dt-fe/weekly)：前端精读。前端界的好文精读，每周更新
@@ -129,12 +130,20 @@ print(s)
 
 
 ---
+<p align="center">
+    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
+    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+</p>
 
-## 换种方式阅读
-- **网站：** https://hellogithub.com
-- **GitBook：** https://gitbook.hellogithub.com
+## 公众号
+最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
 
 ## 声明
-如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 **欢迎转载，请注明出处和作者，同时保留声明。**

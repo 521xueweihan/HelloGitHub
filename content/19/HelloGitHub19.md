@@ -1,7 +1,8 @@
 # 《HelloGitHub》第 19 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
-
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
+<p align="center">
+    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+</p>
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -22,12 +23,12 @@
 #### Go 项目
 1、[ctop](https://github.com/bcicen/ctop)：实现了类 top 命令展示效果的 docker 容器监控工具
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/ctop.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/ctop.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Java 项目
 2、[MVPArt](https://github.com/JessYanCoding/MVPArt)：一个新的 MVP 架构，此框架旨在解决传统 MVP 类和接口太多、并且 Presenter 和 View 通过接口通信过于繁琐、重用 Presenter 代价太大等问题。架构图如下：
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/MVPArt-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/MVPArt-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 3、[p3c](https://github.com/alibaba/p3c)：阿里云栖大会发布的 Java 代码规约扫描插件，支持多种 IDE。代码规范对于编程来说是非常重要的，随着代码量的增多会更加意识到其重要性。赶快拿去使用吧，[阿里巴巴 Java 开发手册](https://github.com/alibaba/p3c/blob/master/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E7%BB%88%E6%9E%81%E7%89%88%EF%BC%89.pdf)
 
@@ -41,7 +42,7 @@
 - 水果机
 - ...
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/wxapp-market.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/wxapp-market.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[SelectMenu](https://github.com/TerryZ/SelectMenu)：基于 jQuery 1.x 库的多样化的下拉菜单插件，源码具有中文注释，对于学习 jQuery 插件有帮助。示例代码如下：
 ```javascript
@@ -59,21 +60,21 @@ $('#btnDemo').selectMenu({
 });
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/SelectMenu-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/SelectMenu-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[project-guidelines](https://github.com/wearehive/project-guidelines)：JavaScript 项目规范，[中文](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md)
 
 8、[emoji](https://github.com/gee1k/emoji)：方便快速查找获取 emoji 表情、名称，并且可以复制到任何文本中，另外支持中文搜索 💯 [网站地址](http://emoji.svend.cc/)
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/emoji.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/emoji.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[H5](https://github.com/answershuto/H5)：这是作者的个人项目，功能是可视化编辑、生成手机 H5 页面的单页应用 WebApp。该项目是一个全栈项目，具有前后端完整服务。并且项目结构清晰。后端服务具有控制器，模型，路由，前端服务具有组件，并且使用 Vuex 做状态管理，麻雀虽小五脏俱全
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/H5.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/H5.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[micro-note](https://github.com/linguowei/micro-note)：目前的前端圈使用最多的莫过于 Vue 以及 React，而 Angular 使用相比前两个就会少一点，而 Angular 也因为过于强大，导致学习曲线陡峭涉及概念繁多等问题。该项目（徽记）是基于 Angular4 以及 Typescript 开发，项目中都是 Angular4 基础使用，适合新手入门、学习、动手实践
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/micro-note-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/micro-note-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Kotlin 项目
 11、[kotlin-examples](https://github.com/JetBrains/kotlin-examples)：JetBrains 开源的 Kotlin 语言 Web 示例项目
@@ -81,7 +82,7 @@ $('#btnDemo').selectMenu({
 #### Objective-C 项目
 12、[BulletAnalyzer](https://github.com/syik/BulletAnalyzer)：斗鱼弹幕分析工具，功能包含：语义近似度合并、CG/CA 图表数据绘制、Socket 链接数
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/BulletAnalyzer-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/BulletAnalyzer-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### PHP 项目
 13、[Biny](https://github.com/Tencent/Biny)：腾讯开源的一款高性能的超轻量级PHP框架，用于快速开发现代 Web 应用程序。代码简洁优雅，对应用层，数据层，模板渲染层的封装简单易懂，能够快速上手使用，[文档](http://www.billge.cc/)齐全。高性能，框架响应时间在 1ms 以内，单机 qps 轻松上3000。
@@ -140,24 +141,32 @@ itchat.send('Hello, filehelper', toUserName='filehelper')
 
 22、[Awesome_APIs](https://github.com/TonnyL/Awesome_APIs)：第三方 API 集合，包含：国内、国外、官方、非官方
 
-23、[chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)：中华古典文集数据集，以 json 文件方式存储。[爬取过程及分析](https://jackeygao.io/words/crawl-ci.html)
+23、[chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)：中华古典文集数据集，包含 5.5 万首唐诗、26 万首宋诗和 2.1 万首宋词。唐宋两朝近 1.4 万古诗人和两宋时期1500 词人。以 json 文件、数据库方式存储，[爬取过程及分析](https://jackeygao.io/words/crawl-ci.html)
 
 #### 开源书籍
 24、[kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook)：Kubernetes 中文指南／实践手册，[在线阅读](https://jimmysong.io/kubernetes-handbook/)
 
 25、[op_practice_book](https://github.com/BillWang139967/op_practice_book)：《运维实践指南》
 
-26、[microservices-from-design-to-deployment-chinese](https://github.com/oopsguy/microservices-from-design-to-deployment-chinese)：《微服务：从设计到部署》中文版，[在线阅读](http://oopsguy.com/books/microservices/index.html)
+26、[microservices](https://github.com/DocsHome/microservices)：《微服务：从设计到部署》中文版，[在线阅读](http://oopsguy.com/books/microservices/index.html)
 
 
 
 ---
+<p align="center">
+    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
+    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+</p>
 
-## 换种方式阅读
-- **网站：** https://hellogithub.com
-- **GitBook：** https://gitbook.hellogithub.com
+## 公众号
+最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
 
 ## 声明
-如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 **欢迎转载，请注明出处和作者，同时保留声明。**

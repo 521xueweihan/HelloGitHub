@@ -1,7 +1,8 @@
 # 《HelloGitHub》第 23 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
-
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
+<p align="center">
+    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+</p>
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -25,14 +26,14 @@
 #### C# 项目
 2、[NiceHashMinerLegacy](https://github.com/nicehash/NiceHashMinerLegacy)：一款可以自动帮你挖比特币的免费 App。[中文官网地址](https://miner.nicehash.com/)，经典版截图如下：
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/NiceHashMinerLegacy-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/NiceHashMinerLegacy-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Java 项目
 3、[weixin-java-tools](https://github.com/Wechat-Group/weixin-java-tools)：开源、非官方、功能全面的微信开发 Java SDK，支持包括微信支付、开放平台、小程序、企业号和公众号等功能的开发。[示例 Demo 索引](https://github.com/Wechat-Group/weixin-java-tools/blob/master/demo.md)，以及详细的[开发文档](https://github.com/wechat-group/weixin-java-tools/wiki)
 
 4、[CC](https://github.com/luckybilly/CC)：使用简单、功能丰富的 Android 组件化框架。适用于几乎所有的组件化开发需求，可进行组件层面的 AOP 编程。[项目 wiki](https://github.com/luckybilly/CC/wiki)
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/cc.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/cc.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 5、[Geisha](https://github.com/RitterHou/Geisha)：用 Java 语言写的 Web MVC 框架。包含诸多语言特性并实现了 IOC 、通过注解设置 URL 映射的功能。入门实践项目，适合新手熟悉 Java 语法和了解 Web 框架的实现。示例代码如下：
 ```java
@@ -92,20 +93,20 @@ fetch('/url').then(res => {}).catch(err => {})
 
 12、[python-console-snake](https://github.com/tancredi/python-console-snake)：命令行贪吃蛇
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/python-console-snake-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/python-console-snake-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 13、[toapi](https://github.com/gaojiuli/toapi)：该项目做的事儿是通过简单的配置把目标网页的内容爬下来，缓存结果后提供成 API 的一条龙服务。
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/toapi-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/toapi-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 14、[redash](https://github.com/getredash/redash)：开源的数据可视化 Web 项目，提供了数据库查询和数据可视化功能。只提供的数据可视化最要的功能，使得简单易用且容易上手。可以直观地将一个 SQL 查询的结果可视化出来。同时提供 SQL 代码片段存储，减少重复编写 SQL 的问题
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/redash.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/redash.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Swift 项目
 15、[LyricsX](https://github.com/ddddxxx/LyricsX)：一个为 iTunes、Spotify、Vox 播放器提供自动下载歌词，并在桌面和任务栏显示的插件
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/LyricsX-show-min.jpg)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/LyricsX-show-min.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 #### 其它
 16、[vim-galore](https://github.com/mhinz/vim-galore)：Vim 从入门到精通，[中文](https://github.com/wsdjeg/vim-galore-zh_cn)
@@ -127,12 +128,20 @@ fetch('/url').then(res => {}).catch(err => {})
 
 
 ---
+<p align="center">
+    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
+    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+</p>
 
-## 换种方式阅读
-- **网站：** https://hellogithub.com
-- **GitBook：** https://gitbook.hellogithub.com
+## 公众号
+最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
 
 ## 声明
-如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 **欢迎转载，请注明出处和作者，同时保留声明。**

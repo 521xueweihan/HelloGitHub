@@ -1,7 +1,8 @@
 # 《HelloGitHub》第 14 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
-
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
+<p align="center">
+    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+</p>
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -32,7 +33,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 
 3、[bfs](https://github.com/baidu/bfs)：百度文件系统，架构图如下：
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/bfs-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/bfs-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Go 项目
 4、[poseidon](https://github.com/Qihoo360/poseidon)：Poseidon 系统是奇虎 360 开源的一个日志搜索平台，可以在数百万亿条、数百 PB 大小的日志数据中快速分析和检索特定字符串。
@@ -42,7 +43,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 6、[fsql](https://github.com/kshvmdn/fsql)：用 SQL 的语法搜索文件，酷吧
 
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/fsql.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/fsql.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Java 项目
 7、[symphony](https://github.com/b3log/symphony)：用 Java 实现的现代化社区（论坛／社交网络／博客）平台，功能众多，[访问该社区](https://hacpai.com/tag/Sym)
@@ -55,12 +56,12 @@ gcc -g -O2 testSearcher.c ip2region.c
 10、[BrowserQuest](https://github.com/mozilla/BrowserQuest)：Mozilla 开源的多人在线角色扮演游戏项目
 
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/browserquest-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/browserquest-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[Rental](https://github.com/answershuto/Rental)：一款租房 APP，基于 Node.js 爬虫，爬取 58 同城租房信息，并用地图进行可视化展示，方便用户获取周围租房信息
 
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/rental-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/rental-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 12、[deep-into-node](https://github.com/yjhjstz/deep-into-node)：深入理解 Node.js 的核心思想与源码分析
 
@@ -68,29 +69,29 @@ gcc -g -O2 testSearcher.c ip2region.c
 13、[iTerm2](https://github.com/gnachman/iTerm2)：Mac 上超好用的终端软件
 
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/iterm2-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/iterm2-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### PHP 项目
 14、[nextcloud](https://github.com/nextcloud/server)：开源云存储平台，功能齐全，可以用于搭建公司内部的云存储平台
 
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/nextcloud-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/nextcloud-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Python 项目
-15、[explainshell1](https://github.com/idank/explainshell)：一个可以解析 Linux 命令的网站，它可以给出命令的解释和其参数的解释，例如：`ps -aux|grep python`，[在线演示](https://www.explainshell.com/)
+15、[explainshell](https://github.com/idank/explainshell)：一个可以解析 Linux 命令的网站，它可以给出命令的解释和其参数的解释，例如：`ps -aux|grep python`，[在线演示](https://www.explainshell.com/)
 
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/explainshell-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/explainshell-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 16、[certbot](https://github.com/certbot/certbot)：免费的自动启用和部署 HTTPS 的工具，让你的网站开启 HTTPS 变得简单快捷。在部署教程页面选择服务器的操作系统和 Web 服务器，之后根据给出的步骤一步步的执行命令就行了，[部署教程](https://certbot.eff.org/)
 
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/cerbot-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/cerbot-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 17、[pdir2](https://github.com/laike9m/pdir2)：Python 程序员需要一个更好的 `dir()` —— 以更加友好的显示 `dir()` 输出的结果
 
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/pdir2.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/pdir2.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Swift 项目
 18、[EmojiIntelligence](https://github.com/Luubra/EmojiIntelligence)：完全用 Swift 实现神经网络的 Demo
@@ -98,7 +99,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 - 使用神经网络识别图形，返回 emoji 表情
 
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/emoji-intelligence.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/emoji-intelligence.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### 其它
 19、[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)：一个能够让你快速上手，史称 “终极 Shell” zsh 的工具，让你感觉终端前所未有的好用。详细介绍 —— [MacTalk 之终极 Shell](http://macshuo.com/?p=676)
@@ -114,12 +115,20 @@ gcc -g -O2 testSearcher.c ip2region.c
 
 
 ---
+<p align="center">
+    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
+    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+</p>
 
-## 换种方式阅读
-- **网站：** https://hellogithub.com
-- **GitBook：** https://gitbook.hellogithub.com
+## 公众号
+最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
 
 ## 声明
-如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 **欢迎转载，请注明出处和作者，同时保留声明。**

@@ -1,7 +1,8 @@
 # 《HelloGitHub》第 34 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
-
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
+<p align="center">
+    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+</p>
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -22,7 +23,7 @@
 #### C++ 项目
 1、[playerdemo](https://github.com/itisyang/playerdemo)：开源、入门级视频播放器跨平台视频播放器。该播放器拥有视频播放器基本功能，适合学习播放器开发技术，音频、视频技术
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/playerdemo.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/playerdemo.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Go 项目
 2、[sqler](https://github.com/alash3al/sqler)：根据 SQL 和配置文件生成接口的工具。与传统的 SQL 生成 RESETful API 的工具不同，这个工具允许你自定义一些 API 的前、后处理，Auth 之类的行为。启动命令 `sqler -config=path to config file`，配置示例：
@@ -68,19 +69,19 @@ adduser {
 
 3、[color](https://github.com/gookit/color)：Golang 的命令行色彩使用库。拥有丰富的色彩渲染输出、通用的 API 方法、兼容 Windows 系统
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/color.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/color.png' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[Modlishka](https://github.com/drk1wi/Modlishka)：钓鱼网站生成工具。该工具会根据给定的模版生成一个钓鱼网站，然后在该网站输入的用户名密码等敏感信息会被记录
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/Modlishka.jpeg)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/Modlishka.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-5、[txqr](https://github.com/divan/txqr)：通过动态二维码传输数据，如：传输文件等。
+5、[txqr](https://github.com/divan/txqr)：通过动态二维码传输数据，如：传输文件等
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/txqr.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/txqr.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[gitbatch](https://github.com/isacikgoz/gitbatch)：批量管理 Git 仓库的命令行工具
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/gitbatch.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/gitbatch.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Java 项目
 7、[hutool](https://github.com/looly/hutool)：功能丰富的 Java 工具包。它帮助我们实现了常用的工具方法，从而减少代码的体积，提高开发效率。该项目最初是作者工作项目中的`util`模块，后来慢慢积累并加入更多非业务相关工具类方法。经过整理修改，最终形成丰富的开源工具集。示例代码：
@@ -92,7 +93,7 @@ String aStr = Convert.toStr(a);
 
 8、[android-viabus-architecture](https://github.com/KunMinX/android-viabus-architecture)：一款响应式架构。借助总线转发数据的请求和响应，实现 UI、业务的完全解耦
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/android-viabus-architecture.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/android-viabus-architecture.png' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[DevUtils](https://github.com/afkT/DevUtils)：Android 工具库，注释规范、API文档清晰明了、工具类种类多。根据不同功能模块封装，方便使用。帮助开发人员，便捷、快速地开发安全、可靠的项目。内置部分常用的资源文件，如 color.xml、layout.xml 等
 
@@ -108,7 +109,7 @@ String aStr = Convert.toStr(a);
 
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/vConsole.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/vConsole.png' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[omi](https://github.com/Tencent/omi)：腾讯开源的通用 Web 组件化框架。特点：
 - 拥有官方 UI 组件库
@@ -146,18 +147,18 @@ define('my-counter', class extends WeElement {
     }
   })
 
-render(<my-counter ></my-counter>, 'body')
+render(<my-counter />, 'body')
 ```
 
 12、[RSSHub](https://github.com/DIYgod/RSSHub)：轻量、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源。现已支持丰富的源，详情见[文档](https://docs.rsshub.app/)
 
 13、[hve-notes](https://github.com/hve-notes/hve-notes)：静态博客写作客户端，你可以用它来记录你的生活、心情、知识、笔记、创意。使用了 electron 技术，对于学习 Javascript 桌面端开发是一个很好的项目
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/hve-notes.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/hve-notes.png' style="max-width:80%; max-height=80%;"></img></p>
 
 14、[weapp-library](https://github.com/imageslr/weapp-library)：提供在线借书功能的开源小程序项目。连接读者与图书馆，实现图书借阅线上化。界面风格良好，功能完整。具有注册登录、图书搜索、书单系统、订单管理等功能。这是一个完整的小程序项目，包括了前后端的开发，并且撰写了完善的文档，适合初学者学习。可以扫描下面的小程序码体验：
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/weapp-library.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/weapp-library.png' style="max-width:80%; max-height=80%;"></img></p>
 
 15、[axial3d](https://github.com/bestvist/axial3d)：实现了类似 GitHub 404 页面的动画效果。效果有趣，使用场景较多，并且实现了组件化，示例代码：
 ```javascript
@@ -186,19 +187,19 @@ render(<my-counter ></my-counter>, 'body')
 </html>
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/axial3d.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/axial3d.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 16、[giojs](https://github.com/syt123450/giojs)：基于 Three.js 的 Web 3D 地球数据可视化的开源组件库。使用 Gio.js 的网页应用开发者，可以快速地以申明的方式创建自定义的 Web3D 数据可视化模型，添加数据，并且将其作为一个组件整合到自己的应用中。支持静态 Dom、React和微信小程序。具有一下特点：
 - 易用性 -- 仅使用 4 行 Javascript 即可创建 3D 地球数据可视化模型
 - 定制化 -- 使用 Gio.js 提供的丰富的 API 来创建自定义样式的 3D 地球
 - 现代化 -- 基于 Gio.js 构建高交互、跨平台、自适应的现代化 3D 前端应用
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/giojs.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/giojs.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Objective-C 项目
 17、[keycastr](https://github.com/keycastr/keycastr)：在屏幕上实时显示当前按键的工具
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/keycastr.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/keycastr.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 18、[Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements)：一款 macOS 的强大的修键软件
 
@@ -211,12 +212,12 @@ render(<my-counter ></my-counter>, 'body')
 - 可直接使用 Swoole 的很多特性
 - 等等
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/laravel-s.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/laravel-s.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Python 项目
 20、[sherlock](https://github.com/TheYahya/sherlock)：（英文）在主流社交网站，例如：GitHub、Facebook 等网站上查找指定的用户名是否存在。你想取一个独一无二的名字吗？快试试吧
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/sherlock.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/sherlock.png' style="max-width:80%; max-height=80%;"></img></p>
 
 21、[click](https://github.com/pallets/click)：Python 的第三方库，用于快速创建命令行。支持装饰器方式调用、多种参数类型、自动生成帮助信息等。示例代码如下：
 ```python
@@ -247,7 +248,7 @@ Hello, Click!
 - 代码量少：方便阅读源码、动手修改、二次开发
 - 等等
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/PSpider.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/PSpider.png' style="max-width:80%; max-height=80%;"></img></p>
 
 23、[awesome-python-applications](https://github.com/mahmoud/awesome-python-applications)：（英文）介绍 Python 有趣、神奇的开源项目。目前涵盖多个领域、项目丰富
 
@@ -268,7 +269,7 @@ Hello, Click!
 
 30、[the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)：生成对抗网络（Generative Adversarial Networks，简称GAN）的一个大集合，作者列举了生成对抗网络领域各式各样的应用集合，大部分为论文，包含少数的 GitHub 项目。该项目对于 GAN 领域覆盖面全面，论文列表整理清晰，GAN 方向的研究者可以从这个项目中查询到想看的经典的论文或者扩充自己的知识储备
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/the-gan-zoo.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/the-gan-zoo.png' style="max-width:80%; max-height=80%;"></img></p>
 
 31、[pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT)：Google 神级语言表示模型的 PyTorch 预训练模型和 PyTorch 框架结合，使得更加容易上手。PyTorch 版本更方便小白上手实验。示例代码：
 ```python
@@ -301,17 +302,25 @@ segments_tensors = torch.tensor([segments_ids])
 
 33、[Semantic-Segmentation-Suite](https://github.com/GeorgeSeif/Semantic-Segmentation-Suite)：图像语义分割模型组件整理，包含了模型、数据增广、准确率评价等模块。方便研究者快速搭建和试验一个图像语义分割模型，同时集成了一些 state-of-the-art 的模型
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/Semantic-Segmentation-Suite.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/Semantic-Segmentation-Suite.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
 ---
+<p align="center">
+    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
+    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+</p>
 
-## 换种方式阅读
-- **网站：** https://hellogithub.com
-- **GitBook：** https://gitbook.hellogithub.com
+## 公众号
+最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
 
 ## 声明
-如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 **欢迎转载，请注明出处和作者，同时保留声明。**

@@ -1,7 +1,8 @@
 # 《HelloGitHub》第 27 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
-
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
+<p align="center">
+    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+</p>
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -22,11 +23,11 @@
 #### C# 项目
 1、[Rosin](https://github.com/AlloyTeam/Rosin)：一个 Fiddler 插件，用于协助开发者进行移动端页面开发、调试
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/Rosin-min.jpeg)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/Rosin-min.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 2、[SiteServer-CMS](https://github.com/siteserver/cms/)：开源、免费、企业级内容管理平台。基于该工具可以快速、方便地搭建搭建一个性能优异、颇具规模、易于维护的网站平台
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/SiteServer-CMS-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/SiteServer-CMS-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### C++ 项目
 3、[MyTinySTL](https://github.com/Alinshans/MyTinySTL)：用 C++11 实现的小型 STL（容器库＋算法库）。代码结构清晰规范、包含中文文档与注释，并且自带一个简单的测试框架，适合新手学习与参考。示例代码如下：
@@ -57,7 +58,7 @@ $ go get github.com/machinebox/appify
 $ appify -name "My Go Application" -icon ./icon.png /path/to/bin
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/appify-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/appify-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 5、[usql](https://github.com/xo/usql)：通用SQL命令行客户端。支持以下所有数据库和协议：
 
@@ -80,7 +81,7 @@ $ appify -name "My Go Application" -icon ./icon.png /path/to/bin
 #### Java 项目
 6、[RetrofitUrlManager](https://github.com/JessYanCoding/RetrofitUrlManager)：以简洁的 API 让 Retrofit 同时支持多个 BaseUrl，动态改变 BaseUrl
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/RetrofitUrlManager.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/RetrofitUrlManager.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### JavaScript 项目
 7、[v-region](https://github.com/TerryZ/v-region)：使用 Vue 创建的中国省市区选择组件，组件复用程度高、可直接引入项目中使用。使用场景适用于需要用户选择地址，采用该组件可以提高交互程度。[文档](https://terryz.github.io/vue/#/region/demo)，示例代码：
@@ -90,22 +91,22 @@ $ appify -name "My Go Application" -icon ./icon.png /path/to/bin
 <v-region class="form-control"></v-region> // 显示省市区
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/v-region-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/v-region-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 8、[whistle](https://github.com/avwo/whistle)：基于 Node.js 实现的跨平台 web 调试代理工具，类似于 Windows 平台上的 Fiddler。主要用于查看、修改HTTP、HTTPS、Websocket的请求、响应，也可以作为 HTTP 代理服务器使用。不同于 Fiddler 通过断点修改请求响应的方式，whistle 采用的是类似配置系统 hosts 的方式，一切操作都可以通过配置实现。通过该工具，可以现实复杂的前端环境、生产、开发、bugFix 一键切换。
 
 9、[simpread](https://github.com/Kenshin/simpread)：让你瞬间进入沉浸式阅读的扩展，还原阅读的本质，提升你的阅读体验。使用它可以为你剔除页面上无关的干扰信息，让用户专注于阅读主要的内容。通过这个项目，还可以学习如何开发 Chrome 扩展
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/simpread-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/simpread-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[incubator-echarts](https://github.com/apache/incubator-echarts)：使用 JavaScript 实现的开源、流行、强大的可视化库。可以流畅的运行在 PC 和移动设备上，兼容当前绝大部分浏览器。提供直观、交互丰富、可实现高度个性定制化的数据可视化图表，也可将其封装为任何 MVVM 框架的组件方便适用。[官网](http://echarts.baidu.com/)
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/incubator-echarts-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/incubator-echarts-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Objective-C 项目
 11、[KafkaRefresh](https://github.com/OpenFeyn/KafkaRefresh)：内置多种动画、可自定义和灵活的 iOS 下拉刷新框架。[中文文档](https://github.com/OpenFeyn/KafkaRefresh/blob/master/CREADME.md)
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/KafkaRefresh.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/KafkaRefresh.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Python 项目
 12、[tenacity](https://github.com/jd/tenacity)：使用该库可以优雅地实现各种需求的重试。示例代码如下：
@@ -121,7 +122,7 @@ def get_data(url):
 
 13、[unimatrix](https://github.com/will8211/unimatrix)：模拟“黑客帝国”影片中的终端动画脚本
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/unimatrix-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/unimatrix-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 14、[pudb](https://github.com/inducer/pudb)：基于控制台的全屏 Python 可视化调试器。比 pdb 好用太多了，特性：
 - 源码语法高亮，栈、断点、变量可见并且一直动态更新。变量展示还有很多可以定制化的功能。
@@ -129,7 +130,7 @@ def get_data(url):
 - 支持查找源代码，可以使用 m 代用 module browser 查看载入的模块
 - 断点设置。鼠标移到某行代码，按 b，然后可以在断点窗口编辑断点
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/pudb-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/pudb-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Ruby 项目
 15、[hacker101](https://github.com/Hacker0x01/hacker101)：（英文）一个免费的 Web安全课程。无论你是一个程序员、对 bug 悬赏感兴趣，或是一个经验丰富的安全专业人员，在 HACKE101 课程中都可以学到东西。包涵大量示例代码和在线 Demo，示例代码为 Ruby。
@@ -137,11 +138,11 @@ def get_data(url):
 #### Swift 项目
 16、[IBAnimatable](https://github.com/IBAnimatable/IBAnimatable)：一个帮助我们在 Interface Builder 和 Swift Playground 里面设计 UI、交互、导航模式,、换场和动画的开源库。下图的整个 App 都是通过 IBAnimatable 在 Interface Builder 设计完成，没有任何一行代码。
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/IBAnimatable.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/IBAnimatable.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 17、[TuringCalendar](https://github.com/zhihaozhang/TuringCalendar)：图灵教育推出的限量款[编程日历 2018](http://www.ituring.com.cn/book/download/43507086-33c3-40e9-9115-d610e1333bca)，因为简约大气的设计和每周一个编程语言的介绍，在程序员中广受欢迎。现在日历 PDF 的源文件已经开源，于是就有了这个项目。一个 macOS 桌面上的日历 widget，效果图如下：
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/TuringCalendar-min.jpeg)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/TuringCalendar-min.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 #### 其它
 18、[project-guidelines](https://github.com/elsewhencode/project-guidelines)：JavaScript 工程项目的一系列最佳实践策略，[中文版](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md)。其它编程语言的项目也有可以借鉴的地方
@@ -157,17 +158,25 @@ def get_data(url):
 
 23、[elasticsearch-spark-recommender](https://github.com/IBM/elasticsearch-spark-recommender)：使用 Apache Spark 的机器学习库 (MLlib) 来训练一个协同过滤推荐系统模型 和 Elasticsearch 构建一个推荐系统教程，[中文版阅读](https://github.com/IBM/elasticsearch-spark-recommender/blob/master/README-cn.md)
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/elasticsearch-spark-recommender-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/elasticsearch-spark-recommender-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
 ---
+<p align="center">
+    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
+    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+</p>
 
-## 换种方式阅读
-- **网站：** https://hellogithub.com
-- **GitBook：** https://gitbook.hellogithub.com
+## 公众号
+最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
 
 ## 声明
-如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 **欢迎转载，请注明出处和作者，同时保留声明。**

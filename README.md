@@ -34,9 +34,8 @@
 最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:100%;">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"><br>
 欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-
 </p>
 
 ## 合作组织
@@ -47,14 +46,14 @@
     <tr>
       <th align="center" style="width: 80px;">
         <a href="https://github.com/FGDBTKD">
-          <img src="https://avatars3.githubusercontent.com/u/40509403?s=100&v=4" style="max-width:100%;"><br>
+          <img src="https://avatars3.githubusercontent.com/u/40509403?s=80&v=4" style="max-width:100%;"><br>
           <sub>FGDBTKD</sub><br>
           <sub>AI/ML/DL/NLP</sub>
         </a><br>
       </th>
       <th align="center" style="width: 80px;">
         <a href="https://github.com/d2-projects">
-          <img src="https://avatars3.githubusercontent.com/u/40857578?s=100&v=4" style="max-width:100%;"><br>
+          <img src="https://avatars3.githubusercontent.com/u/40857578?s=80&v=4" style="max-width:100%;"><br>
           <sub>D2 Projects</sub><br>
           <sub>Vue/JavaScript</sub>
         </a><br>

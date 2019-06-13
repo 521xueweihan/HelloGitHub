@@ -1,7 +1,8 @@
 # 《HelloGitHub》第 24 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
-
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
+<p align="center">
+    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+</p>
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -77,14 +78,14 @@ class Listener implements DataListener<String> {
 
 5、[SuperLike](https://github.com/Qiu800820/SuperLike)：仿今日头条点赞喷射表情动画
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/SuperLike.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/SuperLike.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### JavaScript 项目
 6、[node-in-debugging](https://github.com/nswbmw/node-in-debugging)：《Node.js 调试指南》作者整理了使用 Node.js 开发这几年的调试经验和思路
 
 7、[chrome-music-lab](https://github.com/googlecreativelab/chrome-music-lab)：Chrome 音乐实验室是一个网站，让学习音乐变得更加简单、好玩。完全基于Web端，国内可直接访问、老少皆宜、支持多种乐器，圆你一个音乐梦
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/chrome-music-lab-show-min.jpg)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/chrome-music-lab-show-min.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 8、[mpvue](https://github.com/Meituan-Dianping/mpvue)：小程序的前端框架。框架基于 Vue.js 核心，修改了 Vue.js 的 runtime 和 compiler 实现。使其可以运行在小程序环境中，为小程序开发引入了整套 Vue.js 开发体验。[5 分钟上手视频](http://mpvue.com/mpvue/quickstart/)
 - 彻底的组件化开发能力：提高代码复用性
@@ -97,21 +98,19 @@ class Listener implements DataListener<String> {
 
 9、[30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)：精选可以在 30秒 或更短的时间内理解的实用 JavaScript 代码片段集合
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/30-seconds-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/30-seconds-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Objective-C 项目
 10、[WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)：Mac 版微信小助手，支持自动回复、消息防撤回、远程控制、微信多开、会话置底、免认证登录、通知快捷回复等功能
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/WeChatPlugin-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/WeChatPlugin-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[LSAnimator](https://github.com/Lision/LSAnimator)：通过使用 LSAnimator（Objective-C）或者 CoreAnimator（Swift）可以用少量的代码实现复杂而又易于维护的动画，并且弥补了 JHChainableAnimations 的致命缺陷。[详细描述](https://github.com/Lision/LSAnimator/blob/master/README_ZH-CN.md)
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/LSAnimator.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/LSAnimator.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### PHP 项目
 12、[DzzOffice](https://github.com/zyx0814/dzzoffice)：一套开源办公套件，适用于企业、团队搭建自己的 类似 Google 企业应用套件、微软 Office365 的企业协同办公平台。[在线演示](http://demo.dzzoffice.com/)
-
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/DzzOffice-show-min.png)
 
 #### Python 项目
 13、[HAipproxy](https://github.com/SpiderClub/haipproxy)：使用 Scrapy＋Redis 实现的高可用分布式 IP 代理池，为大型分布式爬虫提供高可用低延迟的代理 IP 资源。
@@ -129,11 +128,11 @@ print(fetcher.get_proxies()) # or print(fetcher.pool)
 
 以知乎为目标抓取网站，该代理IP池的实际性能测试结果如下：
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/haipproxy-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/haipproxy-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 14、[MovieHeavens](https://github.com/lt94/MovieHeavens)：基于 Pyqt4 的电影天堂电影搜索工具，再也不用忍受各种广告和点击跳转了
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/MovieHeavens.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/MovieHeavens.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 15、[WechatSogou](https://github.com/Chyroc/WechatSogou)：基于搜狗微信搜索的微信公众号爬虫库，极易上手。示例代码：
 ```python
@@ -146,7 +145,7 @@ ws_api.get_gzh_info('微信名称')
 #### Swift 项目
 16、[iina](https://github.com/lhc70000/iina)：Mac 下开源多媒体播放器，支持多国语言、高逼格 UI。安装：`brew cask install iina`
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/iina-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/iina-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### 其它
 17、[Interview-Notebook](https://github.com/CyC2018/Interview-Notebook)：该项目整理了技术面试中需要掌握的基础知识，包含了网络、操作系统、算法、数据库、Java、分布式等
@@ -165,17 +164,25 @@ ws_api.get_gzh_info('微信名称')
 
 23、[DeepLeague](https://github.com/farzaa/DeepLeague)：英雄联盟的机器学习项目，规模不大，适合研究一些 CV 和 ML 的算法应用
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/DeepLeague.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/DeepLeague.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
 ---
+<p align="center">
+    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
+    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+</p>
 
-## 换种方式阅读
-- **网站：** https://hellogithub.com
-- **GitBook：** https://gitbook.hellogithub.com
+## 公众号
+最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
 
 ## 声明
-如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 **欢迎转载，请注明出处和作者，同时保留声明。**

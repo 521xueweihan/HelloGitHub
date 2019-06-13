@@ -1,7 +1,8 @@
 # 《HelloGitHub》第 15 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
-
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
+<p align="center">
+    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+</p>
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -22,12 +23,12 @@
 #### C++ 项目
 1、[Snake](https://github.com/stevennl/Snake)：贪吃蛇游戏 AI 版，通过算法实现让小蛇通过吃豆，最后蛇的身体填满整个地图算结束。该项目详细描述实现思想以及相关算法的讨论
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/snake.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/snake.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### CSS 项目
 2、[MDUI](https://github.com/zdhxiong/mdui)：MDUI 是一套用于开发 Material Design 网页的响应式前端框架。没有任何依赖，支持主题切换，轻量级，低学习成本，[文档](https://www.mdui.org/docs)
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/mdui-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/mdui-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Go 项目
 3、[aliyungo](https://github.com/denverdino/aliyungo)：非官方的 Aliyun Go语言 SDK 支持API：ECS, OSS, DNS, SLB, RDS, RAM, MNS, STS, SLS, MQ, Push, OpenSearch, DM, Container Service
@@ -37,11 +38,11 @@
 #### Java 项目
 5、[FunGameRefresh](https://github.com/Hitomis/FunGameRefresh)：好玩的下拉刷新控件
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/FunGameRefresh.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/FunGameRefresh.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[ProgressManager](https://github.com/JessYanCoding/ProgressManager)：一行代码即可监听 App 中所有网络链接的上传以及下载进度，包括 Glide 的图片加载进度。实现原理类似 EventBus 你可在 App 中的任何地方，将多个监听器以 URL 地址作为标识符，注册到本框架。当此 URL 地址存在下载或者上传的动作时，框架会主动调用所有使用此 URL 地址注册过的监听器，达到多个模块的同步更新
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/progressManager.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/progressManager.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### JavaScript 项目
 7、[veneno](https://github.com/zhuyingda/veneno)：一个基于 Node.js 编写的 web 安全漏洞自动化扫描框架
@@ -50,24 +51,24 @@
 
 9、[font-spider](https://github.com/aui/font-spider)：字蛛是一个智能 WebFont 压缩工具，它能自动分析出页面使用的 WebFont 并进行按需压缩
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/font-spider-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/font-spider-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[slick](https://github.com/kenwheeler/slick)：实现了几乎所有效果的轮播图插件，[在线演示](http://kenwheeler.github.io/slick/)
 
 #### Objective-C 项目
 11、[spectacle](https://github.com/eczarny/spectacle)：OS X 系统下的窗口管理工具，通过快捷键方便、快捷的调整窗口大小和位置
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/spectacle-show-min.jpg)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/spectacle-show-min.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 12、[FLEX](https://github.com/Flipboard/FLEX)：用于 iOS 开发的一组应用内调试工具，功能强大且多，多到不一一列举了
 
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/flex.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/flex.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Python 项目
 13、[musicbox](https://github.com/darknessomi/musicbox)：基于 Python 编写的网易云音乐**命令行**版本，使用起来简单优雅，能够快速安装及使用
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/musicbox.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/musicbox.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 14、[django-blog-tutorial](https://github.com/zmrenwu/django-blog-tutorial)：基于最新版 Django 1.10 和 Python 3.5，通过 26 篇教程一步步带你使用 Django 从零开发一个个人博客系统，在实践的同时掌握 Django 的开发技巧，[完成效果展示](http://demo.zmrenwu.com/)
 
@@ -110,7 +111,7 @@ def test():
 #### Ruby 项目
 17、[mastodon](https://github.com/tootsuite/mastodon)：基于 Ruby 语言的社交网站服务器端所有的源代码，通过这个项目，你可以自己部署一个属于自己的社交网站
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/mastodon-show-min.jpeg)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/mastodon-show-min.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 #### 其它
 18、[vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)：Vim 从入门到精通
@@ -119,13 +120,13 @@ def test():
 
 20、[SpaceVim](https://github.com/SpaceVim/SpaceVim)：一个社区驱动的模块化 vim/neovim 配置集合，其中包含了多种功能模块，并且针对 neovim 做了功能优化。spacevim 有多种功能模块可供选择，支持多种语言。用户只需要选择需要的模块，就可以配置出一个适合自己的开发环境
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/spacevim-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/spacevim-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 21、[english-level-up-tips-for-Chinese](https://github.com/byoungd/english-level-up-tips-for-Chinese)：如何提高英语技能
 
 22、[ch](https://github.com/xnum/ch)：类似 virtualenv，可以在 Linux 下建立虛拟的 home 目录並切换，以管理不同工作或项目的文件
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/ch.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/ch.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### 开源书籍
 23、[redis](https://github.com/huangz1990/redis)：《Redis Command Reference》全文的中文翻译版，[在线阅读](http://redisdoc.com/)
@@ -138,12 +139,20 @@ def test():
 
 
 ---
+<p align="center">
+    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
+    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+</p>
 
-## 换种方式阅读
-- **网站：** https://hellogithub.com
-- **GitBook：** https://gitbook.hellogithub.com
+## 公众号
+最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
 
 ## 声明
-如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 **欢迎转载，请注明出处和作者，同时保留声明。**

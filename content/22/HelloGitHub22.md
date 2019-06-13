@@ -1,7 +1,8 @@
 # 《HelloGitHub》第 22 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
-
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
+<p align="center">
+    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+</p>
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -22,19 +23,19 @@
 #### C++ 项目
 1、[albert](https://github.com/albertlauncher/albert)：Linux 平台下类似于 Mac Alfred 效率神器。支持开机自启动、自定义快捷键等功能
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/albert-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/albert-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Go 项目
 2、[rainbond](https://github.com/goodrain/rainbond)：[好雨](http://www.rainbond.com/)开源的生产级无服务器 PaaS。用于为云原生应用的整个交付流程提供生产级支持，包括基础设施管理、容器化改造、微服务架构转型、DevOps 工作流落地、混合云多云管理等
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/rainbond-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/rainbond-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Java 项目
 3、[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)：[LeetCode](https://leetcode.com/) 上面主要收集了各大 IT 公司的笔试面试题。该项目为 LeetCode Java 语言的题解集合
 
 4、[GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)：Android 视频播放器。支持弹幕、滤镜、水印、截图、边播边缓存、重力旋转与手动旋转的同步等多种功能
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/GSYVideoPlayer.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/GSYVideoPlayer.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 5、[FloatWindow](https://github.com/yhaolpz/FloatWindow)：Andorid 任意界面悬浮窗组件，功能丰富，使用简单。特性如下：
 - 支持拖动、自动贴边等动画
@@ -42,7 +43,7 @@
 - 应用退到后台时，悬浮窗会自动隐藏
 - 等等
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/FloatWindow.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/FloatWindow.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[anychat](https://github.com/dianbaer/anychat)：纯净的 WebSocket 聊天插件。服务器绝对控制权的推送机制，合理的线程设计，[在线 Demo](https://www.threecss.com/AnyChatClient/third-embed-demo.html)。功能如下：
 - 对接任何身份系统
@@ -52,12 +53,12 @@
 - 支持嵌入式，通过 iframe 即可进行嵌入
 - 等等
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/anychat-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/anychat-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### JavaScript 项目
 7、[webpack-component-loader](https://github.com/nicholaslee119/webpack-component-loader)：在不借助框架的情况下，实现 Web component 的标准。该项目对于理解组件化的概念很有帮助
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/webpack-component-loader-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/webpack-component-loader-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 8、[handsontable](https://github.com/handsontable/handsontable)：强大的开源 HTML5 表格处理工具，适用于中后台的很多业务场景。API 方便、扩展性好、可操作性强，与Execl 等表格处理程序兼容好。并支持非常丰富的操作，如数据绑定、验证、排序及强大的上下文菜单。示例代码如下：
 ```js
@@ -124,7 +125,7 @@ for i in tqdm(range(10000)):
 # 76%|████████████████████████████         | 7568/10000 [00:33<00:10, 229.00it/s]
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/tqdm.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/tqdm.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### 其它
 12、[koa-guide](https://github.com/guo-yu/koa-guide)：Node.js Web 框架，Koa 的中文文档
@@ -138,12 +139,20 @@ for i in tqdm(range(10000)):
 
 
 ---
+<p align="center">
+    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
+    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+</p>
 
-## 换种方式阅读
-- **网站：** https://hellogithub.com
-- **GitBook：** https://gitbook.hellogithub.com
+## 公众号
+最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
 
 ## 声明
-如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 **欢迎转载，请注明出处和作者，同时保留声明。**

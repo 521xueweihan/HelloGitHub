@@ -1,7 +1,8 @@
 # 《HelloGitHub》第 13 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
-
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
+<p align="center">
+    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+</p>
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -26,7 +27,7 @@
 2、[Dopamine](https://github.com/digimezzo/Dopamine)：基于WPF编写的现代扁平风格轻量级播放器
 
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/Dopamine-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/Dopamine-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### C++ 项目
 3、[ltp](https://github.com/HIT-SCIR/ltp)：语言技术平台（Language Technology Platform，LTP）是哈工大社会计算与信息检索研究中心历时十年开发的一整套中文语言处理系统。
@@ -35,7 +36,7 @@
 4、[dnt](https://github.com/shiyanhui/dht)：DHT 实现了 BitTorrent DHT 协议，它包含两种模式，标准模式和爬虫模式。标准模式遵循 DHT 协议，你可以把它当做一个标准的 DHT 组件。爬虫模式是为了嗅探到更多 torrent 文件信息，它在某些方面不遵循 DHT 协议。 基于爬虫模式，你可以打造你自己的 BTDigg，[演示地址](http://bthub.io/)
 
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/dnt-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/dnt-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 5、[gobyexample](https://github.com/mmcgrana/gobyexample)：Go 示例代码，[在线浏览](https://gobyexample.com/)
 
@@ -43,7 +44,7 @@
 6、[Grav](https://github.com/glomadrian/Grav)：Android 粒子动画效果，非常炫酷。让 APP 逼格更上一层楼
 
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/Grav.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/Grav.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[AndroidLibs](https://github.com/XXApple/AndroidLibs)：Android 开源代码大全，收集 Android 开发中优秀的开源组件库，方便大家查询
 
@@ -57,17 +58,17 @@
 11、[gifify](https://github.com/vvo/gifify)：可以选择视频文件的某一时间间隔做成 gif 动图
 
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/gifify.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/gifify.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 12、[cmder](https://github.com/cmderdev/cmder)：Windows 控制台模拟器，运行效果如下：
 
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/cmder-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/cmder-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 13、[Vue2.0LOL](https://github.com/arronf2e/Vue2.0LOL)：Vue2.0 版英雄联盟助手
 
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/vue2.0lol-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/vue2.0lol-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 14、[typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)：TypeScript 入门教程
 
@@ -75,7 +76,7 @@
 15、[PYSearch](https://github.com/iphone5solo/PYSearch)：一款综合（QQ 音乐、微信、美团、优酷、虎牙直播等多款 App）风格的搜索控制器
 
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/PYSearch-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/PYSearch-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 16、[PPRows](https://github.com/jkpang/PPRows)：在 Mac 上计算你写了多少行代码的工具
 
@@ -87,7 +88,7 @@
 6. 支持忽略代码中的空行，代码行数计算更精确；
 
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/PPRows.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/PPRows.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Python 项目
 17、[ngxtop](https://github.com/lebinh/ngxtop)：解析 nginx 访问日志并格式化输出有用的信息，可以用来实时了解你的服务器正在发生的情况。安装命令 `pip install ngxtop`，输出示例如下：
@@ -152,7 +153,7 @@ Request failed
 22、[SwitchHosts](https://github.com/oldj/SwitchHosts)：一个用于快速切换 hosts 文件的小程序，基于 Electron 开发
 
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/SwitchHosts-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/SwitchHosts-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 23、[alloyteam](https://github.com/AlloyTeam/alloyteam.github.com)：腾讯 AlloyTeam 开源项目官网
 
@@ -172,12 +173,20 @@ Request failed
 
 
 ---
+<p align="center">
+    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
+    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+</p>
 
-## 换种方式阅读
-- **网站：** https://hellogithub.com
-- **GitBook：** https://gitbook.hellogithub.com
+## 公众号
+最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
 
 ## 声明
-如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 **欢迎转载，请注明出处和作者，同时保留声明。**

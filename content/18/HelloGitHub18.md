@@ -1,7 +1,8 @@
 # 《HelloGitHub》第 18 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
-
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
+<p align="center">
+    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+</p>
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -33,7 +34,7 @@
 - 跨数据中心数据强一致性保证
 - 故障自恢复的高可用
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/tidb-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/tidb-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[echo](https://github.com/labstack/echo)：Go 语言最受欢迎的 Web 框架之一，具有：高性能、便于扩展、轻量的特点，示例代码：
 ```go
@@ -52,12 +53,12 @@ func callback(ctx echo.Context) error {
 }
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/echo-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/echo-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Java 项目
 5、[AndroidTVLauncher](https://github.com/JackyAndroid/AndroidTVLauncher)：一个 TV Leanback 风格桌面，基于 Leanback 库开发，符合 Android TV 官方交互规范
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/AndroidTVLauncher-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/AndroidTVLauncher-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[spring-data-jpa-datatables](https://github.com/darrachequesne/spring-data-jpa-datatables)：spring-data-jpa 和 jQuery [datatables](https://www.datatables.net/) 集成工具。极大简化基于 datatables 数据表格的开发，示例代码：
 ```
@@ -81,7 +82,7 @@ public DataTablesOutput<User> getUsers(@Valid @RequestBody DataTablesInput input
 }
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/spring-data-jpa-datatables-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/spring-data-jpa-datatables-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[xxl-job](https://github.com/xuxueli/xxl-job)：轻量级分布式任务调度框架，其核心设计目标是：开发迅速、学习简单、轻量级、易扩展，文档齐全。[官网](http://www.xuxueli.com/xxl-job/)
 
@@ -91,13 +92,13 @@ public DataTablesOutput<User> getUsers(@Valid @RequestBody DataTablesInput input
 // ConnonJS 方式引入
 const flatpickr = require("flatpickr");
 flatpickr("#myID", {});
-flatpickr(".myClass", {});
+flatpickr(".myClass", {}); 
 
 // jQuery 方式引入
 $(".selector").flatpickr(optional_config);
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/flatpickr-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/flatpickr-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[vue-3d-model](https://github.com/hujiulong/vue-3d-model)：展示三维模型的 Vue 组件，支持模型操作和模型点击事件，能自动缩放模型到合适大小并校正偏移，目前支持 obj、stl、dae 和 json 格式的模型，示例代码：
 ```vue
@@ -113,11 +114,11 @@ $(".selector").flatpickr(optional_config);
 </script>
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/vue-3d-model.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/vue-3d-model.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[weweChat](https://github.com/trazyn/weweChat)：微信的第三方客户端。在完整实现 Web 微信功能的基础上，新增并优化部分功能，重设计整体 UI，提供更好的体验。Mac 安装命令：`brew cask install wewechat`
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/weweChat-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/weweChat-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[puppeteer](https://github.com/GoogleChrome/puppeteer)：Google Chrome 团队开源的面向 Node.js 的，基于 DevTools 协议的远程 Headless Chrome 控制库，它可以生成网页截图、PDF、抓取单页应用与网页内容、进行自动化表单提交、界面测试与模拟键盘输入等功能。示例代码如下：
 ```javascript
@@ -153,12 +154,12 @@ $('#selectpage').selectPage({
 });
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/SelectPage-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/SelectPage-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### PHP 项目
 13、[wooyun_public](https://github.com/hanc00l/wooyun_public)：乌云公开漏洞、知识库爬虫和搜索
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/wooyun-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/wooyun-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Python 项目
 14、[pygorithm](https://github.com/OmkarPathak/pygorithm)：一个帮助学习主要算法的库，可以通过理解这些算法的实现，提高自己的算法水平。冒泡排序示例：
@@ -253,12 +254,20 @@ fake.province()
 
 
 ---
+<p align="center">
+    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
+    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+</p>
 
-## 换种方式阅读
-- **网站：** https://hellogithub.com
-- **GitBook：** https://gitbook.hellogithub.com
+## 公众号
+最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
 
 ## 声明
-如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 **欢迎转载，请注明出处和作者，同时保留声明。**

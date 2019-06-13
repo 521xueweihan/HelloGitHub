@@ -1,7 +1,8 @@
 # 《HelloGitHub》第 21 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
-
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
+<p align="center">
+    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+</p>
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -35,12 +36,12 @@
 #### Go 项目
 3、[mattermost-server](https://github.com/mattermost/mattermost-server)：采用 Go 语言开发的团队通讯服务项目，可用于自行搭建服务。为团队带来跨 PC 和移动设备的消息收发、文件分享，搜索等功能的通讯服务平台
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/mattermost-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/mattermost-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Java 项目
 4、[android-material-design-icon-generator-plugin](https://github.com/konifar/android-material-design-icon-generator-plugin)：IntelliJ／Android Studio 生成、设计 icon 的插件，安装简单使用方便。如下图所示：
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/icon-generator-plugin.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/icon-generator-plugin.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 5、[Blade](https://github.com/biezhi/blade)：轻量级、高效、简洁优雅的 Java Web 框架，致力于为个人开发者更快捷地开发 Web 应用提供便利。详尽的[中文文档](https://github.com/lets-blade/blade/blob/master/README_CN.md)及[入门视频](https://www.bilibili.com/video/av15572599/)。示例代码：
 ```java
@@ -53,23 +54,23 @@ public static void main(String[] args) {
 
 6、[canal](https://github.com/alibaba/canal)：MySQL 数据库 binlog 的增量订阅、消费组件。模拟 MySQL salve 方式，实现 MySQL 的主从同步，同时加入了增量日志解析等功能。MySQL 原始主备机制，示意图如下：
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/canal-show-min.jpeg)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/canal-show-min.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal)：Android 图片、视频文件选择器，支持多选、单选、拍摄和裁剪等
 
 8、[grain](https://github.com/dianbaer/grain)：极简的、组件式的 RPC 框架，灵活且适合学习。包含系统通用多线程模型与消息通讯、多对多关系的分布式锁、基于系统通用多线程模型的 Websocket 框架、支持行级锁的多线程锁等组件
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/grain-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/grain-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### JavaScript 项目
 9、[numeric-keyboard](https://github.com/viclm/numeric-keyboard)：手机数字键盘，包含一个纯键盘 UI 和输入框套件。有纯 JavaScript、React、Vue 三个版本
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/numeric-keyboard-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/numeric-keyboard-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[git-point](https://github.com/gitpoint/git-point)：基于 React Native 开发的非官方开源 GitHub 客户端，功能丰富包含查看项目和用户信息、接收通知、管理
  Issues 和 PR。支持 Android、iOS，选择对应的客户端[下载使用](https://github.com/gitpoint/git-point/releases)
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/git-point-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/git-point-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[wepy](https://github.com/Tencent/wepy)：微信官方的开源项目，该项目是为了让小程序支持组件化开发的框架，特征如下：
 - 类 Vue 开发风格
@@ -79,21 +80,21 @@ public static void main(String[] args) {
 
 12、[webster](https://github.com/zhuyingda/webster)：一款可以抓取网页中 AJAX 异步内容的分布式爬虫框架
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/webster-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/webster-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 13、[anyupload](https://github.com/dianbaer/anyupload)：该项目是一款上传插件，使用方便、简单。支持多文件上传、上传速率动态控制、真实进度监控 kb/s、分块生成 MD5、分块上传、MD5 校验、暂停、取消等功能。[在线体验](https://www.threecss.com/AnyUploadClient/)
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/anyupload-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/anyupload-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Kotlin 项目
 14、[github-profile-summary](https://github.com/tipsy/github-profile-summary)：GitHub 账号数据可视化服务，很新颖地增加了 star 后可见（回复可见）😄
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/github-profile-summary-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/github-profile-summary-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Python 项目
 15、[thefuck](https://github.com/nvbn/thefuck)：在 Linux 命令行中，当你输入的命令有错误后，直接输入 `fuck` 就可以自动执行修复后的命令，效果图如下：
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/thefuck.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/thefuck.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 16、[youtube-dl](https://github.com/rg3/youtube-dl)：强大的视频下载工具，支持几百个国内外主流视频网站。正如名字一样，最初是为了下载 youtube 上的视频而开发的。如果有国外服务器的朋友，可以充分利用这个工具，下载 youtube 上的视频，速度不要太爽。下面介绍安装、下载视频等命令：
 ```
@@ -151,7 +152,7 @@ print(", ".join(seg_list))
 #### 其它
 19、[vscode](https://github.com/Microsoft/vscode)：Visual Studio Code 是微软出品的支持多平台的开源编辑器，体积小、功能丰富、性能强大、扩展性很强。我是用着挺爽，写些代码片段、文章、文档开箱即用。个人感觉编写中型项目、代码调试的话还是 IDE 更方便些，总之推荐下载和使用。[下载地址](https://code.visualstudio.com/)
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/vscode-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/vscode-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 20、[hello-comic](https://github.com/pipiliang/hello-comic)：程序员有关的漫画的集合，希望有更多的人可以加入该项目分享有意思程序员漫画
 
@@ -169,12 +170,20 @@ print(", ".join(seg_list))
 
 
 ---
+<p align="center">
+    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
+    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+</p>
 
-## 换种方式阅读
-- **网站：** https://hellogithub.com
-- **GitBook：** https://gitbook.hellogithub.com
+## 公众号
+最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
 
 ## 声明
-如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 **欢迎转载，请注明出处和作者，同时保留声明。**

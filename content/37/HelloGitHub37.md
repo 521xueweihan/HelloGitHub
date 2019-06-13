@@ -1,7 +1,8 @@
 # 《HelloGitHub》第 37 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
-
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
+<p align="center">
+    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+</p>
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -22,21 +23,21 @@
 #### C# 项目
 1、[RemoteDesktopManage](https://github.com/xunki/RemoteDesktopManage)：基于 MSTSC 连接 Windows 远程桌面，并对其进行封装实现管理多个远程桌面配置的小工具。更加方便地管理多个远程桌面，实现同时远程、互相切换。相当于把多个 MSTSC 集合在一个软件里，并进行分组打标试用
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/RemoteDesktopManage.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/RemoteDesktopManage.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### C++ 项目
 2、[tinytetris]( https://github.com/taylorconor/tinytetris)：一个用 C++ 编写的终端版俄罗斯方块游戏。提供了两个版本的源码，分为注释版和库版，注释较多易于理解和学习
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/tinytetris.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/tinytetris.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Go 项目
 3、[overlord](https://github.com/bilibili/overlord)：基于 Go 语言编写的 memcache 和 redis&cluster 的代理及集群管理平台。致力于提供自动化高可用的缓存服务解决方案。自带图形界面的缓存集群管理程序，[安装步骤](https://github.com/bilibili/overlord/blob/master/doc/wiki-cn/platform-deploy.md)
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/overlord.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/overlord.png' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[kratos](https://github.com/bilibili/kratos)：哔哩哔哩开源的一套 Go 微服务框架，包含大量微服务相关框架及工具。解决了 gin 在微服务场景下的一些适配和微服务本身的一系列生态，[快速开始](https://github.com/bilibili/kratos/blob/master/doc/wiki-cn/quickstart.md)
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/kratos.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/kratos.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 5、[docker-slim](https://github.com/docker-slim/docker-slim)：自动缩减 docker 镜像的体积的工具。大幅度缩减 docker 镜像的体积，方便分发，使用命令 `docker-slim build --http-probe your-name/your-app`。比如 Node.js 镜像缩减后的对比：
 ```
@@ -57,17 +58,17 @@ from node:alpine - 66.7MB => 34.7MB (缩减了 1.92 倍)
 - 对你感兴趣的内容点赞、点评
 - 喜欢的内容轻松转发至主流社交软件，传递你的快乐
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/giffun.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/giffun.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 8、[cim](https://github.com/crossoverJie/cim)：一款面向开发者的 IM 即时通讯系统。命令行通讯工具，对开发者友好。提供了一些组件让开发者易于扩展和定制功能。架构图如下：
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/cim.jpeg)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/cim.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[SpringAll](https://github.com/wuyouzhuguli/SpringAll)：Spring 系列源码教程，包含 Spring Boot、Spring Boot、Spring Cloud 等。Spring 是 Java 目前生命力最强的框架之一，通过资料与源码的配合，容易学习和上手
 
 10、[seata](https://github.com/seata/seata)：一套一站式分布式事务解决方案。让分布式事务的使用像本地事务的使用一样，简单和高效，并逐步解决开发者们遇到的分布式事务方面的所有难题。分布式事务提出了很多年，但是一直没有很好的解决方案，要不就收费很贵。蚂蚁金服开源的 seata，将让分布式事务不在束之高阁，任何需要的人都可以使用它，推荐学习和使用。工作流程图如下：
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/seata.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/seata.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### JavaScript 项目
 11、[xgplayer](https://github.com/bytedance/xgplayer)：由字节跳动西瓜视频开源的带解析器、能节省流量的 HTML5 视频播放器。可以作为 H5 组件、Vue、React 组件单独使用。它根据组件化的原则设计了一个独立的、可分离的 UI 组件。更重要的是，它不仅在 UI 层具有灵活性，而且在功能上也很大胆：它摆脱了视频加载、缓冲和格式支持。在播放器端加载视频、解析视频、转换格式，让不支持分段播放的 MP4 动态支持，这样就无须转换源视频的格式，服务器端也无其他开销。[官网](http://h5player.bytedance.com/)，示例代码：
@@ -85,15 +86,15 @@ const player = new Player({
 
 12、[zhui](https://github.com/zhui-team/zhui)：这是一款国风的组件库。好用的组件库千千万，有趣的创意万里挑一
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/zhui.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/zhui.png' style="max-width:80%; max-height=80%;"></img></p>
 
 13、[emoji-minesweeper](https://github.com/muan/emoji-minesweeper)：Emoji 符号的扫雷游戏。代码很简短，游戏创意很酷。寥寥 300+ 行代码实现该游戏，简短易于初学者学习
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/emoji-minesweeper.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/emoji-minesweeper.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 14、[squoosh](https://github.com/GoogleChromeLabs/squoosh)：谷歌开源的图片压缩工具。在保证图片质量的情况下快速压缩图片，支持多种图片格式。6.63M 的图片压缩后为 2.92M，使用起来简单方便
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/squoosh.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/squoosh.png' style="max-width:80%; max-height=80%;"></img></p>
 
 15、[leetcode](https://github.com/azl397985856/leetcode)：更加贴近前端的数据结构与算法的库。以 leetcode 作为切入点，详细讲解关于数据结构的方方面面， 并以JavaScript 语言作为解题语言。 后期会加入更多关于前端贴合的内容， 比如：`react fiber` 的实现和链表、`react hooks` 的实现和数组等等
 - 第一部分：leetcode 经典题目的解析，包括思路、关键点和具体的代码实现
@@ -111,7 +112,7 @@ stream = ffmpeg.output(stream, 'output.mp4')
 ffmpeg.run(stream)
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/ffmpeg-python.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/ffmpeg-python.png' style="max-width:80%; max-height=80%;"></img></p>
 
 17、[pyright](https://github.com/Microsoft/pyright)：微软出品的 Python 静态类型检查工具。执行速度快，适合大型 Python 项目，引用一句话：动态语言一时爽，重构火葬场
 
@@ -133,7 +134,7 @@ def draw():
 pyxel.run(update, draw)
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/pyxel.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/pyxel.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Ruby 项目
 19、[githubchart-api](https://github.com/2016rshah/githubchart-api)：根据 GitHub 账号的贡献记录生成对应图像。一行代码，可以在任何网站展示自己在 GitHub 上的贡献活跃图标。示例代码：
@@ -141,14 +142,14 @@ pyxel.run(update, draw)
 <img src="http://ghchart.rshah.org/用户名" alt="Github commit chart" />
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/githubchart-api.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/githubchart-api.png' style="max-width:80%; max-height=80%;"></img></p>
 
 20、[guides](https://github.com/thoughtbot/guides)：Ruby 编程风格指南。统一的格式风格有利于代码的维护和迭代，对于 Ruby 使用者而言帮助极大
 
 #### Swift 项目
 21、[GodEye](https://github.com/zixun/GodEye)：一行代码自动显示日志、崩溃、网络、ANR、泄漏、CPU、文件夹等信息，就像上帝睁开眼睛一样
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/GodEye.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/GodEye.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### 其它
 22、[CS-Notes](https://github.com/CyC2018/CS-Notes)：该项目整理、聚集了技术面试必备的基础知识。省去了查找资料的时间，同时也是一份很好的学习资料
@@ -172,32 +173,40 @@ pyxel.run(update, draw)
 #### 机器学习
 30、[openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)：基于卷积神经网络和监督学习的开源库，可以实现人的面部、躯干和四肢甚至手指的跟踪。适用于多人，且标记准确，同时具有较好的鲁棒性
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/openpose.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/openpose.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 31、[FaceDetection-DSFD](https://github.com/TencentYoutuResearch/FaceDetection-DSFD)：腾讯优图的双分支人脸检测器全新算法，该算法已经被计算机视觉顶级会议 CVPR 2019 接收。优图此次提出的 DSFD 人脸检测算法，主要有 3 点创新：
 1. 新的特征增强模块（FEM：Feature Enhance Module）
 2. 分层锚点渐进式的代价函数监督（PLA：Progressive Anchor Loss）
 3. 改进的锚点匹配策略（Improved Anchor Matching Strategy）
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/FaceDetection-DSFD.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/FaceDetection-DSFD.png' style="max-width:80%; max-height=80%;"></img></p>
 
 32、[SPADE](https://github.com/NVlabs/SPADE)：英伟达（NVIDIA）新开源的绘图工具。利用生成对抗网络，根据几根简单的线条就能生成栩栩如生的图像
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/SPADE.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/SPADE.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 33、[LearningToPaint](https://github.com/hzwer/LearningToPaint)：一个深度强化学习项目，研究如何让机器用画笔画画。也可体验制作自己的绘画或根据一张图片生成一整个绘画过程
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/LearningToPaint.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/LearningToPaint.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
 ---
+<p align="center">
+    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
+    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+</p>
 
-## 换种方式阅读
-- **网站：** https://hellogithub.com
-- **GitBook：** https://gitbook.hellogithub.com
+## 公众号
+最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
 
 ## 声明
-如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 **欢迎转载，请注明出处和作者，同时保留声明。**

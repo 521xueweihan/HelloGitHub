@@ -1,7 +1,8 @@
 # 《HelloGitHub》第 38 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
-
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
+<p align="center">
+    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+</p>
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -22,7 +23,7 @@
 #### C++ 项目
 1、[Terminal](https://github.com/microsoft/Terminal)：微软开源的一个全新、现代、功能丰富、高效的 Windows 终端应用程序。它支持 Windows 命令行社区最常用的许多命令，还支持选项卡、富文本、全球化、可配置性、主题和样式等功能。一直以来 Windows 不被开发者青睐的原因之一就是终端不好用，现在有了这个我都想买个 Windows 系统的电脑了（确定不是打游戏？）
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/Terminal.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/Terminal.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Go 项目
 2、[golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)：成为 Go 开发者的学习路线图，[中文版](https://github.com/Alikhll/golang-developer-roadmap/blob/master/i18n/ReadMe-zh-CN.md)
@@ -40,7 +41,7 @@ fmt.Println(resp.Text)
 
 5、[redis-tui](https://github.com/mylxsw/redis-tui)：炫酷的 redis 命令行图形界面工具
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/redis-tui.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/redis-tui.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[gameboy.live](https://github.com/HFO4/gameboy.live)：Gameboy 模拟器，还可以通过 socket 远程玩
 ```
@@ -68,15 +69,15 @@ Usage of gbdotlive:
   -s    Start a cloud-gaming server # 启动服务器，用 Telnet 玩
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/gameboy.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/gameboy.png' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[CovenantSQL](https://github.com/CovenantSQL/CovenantSQL)：具有区块链特性的去中心化 SQL 关系型数据库。可以提供 DBaaS 服务，去中心化存储保证用户隐私。[中文文档](https://developers.covenantsql.io/docs/zh-CN/intro)，MacOS 系统可以通过 `brew install cql` 直接安装
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/CovenantSQL.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/CovenantSQL.png' style="max-width:80%; max-height=80%;"></img></p>
 
 8、[diving](https://github.com/vicanso/diving)：基于 [dive](https://github.com/wagoodman/dive) 分析 docker 镜像，界面化展示了镜像每层的变动（增加、修改、删除等）、用户层数据大小等信息。便捷获取镜像信息和每层镜像内容的文件树，可以方便地浏览镜像信息。对于需要优化镜像体积时非常方便
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/diving.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/diving.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Java 项目
 9、[rhizobia_J](https://github.com/momosecurity/rhizobia_J)：陌陌开源的 Java 安全编码规范和 SDK
@@ -111,18 +112,18 @@ holder.showFailed()
 holder.showEmpty()
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/Gloading.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/Gloading.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 12、[Android-BLE](https://github.com/Alex-Jerry/Android-BLE)：Android 蓝牙框架，包括扫描、连接、设置通知、发送数据、读取、接收数据和 OTA 升级等。近乎一行代码植入项目，可扩展、配置蓝牙相关操作，适用于 Android-BLE4.0 蓝牙。即便是 BLE 方面的小白也可以在短短几分钟内接入并运用到项目中
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/Android-BLE.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/Android-BLE.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### JavaScript 项目
 13、[practice](https://github.com/mintsweet/practice)：使用当下流行的多种不同前端技术栈，实现不同项目的详细教程，教你如何快速上手这些技术。虽然项目名称叫做 `Practice` 但是内容为当前前端最火的框架实践，而且符合生产环境下的开发流程规范，推荐学习
 
 14、[ieaseMusic](https://github.com/trazyn/ieaseMusic)：基于网易云音乐 API 开发的第三方客户端，支持 Linux、Mac OS 系统。成熟的 JS 桌面应用产品，颜值很高，音乐资源丰富
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/ieaseMusic.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/ieaseMusic.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 15、[ts-utility-plugins](https://github.com/ddzy/ts-utility-plugins)：使用原生 TS 构建特效、插件、业务的实践教程项目。脱离各种框架实现原生的特效以及插件
 
@@ -131,7 +132,7 @@ holder.showEmpty()
 
 17、[wizard](https://github.com/mylxsw/wizard)：一款基于 Laravel 开发框架的开源文档管理系统。目前已经在多家公司部署使用，支持：Markdown、Swagger 文档管理，公司内部的统一身份认证系统（LDAP）等功能
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/wizard.jpeg)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/wizard.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Python 项目
 18、[PySnooper](https://github.com/cool-RR/PySnooper)：Python 的第三方调试库。让你通过装饰器方法，方便的知道每一行程序运行后的结果，而不需要再手动增加 `print` 展示过程数据、调试程序。示例代码：
@@ -169,21 +170,21 @@ Modified var:.. number = 3
 
 21、[city-vein](https://github.com/96486d9b/city-vein)：用公交路线数据，还原城市结构。通过数据可视化手段，还原了 30 多个城市的城市结构。该项目中有数据获取和处理的脚本，而且该项目充分体现了数据可视化带来的便利和效果，易于激发学习编程的热情。[在线浏览](https://96486d9b.github.io/city-vein/)
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/city-vein.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/city-vein.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Ruby 项目
 22、[huginn](https://github.com/huginn/huginn)：基于 Ruby 开发的自动化处理任务工具。可以监控事物然后根据编写好的逻辑进行处理（IFTTT），比如：监控天气然后通过微信提醒你带伞、追的小说或者动漫更新通知、聚合信息发送等。它框架稳定、生态活跃，有了它从而让你的生活更加有效率，快去试试吧
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/huginn.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/huginn.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Swift 项目
 23、[Brooklyn](https://github.com/pedrommcarrasco/Brooklyn)：炫酷的苹果电脑屏幕保护程序
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/Brooklyn.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/Brooklyn.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 24、[PopMenu](https://github.com/CaliCastle/PopMenu)：一款简单、漂亮、方便、灵活自定义的弹出菜单组件。如果你的 App 需要一款灵活好看的弹出菜单的话，那么 PopMenu 值得你一试
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/PopMenu.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/PopMenu.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### 其它
 25、[commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide)：Git 提交描述（commit）的编写指南，[中文](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README_zh-CN.md)
@@ -201,14 +202,14 @@ Modified var:.. number = 3
 
 29、[hacker-laws](https://github.com/dwmkerr/hacker-laws)：程序员工作中可能使用到的定律、原则的讲解，这些原则多应用于我们的开发和设计中，开卷有益
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/hacker-laws.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/hacker-laws.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### 教程
 30、[vscode-extension-samples](https://github.com/Microsoft/vscode-extension-samples)：官方 VS Code 开发扩展插件的代码实例集合
 
 31、[3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners)：有关如何为 3D 游戏实施 SSAO、景深、照明、法线贴图等效果的教程。包含示例代码（C++）与 Demo，更便于理解和学习
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/3d-game-shaders-for-beginners.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/3d-game-shaders-for-beginners.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### 机器学习
 32、[bentoml](https://github.com/bentoml/bentoml)：一个机器学习工具用来打包和发布模型。帮助数据科学家用不到 5 分钟把在 ipython notebook 里的模型发布到生产环境
@@ -239,17 +240,25 @@ class IrisClassifier(BentoService):
 
 36、[maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark)：Facebook 开源的 PyTorch 版本的 Mask-RCNN。研究人员可以按照教程、示例代码逐步进行实现
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/maskrcnn-benchmark.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/maskrcnn-benchmark.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
 ---
+<p align="center">
+    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
+    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+</p>
 
-## 换种方式阅读
-- **网站：** https://hellogithub.com
-- **GitBook：** https://gitbook.hellogithub.com
+## 公众号
+最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
 
 ## 声明
-如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 **欢迎转载，请注明出处和作者，同时保留声明。**

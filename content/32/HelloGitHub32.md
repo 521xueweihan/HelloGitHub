@@ -1,7 +1,8 @@
 # 《HelloGitHub》第 32 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
-
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
+<p align="center">
+    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+</p>
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -24,12 +25,12 @@
 
 2、[nvtop](https://github.com/Syllo/nvtop)：NVIDIA GPU 类 (h)top 的任务监控工具，它可以监控多个 GPU 并以熟悉的方式（类 htop 方式）打印有关它们的信息
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/nvtop.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/nvtop.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### C# 项目
 3、[QuickLook](https://github.com/QL-Win/QuickLook)：它允许 Windows 用户只需按空格键即可以快速地查看文件内容（类 macOS 的 Quick Look）
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/QuickLook.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/QuickLook.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### C++ 项目
 4、[oatpp](https://github.com/oatpp/oatpp)：轻量、高性能、零依赖，纯 C++ 实现的 Web 框架。示例代码片段：
@@ -74,11 +75,11 @@ Output:
 ```
 
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/go-sniffer.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/go-sniffer.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[dive](https://github.com/wagoodman/dive)：用来探索 docker 镜像每一层文件系统，以及发现缩小镜像体积方法的命令行工具。启动命令：`dive 镜像名`
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/dive.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/dive.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[soar](https://github.com/XiaoMi/soar)：SQL 自动优化和改写的工具。可以自动优化 MySQL 语法族，并且给出为什么要这样优化的理由。功能特点：
 - 跨平台支持
@@ -166,7 +167,7 @@ $ arc unarchive test.tar.gz
 #### Java 项目
 11、[ratel](https://github.com/ainilili/ratel)：命令行可联网的斗地主游戏。Ratel 分客户端和服务端，你可以让小伙伴们的客户端都连接你的服务器进行游戏，也可以直接连接作者的公网服务器进行游戏
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/ratel.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/ratel.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 12、[SpiderMan](https://github.com/simplepeng/SpiderMan)：手机端显示 Android 崩溃日志，示例代码如下：
 ```java
@@ -186,12 +187,12 @@ SpiderMan.init(this)
 });
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/SpiderMan.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/SpiderMan.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### JavaScript 项目
 13、[three.js](https://github.com/mrdoob/three.js)：一个知名的 JavaScript 3D 库。随着数据可视化以及 Web AR 的流行，会越来越多使用到 three.js ，尤其是和 Vue/React 前端框架结合使用。官方网站包含丰富的[示例](https://threejs.org/examples/)和全面的[中文文档](https://threejs.org/docs/)，赶快去写几个 demo 熟悉下该库吧
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/three-js.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/three-js.png' style="max-width:80%; max-height=80%;"></img></p>
 
 14、[storybook](https://github.com/storybooks/storybook)：UI 组件开发测试的环境。你可以使用 React、React Native、Vue、Angular、Ember 开发你的组件，并且可以使用 storybook 提供的众多插件进行测试以及开发。[在线示例](https://storybook.js.org/examples/)
 
@@ -202,12 +203,12 @@ SpiderMan.init(this)
 #### Objective-C 项目
 17、[MacPass](https://github.com/MacPass/MacPass)：一款 macOS 平台的免费、开源、实用的密码管理工具
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/MacPass.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/MacPass.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Python 项目
 18、[himawaripy](https://github.com/boramalper/himawaripy)：一个 Python3 脚本，它会定时（需设置定时任务）抓取由日本 Himawari 8 气象卫星拍摄的接近实时的地球照片，并将它设置成你的桌面背景
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/himawaripy.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/himawaripy.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### 其它
 19、[search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization)：（英文）这个项目收集了很多 SEO 优化的建议
@@ -216,7 +217,7 @@ SpiderMan.init(this)
 
 21、[ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts)：适合程序员的编程字体的集合，现在有 30 多种奇妙的字体
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/ProgrammingFonts.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/ProgrammingFonts.png' style="max-width:80%; max-height=80%;"></img></p>
 
 22、[Linux-Tutorial](https://github.com/judasn/Linux-Tutorial)：Java 程序员眼中的 Linux
 
@@ -241,6 +242,8 @@ learn.fit(1)
 
 28、[deepvariant](https://github.com/google/deepvariant)：一个数据分析工作流。能够使用深度神经网络从下一代 DNA 序列数据中调用遗传变异体，联想到了最近的基因编辑人类事件。关于如何工作的技术细节，如下图：
 
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/deepvariant.png' style="max-width:80%; max-height=80%;"></img></p>
+
 29、[AlphaAI](https://github.com/VivekPa/AlphaAI)：使用无监督学习和监督学习来预测股票，有趣的项目。运行步骤如下：
 ```
 git clone https://github.com/VivekPa/AlphaAI.git
@@ -249,21 +252,29 @@ pip install -r requirements.txt
 python run.py
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/AlphaAI.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/AlphaAI.png' style="max-width:80%; max-height=80%;"></img></p>
 
 30、[bert](https://github.com/google-research/bert)：一种新的语言表征模型，来自 Transformer 的双向编码器表征。目前最强 NLP 预训练模型，横扫 11 项 NLP 任务记录
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/bert.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/bert.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
 ---
+<p align="center">
+    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
+    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+</p>
 
-## 换种方式阅读
-- **网站：** https://hellogithub.com
-- **GitBook：** https://gitbook.hellogithub.com
+## 公众号
+最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
 
 ## 声明
-如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 **欢迎转载，请注明出处和作者，同时保留声明。**

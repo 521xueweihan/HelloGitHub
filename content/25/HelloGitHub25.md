@@ -1,7 +1,8 @@
 # 《HelloGitHub》第 25 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
-
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
+<p align="center">
+    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+</p>
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -22,17 +23,17 @@
 #### C 项目
 1、[swipe-workspace](https://github.com/CuberL/swipe-workspace)：基于 libinput 实现 Linux 系统下通过二指滑动控制面板，切换屏幕的程序。虽然功能简单，且不支持全平台。但是十分推荐这种自己动手实现一个实用的功能这种行为，这是非常有成就感的事情
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/swipe-workspace.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/swipe-workspace.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### CSS 项目
 2、[tabler](https://github.com/tabler/tabler)：一套基于 Bootstrap 4 免费开源的 Dashboard 模版
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/tabler-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/tabler-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Go 项目
 3、[dynamo.cli](https://github.com/FrontMage/dynamo.cli)：AWS DynamoDB 是一项快速灵活的 NoSQL 数据库服务。如果大家使用这个用服务，但又记不住蹩脚的 AWS 客户端的查询命令。可以使用这个工具，通过 SQL 命令查询、操作 Amazon DynamoDB 数据库
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/dynamo.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/dynamo.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[mqant](https://github.com/liangdas/mqant)：一款基于 Go 语言的简洁、高性能的分布式游戏服务框架。[快速上手文档](https://github.com/liangdas/mqant/wiki)，作者阐述了自己为什么选用 Go 作为开发语言和一些设计思路
 
@@ -42,7 +43,7 @@
 #### JavaScript 项目
 6、[battle-city](https://github.com/shinima/battle-city)：基于 React 的经典坦克大战，[在线试玩](http://shinima.pw/battle-city)。欢迎感兴趣的小伙伴动起手来提交代码加入到这个项目
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/battle-city-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/battle-city-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[SVG-Skeleton](https://github.com/yyued/SVG-Skeleton)：通过 SVG 元素去描述去骨骼图的占位元素。支持 JSX 让编写 SVG 无差别化、复用 SVG 片段、类组件化模式。让交互变得更加人性化，适合当下技术流行趋势，2KB 的大小根本不必担心加载问题。示例代码如下：
 ```javascript
@@ -77,13 +78,13 @@ const Page = ( ( ) => {
 render( Page,  document.body );
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/SVG-Skeleton.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/SVG-Skeleton.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 8、[vuepress](https://github.com/vuejs/vuepress)：Vue 官方出品的静态网站生成器。大家的个人博客是不是要折腾一番了？[官方中文文档](https://vuepress.vuejs.org/zh/guide/)
 
 9、[zan-proxy](https://github.com/youzan/zan-proxy)：该项目集成了 HTTP 请求转发、模拟响应数据、自定义 DNS 解析等功能。使得可以本地代码调试线上页面，环境再也不是问题。对于处于开发环境“恶劣”的开发者来说是种福音和解脱
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/zan-proxy-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/zan-proxy-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[gcoord](https://github.com/hujiulong/gcoord)：一个处理地理坐标的轻型 JS 库。由于处理国内对于地理坐标有特殊的政策，导致从 API 得到的地理坐标放在百度地图或高德地图上会有数百米的偏移，gcoord 可以将坐标在不同坐标系下转换，修正偏移。转换为百度地图坐标系的示例代码：
 ```javascript
@@ -99,7 +100,7 @@ console.log( result );  // [ 116.41661560068297, 39.92196580126834 ]
 #### Objective-C 项目
 11、[RDM](https://github.com/avibrazil/RDM)：轻松地改变 MacBook Retina 屏幕分辨率的工具
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/RDM-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/RDM-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Python 项目
 12、[Synonyms](https://github.com/huyingxi/Synonyms)：中文近义词工具包。支持自然语言理解的很多任务：文本对齐、推荐算法、相似度计算、语义偏移、关键字提取、概念提取、自动摘要、搜索引擎等。示例代码如下：
@@ -108,7 +109,7 @@ import synonyms
 synonyms.seg("能量")
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/Synonyms.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/Synonyms.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 13、[pook](https://github.com/h2non/pook)：模拟 HTTP 请求结果的库，可用于单元测试等场景。采用装饰器方式调用的示例代码如下：
 ```python
@@ -129,11 +130,11 @@ print('#2 status:', res.status_code)
 
 14、[incubator-airflow](https://github.com/apache/incubator-airflow)：定时任务管理平台，管理和调度各种离线定时任务，自带 Web 管理界面。当定时任务量达到百级别的时候，就无法再使用 crontab 有效、方便地管理这些任务了。该项目就是为了解决了这个问题而诞生的
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/incubator-airflow-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/incubator-airflow-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-15、[wtfpython](https://github.com/satwikkansal/wtfpython)：（英文）有趣、令人惊讶（坑爹）、鲜为人知的 Python 代码片段集合
+15、[wtfpython](https://github.com/satwikkansal/wtfpython)：有趣、令人惊讶（坑爹）、鲜为人知的 Python 代码片段集合。[中文](https://github.com/leisurelicht/wtfpython-cn)
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/wtfpython-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/wtfpython-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### 其它
 16、[javascript-lessons](https://github.com/stone0090/javascript-lessons)：《JavaScript 闯关记》该教程部分章节精心设计了挑战关卡
@@ -156,19 +157,27 @@ print('#2 status:', res.status_code)
 #### 机器学习
 23、[pytorch-book](https://github.com/chenyuntc/pytorch-book)：书籍《深度学习框架 PyTorch：入门与实践》的示例代码，可以作为一个独立的 PyTorch 入门指南和教程。内容结构如下图所示：
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/pytorch-book-show-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/pytorch-book-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 24、[ChatBotCourse](https://github.com/warmheartli/ChatBotCourse)：该项目介绍了如何自己动手做聊天机器人。全面地介绍了所需要的技术：自然语言识别、分词、语料库、机器学习等，包含所需的 Java 和 Python 代码
 
 
 
 ---
+<p align="center">
+    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
+    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+</p>
 
-## 换种方式阅读
-- **网站：** https://hellogithub.com
-- **GitBook：** https://gitbook.hellogithub.com
+## 公众号
+最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
 
 ## 声明
-如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 **欢迎转载，请注明出处和作者，同时保留声明。**

@@ -1,7 +1,8 @@
 # 《HelloGitHub》第 28 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
-
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg)
+<p align="center">
+    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+</p>
 
 ## 简介
 分享 GitHub 上有趣、入门级的开源项目。
@@ -22,7 +23,7 @@
 #### C# 项目
 1、[choco](https://github.com/chocolatey/choco)：类似 yum、apt-get、brew 的 Windows 包、软件管理、自动安装工具
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/choco.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/choco.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### C++ 项目
 2、[cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet)：能够帮你通过 Google 和 NASA 面试的 C++ 数据结构和算法的 cheat sheet（英文）
@@ -53,7 +54,7 @@ int main(){
 }
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/cpp-taskflow.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/cpp-taskflow.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### CSS 项目
 4、[pure](https://github.com/yahoo/pure)：雅虎公司出品的一组轻量级、响应式纯 CSS 模块，适用于任何 Web 项目。本网站就是采用 Pure.css 模版构建，[中文文档](https://www.purecss.cn/)
@@ -74,11 +75,11 @@ int main(){
 
 11、[Auto.js](https://github.com/hyb1996/Auto.js)：不需要 ROOT 权限的类似按键精灵的自动操作软件，可以实现自动点击、滑动、输入文字、打开应用等。Auto.js 的大部分用户用它来点赞、签到、刷游戏
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/Auto-js-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/Auto-js-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 12、[MTransition](https://github.com/HJ-Money/MTransition)：一个 Android 的 Activity 切换动画库。该库可以用少量代码实现一些复杂的、自定义的 Activity 切换动画
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/MTransition.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/MTransition.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 #### JavaScript 项目
 13、[Web-Series](https://github.com/wxyyxc1992/Web-Series)：现代 Web 开发导论，内容大纲如下： 
@@ -132,11 +133,11 @@ const graph = new G6.Graph({
 graph.read(data);
 ```
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/g6.gif)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/g6.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 16、[DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)：桌面版脑图是基于百度脑图的本地化版本，帮助你在没有互联网环境的情况下，依然可以使用脑图工具。开箱即用，跨平台支持 Windows/Linux/Mac OS。桌面版思维工具，目前 Xmind 使用很多，但是需要收费，对于不常用，要求没有严格可以考虑此项目
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/DesktopNaotu-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/DesktopNaotu-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### Kotlin 项目
 17、[kotlin-in-chinese](https://github.com/huanglizhuo/kotlin-in-chinese)：Kotlin 官方文档翻译项目
@@ -149,37 +150,45 @@ graph.read(data);
 - 最少仅用一行代码即可与 Scrapy 和 requests 进行集成
 - 等等
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/scylla-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/scylla-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### 其它
 19、[spark_study](https://github.com/shijinkui/spark_study)：Spark 源码阅读笔记
 
 20、[InterviewMap](https://github.com/InterviewMap/InterviewMap)：这是一份制作精良、系统的面试图谱。内容包括：前端、计算机网络、算法、数据结构等方面。相信认真学习完这份资料，你会找到自己心仪的工作。[在线阅读](https://yuchengkai.cn/docs/zh/)
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/InterviewMap-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/InterviewMap-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 21、[Best-App](https://github.com/hzlzh/Best-App)：苹果系统下的优秀软件、硬件、技巧、周边设备的集合
 
 22、[follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster)：部署 kubernetes 集群教程。该教程介绍使用二进制部署最新 kubernetes 集群的所有步骤，而不是使用 kubeadm 等自动化方式来部署集群。这样有助于理解系统各组件的交互原理，进而能够快速定位、解决实际中遇到的问题
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/follow-me-install-kubernetes-cluster-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/follow-me-install-kubernetes-cluster-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 #### 开源书籍
 23、[The-Flask-Mega-Tutorial-zh](https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh)：2017 年新版《The Flask Mega-Tutorial 教程》（狗书）中文翻译版
 
 24、[progit2](https://github.com/progit/progit2)：《Pro Git 第二版》[在线中文阅读](https://git-scm.com/book/zh/v2)
 
-![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/progit2-min.png)
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/progit2-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
 ---
+<p align="center">
+    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
+    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+</p>
 
-## 换种方式阅读
-- **网站：** https://hellogithub.com
-- **GitBook：** https://gitbook.hellogithub.com
+## 公众号
+最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
 
 ## 声明
-如果你发现了好玩、有意义的开源项目 [点击这里](https://github.com/521xueweihan/HelloGitHub/issues/new) 分享你觉得有意思的项目。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 **欢迎转载，请注明出处和作者，同时保留声明。**
