@@ -30,6 +30,15 @@
 
 欢迎 [点击分享](https://github.com/521xueweihan/HelloGitHub/issues/new) 自荐或发现的开源项目，也可安装 [分享插件](https://www.fairyever.com/posts/d2-daily-chrome-extension/) 更便捷地推荐有趣的开源项目。
 
+## 公众号
+最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:100%;">
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+
+</p>
+
 ## 合作组织
 欢迎各路:octocat:开源组织合作。[点击联系我](Mailto:595666367@qq.com)
 
