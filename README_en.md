@@ -1,7 +1,7 @@
 ﻿<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/readme.gif"/><br><br>
-  <br><strong>HelloGitHub:</strong> Sharing interesting, entry-level open source projects on GitHub.<br>Interest is the best teacher.
-<br>And you will find the interests of programming here!
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/readme.gif"/><br>
+  <br><a href="README.md">中文</a> | English 
+  <br><strong>HelloGitHub</strong> -- Sharing interesting, entry-level open source projects on GitHub.<br>Interest is the best teacher, you will find the interests of programming here!
 </p>
 
 <p align="center">
@@ -10,14 +10,13 @@
   <a href="https://github.com/521xueweihan/HelloGitHub/issues"><img src="https://img.shields.io/github/issues/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub issues"></a>
 </p>
 
-## **Intro**
+## Intro
 This is a project for **novice programmers**, **programming lovers**, and **open-source community lovers**. And the content will be updated and published as a **monthly** magazine. The contents include:**popular projects**, **entry-level projects**, **tools to make life better**, **books**, **learning notes**, **enterprise projects**, etc.Most of these open source projects are very easy to start, very cool, can make you feel the pleasure and the magic of programming in a very short time. So that we can feel the joy of programming,and begin to program.
 
 It is hoped that through this project, more and more people will join the **open-source community** and contribute to the community.Let these interesting and valuable projects be discovered, concerned, participated and contributed by more people. In the process of participating in these projects, you will learn more programming knowledge📚, improve programming skills💻, and find the pleasure of programming🎮.
 
-## **Content**
-The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/content/last.md) will be released on the **28th of each month**.
-[Contributors](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md) | [website](https://hellogithub.com)
+## Content
+The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/content/last.md) will be released on the **28th of each month**|[Contributors](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md) | [Website](https://hellogithub.com)
 
 | :squirrel: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
@@ -29,8 +28,11 @@ The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/con
 | [NO.15](/content/15/HelloGitHub15.md) | [NO.14](/content/14/HelloGitHub14.md) | [NO.13](/content/13/HelloGitHub13.md) | [NO.12](/content/12/HelloGitHub12.md) | [NO.11](/content/11/HelloGitHub11.md) |
 | [NO.10](/content/10/HelloGitHub10.md) | [NO.09](/content/09/HelloGitHub09.md) | [NO.08](/content/08/HelloGitHub08.md) | [NO.07](/content/07/HelloGitHub07.md) | [NO.06](/content/06/HelloGitHub06.md) |
 | [NO.05](/content/05/HelloGitHub05.md) | [NO.04](/content/04/HelloGitHub04.md) | [NO.03](/content/03/HelloGitHub03.md) | [NO.02](/content/02/HelloGitHub02.md) | [NO.01](/content/01/HelloGitHub01.md) |
+
 You are welcomed to share open-source projects that discovered by you or your own projects [CLICK HERE](https://github.com/521xueweihan/HelloGitHub/issues/new). Also,You can install the [Sharing Plug-in](https://www.fairyever.com/posts/d2-daily-chrome-extension/) to recommend interesting open source projects more easily.
-## **WeChat Subscription**
+
+
+## WeChat Subscription
 We have WeChat Subscription now. The following days,we will select and arrange the contents recommended by the monthly magazine to make a series of articles for WeChat Subscript Push. The magazine will also be published on the WeChat Subscript, so that it can be read at the first time.
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"><br>
