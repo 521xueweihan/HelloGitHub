@@ -14,7 +14,7 @@
 ## Intro
 This is a project for **novice programmers**, **programming lovers**, and **open-source community lovers**. And the content will be updated and published as a **monthly** magazine. The contents include:**popular projects**, **entry-level projects**, **tools to make life better**, **books**, **learning notes**, **enterprise projects**, etc. Most of these open source projects are very easy to start, very cool, can make you feel the pleasure and the magic of programming in a very short time. So that we can feel the joy of programming, and begin to program.
 
-It is hoped that through this project, more and more people will join the **open-source community** and contribute to the community.Let these interesting and valuable projects be discovered, concerned, participated and contributed by more people. In the process of participating in these projects, you will learn more programming knowledge📚, improve programming skills💻, and find the pleasure of programming🎮.
+It is hoped that through this project, more and more people will join the **open-source community** and contribute to the community.Let these interesting and valuable projects be discovered, concerned, participated and contributed by more people. In the process of participating in these projects, you will learn more programming knowledge 📚, improve programming skills 💻, and find the pleasure of programming 🎮.
 
 ## Content
 The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/content/last.md) will be released on the **28th of each month**|[Contributors](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md) | [Website](https://hellogithub.com)
