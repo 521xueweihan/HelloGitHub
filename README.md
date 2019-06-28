@@ -20,7 +20,7 @@
 
 | :squirrel: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [第 38 期](/content/38/HelloGitHub38.md) | [第 37 期](/content/37/HelloGitHub37.md) | [第 36 期](/content/36/HelloGitHub36.md) |
+| [第 39 期](/content/39/HelloGitHub39.md) | [第 38 期](/content/38/HelloGitHub38.md) | [第 37 期](/content/37/HelloGitHub37.md) | [第 36 期](/content/36/HelloGitHub36.md) |
 | [第 35 期](/content/35/HelloGitHub35.md) | [第 34 期](/content/34/HelloGitHub34.md) | [第 33 期](/content/33/HelloGitHub33.md) | [第 32 期](/content/32/HelloGitHub32.md) | [第 31 期](/content/31/HelloGitHub31.md) |
 | [第 30 期](/content/30/HelloGitHub30.md) | [第 29 期](/content/29/HelloGitHub29.md) | [第 28 期](/content/28/HelloGitHub28.md) | [第 27 期](/content/27/HelloGitHub27.md) | [第 26 期](/content/26/HelloGitHub26.md) |
 | [第 25 期](/content/25/HelloGitHub25.md) | [第 24 期](/content/24/HelloGitHub24.md) | [第 23 期](/content/23/HelloGitHub23.md) | [第 22 期](/content/22/HelloGitHub22.md) | [第 21 期](/content/21/HelloGitHub21.md) |
