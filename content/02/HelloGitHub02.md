@@ -15,15 +15,29 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 HelloGitHub 这个项目就诞生了 🎉
 
----
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
+## 目录
+- [CSS 项目](#CSS-项目)
+- [JavaScript 项目](#JavaScript-项目)
+- [Python 项目](#Python-项目)
+- [其它](#其它)
 
-#### CSS 项目
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
+
+## 内容
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+
+### CSS 项目
 1、[github-markdown-css](https://github.com/sindresorhus/github-markdown-css)：仿 GitHub 的 Markdown 的样式，就是使用了这个 CSS 后，Markdown 展示效果和 GitHub 的大致一样。[示例](https://sindresorhus.com/github-markdown-css/)
 
-#### JavaScript 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### JavaScript 项目
 2、[jquery-weui](https://github.com/lihongxun945/jquery-weui)：可能是最好用 WeUI 版本，展示效果如下：
 
 
@@ -45,7 +59,9 @@
 </script>
 ```
 
-#### Python 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Python 项目
 6、[luokr.com](https://github.com/alvan/luokr.com)：Python Tornado 写的开源网站——螺壳网，[访问](http://luokr.com/)，如图：
 
 
@@ -122,24 +138,25 @@ if __name__ == '__main__':
     run()
 ```
 
-#### 其它
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 其它
 13、[leetcode-solutions](https://github.com/RealHacker/leetcode-solutions)：Leetcode OJ 的 Python 算法实现
 
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+
+
+<p align="center">
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/HelloGitHub01.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/03/HelloGitHub03.md">『下一期』</a>
+</p>
 
 ---
 <p align="center">
-    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
-    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

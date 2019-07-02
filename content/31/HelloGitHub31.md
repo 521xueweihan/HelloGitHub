@@ -15,22 +15,43 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 HelloGitHub 这个项目就诞生了 🎉
 
----
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
+## 目录
+- [C 项目](#C-项目)
+- [C++ 项目](#C-项目-1)
+- [Go 项目](#Go-项目)
+- [Java 项目](#Java-项目)
+- [JavaScript 项目](#JavaScript-项目)
+- [Python 项目](#Python-项目)
+- [Swift 项目](#Swift-项目)
+- [其它](#其它)
+- [机器学习](#机器学习)
 
-#### C 项目
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
+
+## 内容
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+
+### C 项目
 1、[obs-studio](https://github.com/obsproject/obs-studio)：由 OBS 项目维护的免费开源流媒体和录制程序。该程序支持 Windows 7、macOS 10.10、Ubuntu 14.04 操作系统。可用于直播和屏幕录制，[下载地址](https://github.com/obsproject/obs-studio/releases)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/obs-studio.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 2、[Algorithms_C](https://github.com/TheAlgorithms/C)：各种基础算法、数据结构的 C 语言实现。这个[TheAlgorithms](https://github.com/TheAlgorithms) 开源组织的项目包含基础算法的各种编程语言的示例代码
 
-#### C++ 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### C++ 项目
 3、[CppCon2018](https://github.com/CppCon/CppCon2018)：CppCon 2018 幻灯片和资料
 
-#### Go 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Go 项目
 4、[wxpay](https://github.com/objcoding/wxpay)：Go 的微信支付 SDK。微信系的 SDK，填补 Go 在微信支付开发界的空白。支持刷卡支付、统一下单、查询订单、撤销订单、关闭订单等。示例代码如下：
 ```go
 // 创建支付账户
@@ -112,7 +133,9 @@ $ TAGS="bindata" make generate all
 $ ./gitea web 
 ```
 
-#### Java 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Java 项目
 8、[XChart](https://github.com/knowm/XChart)：用于绘制数据的轻量级 Java 库。示例代码：
 ```java
 double[] xData = new double[] { 0.0, 1.0, 2.0 };
@@ -142,7 +165,9 @@ BitmapEncoder.saveBitmapWithDPI(chart, "./Sample_Chart_300_DPI", BitmapFormat.PN
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/MyPerf4J.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### JavaScript 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### JavaScript 项目
 11、[chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo)：Chrome 插件开发完整教程，可用来学习插件开发
 
 12、[TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter)：由 Microsoft 创建，该项目详细介绍了如何使用 TS 基于 create-react-app 创建 React 项目模版的步骤。TS 出现使得 JS 具有了强类型语言的严谨性，并且还保留了JS的灵活。React 是目前超火的前端框架，两者的结合非常值得学习
@@ -151,7 +176,9 @@ BitmapEncoder.saveBitmapWithDPI(chart, "./Sample_Chart_300_DPI", BitmapFormat.PN
 
 14、[33-js-concepts](https://github.com/leonardomso/33-js-concepts)：该项目介绍了每个 Javascript 开发者应该知道的 33 个概念。列举了 Javascript 中非常常见的 33 个概念，对于深入了解 Javascript 语言有很大的帮助。[中文阅读](https://github.com/stephentian/33-js-concepts)
 
-#### Python 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Python 项目
 15、[awslogs](https://github.com/jorgebastida/awslogs)：一个简单的命令行工具，用于在本地查询 Amazon CloudWatch 日志，强大的支持多实例日志汇总查看。简单的查看命令：`awslogs get /var/logs/syslog ALL -s1d`
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/awslogs.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -181,12 +208,16 @@ cup
 
 17、[supervisor](https://github.com/Supervisor/supervisor)：Python 开发的一个 C/S 服务，是 Linux/Unix 系统下的一个进程管理工具，不支持 Windows 系统。它可以很方便的监听、启动、停止、重启一个或多个进程。用 Supervisor 管理的进程，当一个进程意外被杀死，supervisort 监听到进程死后，会自动将它重新启动，很方便的做到进程自动恢复的功能，提高系统、服务的稳定性，多用于生产环境
 
-#### Swift 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Swift 项目
 18、[gifski-app](https://github.com/sindresorhus/gifski-app)：Gifski这个开源程序可以将一系列图片或一段视频转化为高质量的gif，高质量是这个程序最大的特色，下面我们将从使用与评价两个方面来介绍这个程序。Gifski实际上适用于windows，mac以及linux三个平台，唯一不同的是，mac平台上的gifski内置了视频分帧工具，因此可以直接把视频拖入程序窗口即可生成gif，而其它平台上则只能使用第三方程序分帧后才能处理，并且要在命令行中运行
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/gifski-app.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-#### 其它
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 其它
 19、[zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide)：Google 开源项目风格指南 (中文版)
 
 20、[README](https://github.com/guodongxiaren/README)：该项目介绍了 GFM 的语法和示例展示。GitHub 的 Markdown 语法在标准的语法基础上做了扩充，称之为 GitHub Flavored Markdown，简称 GFM。友好的 README 是项目的第一印象，这点很重要
@@ -197,26 +228,27 @@ cup
 
 23、[awesome-algorithm](https://github.com/apachecn/awesome-algorithm)：Leetcode 题解及经典算法实现，实现语言包含 Python、Java、C++、JS
 
-#### 机器学习
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 机器学习
 24、[nndl](https://github.com/nndl/nndl.github.io)：《神经网络与深度学习》该课程主要介绍神经网络与深度学习中的基础知识、主要模型（卷积神经网络、递归神经网络等）以及在计算机视觉、自然语言处理等领域的应用。[在线阅读](https://nndl.github.io/)
 
 25、[pwc](https://github.com/zziz/pwc)：深度学习、机器学习论文集合（英文）
 
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+
+
+<p align="center">
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/30/HelloGitHub30.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/32/HelloGitHub32.md">『下一期』</a>
+</p>
 
 ---
 <p align="center">
-    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
-    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

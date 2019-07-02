@@ -15,27 +15,51 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 HelloGitHub 这个项目就诞生了 🎉
 
----
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
+## 目录
+- [C++ 项目](#C-项目)
+- [CSS 项目](#CSS-项目)
+- [Go 项目](#Go-项目)
+- [Java 项目](#Java-项目)
+- [JavaScript 项目](#JavaScript-项目)
+- [Objective-C 项目](#Objective-C-项目)
+- [Python 项目](#Python-项目)
+- [Ruby 项目](#Ruby-项目)
+- [其它](#其它)
+- [开源书籍](#开源书籍)
 
-#### C++ 项目
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
+
+## 内容
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+
+### C++ 项目
 1、[Snake](https://github.com/stevennl/Snake)：贪吃蛇游戏 AI 版，通过算法实现让小蛇通过吃豆，最后蛇的身体填满整个地图算结束。该项目详细描述实现思想以及相关算法的讨论
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/snake.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### CSS 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### CSS 项目
 2、[MDUI](https://github.com/zdhxiong/mdui)：MDUI 是一套用于开发 Material Design 网页的响应式前端框架。没有任何依赖，支持主题切换，轻量级，低学习成本，[文档](https://www.mdui.org/docs)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/mdui-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Go 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Go 项目
 3、[aliyungo](https://github.com/denverdino/aliyungo)：非官方的 Aliyun Go语言 SDK 支持API：ECS, OSS, DNS, SLB, RDS, RAM, MNS, STS, SLS, MQ, Push, OpenSearch, DM, Container Service
 
 4、[conference](https://github.com/gopherchina/conference)：Go 语言实际项目应用的技术分享
 
-#### Java 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Java 项目
 5、[FunGameRefresh](https://github.com/Hitomis/FunGameRefresh)：好玩的下拉刷新控件
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/FunGameRefresh.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -44,7 +68,9 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/progressManager.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### JavaScript 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### JavaScript 项目
 7、[veneno](https://github.com/zhuyingda/veneno)：一个基于 Node.js 编写的 web 安全漏洞自动化扫描框架
 
 8、[xdomain](https://github.com/jpillora/xdomain)：纯 JavaScript 实现 CROS 的库，[在线示例](http://jpillora.com/xdomain/)
@@ -55,7 +81,9 @@
 
 10、[slick](https://github.com/kenwheeler/slick)：实现了几乎所有效果的轮播图插件，[在线演示](http://kenwheeler.github.io/slick/)
 
-#### Objective-C 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Objective-C 项目
 11、[spectacle](https://github.com/eczarny/spectacle)：OS X 系统下的窗口管理工具，通过快捷键方便、快捷的调整窗口大小和位置
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/spectacle-show-min.jpg' style="max-width:80%; max-height=80%;"></img></p>
@@ -65,7 +93,9 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/flex.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Python 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Python 项目
 13、[musicbox](https://github.com/darknessomi/musicbox)：基于 Python 编写的网易云音乐**命令行**版本，使用起来简单优雅，能够快速安装及使用
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/musicbox.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -108,12 +138,16 @@ def test():
 
 ```
 
-#### Ruby 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Ruby 项目
 17、[mastodon](https://github.com/tootsuite/mastodon)：基于 Ruby 语言的社交网站服务器端所有的源代码，通过这个项目，你可以自己部署一个属于自己的社交网站
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/mastodon-show-min.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-#### 其它
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 其它
 18、[vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)：Vim 从入门到精通
 
 19、[Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks)：用 21 天学习 Emacs 以及 Spacemacs（Emacs 的配置文件）的使用
@@ -128,7 +162,9 @@ def test():
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/ch.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### 开源书籍
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 开源书籍
 23、[redis](https://github.com/huangz1990/redis)：《Redis Command Reference》全文的中文翻译版，[在线阅读](http://redisdoc.com/)
 
 
@@ -136,21 +172,20 @@ def test():
 
 
 
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+
+
+<p align="center">
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/14/HelloGitHub14.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/16/HelloGitHub16.md">『下一期』</a>
+</p>
 
 ---
 <p align="center">
-    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
-    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

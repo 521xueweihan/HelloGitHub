@@ -15,22 +15,43 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 HelloGitHub 这个项目就诞生了 🎉
 
----
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
+## 目录
+- [C 项目](#C-项目)
+- [C# 项目](#C-项目-1)
+- [Go 项目](#Go-项目)
+- [Java 项目](#Java-项目)
+- [JavaScript 项目](#JavaScript-项目)
+- [Objective-C 项目](#Objective-C-项目)
+- [Python 项目](#Python-项目)
+- [其它](#其它)
+- [开源书籍](#开源书籍)
 
-#### C 项目
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
+
+## 内容
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+
+### C 项目
 1、[tbox](https://github.com/tboox/tbox)：一个用 C 语言实现的跨平台开发库，用于解决不同操作系统的兼容问题，并且充分利用了各个平台独有的一些特性进行优化。[中文说明](https://github.com/tboox/tbox/blob/master/README_zh.md)
 
 
-#### C# 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### C# 项目
 2、[ScreenToGif](https://github.com/NickeManarin/ScreenToGif)：此工具可以记录屏幕的选定区域、网络摄像头的实时图像和绘图板上的实时图像。可以编辑并将动画保存为 GIF 或视频
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/img/screen-to-gif-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Go 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Go 项目
 3、[wuzz](https://github.com/asciimoo/wuzz)：wuzz 是用于调试 HTTP 请求的交互式命令行工具，可以用来检查和修改请求。常用操作如下：
 
 | Keybinding | Description |
@@ -61,7 +82,9 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/img/sshtron.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Java 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Java 项目
 5、[fresco](https://github.com/facebook/fresco)：Facebook 开源的 Android 管理图片的库，[中文文档](https://www.fresco-cn.org/docs/index.html)。包含功能如下：
 - 显示占位图直到加载完成
 - 下载图片
@@ -69,7 +92,9 @@
 - 图片不再显示时，从内存中移除
 - 等等
 
-#### JavaScript 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### JavaScript 项目
 6、[vue2-elm](https://github.com/bailicangdu/vue2-elm)：基于 vue2 + vuex 构建一个大型单页面应用，此项目大大小小共 45 个页面，涉及注册、登录、商品展示、购物车、下单等等，是一个完整的流程，
 
 
@@ -84,7 +109,9 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/img/octotree-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Objective-C 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Objective-C 项目
 10、[bitbar](https://github.com/matryer/bitbar)：Bitbar 是可以将任何（自己或别人写好的）脚本的**输出**到 Mac OS 的状态栏上。同时，支持自定义更新频率。例如：定时获取比特币的价格、HelloGitHub 项目的 star 数量，使用步骤如下：
 
 1. 运行该程序，选择脚本所在目录
@@ -94,7 +121,9 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/img/bitbar-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Python 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Python 项目
 11、[mycli](https://github.com/dbcli/mycli)：mycli 是一个带语法高亮、自动补全的 MySQL 命令行客户端工具。例如，连接数据库方法：`mycli -h localhost -u 用户名 数据库`
 
 
@@ -122,7 +151,9 @@ $ ./example.py hello --name=Google
 Hello Google!
 ```
 
-#### 其它
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 其它
 13、[performance-column](https://github.com/barretlee/performance-column)：[阿里胡子哥](https://github.com/barretlee)写的《性能专栏》，旨在提升 PC/H5/Native 等多个端上对性能的认知，[阅读地址](https://github.com/barretlee/performance-column/issues)
 
 14、[node-interview](https://github.com/ElemeFE/node-interview)：如何通过饿了么 Node.js 面试
@@ -131,28 +162,29 @@ Hello Google!
 
 16、[algs4](https://github.com/kevin-wayne/algs4)：（英文）算法第四版书中的示例代码（Java）
 
-#### 开源书籍
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 开源书籍
 17、[explore-python](https://github.com/ethan-funny/explore-python)：《Python 之旅》，该书总结了 Python 相关的知识点，力求深入浅出、条理清晰
 
 18、[The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md)：《编程之法：面试和算法心得》
 
 19、[react-naive-book](https://github.com/huzidaha/react-naive-book)：开源、免费、专业、简单的 React.js 教程
 
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+
+
+<p align="center">
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/11/HelloGitHub11.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/HelloGitHub13.md">『下一期』</a>
+</p>
 
 ---
 <p align="center">
-    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
-    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

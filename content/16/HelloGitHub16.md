@@ -15,15 +15,34 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 HelloGitHub 这个项目就诞生了 🎉
 
----
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
+## 目录
+- [C 项目](#C-项目)
+- [C# 项目](#C-项目-1)
+- [C++ 项目](#C-项目-2)
+- [Go 项目](#Go-项目)
+- [Java 项目](#Java-项目)
+- [JavaScript 项目](#JavaScript-项目)
+- [Python 项目](#Python-项目)
+- [其它](#其它)
+- [机器学习](#机器学习)
 
-#### C 项目
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
+
+## 内容
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+
+### C 项目
 1、[Tinyhttpd](https://github.com/EZLippi/Tinyhttpd)：一个不到 500 行的超轻量型 HTTP Server，可以用来理解服务器程序的原理和本质。快看 C语言 的入门级项目！
 
-#### C# 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### C# 项目
 2、[VerificationCode](https://github.com/eatage/VerificationCode)：滑动验证码 Demo，示例代码如下：
 ```javascript
 $(function () {
@@ -74,7 +93,9 @@ namespace WeixinSDK.Test.Fake
 }
 ```
 
-#### C++ 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### C++ 项目
 4、[vnote](https://github.com/tamlok/vnote)：Markdown 编辑软件。舒适的 Markdown 编辑体验，Vim 操作模式，编辑时代码块高亮
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/vnote-min.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -83,12 +104,16 @@ namespace WeixinSDK.Test.Fake
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/RedisDesktopManager-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Go 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Go 项目
 6、[excelize](https://github.com/360EntSecGroup-Skylar/excelize)：操作 XLSX 文件，支持 Microsoft Excel™ 2007 以更高版本
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/excelize-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Java 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Java 项目
 7、[SSM](https://github.com/crossoverJie/SSM)：基于现在流行的 `Spring+SpringMVC+Mybatis` 框架，逐步搭建一个现在互联网流行的项目架构。特点：
 - 门槛低，**绝对适合新手**
 - 从最基本的整合三大框架开始
@@ -104,7 +129,9 @@ namespace WeixinSDK.Test.Fake
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/SmartRefreshLayout.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### JavaScript 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### JavaScript 项目
 10、[mvvm](https://github.com/DMQ/mvvm)：剖析 vue 实现原理，了解 vue 的双向数据绑定原理以及核心代码模块，自己动手实现简易版 mvvm
 
 11、[GifW00t](https://github.com/yaronn/GifW00t)：纯 JavaScript 写的 Web 录像插件，可以用来实现网页在线游戏回放、反馈网站 bug、演示用途等，实用举例：
@@ -124,7 +151,9 @@ namespace WeixinSDK.Test.Fake
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/DPlayer-min.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Python 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Python 项目
 15、[LearnPython](https://github.com/xianhu/LearnPython)：这一个以”撸代码“的形式学习 Python 的编程技巧的项目，针对 Python 的一些语法特性力求通过代码例子解释该知识点、同时还有一些实践项目，通过动手实践有助于知识的融会贯通。同时可以关注作者的[知乎专栏](https://zhuanlan.zhihu.com/pythoner)学习更多的 Python 编程技巧
 
 16、[getproxy](https://github.com/fate0/getproxy)：极简的抓取代理项目，无需配置。不仅提供了获取代理脚本，同时可以通过[该页面](https://github.com/fate0/proxylist/blob/master/proxy.list)，直接获取可用代理（15min 更新、类型包含http和https）
@@ -135,7 +164,9 @@ namespace WeixinSDK.Test.Fake
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/GetSubtitles.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### 其它
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 其它
 19、[You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)：前端发展很快，现代浏览器原生 API 已经足够好用。有些场景下我们并不需要为了操作 DOM、Event 等再学习一下 jQuery 的 API，该项目总结了大部分 jQuery API 替代的方法，[中文](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
 
 20、[useful-scripts](https://github.com/oldratlee/useful-scripts)：一些平时实用的脚本
@@ -146,26 +177,27 @@ namespace WeixinSDK.Test.Fake
 
 23、[feather](https://github.com/colebemis/feather)：简洁、清爽、免费的 icon 集合
 
-#### 机器学习
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 机器学习
 24、[ncnn](https://github.com/Tencent/ncnn)：腾讯开源的一个为手机端极致优化的高性能神经网络前向计算框架
 
 25、[tutorials](https://github.com/MorvanZhou/tutorials)：机器学习入门教程，十分详细包含视频教程、文字教程
 
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+
+
+<p align="center">
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/15/HelloGitHub15.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/17/HelloGitHub17.md">『下一期』</a>
+</p>
 
 ---
 <p align="center">
-    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
-    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

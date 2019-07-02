@@ -15,17 +15,37 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 HelloGitHub 这个项目就诞生了 🎉
 
----
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
+## 目录
+- [C++ 项目](#C-项目)
+- [Go 项目](#Go-项目)
+- [Java 项目](#Java-项目)
+- [JavaScript 项目](#JavaScript-项目)
+- [Objective-C 项目](#Objective-C-项目)
+- [PHP 项目](#PHP-项目)
+- [Python 项目](#Python-项目)
+- [Swift 项目](#Swift-项目)
+- [其它](#其它)
+- [机器学习](#机器学习)
 
-#### C++ 项目
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
+
+## 内容
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+
+### C++ 项目
 1、[playerdemo](https://github.com/itisyang/playerdemo)：开源、入门级视频播放器跨平台视频播放器。该播放器拥有视频播放器基本功能，适合学习播放器开发技术，音频、视频技术
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/playerdemo.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Go 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Go 项目
 2、[sqler](https://github.com/alash3al/sqler)：根据 SQL 和配置文件生成接口的工具。与传统的 SQL 生成 RESETful API 的工具不同，这个工具允许你自定义一些 API 的前、后处理，Auth 之类的行为。启动命令 `sqler -config=path to config file`，配置示例：
 ```
 adduser {
@@ -83,7 +103,9 @@ adduser {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/gitbatch.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Java 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Java 项目
 7、[hutool](https://github.com/looly/hutool)：功能丰富的 Java 工具包。它帮助我们实现了常用的工具方法，从而减少代码的体积，提高开发效率。该项目最初是作者工作项目中的`util`模块，后来慢慢积累并加入更多非业务相关工具类方法。经过整理修改，最终形成丰富的开源工具集。示例代码：
 ```java
 int a = 1;
@@ -97,7 +119,9 @@ String aStr = Convert.toStr(a);
 
 9、[DevUtils](https://github.com/afkT/DevUtils)：Android 工具库，注释规范、API文档清晰明了、工具类种类多。根据不同功能模块封装，方便使用。帮助开发人员，便捷、快速地开发安全、可靠的项目。内置部分常用的资源文件，如 color.xml、layout.xml 等
 
-#### JavaScript 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### JavaScript 项目
 10、[vConsole](https://github.com/Tencent/vConsole)：腾讯开源的移动 H5 的控制台开发调试工具，支持查看 console 日志、网络请求、自定义插件等。示例代码：
 ```javascript
 <script src="path/to/vconsole.min.js"></script>
@@ -196,14 +220,18 @@ render(<my-counter />, 'body')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/giojs.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Objective-C 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Objective-C 项目
 17、[keycastr](https://github.com/keycastr/keycastr)：在屏幕上实时显示当前按键的工具
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/keycastr.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 18、[Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements)：一款 macOS 的强大的修键软件
 
-#### PHP 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### PHP 项目
 19、[laravel-s](https://github.com/hhxsv5/laravel-s)：用于快速集成 [Swoole](https://www.swoole.com/) 到 [Laravel](https://laravel.com/)，开箱即用。特点：
 - 集成 LaravelS 之后无需使用 PHP FPM，直接基于 Swoole 开启 HTTP Server
 - 代码常驻内存之中，性能提升非常明显
@@ -214,7 +242,9 @@ render(<my-counter />, 'body')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/laravel-s.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Python 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Python 项目
 20、[sherlock](https://github.com/TheYahya/sherlock)：（英文）在主流社交网站，例如：GitHub、Facebook 等网站上查找指定的用户名是否存在。你想取一个独一无二的名字吗？快试试吧
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/sherlock.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -254,17 +284,23 @@ Hello, Click!
 
 24、[ranger](https://github.com/ranger/ranger)：以类似 VIM 操作，方便、快捷地管理文件的工具
 
-#### Swift 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Swift 项目
 25、[iOS-Developer-Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)：（英文） iOS 开发者学习路线图
 
-#### 其它
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 其它
 26、[Visual-Studio-Code-Keymap-CN](https://github.com/OrwillT/Visual-Studio-Code-Keymap-CN)：VS Code 编辑器官方快捷键查图汉化版
 
 27、[algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)：算法可视化工具。你可以自由选择自己想学习的算法，每个算法它都清晰描绘了其原理和运作过程
 
 28、[html](https://github.com/whatwg/html)：《HTML 标准》[中文版](https://whatwg-cn.github.io/html/)
 
-#### 机器学习
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 机器学习
 29、[spinningup](https://github.com/openai/spinningup)：（英文）OpenAI 制作的教育资源，可以更容易地学习深层强化学习。官方项目，浅显易懂，提供练手的例子，方便初学者或对深层强化学习感兴趣的人群学习和入门
 
 30、[the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)：生成对抗网络（Generative Adversarial Networks，简称GAN）的一个大集合，作者列举了生成对抗网络领域各式各样的应用集合，大部分为论文，包含少数的 GitHub 项目。该项目对于 GAN 领域覆盖面全面，论文列表整理清晰，GAN 方向的研究者可以从这个项目中查询到想看的经典的论文或者扩充自己的知识储备
@@ -304,21 +340,20 @@ segments_tensors = torch.tensor([segments_ids])
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/Semantic-Segmentation-Suite.gif' style="max-width:80%; max-height=80%;"></img></p>
 
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+
+
+<p align="center">
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/33/HelloGitHub33.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/35/HelloGitHub35.md">『下一期』</a>
+</p>
 
 ---
 <p align="center">
-    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
-    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

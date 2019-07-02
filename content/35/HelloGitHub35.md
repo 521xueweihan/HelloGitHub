@@ -15,20 +15,43 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 HelloGitHub 这个项目就诞生了 🎉
 
----
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
+## 目录
+- [C# 项目](#C-项目)
+- [C++ 项目](#C-项目-1)
+- [Go 项目](#Go-项目)
+- [Java 项目](#Java-项目)
+- [JavaScript 项目](#JavaScript-项目)
+- [Objective-C 项目](#Objective-C-项目)
+- [Python 项目](#Python-项目)
+- [其它](#其它)
+- [开源书籍](#开源书籍)
+- [教程](#教程)
+- [机器学习](#机器学习)
 
-#### C# 项目
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
+
+## 内容
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+
+### C# 项目
 1、[IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin)：免费开源的 IdentityServer4 与 Asp.Net Core Identity 管理器。IdentityServer4 官方的管理器是收费的，该项目很好的替代了官方管理器，可以方便的管理使用 IdentityServer4 所搭建的认证服务器
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/IdentityServer4.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### C++ 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### C++ 项目
 2、[FLIF](https://github.com/FLIF-hub/FLIF)：免费、新颖的无损图像格式。压缩比方面优于 PNG、lossless WebP、lossless BPG、lossless JPEG2000 等格式
 
-#### Go 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Go 项目
 3、[cds](https://github.com/ovh/cds)：企业级开源持续集成系统。支持横向扩展、自带 UI、常用的持续集成构建等功能
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/cds.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -91,7 +114,9 @@ func main() {
 
 6、[1m-go-websockets](https://github.com/eranyanay/1m-go-websockets)：该项目演示了如何用 Go 编写一个可以提供超过一百万个 websockets 连接、运行内存小于 1GB 的服务器。`setup.sh` 是用来创建 websocket 客户端的，`destroy.sh` 则用来销毁客户端
 
-#### Java 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Java 项目
 7、[SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning)：Spring Boot 教程
 
 8、[halo](https://github.com/ruibaby/halo)：Java 博客系统。在层出不穷的博客系统中，很难看到使用 Java 编写的简洁优雅的博客系统。该项目还具备着轻快且功能强大的特点，这些特性使它从众多 Java 博客系统脱颖而出。安装命令：
@@ -116,7 +141,9 @@ $ bash halo-cli.sh -u
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/IQL.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### JavaScript 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### JavaScript 项目
 11、[Gitter](https://github.com/huangjianke/Gitter)：GitHub 的小程序客户端。UI 设计漂亮，可作为小程序和 GitHub 结合的实战项目学习
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/Gitter.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -150,10 +177,14 @@ Rainbow.extend('javascript', [
 
 15、[ant-design-vue](https://github.com/vueComponent/ant-design-vue)：Ant Design 的 Vue 实现，该项目已经得到 [Ant Design 官方](https://vue.ant.design/docs/vue/introduce-cn/)认可
 
-#### Objective-C 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Objective-C 项目
 16、[iWeChat](https://github.com/lefex/iWeChat)：还原、探索微信 APP 的项目。通过该项目借鉴、学习微信客户端开发的相关设计与技术，也可以学到如何分析一个第三方 APP 的方法
 
-#### Python 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Python 项目
 17、[spug](https://github.com/openspug/spug)：使用 Python+Vue 实现的开源运维平台，前后端分离方便二次开发。该项目基于 Docker 镜像发布部署，方便安装和升级。支持运维常见功能：主机管理、任务计划管理、发布部署、监控告警等
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/spug.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -180,7 +211,9 @@ if __name__ == '__main__':
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/ruia.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### 其它
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 其它
 19、[devhub](https://github.com/devhubapp/devhub)：支持 Android、iOS、Web、Desktop 的 GitHub 管理通知客户端。能够帮你方便地接收、查看、管理 GitHub 消息、动态等
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/devhub.jpg' style="max-width:80%; max-height=80%;"></img></p>
@@ -193,18 +226,25 @@ if __name__ == '__main__':
 
 22、[OI-WIKI](https://github.com/24OI/OI-WIKI)：免费、开放、持续更新的编程竞赛相关知识教程。包含竞赛的基础知识、常见题型、解题思路以及常用工具等内容，帮助大家更快速、深入地学习编程竞赛相关知识
 
-23、[USTC-CS-Courses-Resource](https://github.com/USTC-Resource/USTC-Course)：该仓库收录中国科学技术大学众多课程资源。包括电子版教材、参考书、讲义、试卷、学习心得、习题解答等。以计算机学院课程为主，也包含公选课、自由选修等其他课程。
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 开源书籍
+23、[You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)：（英文）深入探讨 JavaScript 语言核心机制的书籍，适用于深入学习 JS。该书已出版，但在线阅读免费
+
+24、[d2l-zh](https://github.com/d2l-ai/d2l-zh)：《Dive into Deep Learning 》翻译版，即《动手学深度学习》。[在线阅读](http://zh.d2l.ai/)
+
+25、[cppwasm-book](https://github.com/3dgen/cppwasm-book)：《C/C++ 面向 WebAssembly 编程》，[在线阅读](https://3dgen.cn/cppwasm-book/)
+
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 教程
+26、[USTC-Course](https://github.com/USTC-Resource/USTC-Course)：该仓库收录中国科学技术大学众多课程资源。包括电子版教材、参考书、讲义、试卷、学习心得、习题解答等。以计算机学院课程为主，也包含公选课、自由选修等其他课程。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/USTC-CS-Courses-Resource.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### 开源书籍
-24、[You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)：（英文）深入探讨 JavaScript 语言核心机制的书籍，适用于深入学习 JS。该书已出版，但在线阅读免费
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
-25、[d2l-zh](https://github.com/d2l-ai/d2l-zh)：《Dive into Deep Learning 》翻译版，即《动手学深度学习》。[在线阅读](http://zh.d2l.ai/)
-
-26、[cppwasm-book](https://github.com/3dgen/cppwasm-book)：《C/C++ 面向 WebAssembly 编程》，[在线阅读](https://3dgen.cn/cppwasm-book/)
-
-#### 机器学习
+### 机器学习
 27、[gpt-2](https://github.com/openai/gpt-2)：OpenAI 发布的 15 亿参数量通用语言模型 GPT-2，迄今最大模型！展示了一种构建语言处理系统的潜在方式，即根据自然发生的演示学习执行任务。实例代码：
 ```python
 export PYTHONIOENCODING=UTF-8
@@ -226,21 +266,20 @@ doc.sentences[0].print_dependencies()
 
 30、[Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook)：易学易用的 Tensorflow 教程
 
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+
+
+<p align="center">
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/34/HelloGitHub34.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/36/HelloGitHub36.md">『下一期』</a>
+</p>
 
 ---
 <p align="center">
-    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
-    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

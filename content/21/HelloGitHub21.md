@@ -15,15 +15,34 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 HelloGitHub 这个项目就诞生了 🎉
 
----
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
+## 目录
+- [C 项目](#C-项目)
+- [C++ 项目](#C-项目-1)
+- [Go 项目](#Go-项目)
+- [Java 项目](#Java-项目)
+- [JavaScript 项目](#JavaScript-项目)
+- [Kotlin 项目](#Kotlin-项目)
+- [Python 项目](#Python-项目)
+- [其它](#其它)
+- [开源书籍](#开源书籍)
 
-#### C 项目
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
+
+## 内容
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+
+### C 项目
 1、[kcp](https://github.com/skywind3000/kcp)：纯算法实现的快速可靠协议。能以比 TCP 浪费 10%-20% 的带宽为代价，换取平均延迟降低 30%-40%，且最大延迟降低 3 倍的传输效果
 
-#### C++ 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### C++ 项目
 2、[OpenCC](https://github.com/BYVoid/OpenCC)：中文简繁转化开源项目，[在线尝试](http://opencc.byvoid.com/)
 - 严格区分 “一简对多繁” 和 “一简对多异”
 - 完全兼容异体字，可以实现动态替换
@@ -33,12 +52,16 @@
 - 支持 C++、Python、PHP、Java、Ruby、Node.js 等
 - 兼容 Windows、Linux、Mac 平台
 
-#### Go 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Go 项目
 3、[mattermost-server](https://github.com/mattermost/mattermost-server)：采用 Go 语言开发的团队通讯服务项目，可用于自行搭建服务。为团队带来跨 PC 和移动设备的消息收发、文件分享，搜索等功能的通讯服务平台
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/mattermost-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Java 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Java 项目
 4、[android-material-design-icon-generator-plugin](https://github.com/konifar/android-material-design-icon-generator-plugin)：IntelliJ／Android Studio 生成、设计 icon 的插件，安装简单使用方便。如下图所示：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/icon-generator-plugin.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -62,7 +85,9 @@ public static void main(String[] args) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/grain-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### JavaScript 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### JavaScript 项目
 9、[numeric-keyboard](https://github.com/viclm/numeric-keyboard)：手机数字键盘，包含一个纯键盘 UI 和输入框套件。有纯 JavaScript、React、Vue 三个版本
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/numeric-keyboard-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -86,12 +111,16 @@ public static void main(String[] args) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/anyupload-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Kotlin 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Kotlin 项目
 14、[github-profile-summary](https://github.com/tipsy/github-profile-summary)：GitHub 账号数据可视化服务，很新颖地增加了 star 后可见（回复可见）😄
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/github-profile-summary-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Python 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Python 项目
 15、[thefuck](https://github.com/nvbn/thefuck)：在 Linux 命令行中，当你输入的命令有错误后，直接输入 `fuck` 就可以自动执行修复后的命令，效果图如下：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/thefuck.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -149,7 +178,9 @@ print(", ".join(seg_list))
 
 18、[pydu](https://github.com/Prodesire/pydu)：该库将平时常用的数据结构和工具都收录其中，可供日常开发的使用，同时方便学习与借鉴，丰富的[文档](http://pydu.readthedocs.io/zh/latest/)能帮助新手更好的理解和使用它。这些实用的模块都是来自于开源项目和贡献者们的智慧，快来加入到这个项目中，让它变得更加实用和丰富
 
-#### 其它
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 其它
 19、[vscode](https://github.com/Microsoft/vscode)：Visual Studio Code 是微软出品的支持多平台的开源编辑器，体积小、功能丰富、性能强大、扩展性很强。我是用着挺爽，写些代码片段、文章、文档开箱即用。个人感觉编写中型项目、代码调试的话还是 IDE 更方便些，总之推荐下载和使用。[下载地址](https://code.visualstudio.com/)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/vscode-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -164,24 +195,25 @@ print(", ".join(seg_list))
 
 24、[coding-interview-university](https://github.com/jwasham/coding-interview-university)：一套完整的学习手册，项目发起者是为了让自己通过 Google 的面试而制定的计划。最后，他去了 Amazon。感谢 [掘金翻译的中文版](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 
-#### 开源书籍
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 开源书籍
 25、[pydata-notebook](https://github.com/BrambleXu/pydata-notebook)：《利用Python进行数据分析 2017 第二版》中文翻译笔记
 
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+
+
+<p align="center">
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/20/HelloGitHub20.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/22/HelloGitHub22.md">『下一期』</a>
+</p>
 
 ---
 <p align="center">
-    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
-    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

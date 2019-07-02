@@ -15,17 +15,37 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 HelloGitHub 这个项目就诞生了 🎉
 
----
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
+## 目录
+- [C# 项目](#C-项目)
+- [C++ 项目](#C-项目-1)
+- [CSS 项目](#CSS-项目)
+- [Go 项目](#Go-项目)
+- [Java 项目](#Java-项目)
+- [JavaScript 项目](#JavaScript-项目)
+- [Kotlin 项目](#Kotlin-项目)
+- [Python 项目](#Python-项目)
+- [其它](#其它)
+- [开源书籍](#开源书籍)
 
-#### C# 项目
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
+
+## 内容
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+
+### C# 项目
 1、[choco](https://github.com/chocolatey/choco)：类似 yum、apt-get、brew 的 Windows 包、软件管理、自动安装工具
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/choco.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### C++ 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### C++ 项目
 2、[cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet)：能够帮你通过 Google 和 NASA 面试的 C++ 数据结构和算法的 cheat sheet（英文）
 
 3、[cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow)：一个 C++ 头文件库，让你以简单的几行代码就可以实现高效的并发。示例代码如下：
@@ -56,10 +76,14 @@ int main(){
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/cpp-taskflow.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### CSS 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### CSS 项目
 4、[pure](https://github.com/yahoo/pure)：雅虎公司出品的一组轻量级、响应式纯 CSS 模块，适用于任何 Web 项目。本网站就是采用 Pure.css 模版构建，[中文文档](https://www.purecss.cn/)
 
-#### Go 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Go 项目
 5、[go-fundamental-programming](https://github.com/Unknwon/go-fundamental-programming)：无闻出品的《Go 编程基础》教程
 
 6、[go-cloud](https://github.com/google/go-cloud)：还在为兼容不同的云平台 SDK 而烦恼吗？go-cloud 通过封装不同云平台的接口，向用户提供统一的 API。例如：阿里云和腾讯云的存储桶 API 不一样，但是通过 go-cloud 的封装，可以使用统一的 API 调用
@@ -70,7 +94,9 @@ int main(){
 
 9、[go-mysql](https://github.com/siddontang/go-mysql)：监听 MySQL binlog 的库，可以用来把主库 MySQL 的变化同步到 Redis、elasticsearch 等。同时提供了一个类似阿里 canal 的工具库，监听并解析 binlog 变化。让管理数据和了解数据状态变得更加轻松
 
-#### Java 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Java 项目
 10、[vjtools](https://github.com/vipshop/vjtools)：唯品会的 Java 技术干货分享
 
 11、[Auto.js](https://github.com/hyb1996/Auto.js)：不需要 ROOT 权限的类似按键精灵的自动操作软件，可以实现自动点击、滑动、输入文字、打开应用等。Auto.js 的大部分用户用它来点赞、签到、刷游戏
@@ -81,7 +107,9 @@ int main(){
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/MTransition.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### JavaScript 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### JavaScript 项目
 13、[Web-Series](https://github.com/wxyyxc1992/Web-Series)：现代 Web 开发导论，内容大纲如下： 
 - 基础篇
 - 进阶篇
@@ -139,10 +167,14 @@ graph.read(data);
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/DesktopNaotu-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Kotlin 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Kotlin 项目
 17、[kotlin-in-chinese](https://github.com/huanglizhuo/kotlin-in-chinese)：Kotlin 官方文档翻译项目
 
-#### Python 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Python 项目
 18、[Scylla](https://github.com/imWildCat/scylla)：一款高质量的免费代理 IP 池工具，仅支持 Python 3.6。[中文文档](https://scylla.wildcat.io/zh/latest/)，特性如下：
 - 自动化的代理 IP 爬取与验证
 - 易用的 JSON API
@@ -152,7 +184,9 @@ graph.read(data);
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/scylla-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### 其它
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 其它
 19、[spark_study](https://github.com/shijinkui/spark_study)：Spark 源码阅读笔记
 
 20、[InterviewMap](https://github.com/InterviewMap/InterviewMap)：这是一份制作精良、系统的面试图谱。内容包括：前端、计算机网络、算法、数据结构等方面。相信认真学习完这份资料，你会找到自己心仪的工作。[在线阅读](https://yuchengkai.cn/docs/zh/)
@@ -165,28 +199,29 @@ graph.read(data);
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/follow-me-install-kubernetes-cluster-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### 开源书籍
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 开源书籍
 23、[The-Flask-Mega-Tutorial-zh](https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh)：2017 年新版《The Flask Mega-Tutorial 教程》（狗书）中文翻译版
 
 24、[progit2](https://github.com/progit/progit2)：《Pro Git 第二版》[在线中文阅读](https://git-scm.com/book/zh/v2)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/progit2-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+
+
+<p align="center">
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/27/HelloGitHub27.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/29/HelloGitHub29.md">『下一期』</a>
+</p>
 
 ---
 <p align="center">
-    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
-    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

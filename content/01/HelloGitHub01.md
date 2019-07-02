@@ -15,15 +15,30 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 HelloGitHub 这个项目就诞生了 🎉
 
----
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
+## 目录
+- [CSS 项目](#CSS-项目)
+- [JavaScript 项目](#JavaScript-项目)
+- [Python 项目](#Python-项目)
+- [其它](#其它)
+- [开源书籍](#开源书籍)
 
-#### CSS 项目
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
+
+## 内容
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+
+### CSS 项目
 1、[typo.css](https://github.com/sofish/typo.css)：中文网页重设与排版，为了一致化浏览器排版效果，构建最适合中文阅读的网页排版。包括桌面和移动平台，[预览](http://typo.sofi.sh/)
 
-#### JavaScript 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### JavaScript 项目
 2、[ant-design](https://github.com/ant-design/ant-design)：阿里开源的一套企业级的 UI 设计语言和 React 实现。[中文文档](https://ant.design/docs/react/introduce-cn)，样式偏向于后端，展示效果十分漂亮
 
 3、[VeryNginx](https://github.com/alexazhou/VeryNginx)：一个功能强大而对人类友好的 Nginx 扩展程序。[VeryNginx 文档](https://github.com/alexazhou/VeryNginx/blob/master/readme_zh.md)
@@ -36,7 +51,9 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/activate-power-mode.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Python 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Python 项目
 5、[awesome-python-webapp](https://github.com/michaelliao/awesome-python-webapp)：廖老师的 Python 入门教程中的实践项目的代码，[教程在线阅读](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001397616003925a3d157284cd24bc0952d6c4a7c9d8c55000)
 
 6、[Minos](https://github.com/phith0n/Minos)：一个基于 Tornado/MongoDB/Redis 的社区系统
@@ -51,7 +68,9 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/%E5%8C%97%E4%BA%AC%E5%AE%9E%E6%97%B6%E5%85%AC%E4%BA%A4.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### 其它
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 其它
 9、[archey-osx](https://github.com/obihann/archey-osx)：命令行中显示 Mac OS X 计算机的基本信息
 
 
@@ -61,34 +80,37 @@
 
 11、[awesome-python-cn](https://github.com/jobbole/awesome-python-cn)：awesome-python 中文版
 
-#### 开源书籍
-12、[interpy-zh](https://github.com/eastlakeside/interpy-zh)：《Python 进阶中文版》，[在线阅读](https://eastlakeside.gitbooks.io/interpy-zh/content/)
+12、[github](https://github.com/phodal/github)：《GitHub 漫游指南》该指南能够让新手学会如何使用 GitHub 网站，从而加入到开源社区。phodal 从他和 GitHub 的青涩故事写起，全方位地介绍了 GitHub 这个网站，以及如何合理地使用这个网站
 
-13、[python3-cookbook](https://github.com/yidao620c/python3-cookbook)：《Python Cookbook 3rd 中文版》，[在线阅读](http://python3-cookbook.readthedocs.org/zh_CN/latest/)
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
-14、[Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN)：《Python 最佳实践指南中文版》，[在线阅读](http://pythonguidecn.readthedocs.io/zh/latest/)
+### 开源书籍
+13、[interpy-zh](https://github.com/eastlakeside/interpy-zh)：《Python 进阶中文版》，[在线阅读](https://eastlakeside.gitbooks.io/interpy-zh/content/)
 
-15、[design_patterns](https://github.com/me115/design_patterns)：《图说设计模式》，[在线阅读](https://design-patterns.readthedocs.io/zh_CN/latest/index.html#)
+14、[python3-cookbook](https://github.com/yidao620c/python3-cookbook)：《Python Cookbook 3rd 中文版》，[在线阅读](http://python3-cookbook.readthedocs.org/zh_CN/latest/)
 
-16、[linuxtools_rst](https://github.com/me115/linuxtools_rst)：《Linux 工具快速教程》，[在线阅读](http://linuxtools-rst.readthedocs.io/zh_CN/latest/)
+15、[Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN)：《Python 最佳实践指南中文版》，[在线阅读](http://pythonguidecn.readthedocs.io/zh/latest/)
 
-17、[the_new_world_linux](https://github.com/yangyangwithgnu/the_new_world_linux)：《Linux 下的惬意生活》，[在线阅读](https://github.com/yangyangwithgnu/the_new_world_linux#目录)
+16、[design_patterns](https://github.com/me115/design_patterns)：《图说设计模式》，[在线阅读](https://design-patterns.readthedocs.io/zh_CN/latest/index.html#)
+
+17、[linuxtools_rst](https://github.com/me115/linuxtools_rst)：《Linux 工具快速教程》，[在线阅读](http://linuxtools-rst.readthedocs.io/zh_CN/latest/)
+
+18、[the_new_world_linux](https://github.com/yangyangwithgnu/the_new_world_linux)：《Linux 下的惬意生活》，[在线阅读](https://github.com/yangyangwithgnu/the_new_world_linux#目录)
+
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
+
+<p align="center">
+    『上一期』 | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/02/HelloGitHub02.md">『下一期』</a>
+</p>
 
 ---
 <p align="center">
-    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
-    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

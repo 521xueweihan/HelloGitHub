@@ -15,12 +15,32 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 HelloGitHub 这个项目就诞生了 🎉
 
----
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
+## 目录
+- [C 项目](#C-项目)
+- [C++ 项目](#C-项目-1)
+- [CSS 项目](#CSS-项目)
+- [Go 项目](#Go-项目)
+- [Java 项目](#Java-项目)
+- [JavaScript 项目](#JavaScript-项目)
+- [Objective-C 项目](#Objective-C-项目)
+- [PHP 项目](#PHP-项目)
+- [Python 项目](#Python-项目)
+- [其它](#其它)
+- [开源书籍](#开源书籍)
+- [机器学习](#机器学习)
 
-#### C 项目
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
+
+## 内容
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+
+### C 项目
 1、[json-tutorial](https://github.com/miloyip/json-tutorial)：由[Milo Yip](https://github.com/miloyip/json-tutorial#%E5%85%B3%E4%BA%8E%E4%BD%9C%E8%80%85)发起的用 C 从零开始编写 JSON 库教程。大纲：
 1. 启程：编译环境、JSON 简介、测试驱动、解析器主要函数及各数据结构。
 2. 解析数字：JSON number 的语法
@@ -31,13 +51,19 @@
 7. 生成器：JSON 生成过程、注意事项。练习完成 JSON 生成器
 8. 访问与其他功能：JSON array／object 的访问及修改
 
-#### C++ 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### C++ 项目
 2、[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)：用动画的形式呈现解 LeetCode 题目的思路
 
-#### CSS 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### CSS 项目
 3、[lit](https://github.com/ajusa/lit)：仅 395 字节的响应式 CSS 框架
 
-#### Go 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Go 项目
 4、[yeetgif](https://github.com/sgreben/yeetgif)：一个命令行工具，用来组合、生成表情的 gif 动图。支持多种模式：旋转、抖动、鬼畜等，可以组合出很魔性的表情
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/yeetgif.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -54,7 +80,9 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/tldr.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Java 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Java 项目
 8、[xLog](https://github.com/elvishew/xLog)：简单、美观、强大、可扩展的 Android 和 Java 日志库，可同时在多个通道打印日志，如 Logcat、Console 和文件。功能：
 - 全局配置（TAG，各种格式化器...）或基于单条日志的配置
 - 支持打印任意对象以及可自定义的对象格式化器
@@ -68,7 +96,9 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/AndroidWM.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### JavaScript 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### JavaScript 项目
 10、[better-onetab](https://github.com/cnwangjie/better-onetab)：实用的管理浏览器多标签页面的工具，目前支持 Chrome 以及 FireFox 的扩展。支持标签页储存和标签页分组等功能
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/better-onetab.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -83,7 +113,9 @@
 
 13、[swc](https://github.com/swc-project/swc)：基于 Rust 开发的 [Babel](https://github.com/babel/babel) 替代品，速度更快，值得关注
 
-#### Objective-C 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Objective-C 项目
 14、[iSH](https://github.com/tbodt/ish)：在 iOS 上跑 Linux shell，可以通过 linux 命令操作你的 iOS 设备
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/ish.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -133,10 +165,14 @@ _attrLabel = [NudeIn make:^(NUDTextMaker *make) {
 
 17、[LongestCocoa](https://github.com/Quotation/LongestCocoa)：写 Objective-C 的程序员肯定对冗长的描述性命名风格爱的深切。所以 Cocoa 框架里最长的方法或在常量名有哪些？该项目就是告诉你这些冗长名字都有那些
 
-#### PHP 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### PHP 项目
 18、[MeEdu](https://github.com/Qsnh/meedu)：开源免费的在线教育系统，支持在线点播、在线电子书、会员收费三大模块。[在线尝试](https://meedu.app/)
 
-#### Python 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Python 项目
 19、[loguru](https://github.com/Delgan/loguru)：一个让 Python 记录日志变得简单的库
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/loguru.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -151,7 +187,9 @@ _attrLabel = [NudeIn make:^(NUDTextMaker *make) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/weixin_crawler.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### 其它
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 其它
 23、[Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)：《后端开发面试题》[中文](https://github.com/monklof/Back-End-Developer-Interview-Questions)
 
 24、[weekly](https://github.com/ruanyf/weekly)：[阮一峰](https://github.com/ruanyf)技术分享周刊，每周五发布
@@ -166,12 +204,16 @@ _attrLabel = [NudeIn make:^(NUDTextMaker *make) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/cool-retro-term.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### 开源书籍
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 开源书籍
 29、[Cpp_Concurrency_In_Action](https://github.com/xiaoweiChen/Cpp_Concurrency_In_Action)：《C++ Concurrency in Action》的中文翻译版（C++ 并发编程），[在线阅读](https://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/)
 
 30、[ddia](https://github.com/Vonng/ddia)：《Designing Data-Intensive Application》中文翻译版（设计数据密集型应用）
 
-#### 机器学习
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 机器学习
 31、[MTCNN_face_detection_alignment](https://github.com/kpzhang93/MTCNN_face_detection_alignment)：人脸检测领域经典之作，出自 2016 年 ECCV 一篇[论文](https://kpzhang93.github.io/MTCNN_face_detection_alignment/paper/spl.pdf)。目前在工业应用中落地比较成功，很多公司检测模块运用 MTCNN 或者其加速版，MTCNN 将人脸检测和关键点检测通过一个模型作为 MultiTasks 的方式进行训练，inference 时候可同时得到人脸框信息和关键点信息
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/MTCNN_face_detection_alignment.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -191,21 +233,20 @@ _attrLabel = [NudeIn make:^(NUDTextMaker *make) {
 
 35、[deep-learning-papers-translation](https://github.com/SnailTyan/deep-learning-papers-translation)：主要内容是 CV 领域里一些论文的翻译，包括分类、检测、OCR和模型轻量化。不喜欢看英文原版论文的，可以关注该项目
 
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+
+
+<p align="center">
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/32/HelloGitHub32.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/34/HelloGitHub34.md">『下一期』</a>
+</p>
 
 ---
 <p align="center">
-    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
-    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

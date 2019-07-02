@@ -15,12 +15,34 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 HelloGitHub 这个项目就诞生了 🎉
 
----
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
+## 目录
+- [C# 项目](#C-项目)
+- [C++ 项目](#C-项目-1)
+- [CSS 项目](#CSS-项目)
+- [Go 项目](#Go-项目)
+- [Java 项目](#Java-项目)
+- [JavaScript 项目](#JavaScript-项目)
+- [Objective-C 项目](#Objective-C-项目)
+- [PHP 项目](#PHP-项目)
+- [Python 项目](#Python-项目)
+- [Ruby 项目](#Ruby-项目)
+- [Swift 项目](#Swift-项目)
+- [其它](#其它)
+- [开源书籍](#开源书籍)
+- [机器学习](#机器学习)
 
-#### C# 项目
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
+
+## 内容
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+
+### C# 项目
 1、[xs](https://github.com/kulics/xs)：一个专注于简单的开源跨平台编程语言。这门语言的设计目标是改进阅读与编写效率，降低语法负担。让使用者能够把真正的注意力放在解决问题上，只需极少的代码就能优雅地表达逻辑。[中文手册](https://github.com/kulics/xs/blob/master/book-zh/introduction.md)，示例代码如下：
 ```
 # export namespace
@@ -51,12 +73,16 @@ program -> {
 }
 ```
 
-#### C++ 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### C++ 项目
 2、[calculator](https://github.com/Microsoft/calculator)：微软 Windows 系统预装的计算器工具开源了。该工具提供标准、科学、程序员计算器的功能，以及各种度量单位和货币之间的转换功能。实现语言为 C++ 代码并不复杂，快来看看微软工程师编写的代码吧！运行效果如下：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/calculator.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### CSS 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### CSS 项目
 3、[CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration)：这里汇集了 CSS 的使用和学习的示例代码，展示不同 CSS 属性或者不同的课题使用 CSS 来解决的各种方法。[在线阅读地址](https://chokcoco.github.io/CSS-Inspiration/#/)包含代码实际展示样式
 
 4、[bootstrap-table](https://github.com/wenzhixin/bootstrap-table)：基于 Bootstrap 的 jQuery 表格插件，通过简单的设置就可以拥有强大的单选、多选、排序、分页、编辑、导出、过滤（扩展）等功能。示例代码：
@@ -86,7 +112,9 @@ program -> {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/bootstrap-table.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Go 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Go 项目
 5、[drone](https://github.com/drone/drone)：一个基于 Docker 的持续集成平台，使用 Go 语言编写
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/drone.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -114,7 +142,9 @@ $ pprof -web [你的golang程序二进制文件] profile.pb.gz
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/AUXPI.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Java 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Java 项目
 10、[Luban](https://github.com/Curzibn/Luban)：图片压缩是常见的问题，那么微信是如何处理图像的压缩？Luban（鲁班）就是通过在微信朋友圈发送近 100 张不同分辨率的图片，对比原图与微信压缩后的图片逆向推算出来的压缩算法。示例代码：
 ```java
 // 同步调用
@@ -137,7 +167,9 @@ Flowable.just(photos)
 - Windows 系统，启动：双击`startYACY.bat`、 关闭：双击`stopYACY.bat`
 - Mac OS X 系统，请使用 Mac 应用程序，并像其他 Mac 应用程序那样启动或停止它（双击）
 
-#### JavaScript 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### JavaScript 项目
 12、[Web](https://github.com/qianguyihao/Web)：前端入门的图文教程，从 0-1 的过程。内容详细，对于新入行前端的同学有很多的帮助
 
 13、[ncform](https://github.com/ncform/ncform)：只需要配置相关参数，便可方便生成表单的UI组件，自带校验规则满足日常 90% 的要求。表单是 Web 应用中常见的组件，但是开发表单是一个重体力活，ncform 通过配置便可生成表单，极大的提高了开发效率
@@ -170,12 +202,16 @@ render(<Player sources={sources} />)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/makegirlsmoe_web.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Objective-C 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Objective-C 项目
 17、[BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)：macOS 音频工具，包含功能：自动暂停音乐、设置各个应用程序的音量、录制系统音频
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/BackgroundMusic.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### PHP 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### PHP 项目
 18、[php-console](https://github.com/inhere/php-console)：使用简单，功能全面的 PHP 命令行应用库。提供控制台参数解析、命令运行、颜色风格输出、 用户信息交互等功能
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/php-console.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -184,7 +220,9 @@ render(<Player sources={sources} />)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/PasteMe.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Python 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Python 项目
 20、[ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)：Python 在数据科学方面使用库的速查表，包含了 Pandas、Jupyter、SQL、Dask 等。虽然都是些基本的 API 调用，但是用来备忘和速查足以
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/ds-cheatsheets.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -211,7 +249,9 @@ render(<Player sources={sources} />)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/pylane.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Ruby 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Ruby 项目
 27、[jekyll](https://github.com/jekyll/jekyll)：强大的静态博客网站生成工具。无需数据库，可以通过 Markdown 和 Config 轻松生成一个静态博客。该项目十分成熟、社区活跃、拥有多种主题可供选择。最后可以通过 [GitHub Page](https://pages.github.com/) 把生成的博客免费部署上线。快速开始：
 ```
 1. 安装 jekll：gem install bundler jekyll
@@ -221,12 +261,16 @@ render(<Player sources={sources} />)
 5. 本地访问地址：http://localhost:4000
 ```
 
-#### Swift 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Swift 项目
 28、[Bagel](https://github.com/yagiz/Bagel)：一个小型、原生的 iOS 网络调试工具。使用过程不需要配置证书、代理之类的东西。只需要 iOS 设备和 Mac 处于同一网络，就可以查看、监控 App 的网络流量等信息
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/Bagel.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### 其它
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 其它
 29、[howto-make-more-money](https://github.com/easychen/howto-make-more-money)：该项目介绍了程序员如何挣零花钱的姿势
 
 30、[translations](https://github.com/oldratlee/translations)：一些不错的英文资料、文章翻译项目
@@ -243,12 +287,16 @@ render(<Player sources={sources} />)
 
 34、[ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)：优秀、实用的 Chrome 插件集合。该项目还包含插件的中文的使用介绍，为的是让好的插件被更多人发现和使用
 
-#### 开源书籍
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 开源书籍
 35、[PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)：英文原版《Python Data Science Handbook》，该书对于希望或已经从事数据科学相关工作的 Python 工程师而言是重要的学习手册。[在线阅读](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 36、[Go42](https://github.com/ffhelicopter/Go42)：《Go语言四十二章经》Golang 入门书籍。书中作者总结了自己踩坑的经验总结和思考，[在线阅读](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
 
-#### 机器学习
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 机器学习
 37、[BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch)：“Bye Bye TPU”，4 个 GPU 就能训练“史上最强” BigGAN！只需 4-8 个 GPU 即可训练，摆脱了算力束缚
 
 38、[Virgilio](https://github.com/clone95/Virgilio)：本资源库旨在为以下领域提供三种有机完整的学习路径：机器学习、商业智能、云计算。在此你将能够了解相关原理并且在项目实践中予以运用。如果仔细遵循这些学习路径，则可以从零开始构建完整的认识和获得始终可用的技能。事实上，这些学习路径不需要之前有相关知识，但基础编程和简单数学是理解和实践大多数相关概念的必要条件
@@ -259,21 +307,20 @@ render(<Player sources={sources} />)
 
 41、[faceswap](https://github.com/deepfakes/faceswap)：这个工具可以对图片和视频进行换脸。可以很方便地处理图片和视频，搞些有意思的事情
 
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+
+
+<p align="center">
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/35/HelloGitHub35.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/37/HelloGitHub37.md">『下一期』</a>
+</p>
 
 ---
 <p align="center">
-    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
-    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

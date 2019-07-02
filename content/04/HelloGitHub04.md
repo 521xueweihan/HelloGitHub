@@ -15,19 +15,33 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 HelloGitHub 这个项目就诞生了 🎉
 
----
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
+## 目录
+- [Java 项目](#Java-项目)
+- [JavaScript 项目](#JavaScript-项目)
+- [Python 项目](#Python-项目)
+- [其它](#其它)
 
-#### Java 项目
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
+
+## 内容
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+
+### Java 项目
 1、[cachecloud](https://github.com/sohutv/cachecloud)：搜狐视频开源的 CacheCloud 项目，提供了一个 Redis 云管理平台，功能强大，教程详细（有视频教程），文档齐全，**企业级开源项目**
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/img/cachecloud-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### JavaScript 项目
-2、[zingtouch](https://github.com/zingchart/zingtouch)：JavaScirpt 写的，支持移动端各种触摸动作包含：转动、挥动、滑动等动作的库，[官方网站](https://zingchart.github.io/zingtouch/)，展示图如下：
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### JavaScript 项目
+2、[zingtouch](https://github.com/zingchart/zingtouch)：支持移动端各种触摸动作包含：转动、挥动、滑动等动作的库，[官方网站](https://zingchart.github.io/zingtouch/)，展示图如下：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/img/zingtouch-show.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -37,8 +51,10 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/img/zhihu-vue-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Python 项目
-4、[python-guide](https://github.com/kennethreitz/python-guide)：[Requests 库](https://github.com/kennethreitz/requests)的作者——kennethreitz，写的 Python 教程，是个指导性教程，不单单是语法层面的，涵盖项目结构、代码风格，进阶、工具等方方面面。虽然是**英文版**([中文翻译版](http://pythonguidecn.readthedocs.io/zh/latest/))，但我这个英语渣都能看懂，你肯定也可以，快去看看吧，开卷有益。[在线阅读](http://docs.python-guide.org/en/latest/)
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Python 项目
+4、[python-guide](https://github.com/kennethreitz/python-guide)：Requests 库的作者——kennethreitz，写的 Python 入门教程。不单单是语法层面的，涵盖项目结构、代码风格，进阶、工具等方方面面。虽然是**英文版**([中文翻译版](http://pythonguidecn.readthedocs.io/zh/latest/))，但我这个英语渣都能看懂，你肯定也可以，快去看看吧，开卷有益。[在线阅读](http://docs.python-guide.org/en/latest/)
 
 5、[flask-admin](https://github.com/flask-admin/flask-admin)：我工作中需要写一个微型的管理系统，用的就是这个框架。简直快餐型，页面都写好了，只要设置好相关配置就可以跑起来了。唯一缺点就是文档中的例子少，开发一些特定的需求需要自己看源码，才能知道如何改。[文档](https://flask-admin.readthedocs.io/en/latest/)，下面是我跑起来之后的样子：
 
@@ -47,7 +63,9 @@
 
 6、[python-sdk](https://github.com/qiniu/python-sdk)：七牛云存储 SDK。我自己在用他家的服务，上手简单、有免费额度，可以用来做‘图床’，同时，有了这个 SDK 可以写一些好用的小工具。**注意**：图床不能随便用，我曾经就用超了，账户的钱能扣成**负数**！
 
-#### 其它
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 其它
 7、[interview_python](https://github.com/taizilongxu/interview_python)：关于 Python 的面试题
 
 8、[PyZh](https://github.com/MrKiven/PyZh)：Python 经典的技术文章的翻译和收集，[在线阅读](http://pyzh.readthedocs.io/en/latest/)
@@ -64,21 +82,20 @@
 
 14、[awesome-mac](https://github.com/jaywcjlove/awesome-mac)：排版相当好的一个 awesome 系列文章，文中介绍了很多 Mac 上好用的工具。
 
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+
+
+<p align="center">
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/03/HelloGitHub03.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/05/HelloGitHub05.md">『下一期』</a>
+</p>
 
 ---
 <p align="center">
-    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
-    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

@@ -15,17 +15,36 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 HelloGitHub 这个项目就诞生了 🎉
 
----
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
+## 目录
+- [Go 项目](#Go-项目)
+- [Java 项目](#Java-项目)
+- [JavaScript 项目](#JavaScript-项目)
+- [Kotlin 项目](#Kotlin-项目)
+- [Objective-C 项目](#Objective-C-项目)
+- [PHP 项目](#PHP-项目)
+- [Python 项目](#Python-项目)
+- [其它](#其它)
+- [开源书籍](#开源书籍)
 
-#### Go 项目
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
+
+## 内容
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+
+### Go 项目
 1、[ctop](https://github.com/bcicen/ctop)：实现了类 top 命令展示效果的 docker 容器监控工具
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/ctop.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Java 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Java 项目
 2、[MVPArt](https://github.com/JessYanCoding/MVPArt)：一个新的 MVP 架构，此框架旨在解决传统 MVP 类和接口太多、并且 Presenter 和 View 通过接口通信过于繁琐、重用 Presenter 代价太大等问题。架构图如下：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/MVPArt-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -34,7 +53,9 @@
 
 4、[HanLP](https://github.com/hankcs/HanLP)：汉语处理包，目标是普及自然语言处理在生产环境中的应用。特点：功能完善、性能高效、架构清晰、语料时新、可自定义
 
-#### JavaScript 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### JavaScript 项目
 5、[wxapp-market](https://github.com/o2team/wxapp-market)：小程序营销组件，使用简单、方式齐全。包含示例代码，玩法多样
 - 大转盘
 - 刮刮乐
@@ -76,15 +97,21 @@ $('#btnDemo').selectMenu({
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/micro-note-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Kotlin 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Kotlin 项目
 11、[kotlin-examples](https://github.com/JetBrains/kotlin-examples)：JetBrains 开源的 Kotlin 语言 Web 示例项目
 
-#### Objective-C 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Objective-C 项目
 12、[BulletAnalyzer](https://github.com/syik/BulletAnalyzer)：斗鱼弹幕分析工具，功能包含：语义近似度合并、CG/CA 图表数据绘制、Socket 链接数
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/BulletAnalyzer-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### PHP 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### PHP 项目
 13、[Biny](https://github.com/Tencent/Biny)：腾讯开源的一款高性能的超轻量级PHP框架，用于快速开发现代 Web 应用程序。代码简洁优雅，对应用层，数据层，模板渲染层的封装简单易懂，能够快速上手使用，[文档](http://www.billge.cc/)齐全。高性能，框架响应时间在 1ms 以内，单机 qps 轻松上3000。
 - 支持跨库连表，条件复合筛选，查询PK缓存等
 - 同步异步请求分离，类的自动化加载管理
@@ -92,7 +119,9 @@ $('#btnDemo').selectMenu({
 - 支持浏览器端调试，快速定位程序问题和性能瓶颈
 - 具有sql防注入，html自动防xss等特性
 
-#### Python 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Python 项目
 14、[binlog2sql](https://github.com/danfengcao/binlog2sql)：从 MySQL binlog 解析出你要的 SQL。根据不同选项，提供如下功能
 - 数据快速回滚，[闪回原理与实践](https://github.com/danfengcao/binlog2sql/blob/master/example/mysql-flashback-priciple-and-practice.md)
 - 主从切换后新 master 丢数据的修复
@@ -132,7 +161,9 @@ itchat.auto_login()
 itchat.send('Hello, filehelper', toUserName='filehelper')
 ```
 
-#### 其它
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 其它
 19、[Amazing-Windows-Apps](https://github.com/AmazingApps/Amazing-Windows-Apps)：该项目收录了众多 Windows 绝妙的项目、工具。这些软件都是经过测试，安全、免费、好用，[在线阅读](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/content/zh-CN/)
 
 20、[remote-working](https://github.com/greatghoul/remote-working)：收集整理国内远程工作相关的项目
@@ -143,28 +174,29 @@ itchat.send('Hello, filehelper', toUserName='filehelper')
 
 23、[chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)：中华古典文集数据集，包含 5.5 万首唐诗、26 万首宋诗和 2.1 万首宋词。唐宋两朝近 1.4 万古诗人和两宋时期1500 词人。以 json 文件、数据库方式存储，[爬取过程及分析](https://jackeygao.io/words/crawl-ci.html)
 
-#### 开源书籍
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 开源书籍
 24、[kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook)：Kubernetes 中文指南／实践手册，[在线阅读](https://jimmysong.io/kubernetes-handbook/)
 
 25、[op_practice_book](https://github.com/BillWang139967/op_practice_book)：《运维实践指南》
 
 26、[microservices](https://github.com/DocsHome/microservices)：《微服务：从设计到部署》中文版，[在线阅读](http://oopsguy.com/books/microservices/index.html)
 
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+
+
+<p align="center">
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/18/HelloGitHub18.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/20/HelloGitHub20.md">『下一期』</a>
+</p>
 
 ---
 <p align="center">
-    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
-    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

@@ -15,15 +15,35 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 HelloGitHub 这个项目就诞生了 🎉
 
----
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
+## 目录
+- [C 项目](#C-项目)
+- [Go 项目](#Go-项目)
+- [Java 项目](#Java-项目)
+- [JavaScript 项目](#JavaScript-项目)
+- [Objective-C 项目](#Objective-C-项目)
+- [PHP 项目](#PHP-项目)
+- [Python 项目](#Python-项目)
+- [Swift 项目](#Swift-项目)
+- [其它](#其它)
+- [机器学习](#机器学习)
 
-#### C 项目
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
+
+## 内容
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+
+### C 项目
 1、[reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2)：nginx-1.9.2 源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释
 
-#### Go 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Go 项目
 2、[annie](https://github.com/iawia002/annie)：Go 编写的快速、简单、干净的视频下载程序。支持哔哩哔哩、YouTube 视频网站
 ```
 $ annie -c cookies.txt https://www.bilibili.com/video/av20203945/
@@ -42,7 +62,9 @@ $ annie -c cookies.txt https://www.bilibili.com/video/av20203945/
 
 3、[knowledge](https://github.com/gocn/knowledge)：Go 知识图谱
 
-#### Java 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Java 项目
 4、[PreLoader](https://github.com/luckybilly/PreLoader)：Android 页面在打开后需要在 UI 初始化完成后才能发起网络请求，以免网络请求返回后展示到 UI 时出现错误。但这种串行的做法导致页面的整个初始化时间变长。使用该工具可以在打开页面之前预加载数据，然后在页面 UI 初始化完成后提取预加载好的数据进行展示，从而缩短页面初始化时间，提升用户体验。示例代码如下：
 ```java
 // 开启预加载任务
@@ -80,7 +102,9 @@ class Listener implements DataListener<String> {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/SuperLike.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### JavaScript 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### JavaScript 项目
 6、[node-in-debugging](https://github.com/nswbmw/node-in-debugging)：《Node.js 调试指南》作者整理了使用 Node.js 开发这几年的调试经验和思路
 
 7、[chrome-music-lab](https://github.com/googlecreativelab/chrome-music-lab)：Chrome 音乐实验室是一个网站，让学习音乐变得更加简单、好玩。完全基于Web端，国内可直接访问、老少皆宜、支持多种乐器，圆你一个音乐梦
@@ -100,7 +124,9 @@ class Listener implements DataListener<String> {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/30-seconds-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Objective-C 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Objective-C 项目
 10、[WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)：Mac 版微信小助手，支持自动回复、消息防撤回、远程控制、微信多开、会话置底、免认证登录、通知快捷回复等功能
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/WeChatPlugin-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -109,10 +135,14 @@ class Listener implements DataListener<String> {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/LSAnimator.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### PHP 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### PHP 项目
 12、[DzzOffice](https://github.com/zyx0814/dzzoffice)：一套开源办公套件，适用于企业、团队搭建自己的 类似 Google 企业应用套件、微软 Office365 的企业协同办公平台。[在线演示](http://demo.dzzoffice.com/)
 
-#### Python 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Python 项目
 13、[HAipproxy](https://github.com/SpiderClub/haipproxy)：使用 Scrapy＋Redis 实现的高可用分布式 IP 代理池，为大型分布式爬虫提供高可用低延迟的代理 IP 资源。
 ```python
 from client.py_cli import ProxyFetcher
@@ -142,12 +172,16 @@ ws_api = wechatsogou.WechatSogouAPI()
 ws_api.get_gzh_info('微信名称')
 ```
 
-#### Swift 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Swift 项目
 16、[iina](https://github.com/lhc70000/iina)：Mac 下开源多媒体播放器，支持多国语言、高逼格 UI。安装：`brew cask install iina`
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/iina-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### 其它
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 其它
 17、[Interview-Notebook](https://github.com/CyC2018/Interview-Notebook)：该项目整理了技术面试中需要掌握的基础知识，包含了网络、操作系统、算法、数据库、Java、分布式等
 
 18、[blog](https://github.com/ProtoTeam/blog)：蚂蚁数据体验技术团队的博客
@@ -156,7 +190,9 @@ ws_api.get_gzh_info('微信名称')
 
 20、[front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)：与典型的软件工程师面试不同，前端面试对算法的重视比较低。面试会更多考查错综复杂的前端知识，像 HTML、CSS、JavaScript 等等。这个项目整理了这些问题，并给出了答案以及参考连接。[中文版](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
 
-#### 机器学习
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 机器学习
 21、[MachineLearning](https://github.com/apachecn/MachineLearning)：ApacheCN 制作的《机器学习实战》。配套视频：编码能力强，建议观看[《机器学习实战 - 教学版》](https://space.bilibili.com/97678687/#/channel/detail?cid=22486)。
 编码能力弱，建议观看[《机器学习实战 - 讨论版》](https://space.bilibili.com/97678687/#/channel/detail?cid=13045)
 
@@ -166,21 +202,20 @@ ws_api.get_gzh_info('微信名称')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/DeepLeague.gif' style="max-width:80%; max-height=80%;"></img></p>
 
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+
+
+<p align="center">
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/23/HelloGitHub23.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/25/HelloGitHub25.md">『下一期』</a>
+</p>
 
 ---
 <p align="center">
-    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
-    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

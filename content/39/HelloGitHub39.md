@@ -15,12 +15,34 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 HelloGitHub 这个项目就诞生了 🎉
 
----
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
+## 目录
+- [C# 项目](#C-项目)
+- [C++ 项目](#C-项目-1)
+- [CSS 项目](#CSS-项目)
+- [Go 项目](#Go-项目)
+- [Java 项目](#Java-项目)
+- [JavaScript 项目](#JavaScript-项目)
+- [Objective-C 项目](#Objective-C-项目)
+- [PHP 项目](#PHP-项目)
+- [Python 项目](#Python-项目)
+- [Ruby 项目](#Ruby-项目)
+- [Swift 项目](#Swift-项目)
+- [其它](#其它)
+- [开源书籍](#开源书籍)
+- [机器学习](#机器学习)
 
-#### C# 项目
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
+
+## 内容
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+
+### C# 项目
 1、[FreeSql](https://github.com/2881099/FreeSql)：一个功能强大的 C# 对象关系映射程序（ORM），支持 .NETCore 2.1+、.NETFramework 4.5+ 开发模式下，开箱即用，可繁可简的使用方式。支持 CodeFirst 迁移、丰富的表达式函数、支持多种数据库、大量采用 ExpressionTree 技术提升性能等功能。示例代码：
 ```csharp
 var t0 = fsql.Select<Tag>()
@@ -39,7 +61,9 @@ var t3 = fsql.Select<Xxx>()
     .ToList()
 ```
 
-#### C++ 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### C++ 项目
 2、[pprint](https://github.com/p-ranav/pprint)：一个让输出变得更漂亮的 C++ 库。就像 python 语言的 pprint 库，它对基本类型、字符串、复数、enum 类型、STL 容器等做了输出格式优化，有了缩紧和分行才更容易发现这个世界的美好。示例代码如下：
 ```c++
 #include <pprint.hpp>
@@ -56,12 +80,16 @@ printer.print(std::map<std::string, std::set<int>>{{"foo", {1, 2, 3, 3, 2, 1}}, 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/marksencent.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### CSS 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### CSS 项目
 4、[RemixIcon](https://github.com/Remix-Design/RemixIcon)：一套免费、可商用、设计精美、细致的图标库。看到它第一眼后，我感觉自己之前用的图标简直就是枯草🙈。这个项目可以让开发者、设计师在一个图标库中快速找到适合的图标，用于自己的网站或 APP 开发。不同于混搭收集的图标库，RemixIcon 的每一枚图标都是由设计师精心设计而成，并且每一枚图标都包含填充和描边两种风格，便于切换使用
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/RemixIcon.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Go 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Go 项目
 5、[olivia](https://github.com/olivia-ai/olivia)：一个类似 Siri 的开源语音助手，目前只支持英文。开源的语音助手并不多，而且涉及的问题很复杂，现在有了它就可以基于这个项目做一些有趣的小应用
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/olivia.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -116,7 +144,9 @@ doc.X().Background.ColorAttr.ST_HexColorRGB = color.RGB(50, 50, 50).AsRGBString(
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/unioffice.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Java 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Java 项目
 10、[Java](https://github.com/TheAlgorithms/Java)：一份算法清单，详细演示了 Java 中内置的算法实现。如果你想要知道平时使用 Java 时，Java 的内置算法如何帮你处理任务，那么这个项目值得一读。此外，这份清单中还用到了配图来帮助你理解
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/Java.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -129,7 +159,9 @@ doc.X().Background.ColorAttr.ST_HexColorRGB = color.RGB(50, 50, 50).AsRGBString(
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/SmoothRefreshLayout.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### JavaScript 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### JavaScript 项目
 13、[wechat-format](https://github.com/lyricat/wechat-format)：公众号文章的排版真是让人头大，还好有这个微信公众号排版编辑器。便捷地把 Markdown 内容转换成微信特定的 HTML 内容，然后粘贴到公众号的编辑后台就完活了。虽然不是特别美观，但是节省了很多时间，[在线尝试](https://lab.lyric.im/wxformat/)
 
 14、[fe-interview](https://github.com/haizlin/fe-interview)：每天早上 4 个基础前端面试题，助你在前端面试中‘所向披靡’，无人能挡
@@ -142,17 +174,23 @@ doc.X().Background.ColorAttr.ST_HexColorRGB = color.RGB(50, 50, 50).AsRGBString(
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/filepond.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Objective-C 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Objective-C 项目
 18、[OpenEmu](https://github.com/OpenEmu/OpenEmu)：在 macOS 系统上回味下童年时的游戏，一个可以玩各种复古游戏的游戏机
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/OpenEmu.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### PHP 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### PHP 项目
 19、[FreshRSS](https://github.com/FreshRSS/FreshRSS)：一个 PHP 写的免费自托管 RSS 阅读器（free and free），据说上万条订阅都不带卡顿。可分配多账户、支持第三方安卓、iOS 客户端、支持 FEVER API 协议，与 Rsshub 搭配使用，完美解决 RSS 重度用户的痛点。是 RSS 爱好者的福音和神器
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/FreshRSS.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Python 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Python 项目
 20、[psutil](https://github.com/giampaolo/psutil)：一个跨平台库的进程和系统资源监控、管理库。用于查看有关正在运行的进程和系统利用率，如 CPU、内存、磁盘、网络等信息。 实现了 UNIX 命令行工具提供的许多功能，例如：ps、top、lsof、netstat、ifconfig 等，支持 Linux、Windows、macOS 等系统。学会了这个库，就可以通过 Python 脚本做更多有趣的事情了。查看内存的代码：
 ```
 >>> psutil.virtual_memory()
@@ -203,15 +241,21 @@ Downloading 完整版第五期：陈晓卿 中国有俩行当门槛极低——�
 
 24、[GithubMonitor](https://github.com/Macr0phag3/GithubMonitor)：由于很多猪队友的存在，公司敏感信息通过 GitHub 泄露出去是很常见的。这个项目主要根据关键字与 hosts 生成的关键词，利用 GitHub 提供的 API 监控 Git 泄漏，并在检测到信息泄露的时候发送邮件通知
 
-#### Ruby 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Ruby 项目
 25、[pagy](https://github.com/ddnexus/pagy)：特别快的 Ruby 分页库。具有效率高、易用、自定义等特性，只需要少量代码就可实现分页。还有丰富文档可够参考，如果你要在 Ruby 程序中实现分页又不想自己费神，那就快试试这个吧
 
-#### Swift 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Swift 项目
 26、[timer-app](https://github.com/michaelvillar/timer-app)：一个 macOS 上简单的计时器软件。拖动蓝色箭头设置时间，当时间到了会显示通知，并发出一个很好的声音
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/timer-app.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### 其它
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 其它
 27、[ChineseBQB](https://github.com/zhaoolee/ChineseBQB)：表情包资源库，我悄悄的下了好几张，终于可以在群里挺起腰板了
 
 28、[papers-notebook](https://github.com/dyweb/papers-notebook)：论文阅读笔记，包含：分布式、虚拟化、容器、机器学习等方面。可以作为学习计算机部分专业论文的入门资料
@@ -220,10 +264,14 @@ Downloading 完整版第五期：陈晓卿 中国有俩行当门槛极低——�
 
 30、[fe-necessary-book](https://github.com/ddzy/fe-necessary-book)：该项目主要是分享一些技术书籍，也会不定期分享一些开发者必备的软件、工具包、社区、相亲等程序员相关的资源。放松的时候来看看挺不错的✌️
 
-#### 开源书籍
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 开源书籍
 31、[The-Hacker-Playbook-3-Translation](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation)：《The Hacker Playbook 3》中文翻译版（渗透测试实战红队第三版）
 
-#### 机器学习
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 机器学习
 32、[awesome-bert](https://github.com/Jiakui/awesome-bert)：与 bert 相关的 nlp 论文、应用、资源集合。紧跟自然语言处理发展前沿，便于加速开展相关研究工作
 
 33、[ImageMiniLab](https://github.com/itisyang/ImageMiniLab)：图像迷你实验室，可进行图像实验、处理、分析。使用 PyQt5 结合 opencv-python 实现代码简洁易读，通过该工具可以快速演示图像算法效果，便于 cv 入门学习
@@ -254,21 +302,20 @@ dropout(input_) # RETURNS: torch.FloatTensor (6x3x10)
 
 36、[deeplearning-models](https://github.com/rasbt/deeplearning-models)：各种深度学习架构、模型和技巧的集合。TensorFlow 和 PyTorch 的各种深度学习架构、模型和技巧的 Jupyter 集合，非常适合学习
 
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+
+
+<p align="center">
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/38/HelloGitHub38.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | 『下一期』
+</p>
 
 ---
 <p align="center">
-    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
-    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

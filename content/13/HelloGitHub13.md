@@ -15,24 +15,48 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 HelloGitHub 这个项目就诞生了 🎉
 
----
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
+## 目录
+- [C 项目](#C-项目)
+- [C# 项目](#C-项目-1)
+- [C++ 项目](#C-项目-2)
+- [Go 项目](#Go-项目)
+- [Java 项目](#Java-项目)
+- [JavaScript 项目](#JavaScript-项目)
+- [Objective-C 项目](#Objective-C-项目)
+- [Python 项目](#Python-项目)
+- [其它](#其它)
+- [开源书籍](#开源书籍)
 
-#### C 项目
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
+
+## 内容
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+
+### C 项目
 1、[awesome-c-cn](https://github.com/jobbole/awesome-c-cn)：C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
 
-#### C# 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### C# 项目
 2、[Dopamine](https://github.com/digimezzo/Dopamine)：基于WPF编写的现代扁平风格轻量级播放器
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/Dopamine-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### C++ 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### C++ 项目
 3、[ltp](https://github.com/HIT-SCIR/ltp)：语言技术平台（Language Technology Platform，LTP）是哈工大社会计算与信息检索研究中心历时十年开发的一整套中文语言处理系统。
 
-#### Go 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Go 项目
 4、[dnt](https://github.com/shiyanhui/dht)：DHT 实现了 BitTorrent DHT 协议，它包含两种模式，标准模式和爬虫模式。标准模式遵循 DHT 协议，你可以把它当做一个标准的 DHT 组件。爬虫模式是为了嗅探到更多 torrent 文件信息，它在某些方面不遵循 DHT 协议。 基于爬虫模式，你可以打造你自己的 BTDigg，[演示地址](http://bthub.io/)
 
 
@@ -40,7 +64,9 @@
 
 5、[gobyexample](https://github.com/mmcgrana/gobyexample)：Go 示例代码，[在线浏览](https://gobyexample.com/)
 
-#### Java 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Java 项目
 6、[Grav](https://github.com/glomadrian/Grav)：Android 粒子动画效果，非常炫酷。让 APP 逼格更上一层楼
 
 
@@ -50,7 +76,9 @@
 
 8、[android-discuss](https://github.com/android-cn/android-discuss)：Android 问题交流讨论坛，包含 Android 开发中的各种问题讨论
 
-#### JavaScript 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### JavaScript 项目
 9、[js-stack-from-scratch](https://github.com/pd4d10/js-stack-from-scratch)：从零开始构建 JavaScript 技术栈（中文版）
 
 10、[element](https://github.com/ElemeFE/element)：一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的组件库，提供了配套设计资源，帮助你的网站快速成型。[官网](http://element.eleme.io/#/zh-CN)
@@ -72,7 +100,9 @@
 
 14、[typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)：TypeScript 入门教程
 
-#### Objective-C 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Objective-C 项目
 15、[PYSearch](https://github.com/iphone5solo/PYSearch)：一款综合（QQ 音乐、微信、美团、优酷、虎牙直播等多款 App）风格的搜索控制器
 
 
@@ -90,7 +120,9 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/PPRows.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Python 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Python 项目
 17、[ngxtop](https://github.com/lebinh/ngxtop)：解析 nginx 访问日志并格式化输出有用的信息，可以用来实时了解你的服务器正在发生的情况。安装命令 `pip install ngxtop`，输出示例如下：
 ```
 $ ngxtop
@@ -147,7 +179,9 @@ Request failed
 [None, None, <Response [500]>]
 ```
 
-#### 其它
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 其它
 21、[uBlock](https://github.com/gorhill/uBlock)：uBlock Origin 不只是一个广告过滤工具，它是具有一般性用途的过滤工具，屏蔽广告的功能是通过支持 Adblock Plus 过滤规则语法实现的。uBlock 还扩充了语法，一开始就支持自定义过滤规则，[中文文档](https://github.com/fang5566/uBlock/blob/master/README.md#ublock-origin)
 
 22、[SwitchHosts](https://github.com/oldj/SwitchHosts)：一个用于快速切换 hosts 文件的小程序，基于 Electron 开发
@@ -165,26 +199,27 @@ Request failed
 
 27、[SuperTinySocialIcons](https://github.com/edent/SuperTinySocialIcons)：1KB以下，超级小型社交图标
 
-#### 开源书籍
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 开源书籍
 28、[growth-ebook](https://github.com/phodal/growth-ebook)：全栈增长工程师指南，[在线阅读](http://growth.phodal.com/)
 
 29、[free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)：免费的计算机编程类中文书籍
 
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+
+
+<p align="center">
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/12/HelloGitHub12.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/14/HelloGitHub14.md">『下一期』</a>
+</p>
 
 ---
 <p align="center">
-    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
-    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

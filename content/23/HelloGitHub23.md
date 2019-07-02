@@ -15,20 +15,43 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 HelloGitHub 这个项目就诞生了 🎉
 
----
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
+## 目录
+- [C 项目](#C-项目)
+- [C# 项目](#C-项目-1)
+- [Java 项目](#Java-项目)
+- [JavaScript 项目](#JavaScript-项目)
+- [Objective-C 项目](#Objective-C-项目)
+- [PHP 项目](#PHP-项目)
+- [Python 项目](#Python-项目)
+- [Swift 项目](#Swift-项目)
+- [其它](#其它)
+- [开源书籍](#开源书籍)
+- [机器学习](#机器学习)
 
-#### C 项目
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
+
+## 内容
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+
+### C 项目
 1、[ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial)：《笨方法学 FFmpeg libav》（英文）
 
-#### C# 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### C# 项目
 2、[NiceHashMinerLegacy](https://github.com/nicehash/NiceHashMinerLegacy)：一款可以自动帮你挖比特币的免费 App。[中文官网地址](https://miner.nicehash.com/)，经典版截图如下：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/NiceHashMinerLegacy-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Java 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Java 项目
 3、[weixin-java-tools](https://github.com/Wechat-Group/weixin-java-tools)：开源、非官方、功能全面的微信开发 Java SDK，支持包括微信支付、开放平台、小程序、企业号和公众号等功能的开发。[示例 Demo 索引](https://github.com/Wechat-Group/weixin-java-tools/blob/master/demo.md)，以及详细的[开发文档](https://github.com/wechat-group/weixin-java-tools/wiki)
 
 4、[CC](https://github.com/luckybilly/CC)：使用简单、功能丰富的 Android 组件化框架。适用于几乎所有的组件化开发需求，可进行组件层面的 AOP 编程。[项目 wiki](https://github.com/luckybilly/CC/wiki)
@@ -49,7 +72,9 @@ public class Hello {
 }
 ```
 
-#### JavaScript 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### JavaScript 项目
 6、[wiki]( https://github.com/Requarks/wiki)：NodeJS+Git+Markdown 实现轻松搭建 wiki。对于团队内部的知识分享是一个不错的选择。[在线预览](https://docs.requarks.io/wiki)
 
 7、[prettier](https://github.com/prettier/prettier)：十分方便的代码格式化库。支持如：JavaScript、Flow、TypeScript、CSS、SCSS等编程语言。同时提供了编辑插件，在使用 vscode 开发 Vue 项目时候，使用此插件可以让代码更具有可读性
@@ -75,13 +100,19 @@ foo(
 fetch('/url').then(res => {}).catch(err => {})
 ```
 
-#### Objective-C 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Objective-C 项目
 9、[iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization)：关于 iOS 性能优化梳理。包含基本工具、业务优化、内存优化、卡顿优化、布局优化、电量优化、 安装包瘦身、启动优化、网络优化等
 
-#### PHP 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### PHP 项目
 10、[arithmetic-php](https://github.com/PuShaoWei/arithmetic-php)：PHP 语言实现的各类算法合集 
 
-#### Python 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Python 项目
 11、[rq](https://github.com/rq/rq)：基于 redis 的简单、轻量级任务队列库。可以帮助理解简单的任务队列模式和设计。使用简单、文档健全，适用于小型项目或简单的场景。
 ```shell
 # Tip：job 需要通过模块引用加入到任务队列中
@@ -103,12 +134,16 @@ fetch('/url').then(res => {}).catch(err => {})
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/redash.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Swift 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Swift 项目
 15、[LyricsX](https://github.com/ddddxxx/LyricsX)：一个为 iTunes、Spotify、Vox 播放器提供自动下载歌词，并在桌面和任务栏显示的插件
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/LyricsX-show-min.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-#### 其它
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 其它
 16、[vim-galore](https://github.com/mhinz/vim-galore)：Vim 从入门到精通，[中文](https://github.com/wsdjeg/vim-galore-zh_cn)
 
 17、[awesome-blockchain](https://github.com/chaozh/awesome-blockchain)：区块链技术开发相关资料
@@ -119,27 +154,30 @@ fetch('/url').then(res => {}).catch(err => {})
 
 20、[http-api-design](https://github.com/interagent/http-api-design)：HTTP API 设计指南。这篇指南介绍描述了 HTTP+JSON API 的一种设计模式，最初摘录整理自 Heroku 平台的 API 设计指南。[中文翻译版](https://github.com/ZhangBohan/http-api-design-ZH_CN)
 
-#### 开源书籍
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 开源书籍
 21、[yast-cn](https://github.com/DeathKing/yast-cn)：《Scheme入门教程》中译版，[在线阅读](http://deathking.github.io/yast-cn/)
 
-#### 机器学习
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 机器学习
 22、[captcha_break](https://github.com/ypwhs/captcha_break)：使用深度学习来破解 captcha（python 生成验证码的库）验证码。该项目会通过 Keras 搭建一个深度卷积神经网络来识别 captcha 生成的图片验证码，建议使用显卡来运行该项目。可视化代码都是在 jupyter notebook 中完成的，如果你希望写成 python 脚本，稍加修改即可正常运行
 
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+
+
+<p align="center">
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/22/HelloGitHub22.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/24/HelloGitHub24.md">『下一期』</a>
+</p>
 
 ---
 <p align="center">
-    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
-    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

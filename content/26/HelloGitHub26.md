@@ -15,22 +15,46 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 HelloGitHub 这个项目就诞生了 🎉
 
----
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
+## 目录
+- [C 项目](#C-项目)
+- [C++ 项目](#C-项目-1)
+- [CSS 项目](#CSS-项目)
+- [Go 项目](#Go-项目)
+- [Java 项目](#Java-项目)
+- [JavaScript 项目](#JavaScript-项目)
+- [Python 项目](#Python-项目)
+- [Rust 项目](#Rust-项目)
+- [Swift 项目](#Swift-项目)
+- [其它](#其它)
+- [开源书籍](#开源书籍)
+- [机器学习](#机器学习)
 
-#### C 项目
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
+
+## 内容
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+
+### C 项目
 1、[ttygif](https://github.com/icholy/ttygif)：录制终端.gif
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/ttygif.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### C++ 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### C++ 项目
 2、[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)：一款用于 Windows 平台的网速监控悬浮窗软件。可以显示当前网速、CPU及内存利用率、任务栏显示、更换皮肤、历史流量统计等功能
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/TrafficMonitor-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### CSS 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### CSS 项目
 3、[caomei](https://github.com/xiangsudian/caomei)：一套免费、精致的开源图标库。
 - 精心绘制 丨 风格统一、力求像素级的显示
 - 使用高效 丨 资源轻量、灵活、多设备兼容
@@ -40,7 +64,9 @@
 
 4、[You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css)：该项目包含了一些常用的 CSS 样式示例和作者阅读《CSS揭秘》的收获分享，适合于想要提高 CSS 技能的同学
 
-#### Go 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Go 项目
 5、[lgo](https://github.com/yunabe/lgo)：实现像 python 一样的交互式编程，同时整合了 Jupyter Notebook。效果如下：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/lgo.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -53,7 +79,9 @@
 
 7、[go-perfbook](https://github.com/dgryski/go-perfbook)：《关于 Go 性能优化的思考》概述了编写高性能 Go 代码的最佳实践。[中文](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)
 
-#### Java 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Java 项目
 8、[AutoEx](https://github.com/BolexLiu/AutoEx)：帮助 Android 开发者，让项目在崩溃时从异常堆栈中，自动寻找 Stack Overflow 的回答。体积只有 9kb 并且没有依赖其他第三方库。当程序出现异常时会有如下输出：
 ```
 ┌—————————————————————AutoEx——————————————————————
@@ -93,7 +121,9 @@ Double[] myDoubleArray = triplet.getValue2();
 ...
 ```
 
-#### JavaScript 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### JavaScript 项目
 10、[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)：包含了多种基于 JavaScript 的算法与数据结构，[中文](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 
 11、[Day.js](https://github.com/xx45/dayjs)：一个轻量的 JavaScript 时间日期处理库。保持和 Moment.js 的 API 设计完全一样。如果你曾经用过 Moment.js，那么你已经知道如何使用 Day.js 了。体积仅有 2kb 是 Moment.js 的轻量化方案，示例代码如下：
@@ -111,7 +141,9 @@ dayjs().startOf('month').add(1, 'day').set('year', 2018).format('YYYY-MM-DD HH:m
 
 14、[BizCharts](https://github.com/alibaba/BizCharts)：蚂蚁出品的基于 React 的图表库。图表样式丰富、使用方便、易扩展、文档齐全，[官网](https://antv.alipay.com/zh-cn/g2/3.x/index.html)
 
-#### Python 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Python 项目
 15、[redis-faina](https://github.com/facebookarchive/redis-faina)：Redis 性能分析器。提供两种模式分析模式：命令实时、读取日志。其原理是使用 Redis MONITOR 命令，将该命令的结果通过管道传递给 redis-faina 脚本，脚本将返回的信息解析，并汇成总成统计信息。具体信息如下所示：
 ```shell
 注意：分析非常闲的 redis 实例时，分析的结果可能偏差的很多。
@@ -190,14 +222,18 @@ pprint(result, indent=2)
 #   'title': 'Hunky Dory'}
 ```
 
-#### Rust 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Rust 项目
 17、[fd](https://github.com/sharkdp/fd)：一个简单、快速、友好的替代 find 命令的方案
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/fd.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 18、[rayon](https://github.com/rayon-rs/rayon)：一个易用、无数据竞争的将顺序迭代器妆化成并行迭代器。简单说就是原本你的数组只能一个一个地遍历，使用这个库可以并发同时从几个 index 开始遍历，同时也能遍历 map 等类似的数据结构
 
-#### Swift 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Swift 项目
 19、[CocoaDebug](https://github.com/CocoaDebug/CocoaDebug)：iOS APP 内置调试工具，支持 log 日志查看、网络抓包、沙盒查看等功能，代码零入侵。示例代码：
 ```swift
 //Step 1.
@@ -220,7 +256,9 @@ public func print<T>(file: String = #file, function: String = #function, line: I
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/CocoaDebug.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-#### 其它
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 其它
 20、[architect-awesome](https://github.com/xingshaocheng/architect-awesome)：《后端架构师技术图谱》
 
 21、[a-cartoon-intro-to-redux-cn](https://github.com/jasonslyvia/a-cartoon-intro-to-redux-cn)：《看漫画学 Redux》
@@ -231,29 +269,32 @@ public func print<T>(file: String = #file, function: String = #function, line: I
 
 24、[practical-programming-books](https://github.com/EZLippi/practical-programming-books)：实用的计算机相关技术书籍、入门的实用教程、技术网站、博文集合
 
-#### 开源书籍
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 开源书籍
 25、[sicp-py-zh](https://github.com/wizardforcel/sicp-py-zh)：《SICP Python 描述中文版》[在线阅读](https://wizardforcel.gitbooks.io/sicp-py/content/)
 
-#### 机器学习
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 机器学习
 26、[AlphaZero_Gomoku](https://github.com/junxiaosong/AlphaZero_Gomoku)：使用 TensorFlow/Pytorch/Theano 实现 AlphaZero 算法，通过自我对弈从零训练五子棋 AI。实现简单、清晰，适合学习、了解 AlphaGo Zero 背后的关键思想和技术细节
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/AlphaZero_Gomoku.gif' style="max-width:80%; max-height=80%;"></img></p>
 
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+
+
+<p align="center">
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/25/HelloGitHub25.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/27/HelloGitHub27.md">『下一期』</a>
+</p>
 
 ---
 <p align="center">
-    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
-    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

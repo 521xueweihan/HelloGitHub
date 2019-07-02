@@ -15,31 +15,55 @@
 
 在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
 
-🎉 最后 [HelloGitHub](https://hellogithub.com) 这个项目就诞生了 🎉
+🎉 最后 HelloGitHub 这个项目就诞生了 🎉
 
----
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[点击查看往期内容](https://github.com/521xueweihan/HelloGitHub#内容)
+## 目录
+- [C# 项目](#C-项目)
+- [CSS 项目](#CSS-项目)
+- [Go 项目](#Go-项目)
+- [Java 项目](#Java-项目)
+- [JavaScript 项目](#JavaScript-项目)
+- [Kotlin 项目](#Kotlin-项目)
+- [Python 项目](#Python-项目)
+- [其它](#其它)
+- [开源书籍](#开源书籍)
+- [机器学习](#机器学习)
 
-#### C# 项目
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+</p>
+
+## 内容
+> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+
+### C# 项目
 1、[ASTool](https://github.com/asheigithub/ASTool)：NET2.0 实现的 AS3（第三代 Flash 脚本）解释器，可用于嵌入 unity 做热更。一个完整的脚本语言解释执行系统，从语法树分析开始一直到实际执行
 
 2、[MaterialDesignInXamlToolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit)：谷歌 Material Design 设计风格控件库
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/17/img/MaterialDesignInXamlToolkit-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### CSS 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### CSS 项目
 3、[bulma](https://github.com/jgthms/bulma)：UI框架，样式比 Bootstrap 更加扁平化。源码文件结构清晰，通过源码可以学到 UI 框架架构。[使用 bulma 的网站展示](http://bulma.io/expo/)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/17/img/bulma-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Go 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Go 项目
 4、[jwt-go](https://github.com/dgrijalva/jwt-go)：Golang 实现 JSON Web Tokens (JWT)
 
 5、[casbin](https://github.com/casbin/casbin)：访问控制开源库，支持 ACL/RBAC/ABAC 等访问控制模型，支持 MySQL/NoSQL 等存储方式
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/17/img/casbin-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Java 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Java 项目
 6、[GankMM](https://github.com/maning0303/GankMM)：干货集中营 Android 客户端。每天一张美女图片，一个视频短片，若干Android，iOS等程序干货，周一到周五每天更新，数据全部由 [干货集中营](http://gank.io/) 提供。项目简单完整，涉及内容全面，利于学习 Android 开发的技巧
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/17/img/GankMM.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -52,7 +76,9 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/17/img/elasticsearch-sql-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### JavaScript 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### JavaScript 项目
 9、[gka](https://github.com/gkajs/gka)：简单、高效的帧动画生成工具，图片处理工具。
 - 一键式：图片文件批量序列化重命名，生成帧动画文件，支持预览
 - 性能佳：支持相同帧图片复用✓，图片空白裁剪✓，合图模式✓，图片压缩✓
@@ -74,12 +100,16 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/17/img/parrot-mocker-web-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Kotlin 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Kotlin 项目
 14、[Eyepetizer-in-Kotlin](https://github.com/LRH1993/Eyepetizer-in-Kotlin)：一款使用 kotlin 语言开发的 App。适合初学者作为学习 kotlin 语言的一个项目，可以在做项目的同时体验到 kotlin 语言的优点
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/17/img/Eyepetizer-in-Kotlin-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### Python 项目
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### Python 项目
 15、[huey](https://github.com/coleifer/huey)：结合 redis 实现的轻量任务队列，但是支持功能还是很多的：
 - 多进程、多线程、协程
 - 任务定时执行
@@ -100,7 +130,9 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/17/img/WeiboSpider-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-#### 其它
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 其它
 20、[Material-Design-Chinese](https://github.com/zdhxiong/Material-Design-Chinese)：Material Design 官方文档的中文翻译，保留了原版网站的样式，并保持和官方文档同步更新
 
 21、[sec-chart](https://github.com/SecWiki/sec-chart)：安全思维导图集合
@@ -111,31 +143,34 @@
 
 24、[PythonSpiderNotes](https://github.com/lining0806/PythonSpiderNotes)：Python 爬虫入门教程
 
-#### 开源书籍
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 开源书籍
 25、[pandas-cookbook](https://github.com/jvns/pandas-cookbook)：pandas cookbook（英文）
 
 26、[tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook)：Tensorflow cookbook（英文）
 
-#### 机器学习
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
+### 机器学习
 27、[TensorFlow-World](https://github.com/astorfi/TensorFlow-World)：简单易用的 TensorFlow 教程
 
 28、[EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow)：TensorFlow 最佳实践
 
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+
+
+<p align="center">
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/16/HelloGitHub16.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/18/HelloGitHub18.md">『下一期』</a>
+</p>
 
 ---
 <p align="center">
-    “看完了，还不够？<a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a> | 还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a>”<br>
-    如果你发现了好玩、有意义的开源项目 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击这里</a> 分享你觉得有趣的项目。
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 声明
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
