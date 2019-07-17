@@ -16,7 +16,7 @@
 
 希望通过本项目能够有更多人加入到开源社区、回馈社区。**让有趣、有价值的项目被更多人发现和加入**。在参与这些项目的过程中，你将得到：**热爱编程的小伙伴**🕺 、**更多编程知识**📚 、**优秀的编程技巧**💻 、**找到编程的乐趣**🎮 。
 
-**『HelloGitHub 每日精选系列』开启**，你可以通过关注我们的[最惨官微](https://weibo.com/hellogithub)获取每日更新。
+**『HelloGitHub 每日精选』开启**，你可以通过关注我们的[最惨官微](https://weibo.com/hellogithub)获取每日更新。
 
 ## 内容
 [推荐或自荐项目](https://github.com/521xueweihan/HelloGitHub/issues/new) | [贡献者列表](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md) | [官网](https://hellogithub.com) | [最惨官微](https://weibo.com/hellogithub)
