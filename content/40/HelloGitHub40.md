@@ -236,7 +236,7 @@ $ rubocop
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/img/git-open.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[getAwayBSG](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jiangwei1995910/getAwayBSG)：项目名为“逃离北上广”，该项目通过爬取的招聘和房价数据。给准备逃离北上广等一线城市，却又找不到去除的 IT 人士提供了一些可视化数据作为建议
+30、[getAwayBSG](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jiangwei1995910/getAwayBSG)：项目名为“逃离北上广”，该项目通过爬取的招聘和房价数据。给准备逃离北上广等一线城市，却又找不到去处的 IT 人士提供了一些可视化数据作为建议
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/img/getAwayBSG.png' style="max-width:80%; max-height=80%;"></img></p>
 
