@@ -302,8 +302,6 @@ dropout(input_) # RETURNS: torch.FloatTensor (6x3x10)
 
 36、[deeplearning-models](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rasbt/deeplearning-models)：各种深度学习架构、模型和技巧的集合。TensorFlow 和 PyTorch 的各种深度学习架构、模型和技巧的 Jupyter 集合，非常适合学习
 
-37、[paddle](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/paddlepaddle/paddle)：一个简单易用、高效灵活、可扩展的深度学习平台，由百度科学家和工程师共同开发
-
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
