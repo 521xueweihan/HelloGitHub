@@ -35,7 +35,9 @@
 ## 公众号
 最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
 
-HelloGitHub 后续会推出『开源项目深入讲解系列』，[点击查看创作须知](https://www.yuque.com/docs/share/20be8de6-f701-40c6-8ab2-a3ed4d18835b)，**欢迎开源项目的作者自荐给我们投稿**。关注下面的公众号，直接发送“投稿”，并附上项目地址，我会回复您的消息的。
+HelloGitHub 后续会推出『开源项目深入讲解系列』[点击查看创作须知](https://www.yuque.com/docs/share/20be8de6-f701-40c6-8ab2-a3ed4d18835b)，**欢迎开源项目的作者自荐给我们投稿**。关注下面的公众号，直接发送“投稿”，并附上项目地址，我会回复您的消息的。
+
+希望 HG 这个平台能让好的项目被更多人了解、使用、参与。只要你的项目够好，HelloGitHub 会全力、无偿推荐。来联系我们吧！
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"><br>
