@@ -16,12 +16,16 @@
 
 - 截图：（可选）gif/png/jpg
 
-<!--
-1. [项目审核标准说明](https://github.com/521xueweihan/HelloGitHub/issues/271)
 
-2. 如您推荐的项目收录到《HelloGitHub》月刊，您的 GitHub 帐号将展示在 [贡献人列表](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md)，**同时会在本 issues 中通知您**。
+## 提示
+> 点击上方 “Preview” 更方便地阅读以下内容，
 
-3. HelloGitHub 网站：https://hellogithub.com
+提高项目收录的概率方法如下：
+1. 到 HelloGitHub 网站首页：https://hellogithub.com 搜索要推荐的项目地址，查看准备推荐的项目是否被推荐过。
 
-再次感谢您对《HelloGitHub》项目的支持！-->
+2. 根据 [项目审核标准说明](https://github.com/521xueweihan/HelloGitHub/issues/271) 修改项目
+
+3. 如您推荐的项目收录到《HelloGitHub》月刊，您的 GitHub 帐号将展示在 [贡献人列表](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md)，**同时会在本 issues 中通知您**。
+
+再次感谢您对 HelloGitHub 项目的支持！
 
