@@ -16,10 +16,11 @@
 
 希望通过本项目能够有更多人加入到开源社区、回馈社区。**让有趣、有价值的项目被更多人发现和加入**。在参与这些项目的过程中，你将得到：**热爱编程的小伙伴**🕺 、**更多编程知识**📚 、**优秀的编程技巧**💻 、**找到编程的乐趣**🎮 。
 
-**『HelloGitHub 每日精选』开启**，你可以通过关注我们的[最惨官微](https://weibo.com/hellogithub)获取每日更新。
+- **『每日精选』** 关注我们的[最惨官微](https://weibo.com/hellogithub)获取最新项目推荐。
+- **『讲解开源项目』** 欢迎开源爱好者给我们投稿[查看创作须知](https://www.yuque.com/docs/share/ac165a31-927e-4c9a-8044-5a8e0de372e7)。
 
 ## 内容
-[推荐或自荐项目](https://github.com/521xueweihan/HelloGitHub/issues/new) | [贡献者列表](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md) | [官网](https://hellogithub.com) | [最惨官微](https://weibo.com/hellogithub)
+每月 28 号发布[最新一期](/content/last.md) | [推荐或自荐项目](https://github.com/521xueweihan/HelloGitHub/issues/new) | [最惨官微](https://weibo.com/hellogithub) | [贡献者列表](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md) | [官网](https://hellogithub.com) 
 
 | :squirrel: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
@@ -32,36 +33,102 @@
 | [第 10 期](/content/10/HelloGitHub10.md) | [第 09 期](/content/09/HelloGitHub09.md) | [第 08 期](/content/08/HelloGitHub08.md) | [第 07 期](/content/07/HelloGitHub07.md) | [第 06 期](/content/06/HelloGitHub06.md) |
 | [第 05 期](/content/05/HelloGitHub05.md) | [第 04 期](/content/04/HelloGitHub04.md) | [第 03 期](/content/03/HelloGitHub03.md) | [第 02 期](/content/02/HelloGitHub02.md) | [第 01 期](/content/01/HelloGitHub01.md) |
 
-## 公众号
-最近开了公众号，后续公众号会针对月刊推荐过的内容精选、梳理，做成系列的文章发布。月刊也会同时发布在公众号，便于第一时间阅读。
+## 贡献者
+<table>
+  <tbody>
+    <tr>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/521xueweihan">
+          <img src="https://avatars2.githubusercontent.com/u/8255800?s=50&v=4" style="width: 50px;"><br>
+          <sub>削微寒</sub>
+        </a><br>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/ming995">
+          <img src="https://avatars0.githubusercontent.com/u/46031112?s=50&v=4" style="width: 50px;"><br>
+          <sub>糖醋里脊</sub>
+        </a><br>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/FrontMage">
+          <img src="https://avatars0.githubusercontent.com/u/17007026?s=50&v=4" style="width: 50px;"><br>
+          <sub>FrontMage</sub>
+        </a><br>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/xibinyue">
+          <img src="https://avatars0.githubusercontent.com/u/14122146?s=50&v=4" style="width: 50px;"><br>
+          <sub>xibinyue</sub>
+        </a><br>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/Eurus-Holmes">
+          <img src="https://avatars3.githubusercontent.com/u/34226570?s=50&v=4" style="width: 50px;"><br>
+          <sub>Feiyang Chen</sub>
+        </a><br>
+      </th>
+    </tr>
+    <tr>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/ChungZH">
+          <img src="https://avatars1.githubusercontent.com/u/42088872?s=50&v=4" style="width: 50px;"><br>
+          <sub>ChungZH</sub>
+        </a><br>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/daixiang0">
+          <img src="https://avatars3.githubusercontent.com/u/26538619?s=50&v=4" style="width: 50px;"><br>
+          <sub>daixiang0</sub>
+        </a><br>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/nivance">
+          <img src="https://avatars3.githubusercontent.com/u/3291404?s=50&v=4" style="width: 50px;"><br>
+          <sub>nivance</sub>
+        </a><br>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md">
+          <img src="https://avatars1.githubusercontent.com/u/17665302?s=50&v=4" style="width: 50px;"><br>
+          <sub>更多贡献者</sub>
+        </a><br>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/521xueweihan/HelloGitHub/issues/new">
+          <img src="https://avatars2.githubusercontent.com/u/10628772?s=50&v=4" style="width: 50px;"><br>
+          <sub>虚位以待</sub>
+        </a><br>
+      </th>
+    </tr>
+  </tbody>
+</table>
 
-HelloGitHub 后续会推出『开源项目深入讲解系列』[点击查看创作须知](https://www.yuque.com/docs/share/20be8de6-f701-40c6-8ab2-a3ed4d18835b)，**欢迎开源项目的作者自荐给我们投稿**。关注下面的公众号，直接发送“投稿”，并附上项目地址，我会回复您的消息的。
-
-希望 HG 这个平台能让好的项目被更多人了解、使用、参与。只要你的项目够好，HelloGitHub 会全力、无偿推荐。来联系我们吧！
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
 
 ## 合作组织
-欢迎各路:octocat:开源组织合作。[点击联系我](Mailto:595666367@qq.com)
+欢迎各种:octocat:开源组织合作[点击联系我](Mailto:595666367@qq.com)
 
 <table>
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
         <a href="https://github.com/FGDBTKD">
-          <img src="https://avatars3.githubusercontent.com/u/40509403?s=80&v=4" style="max-width:100%;"><br>
+          <img src="https://avatars3.githubusercontent.com/u/40509403?s=50&v=4" style="width: 50px;"><br>
           <sub>FGDBTKD</sub><br>
           <sub>AI/ML/DL/NLP</sub>
         </a><br>
       </th>
       <th align="center" style="width: 80px;">
         <a href="https://github.com/d2-projects">
-          <img src="https://avatars3.githubusercontent.com/u/40857578?s=80&v=4" style="max-width:100%;"><br>
+          <img src="https://avatars3.githubusercontent.com/u/40857578?s=50&v=4" style="width: 50px;"><br>
           <sub>D2 Projects</sub><br>
           <sub>Vue/JavaScript</sub>
+        </a><br>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/doocs">
+          <img src="https://avatars1.githubusercontent.com/u/43716716?s=50&v=4" style="width: 50px;"><br>
+          <sub>Doocs</sub><br>
+          <sub>Technical Knowledge</sub>
         </a><br>
       </th>
     </tr>

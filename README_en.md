@@ -17,7 +17,7 @@ This is a project for **novice programmers**, **programming lovers**, and **open
 It is hoped that through this project, more and more people will join the **open-source community** and contribute to the community.Let these interesting and valuable projects be discovered, concerned, participated and contributed by more people. In the process of participating in these projects, you will learn more programming knowledge 📚, improve programming skills 💻, and find the pleasure of programming 🎮.
 
 ## Content
-The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/content/last.md) will be released on the **28th of each month**|[Contributors](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md) | [Website](https://hellogithub.com)
+The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/content/last.md) will be released on the **28th of each month**| [Contributors](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md) | [Website](https://hellogithub.com)
 
 | :squirrel: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
@@ -30,35 +30,103 @@ The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/con
 | [NO.10](/content/10/HelloGitHub10.md) | [NO.09](/content/09/HelloGitHub09.md) | [NO.08](/content/08/HelloGitHub08.md) | [NO.07](/content/07/HelloGitHub07.md) | [NO.06](/content/06/HelloGitHub06.md) |
 | [NO.05](/content/05/HelloGitHub05.md) | [NO.04](/content/04/HelloGitHub04.md) | [NO.03](/content/03/HelloGitHub03.md) | [NO.02](/content/02/HelloGitHub02.md) | [NO.01](/content/01/HelloGitHub01.md) |
 
-You are welcomed to share open-source projects that discovered by you or your own projects [CLICK HERE](https://github.com/521xueweihan/HelloGitHub/issues/new). Also, You can install the [Sharing Plug-in](https://www.fairyever.com/posts/d2-daily-chrome-extension/) to recommend interesting open source projects more easily.
 
+## Contributors
 
-## WeChat Subscription
-We have WeChat Subscription now. The following days, we will select and arrange the contents recommended by the monthly magazine to make a series of articles for WeChat Subscript push. The magazine will also be published on the WeChat Subscript, so that it can be read at the first time.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"><br>
-Follow the HelloGitHub WeChat Subscript for more information and contents of open-source projects.
-</p>
+<table>
+  <tbody>
+    <tr>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/521xueweihan">
+          <img src="https://avatars2.githubusercontent.com/u/8255800?s=50&v=4" style="width: 50px;"><br>
+          <sub>削微寒</sub>
+        </a><br>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/ming995">
+          <img src="https://avatars0.githubusercontent.com/u/46031112?s=50&v=4" style="width: 50px;"><br>
+          <sub>糖醋里脊</sub>
+        </a><br>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/FrontMage">
+          <img src="https://avatars0.githubusercontent.com/u/17007026?s=50&v=4" style="width: 50px;"><br>
+          <sub>FrontMage</sub>
+        </a><br>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/xibinyue">
+          <img src="https://avatars0.githubusercontent.com/u/14122146?s=50&v=4" style="width: 50px;"><br>
+          <sub>xibinyue</sub>
+        </a><br>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/Eurus-Holmes">
+          <img src="https://avatars3.githubusercontent.com/u/34226570?s=50&v=4" style="width: 50px;"><br>
+          <sub>Feiyang Chen</sub>
+        </a><br>
+      </th>
+    </tr>
+    <tr>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/ChungZH">
+          <img src="https://avatars1.githubusercontent.com/u/42088872?s=50&v=4" style="width: 50px;"><br>
+          <sub>ChungZH</sub>
+        </a><br>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/daixiang0">
+          <img src="https://avatars3.githubusercontent.com/u/26538619?s=50&v=4" style="width: 50px;"><br>
+          <sub>daixiang0</sub>
+        </a><br>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/nivance">
+          <img src="https://avatars3.githubusercontent.com/u/3291404?s=50&v=4" style="width: 50px;"><br>
+          <sub>nivance</sub>
+        </a><br>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md">
+          <img src="https://avatars1.githubusercontent.com/u/17665302?s=50&v=4" style="width: 50px;"><br>
+          <sub>More</sub>
+        </a><br>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/521xueweihan/HelloGitHub/issues/new">
+          <img src="https://avatars2.githubusercontent.com/u/10628772?s=50&v=4" style="width: 50px;"><br>
+          <sub>Join us</sub>
+        </a><br>
+      </th>
+    </tr>
+  </tbody>
+</table>
 
 ## Cooperative Organization
-Welcome the cooperation :octocat: of open source organizations.[Contact us](Mailto:595666367@qq.com)
+Welcome the cooperation :octocat: of open source organizations [Contact us](Mailto:595666367@qq.com)
 
 <table>
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
         <a href="https://github.com/FGDBTKD">
-          <img src="https://avatars3.githubusercontent.com/u/40509403?s=80&v=4" style="max-width:100%;"><br>
+          <img src="https://avatars3.githubusercontent.com/u/40509403?s=50&v=4" style="width: 50px;"><br>
           <sub>FGDBTKD</sub><br>
           <sub>AI/ML/DL/NLP</sub>
         </a><br>
       </th>
       <th align="center" style="width: 80px;">
         <a href="https://github.com/d2-projects">
-          <img src="https://avatars3.githubusercontent.com/u/40857578?s=80&v=4" style="max-width:100%;"><br>
+          <img src="https://avatars3.githubusercontent.com/u/40857578?s=50&v=4" style="width: 50px;"><br>
           <sub>D2 Projects</sub><br>
           <sub>Vue/JavaScript</sub>
+        </a><br>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/doocs">
+          <img src="https://avatars1.githubusercontent.com/u/43716716?s=50&v=4" style="width: 50px;"><br>
+          <sub>Doocs</sub><br>
+          <sub>Technical Knowledge</sub>
         </a><br>
       </th>
     </tr>
