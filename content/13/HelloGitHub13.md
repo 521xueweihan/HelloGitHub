@@ -197,7 +197,9 @@ Request failed
 
 26、[Awesome-Windows](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Awesome-Windows/Awesome)：一个 Windows 上优质和精选的最佳应用程序及工具列表。[中文版](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 
-27、[SuperTinySocialIcons](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/edent/SuperTinySocialIcons)：1KB以下，超级小型社交图标
+27、[SuperTinyIcons](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/edent/SuperTinyIcons)：体积超级小、制作精致的常见网站和 app 的图标库，每个图标均小于 1KB
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/SuperTinyIcons.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
