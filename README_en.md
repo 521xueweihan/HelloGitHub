@@ -135,4 +135,5 @@ Welcome the cooperation :octocat: of open source organizations [Contact us](Mail
 
 
 ## **Licence**
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="BY-SA 4.0" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">BY-SA 4.0</a> Lisence.
+
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en"><img alt="CC BY-NC-ND 4.0" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>This work is under the <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en">CC BY-NC-ND 4.0</a> Lisence.
