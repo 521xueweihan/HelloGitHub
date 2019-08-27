@@ -74,7 +74,7 @@
 
 10、[Front-end-Web-Development-Interview-Question](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/paddingme/Front-end-Web-Development-Interview-Question)：前端开发面试题大收集
 
-11、[AndroidInterview-Q-A](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md)：这个项目主要是国内一线互联网公司的 Java 和 Android 方面的内部面试题。
+11、[AndroidInterview-Q-A](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JackyAndroid/AndroidInterview-Q-A)：这个项目主要是国内一线互联网公司的 Java 和 Android 方面的内部面试题。
 
 12、[How-to-Be-A-Programmer-CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ahangchen/How-to-Be-A-Programmer-CN)：如何做好一枚程序员（中文翻译版）
 
@@ -98,6 +98,4 @@
 
 
 ## 声明
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
-
-**欢迎转载，请注明出处和作者，同时保留声明。**
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。
