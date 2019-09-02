@@ -76,7 +76,7 @@ printer.print(std::map<std::string, std::set<int>>{{"foo", {1, 2, 3, 3, 2, 1}}, 
 }
 ```
 
-3、[marksencent](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Gltina/marksencent)：这是一个在托福听力中标记句子的工具（即精听工具）。在听力时可文本对照，并且对听力音频中没听懂片段进行标记，并选择标记理由，方便日后的反复复习
+3、[marksentence](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Gltina/marksentence)：这是一个在托福听力中标记句子的工具（即精听工具）。在听力时可文本对照，并且对听力音频中没听懂片段进行标记，并选择标记理由，方便日后的反复复习
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/marksencent.gif' style="max-width:80%; max-height=80%;"></img></p>
 
