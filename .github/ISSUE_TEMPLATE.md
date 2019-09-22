@@ -17,7 +17,7 @@
 - 截图：（可选）gif/png/jpg
 
 
-## 提示
+## 提示（提交时请删除以下内容）
 > 点击上方 “Preview” 更方便地阅读以下内容，
 
 **意见和反馈 BUG 请移步，[反馈意见收集贴](https://github.com/521xueweihan/HelloGitHub/issues/673)。新建 issues 只接受项目推荐，如不是则会被 bot 关闭。**
