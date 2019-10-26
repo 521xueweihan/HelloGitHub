@@ -19,12 +19,13 @@
 - **『每日精选』** 关注我们的[最惨官微](https://weibo.com/hellogithub)获取最新项目推荐。
 - **『讲解开源项目』** 欢迎开源爱好者给我们投稿[查看创作须知](https://www.yuque.com/docs/share/ac165a31-927e-4c9a-8044-5a8e0de372e7)。
 
+
 ## 内容
-每月 28 号发布[最新一期](/content/last.md) | [推荐或自荐项目](https://github.com/521xueweihan/HelloGitHub/issues/new) | [最惨官微](https://weibo.com/hellogithub) | [贡献者列表](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md) | [官网](https://hellogithub.com) 
+每月 28 号发布[最新一期](/content/last.md) | [官网](https://hellogithub.com) 
 
 | :squirrel: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [第 42 期](/content/42/HelloGitHub42.md) | [第 41 期](/content/41/HelloGitHub41.md) |
+| [第 43 期](/content/43/HelloGitHub43.md) | [第 42 期](/content/42/HelloGitHub42.md) | [第 41 期](/content/41/HelloGitHub41.md) |
 | [第 40 期](/content/40/HelloGitHub40.md) | [第 39 期](/content/39/HelloGitHub39.md) | [第 38 期](/content/38/HelloGitHub38.md) | [第 37 期](/content/37/HelloGitHub37.md) | [第 36 期](/content/36/HelloGitHub36.md) |
 | [第 35 期](/content/35/HelloGitHub35.md) | [第 34 期](/content/34/HelloGitHub34.md) | [第 33 期](/content/33/HelloGitHub33.md) | [第 32 期](/content/32/HelloGitHub32.md) | [第 31 期](/content/31/HelloGitHub31.md) |
 | [第 30 期](/content/30/HelloGitHub30.md) | [第 29 期](/content/29/HelloGitHub29.md) | [第 28 期](/content/28/HelloGitHub28.md) | [第 27 期](/content/27/HelloGitHub27.md) | [第 26 期](/content/26/HelloGitHub26.md) |
@@ -33,6 +34,8 @@
 | [第 15 期](/content/15/HelloGitHub15.md) | [第 14 期](/content/14/HelloGitHub14.md) | [第 13 期](/content/13/HelloGitHub13.md) | [第 12 期](/content/12/HelloGitHub12.md) | [第 11 期](/content/11/HelloGitHub11.md) |
 | [第 10 期](/content/10/HelloGitHub10.md) | [第 09 期](/content/09/HelloGitHub09.md) | [第 08 期](/content/08/HelloGitHub08.md) | [第 07 期](/content/07/HelloGitHub07.md) | [第 06 期](/content/06/HelloGitHub06.md) |
 | [第 05 期](/content/05/HelloGitHub05.md) | [第 04 期](/content/04/HelloGitHub04.md) | [第 03 期](/content/03/HelloGitHub03.md) | [第 02 期](/content/02/HelloGitHub02.md) | [第 01 期](/content/01/HelloGitHub01.md) |
+
+欢迎[推荐或自荐项目](https://github.com/521xueweihan/HelloGitHub/issues/new)成为 **HelloGitHub** 的[贡献者](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md) 
 
 ## 贡献者
 <table>
@@ -89,15 +92,15 @@
         </a><br>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md">
-          <img src="https://avatars1.githubusercontent.com/u/17665302?s=50&v=4" style="width: 50px;"><br>
-          <sub>更多贡献者</sub>
+        <a href="https://github.com/hellowHuaairen">
+          <img src="https://avatars2.githubusercontent.com/u/19610305?s=50&v=4" style="width: 50px;"><br>
+          <sub>hellowHuaairen</sub>
         </a><br>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://github.com/521xueweihan/HelloGitHub/issues/new">
-          <img src="https://avatars2.githubusercontent.com/u/10628772?s=50&v=4" style="width: 50px;"><br>
-          <sub>虚位以待</sub>
+        <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md">
+          <img src="https://avatars1.githubusercontent.com/u/17665302?s=50&v=4" style="width: 50px;"><br>
+          <sub>更多贡献者</sub>
         </a><br>
       </th>
     </tr>

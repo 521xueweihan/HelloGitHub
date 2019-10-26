@@ -20,8 +20,6 @@
 ## 提示（提交时请删除以下内容）
 > 点击上方 “Preview” 更方便地阅读以下内容，
 
-**意见和反馈 BUG 请移步，[反馈意见收集贴](https://github.com/521xueweihan/HelloGitHub/issues/673)。新建 issues 只接受项目推荐，如不是则会被 bot 关闭。**
-
 提高项目收录的概率方法如下：
 1. 到 HelloGitHub 网站首页：https://hellogithub.com 搜索要推荐的项目地址，查看准备推荐的项目是否被推荐过。
 
