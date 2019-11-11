@@ -66,7 +66,7 @@
 ### Java 项目
 6、[GankMM](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/maning0303/GankMM)：干货集中营 Android 客户端。每天一张美女图片，一个视频短片，若干Android，iOS等程序干货，周一到周五每天更新，数据全部由 [干货集中营](http://gank.io/) 提供。项目简单完整，涉及内容全面，利于学习 Android 开发的技巧
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/17/img/GankMM.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/17/img/GankMM.png' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[MVPArms](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JessYanCoding/MVPArms)：整合了大量主流开源项目的 Android Mvp 快速搭建框架。包含 Dagger2、Retrofit、Rxjava 等 Rx 系三方库，并且提供 UI 自适应方案，本框架将它们结合起来。文档详尽、成熟稳定的 Android MVP 解决方案
 

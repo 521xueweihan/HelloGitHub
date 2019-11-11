@@ -63,14 +63,9 @@ Transfer/sec:    606.33MB
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-4、[WechatLuckyMoney](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/veryyoung/WechatLuckyMoney)：微信抢红包插件，基于 Xposed 框架，速度快得冷人发指。为避免过度拉仇恨，请谨慎使用（哈哈哈😄）。
+4、[GitClub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TellH/GitClub)：GitClub 不仅仅是一个 GitHub 客户端，还是一个发现优秀 GitHub 开源项目的 App
 
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/11/img/wechatluckymoney.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-5、[GitClub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TellH/GitClub)：GitClub 不仅仅是一个 GitHub 客户端，还是一个发现优秀 GitHub 开源项目的 App
-
-6、[tale](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/otale/tale)：简洁、漂亮、轻量级、Java 博客，[在线预览](https://tale.biezhi.me/)。特性：
+5、[tale](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/otale/tale)：简洁、漂亮、轻量级、Java 博客，[在线预览](https://tale.biezhi.me/)。特性：
 - 设计简洁，界面美观
 - Markdown 文章发布
 - 自定义文章链接
@@ -83,7 +78,7 @@ Transfer/sec:    606.33MB
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/11/img/tale-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[jvm-mon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ajermakovics/jvm-mon)：命令行模式的 JVM 监控
+6、[jvm-mon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ajermakovics/jvm-mon)：命令行模式的 JVM 监控
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/11/img/jvm-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -91,7 +86,7 @@ Transfer/sec:    606.33MB
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-8、[react-tetris](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chvin/react-tetris)：逼真的俄罗斯方块（非常逼真、强大！），详细的技术介绍，[在线试玩](https://chvin.github.io/react-tetris/?lan=zh)
+7、[react-tetris](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chvin/react-tetris)：逼真的俄罗斯方块（非常逼真、强大！），详细的技术介绍，[在线试玩](https://chvin.github.io/react-tetris/?lan=zh)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/11/img/tetris.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -99,23 +94,23 @@ Transfer/sec:    606.33MB
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-9、[sh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/amoffat/sh)：sh 是一个成熟，用于替代 subprocess，它允许你调用任何程序，就像它是一个函数，支持 Python2.6 - 3.5
+8、[sh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/amoffat/sh)：sh 是一个成熟，用于替代 subprocess，它允许你调用任何程序，就像它是一个函数，支持 Python2.6 - 3.5
 
 ```python
 from sh import ifconfig
 print ifconfig("eth0")
 ```
 
-10、[fastText.py](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/salestock/fastText.py)：fastText 简而言之，就是把文档中所有词通过 lookup table 变成向量，取平均后直接用线性分类器得到分类结果。[fastText 的实现](https://www.zybuluo.com/Wayne-Z/note/460881)
+9、[fastText.py](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/salestock/fastText.py)：fastText 简而言之，就是把文档中所有词通过 lookup table 变成向量，取平均后直接用线性分类器得到分类结果。[fastText 的实现](https://www.zybuluo.com/Wayne-Z/note/460881)
 
-11、[mongoaudit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/stampery/mongoaudit)：强大的 MongoDB 渗透测试工具，用于发掘 MongoDB 漏洞、并提出改善方法。
+10、[mongoaudit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/stampery/mongoaudit)：强大的 MongoDB 渗透测试工具，用于发掘 MongoDB 漏洞、并提出改善方法。
 - 安装：`pip install mongoaudit`
 - 运行：`python mongoaudit`
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
-12、[Swift30Projects](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/soapyigu/Swift30Projects)：30 个小型 Swift Apps，可以用来上手学习、练习移动开发。
+11、[Swift30Projects](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/soapyigu/Swift30Projects)：30 个小型 Swift Apps，可以用来上手学习、练习移动开发。
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/11/img/swift30projects-show-min.jpg' style="max-width:80%; max-height=80%;"></img></p>
@@ -123,32 +118,32 @@ print ifconfig("eth0")
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-13、[linux-command](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jaywcjlove/linux-command)：Linux 命令大全搜索工具，内容包含 Linux 命令手册、详解、学习、搜集
+12、[linux-command](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jaywcjlove/linux-command)：Linux 命令大全搜索工具，内容包含 Linux 命令手册、详解、学习、搜集
 
-14、[chinese-programmer-wrong-pronunciation](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shimohq/chinese-programmer-wrong-pronunciation)：中国程序员容易发音错误的单词
+13、[chinese-programmer-wrong-pronunciation](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shimohq/chinese-programmer-wrong-pronunciation)：中国程序员容易发音错误的单词
 
-15、[go-lang-cheat-sheet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/a8m/go-lang-cheat-sheet)：（英文）Go 语法特性集合
+14、[go-lang-cheat-sheet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/a8m/go-lang-cheat-sheet)：（英文）Go 语法特性集合
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-16、[book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/qyuhen/book)：雨痕大神写的学习笔记
+15、[book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/qyuhen/book)：雨痕大神写的学习笔记
 
-17、[nginx-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/taobao/nginx-book)：Nginx 开发从入门到精通——本书的作者为淘宝核心系统服务器平台组的成员
+16、[nginx-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/taobao/nginx-book)：Nginx 开发从入门到精通——本书的作者为淘宝核心系统服务器平台组的成员
 
-18、[real-world-haskell-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangz1990/real-world-haskell-cn)：《Real World Haskell》中文翻译项目
+17、[real-world-haskell-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangz1990/real-world-haskell-cn)：《Real World Haskell》中文翻译项目
 
-19、[open-shell-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tinyclub/open-shell-book)：《Shell 编程范例》，面向操作对象学 Shell！
+18、[open-shell-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tinyclub/open-shell-book)：《Shell 编程范例》，面向操作对象学 Shell！
 
-20、[python-data-structure-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facert/python-data-structure-cn)：《Problem Solving with Algorithms and Data Structures using Python》中文版
+19、[python-data-structure-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facert/python-data-structure-cn)：《Problem Solving with Algorithms and Data Structures using Python》中文版
 
-21、[docker_practice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yeasy/docker_practice)：Dokcer 从入门到实践
+20、[docker_practice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yeasy/docker_practice)：Dokcer 从入门到实践
 
-22、[explore-flask](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spacewander/explore-flask-zh)：[《explore flask》中文翻译](https://spacewander.github.io/explore-flask-zh/index.html)
+21、[explore-flask](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spacewander/explore-flask-zh)：[《explore flask》中文翻译](https://spacewander.github.io/explore-flask-zh/index.html)
 
-23、[react-cookbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shimohq/react-cookbook)：编写简洁漂亮，可维护的 React 应用
+22、[react-cookbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shimohq/react-cookbook)：编写简洁漂亮，可维护的 React 应用
 
-24、[rust-book-chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/KaiserY/rust-book-chinese)：Rust 程序设计语言 中文版
+23、[rust-book-chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/KaiserY/rust-book-chinese)：Rust 程序设计语言 中文版
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

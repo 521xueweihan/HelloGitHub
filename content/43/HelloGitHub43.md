@@ -143,10 +143,10 @@ ok  	github.com/allegro/bigcache/v2/caches_bench	256.257s
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/img/pacgo.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[go-admin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/GoAdminGroup/go-admin)：基于 Golang 语言的数据可视化与管理平台。特性如下：
-- 🚀高生产效率: 10分钟内做一个好看的管理后台
-- 🎨主题: 默认为adminlte，更多好看的主题正在制作中，欢迎给我们留言
-- 🔢插件化: 提供插件使用，真正实现一个插件解决不了问题，那就两个
-- ✅认证: 开箱即用的rbac认证系统
+- 🚀高生产效率：10 分钟内做一个好看的管理后台
+- 🎨主题：默认为 adminlte，更多好看的主题正在制作中，欢迎给我们留言
+- 🔢插件化：提供插件使用，真正实现一个插件解决不了问题，那就两个
+- ✅认证：开箱即用的 rbac 认证系统
 - ⚙️框架支持：支持大部分框架接入，让你更容易去上手和扩展
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/img/go-admin.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -231,7 +231,7 @@ request('https://hellogithub.com', function (error, response, body) {
 import ReactDOM from 'react-dom';
 import BarChart from 'chart-race-react';
 
-ReactDOM.render(<BarChart ></BarChart>, document.getElementById('root'));
+ReactDOM.render(<BarChart />, document.getElementById('root'));
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/img/chart-race-react.gif' style="max-width:80%; max-height=80%;"></img></p>

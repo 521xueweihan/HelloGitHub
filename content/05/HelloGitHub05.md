@@ -83,7 +83,7 @@ $pinyin->convert('带着希望去旅行，比到达终点更美好', PINYIN_ASCI
 6、[superset](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/incubator-superset)：企业级的数据探索、展示平台。功能很强大，可以用来做数据分析、展示。如下图：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/05/img/superset-min.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/05/img/superset-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[flaskbb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sh4nks/flaskbb)：基于 Flask 框架做的论坛，功能有限，轻量级的论坛应用[在线文档](https://flaskbb.readthedocs.io/en/latest/index.html)，可以在这个项目上进行二次开发，实现更加复杂的功能。[在线预览](https://forums.flaskbb.org)
 

@@ -22,7 +22,6 @@
 - [Java 项目](#Java-项目)
 - [JavaScript 项目](#JavaScript-项目)
 - [Kotlin 项目](#Kotlin-项目)
-- [Objective-C 项目](#Objective-C-项目)
 - [PHP 项目](#PHP-项目)
 - [Python 项目](#Python-项目)
 - [其它](#其它)
@@ -51,7 +50,19 @@
 
 3、[p3c](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/p3c)：阿里云栖大会发布的 Java 代码规约扫描插件，支持多种 IDE。代码规范对于编程来说是非常重要的，随着代码量的增多会更加意识到其重要性。赶快拿去使用吧，[阿里巴巴 Java 开发手册](https://github.com/alibaba/p3c/blob/master/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E7%BB%88%E6%9E%81%E7%89%88%EF%BC%89.pdf)
 
-4、[HanLP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hankcs/HanLP)：汉语处理包，目标是普及自然语言处理在生产环境中的应用。特点：功能完善、性能高效、架构清晰、语料时新、可自定义
+4、[HanLP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hankcs/HanLP)：一系列模型与算法组成的 NLP 工具包，目标是普及自然语言处理在生产环境中的应用。具备功能完善、性能高效、架构清晰、语料时新、可自定义的特点，功能包括：中文分词、词性标注、命名实体识别、关键词提取等。示例代码：
+```java
+String[] testCase = new String[]{
+    "北川景子参演了林诣彬导演的《速度与激情3》",
+    "林志玲亮相网友:确定不是波多野结衣？",
+};
+Segment segment = HanLP.newSegment().enableJapaneseNameRecognize(true);
+for (String sentence : testCase)
+{
+    List termList = segment.seg(sentence);
+    System.out.println(termList);
+}
+```
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -104,15 +115,8 @@ $('#btnDemo').selectMenu({
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
-### Objective-C 项目
-12、[BulletAnalyzer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/syik/BulletAnalyzer)：斗鱼弹幕分析工具，功能包含：语义近似度合并、CG/CA 图表数据绘制、Socket 链接数
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/BulletAnalyzer-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### PHP 项目
-13、[Biny](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/Biny)：腾讯开源的一款高性能的超轻量级PHP框架，用于快速开发现代 Web 应用程序。代码简洁优雅，对应用层，数据层，模板渲染层的封装简单易懂，能够快速上手使用，[文档](http://www.billge.cc/)齐全。高性能，框架响应时间在 1ms 以内，单机 qps 轻松上3000。
+12、[Biny](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/Biny)：腾讯开源的一款高性能的超轻量级PHP框架，用于快速开发现代 Web 应用程序。代码简洁优雅，对应用层，数据层，模板渲染层的封装简单易懂，能够快速上手使用，[文档](http://www.billge.cc/)齐全。高性能，框架响应时间在 1ms 以内，单机 qps 轻松上3000。
 - 支持跨库连表，条件复合筛选，查询PK缓存等
 - 同步异步请求分离，类的自动化加载管理
 - 支持Form表单验证，支持事件触发机制
@@ -122,16 +126,16 @@ $('#btnDemo').selectMenu({
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-14、[binlog2sql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/danfengcao/binlog2sql)：从 MySQL binlog 解析出你要的 SQL。根据不同选项，提供如下功能
+13、[binlog2sql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/danfengcao/binlog2sql)：从 MySQL binlog 解析出你要的 SQL。根据不同选项，提供如下功能
 - 数据快速回滚，[闪回原理与实践](https://github.com/danfengcao/binlog2sql/blob/master/example/mysql-flashback-priciple-and-practice.md)
 - 主从切换后新 master 丢数据的修复
 - 从 binlog 生成标准SQL，带来的衍生功能
 
-15、[pandas-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hangsz/pandas-tutorial)：这套 pandas 教程包含从初级到进阶的内容，适合初学者和希望进阶建立知识体系的数据科学从业者阅读。作者还在持续更新高级内容，你值得拥有
+14、[pandas-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hangsz/pandas-tutorial)：这套 pandas 教程包含从初级到进阶的内容，适合初学者和希望进阶建立知识体系的数据科学从业者阅读。作者还在持续更新高级内容，你值得拥有
 
-16、[pysheeet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/crazyguitar/pysheeet)：Python 速查表，[在线阅读](https://www.pythonsheets.com/)
+15、[pysheeet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/crazyguitar/pysheeet)：Python 速查表，[在线阅读](https://www.pythonsheets.com/)
 
-17、[robobrowser](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jmcarp/robobrowser)：提供多种模拟操作网页的库，比如获得网页内容、访问链接、点击按钮、填充并提交表单、上传文件。使用简单、API 友好。适用于想要通过脚本流程化操作，某些未提供这些操作接口的场景，示例代码如下：
+16、[robobrowser](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jmcarp/robobrowser)：提供多种模拟操作网页的库，比如获得网页内容、访问链接、点击按钮、填充并提交表单、上传文件。使用简单、API 友好。适用于想要通过脚本流程化操作，某些未提供这些操作接口的场景，示例代码如下：
 ```python
 # 上传文件
 from robobrowser import RoboBrowser
@@ -152,7 +156,7 @@ upload_form['upfile'].value = open('path/to/file.txt', 'r')
 browser.submit(upload_form)
 ```
 
-18、[ItChat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/littlecodersh/ItChat)：开源的微信个人号SDK，提供了丰富的功能。从而使得 Python 调用微信、发送消息、传输文件等操作只需要编写极少的代码，示例代码如下：
+17、[ItChat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/littlecodersh/ItChat)：开源的微信个人号SDK，提供了丰富的功能。从而使得 Python 调用微信、发送消息、传输文件等操作只需要编写极少的代码，示例代码如下：
 ```python
 import itchat
 
@@ -164,24 +168,24 @@ itchat.send('Hello, filehelper', toUserName='filehelper')
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-19、[Amazing-Windows-Apps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AmazingApps/Amazing-Windows-Apps)：该项目收录了众多 Windows 绝妙的项目、工具。这些软件都是经过测试，安全、免费、好用，[在线阅读](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/content/zh-CN/)
+18、[Amazing-Windows-Apps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AmazingApps/Amazing-Windows-Apps)：该项目收录了众多 Windows 绝妙的项目、工具。这些软件都是经过测试，安全、免费、好用，[在线阅读](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/content/zh-CN/)
 
-20、[remote-working](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/greatghoul/remote-working)：收集整理国内远程工作相关的项目
+19、[remote-working](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/greatghoul/remote-working)：收集整理国内远程工作相关的项目
 
-21、[ios-dev-flow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/leecade/ios-dev-flow)：iOS 开发流程，记录了 iOS 程序上架需要的方方面面
+20、[ios-dev-flow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/leecade/ios-dev-flow)：iOS 开发流程，记录了 iOS 程序上架需要的方方面面
 
-22、[Awesome_APIs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TonnyL/Awesome_APIs)：第三方 API 集合，包含：国内、国外、官方、非官方
+21、[Awesome_APIs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TonnyL/Awesome_APIs)：第三方 API 集合，包含：国内、国外、官方、非官方
 
-23、[chinese-poetry](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chinese-poetry/chinese-poetry)：中华古典文集数据集，包含 5.5 万首唐诗、26 万首宋诗和 2.1 万首宋词。唐宋两朝近 1.4 万古诗人和两宋时期1500 词人。以 json 文件、数据库方式存储，[爬取过程及分析](https://jackeygao.io/words/crawl-ci.html)
+22、[chinese-poetry](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chinese-poetry/chinese-poetry)：中华古典文集数据集，包含 5.5 万首唐诗、26 万首宋诗和 2.1 万首宋词。唐宋两朝近 1.4 万古诗人和两宋时期1500 词人。以 json 文件、数据库方式存储，[爬取过程及分析](https://jackeygao.io/words/crawl-ci.html)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-24、[kubernetes-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rootsongjc/kubernetes-handbook)：Kubernetes 中文指南／实践手册，[在线阅读](https://jimmysong.io/kubernetes-handbook/)
+23、[kubernetes-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rootsongjc/kubernetes-handbook)：Kubernetes 中文指南／实践手册，[在线阅读](https://jimmysong.io/kubernetes-handbook/)
 
-25、[op_practice_book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BillWang139967/op_practice_book)：《运维实践指南》
+24、[op_practice_book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BillWang139967/op_practice_book)：《运维实践指南》
 
-26、[microservices](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DocsHome/microservices)：《微服务：从设计到部署》中文版，[在线阅读](http://oopsguy.com/books/microservices/index.html)
+25、[microservices](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DocsHome/microservices)：《微服务：从设计到部署》中文版，[在线阅读](http://oopsguy.com/books/microservices/index.html)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

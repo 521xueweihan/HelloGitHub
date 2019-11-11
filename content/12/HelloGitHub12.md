@@ -167,7 +167,7 @@ Hello Google!
 ### 开源书籍
 17、[explore-python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ethan-funny/explore-python)：《Python 之旅》，该书总结了 Python 相关的知识点，力求深入浅出、条理清晰
 
-18、[The-Art-Of-Programming-By-July](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md)：《编程之法：面试和算法心得》
+18、[The-Art-Of-Programming-By-July](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/julycoding/The-Art-Of-Programming-By-July)：《编程之法：面试和算法心得》
 
 19、[react-naive-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huzidaha/react-naive-book)：开源、免费、专业、简单的 React.js 教程
 

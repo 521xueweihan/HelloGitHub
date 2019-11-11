@@ -143,17 +143,15 @@ ngrok http 8000
 
 18、[Learn-Algorithms](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nonstriater/Learn-Algorithms)：算法数据结构学习，C 语言实现
 
-19、[FromXToGo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/golang/go/wiki/FromXToGo)：（英文）如果你正从某个语言（PHP, Python, Ruby 等）想要换到 Golang 却又害怕吗？
-
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-20、[the-way-to-go_ZH_CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Unknwon/the-way-to-go_ZH_CN)：《The Way to Go》中文译本，中文正式名《Go 入门指南》
+19、[the-way-to-go_ZH_CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Unknwon/the-way-to-go_ZH_CN)：《The Way to Go》中文译本，中文正式名《Go 入门指南》
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-21、[machine-learning-for-software-engineers](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ZuzooVn/machine-learning-for-software-engineers)：自上而下的学习路线，软件工程师的机器学习，[中文版](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)
+20、[machine-learning-for-software-engineers](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ZuzooVn/machine-learning-for-software-engineers)：自上而下的学习路线，软件工程师的机器学习，[中文版](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

@@ -166,7 +166,7 @@ XUpdate.newBuild(getActivity())
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/star-battle.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-13、[markdown-nice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhning12/markdown-nice)：能够自定义样式的 Markdown 编辑器。支持内容和自定义样式浏览器中实时保存、上传图片、脚注、公式等，输出的内容可一件复制到微信公众号、知乎、掘金、博客园和 CSDN 等一系列平台。极大的减轻了微信公众号文章的排版和编辑工作
+13、[markdown-nice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mdnice/markdown-nice)：能够自定义样式的 Markdown 编辑器。支持内容和自定义样式浏览器中实时保存、上传图片、脚注、公式等，输出的内容可一件复制到微信公众号、知乎、掘金、博客园和 CSDN 等一系列平台。极大的减轻了微信公众号文章的排版和编辑工作
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/markdown-nice.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -284,7 +284,7 @@ array([[4.43336608e-03, 9.95215198e-01, 3.51419231e-04, 1.68657851e-08]])
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/41/HelloGitHub41.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/41/HelloGitHub41.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/43/HelloGitHub43.md">『下一期』</a>
 </p>
 
 ---

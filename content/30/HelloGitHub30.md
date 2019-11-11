@@ -164,7 +164,7 @@ print(s)
 
 19、[DDFE-blog](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DDFE/DDFE-blog)：滴滴前端技术分享
 
-20、[Algorithm_Interview_Notes-Chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)：算法、深度学习、NLP 面试笔记
+20、[Algorithm_Interview_Notes-Chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/imhuay/Algorithm_for_Interview-Chinese)：算法、深度学习、NLP 面试笔记
 
 21、[chinese-xinhua](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pwxcoo/chinese-xinhua)：中华新华字典数据库。包括歇后语，成语，词语，汉字
 
