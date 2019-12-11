@@ -27,13 +27,15 @@
 - [其它](#其它)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C# 项目
 1、[Cowboy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gaochundong/Cowboy)：一个基于 .NET/C# 实现的开源 WebSocket 网络库。[详细介绍](http://www.cnblogs.com/gaochundong/p/cowboy_websockets.html)
@@ -80,7 +82,7 @@ java -jar moco-runner-<version>-standalone.jar http -p 12306 -c foo.json
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/06/img/vue-sui-demo-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[nodePPT](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ksky521/nodePPT)：这可能是迄今为止最好的网页版演示库，[在线演示](http://qdemo.sinaapp.com/)
+6、[nodeppt](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ksky521/nodeppt)：这可能是迄今为止最好的网页版演示库，[在线演示](http://qdemo.sinaapp.com/)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -145,19 +147,19 @@ brew install mercurial
 安装Go时没有进度条
 ```
 
-14、[LearningNotes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/GeniusVJR/LearningNotes)：很全面的学习笔记，偏向 Android 和 Java
+14、[LearningNotes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/francistao/LearningNotes)：很全面的学习笔记，偏向 Android 和 Java
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/05/HelloGitHub05.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/07/HelloGitHub07.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/05/HelloGitHub05.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/07/HelloGitHub07.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

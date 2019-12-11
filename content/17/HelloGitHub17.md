@@ -30,18 +30,20 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C# 项目
-1、[ASTool](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/asheigithub/ASTool)：NET2.0 实现的 AS3（第三代 Flash 脚本）解释器，可用于嵌入 unity 做热更。一个完整的脚本语言解释执行系统，从语法树分析开始一直到实际执行
+1、[apple-juice-actionscript](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/asheigithub/apple-juice-actionscript)：NET2.0 实现的 AS3（第三代 Flash 脚本）解释器，可用于嵌入 unity 做热更。一个完整的脚本语言解释执行系统，从语法树分析开始一直到实际执行
 
-2、[MaterialDesignInXamlToolkit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ButchersBoy/MaterialDesignInXamlToolkit)：谷歌 Material Design 设计风格控件库
+2、[MaterialDesignInXamlToolkit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)：谷歌 Material Design 设计风格控件库
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/17/img/MaterialDesignInXamlToolkit-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -118,7 +120,7 @@
 
 16、[simiki](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tankywoo/simiki)：一个简单的个人 Wiki 框架，便于快速搭建 Wiki 页。使用 Markdown 书写 Wiki, 生成静态 HTML 页面。Wiki 源文件按目录分类存放, 方便管理维护。[中文文档](http://simiki.org/zh-docs/)
 
-17、[pyecharts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chenjiandongx/pyecharts)：Echarts+Python 实现的一个用于生成 Echarts 图表的类库
+17、[pyecharts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pyecharts/pyecharts)：Echarts+Python 实现的一个用于生成 Echarts 图表的类库
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/17/img/pyecharts.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -126,7 +128,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/17/img/proxy_pool-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-19、[WeiboSpider](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ResolveWang/WeiboSpider)：分布式微博爬虫，支持快速抓取和稳定抓取两种运行模式。项目模块逻辑清晰、注释丰富、便于定制化自己的需求。同时，对于小白用户，可以通过演示视频快速入门，也提供QQ群答疑，已经持续维护一年多。靠谱的项目，小伙伴们要赶快上车～
+19、[weibospider](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SpiderClub/weibospider)：分布式微博爬虫，支持快速抓取和稳定抓取两种运行模式。项目模块逻辑清晰、注释丰富、便于定制化自己的需求。同时，对于小白用户，可以通过演示视频快速入门，也提供QQ群答疑，已经持续维护一年多。靠谱的项目，小伙伴们要赶快上车～
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/17/img/WeiboSpider-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -137,7 +139,7 @@
 
 21、[sec-chart](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SecWiki/sec-chart)：安全思维导图集合
 
-22、[learn-regex](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zeeshanu/learn-regex)：易学的正则表达式教程，[中文](https://github.com/zeeshanu/learn-regex/blob/master/README-cn.md)
+22、[learn-regex](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ziishaned/learn-regex)：易学的正则表达式教程，[中文](https://github.com/zeeshanu/learn-regex/blob/master/README-cn.md)
 
 23、[games](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/leereilly/games)：GitHub 上游戏项目的合集
 
@@ -162,12 +164,12 @@
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/16/HelloGitHub16.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/18/HelloGitHub18.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/16/HelloGitHub16.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/18/HelloGitHub18.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

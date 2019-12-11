@@ -31,13 +31,15 @@
 - [开源书籍](#开源书籍)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C 项目
 1、[libaco](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hnes/libaco)：一个极速、轻量级、C语言非对称协程库。[中文文档](https://github.com/hnes/libaco/blob/master/README_zh.md)，项目介绍：
@@ -51,7 +53,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
-3、[BurstLinker](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Bilibili/BurstLinker)：主要为 Android 开发的一个 C++ GIF 编码器。支持多种常见的颜色量化算法、颜色抖动算法
+3、[BurstLinker](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bilibili/BurstLinker)：主要为 Android 开发的一个 C++ GIF 编码器。支持多种常见的颜色量化算法、颜色抖动算法
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -60,7 +62,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/29/img/lazygit.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-5、[rclone](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ncw/rclone)：Golang 版的 rsync，与 rsync 不同的是 rclone 可以将文件同步到各种云服务的存储桶或 CDN 服务上
+5、[rclone](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rclone/rclone)：Golang 版的 rsync，与 rsync 不同的是 rclone 可以将文件同步到各种云服务的存储桶或 CDN 服务上
 ```
 # 安装
 $ curl https://rclone.org/install.sh | sudo bash
@@ -181,7 +183,7 @@ ReactDOM.render(
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/29/img/hue.png' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[FeelUOwn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cosven/FeelUOwn)：一个符合 Unix 哲学的跨平台的音乐播放器，主要面向 Linux/macOS 用户。特性：
+18、[FeelUOwn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/feeluown/FeelUOwn)：一个符合 Unix 哲学的跨平台的音乐播放器，主要面向 Linux/macOS 用户。特性：
 - 安装简单，新手友好
 - 默认提供国内各音乐平台插件（网易云、虾米、QQ）
 - 较强的可扩展性可以满足大家折腾的欲望
@@ -242,12 +244,12 @@ ReactDOM.render(
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/28/HelloGitHub28.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/30/HelloGitHub30.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/28/HelloGitHub28.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/30/HelloGitHub30.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

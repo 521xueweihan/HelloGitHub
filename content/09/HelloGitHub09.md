@@ -30,13 +30,15 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C++ 项目
 1、[json](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nlohmann/json)：C++ 的 JSON 库
@@ -135,35 +137,33 @@ ngrok http 8000
 ### 其它
 14、[freecodecamp.cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FreeCodeCampChina/freecodecamp.cn)：freecodecamp 是一个自由的开源编程社区，[freecodecamp 中文社区](https://freecodecamp.cn)
 
-15、[Web-Frontend-Introduction-And-Best-Practicesa](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wxyyxc1992/Web-Frontend-Introduction-And-Engineering-Practices)：Web 前端开发入门与实践练习
+15、[best-chinese-front-end-blogs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FrankFang/best-chinese-front-end-blogs)：该项目是收集优质的中文前端博客
 
-16、[best-chinese-front-end-blogs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FrankFang/best-chinese-front-end-blogs)：该项目是收集优质的中文前端博客
+16、[golang-open-source-projects](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hackstoic/golang-open-source-projects)：中文版 awesome-go
 
-17、[golang-open-source-projects](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hackstoic/golang-open-source-projects)：中文版 awesome-go
-
-18、[Learn-Algorithms](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nonstriater/Learn-Algorithms)：算法数据结构学习，C 语言实现
+17、[Learn-Algorithms](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nonstriater/Learn-Algorithms)：算法数据结构学习，C 语言实现
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-19、[the-way-to-go_ZH_CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Unknwon/the-way-to-go_ZH_CN)：《The Way to Go》中文译本，中文正式名《Go 入门指南》
+18、[the-way-to-go_ZH_CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/unknwon/the-way-to-go_ZH_CN)：《The Way to Go》中文译本，中文正式名《Go 入门指南》
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-20、[machine-learning-for-software-engineers](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ZuzooVn/machine-learning-for-software-engineers)：自上而下的学习路线，软件工程师的机器学习，[中文版](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)
+19、[machine-learning-for-software-engineers](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ZuzooVn/machine-learning-for-software-engineers)：自上而下的学习路线，软件工程师的机器学习，[中文版](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/08/HelloGitHub08.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/10/HelloGitHub10.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/08/HelloGitHub08.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/10/HelloGitHub10.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

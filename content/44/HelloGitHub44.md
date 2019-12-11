@@ -31,13 +31,15 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C 项目
 1、[scrcpy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Genymobile/scrcpy)：一款可以用电脑显示并控制 Android 手机的开源工具。连接方便使用方便，手机无需 root、无需安装任何应用。支持 USB、Wi-Fi 两种方式连接，支持 Windows、macOS、Linux 三种操作系统。注意电脑端需要安装 adb 工具
@@ -128,7 +130,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import QierPlayer from 'qier-player';
 
-ReactDOM.render(<QierPlayer srcOrigin="你的视频地址"></QierPlayer>, document.getElementById('root'));
+ReactDOM.render(<QierPlayer srcOrigin="你的视频地址"/>, document.getElementById('root'));
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/qier-player.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -159,7 +161,7 @@ ReactDOM.render(<QierPlayer srcOrigin="你的视频地址"></QierPlayer>, docume
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-19、[pyflame](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/uber/pyflame)：Uber 开源的 Python 性能分析工具。可以在不修改代码的情况下分析 Python 程序的性能，同时生成火焰图
+19、[pyflame](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/uber-archive/pyflame)：Uber 开源的 Python 性能分析工具。可以在不修改代码的情况下分析 Python 程序的性能，同时生成火焰图
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/pyflame.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -242,12 +244,12 @@ do {
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/43/HelloGitHub43.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/43/HelloGitHub43.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

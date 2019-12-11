@@ -30,13 +30,15 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C 项目
 1、[reading-code-of-nginx-1.9.2](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/y123456yz/reading-code-of-nginx-1.9.2)：nginx-1.9.2 源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释
@@ -120,7 +122,7 @@ class Listener implements DataListener<String> {
 - 使用 Vue.js 命令行工具 vue-cli 快速初始化项目
 - H5 代码转换编译成小程序目标代码的能力
 
-9、[30-seconds-of-code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Chalarangelo/30-seconds-of-code)：精选可以在 30秒 或更短的时间内理解的实用 JavaScript 代码片段集合
+9、[30-seconds-of-code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/30-seconds/30-seconds-of-code)：精选可以在 30秒 或更短的时间内理解的实用 JavaScript 代码片段集合
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/30-seconds-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -138,12 +140,12 @@ class Listener implements DataListener<String> {
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
-12、[DzzOffice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zyx0814/dzzoffice)：一套开源办公套件，适用于企业、团队搭建自己的 类似 Google 企业应用套件、微软 Office365 的企业协同办公平台。[在线演示](http://demo.dzzoffice.com/)
+12、[dzzoffice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zyx0814/dzzoffice)：一套开源办公套件，适用于企业、团队搭建自己的 类似 Google 企业应用套件、微软 Office365 的企业协同办公平台。[在线演示](http://demo.dzzoffice.com/)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-13、[HAipproxy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SpiderClub/haipproxy)：使用 Scrapy＋Redis 实现的高可用分布式 IP 代理池，为大型分布式爬虫提供高可用低延迟的代理 IP 资源。
+13、[haipproxy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SpiderClub/haipproxy)：使用 Scrapy＋Redis 实现的高可用分布式 IP 代理池，为大型分布式爬虫提供高可用低延迟的代理 IP 资源。
 ```python
 from client.py_cli import ProxyFetcher
 args = dict(host='127.0.0.1', port=6379, password='123456', db=0)
@@ -164,7 +166,7 @@ print(fetcher.get_proxies()) # or print(fetcher.pool)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/MovieHeavens.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-15、[WechatSogou](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Chyroc/WechatSogou)：基于搜狗微信搜索的微信公众号爬虫库，极易上手。示例代码：
+15、[WechatSogou](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chyroc/WechatSogou)：基于搜狗微信搜索的微信公众号爬虫库，极易上手。示例代码：
 ```python
 import wechatsogou
 
@@ -175,14 +177,14 @@ ws_api.get_gzh_info('微信名称')
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
-16、[iina](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lhc70000/iina)：Mac 下开源多媒体播放器，支持多国语言、高逼格 UI。安装：`brew cask install iina`
+16、[iina](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iina/iina)：Mac 下开源多媒体播放器，支持多国语言、高逼格 UI。安装：`brew cask install iina`
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/iina-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-17、[Interview-Notebook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CyC2018/Interview-Notebook)：该项目整理了技术面试中需要掌握的基础知识，包含了网络、操作系统、算法、数据库、Java、分布式等
+17、[CS-Notes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CyC2018/CS-Notes)：该项目整理了技术面试中需要掌握的基础知识，包含了网络、操作系统、算法、数据库、Java、分布式等
 
 18、[blog](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ProtoTeam/blog)：蚂蚁数据体验技术团队的博客
 
@@ -193,7 +195,7 @@ ws_api.get_gzh_info('微信名称')
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-21、[MachineLearning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apachecn/MachineLearning)：ApacheCN 制作的《机器学习实战》。配套视频：编码能力强，建议观看[《机器学习实战 - 教学版》](https://space.bilibili.com/97678687/#/channel/detail?cid=22486)。
+21、[AiLearning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apachecn/AiLearning)：ApacheCN 制作的《机器学习实战》。配套视频：编码能力强，建议观看[《机器学习实战 - 教学版》](https://space.bilibili.com/97678687/#/channel/detail?cid=22486)。
 编码能力弱，建议观看[《机器学习实战 - 讨论版》](https://space.bilibili.com/97678687/#/channel/detail?cid=13045)
 
 22、[tensorflow-docs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xitu/tensorflow-docs)：TensorFlow Docs 是由掘金翻译计划实时维护的 TensorFlow 官方文档中文版，维护者为全球各大公司开发人员和各著名高校研究者及学生
@@ -207,12 +209,12 @@ ws_api.get_gzh_info('微信名称')
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/23/HelloGitHub23.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/25/HelloGitHub25.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/23/HelloGitHub23.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/25/HelloGitHub25.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

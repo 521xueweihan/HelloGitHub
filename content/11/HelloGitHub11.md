@@ -28,13 +28,15 @@
 - [开源书籍](#开源书籍)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C 项目
 1、[wrk](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wg/wrk)：现代 HTTP 基准测试（实现对一类测试对象的某项性能指标进行定量的和可对比的测试）工具，使用示例：
@@ -58,7 +60,7 @@ Transfer/sec:    606.33MB
 ### Go 项目
 2、[negroni](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/urfave/negroni)：Negroni 是一个很地道的 Web 中间件，它不是一个框架，是为了方便使用 net/http 而设计的一个库而已。[中文介绍](https://github.com/urfave/negroni/blob/master/translations/README_zh_cn.md)
 
-3、[openedge](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/baidu/openedge)：百度云开源的边缘计算平台，可将云计算能力拓展至用户现场，提供临时离线、低延时的计算服务，包括设备接入、消息路由、消息远程同步、函数计算、视频接入预处理、AI推断等功能
+3、[baetyl](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/baetyl/baetyl)：百度云开源的边缘计算平台，可将云计算能力拓展至用户现场，提供临时离线、低延时的计算服务，包括设备接入、消息路由、消息远程同步、函数计算、视频接入预处理、AI推断等功能
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -110,7 +112,7 @@ print ifconfig("eth0")
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
-11、[Swift30Projects](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/soapyigu/Swift30Projects)：30 个小型 Swift Apps，可以用来上手学习、练习移动开发。
+11、[Swift-30-Projects](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/soapyigu/Swift-30-Projects)：30 个小型 Swift Apps，可以用来上手学习、练习移动开发。
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/11/img/swift30projects-show-min.jpg' style="max-width:80%; max-height=80%;"></img></p>
@@ -122,7 +124,7 @@ print ifconfig("eth0")
 
 13、[chinese-programmer-wrong-pronunciation](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shimohq/chinese-programmer-wrong-pronunciation)：中国程序员容易发音错误的单词
 
-14、[go-lang-cheat-sheet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/a8m/go-lang-cheat-sheet)：（英文）Go 语法特性集合
+14、[golang-cheat-sheet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/a8m/golang-cheat-sheet)：（英文）Go 语法特性集合
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -139,7 +141,7 @@ print ifconfig("eth0")
 
 20、[docker_practice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yeasy/docker_practice)：Dokcer 从入门到实践
 
-21、[explore-flask](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spacewander/explore-flask-zh)：[《explore flask》中文翻译](https://spacewander.github.io/explore-flask-zh/index.html)
+21、[explore-flask-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spacewander/explore-flask-zh)：[《explore flask》中文翻译](https://spacewander.github.io/explore-flask-zh/index.html)
 
 22、[react-cookbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shimohq/react-cookbook)：编写简洁漂亮，可维护的 React 应用
 
@@ -150,12 +152,12 @@ print ifconfig("eth0")
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/10/HelloGitHub10.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/12/HelloGitHub12.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/10/HelloGitHub10.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/12/HelloGitHub12.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

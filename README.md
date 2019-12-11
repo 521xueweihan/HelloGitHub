@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/readme.gif"/>
   <br>中文 | <a href="README_en.md">English</a>
-  <br><strong>HelloGitHub</strong> 一个分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
+  <br><strong>HelloGitHub</strong> 分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 
 希望通过本项目能够有更多人加入到开源社区、回馈社区。**让有趣、有价值的项目被更多人发现和加入**。在参与这些项目的过程中，你将得到：**热爱编程的小伙伴**🕺 、**更多编程知识**📚 、**优秀的编程技巧**💻 、**找到编程的乐趣**🎮 。
 
-- **『每日精选』** 关注我们的[最惨官微](https://weibo.com/hellogithub)获取每日项目推荐+抽奖。
-- **『讲解开源项目』** 欢迎开源爱好者给我们投稿[查看创作须知](https://github.com/HelloGitHub-Team/Article/blob/master/%E5%88%9B%E4%BD%9C%E9%A1%BB%E7%9F%A5.md)。
+- **『每日精选』** 关注我们的[最惨官微](https://weibo.com/hellogithub)获取每日项目推荐。
+- **『讲解开源项目』** 有趣的项目不知道怎么运行和玩耍？[点击阅读](https://github.com/HelloGitHub-Team/Article)讲解开源系列。
 
 
 ## 内容

@@ -29,20 +29,22 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C 项目
 1、[obs-studio](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/obsproject/obs-studio)：由 OBS 项目维护的免费开源流媒体和录制程序。该程序支持 Windows 7、macOS 10.10、Ubuntu 14.04 操作系统。可用于直播和屏幕录制，[下载地址](https://github.com/obsproject/obs-studio/releases)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/obs-studio.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-2、[Algorithms_C](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TheAlgorithms/C)：各种基础算法、数据结构的 C 语言实现。这个[TheAlgorithms](https://github.com/TheAlgorithms) 开源组织的项目包含基础算法的各种编程语言的示例代码
+2、[C](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TheAlgorithms/C)：各种基础算法、数据结构的 C 语言实现。这个[TheAlgorithms](https://github.com/TheAlgorithms) 开源组织的项目包含基础算法的各种编程语言的示例代码
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -156,7 +158,7 @@ BitmapEncoder.saveBitmapWithDPI(chart, "./Sample_Chart_300_DPI", BitmapFormat.PN
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/AndroidAutoSize.png' style="max-width:80%; max-height=80%;"></img></p>
 
-10、[MyPerf4J](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ThinkpadNC5/MyPerf4J)：一个针对高并发、低延迟应用设计的高性能 Java 性能监控和统计工具。特性：
+10、[MyPerf4J](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LinShunKang/MyPerf4J)：一个针对高并发、低延迟应用设计的高性能 Java 性能监控和统计工具。特性：
 - 高性能: 单线程支持每秒 1000 万次 响应时间的记录，每次记录只花费 73 纳秒
 - 无侵入：采用 JavaAgent 方式，对应用程序完全无侵入，无需修改应用代码
 - 低内存：采用内存复用的方式，整个生命周期只产生极少的临时对象，不影响应用程序的 GC
@@ -170,7 +172,7 @@ BitmapEncoder.saveBitmapWithDPI(chart, "./Sample_Chart_300_DPI", BitmapFormat.PN
 ### JavaScript 项目
 11、[chrome-plugin-demo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sxei/chrome-plugin-demo)：Chrome 插件开发完整教程，可用来学习插件开发
 
-12、[TypeScript-React-Starter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Microsoft/TypeScript-React-Starter)：由 Microsoft 创建，该项目详细介绍了如何使用 TS 基于 create-react-app 创建 React 项目模版的步骤。TS 出现使得 JS 具有了强类型语言的严谨性，并且还保留了JS的灵活。React 是目前超火的前端框架，两者的结合非常值得学习
+12、[TypeScript-React-Starter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/TypeScript-React-Starter)：由 Microsoft 创建，该项目详细介绍了如何使用 TS 基于 create-react-app 创建 React 项目模版的步骤。TS 出现使得 JS 具有了强类型语言的严谨性，并且还保留了JS的灵活。React 是目前超火的前端框架，两者的结合非常值得学习
 
 13、[d3](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/d3/d3)：D3 的全称是（Data-Driven Documents），该库提供了各种简单易用的函数，大大简化了 JavaScript 操作数据的难度。该库的使用是数据可视化必须掌握的技术，[入门教程](http://wiki.jikexueyuan.com/project/d3wiki/introduction.html)，[示例 demo](https://github.com/d3/d3/wiki/Gallery)
 
@@ -211,7 +213,7 @@ cup
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
-18、[gifski-app](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/gifski-app)：Gifski这个开源程序可以将一系列图片或一段视频转化为高质量的gif，高质量是这个程序最大的特色，下面我们将从使用与评价两个方面来介绍这个程序。Gifski实际上适用于windows，mac以及linux三个平台，唯一不同的是，mac平台上的gifski内置了视频分帧工具，因此可以直接把视频拖入程序窗口即可生成gif，而其它平台上则只能使用第三方程序分帧后才能处理，并且要在命令行中运行
+18、[Gifski](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/Gifski)：Gifski这个开源程序可以将一系列图片或一段视频转化为高质量的gif，高质量是这个程序最大的特色，下面我们将从使用与评价两个方面来介绍这个程序。Gifski实际上适用于windows，mac以及linux三个平台，唯一不同的是，mac平台上的gifski内置了视频分帧工具，因此可以直接把视频拖入程序窗口即可生成gif，而其它平台上则只能使用第三方程序分帧后才能处理，并且要在命令行中运行
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/gifski-app.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -231,7 +233,7 @@ cup
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-24、[nndl](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nndl/nndl.github.io)：《神经网络与深度学习》该课程主要介绍神经网络与深度学习中的基础知识、主要模型（卷积神经网络、递归神经网络等）以及在计算机视觉、自然语言处理等领域的应用。[在线阅读](https://nndl.github.io/)
+24、[nndl.github.io](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nndl/nndl.github.io)：《神经网络与深度学习》该课程主要介绍神经网络与深度学习中的基础知识、主要模型（卷积神经网络、递归神经网络等）以及在计算机视觉、自然语言处理等领域的应用。[在线阅读](https://nndl.github.io/)
 
 25、[pwc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zziz/pwc)：深度学习、机器学习论文集合（英文）
 
@@ -240,12 +242,12 @@ cup
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/30/HelloGitHub30.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/32/HelloGitHub32.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/30/HelloGitHub30.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/32/HelloGitHub32.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

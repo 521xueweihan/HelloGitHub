@@ -31,13 +31,15 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C 项目
 1、[os-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cfenollosa/os-tutorial)：（英文）如何从头开始创建操作系统
@@ -223,7 +225,7 @@ SpiderMan.init(this)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/three-js.png' style="max-width:80%; max-height=80%;"></img></p>
 
-14、[storybook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/storybooks/storybook)：UI 组件开发测试的环境。你可以使用 React、React Native、Vue、Angular、Ember 开发你的组件，并且可以使用 storybook 提供的众多插件进行测试以及开发。[在线示例](https://storybook.js.org/examples/)
+14、[storybook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/storybookjs/storybook)：UI 组件开发测试的环境。你可以使用 React、React Native、Vue、Angular、Ember 开发你的组件，并且可以使用 storybook 提供的众多插件进行测试以及开发。[在线示例](https://storybook.js.org/examples/)
 
 15、[hexo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hexojs/hexo)：基于 Node.js 快速、简洁且高效的静态博客生成框架。可以使用 hexo 快速生成静态博客，它拥有丰富的[插件库](https://hexo.io/plugins/)、[主题库](https://hexo.io/themes/)。在使用 hexo 的时候也可以自己创建、定制属于自己的主题
 
@@ -283,7 +285,7 @@ learn.fit(1)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/deepvariant.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[AlphaAI](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/VivekPa/AlphaAI)：使用无监督学习和监督学习来预测股票，有趣的项目。运行步骤如下：
+29、[AIAlpha](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/VivekPa/AIAlpha)：使用无监督学习和监督学习来预测股票，有趣的项目。运行步骤如下：
 ```
 git clone https://github.com/VivekPa/AlphaAI.git
 cd AlphaAI
@@ -302,12 +304,12 @@ python run.py
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/31/HelloGitHub31.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/33/HelloGitHub33.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/31/HelloGitHub31.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/33/HelloGitHub33.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

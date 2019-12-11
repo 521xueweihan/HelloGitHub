@@ -32,13 +32,15 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C# 项目
 1、[Wox](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Wox-launcher/Wox)：Windows 上的 Alfred、Launchy，使用演示：
@@ -58,7 +60,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### CSS 项目
-3、[Font-Awesome](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FortAwesome/Font-Awesome/)：GitHub 上 Star 数最多的图标库，应该是当下最流行的图标库
+3、[Font-Awesome](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FortAwesome/Font-Awesome)：GitHub 上 Star 数最多的图标库，应该是当下最流行的图标库
 
 4、[material-design-icons](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/material-design-icons)：Google 官方开源基于 Material Design 设计风格的图标库
 
@@ -72,7 +74,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-6、[incubator-rocketmq](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/incubator-rocketmq)：RocketMQ 是阿里巴巴在 2012 年开源的第三代分布式消息中间件。
+6、[rocketmq](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/rocketmq)：RocketMQ 是阿里巴巴在 2012 年开源的第三代分布式消息中间件。
 历年双 11，RocketMQ 都承担了阿里巴巴生产系统百分之百的消息流转，在核心交易链路有着稳定和出色的表现，今年双十一，更是创造了万亿级消息精准低延迟投递。
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
@@ -86,7 +88,7 @@
 - 使用单文件的 Vue 组件化开发模式
 - 基于 npm + webpack + babel 开发，支持 ES2015
 
-8、[flv.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Bilibili/flv.js)：使用纯 JavaScript 写的 HTML5 Flash 视频（flv）播放器，示例代码如下：
+8、[flv.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bilibili/flv.js)：使用纯 JavaScript 写的 HTML5 Flash 视频（flv）播放器，示例代码如下：
 ```javascript
 <script src="flv.min.js"></script>
 <video id="videoElement"></video>
@@ -128,7 +130,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-12、[saythanks.io](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kennethreitz/saythanks.io)：Kennethreitz 写的一个简单的网站（基于 Flask），用于向开源项目作者发送感谢邮件的 Web App。该项目结构简单，可以用来学习大神是如何快速开发 Web 项目、方法、代码风格、开发常用库。而且该项目的意义也特别好：**感谢开源项目的作者**，愿开源社区越来越好，[网站地址](https://saythanks.io)
+12、[saythanks.io](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BlitzKraft/saythanks.io)：Kennethreitz 写的一个简单的网站（基于 Flask），用于向开源项目作者发送感谢邮件的 Web App。该项目结构简单，可以用来学习大神是如何快速开发 Web 项目、方法、代码风格、开发常用库。而且该项目的意义也特别好：**感谢开源项目的作者**，愿开源社区越来越好，[网站地址](https://saythanks.io)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/10/img/thanks-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -148,7 +150,7 @@
 ### 其它
 15、[IntelliJ-IDEA-Tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/judasn/IntelliJ-IDEA-Tutorial)：IntelliJ IDEA 简体中文专题教程
 
-16、[Awesome_API](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/marktony/Awesome_API)：第三方 API 集合
+16、[Awesome_APIs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TonnyL/Awesome_APIs)：第三方 API 集合
 
 17、[Lee-VR-Source](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/GeekLiB/Lee-VR-Source)：VR 开发者必备资源汇总
 
@@ -175,12 +177,12 @@
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/09/HelloGitHub09.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/11/HelloGitHub11.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/09/HelloGitHub09.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/11/HelloGitHub11.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

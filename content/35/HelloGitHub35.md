@@ -31,13 +31,15 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C# 项目
 1、[IdentityServer4.Admin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/skoruba/IdentityServer4.Admin)：免费开源的 IdentityServer4 与 Asp.Net Core Identity 管理器。IdentityServer4 官方的管理器是收费的，该项目很好的替代了官方管理器，可以方便的管理使用 IdentityServer4 所搭建的认证服务器
@@ -70,7 +72,7 @@ $ GO111MODULE=on go install
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/docui.png' style="max-width:80%; max-height=80%;"></img></p>
 
-5、[go-echarts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chenjiandongx/go-echarts)：Golang 代码生成对应的 echarts 可视化图表。实例代码：
+5、[go-echarts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/go-echarts/go-echarts)：Golang 代码生成对应的 echarts 可视化图表。实例代码：
 ```go
 // example.go
 package main
@@ -119,7 +121,7 @@ func main() {
 ### Java 项目
 7、[SpringBoot-Learning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dyc87112/SpringBoot-Learning)：Spring Boot 教程
 
-8、[halo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ruibaby/halo)：Java 博客系统。在层出不穷的博客系统中，很难看到使用 Java 编写的简洁优雅的博客系统。该项目还具备着轻快且功能强大的特点，这些特性使它从众多 Java 博客系统脱颖而出。安装命令：
+8、[halo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/halo-dev/halo)：Java 博客系统。在层出不穷的博客系统中，很难看到使用 Java 编写的简洁优雅的博客系统。该项目还具备着轻快且功能强大的特点，这些特性使它从众多 Java 博客系统脱颖而出。安装命令：
 ```
 # 安装 Halo
 $ yum install -y wget && wget -O halo-cli.sh https://git.io/fxHqp && bash halo-cli.sh -i
@@ -129,7 +131,7 @@ $ bash halo-cli.sh -u
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/halo.png' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[APIJSON](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TommyLemon/APIJSON)：快速开发 API 服务的框架。为简单的增删改查、复杂的查询、简单的事务操作提供了完全自动化的 API。大部分 HTTP 请求后端再也不用写接口了，也不用写文档了，适合中小型前后端分离的项目
+9、[APIJSON](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/APIJSON/APIJSON)：快速开发 API 服务的框架。为简单的增删改查、复杂的查询、简单的事务操作提供了完全自动化的 API。大部分 HTTP 请求后端再也不用写接口了，也不用写文档了，适合中小型前后端分离的项目
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/APIJSON.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -224,7 +226,7 @@ if __name__ == '__main__':
 
 21、[Micro8](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Micropoor/Micro8)：浸淫渗透攻击的老鸟所写，内容一线深入浅出，主要是 Windows 系统场景。对于初中级安全从业人员、乙方安全测试、甲方安全自检、网络安全爱好者等提高都有很大的帮助
 
-22、[OI-WIKI](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/24OI/OI-WIKI)：免费、开放、持续更新的编程竞赛相关知识教程。包含竞赛的基础知识、常见题型、解题思路以及常用工具等内容，帮助大家更快速、深入地学习编程竞赛相关知识
+22、[OI-wiki](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OI-wiki/OI-wiki)：免费、开放、持续更新的编程竞赛相关知识教程。包含竞赛的基础知识、常见题型、解题思路以及常用工具等内容，帮助大家更快速、深入地学习编程竞赛相关知识
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -271,12 +273,12 @@ doc.sentences[0].print_dependencies()
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/34/HelloGitHub34.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/36/HelloGitHub36.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/34/HelloGitHub34.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/36/HelloGitHub36.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

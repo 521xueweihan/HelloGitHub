@@ -28,13 +28,15 @@
 - [开源书籍](#开源书籍)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### Go 项目
 1、[ctop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bcicen/ctop)：实现了类 top 命令展示效果的 docker 容器监控工具
@@ -94,7 +96,7 @@ $('#btnDemo').selectMenu({
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/SelectMenu-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[project-guidelines](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wearehive/project-guidelines)：JavaScript 项目规范，[中文](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md)
+7、[project-guidelines](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/elsewhencode/project-guidelines)：JavaScript 项目规范，[中文](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md)
 
 8、[emoji](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gee1k/emoji)：方便快速查找获取 emoji 表情、名称，并且可以复制到任何文本中，另外支持中文搜索 💯 [网站地址](http://emoji.svend.cc/)
 
@@ -111,7 +113,7 @@ $('#btnDemo').selectMenu({
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Kotlin 项目
-11、[kotlin-examples](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JetBrains/kotlin-examples)：JetBrains 开源的 Kotlin 语言 Web 示例项目
+11、[kotlin-examples](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Kotlin/kotlin-examples)：JetBrains 开源的 Kotlin 语言 Web 示例项目
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -174,30 +176,28 @@ itchat.send('Hello, filehelper', toUserName='filehelper')
 
 20、[ios-dev-flow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/leecade/ios-dev-flow)：iOS 开发流程，记录了 iOS 程序上架需要的方方面面
 
-21、[Awesome_APIs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TonnyL/Awesome_APIs)：第三方 API 集合，包含：国内、国外、官方、非官方
-
-22、[chinese-poetry](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chinese-poetry/chinese-poetry)：中华古典文集数据集，包含 5.5 万首唐诗、26 万首宋诗和 2.1 万首宋词。唐宋两朝近 1.4 万古诗人和两宋时期1500 词人。以 json 文件、数据库方式存储，[爬取过程及分析](https://jackeygao.io/words/crawl-ci.html)
+21、[chinese-poetry](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chinese-poetry/chinese-poetry)：中华古典文集数据集，包含 5.5 万首唐诗、26 万首宋诗和 2.1 万首宋词。唐宋两朝近 1.4 万古诗人和两宋时期1500 词人。以 json 文件、数据库方式存储，[爬取过程及分析](https://jackeygao.io/words/crawl-ci.html)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-23、[kubernetes-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rootsongjc/kubernetes-handbook)：Kubernetes 中文指南／实践手册，[在线阅读](https://jimmysong.io/kubernetes-handbook/)
+22、[kubernetes-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rootsongjc/kubernetes-handbook)：Kubernetes 中文指南／实践手册，[在线阅读](https://jimmysong.io/kubernetes-handbook/)
 
-24、[op_practice_book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BillWang139967/op_practice_book)：《运维实践指南》
+23、[op_practice_book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/meetbill/op_practice_book)：《运维实践指南》
 
-25、[microservices](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DocsHome/microservices)：《微服务：从设计到部署》中文版，[在线阅读](http://oopsguy.com/books/microservices/index.html)
+24、[microservices](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DocsHome/microservices)：《微服务：从设计到部署》中文版，[在线阅读](http://oopsguy.com/books/microservices/index.html)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/18/HelloGitHub18.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/20/HelloGitHub20.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/18/HelloGitHub18.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/20/HelloGitHub20.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

@@ -30,13 +30,15 @@
 - [其它](#其它)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C 项目
 1、[ip2region](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lionsoul2014/ip2region)：IP 到地区的映射库，速度快（毫秒级）、准确性高（99.9%），妈妈再也不用担心我的 IP 地址定位，示例代码：
@@ -62,7 +64,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 
 5、[go.uuid](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/satori/go.uuid)：Go 的 [UUID](http://baike.baidu.com/item/UUID) 包
 
-6、[fsql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kshvmdn/fsql)：用 SQL 的语法搜索文件，酷吧
+6、[fsql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kashav/fsql)：用 SQL 的语法搜索文件，酷吧
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/fsql.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -70,7 +72,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-7、[symphony](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/b3log/symphony)：用 Java 实现的现代化社区（论坛／社交网络／博客）平台，功能众多，[访问该社区](https://hacpai.com/tag/Sym)
+7、[symphony](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/88250/symphony)：用 Java 实现的现代化社区（论坛／社交网络／博客）平台，功能众多，[访问该社区](https://hacpai.com/tag/Sym)
 
 8、[druid](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/druid)：一个 JDBC 组件库，包括数据库连接池、SQL Parser 等组件，同时能够提供强大的监控和扩展功能
 
@@ -102,7 +104,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
-14、[nextcloud](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nextcloud/server)：开源云存储平台，功能齐全，可以用于搭建公司内部的云存储平台
+14、[server](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nextcloud/server)：开源云存储平台，功能齐全，可以用于搭建公司内部的云存储平台
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/nextcloud-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -128,7 +130,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
-18、[EmojiIntelligence](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Luubra/EmojiIntelligence)：完全用 Swift 实现神经网络的 Demo
+18、[EmojiIntelligence](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BilalReffas/EmojiIntelligence)：完全用 Swift 实现神经网络的 Demo
 - 第一步设置 emoji 对应的图形
 - 使用神经网络识别图形，返回 emoji 表情
 
@@ -138,7 +140,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-19、[oh-my-zsh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/robbyrussell/oh-my-zsh)：一个能够让你快速上手，史称 “终极 Shell” zsh 的工具，让你感觉终端前所未有的好用。详细介绍 —— [MacTalk 之终极 Shell](http://macshuo.com/?p=676)
+19、[ohmyzsh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ohmyzsh/ohmyzsh)：一个能够让你快速上手，史称 “终极 Shell” zsh 的工具，让你感觉终端前所未有的好用。详细介绍 —— [MacTalk 之终极 Shell](http://macshuo.com/?p=676)
 
 20、[ResumeSample](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/geekcompany/ResumeSample)：程序员简历模板系列（Markdown）
 
@@ -153,12 +155,12 @@ gcc -g -O2 testSearcher.c ip2region.c
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/HelloGitHub13.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/15/HelloGitHub15.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/HelloGitHub13.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/15/HelloGitHub15.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

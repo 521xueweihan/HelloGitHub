@@ -32,13 +32,15 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C 项目
 1、[json-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/miloyip/json-tutorial)：由[Milo Yip](https://github.com/miloyip/json-tutorial#%E5%85%B3%E4%BA%8E%E4%BD%9C%E8%80%85)发起的用 C 从零开始编写 JSON 库教程。大纲：
@@ -116,11 +118,11 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Objective-C 项目
-14、[iSH](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tbodt/ish)：在 iOS 上跑 Linux shell，可以通过 linux 命令操作你的 iOS 设备
+14、[ish](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tbodt/ish)：在 iOS 上跑 Linux shell，可以通过 linux 命令操作你的 iOS 设备
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/ish.png' style="max-width:80%; max-height=80%;"></img></p>
 
-15、[Nudeln](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hon-key/Nudeln)：基于 UITextView 书写风格类似于 masonry 的 iOS 端富文本控件。它采用声明式（链式）方法定义富文本控件，与编程式的相比它所需的代码量更短、更直观和易用。示例代码：
+15、[NudeIn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hon-key/NudeIn)：基于 UITextView 书写风格类似于 masonry 的 iOS 端富文本控件。它采用声明式（链式）方法定义富文本控件，与编程式的相比它所需的代码量更短、更直观和易用。示例代码：
 ```
 #import "NudeIn.h"
 
@@ -168,7 +170,7 @@ _attrLabel = [NudeIn make:^(NUDTextMaker *make) {
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
-18、[MeEdu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Qsnh/meedu)：开源免费的在线教育系统，支持在线点播、在线电子书、会员收费三大模块。[在线尝试](https://meedu.app/)
+18、[meedu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Qsnh/meedu)：开源免费的在线教育系统，支持在线点播、在线电子书、会员收费三大模块。[在线尝试](https://meedu.app/)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -198,7 +200,7 @@ _attrLabel = [NudeIn make:^(NUDTextMaker *make) {
 
 26、[the-art-of-command-line](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jlevy/the-art-of-command-line)：该项目是作者在 Linux 系统上工作时，发现的一些命令行使用技巧的总结。有些技巧非常基础，而另一些则相当复杂，甚至难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了，它们会提高你在编程时的灵活性以及效率。[中文](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 
-27、[nginxconfig.io](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/valentinxxx/nginxconfig.io)：在线生成 Nginx 配置文件网站，[在线尝试](https://nginxconfig.io/)
+27、[nginxconfig.io](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/digitalocean/nginxconfig.io)：在线生成 Nginx 配置文件网站，[在线尝试](https://nginxconfig.io/)
 
 28、[cool-retro-term](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Swordfish90/cool-retro-term)：一个终端模拟器，模仿了老式阴极管屏幕的外观和视觉感觉，养眼、轻量且外观可调，支持 Linux、macOS。搭配上 Vim 或 Emacs，即刻获得与上个世纪 hackers 相同的编程体验
 
@@ -238,12 +240,12 @@ _attrLabel = [NudeIn make:^(NUDTextMaker *make) {
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/32/HelloGitHub32.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/34/HelloGitHub34.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/32/HelloGitHub32.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/34/HelloGitHub34.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

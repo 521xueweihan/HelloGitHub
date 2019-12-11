@@ -30,13 +30,15 @@
 - [开源书籍](#开源书籍)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C 项目
 1、[awesome-c-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jobbole/awesome-c-cn)：C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
@@ -57,7 +59,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-4、[dnt](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shiyanhui/dht)：DHT 实现了 BitTorrent DHT 协议，它包含两种模式，标准模式和爬虫模式。标准模式遵循 DHT 协议，你可以把它当做一个标准的 DHT 组件。爬虫模式是为了嗅探到更多 torrent 文件信息，它在某些方面不遵循 DHT 协议。 基于爬虫模式，你可以打造你自己的 BTDigg，[演示地址](http://bthub.io/)
+4、[dht](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shiyanhui/dht)：DHT 实现了 BitTorrent DHT 协议，它包含两种模式，标准模式和爬虫模式。标准模式遵循 DHT 协议，你可以把它当做一个标准的 DHT 组件。爬虫模式是为了嗅探到更多 torrent 文件信息，它在某些方面不遵循 DHT 协议。 基于爬虫模式，你可以打造你自己的 BTDigg，[演示地址](http://bthub.io/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/dnt-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -103,7 +105,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Objective-C 项目
-15、[PYSearch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iphone5solo/PYSearch)：一款综合（QQ 音乐、微信、美团、优酷、虎牙直播等多款 App）风格的搜索控制器
+15、[PYSearch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ko1o/PYSearch)：一款综合（QQ 音乐、微信、美团、优酷、虎牙直播等多款 App）风格的搜索控制器
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/PYSearch-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -163,7 +165,7 @@ Detailed:
 
 19、[searx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/asciimoo/searx)：分分钟打造一个聚合的搜索引擎，使用简单，部署方便。拓展方便，基于插件式的管理。[演示地址](https://searx.me/)
 
-20、[grequests](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kennethreitz/grequests)：Rquests + Gevent 让异步 HTTP 变得简单、人性化。示例代码：
+20、[grequests](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spyoungtech/grequests)：Rquests + Gevent 让异步 HTTP 变得简单、人性化。示例代码：
 ```python
 >>> import grequests
 >>> def exception_handler(request, exception):
@@ -189,13 +191,13 @@ Request failed
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/SwitchHosts-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[alloyteam](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AlloyTeam/alloyteam.github.com)：腾讯 AlloyTeam 开源项目官网
+23、[alloyteam.github.com](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AlloyTeam/alloyteam.github.com)：腾讯 AlloyTeam 开源项目官网
 
 24、[be-a-professional-programmer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/stanzhai/be-a-professional-programmer)：成为专业程序员路上用到的各种优秀资料、神器及框架
 
 25、[gold-miner](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xitu/gold-miner)：掘金翻译计划，翻译掘金上优质的英文文章
 
-26、[Awesome-Windows](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Awesome-Windows/Awesome)：一个 Windows 上优质和精选的最佳应用程序及工具列表。[中文版](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
+26、[Awesome](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Awesome-Windows/Awesome)：一个 Windows 上优质和精选的最佳应用程序及工具列表。[中文版](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 
 27、[SuperTinyIcons](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/edent/SuperTinyIcons)：体积超级小、制作精致的常见网站和 app 的图标库，每个图标均小于 1KB
 
@@ -213,12 +215,12 @@ Request failed
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/12/HelloGitHub12.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/14/HelloGitHub14.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/12/HelloGitHub12.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/14/HelloGitHub14.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
