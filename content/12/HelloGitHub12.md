@@ -29,13 +29,15 @@
 - [开源书籍](#开源书籍)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C 项目
 1、[tbox](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tboox/tbox)：一个用 C 语言实现的跨平台开发库，用于解决不同操作系统的兼容问题，并且充分利用了各个平台独有的一些特性进行优化。[中文说明](https://github.com/tboox/tbox/blob/master/README_zh.md)
@@ -100,11 +102,11 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/img/vue2-elm-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[standard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/feross/standard)：统一 JavaScript，只需一种样式，[中文](https://github.com/feross/standard/blob/master/docs/README-zhtw.md)
+7、[standard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/standard/standard)：统一 JavaScript，只需一种样式，[中文](https://github.com/feross/standard/blob/master/docs/README-zhtw.md)
 
 8、[screenfull.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/screenfull.js)：极小、跨平台的 JavaScript 全屏插件，[在线 demo](https://sindresorhus.com/screenfull.js/)
 
-9、[octotree](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/buunguyen/octotree)：为 GitHub 和 GitLab 网站，提供直观地显示项目目录结构的浏览器插件，效果如下：
+9、[octotree](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ovity/octotree)：为 GitHub 和 GitLab 网站，提供直观地显示项目目录结构的浏览器插件，效果如下：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/img/octotree-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -167,7 +169,7 @@ Hello Google!
 ### 开源书籍
 17、[explore-python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ethan-funny/explore-python)：《Python 之旅》，该书总结了 Python 相关的知识点，力求深入浅出、条理清晰
 
-18、[The-Art-Of-Programming-By-July](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md)：《编程之法：面试和算法心得》
+18、[The-Art-Of-Programming-By-July](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/julycoding/The-Art-Of-Programming-By-July)：《编程之法：面试和算法心得》
 
 19、[react-naive-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huzidaha/react-naive-book)：开源、免费、专业、简单的 React.js 教程
 
@@ -176,12 +178,12 @@ Hello Google!
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/11/HelloGitHub11.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/HelloGitHub13.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/11/HelloGitHub11.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/13/HelloGitHub13.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

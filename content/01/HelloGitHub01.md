@@ -25,13 +25,15 @@
 - [开源书籍](#开源书籍)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### CSS 项目
 1、[typo.css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sofish/typo.css)：中文网页重设与排版，为了一致化浏览器排版效果，构建最适合中文阅读的网页排版。包括桌面和移动平台，[预览](http://typo.sofi.sh/)
@@ -66,7 +68,7 @@
 8、[beijing_bus](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wong2/beijing_bus)：北京实时公交，可以显示查询的公交到达某站还需多久
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/%E5%8C%97%E4%BA%AC%E5%AE%9E%E6%97%B6%E5%85%AC%E4%BA%A4.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/beijing_bus.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -74,7 +76,7 @@
 9、[archey-osx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/obihann/archey-osx)：命令行中显示 Mac OS X 计算机的基本信息
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/Archey%20for%20OS%20X-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/archey-osx.png' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[Learning-SICP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DeathKing/Learning-SICP)：《计算机程序的构造和解释》公开课
 
@@ -102,12 +104,12 @@
 
 
 <p align="center">
-    『上一期』 | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/02/HelloGitHub02.md">『下一期』</a>
+    『上一期』 | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/02/HelloGitHub02.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

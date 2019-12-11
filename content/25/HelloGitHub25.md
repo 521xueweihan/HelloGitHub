@@ -30,13 +30,15 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C 项目
 1、[swipe-workspace](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CuberL/swipe-workspace)：基于 libinput 实现 Linux 系统下通过二指滑动控制面板，切换屏幕的程序。虽然功能简单，且不支持全平台。但是十分推荐这种自己动手实现一个实用的功能这种行为，这是非常有成就感的事情
@@ -62,7 +64,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-5、[Java-Interview](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/crossoverJie/Java-Interview)：该项目介绍的内容包含：Java 基础知识、底层原理、算法详解、大厂面试真题等
+5、[JCSprout](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/crossoverJie/JCSprout)：该项目介绍的内容包含：Java 基础知识、底层原理、算法详解、大厂面试真题等
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -158,7 +160,7 @@ res = fetch('http://httpbin.org/status/500')
 print('#2 status:', res.status_code)
 ```
 
-14、[incubator-airflow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/incubator-airflow)：定时任务管理平台，管理和调度各种离线定时任务，自带 Web 管理界面。当定时任务量达到百级别的时候，就无法再使用 crontab 有效、方便地管理这些任务了。该项目就是为了解决了这个问题而诞生的
+14、[airflow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/airflow)：定时任务管理平台，管理和调度各种离线定时任务，自带 Web 管理界面。当定时任务量达到百级别的时候，就无法再使用 crontab 有效、方便地管理这些任务了。该项目就是为了解决了这个问题而诞生的
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/incubator-airflow-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -202,12 +204,12 @@ print('#2 status:', res.status_code)
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/24/HelloGitHub24.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/26/HelloGitHub26.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/24/HelloGitHub24.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/26/HelloGitHub26.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

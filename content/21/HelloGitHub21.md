@@ -29,13 +29,15 @@
 - [开源书籍](#开源书籍)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C 项目
 1、[kcp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/skywind3000/kcp)：纯算法实现的快速可靠协议。能以比 TCP 浪费 10%-20% 的带宽为代价，换取平均延迟降低 30%-40%，且最大延迟降低 3 倍的传输效果
@@ -66,7 +68,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/icon-generator-plugin.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-5、[Blade](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/biezhi/blade)：轻量级、高效、简洁优雅的 Java Web 框架，致力于为个人开发者更快捷地开发 Web 应用提供便利。详尽的[中文文档](https://github.com/lets-blade/blade/blob/master/README_CN.md)及[入门视频](https://www.bilibili.com/video/av15572599/)。示例代码：
+5、[blade](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lets-blade/blade)：轻量级、高效、简洁优雅的 Java Web 框架，致力于为个人开发者更快捷地开发 Web 应用提供便利。详尽的[中文文档](https://github.com/lets-blade/blade/blob/master/README_CN.md)及[入门视频](https://www.bilibili.com/video/av15572599/)。示例代码：
 ```java
 public static void main(String[] args) {
     Blade.me().get("/", (req, res) -> {
@@ -114,7 +116,7 @@ public static void main(String[] args) {
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Kotlin 项目
-14、[github-profile-summary](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tipsy/github-profile-summary)：GitHub 账号数据可视化服务，很新颖地增加了 star 后可见（回复可见）😄
+14、[profile-summary-for-github](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tipsy/profile-summary-for-github)：GitHub 账号数据可视化服务，很新颖地增加了 star 后可见（回复可见）😄
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/github-profile-summary-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -125,7 +127,7 @@ public static void main(String[] args) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/thefuck.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[youtube-dl](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rg3/youtube-dl)：强大的视频下载工具，支持几百个国内外主流视频网站。正如名字一样，最初是为了下载 youtube 上的视频而开发的。如果有国外服务器的朋友，可以充分利用这个工具，下载 youtube 上的视频，速度不要太爽。下面介绍安装、下载视频等命令：
+16、[youtube-dl](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ytdl-org/youtube-dl)：强大的视频下载工具，支持几百个国内外主流视频网站。正如名字一样，最初是为了下载 youtube 上的视频而开发的。如果有国外服务器的朋友，可以充分利用这个工具，下载 youtube 上的视频，速度不要太爽。下面介绍安装、下载视频等命令：
 ```
 # 1. 安装命令：sudo pip install youtube-dl
 Installing collected packages: youtube-dl
@@ -176,12 +178,12 @@ print(", ".join(seg_list))
 【搜索引擎模式】： 小明, 硕士, 毕业, 于, 中国, 科学, 学院, 科学院, 中国科学院, 计算, 计算所, 后, 在, 日本, 京都, 大学, 日本京都大学, 深造
 ```
 
-18、[pydu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Prodesire/pydu)：该库将平时常用的数据结构和工具都收录其中，可供日常开发的使用，同时方便学习与借鉴，丰富的[文档](http://pydu.readthedocs.io/zh/latest/)能帮助新手更好的理解和使用它。这些实用的模块都是来自于开源项目和贡献者们的智慧，快来加入到这个项目中，让它变得更加实用和丰富
+18、[pydu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/flaggo/pydu)：该库将平时常用的数据结构和工具都收录其中，可供日常开发的使用，同时方便学习与借鉴，丰富的[文档](http://pydu.readthedocs.io/zh/latest/)能帮助新手更好的理解和使用它。这些实用的模块都是来自于开源项目和贡献者们的智慧，快来加入到这个项目中，让它变得更加实用和丰富
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-19、[vscode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Microsoft/vscode)：Visual Studio Code 是微软出品的支持多平台的开源编辑器，体积小、功能丰富、性能强大、扩展性很强。我是用着挺爽，写些代码片段、文章、文档开箱即用。个人感觉编写中型项目、代码调试的话还是 IDE 更方便些，总之推荐下载和使用。[下载地址](https://code.visualstudio.com/)
+19、[vscode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/vscode)：Visual Studio Code 是微软出品的支持多平台的开源编辑器，体积小、功能丰富、性能强大、扩展性很强。我是用着挺爽，写些代码片段、文章、文档开箱即用。个人感觉编写中型项目、代码调试的话还是 IDE 更方便些，总之推荐下载和使用。[下载地址](https://code.visualstudio.com/)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/vscode-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -193,24 +195,22 @@ print(", ".join(seg_list))
 
 23、[git-flight-rules](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/k88hudson/git-flight-rules)：Git 飞行规则，所谓飞行规则就是特定场景的非常详细的标准处理流程。该项目记录了使用 Git 过程中，如果遇到问题的解决办法和步骤，[中文](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
 
-24、[coding-interview-university](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jwasham/coding-interview-university)：一套完整的学习手册，项目发起者是为了让自己通过 Google 的面试而制定的计划。最后，他去了 Amazon。感谢 [掘金翻译的中文版](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
-
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-25、[pydata-notebook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BrambleXu/pydata-notebook)：《利用Python进行数据分析 2017 第二版》中文翻译笔记
+24、[pydata-notebook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BrambleXu/pydata-notebook)：《利用Python进行数据分析 2017 第二版》中文翻译笔记
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/20/HelloGitHub20.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/22/HelloGitHub22.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/20/HelloGitHub20.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/22/HelloGitHub22.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

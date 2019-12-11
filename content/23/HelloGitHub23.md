@@ -31,13 +31,15 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C 项目
 1、[ffmpeg-libav-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/leandromoreira/ffmpeg-libav-tutorial)：《笨方法学 FFmpeg libav》（英文）
@@ -45,14 +47,14 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C# 项目
-2、[NiceHashMinerLegacy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nicehash/NiceHashMinerLegacy)：一款可以自动帮你挖比特币的免费 App。[中文官网地址](https://miner.nicehash.com/)，经典版截图如下：
+2、[NiceHashMiner](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nicehash/NiceHashMiner)：一款可以自动帮你挖比特币的免费 App。[中文官网地址](https://miner.nicehash.com/)，经典版截图如下：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/NiceHashMinerLegacy-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-3、[weixin-java-tools](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Wechat-Group/weixin-java-tools)：开源、非官方、功能全面的微信开发 Java SDK，支持包括微信支付、开放平台、小程序、企业号和公众号等功能的开发。[示例 Demo 索引](https://github.com/Wechat-Group/weixin-java-tools/blob/master/demo.md)，以及详细的[开发文档](https://github.com/wechat-group/weixin-java-tools/wiki)
+3、[WxJava](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Wechat-Group/WxJava)：开源、非官方、功能全面的微信开发 Java SDK，支持包括微信支付、开放平台、小程序、企业号和公众号等功能的开发。[示例 Demo 索引](https://github.com/Wechat-Group/weixin-java-tools/blob/master/demo.md)，以及详细的[开发文档](https://github.com/wechat-group/weixin-java-tools/wiki)
 
 4、[CC](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/luckybilly/CC)：使用简单、功能丰富的 Android 组件化框架。适用于几乎所有的组件化开发需求，可进行组件层面的 AOP 编程。[项目 wiki](https://github.com/luckybilly/CC/wiki)
 
@@ -108,7 +110,7 @@ fetch('/url').then(res => {}).catch(err => {})
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
-10、[arithmetic-php](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PuShaoWei/arithmetic-php)：PHP 语言实现的各类算法合集 
+10、[arithmetic-php](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pushaowei/arithmetic-php)：PHP 语言实现的各类算法合集 
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -146,7 +148,7 @@ fetch('/url').then(res => {}).catch(err => {})
 ### 其它
 16、[vim-galore](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mhinz/vim-galore)：Vim 从入门到精通，[中文](https://github.com/wsdjeg/vim-galore-zh_cn)
 
-17、[awesome-blockchain](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chaozh/awesome-blockchain)：区块链技术开发相关资料
+17、[awesome-blockchain-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chaozh/awesome-blockchain-cn)：区块链技术开发相关资料
 
 18、[hangzhou_house_knowledge](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/houshanren/hangzhou_house_knowledge)：《杭州房产知识扫盲》，作者 2017 年总结出来的买房购房知识，希望可以帮助到要在杭州买房的朋友
 
@@ -169,12 +171,12 @@ fetch('/url').then(res => {}).catch(err => {})
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/22/HelloGitHub22.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/24/HelloGitHub24.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/22/HelloGitHub22.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/24/HelloGitHub24.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

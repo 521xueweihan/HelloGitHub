@@ -24,13 +24,15 @@
 - [其它](#其它)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### CSS 项目
 1、[github-markdown-css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/github-markdown-css)：仿 GitHub 的 Markdown 的样式，就是使用了这个 CSS 后，Markdown 展示效果和 GitHub 的大致一样。[示例](https://sindresorhus.com/github-markdown-css/)
@@ -38,16 +40,21 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-2、[jquery-weui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lihongxun945/jquery-weui)：可能是最好用 WeUI 版本，展示效果如下：
+2、[listen1_desktop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/listen1/listen1_desktop)：Listen 1 让你用一个网页就能听到多个网站的在线音乐，支持各种平台。如图：
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/img/listen1-min.png' style="max-width:80%; max-height=80%;"></img></p>
+
+3、[jquery-weui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lihongxun945/jquery-weui)：可能是最好用 WeUI 版本，展示效果如下：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/img/jquery-weui-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-3、[ant-motion](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ant-motion/ant-motion)：阿里开源的项目，一套 React 框架动效解决方案，可以帮助开发者，更容易的在项目中使用动效。同时可以方便快捷地制作一个公司的介绍页，[在线演示](https://motion.ant.design/)
+4、[ant-motion](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ant-design/ant-motion)：阿里开源的项目，一套 React 框架动效解决方案，可以帮助开发者，更容易的在项目中使用动效。同时可以方便快捷地制作一个公司的介绍页，[在线演示](https://motion.ant.design/)
 
-4、[wechat-h5-boilerplate](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/panteng/wechat-h5-boilerplate)：为腾讯微信优化的 HTML5 动效模板，帮助你快速构建全屏滚动型 HTML5 页面，[示例](https://panteng.github.io/wechat-h5-boilerplate/)
+5、[wechat-h5-boilerplate](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/panteng/wechat-h5-boilerplate)：为腾讯微信优化的 HTML5 动效模板，帮助你快速构建全屏滚动型 HTML5 页面，[示例](https://panteng.github.io/wechat-h5-boilerplate/)
 
-5、[waitForImages](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alexanderdickson/waitForImages)：背景加载完事件，示例代码：
+6、[waitForImages](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alexanderdickson/waitForImages)：背景加载完事件，示例代码：
 ```html
 <script type="text/javascript" src="http://catmull.uk/downloads/bg-loaded/bg-loaded.js"></script>
 <script type="text/javascript">
@@ -62,20 +69,15 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-6、[luokr.com](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alvan/luokr.com)：Python Tornado 写的开源网站——螺壳网，[访问](http://luokr.com/)，如图：
+7、[luokr.com](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alvan/luokr.com)：Python Tornado 写的开源网站——螺壳网，[访问](http://luokr.com/)，如图：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/img/%E8%9E%BA%E5%A3%B3%E7%BD%91-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/img/luokr-com.png' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[ssbc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/78/ssbc)：Python Django 写的种子搜索网站——手撕包菜，如图：
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/img/%E6%89%8B%E6%92%95%E5%8C%85%E8%8F%9C%E7%BD%91-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-8、[listen1](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/listen1)：Listen 1 让你用一个网页就能听到多个网站的在线音乐，支持各种平台。如图：
+8、[ssbc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/78/ssbc)：Python Django 写的种子搜索网站——手撕包菜，如图：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/img/listen1-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/img/ssbc.png' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[python-gems](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RealHacker/python-gems)：有趣的 Pyhton 代码片段集合
 
@@ -148,12 +150,12 @@ if __name__ == '__main__':
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/HelloGitHub01.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/03/HelloGitHub03.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/01/HelloGitHub01.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/03/HelloGitHub03.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/readme.gif"/>
   <br>中文 | <a href="README_en.md">English</a>
-  <br><strong>HelloGitHub</strong> 一个分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
+  <br><strong>HelloGitHub</strong> 分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
 </p>
 
 <p align="center">
-  <a href="https://hellogithub.com/weixin.png"><img src="https://img.shields.io/badge/Talk-%E5%BE%AE%E4%BF%A1%E7%BE%A4-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
+  <a href="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png"><img src="https://img.shields.io/badge/Talk-%E5%BE%AE%E4%BF%A1%E7%BE%A4-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
   <a href="https://github.com/521xueweihan/HelloGitHub/stargazers"><img src="https://img.shields.io/github/stars/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub stars"></a>
   <a href="https://github.com/521xueweihan/HelloGitHub/issues"><img src="https://img.shields.io/github/issues/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub issues"></a>
     <a href="https://weibo.com/hellogithub"><img src="https://img.shields.io/badge/%E6%96%B0%E6%B5%AA-Weibo-red.svg?style=popout-square" alt="Sina Weibo"></a>
@@ -16,8 +16,8 @@
 
 希望通过本项目能够有更多人加入到开源社区、回馈社区。**让有趣、有价值的项目被更多人发现和加入**。在参与这些项目的过程中，你将得到：**热爱编程的小伙伴**🕺 、**更多编程知识**📚 、**优秀的编程技巧**💻 、**找到编程的乐趣**🎮 。
 
-- **『每日精选』** 关注我们的[最惨官微](https://weibo.com/hellogithub)获取最新项目推荐。
-- **『讲解开源项目』** 欢迎开源爱好者给我们投稿[查看创作须知](https://www.yuque.com/docs/share/ac165a31-927e-4c9a-8044-5a8e0de372e7)。
+- **『每日精选』** 关注我们的[最惨官微](https://weibo.com/hellogithub)获取每日项目推荐。
+- **『讲解开源项目』** 有趣的项目不知道怎么运行和玩耍？[点击阅读](https://github.com/HelloGitHub-Team/Article)讲解开源系列。
 
 
 ## 内容
@@ -25,7 +25,7 @@
 
 | :squirrel: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [第 43 期](/content/43/HelloGitHub43.md) | [第 42 期](/content/42/HelloGitHub42.md) | [第 41 期](/content/41/HelloGitHub41.md) |
+| [第 44 期](/content/44/HelloGitHub44.md) | [第 43 期](/content/43/HelloGitHub43.md) | [第 42 期](/content/42/HelloGitHub42.md) | [第 41 期](/content/41/HelloGitHub41.md) |
 | [第 40 期](/content/40/HelloGitHub40.md) | [第 39 期](/content/39/HelloGitHub39.md) | [第 38 期](/content/38/HelloGitHub38.md) | [第 37 期](/content/37/HelloGitHub37.md) | [第 36 期](/content/36/HelloGitHub36.md) |
 | [第 35 期](/content/35/HelloGitHub35.md) | [第 34 期](/content/34/HelloGitHub34.md) | [第 33 期](/content/33/HelloGitHub33.md) | [第 32 期](/content/32/HelloGitHub32.md) | [第 31 期](/content/31/HelloGitHub31.md) |
 | [第 30 期](/content/30/HelloGitHub30.md) | [第 29 期](/content/29/HelloGitHub29.md) | [第 28 期](/content/28/HelloGitHub28.md) | [第 27 期](/content/27/HelloGitHub27.md) | [第 26 期](/content/26/HelloGitHub26.md) |

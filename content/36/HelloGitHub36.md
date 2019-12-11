@@ -34,16 +34,18 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C# 项目
-1、[xs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kulics/xs)：一个专注于简单的开源跨平台编程语言。这门语言的设计目标是改进阅读与编写效率，降低语法负担。让使用者能够把真正的注意力放在解决问题上，只需极少的代码就能优雅地表达逻辑。[中文手册](https://github.com/kulics/xs/blob/master/book-zh/introduction.md)，示例代码如下：
+1、[lite](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lite-works/lite)：一个专注于简单的开源跨平台编程语言。这门语言的设计目标是改进阅读与编写效率，降低语法负担。让使用者能够把真正的注意力放在解决问题上，只需极少的代码就能优雅地表达逻辑。[中文手册](https://github.com/kulics/xs/blob/master/book-zh/introduction.md)，示例代码如下：
 ```
 # export namespace
 \HelloWorld {
@@ -76,7 +78,7 @@ program -> {
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
-2、[calculator](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Microsoft/calculator)：微软 Windows 系统预装的计算器工具开源了。该工具提供标准、科学、程序员计算器的功能，以及各种度量单位和货币之间的转换功能。实现语言为 C++ 代码并不复杂，快来看看微软工程师编写的代码吧！运行效果如下：
+2、[calculator](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/calculator)：微软 Windows 系统预装的计算器工具开源了。该工具提供标准、科学、程序员计算器的功能，以及各种度量单位和货币之间的转换功能。实现语言为 C++ 代码并不复杂，快来看看微软工程师编写的代码吧！运行效果如下：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/calculator.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -138,7 +140,7 @@ $ pprof -web [你的golang程序二进制文件] profile.pb.gz
 
 8、[learn-go-with-tests](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/quii/learn-go-with-tests)：通过单元测试学习 Go 语言。下载仓库源码后，进入对应目录。每一个小文件夹就是一个对应的 Go 项目，在里面`go test`即可运行单元测试。由于是测试驱动开发，所以需要在你改动代码之后跑通单元测试才算学会通过。每一个对应的文件夹都有相应 Markdown 文字教程，比较浅显易懂。而且还有[中文版](https://studygolang.gitbook.io/learn-go-with-tests)
 
-9、[AUXPI](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aimerforreimu/AUXPI)：基于 API 的简单图床应用。整合了主流图床的 API，并且做了一个 GUI 用来管理，[安装](https://github.com/aimerforreimu/AUXPI/wiki/%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)简单
+9、[auxpi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aimerforreimu/auxpi)：基于 API 的简单图床应用。整合了主流图床的 API，并且做了一个 GUI 用来管理，[安装](https://github.com/aimerforreimu/AUXPI/wiki/%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)简单
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/AUXPI.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -235,7 +237,7 @@ render(<Player sources={sources} />)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/scrapydweb.png' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[awesome-python-login-model](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CriseLYJ/awesome-python-login-model)：该项目收集了各大网站登陆方式和部分网站的爬虫程序。登陆方式实现包含 selenium 登录、通过抓包直接模拟登录等。有助于新手研究、编写爬虫
+23、[awesome-python-login-model](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Kr1s77/awesome-python-login-model)：该项目收集了各大网站登陆方式和部分网站的爬虫程序。登陆方式实现包含 selenium 登录、通过抓包直接模拟登录等。有助于新手研究、编写爬虫
 
 24、[gita](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nosarthur/gita)：基于 Python 开发的管理 git 工具，使用后可在任何目录下代理执行 git 指令。同时支持同时显示多个 repo 的状态信息、本地分支与远程分支的关系等
 
@@ -299,9 +301,9 @@ render(<Player sources={sources} />)
 ### 机器学习
 37、[BigGAN-PyTorch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ajbrock/BigGAN-PyTorch)：“Bye Bye TPU”，4 个 GPU 就能训练“史上最强” BigGAN！只需 4-8 个 GPU 即可训练，摆脱了算力束缚
 
-38、[Virgilio](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/clone95/Virgilio)：本资源库旨在为以下领域提供三种有机完整的学习路径：机器学习、商业智能、云计算。在此你将能够了解相关原理并且在项目实践中予以运用。如果仔细遵循这些学习路径，则可以从零开始构建完整的认识和获得始终可用的技能。事实上，这些学习路径不需要之前有相关知识，但基础编程和简单数学是理解和实践大多数相关概念的必要条件
+38、[Virgilio](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/virgili0/Virgilio)：本资源库旨在为以下领域提供三种有机完整的学习路径：机器学习、商业智能、云计算。在此你将能够了解相关原理并且在项目实践中予以运用。如果仔细遵循这些学习路径，则可以从零开始构建完整的认识和获得始终可用的技能。事实上，这些学习路径不需要之前有相关知识，但基础编程和简单数学是理解和实践大多数相关概念的必要条件
 
-39、[QuickDraw](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vietnguyen91/QuickDraw)：谷歌开发的一个流行的在线游戏，神经网络会猜测你在画什么。神经网络从每幅图画中学习，提高正确猜测涂鸦内容的能力。现在你可以基于这个仓库，用 Python 构建自己的 Quick Draw 游戏
+39、[QuickDraw](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/uvipen/QuickDraw)：谷歌开发的一个流行的在线游戏，神经网络会猜测你在画什么。神经网络从每幅图画中学习，提高正确猜测涂鸦内容的能力。现在你可以基于这个仓库，用 Python 构建自己的 Quick Draw 游戏
 
 40、[GNNPapers](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/thunlp/GNNPapers)：自从卷积神级网络面世以来，大部分人将其应用在规则的空间结构数据当中，比如图像。但是现实中存在更多的并不具备规则的空间结构的数据，因此研究人员提出了处理这部分数据的网络模型-GNN。该项目列举了 GNN 方面的论文，较为全面，适合有一定基础的人阅读
 
@@ -312,12 +314,12 @@ render(<Player sources={sources} />)
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/35/HelloGitHub35.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/37/HelloGitHub37.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/35/HelloGitHub35.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/37/HelloGitHub37.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

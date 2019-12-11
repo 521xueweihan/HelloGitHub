@@ -31,20 +31,22 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C# 项目
 1、[Rosin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AlloyTeam/Rosin)：一个 Fiddler 插件，用于协助开发者进行移动端页面开发、调试
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/Rosin-min.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-2、[SiteServer-CMS](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/siteserver/cms/)：开源、免费、企业级内容管理平台。基于该工具可以快速、方便地搭建搭建一个性能优异、颇具规模、易于维护的网站平台
+2、[cms](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/siteserver/cms)：开源、免费、企业级内容管理平台。基于该工具可以快速、方便地搭建搭建一个性能优异、颇具规模、易于维护的网站平台
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/SiteServer-CMS-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -137,7 +139,7 @@ $ appify -name "My Go Application" -icon ./icon.png /path/to/bin
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Objective-C 项目
-13、[KafkaRefresh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OpenFeyn/KafkaRefresh)：内置多种动画、可自定义和灵活的 iOS 下拉刷新框架。[中文文档](https://github.com/OpenFeyn/KafkaRefresh/blob/master/CREADME.md)
+13、[KafkaRefresh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HsiaohuiHsiang/KafkaRefresh)：内置多种动画、可自定义和灵活的 iOS 下拉刷新框架。[中文文档](https://github.com/OpenFeyn/KafkaRefresh/blob/master/CREADME.md)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/KafkaRefresh.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -186,20 +188,18 @@ def get_data(url):
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-20、[project-guidelines](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/elsewhencode/project-guidelines)：JavaScript 工程项目的一系列最佳实践策略，[中文版](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md)。其它编程语言的项目也有可以借鉴的地方
+20、[Android_Data](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Freelander/Android_Data)：这个集合主要能够帮助初学者在初学 Android 开发的时候，能够快速、方便地找到适合自己的学习资料
 
-21、[Android_Data](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Freelander/Android_Data)：这个集合主要能够帮助初学者在初学 Android 开发的时候，能够快速、方便地找到适合自己的学习资料
+21、[Front-End-Checklist](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/thedaviddias/Front-End-Checklist)：一份在网站发布到生产环境之前，前端部分需要测试、检查的详尽清单。[中文版](https://github.com/JohnsenZhou/Front-End-Checklist)
 
-22、[Front-End-Checklist](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/thedaviddias/Front-End-Checklist)：一份在网站发布到生产环境之前，前端部分需要测试、检查的详尽清单。[中文版](https://github.com/JohnsenZhou/Front-End-Checklist)
-
-23、[build-your-own-x](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/danistefanovic/build-your-own-x)：（英文）费曼：“我不能创造的東西，我就不了解。”该项目收集了不同编程语言造轮子的教程
+22、[build-your-own-x](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/danistefanovic/build-your-own-x)：（英文）费曼：“我不能创造的東西，我就不了解。”该项目收集了不同编程语言造轮子的教程
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-24、[simplified-deeplearning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/exacity/simplified-deeplearning)：《DeepLearningBook》读书笔记
+23、[simplified-deeplearning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/exacity/simplified-deeplearning)：《DeepLearningBook》读书笔记
 
-25、[elasticsearch-spark-recommender](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/IBM/elasticsearch-spark-recommender)：使用 Apache Spark 的机器学习库 (MLlib) 来训练一个协同过滤推荐系统模型 和 Elasticsearch 构建一个推荐系统教程，[中文版阅读](https://github.com/IBM/elasticsearch-spark-recommender/blob/master/README-cn.md)
+24、[elasticsearch-spark-recommender](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/IBM/elasticsearch-spark-recommender)：使用 Apache Spark 的机器学习库 (MLlib) 来训练一个协同过滤推荐系统模型 和 Elasticsearch 构建一个推荐系统教程，[中文版阅读](https://github.com/IBM/elasticsearch-spark-recommender/blob/master/README-cn.md)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/elasticsearch-spark-recommender-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -208,12 +208,12 @@ def get_data(url):
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/26/HelloGitHub26.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/28/HelloGitHub28.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/26/HelloGitHub26.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/28/HelloGitHub28.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

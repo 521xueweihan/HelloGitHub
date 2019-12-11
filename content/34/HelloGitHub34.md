@@ -30,13 +30,15 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C++ 项目
 1、[playerdemo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/itisyang/playerdemo)：开源、入门级视频播放器跨平台视频播放器。该播放器拥有视频播放器基本功能，适合学习播放器开发技术，音频、视频技术
@@ -113,7 +115,7 @@ int a = 1;
 String aStr = Convert.toStr(a);
 ```
 
-8、[android-viabus-architecture](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/KunMinX/android-viabus-architecture)：一款响应式架构。借助总线转发数据的请求和响应，实现 UI、业务的完全解耦
+8、[VIABUS-Architecture](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/KunMinX/VIABUS-Architecture)：一款响应式架构。借助总线转发数据的请求和响应，实现 UI、业务的完全解耦
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/android-viabus-architecture.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -176,7 +178,7 @@ render(<my-counter />, 'body')
 
 12、[RSSHub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DIYgod/RSSHub)：轻量、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源。现已支持丰富的源，详情见[文档](https://docs.rsshub.app/)
 
-13、[hve-notes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hve-notes/hve-notes)：静态博客写作客户端，你可以用它来记录你的生活、心情、知识、笔记、创意。使用了 electron 技术，对于学习 Javascript 桌面端开发是一个很好的项目
+13、[gridea](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/getgridea/gridea)：静态博客写作客户端，你可以用它来记录你的生活、心情、知识、笔记、创意。使用了 electron 技术，对于学习 Javascript 桌面端开发是一个很好的项目
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/hve-notes.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -227,7 +229,7 @@ render(<my-counter />, 'body')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/keycastr.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[Karabiner-Elements](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tekezo/Karabiner-Elements)：一款 macOS 的强大的修键软件
+18、[Karabiner-Elements](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pqrs-org/Karabiner-Elements)：一款 macOS 的强大的修键软件
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -245,7 +247,7 @@ render(<my-counter />, 'body')
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-20、[sherlock](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TheYahya/sherlock)：（英文）在主流社交网站，例如：GitHub、Facebook 等网站上查找指定的用户名是否存在。你想取一个独一无二的名字吗？快试试吧
+20、[sherlock](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sherlock-project/sherlock)：（英文）在主流社交网站，例如：GitHub、Facebook 等网站上查找指定的用户名是否存在。你想取一个独一无二的名字吗？快试试吧
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/sherlock.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -307,7 +309,7 @@ Hello, Click!
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/the-gan-zoo.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[pytorch-pretrained-BERT](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huggingface/pytorch-pretrained-BERT)：Google 神级语言表示模型的 PyTorch 预训练模型和 PyTorch 框架结合，使得更加容易上手。PyTorch 版本更方便小白上手实验。示例代码：
+31、[transformers](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huggingface/transformers)：Google 神级语言表示模型的 PyTorch 预训练模型和 PyTorch 框架结合，使得更加容易上手。PyTorch 版本更方便小白上手实验。示例代码：
 ```python
 import torch
 from pytorch_pretrained_bert import BertTokenizer, BertModel, BertForMaskedLM
@@ -345,12 +347,12 @@ segments_tensors = torch.tensor([segments_ids])
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/33/HelloGitHub33.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/35/HelloGitHub35.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/33/HelloGitHub33.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/35/HelloGitHub35.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

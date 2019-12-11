@@ -32,13 +32,15 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C 项目
 1、[ttygif](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/icholy/ttygif)：录制终端.gif
@@ -55,7 +57,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### CSS 项目
-3、[caomei](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xiangsudian/caomei)：一套免费、精致的开源图标库。
+3、[CaoMei](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xiangsudian/CaoMei)：一套免费、精致的开源图标库。
 - 精心绘制 丨 风格统一、力求像素级的显示
 - 使用高效 丨 资源轻量、灵活、多设备兼容
 - 开源免费 丨 个人私用和商用版权开源免费
@@ -126,16 +128,16 @@ Double[] myDoubleArray = triplet.getValue2();
 ### JavaScript 项目
 10、[javascript-algorithms](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/trekhleb/javascript-algorithms)：包含了多种基于 JavaScript 的算法与数据结构，[中文](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 
-11、[Day.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xx45/dayjs)：一个轻量的 JavaScript 时间日期处理库。保持和 Moment.js 的 API 设计完全一样。如果你曾经用过 Moment.js，那么你已经知道如何使用 Day.js 了。体积仅有 2kb 是 Moment.js 的轻量化方案，示例代码如下：
+11、[dayjs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iamkun/dayjs)：一个轻量的 JavaScript 时间日期处理库。保持和 Moment.js 的 API 设计完全一样。如果你曾经用过 Moment.js，那么你已经知道如何使用 Day.js 了。体积仅有 2kb 是 Moment.js 的轻量化方案，示例代码如下：
 ```javascript
 dayjs().startOf('month').add(1, 'day').set('year', 2018).format('YYYY-MM-DD HH:mm:ss');
 ```
 
-12、[tui.calendar](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nhnent/tui.calendar)：功能全面的 JavaScript 日程安排日历。虽然项目依赖了 jQuery，但是对于真实项目来说这样做是可以的。此项目适用于多种场景，炫酷的交互和 UI
+12、[tui.calendar](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nhn/tui.calendar)：功能全面的 JavaScript 日程安排日历。虽然项目依赖了 jQuery，但是对于真实项目来说这样做是可以的。此项目适用于多种场景，炫酷的交互和 UI
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/tui_calendar.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-13、[carbon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dawnlabs/carbon)：以美观、整洁的方式，展示你的代码片段。同时提供 SVG、PNG 多种方式展示
+13、[carbon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/carbon-app/carbon)：以美观、整洁的方式，展示你的代码片段。同时提供 SVG、PNG 多种方式展示
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/carbon-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -265,7 +267,7 @@ public func print<T>(file: String = #file, function: String = #function, line: I
 
 22、[architecture.of.internet-product](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/davideuler/architecture.of.internet-product)：知名互联网公司的架构文档
 
-23、[public-apis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/toddmotto/public-apis)：（英文）用于 Web 开发的公共 API 集合
+23、[public-apis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/public-apis/public-apis)：（英文）用于 Web 开发的公共 API 集合
 
 24、[practical-programming-books](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/EZLippi/practical-programming-books)：实用的计算机相关技术书籍、入门的实用教程、技术网站、博文集合
 
@@ -286,12 +288,12 @@ public func print<T>(file: String = #file, function: String = #function, line: I
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/25/HelloGitHub25.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/27/HelloGitHub27.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/25/HelloGitHub25.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/27/HelloGitHub27.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

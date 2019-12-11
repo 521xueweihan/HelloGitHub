@@ -34,13 +34,15 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C 项目
 1、[SuperWeChatPC](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/anhkgg/SuperWeChatPC)：这是一个超级微信电脑客户端。没错，是超级！因为它不仅是一个微信电脑客户端，还支持以下功能：
@@ -163,7 +165,7 @@ console.log(uuid());
 console.log(dateFormat(now(), "yyyy-mm-dd"));
 ```
 
-19、[cdfang-spider](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yhlben/cdfang-spider)：成都房源统计的数据可视化项目。该项目统计了成都开盘以来所有的房源信息，帮助想在成都买房的同学提供一些可视化的数据分析，比房协网官方的数据更直观，分析更透彻。此项目包含了一套完整的源代码，以及详细的项目搭建文档，开发者可以根据搭建文档一步一步搭建这个项目。可以帮助开发者学习前端，后端，数据库端，单元测试，持续集成等全套知识。基于此项目，你可以做任何地区的房源信息可视化，让数据说话
+19、[cdfang-spider](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lmjben/cdfang-spider)：成都房源统计的数据可视化项目。该项目统计了成都开盘以来所有的房源信息，帮助想在成都买房的同学提供一些可视化的数据分析，比房协网官方的数据更直观，分析更透彻。此项目包含了一套完整的源代码，以及详细的项目搭建文档，开发者可以根据搭建文档一步一步搭建这个项目。可以帮助开发者学习前端，后端，数据库端，单元测试，持续集成等全套知识。基于此项目，你可以做任何地区的房源信息可视化，让数据说话
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/img/cdfang-spider.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -236,7 +238,7 @@ $ rubocop
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/img/git-open.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[getAwayBSG](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jiangwei1995910/getAwayBSG)：项目名为“逃离北上广”，该项目通过爬取的招聘和房价数据。给准备逃离北上广等一线城市，却又找不到去处的 IT 人士提供了一些可视化数据作为建议
+30、[getAwayBSG](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Jinnrry/getAwayBSG)：项目名为“逃离北上广”，该项目通过爬取的招聘和房价数据。给准备逃离北上广等一线城市，却又找不到去处的 IT 人士提供了一些可视化数据作为建议
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/img/getAwayBSG.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -330,12 +332,12 @@ forward(input_ids, token_type_ids=None, attention_mask=None, masked_lm_labels=No
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/39/HelloGitHub39.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/41/HelloGitHub41.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/39/HelloGitHub39.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/41/HelloGitHub41.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

@@ -32,13 +32,15 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C# 项目
 1、[RemoteDesktopManage](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xunki/RemoteDesktopManage)：基于 MSTSC 连接 Windows 远程桌面，并对其进行封装实现管理多个远程桌面配置的小工具。更加方便地管理多个远程桌面，实现同时远程、互相切换。相当于把多个 MSTSC 集合在一个软件里，并进行分组打标试用
@@ -72,7 +74,7 @@ from debian:jessie - 406MB => 25.1MB (缩减了 16.21 倍)
 from node:alpine - 66.7MB => 34.7MB (缩减了 1.92 倍)
 ```
 
-6、[beam](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eBay/beam)：eBay 开源的分布式图数据库，少数依然支持 SparQL 的图数据库
+6、[akutan](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eBay/akutan)：eBay 开源的分布式图数据库，少数依然支持 SparQL 的图数据库
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -144,7 +146,7 @@ ffmpeg.run(stream)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/ffmpeg-python.png' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[pyright](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Microsoft/pyright)：微软出品的 Python 静态类型检查工具。执行速度快，适合大型 Python 项目，引用一句话：动态语言一时爽，重构火葬场
+17、[pyright](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/pyright)：微软出品的 Python 静态类型检查工具。执行速度快，适合大型 Python 项目，引用一句话：动态语言一时爽，重构火葬场
 
 18、[pyxel](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kitao/pyxel)：基于 Python 编程程语言实现的复古游戏引擎。示例代码：
 ```python
@@ -188,51 +190,49 @@ pyxel.run(update, draw)
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-22、[CS-Notes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CyC2018/CS-Notes)：该项目整理、聚集了技术面试必备的基础知识。省去了查找资料的时间，同时也是一份很好的学习资料
+22、[zju-icicles](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/QSCTech/zju-icicles)：浙江大学各种课程相关资源集合。包含：课程、作业、答案、复习资料、选课攻略等，是浙大在校生的必备资源，对于有考研想法的小伙伴而言也是很好的资源
 
-23、[zju-icicles](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/QSCTech/zju-icicles)：浙江大学各种课程相关资源集合。包含：课程、作业、答案、复习资料、选课攻略等，是浙大在校生的必备资源，对于有考研想法的小伙伴而言也是很好的资源
+23、[awesome-scalability](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/binhnguyennus/awesome-scalability)：一个系统的阅读列表，描述了可扩展、高可用、高性能的大型系统背后的东西。每部分都是基于真实案例，讲述了如何搭建一个可扩展、高可用、高性能的大型系统，案例都是来自于经过数百万甚至数十亿用户实战检验的系统。对于所有工程师而言都是一个很好的学习资料，开卷有益
 
-24、[awesome-scalability](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/binhnguyennus/awesome-scalability)：一个系统的阅读列表，描述了可扩展、高可用、高性能的大型系统背后的东西。每部分都是基于真实案例，讲述了如何搭建一个可扩展、高可用、高性能的大型系统，案例都是来自于经过数百万甚至数十亿用户实战检验的系统。对于所有工程师而言都是一个很好的学习资料，开卷有益
+24、[awesome-wechat-weapp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/justjavac/awesome-wechat-weapp)：该项目收集了微信小程序开发过程中会使用到的资料、问题以及第三方组件库。随着微信小程序的市场越来越大，很多公司也专门以制作小程序为业，不论对感兴趣的人还是想自己动手做小程序的人而言，这份合集省去了不少查找资料的时间
 
-25、[awesome-wechat-weapp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/justjavac/awesome-wechat-weapp)：该项目收集了微信小程序开发过程中会使用到的资料、问题以及第三方组件库。随着微信小程序的市场越来越大，很多公司也专门以制作小程序为业，不论对感兴趣的人还是想自己动手做小程序的人而言，这份合集省去了不少查找资料的时间
+25、[REKCARC-TSC-UHT](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PKUanonym/REKCARC-TSC-UHT)：清华大学计算机系课程相关资源集合。内容丰富，包含从大一到大四，跟着清华学子一起学习传说中高校的课程吧
 
-26、[REKCARC-TSC-UHT](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PKUanonym/REKCARC-TSC-UHT)：清华大学计算机系课程相关资源集合。内容丰富，包含从大一到大四，跟着清华学子一起学习传说中高校的课程吧
+26、[SJTU-Courses](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CoolPhilChen/SJTU-Courses)：上海交通大学课程资料分享
 
-27、[SJTU-Courses](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CoolPhilChen/SJTU-Courses)：上海交通大学课程资料分享
-
-28、[libpku](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lib-pku/libpku)：由第三方整理的北京大学课程资料，涵盖了专业课、公选课、通选课等
+27、[libpku](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lib-pku/libpku)：由第三方整理的北京大学课程资料，涵盖了专业课、公选课、通选课等
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-29、[prometheus-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yunlzheng/prometheus-book)：《Prometheus 操作指南》，[在线阅读](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart/why-monitor)
+28、[prometheus-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yunlzheng/prometheus-book)：《Prometheus 操作指南》，[在线阅读](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart/why-monitor)
 
-30、[the-craft-of-selfteaching](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/selfteaching/the-craft-of-selfteaching)：《自学是门手艺》一个编程入门者的自学心得。如今学习资源很多，对于初学者入门而言，最难的是如何自学，阅读本书打开编程自学大门吧
+29、[the-craft-of-selfteaching](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/selfteaching/the-craft-of-selfteaching)：《自学是门手艺》一个编程入门者的自学心得。如今学习资源很多，对于初学者入门而言，最难的是如何自学，阅读本书打开编程自学大门吧
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 教程
-31、[nginx-quick-reference](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/trimstray/nginx-quick-reference)：该项目描述了如何提高 Nginx 的性能、安全性等方面的步骤，让你的网站在 SSL Labs 的评级到达 A+
+30、[nginx-admins-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/trimstray/nginx-admins-handbook)：该项目描述了如何提高 Nginx 的性能、安全性等方面的步骤，让你的网站在 SSL Labs 的评级到达 A+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-32、[openpose](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CMU-Perceptual-Computing-Lab/openpose)：基于卷积神经网络和监督学习的开源库，可以实现人的面部、躯干和四肢甚至手指的跟踪。适用于多人，且标记准确，同时具有较好的鲁棒性
+31、[openpose](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CMU-Perceptual-Computing-Lab/openpose)：基于卷积神经网络和监督学习的开源库，可以实现人的面部、躯干和四肢甚至手指的跟踪。适用于多人，且标记准确，同时具有较好的鲁棒性
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/openpose.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/openpose.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[FaceDetection-DSFD](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TencentYoutuResearch/FaceDetection-DSFD)：腾讯优图的双分支人脸检测器全新算法，该算法已经被计算机视觉顶级会议 CVPR 2019 接收。优图此次提出的 DSFD 人脸检测算法，主要有 3 点创新：
+32、[FaceDetection-DSFD](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TencentYoutuResearch/FaceDetection-DSFD)：腾讯优图的双分支人脸检测器全新算法，该算法已经被计算机视觉顶级会议 CVPR 2019 接收。优图此次提出的 DSFD 人脸检测算法，主要有 3 点创新：
 1. 新的特征增强模块（FEM：Feature Enhance Module）
 2. 分层锚点渐进式的代价函数监督（PLA：Progressive Anchor Loss）
 3. 改进的锚点匹配策略（Improved Anchor Matching Strategy）
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/FaceDetection-DSFD.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[SPADE](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NVlabs/SPADE)：英伟达（NVIDIA）新开源的绘图工具。利用生成对抗网络，根据几根简单的线条就能生成栩栩如生的图像
+33、[SPADE](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NVlabs/SPADE)：英伟达（NVIDIA）新开源的绘图工具。利用生成对抗网络，根据几根简单的线条就能生成栩栩如生的图像
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/SPADE.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[LearningToPaint](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hzwer/LearningToPaint)：一个深度强化学习项目，研究如何让机器用画笔画画。也可体验制作自己的绘画或根据一张图片生成一整个绘画过程
+34、[ICCV2019-LearningToPaint](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hzwer/ICCV2019-LearningToPaint)：一个深度强化学习项目，研究如何让机器用画笔画画。也可体验制作自己的绘画或根据一张图片生成一整个绘画过程
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/LearningToPaint.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -241,12 +241,12 @@ pyxel.run(update, draw)
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/36/HelloGitHub36.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/38/HelloGitHub38.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/36/HelloGitHub36.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/38/HelloGitHub38.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

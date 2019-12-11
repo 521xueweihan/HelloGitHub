@@ -29,13 +29,15 @@
 - [其它](#其它)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C# 项目
 1、[Newtonsoft.Json](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JamesNK/Newtonsoft.Json)：Newtonsoft.Json 是一款 .NET 平台中开源的 JSON 序列化和反序列化类库，示例代码：
@@ -101,7 +103,7 @@ Console.WriteLine(json);
 ### Java 项目
 4、[AndroidUtilCode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Blankj/AndroidUtilCode)：Android 开发人员不得不收集的代码，[中文介绍](https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md)
 
-5、[DanmakuFlameMaster](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Bilibili/DanmakuFlameMaster)：Bilibili 开源的 Android 开源弹幕引擎·烈焰弹幕使。特性：
+5、[DanmakuFlameMaster](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bilibili/DanmakuFlameMaster)：Bilibili 开源的 Android 开源弹幕引擎·烈焰弹幕使。特性：
 - 使用多种方式(View/SurfaceView/TextureView)实现高效绘制
 - 该站 XML 弹幕格式解析
 - 基础弹幕精确还原绘制
@@ -117,14 +119,14 @@ Console.WriteLine(json);
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-6、[WeFlow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/weixin/WeFlow)：微信出品的一个高效、强大、跨平台的 Web 前端开发工作流工具，[官网](https://weflow.io/)
+6、[WeFlow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/WeFlow)：微信出品的一个高效、强大、跨平台的 Web 前端开发工作流工具，[官网](https://weflow.io/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/08/img/weflow-show-min.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[atrament.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jakubfiala/atrament.js)：极小的 JavaScript 画板，[在线演示](http://fiala.uk/atrament.js/demo/)
 
-8、[weex](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/incubator-weex)：移动端，跨平台前端框架，[详细的中文档](https://weex-project.io/cn/guide/)
+8、[incubator-weex](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/incubator-weex)：移动端，跨平台前端框架，[详细的中文档](https://weex-project.io/cn/guide/)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -144,7 +146,7 @@ Console.WriteLine(json);
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-10、[reddit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/reddit/reddit)：[reddit.com](https://www.reddit.com/) 网站的源码，通过这个项目，可以学习 Python 在构建大型项目中的使用、项目结构、代码风格、Python 技巧的使用方法等。[安装教程](https://github.com/reddit/reddit/wiki/Install-guide)
+10、[reddit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/reddit-archive/reddit)：[reddit.com](https://www.reddit.com/) 网站的源码，通过这个项目，可以学习 Python 在构建大型项目中的使用、项目结构、代码风格、Python 技巧的使用方法等。[安装教程](https://github.com/reddit/reddit/wiki/Install-guide)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/08/img/reddit-show-min.jpg' style="max-width:80%; max-height=80%;"></img></p>
@@ -213,9 +215,9 @@ finally:
 
 15、[jstraining](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ruanyf/jstraining)：阮一峰写的全栈工程师培训材料
 
-16、[PTVS](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Microsoft/PTVS)：Visual Studio 下的 Python 开发插件
+16、[PTVS](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/PTVS)：Visual Studio 下的 Python 开发插件
 
-17、[the-swift-programming-language-in-chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/numbbbbb/the-swift-programming-language-in-chinese)：中文版 Apple 官方 Swift 教程《The Swift Programming Language》
+17、[the-swift-programming-language-in-chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)：中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 
 18、[styleguide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fex-team/styleguide)：百度前端研发团队的文档与源码编写风格
 
@@ -226,12 +228,12 @@ finally:
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/07/HelloGitHub07.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/09/HelloGitHub09.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/07/HelloGitHub07.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/09/HelloGitHub09.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

@@ -30,23 +30,25 @@
 - [开源书籍](#开源书籍)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C++ 项目
-1、[Snake](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/stevennl/Snake)：贪吃蛇游戏 AI 版，通过算法实现让小蛇通过吃豆，最后蛇的身体填满整个地图算结束。该项目详细描述实现思想以及相关算法的讨论
+1、[snake](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chuyangliu/snake)：贪吃蛇游戏 AI 版，通过算法实现让小蛇通过吃豆，最后蛇的身体填满整个地图算结束。该项目详细描述实现思想以及相关算法的讨论
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/snake.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### CSS 项目
-2、[MDUI](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zdhxiong/mdui)：MDUI 是一套用于开发 Material Design 网页的响应式前端框架。没有任何依赖，支持主题切换，轻量级，低学习成本，[文档](https://www.mdui.org/docs)
+2、[mdui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zdhxiong/mdui)：MDUI 是一套用于开发 Material Design 网页的响应式前端框架。没有任何依赖，支持主题切换，轻量级，低学习成本，[文档](https://www.mdui.org/docs)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/mdui-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -156,7 +158,7 @@ def test():
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/spacevim-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-21、[english-level-up-tips-for-Chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/byoungd/english-level-up-tips-for-Chinese)：如何提高英语技能
+21、[English-level-up-tips-for-Chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/byoungd/English-level-up-tips-for-Chinese)：如何提高英语技能
 
 22、[ch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xnum/ch)：类似 virtualenv，可以在 Linux 下建立虛拟的 home 目录並切换，以管理不同工作或项目的文件
 
@@ -177,12 +179,12 @@ def test():
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/14/HelloGitHub14.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/16/HelloGitHub16.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/14/HelloGitHub14.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/16/HelloGitHub16.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 

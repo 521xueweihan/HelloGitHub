@@ -31,13 +31,15 @@
 - [机器学习](#机器学习)
 
 
+**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C# 项目
 1、[csredis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/2881099/csredis)：Redis.io 官方推荐的 C# 语言 redis 客户端库，支持 redis 2.8-5.0 版本的所有命令，且包含哨兵、集群等功能。该项目从 2016 年开始持续迭代更新，实现了低门槛、高性能和分区等高级玩法。该项目作者：[2881099](https://github.com/2881099)，在 GitHub 上开源了很多有趣、实用的 C# 项目。欢迎大家关注他，同时参与到他的项目中，为开源社区贡献自己的一份力量。示例代码：
@@ -250,7 +252,7 @@ RestClient.post( url,
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
-21、[AppearancesSwitcher](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/GMWorkStudio/AppearancesSwitcher)：可以在 macOS 通知中心上快速切换“亮/暗”主题的小工具
+21、[AppearancesSwitcher](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dapenti/AppearancesSwitcher)：可以在 macOS 通知中心上快速切换“亮/暗”主题的小工具
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/AppearancesSwitcher.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -284,12 +286,12 @@ RestClient.post( url,
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/40/HelloGitHub40.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/40/HelloGitHub40.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/42/HelloGitHub42.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
+    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
     <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
 </p>
 
