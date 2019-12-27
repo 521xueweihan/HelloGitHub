@@ -32,7 +32,7 @@
 **Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
 
 <p align="center">
-  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号
 </p>
 
@@ -191,7 +191,7 @@ print(", ".join(seg_list))
 
 21、[android-training-course-in-chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kesenhoo/android-training-course-in-chinese)：Android 官方培训课程中文版，[在线阅读](http://hukai.me/android-training-course-in-chinese/index.html)
 
-22、[go-advices](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cristaloleg/go-advices)：Go 建议[中文版](https://github.com/cristaloleg/go-advices/blob/master/README_ZH.md)
+22、[go-advice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cristaloleg/go-advice)：Go 建议[中文版](https://github.com/cristaloleg/go-advices/blob/master/README_ZH.md)
 
 23、[git-flight-rules](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/k88hudson/git-flight-rules)：Git 飞行规则，所谓飞行规则就是特定场景的非常详细的标准处理流程。该项目记录了使用 Git 过程中，如果遇到问题的解决办法和步骤，[中文](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
 

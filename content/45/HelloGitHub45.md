@@ -35,7 +35,7 @@
 **Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
 
 <p align="center">
-  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号
 </p>
 
@@ -270,11 +270,11 @@ export default function Demo() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/img/rc-bullets.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-20、[react-loading](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sixiaodong123/react-loading)：一款轻量、开箱即用的加载动画 React 组件库。示例代码：
+20、[react-loading](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sixiaodong123/react-loading)：一款轻量、开箱即用并且支持按需加载的 React 动画组件库。示例代码：
 ```javascript
 import React from 'react';
 import { DisappearedLoading } from 'react-loadingg';
-const Container = () => <DisappearedLoading />;
+const Container = () => <DisappearedLoading ></DisappearedLoading>;
 export default Container;  
 ```
 

@@ -33,7 +33,7 @@
 **Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
 
 <p align="center">
-  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号
 </p>
 
@@ -46,7 +46,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C# 项目
-2、[Dopamine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/digimezzo/Dopamine)：基于WPF编写的现代扁平风格轻量级播放器
+2、[dopamine-windows](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/digimezzo/dopamine-windows)：基于WPF编写的现代扁平风格轻量级播放器
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/Dopamine-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
