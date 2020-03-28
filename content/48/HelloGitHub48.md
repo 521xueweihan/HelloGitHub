@@ -95,7 +95,7 @@ myscan -p 21,22,23,80,443,8080 -t 256 192.168.1.1 192.168.1.254
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-7、[gops](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/gops)：展示当前系统运行了那些 Go 程序的工具，同时支持深入分析的参数
+7、[gops](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/gops)：展示当前系统运行了哪些 Go 程序的工具，同时支持深入分析的参数
 ```
 # 展示当前运行的所有 Go 程序
 $ gops
