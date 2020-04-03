@@ -21,7 +21,8 @@ The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/con
 
 | :squirrel: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [NO.44](/content/44/HelloGitHub44.md) | [NO.43](/content/43/HelloGitHub43.md) | [NO.42](/content/42/HelloGitHub42.md) | [NO.41](/content/41/HelloGitHub41.md) |
+| [NO.48](/content/48/HelloGitHub48.md) | [NO.47](/content/47/HelloGitHub47.md) | [NO.46](/content/46/HelloGitHub46.md) |
+| [NO.45](/content/45/HelloGitHub45.md) | [NO.44](/content/44/HelloGitHub44.md) | [NO.43](/content/43/HelloGitHub43.md) | [NO.42](/content/42/HelloGitHub42.md) | [NO.41](/content/41/HelloGitHub41.md) |
 | [NO.40](/content/40/HelloGitHub40.md) | [NO.39](/content/39/HelloGitHub39.md) | [NO.38](/content/38/HelloGitHub38.md) | [NO.37](/content/37/HelloGitHub37.md) | [NO.36](/content/36/HelloGitHub36.md) |
 | [NO.35](/content/35/HelloGitHub35.md) | [NO.34](/content/34/HelloGitHub34.md) | [NO.33](/content/33/HelloGitHub33.md) | [NO.32](/content/32/HelloGitHub32.md) | [NO.31](/content/31/HelloGitHub31.md) |
 | [NO.30](/content/30/HelloGitHub30.md) | [NO.29](/content/29/HelloGitHub29.md) | [NO.28](/content/28/HelloGitHub28.md) | [NO.27](/content/27/HelloGitHub27.md) | [NO.26](/content/26/HelloGitHub26.md) |
@@ -44,47 +45,9 @@ The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/con
         </a><br>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://github.com/ming995">
-          <img src="https://avatars0.githubusercontent.com/u/46031112?s=50&v=4" style="width: 50px;"><br>
-          <sub>糖醋里脊</sub>
-        </a><br>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/FrontMage">
-          <img src="https://avatars0.githubusercontent.com/u/17007026?s=50&v=4" style="width: 50px;"><br>
-          <sub>FrontMage</sub>
-        </a><br>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/xibinyue">
-          <img src="https://avatars0.githubusercontent.com/u/14122146?s=50&v=4" style="width: 50px;"><br>
-          <sub>xibinyue</sub>
-        </a><br>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/Eurus-Holmes">
-          <img src="https://avatars3.githubusercontent.com/u/34226570?s=50&v=4" style="width: 50px;"><br>
-          <sub>Feiyang Chen</sub>
-        </a><br>
-      </th>
-    </tr>
-    <tr>
-      <th align="center" style="width: 80px;">
         <a href="https://github.com/ChungZH">
           <img src="https://avatars1.githubusercontent.com/u/42088872?s=50&v=4" style="width: 50px;"><br>
           <sub>ChungZH</sub>
-        </a><br>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/daixiang0">
-          <img src="https://avatars3.githubusercontent.com/u/26538619?s=50&v=4" style="width: 50px;"><br>
-          <sub>daixiang0</sub>
-        </a><br>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/nivance">
-          <img src="https://avatars3.githubusercontent.com/u/3291404?s=50&v=4" style="width: 50px;"><br>
-          <sub>nivance</sub>
         </a><br>
       </th>
       <th align="center" style="width: 80px;">
@@ -94,9 +57,15 @@ The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/con
         </a><br>
       </th>
       <th align="center" style="width: 80px;">
+        <a href="https://github.com/QingZ11">
+          <img src="https://avatars2.githubusercontent.com/u/38887077?s=50&v=4" style="width: 50px;"><br>
+          <sub>清蒸</sub>
+        </a><br>
+      </th>
+      <th align="center" style="width: 80px;">
         <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md">
           <img src="https://avatars1.githubusercontent.com/u/17665302?s=50&v=4" style="width: 50px;"><br>
-          <sub>More</sub>
+          <sub>更多贡献者</sub>
         </a><br>
       </th>
     </tr>
@@ -109,20 +78,6 @@ Welcome the cooperation :octocat: of open source organizations [Contact us](Mail
 <table>
   <thead>
     <tr>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/FGDBTKD">
-          <img src="https://avatars3.githubusercontent.com/u/40509403?s=50&v=4" style="width: 50px;"><br>
-          <sub>FGDBTKD</sub><br>
-          <sub>AI/ML/DL/NLP</sub>
-        </a><br>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/d2-projects">
-          <img src="https://avatars3.githubusercontent.com/u/40857578?s=50&v=4" style="width: 50px;"><br>
-          <sub>D2 Projects</sub><br>
-          <sub>Vue/JavaScript</sub>
-        </a><br>
-      </th>
       <th align="center" style="width: 80px;">
         <a href="https://github.com/doocs">
           <img src="https://avatars1.githubusercontent.com/u/43716716?s=50&v=4" style="width: 50px;"><br>
