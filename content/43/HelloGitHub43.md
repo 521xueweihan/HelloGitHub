@@ -245,7 +245,7 @@ ReactDOM.render(<BarChart />, document.getElementById('root'));
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-19、[TagUI-Python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tebelorg/TagUI-Python)：一个 Python 自动化操作的库。比如：自动打开网页并截图，示例代码：
+19、[RPA-Python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tebelorg/RPA-Python)：一个 Python 自动化操作的库。比如：自动打开网页并截图，示例代码：
 ```python
 t.init()
 t.url('https://www.google.com')
@@ -266,7 +266,7 @@ t.close()
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
-21、[Percent](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/Percent)：让 Swift 语言支持百分比类型，消除精度缺失的烦恼。示例代码：
+21、[Percentage](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/Percentage)：让 Swift 语言支持百分比类型，消除精度缺失的烦恼。示例代码：
 ```swift
 import Percent
 

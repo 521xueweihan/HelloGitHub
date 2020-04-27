@@ -257,7 +257,7 @@ python3 src/interactive_conditional_samples.py --top_k 40
 
 28、[deep-learning-drizzle](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kmario23/deep-learning-drizzle)：世界计算机名校的深度学习、强化学习、机器学习、计算机视觉、自然语言处理等方面的公开课
 
-29、[stanfordnlp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/stanfordnlp/stanfordnlp)：适用于多种人类语言的 Stanford NLP 官方 Python 库。包含用于运行 CoNLL 2018 共享任务的最新完全神经管道以及访问 Java Stanford CoreNLP 服务器的软件包。实例代码：
+29、[stanza](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/stanfordnlp/stanza)：适用于多种人类语言的 Stanford NLP 官方 Python 库。包含用于运行 CoNLL 2018 共享任务的最新完全神经管道以及访问 Java Stanford CoreNLP 服务器的软件包。实例代码：
 ```python
 import stanfordnlp
 stanfordnlp.download('en')   # This downloads the English models for the neural pipeline

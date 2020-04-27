@@ -139,7 +139,7 @@ print ifconfig("eth0")
 
 19、[python-data-structure-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facert/python-data-structure-cn)：《Problem Solving with Algorithms and Data Structures using Python》中文版
 
-20、[docker_practice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yeasy/docker_practice)：Dokcer 从入门到实践
+20、[docker_practice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yeasy/docker_practice)：Docker 从入门到实践
 
 21、[explore-flask-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spacewander/explore-flask-zh)：[《explore flask》中文翻译](https://spacewander.github.io/explore-flask-zh/index.html)
 

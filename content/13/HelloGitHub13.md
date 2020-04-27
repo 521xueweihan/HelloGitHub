@@ -81,7 +81,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-9、[js-stack-from-scratch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pd4d10/js-stack-from-scratch)：从零开始构建 JavaScript 技术栈（中文版）
+9、[js-stack-from-scratch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xitu/js-stack-from-scratch)：从零开始构建 JavaScript 技术栈（中文版）
 
 10、[element](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ElemeFE/element)：一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的组件库，提供了配套设计资源，帮助你的网站快速成型。[官网](http://element.eleme.io/#/zh-CN)
 

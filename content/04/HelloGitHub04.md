@@ -48,7 +48,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/img/zingtouch-show.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-3、[zhihudaily-vue](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yatessss/zhihudaily-vue)：用 Vue.js 写的知乎日报手机 Web 版，[展示](http://zhihudaily-vue.yatessss.com/)，需打开 chrome 浏览器的手机模拟功能，来获得比较好的浏览效果。访问展示图如下：
+3、[zhihudaily-vue](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yatessss/zhihudaily-vue)：用 Vue.js 写的知乎日报手机 Web 版，需打开 chrome 浏览器的手机模拟功能，来获得比较好的浏览效果。访问展示图如下：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/img/zhihu-vue-min.png' style="max-width:80%; max-height=80%;"></img></p>

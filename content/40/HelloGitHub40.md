@@ -72,7 +72,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-6、[nps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cnlh/nps)：一款功能强大、轻量级的内网穿透代理服务器。支持 TCP 和 UDP 流量转发、支持内网 HTTP 代理、内网 socks5 代理、snappy 压缩、站点保护、加密传输、多路复用等功能。拥有 web 图形化管理，集成多用户模式。可以自搭建内网穿透代理服务，用来替代付费的内网穿透服务。又不像其他类似项目依赖命令行，它有图形页面。安装：
+6、[nps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ehang-io/nps)：一款功能强大、轻量级的内网穿透代理服务器。支持 TCP 和 UDP 流量转发、支持内网 HTTP 代理、内网 socks5 代理、snappy 压缩、站点保护、加密传输、多路复用等功能。拥有 web 图形化管理，集成多用户模式。可以自搭建内网穿透代理服务，用来替代付费的内网穿透服务。又不像其他类似项目依赖命令行，它有图形页面。安装：
 ```
 go get -u github.com/cnlh/nps
 go build cmd/nps/nps.go # 服务端程序
@@ -258,7 +258,7 @@ $ rubocop
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-36、[TabNine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zxqfl/TabNine)：基于 OpenAI 的语言模型的代码补全工具。支持 23 种编程语言、5 种编辑器（VS Code、Sublime Text、Atom、Emacs、Vim）、使用简单，效果惊艳
+36、[TabNine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/codota/TabNine)：基于 OpenAI 的语言模型的代码补全工具。支持 23 种编程语言、5 种编辑器（VS Code、Sublime Text、Atom、Emacs、Vim）、使用简单，效果惊艳
 
 37、[hub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pytorch/hub)：一个包含计算机视觉、自然语言处理领域的诸多经典模型的聚合中心。这年头有很多 Hub，什么 GitHub、SciHub、xxxxHub 等等，但是最近图灵奖得主 Yann LeCun 强推的 PyTorch-Hub。无论是 ResNet、BERT、GPT、VGG、PGAN 还是 MobileNet 等经典模型，只需输入一行代码，都能实现一键调用！妈妈再也不用担心你的模型啦！示例代码：
 ```

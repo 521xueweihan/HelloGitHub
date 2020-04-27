@@ -97,7 +97,7 @@ foo(
 );
 ```
 
-8、[node-fetch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bitinn/node-fetch)：将 fetch 引入了 node 环境，配合了 node 强大的 http 模块。做到了在不同的 JS 环境中使用一致的API。fetch API 是代替 XMLHttpRequest 的一种全新的解决方案，其简化了 XHR 的复杂步骤，采用了 Promise。示例代码如下：
+8、[node-fetch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/node-fetch/node-fetch)：将 fetch 引入了 node 环境，配合了 node 强大的 http 模块。做到了在不同的 JS 环境中使用一致的API。fetch API 是代替 XMLHttpRequest 的一种全新的解决方案，其简化了 XHR 的复杂步骤，采用了 Promise。示例代码如下：
 ```javascript
 fetch('/url').then(res => {}).catch(err => {})
 ```

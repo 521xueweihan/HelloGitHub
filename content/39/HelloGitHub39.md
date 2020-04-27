@@ -45,7 +45,7 @@
 > **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C# 项目
-1、[FreeSql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/2881099/FreeSql)：一个功能强大的 C# 对象关系映射程序（ORM），支持 .NETCore 2.1+、.NETFramework 4.5+ 开发模式下，开箱即用，可繁可简的使用方式。支持 CodeFirst 迁移、丰富的表达式函数、支持多种数据库、大量采用 ExpressionTree 技术提升性能等功能。示例代码：
+1、[FreeSql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dotnetcore/FreeSql)：一个功能强大的 C# 对象关系映射程序（ORM），支持 .NETCore 2.1+、.NETFramework 4.5+ 开发模式下，开箱即用，可繁可简的使用方式。支持 CodeFirst 迁移、丰富的表达式函数、支持多种数据库、大量采用 ExpressionTree 技术提升性能等功能。示例代码：
 ```csharp
 var t0 = fsql.Select<Tag>()
     .Where(a => a.Parent.Parent.Name == "粤语")

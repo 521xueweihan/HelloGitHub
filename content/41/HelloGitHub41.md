@@ -252,7 +252,7 @@ RestClient.post( url,
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
-21、[AppearancesSwitcher](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dapenti/AppearancesSwitcher)：可以在 macOS 通知中心上快速切换“亮/暗”主题的小工具
+21、[AppearancesSwitcher](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BoringApp/AppearancesSwitcher)：可以在 macOS 通知中心上快速切换“亮/暗”主题的小工具
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/AppearancesSwitcher.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -273,7 +273,7 @@ RestClient.post( url,
 ### 机器学习
 25、[numpy-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/teadocs/numpy-cn)：这是 NumPy 中文翻译文档。适合任何想了解学习 NumPy 的人，还可以当作手册查阅。如果你是新手朋友，推荐阅读基础文章中的：理解 Numpy、NumPy 简单入门教程、创建 Numpy 数组的不同方式，参考文章里会不定期更新国内外优秀的 Numpy 相关的内容。如果你想徒手实现神经网络可以参看 NumPy 与 神经网络、 NumPy 实现 DNC、RNN 和 LSTM 神经网络算法
 
-26、[Awesome_Multimodal_Research](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Eurus-Holmes/Awesome_Multimodal_Research)：该项目是收录多模态相关研究的一个精选列表，正在持续更新中。现实世界中的信息通常以不同的模态出现。例如，图像通常与标签和文本解释联系在一起；文本包含图像以便更清楚地表达文章的主要思想。不同的模态由迥异的统计特性刻画。例如，图像通常表示为特征提取器的像素强度或输出，而文本则表示为离散的词向量。由于不同信息资源的统计特性不同，发现不同模态之间的关系是非常重要的
+26、[Awesome-Multimodal-Research](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)：该项目是收录多模态相关研究的一个精选列表，正在持续更新中。现实世界中的信息通常以不同的模态出现。例如，图像通常与标签和文本解释联系在一起；文本包含图像以便更清楚地表达文章的主要思想。不同的模态由迥异的统计特性刻画。例如，图像通常表示为特征提取器的像素强度或输出，而文本则表示为离散的词向量。由于不同信息资源的统计特性不同，发现不同模态之间的关系是非常重要的
 
 27、[rasa](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RasaHQ/rasa)：一个专门为了多轮人机对话而生的框架。主要包含 Rasa Core、Rasa NLU 两大模块，提供了对话场景、意图理解、实体抽取等功能。用户只需按照平台的语料格式构建自己的语料，便可以方便的进行意图理解和实体抽取的训练。目前使用 Rasa 平台的用户也逐渐多了起来，除了官方文档网上也容易的找到相关的项目，便于学习和上手
 

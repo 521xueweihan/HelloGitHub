@@ -60,7 +60,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-5、[statping](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hunterlong/statping)：一个 Go 编写的服务状态展示页项目。通过该项目可以快速搭建起一个展示服务可用状态、服务质量的页面
+5、[statping](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/statping/statping)：一个 Go 编写的服务状态展示页项目。通过该项目可以快速搭建起一个展示服务可用状态、服务质量的页面
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/statping.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -322,7 +322,7 @@ print(text)
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/45/HelloGitHub45.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/45/HelloGitHub45.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/47/HelloGitHub47.md">『下一期』</a>
 </p>
 
 ---

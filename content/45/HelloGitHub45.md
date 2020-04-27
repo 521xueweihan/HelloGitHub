@@ -157,7 +157,7 @@ func main() {
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-13、[SnowJena](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yueshutong/SnowJena)：基于令牌桶算法实现的分布式无锁限流框架。简单易用的 API，开箱即用、支持熔断降级、动态配置规则、可视化监控等功能。示例代码：
+13、[SnowJena](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ystcode/SnowJena)：基于令牌桶算法实现的分布式无锁限流框架。简单易用的 API，开箱即用、支持熔断降级、动态配置规则、可视化监控等功能。示例代码：
 ```java
 public class AppTest {
     Logger logger = LoggerFactory.getLogger(getClass());
@@ -207,7 +207,7 @@ public class AppTest {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/img/react-text-loop.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[uform](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/uform)：一款面向企业级复杂场景的高性能表单解决方案。特性：
+18、[formily](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/formily)：一款面向企业级复杂场景的高性能表单解决方案。特性：
 - 🚀 高性能，字段分布式渲染，大大减轻 React 渲染压力
 - 💡 支持 Ant Design/Fusion Next 组件体系
 - 🎨 JSX 标签化写法/JSON Schema 数据驱动方案无缝迁移过渡
@@ -373,7 +373,7 @@ window.close()
 ### 其它
 27、[clean-code-javascript](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ryanmcdermott/clean-code-javascript)：《Clean Code JavaScript》（JavaScript 代码整洁之道），这是根据《代码整洁之道》作者多年经验整理的 JS 代码优化建议，但也仅仅只是一份建议。[中文](https://github.com/alivebao/clean-code-js)
 
-28、[wenyan-lang](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LingDong-/wenyan-lang)：文言文编程语言。文言文语法，可以编译成 JavaScript、Python 或者 Ruby，你见过用文言文编写程序吗？快来试试吧。[在线尝试](http://wenyan-lang.lingdong.works/ide.html)
+28、[wenyan](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wenyan-lang/wenyan)：文言文编程语言。文言文语法，可以编译成 JavaScript、Python 或者 Ruby，你见过用文言文编写程序吗？快来试试吧。[在线尝试](http://wenyan-lang.lingdong.works/ide.html)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/img/wenyan-lang.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -435,7 +435,7 @@ face_landmarks_list = face_recognition.face_landmarks(image)
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/44/HelloGitHub44.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/44/HelloGitHub44.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/46/HelloGitHub46.md">『下一期』</a>
 </p>
 
 ---

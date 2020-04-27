@@ -45,7 +45,7 @@
 > **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C# 项目
-1、[lite](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lite-works/lite)：一个专注于简单的开源跨平台编程语言。这门语言的设计目标是改进阅读与编写效率，降低语法负担。让使用者能够把真正的注意力放在解决问题上，只需极少的代码就能优雅地表达逻辑。[中文手册](https://github.com/kulics/xs/blob/master/book-zh/introduction.md)，示例代码如下：
+1、[k](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kulics-works/k)：一个专注于简单的开源跨平台编程语言。这门语言的设计目标是改进阅读与编写效率，降低语法负担。让使用者能够把真正的注意力放在解决问题上，只需极少的代码就能优雅地表达逻辑。[中文手册](https://github.com/kulics/xs/blob/master/book-zh/introduction.md)，示例代码如下：
 ```
 # export namespace
 \HelloWorld {

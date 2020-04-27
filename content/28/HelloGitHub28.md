@@ -90,7 +90,7 @@ int main(){
 
 6、[go-cloud](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/go-cloud)：还在为兼容不同的云平台 SDK 而烦恼吗？go-cloud 通过封装不同云平台的接口，向用户提供统一的 API。例如：阿里云和腾讯云的存储桶 API 不一样，但是通过 go-cloud 的封装，可以使用统一的 API 调用
 
-7、[night-reading-go](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/developer-learning/night-reading-go)：Go 夜读，该项目每周四晚上更新 Go 源码阅读以及线下技术讨论。难得的中文 Golang 源码解析，包含文档和YouTube 视频，干货满满
+7、[night](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/talk-go/night)：Go 夜读，该项目每周四晚上更新 Go 源码阅读以及线下技术讨论。难得的中文 Golang 源码解析，包含文档和YouTube 视频，干货满满
 
 8、[xinge-api-Golang](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xingePush/xinge-api-Golang)：腾讯信鸽 push v3 版的 Golang SDK。支持函数式配置项、标签推送、全平台推送、批量推送等
 
