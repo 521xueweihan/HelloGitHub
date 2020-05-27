@@ -21,7 +21,7 @@ The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/con
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [NO.49](/content/49/HelloGitHub49.md) | [NO.48](/content/48/HelloGitHub48.md) | [NO.47](/content/47/HelloGitHub47.md) | [NO.46](/content/46/HelloGitHub46.md) |
+| [NO.50](/content/50/HelloGitHub50.md) | [NO.49](/content/49/HelloGitHub49.md) | [NO.48](/content/48/HelloGitHub48.md) | [NO.47](/content/47/HelloGitHub47.md) | [NO.46](/content/46/HelloGitHub46.md) |
 | [NO.45](/content/45/HelloGitHub45.md) | [NO.44](/content/44/HelloGitHub44.md) | [NO.43](/content/43/HelloGitHub43.md) | [NO.42](/content/42/HelloGitHub42.md) | [NO.41](/content/41/HelloGitHub41.md) |
 | [NO.40](/content/40/HelloGitHub40.md) | [NO.39](/content/39/HelloGitHub39.md) | [NO.38](/content/38/HelloGitHub38.md) | [NO.37](/content/37/HelloGitHub37.md) | [NO.36](/content/36/HelloGitHub36.md) |
 | [NO.35](/content/35/HelloGitHub35.md) | [NO.34](/content/34/HelloGitHub34.md) | [NO.33](/content/33/HelloGitHub33.md) | [NO.32](/content/32/HelloGitHub32.md) | [NO.31](/content/31/HelloGitHub31.md) |
@@ -33,17 +33,34 @@ The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/con
 | [NO.05](/content/05/HelloGitHub05.md) | [NO.04](/content/04/HelloGitHub04.md) | [NO.03](/content/03/HelloGitHub03.md) | [NO.02](/content/02/HelloGitHub02.md) | [NO.01](/content/01/HelloGitHub01.md) |
 
 
+## Sponsor
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" style="width: 80px;">
+        <a href="https://www.nowcoder.com?from=hellogithub">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/nowcoder.jpg" width="50px"><br>
+          <sub>牛客网</sub><br>
+          <sub>IT 面试/笔试题库</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://www.ucloud.cn/site/active/1111.html?ytag=re5y49">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/ucloud.png" width="50px"><br>
+          <sub>UCloud</sub><br>
+          <sub>88 元/年云主机</sub>
+        </a>
+      </th>
+    </tr>
+  </thead>
+</table>
+
 ## Contributors
 
 <table>
   <tbody>
     <tr>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/521xueweihan">
-          <img src="https://avatars2.githubusercontent.com/u/8255800?s=50&v=4" style="width: 50px;"><br>
-          <sub>削微寒</sub>
-        </a><br>
-      </th>
       <th align="center" style="width: 80px;">
         <a href="https://github.com/ChungZH">
           <img src="https://avatars1.githubusercontent.com/u/42088872?s=50&v=4" style="width: 50px;"><br>
@@ -70,21 +87,6 @@ The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/con
       </th>
     </tr>
   </tbody>
-</table>
-
-## Sponsor
-
-<table>
-  <thead>
-      <th align="center" style="width: 80px;">
-        <a href="https://www.nowcoder.com?from=hellogithub">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/nowcoder.jpg" width="50px"><br>
-          <sub>牛客网</sub><br>
-          <sub>IT 面试/笔试题库</sub>
-        </a><br>
-      </th>
-    </tr>
-  </thead>
 </table>
 
 

@@ -74,7 +74,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/ptt-daily-beauty.png' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[q](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/y0ssar1an/q)：Golang debug 库，自动打印变量类型并且格式化输出
+6、[q](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ryboe/q)：Golang debug 库，自动打印变量类型并且格式化输出
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/q.png' style="max-width:80%; max-height=80%;"></img></p>
 

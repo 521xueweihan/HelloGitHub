@@ -217,7 +217,7 @@ let _ = "19 Nov 2015 22:20:40 +0100".toRSS(alt: true)
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/48/HelloGitHub48.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/48/HelloGitHub48.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/50/HelloGitHub50.md">『下一期』</a>
 </p>
 
 ---

@@ -25,7 +25,7 @@
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [第 49 期](/content/49/HelloGitHub49.md) | [第 48 期](/content/48/HelloGitHub48.md) | [第 47 期](/content/47/HelloGitHub47.md) | [第 46 期](/content/46/HelloGitHub46.md) |
+| [第 50 期](/content/50/HelloGitHub50.md) | [第 49 期](/content/49/HelloGitHub49.md) | [第 48 期](/content/48/HelloGitHub48.md) | [第 47 期](/content/47/HelloGitHub47.md) | [第 46 期](/content/46/HelloGitHub46.md) |
 | [第 45 期](/content/45/HelloGitHub45.md) | [第 44 期](/content/44/HelloGitHub44.md) | [第 43 期](/content/43/HelloGitHub43.md) | [第 42 期](/content/42/HelloGitHub42.md) | [第 41 期](/content/41/HelloGitHub41.md) |
 | [第 40 期](/content/40/HelloGitHub40.md) | [第 39 期](/content/39/HelloGitHub39.md) | [第 38 期](/content/38/HelloGitHub38.md) | [第 37 期](/content/37/HelloGitHub37.md) | [第 36 期](/content/36/HelloGitHub36.md) |
 | [第 35 期](/content/35/HelloGitHub35.md) | [第 34 期](/content/34/HelloGitHub34.md) | [第 33 期](/content/33/HelloGitHub33.md) | [第 32 期](/content/32/HelloGitHub32.md) | [第 31 期](/content/31/HelloGitHub31.md) |
@@ -38,16 +38,35 @@
 
 欢迎[推荐或自荐项目](https://github.com/521xueweihan/HelloGitHub/issues/new)成为 **HelloGitHub** 的[贡献者](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md) 
 
+
+## 赞助
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" style="width: 80px;">
+        <a href="https://www.nowcoder.com?from=hellogithub">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/nowcoder.jpg" width="50px"><br>
+          <sub>牛客网</sub><br>
+          <sub>IT 面试/笔试题库</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://www.ucloud.cn/site/active/1111.html?ytag=re5y49">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/ucloud.png" width="50px"><br>
+          <sub>UCloud</sub><br>
+          <sub>88 元/年云主机</sub>
+        </a>
+      </th>
+    </tr>
+  </thead>
+</table>
+
+
 ## 贡献者
 <table>
   <tbody>
     <tr>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/521xueweihan">
-          <img src="https://avatars2.githubusercontent.com/u/8255800?s=50&v=4" style="width: 50px;"><br>
-          <sub>削微寒</sub>
-        </a><br>
-      </th>
       <th align="center" style="width: 80px;">
         <a href="https://github.com/ChungZH">
           <img src="https://avatars1.githubusercontent.com/u/42088872?s=50&v=4" style="width: 50px;"><br>
@@ -76,22 +95,6 @@
   </tbody>
 </table>
 
-
-## 赞助
-
-<table>
-  <thead>
-      <th align="center" style="width: 80px;">
-        <a href="https://www.nowcoder.com?from=hellogithub">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/nowcoder.jpg" width="50px"><br>
-          <sub>牛客网</sub><br>
-          <sub>IT 面试/笔试题库</sub>
-        </a><br>
-      </th>
-    </tr>
-  </thead>
-</table>
-                    
 ## 声明
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。
 
