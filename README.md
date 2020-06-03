@@ -52,7 +52,7 @@
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/1111.html?ytag=re5y49">
+        <a href="https://www.ucloud.cn/site/active/1111.html?invitation_code=C1xF2ECA89A2592">
           <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/ucloud.png" width="50px"><br>
           <sub>UCloud</sub><br>
           <sub>88 元/年云主机</sub>
@@ -77,12 +77,6 @@
         <a href="https://github.com/hellowHuaairen">
           <img src="https://avatars2.githubusercontent.com/u/19610305?s=50&v=4" style="width: 50px;"><br>
           <sub>hellowHuaairen</sub>
-        </a><br>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/QingZ11">
-          <img src="https://avatars2.githubusercontent.com/u/38887077?s=50&v=4" style="width: 50px;"><br>
-          <sub>清蒸</sub>
         </a><br>
       </th>
       <th align="center" style="width: 80px;">

@@ -231,7 +231,7 @@ pprint(result, indent=2)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/fd.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[rayon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rayon-rs/rayon)：一个易用、无数据竞争的将顺序迭代器妆化成并行迭代器。简单说就是原本你的数组只能一个一个地遍历，使用这个库可以并发同时从几个 index 开始遍历，同时也能遍历 map 等类似的数据结构
+18、[rayon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rayon-rs/rayon)：一个易用、无数据竞争的将顺序迭代器转化成并行迭代器。简单说就是原本你的数组只能一个一个地遍历，使用这个库可以并发同时从几个 index 开始遍历，同时也能遍历 map 等类似的数据结构
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

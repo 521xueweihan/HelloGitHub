@@ -21,12 +21,6 @@
         </a><br>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://github.com/QingZ11">
-          <img src="https://avatars2.githubusercontent.com/u/38887077?s=50&v=4" style="width: 50px;"><br>
-          <sub>清蒸</sub>
-        </a><br>
-      </th>
-      <th align="center" style="width: 80px;">
         <a href="https://github.com/521xueweihan/HelloGitHub/issues/new">
           <img src="https://avatars2.githubusercontent.com/u/10628772?s=50&v=4" style="width: 50px;"><br>
           <sub>虚位以待</sub>

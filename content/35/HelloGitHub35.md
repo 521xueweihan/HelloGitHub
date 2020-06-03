@@ -135,7 +135,7 @@ $ bash halo-cli.sh -u
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/APIJSON.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-10、[IQL](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/teeyog/IQL)：基于 SparkSQL 实现了一套即席查询服务，具有如下特性：
+10、[IQL](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/teeyog/IQL)：基于 SparkSQL 实现了一套及时查询服务，具有如下特性：
 - 优雅的交互方式，支持多种 datasource/sink、多数据源混算
 - Spark 常驻服务，基于 zookeeper 的引擎自动发现
 - 多 session 模式实现并行查询
