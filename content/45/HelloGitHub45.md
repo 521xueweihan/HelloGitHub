@@ -270,7 +270,7 @@ export default function Demo() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/img/rc-bullets.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-20、[react-loading](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sixiaodong123/react-loading)：一款轻量、开箱即用并且支持按需加载的 React 动画组件库。示例代码：
+20、[react-loading](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Summer-andy/react-loading)：一款轻量、开箱即用并且支持按需加载的 React 动画组件库。示例代码：
 ```javascript
 import React from 'react';
 import { DisappearedLoading } from 'react-loadingg';

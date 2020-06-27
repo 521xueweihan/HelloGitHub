@@ -254,7 +254,7 @@ return ["nán", "jīng", "shì", "cháng", "jiāng", "dà", "qiáo"]
 ### 教程
 27、[advanced-java](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/doocs/advanced-java)：一份 Java 工程师进阶知识点集合，内容涵盖：高并发、分布式、高可用、微服务等领域知识。这些知识点不局限于 Java 语言，后端的同学也可以从中收获很多，[在线阅读](https://doocs.github.io/advanced-java)
 
-28、[Nodejs-Roadmap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Q-Angelo/Nodejs-Roadmap)：Node.js 技术栈学习指南。内容侧重于 Node.js 服务端，包含：Node.js 基础知识、Node.js 核心模块、主流框架实践、缓存、数据库、消息中间件、DevOps、HTTP 协议以及 Node.js 在微服务等，[在线阅读](https://www.nodejs.red/)
+28、[Nodejs-Roadmap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/qufei1993/Nodejs-Roadmap)：Node.js 技术栈学习指南。内容侧重于 Node.js 服务端，包含：Node.js 基础知识、Node.js 核心模块、主流框架实践、缓存、数据库、消息中间件、DevOps、HTTP 协议以及 Node.js 在微服务等，[在线阅读](https://www.nodejs.red/)
 
 29、[c9-python-getting-started](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/c9-python-getting-started)：微软出品的零基础 Python 入门教程，内容浅显易懂。包含示例代码、演示的 PPT、[配套的 Youtube 视频](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 

@@ -221,7 +221,7 @@ pyxel.run(update, draw)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/openpose.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[FaceDetection-DSFD](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TencentYoutuResearch/FaceDetection-DSFD)：腾讯优图的双分支人脸检测器全新算法，该算法已经被计算机视觉顶级会议 CVPR 2019 接收。优图此次提出的 DSFD 人脸检测算法，主要有 3 点创新：
+32、[FaceDetection-DSFD](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/FaceDetection-DSFD)：腾讯优图的双分支人脸检测器全新算法，该算法已经被计算机视觉顶级会议 CVPR 2019 接收。优图此次提出的 DSFD 人脸检测算法，主要有 3 点创新：
 1. 新的特征增强模块（FEM：Feature Enhance Module）
 2. 分层锚点渐进式的代价函数监督（PLA：Progressive Anchor Loss）
 3. 改进的锚点匹配策略（Improved Anchor Matching Strategy）
@@ -232,7 +232,7 @@ pyxel.run(update, draw)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/SPADE.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[ICCV2019-LearningToPaint](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hzwer/ICCV2019-LearningToPaint)：一个深度强化学习项目，研究如何让机器用画笔画画。也可体验制作自己的绘画或根据一张图片生成一整个绘画过程
+34、[ICCV2019-LearningToPaint](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/megvii-research/ICCV2019-LearningToPaint)：一个深度强化学习项目，研究如何让机器用画笔画画。也可体验制作自己的绘画或根据一张图片生成一整个绘画过程
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/LearningToPaint.gif' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -50,7 +50,7 @@
 ### C++ 项目
 2、[cpp-cheat-sheet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gibsjose/cpp-cheat-sheet)：能够帮你通过 Google 和 NASA 面试的 C++ 数据结构和算法的 cheat sheet（英文）
 
-3、[cpp-taskflow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cpp-taskflow/cpp-taskflow)：一个 C++ 头文件库，让你以简单的几行代码就可以实现高效的并发。示例代码如下：
+3、[taskflow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/taskflow/taskflow)：一个 C++ 头文件库，让你以简单的几行代码就可以实现高效的并发。示例代码如下：
 ```c++
 #include "taskflow.hpp"  // the only include you need
 

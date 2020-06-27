@@ -178,7 +178,7 @@ Flowable.just(photos)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/ncform.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-14、[vscode-leetcode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jdneo/vscode-leetcode)：这是一个可以让用户在 VS Code 编辑器中，练习 LeetCode 习题的插件。支持：查看高票解答、提交答案、测试答案等。提高了刷题效率，助你在校招、社招中杀出重围。上班摸鱼刷题利器
+14、[vscode-leetcode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LeetCode-OpenSource/vscode-leetcode)：这是一个可以让用户在 VS Code 编辑器中，练习 LeetCode 习题的插件。支持：查看高票解答、提交答案、测试答案等。提高了刷题效率，助你在校招、社招中杀出重围。上班摸鱼刷题利器
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/vscode-leetcode.gif' style="max-width:80%; max-height=80%;"></img></p>
 
