@@ -47,10 +47,10 @@ The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/con
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/1111.html?invitation_code=C1xF2ECA89A2592">
+        <a href="https://www.ucloud.cn/site/global.html?invitation_code=C1xF2ECA89A2592">
           <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/ucloud.png" width="50px"><br>
-          <sub>UCloud</sub><br>
-          <sub>88 元/年云主机</sub>
+          <sub>150 元/年</sub><br>
+          <sub>香港免备案云主机</sub>
         </a>
       </th>
     </tr>
