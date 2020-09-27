@@ -23,7 +23,7 @@ The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/con
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [NO.53](/content/53/HelloGitHub53.md) | [NO.52](/content/52/HelloGitHub52.md) | [NO.51](/content/51/HelloGitHub51.md) |
+| [NO.54](/content/54/HelloGitHub54.md) | [NO.53](/content/53/HelloGitHub53.md) | [NO.52](/content/52/HelloGitHub52.md) | [NO.51](/content/51/HelloGitHub51.md) |
 | [NO.50](/content/50/HelloGitHub50.md) | [NO.49](/content/49/HelloGitHub49.md) | [NO.48](/content/48/HelloGitHub48.md) | [NO.47](/content/47/HelloGitHub47.md) | [NO.46](/content/46/HelloGitHub46.md) |
 | [NO.45](/content/45/HelloGitHub45.md) | [NO.44](/content/44/HelloGitHub44.md) | [NO.43](/content/43/HelloGitHub43.md) | [NO.42](/content/42/HelloGitHub42.md) | [NO.41](/content/41/HelloGitHub41.md) |
 | [NO.40](/content/40/HelloGitHub40.md) | [NO.39](/content/39/HelloGitHub39.md) | [NO.38](/content/38/HelloGitHub38.md) | [NO.37](/content/37/HelloGitHub37.md) | [NO.36](/content/36/HelloGitHub36.md) |
@@ -48,17 +48,24 @@ The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/con
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/global.html?invitation_code=C1xF2ECA89A2592">
+        <a href="https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592">
           <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/ucloud.png" width="50px"><br>
-          <sub>150 元/年</sub><br>
-          <sub>香港免备案云主机</sub>
+          <sub>云主机</sub><br>
+          <sub>仅 62 元/年</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://www.upyun.com/">
+          <img src="https://gitee.com/xueweihan/img/raw/master/hellogithub/logo/upyun.png" width="50px"><br>
+          <sub>CDN</sub><br>
+          <sub>开启全网加速</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
         <a href="https://afdian.net/@HelloGitHub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/logo.png" width="50px"><br>
-          <sub>5 元/月</sub><br>
-          <sub>赞助下月刊吧~</sub>
+          <sub>赞助月刊</sub><br>
+          <sub>5 元/月</sub>
         </a>
       </th>
     </tr>

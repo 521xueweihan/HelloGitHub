@@ -32,7 +32,9 @@
 - [机器学习](#机器学习)
 
 
-**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+
+**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -61,7 +63,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
-4、[flameshot](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lupoDharkael/flameshot)：操作简单、功能强大的截图工具
+4、[flameshot](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/flameshot-org/flameshot)：操作简单、功能强大的截图工具
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/flameshot.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -88,7 +90,7 @@
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/LeetCode-Go.png' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[ginrpc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xxjwxc/ginrpc)：简化 go-gin 框架注册路由方式，自动生成 Swagger/Markdown 文档。示例代码：
-```
+```go
 type ReqTest struct {
 	UserName    string `json:"user_name" binding:"required"` // 带校验方式
 }
@@ -118,7 +120,7 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/D8gerAutoCode.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[java8-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/winterbe/java8-tutorial)：手把手教你 Java8 的语言特性。项目中还更新了 Java11 的
+12、[java8-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/winterbe/java8-tutorial)：手把手教你 Java8 的语言特性。项目中还更新了 Java11 的新特性
 
 13、[CalendarView](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huanghaibin-dev/CalendarView)：一个优雅强大的 Android 日历控件，支持周视图、自定义周起始等功能
 
@@ -129,7 +131,7 @@ func main() {
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-15、[remote-browser](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/intoli/remote-browser)：实现用 JavaScript 语言控制 Chrome 和 Firefox 浏览器的库。轻松实现自动化测试、抓取数据等功能
+15、[remote-browser](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/intoli/remote-browser)：实现用 JavaScript 语言控制 Chrome 和 Firefox 浏览器的库。可轻松实现自动化测试、抓取数据等功能
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/remote-browser.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -145,7 +147,7 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/star-history.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-19、[genal-chat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/genaller/genal-chat)：适合前端新手的‘星空’聊天室项目。采用 Vue + socket.io 结合 TypeScript 语法构建，界面炫酷、良好的代码规范、支持群聊和好友搜索等功能
+19、[genal-chat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/genaller/genal-chat)：适合前端新手学习的‘星空’聊天室项目。采用 Vue + socket.io 结合 TypeScript 语法构建，界面炫酷、良好的代码规范、支持群聊和好友搜索等功能
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/genal-chat.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -195,7 +197,7 @@ points & bars
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
-24、[lottie-ios](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/airbnb/lottie-ios)：Airbnb 开源的快速实现 APP 动画的三方库。还有 [Android](https://github.com/airbnb/lottie-android)、[React Native](https://github.com/react-native-community/lottie-react-native)、[Web](https://github.com/airbnb/lottie-web)、[Windows](https://github.com/windows-toolkit/Lottie-Windows)，动画效果如下：
+24、[lottie-ios](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/airbnb/lottie-ios)：Airbnb 开源的快速实现 APP 动画的三方库。还有支持 [Android](https://github.com/airbnb/lottie-android)、[React Native](https://github.com/react-native-community/lottie-react-native)、[Web](https://github.com/airbnb/lottie-web)、[Windows](https://github.com/windows-toolkit/Lottie-Windows) 等平台，动画效果如下：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/lottie-ios.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -220,7 +222,7 @@ points & bars
 
 30、[Algorithms-in-4-Steps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Xunzhuo/Algorithms-in-4-Steps)：系统性学习算法与数据结构的资料集合
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/Algorithms-in-4-Steps.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/Algorithms-in-4-Steps.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -254,8 +256,10 @@ points & bars
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    关注公众号：<strong>HelloGitHub</strong><br>
+    "第一时间收到推送及更多内容"<br>
+
 </p>
 
 

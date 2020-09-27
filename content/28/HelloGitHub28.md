@@ -30,7 +30,9 @@
 - [开源书籍](#开源书籍)
 
 
-**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+
+**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -90,7 +92,7 @@ int main(){
 
 6、[go-cloud](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/go-cloud)：还在为兼容不同的云平台 SDK 而烦恼吗？go-cloud 通过封装不同云平台的接口，向用户提供统一的 API。例如：阿里云和腾讯云的存储桶 API 不一样，但是通过 go-cloud 的封装，可以使用统一的 API 调用
 
-7、[night](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/talk-go/night)：Go 夜读，该项目每周四晚上更新 Go 源码阅读以及线下技术讨论。难得的中文 Golang 源码解析，包含文档和YouTube 视频，干货满满
+7、[night](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/talkgo/night)：Go 夜读，该项目每周四晚上更新 Go 源码阅读以及线下技术讨论。难得的中文 Golang 源码解析，包含文档和YouTube 视频，干货满满
 
 8、[xinge-api-Golang](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xingePush/xinge-api-Golang)：腾讯信鸽 push v3 版的 Golang SDK。支持函数式配置项、标签推送、全平台推送、批量推送等
 
@@ -220,8 +222,10 @@ graph.read(data);
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    关注公众号：<strong>HelloGitHub</strong><br>
+    "第一时间收到推送及更多内容"<br>
+
 </p>
 
 

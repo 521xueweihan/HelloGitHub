@@ -30,7 +30,9 @@
 - [开源书籍](#开源书籍)
 
 
-**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+
+**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -163,7 +165,7 @@ Detailed:
 └── 等等
 ```
 
-19、[searx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/asciimoo/searx)：分分钟打造一个聚合的搜索引擎，使用简单，部署方便。拓展方便，基于插件式的管理。[演示地址](https://searx.me/)
+19、[searx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/searx/searx)：分分钟打造一个聚合的搜索引擎，使用简单，部署方便。拓展方便，基于插件式的管理。[演示地址](https://searx.me/)
 
 20、[grequests](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spyoungtech/grequests)：Rquests + Gevent 让异步 HTTP 变得简单、人性化。示例代码：
 ```python
@@ -220,8 +222,10 @@ Request failed
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    关注公众号：<strong>HelloGitHub</strong><br>
+    "第一时间收到推送及更多内容"<br>
+
 </p>
 
 
