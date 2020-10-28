@@ -55,7 +55,7 @@
 2、[dotnet-docker](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dotnet/dotnet-docker)：.NET Core 和 Tools 的 Docker 镜像
 
 3、[machinelearning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dotnet/machinelearning)：微软开源的 C# 机器学习框架。支持的机器学习类任务：分类、回归、聚类等，[教程和视频](https://dotnet.microsoft.com/learn/ml-dotnet)。示例代码：
-```C#
+```C
 var dataPath = "sentiment.csv";
 var mlContext = new MLContext();
 var loader = mlContext.Data.CreateTextLoader(new[]
@@ -108,7 +108,7 @@ int main()
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-6、[go-micro](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/micro/go-micro)：一款 Go 插件化的基础框架。我只知道它是个 Go 微服务框架，基于它可以快速构建微服务。示例代码如图所示
+6、[go-micro](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/asim/go-micro)：一款 Go 插件化的基础框架。我只知道它是个 Go 微服务框架，基于它可以快速构建微服务。示例代码如图所示：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/img/go-micro.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -123,7 +123,7 @@ Socket：pgweb --url "postgres:///database?host=/absolute/path/to/unix/socket/di
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/img/pgweb.png' style="max-width:80%; max-height=80%;"></img></p>
 
-8、[go-admin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wenjianzhang/go-admin)：基于 Gin+Vue+Element UI 的前后端分离权限管理系统。文档齐全、还有视频教程适合新手学习，特点：
+8、[go-admin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/go-admin-team/go-admin)：基于 Gin+Vue+Element UI 的前后端分离权限管理系统。文档齐全、还有视频教程适合新手学习，特点：
 - 遵循 RESTful API 设计规范
 - 基于 Gin Web API 框架，提供了丰富的中间件支持（用户认证、跨域、访问日志、追踪 ID 等）
 - 支持 Swagger 文档
@@ -268,7 +268,7 @@ for i in range(1000000):
 
 20、[learn-python3](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jerry-git/learn-python3)：一份 Python3 的教程，请查收。该教程采用 Jupyter notebooks 形式，便于运行和阅读。并且还包含了练习题，对新手友好。缺点的话就是英文的教程，但是我都能看懂你肯定也可以
 
-21、[Computer-Networking-A-Top-Down-Approach-NOTES](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES)：《计算机网络－自顶向下方法》编程作业。包含问题和 Python 代码解答，Wireshark 实验部分为官方文档的翻译。
+21、[Computer-Networking-A-Top-Down-Approach-NOTES](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES)：《计算机网络－自顶向下方法》编程作业。包含问题和 Python 代码解答，Wireshark 实验部分为官方文档的翻译
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -376,13 +376,13 @@ ac.showPhotoLibrary(sender: self)
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/53/HelloGitHub53.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/53/HelloGitHub53.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/55/HelloGitHub55.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
     👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
-    关注公众号：<strong>HelloGitHub</strong><br>
+    微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
     "第一时间收到推送及更多内容"<br>
 
 </p>

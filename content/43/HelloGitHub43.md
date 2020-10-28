@@ -334,7 +334,7 @@ import Percent
 ---
 <p align="center">
     👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
-    关注公众号：<strong>HelloGitHub</strong><br>
+    微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
     "第一时间收到推送及更多内容"<br>
 
 </p>

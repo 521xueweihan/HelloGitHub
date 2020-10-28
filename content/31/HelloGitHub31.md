@@ -230,7 +230,7 @@ cup
 
 22、[quick-SQL-cheatsheet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/enochtangg/quick-SQL-cheatsheet)：SQL 速查表，[中文查阅](https://github.com/enochtangg/quick-SQL-cheatsheet/blob/master/README_zh-hans.md)
 
-23、[awesome-algorithm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apachecn/awesome-algorithm)：Leetcode 题解及经典算法实现，实现语言包含 Python、Java、C++、JS
+23、[algo-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apachecn/algo-zh)：Leetcode 题解及经典算法实现，实现语言包含 Python、Java、C++、JS
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -250,7 +250,7 @@ cup
 ---
 <p align="center">
     👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
-    关注公众号：<strong>HelloGitHub</strong><br>
+    微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
     "第一时间收到推送及更多内容"<br>
 
 </p>

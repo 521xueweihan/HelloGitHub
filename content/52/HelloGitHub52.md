@@ -118,7 +118,7 @@ int main()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/metersphere.png' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[incubator-iotdb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/incubator-iotdb)：清华大学软件学院自主研发并开源的时间序列数据管理引擎。能够有效应对工业物联网领域时间序列数量多、写入频率高、数据乱序到达、秒级聚合等场景。官方网站有系统设计文档和使用手册，作为初学者，可以系统的学习数据库系统的完整设计和实现。在 IoTDB 社区可以与国内用户直接交流、收集需求、设计功能、性能优化，每个改进点都可以看到直接效果。还可以体验 Apache 开源软件的工作模式，与世界各地的开发者交流想法，也有机会成为 Apache Committer、PMC 等
+12、[iotdb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/iotdb)：清华大学软件学院自主研发并开源的时间序列数据管理引擎。能够有效应对工业物联网领域时间序列数量多、写入频率高、数据乱序到达、秒级聚合等场景。官方网站有系统设计文档和使用手册，作为初学者，可以系统的学习数据库系统的完整设计和实现。在 IoTDB 社区可以与国内用户直接交流、收集需求、设计功能、性能优化，每个改进点都可以看到直接效果。还可以体验 Apache 开源软件的工作模式，与世界各地的开发者交流想法，也有机会成为 Apache Committer、PMC 等
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/incubator-iotdb.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -261,7 +261,7 @@ DATABASE_PASSWORD = os.getenv("DATABASE_PASSWORD")
 ---
 <p align="center">
     👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
-    关注公众号：<strong>HelloGitHub</strong><br>
+    微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
     "第一时间收到推送及更多内容"<br>
 
 </p>

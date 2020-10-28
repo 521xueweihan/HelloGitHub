@@ -119,7 +119,7 @@ local/remote:	127.0.0.1:56765 <-> 127.0.0.1:50955 (ESTABLISHED)
 local/remote:	100.76.175.164:52353 <-> 54.241.191.232:443 (ESTABLISHED)
 ```
 
-8、[awesome-golang-leetcode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kylesliu/awesome-golang-leetcode)：Go 语言刷 LeetCode。[在线阅读](https://leetcode.gin.sh/)
+8、[awesome-golang-algorithm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kylesliu/awesome-golang-algorithm)：Go 语言刷 LeetCode。[在线阅读](https://leetcode.gin.sh/)
 
 9、[wtf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wtfutil/wtf)：瞥一眼你的“私人管家”，终端个人信息面板。安装简单，还可通过配置文件设置你想看到的信息。设置可能需要花一些时间，但最终效果还是很可以的
 
@@ -249,7 +249,7 @@ results = clf.predict(x_test)
 ---
 <p align="center">
     👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
-    关注公众号：<strong>HelloGitHub</strong><br>
+    微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
     "第一时间收到推送及更多内容"<br>
 
 </p>

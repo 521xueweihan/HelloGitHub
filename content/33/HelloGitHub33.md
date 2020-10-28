@@ -111,7 +111,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/lint-md.png' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[js2image](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xinyu198736/js2image)：将源代码压缩成圣诞树的样子，使用此项目压缩生产环境代码后请注意测试。有兴趣的小伙伴可以尝试扩展出压缩成其它样子，很有意思
+12、[js2image](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yu-tou/js2image)：将源代码压缩成圣诞树的样子，使用此项目压缩生产环境代码后请注意测试。有兴趣的小伙伴可以尝试扩展出压缩成其它样子，很有意思
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/js2image.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -240,7 +240,7 @@ _attrLabel = [NudeIn make:^(NUDTextMaker *make) {
 ---
 <p align="center">
     👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
-    关注公众号：<strong>HelloGitHub</strong><br>
+    微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
     "第一时间收到推送及更多内容"<br>
 
 </p>
