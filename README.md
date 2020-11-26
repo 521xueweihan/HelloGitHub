@@ -25,6 +25,7 @@
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
+| [第 56 期](/content/56/HelloGitHub56.md) |
 | [第 55 期](/content/55/HelloGitHub55.md) | [第 54 期](/content/54/HelloGitHub54.md) | [第 53 期](/content/53/HelloGitHub53.md) | [第 52 期](/content/52/HelloGitHub52.md) | [第 51 期](/content/51/HelloGitHub51.md) |
 | [第 50 期](/content/50/HelloGitHub50.md) | [第 49 期](/content/49/HelloGitHub49.md) | [第 48 期](/content/48/HelloGitHub48.md) | [第 47 期](/content/47/HelloGitHub47.md) | [第 46 期](/content/46/HelloGitHub46.md) |
 | [第 45 期](/content/45/HelloGitHub45.md) | [第 44 期](/content/44/HelloGitHub44.md) | [第 43 期](/content/43/HelloGitHub43.md) | [第 42 期](/content/42/HelloGitHub42.md) | [第 41 期](/content/41/HelloGitHub41.md) |
@@ -64,13 +65,6 @@
           <img src="https://gitee.com/xueweihan/img/raw/master/hellogithub/logo/upyun.png" width="50px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://afdian.net/@HelloGitHub">
-          <img src="https://gitee.com/xueweihan/img/raw/master/hellogithub/logo/logo.png" width="50px"><br>
-          <sub>赞助月刊</sub><br>
-          <sub>5 元/月</sub>
         </a>
       </th>
     </tr>

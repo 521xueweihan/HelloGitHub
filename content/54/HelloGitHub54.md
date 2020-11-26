@@ -108,7 +108,7 @@ int main()
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-6、[go-micro](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/asim/go-micro)：一款 Go 插件化的基础框架。我只知道它是个 Go 微服务框架，基于它可以快速构建微服务。示例代码如图所示：
+6、[nitro](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gonitro/nitro)：一款 Go 插件化的基础框架。我只知道它是个 Go 微服务框架，基于它可以快速构建微服务。示例代码如图所示：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/img/go-micro.png' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -53,7 +53,7 @@
 
 ### C# 项目
 2、[ToolGood.Words](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/toolgood/ToolGood.Words)：一款高性能非法词、敏感词检测库。还支持繁体简体互换、获取拼音首字母、获取拼音字母、拼音模糊搜索等功能
-```C#
+```
 string s = "中国|国人|zg人";
 string test = "我是中国人";
 
@@ -318,7 +318,7 @@ s.sentiments    # 0.9769663402895832 positive的概率
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/54/HelloGitHub54.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/54/HelloGitHub54.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/56/HelloGitHub56.md">『下一期』</a>
 </p>
 
 ---

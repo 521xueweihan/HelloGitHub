@@ -303,23 +303,21 @@ import Percent
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-27、[python_ebook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shihyu/python_ebook)：Python 编程相关的电子书资源集合项目
-
-28、[book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cosmicpython/book)：（英文）《Cosmic Python》讲述如何管理复杂性的 Pythonic 应用程序结构的书籍
+27、[book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cosmicpython/book)：（英文）《Cosmic Python》讲述如何管理复杂性的 Pythonic 应用程序结构的书籍
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 教程
-29、[BigData-Notes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/heibaiying/BigData-Notes)：大数据入门教程，该教程介绍了大数据常用技术栈的基础和核心知识。内容涵盖：Hadoop、Spark、Storm、HBase、Hive、ZooKeeper、Kafka 等
+28、[BigData-Notes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/heibaiying/BigData-Notes)：大数据入门教程，该教程介绍了大数据常用技术栈的基础和核心知识。内容涵盖：Hadoop、Spark、Storm、HBase、Hive、ZooKeeper、Kafka 等
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-30、[Ultra-Light-Fast-Generic-Face-Detector-1MB](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)：1MB 大小的轻量级人脸检测模型。该模型是针对边缘计算设备，基于 libfacedetection 替换压缩网络设计实现
+29、[Ultra-Light-Fast-Generic-Face-Detector-1MB](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)：1MB 大小的轻量级人脸检测模型。该模型是针对边缘计算设备，基于 libfacedetection 替换压缩网络设计实现
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/img/Ultra-Light-Fast-Generic-Face-Detector-1MB.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[dimensionality_reduction_alo_codes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/heucoder/dimensionality_reduction_alo_codes)：该项目使用 Python 实现了 11 种经典的数据抽取（数据降维）算法。同时附有相关资料、展示效果，适用于机器学习初学者和刚刚入坑数据挖掘的小伙伴
+30、[dimensionality_reduction_alo_codes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/heucoder/dimensionality_reduction_alo_codes)：该项目使用 Python 实现了 11 种经典的数据抽取（数据降维）算法。同时附有相关资料、展示效果，适用于机器学习初学者和刚刚入坑数据挖掘的小伙伴
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/img/dimensionality_reduction_alo_codes.png' style="max-width:80%; max-height=80%;"></img></p>
 

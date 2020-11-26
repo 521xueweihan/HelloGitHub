@@ -147,11 +147,11 @@ namespace WeixinSDK.Test.Fake
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/docker-dashboard-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-13、[APlayer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MoePlayer/APlayer)：漂亮的 HTML5 音乐播放器
+13、[APlayer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DIYgod/APlayer)：漂亮的 HTML5 音乐播放器
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/APlayer-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-14、[DPlayer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MoePlayer/DPlayer)：可爱的弹幕视频播放器
+14、[DPlayer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DIYgod/DPlayer)：可爱的弹幕视频播放器
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/DPlayer-min.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 

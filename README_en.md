@@ -23,6 +23,7 @@ The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/con
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
+| [NO.56](/content/56/HelloGitHub56.md) |
 | [NO.55](/content/55/HelloGitHub55.md) | [NO.54](/content/54/HelloGitHub54.md) | [NO.53](/content/53/HelloGitHub53.md) | [NO.52](/content/52/HelloGitHub52.md) | [NO.51](/content/51/HelloGitHub51.md) |
 | [NO.50](/content/50/HelloGitHub50.md) | [NO.49](/content/49/HelloGitHub49.md) | [NO.48](/content/48/HelloGitHub48.md) | [NO.47](/content/47/HelloGitHub47.md) | [NO.46](/content/46/HelloGitHub46.md) |
 | [NO.45](/content/45/HelloGitHub45.md) | [NO.44](/content/44/HelloGitHub44.md) | [NO.43](/content/43/HelloGitHub43.md) | [NO.42](/content/42/HelloGitHub42.md) | [NO.41](/content/41/HelloGitHub41.md) |
@@ -59,13 +60,6 @@ The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/con
           <img src="https://gitee.com/xueweihan/img/raw/master/hellogithub/logo/upyun.png" width="50px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://afdian.net/@HelloGitHub">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/logo.png" width="50px"><br>
-          <sub>赞助月刊</sub><br>
-          <sub>5 元/月</sub>
         </a>
       </th>
     </tr>

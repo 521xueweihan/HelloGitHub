@@ -105,7 +105,7 @@ from sh import ifconfig
 print ifconfig("eth0")
 ```
 
-9、[fastText.py](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/salestock/fastText.py)：fastText 简而言之，就是把文档中所有词通过 lookup table 变成向量，取平均后直接用线性分类器得到分类结果。[fastText 的实现](https://www.zybuluo.com/Wayne-Z/note/460881)
+9、[fastText](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facebookresearch/fastText)：fastText 简而言之，就是把文档中所有词通过 lookup table 变成向量，取平均后直接用线性分类器得到分类结果。[fastText 的实现](https://www.zybuluo.com/Wayne-Z/note/460881)
 
 10、[mongoaudit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/stampery/mongoaudit)：强大的 MongoDB 渗透测试工具，用于发掘 MongoDB 漏洞、并提出改善方法。
 - 安装：`pip install mongoaudit`

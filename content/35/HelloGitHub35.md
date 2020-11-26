@@ -133,7 +133,7 @@ $ bash halo-cli.sh -u
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/halo.png' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[APIJSON](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/APIJSON/APIJSON)：快速开发 API 服务的框架。为简单的增删改查、复杂的查询、简单的事务操作提供了完全自动化的 API。大部分 HTTP 请求后端再也不用写接口了，也不用写文档了，适合中小型前后端分离的项目
+9、[APIJSON](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/APIJSON)：快速开发 API 服务的框架。为简单的增删改查、复杂的查询、简单的事务操作提供了完全自动化的 API。大部分 HTTP 请求后端再也不用写接口了，也不用写文档了，适合中小型前后端分离的项目
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/APIJSON.jpg' style="max-width:80%; max-height=80%;"></img></p>
 

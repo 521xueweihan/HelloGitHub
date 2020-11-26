@@ -260,7 +260,7 @@ SpiderMan.init(this)
 
 22、[Linux-Tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/judasn/Linux-Tutorial)：Java 程序员眼中的 Linux
 
-23、[Best-websites-a-programmer-should-visit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sdmg15/Best-websites-a-programmer-should-visit)：（英文）一些对程序员有用的网站，网站类别包含：新闻、查问题、学习、教程等
+23、[Best-websites-a-programmer-should-visit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sdmg15/Best-websites-a-programmer-should-visit)：程序员应该放到收藏夹的网站。[中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

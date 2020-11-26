@@ -230,7 +230,7 @@ cup
 
 22、[quick-SQL-cheatsheet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/enochtangg/quick-SQL-cheatsheet)：SQL 速查表，[中文查阅](https://github.com/enochtangg/quick-SQL-cheatsheet/blob/master/README_zh-hans.md)
 
-23、[algo-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apachecn/algo-zh)：Leetcode 题解及经典算法实现，实现语言包含 Python、Java、C++、JS
+23、[apachecn-algo-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apachecn/apachecn-algo-zh)：Leetcode 题解及经典算法实现，实现语言包含 Python、Java、C++、JS
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

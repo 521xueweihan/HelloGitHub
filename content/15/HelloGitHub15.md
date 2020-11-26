@@ -96,7 +96,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/musicbox.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-13、[django-blog-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zmrenwu/django-blog-tutorial)：基于最新版 Django 1.10 和 Python 3.5，通过 26 篇教程一步步带你使用 Django 从零开发一个个人博客系统，在实践的同时掌握 Django 的开发技巧，[完成效果展示](http://demo.zmrenwu.com/)
+13、[django-blog-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alice314272/django-blog-tutorial)：基于最新版 Django 1.10 和 Python 3.5，通过 26 篇教程一步步带你使用 Django 从零开发一个个人博客系统，在实践的同时掌握 Django 的开发技巧，[完成效果展示](http://demo.zmrenwu.com/)
 
 14、[aredis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NoneGG/aredis)：一款基于 Python3 asyncio 的异步 redis 客户端，支持对于单实例，连接池， 哨兵以及集群。[作者](https://github.com/NoneGG)希望可以找到志同道合的小伙伴集思广益，一起维护、优化。示例代码如下：
 ```Python
