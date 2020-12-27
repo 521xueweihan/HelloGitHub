@@ -179,7 +179,7 @@ print('#2 status:', res.status_code)
 
 18、[awesome-leetcode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tangweikun/awesome-leetcode)：该项目收集了各种编程语言的 Leetcode 题解
 
-19、[open-source-mac-os-apps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/serhii-londar/open-source-mac-os-apps)：（英文）MacOS 系统上的开源应用集合，并标注了应用通过那种编程语言实现
+19、[open-source-mac-os-apps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/serhii-londar/open-source-mac-os-apps)：（英文）macOS 系统上的开源应用集合，并标注了应用通过那种编程语言实现
 
 20、[awesome-spider](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facert/awesome-spider)：爬虫集合，大多为 Python 语言项目
 

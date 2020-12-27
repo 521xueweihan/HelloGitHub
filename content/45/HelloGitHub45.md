@@ -413,7 +413,7 @@ trainer = Trainer(cfg, max_iter=None, batch_size=None,
 trainer(net, train_dataset)
 ```
 
-34、[AIDungeon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AIDungeon/AIDungeon)：一个基于机器学习的地下城文字游戏。此项目介绍了如何使用机器学习构建一个游戏，代码简单清晰适合 AI 爱好者深入研究
+34、[AIDungeon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Latitude-Archives/AIDungeon)：一个基于机器学习的地下城文字游戏。此项目介绍了如何使用机器学习构建一个游戏，代码简单清晰适合 AI 爱好者深入研究
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/img/AIDungeon.png' style="max-width:80%; max-height=80%;"></img></p>
 

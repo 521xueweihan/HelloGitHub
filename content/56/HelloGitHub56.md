@@ -176,7 +176,7 @@ func main() {
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-13、[AdminLTE](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ColorlibHQ/AdminLTE)：基于 Bootstarp 4.5 和 jQuery 的后台管理前端模板
+13、[AdminLTE](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ColorlibHQ/AdminLTE)：基于 Bootstrap 4.5 和 jQuery 的管理后台模板
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/img/AdminLTE.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -380,7 +380,7 @@ result = reader.readtext('chinese.jpg')
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/55/HelloGitHub55.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/55/HelloGitHub55.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/57/HelloGitHub57.md">『下一期』</a>
 </p>
 
 ---

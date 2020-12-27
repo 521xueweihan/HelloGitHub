@@ -187,7 +187,7 @@ type(element, ...steps, loop);
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/50/img/avataaars-generator.png' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[jexcel](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/paulhodel/jexcel)：一个轻量级、功能强大的电子表格库。轻松实现复杂数据的表格管理，支持 JS 数组、JSON、CSV 等数据，并且可以实现 excel 文件的直接复制和粘贴。示例代码：
+17、[jexcel](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jspreadsheet/jexcel)：一个轻量级、功能强大的电子表格库。轻松实现复杂数据的表格管理，支持 JS 数组、JSON、CSV 等数据，并且可以实现 excel 文件的直接复制和粘贴。示例代码：
 ```javascript
 var data = [
     ['Jazz', 'Honda', '2019-02-12', '', true, '$ 2.000,00', '#777700'],
@@ -268,7 +268,7 @@ async def read_item(item_id: int, q: str = None):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/50/img/vim.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[tool-tips](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xiaoxiunique/tool-tips)：玩转 IDE 加班远离你，IntelliJ IDEA 的技巧仓库
+27、[awesome-IntelliJ-IDEA](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA)：玩转 IDE 加班远离你，IntelliJ IDEA 的技巧仓库
 
 28、[GitHub520](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/521xueweihan/GitHub520)：通过修改 hosts 解决 GitHub 访问慢、图裂问题的项目。基于 GitHub Action 定时访问 ipaddress 自动获取、输出 GitHub 相关域名对应的最新 IP 保证长期有效，用户不需要安装和运行代码，直接复制项目首页的内容便可生效
 

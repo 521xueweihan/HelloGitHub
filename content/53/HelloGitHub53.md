@@ -216,11 +216,11 @@ points & bars
 
 28、[first-contributions](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/firstcontributions/first-contributions)：手把手教你如何在 GitHub 第一次贡献代码的教程。支持多种语言，[中文](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.chs.md)
 
-29、[leek-fund](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/giscafer/leek-fund)：在 VSCode 中看股票和基金实时数据的插件
+29、[leek-fund](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LeekHub/leek-fund)：在 VSCode 中看股票和基金实时数据的插件
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/leek-fund.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[Algorithms-in-4-Steps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Xunzhuo/Algorithms-in-4-Steps)：系统性学习算法与数据结构的资料集合
+30、[Algorithm-Guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Xunzhuo/Algorithm-Guide)：系统性学习算法与数据结构的资料集合
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/Algorithms-in-4-Steps.jpg' style="max-width:80%; max-height=80%;"></img></p>
 

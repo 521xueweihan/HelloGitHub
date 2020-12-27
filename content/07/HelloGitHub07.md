@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-5、[beego](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/astaxie/beego)：一个使用 Go 的思维来帮助您构建并开发 Go 应用程序的开源框架，齐全的文档（中文），丰富的使用案例。[官网地址](https://beego.me)
+5、[beego](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/beego/beego)：一个使用 Go 的思维来帮助您构建并开发 Go 应用程序的开源框架，齐全的文档（中文），丰富的使用案例。[官网地址](https://beego.me)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

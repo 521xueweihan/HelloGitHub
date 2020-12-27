@@ -23,7 +23,7 @@ The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/con
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [NO.56](/content/56/HelloGitHub56.md) |
+| [NO.57](/content/57/HelloGitHub57.md) | [NO.56](/content/56/HelloGitHub56.md) |
 | [NO.55](/content/55/HelloGitHub55.md) | [NO.54](/content/54/HelloGitHub54.md) | [NO.53](/content/53/HelloGitHub53.md) | [NO.52](/content/52/HelloGitHub52.md) | [NO.51](/content/51/HelloGitHub51.md) |
 | [NO.50](/content/50/HelloGitHub50.md) | [NO.49](/content/49/HelloGitHub49.md) | [NO.48](/content/48/HelloGitHub48.md) | [NO.47](/content/47/HelloGitHub47.md) | [NO.46](/content/46/HelloGitHub46.md) |
 | [NO.45](/content/45/HelloGitHub45.md) | [NO.44](/content/44/HelloGitHub44.md) | [NO.43](/content/43/HelloGitHub43.md) | [NO.42](/content/42/HelloGitHub42.md) | [NO.41](/content/41/HelloGitHub41.md) |
@@ -75,12 +75,6 @@ The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/con
         <a href="https://github.com/ChungZH">
           <img src="https://avatars1.githubusercontent.com/u/42088872?s=50&v=4" style="width: 50px;"><br>
           <sub>ChungZH</sub>
-        </a><br>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/hellowHuaairen">
-          <img src="https://avatars2.githubusercontent.com/u/19610305?s=50&v=4" style="width: 50px;"><br>
-          <sub>hellowHuaairen</sub>
         </a><br>
       </th>
       <th align="center" style="width: 80px;">
