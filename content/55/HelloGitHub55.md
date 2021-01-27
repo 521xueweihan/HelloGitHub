@@ -278,16 +278,14 @@ beeplay()
 ### 开源书籍
 28、[Mastering_Go_ZH_CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hantmac/Mastering_Go_ZH_CN)：《Mastering Go》的中文翻译版《玩转 Go》。[在线阅读](https://wskdsgcf.gitbook.io/mastering-go-zh-cn/)
 
-29、[A-Philosophy-of-Software-Design-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gdut-yy/A-Philosophy-of-Software-Design-zh)：《软件设计的哲学》中文翻译。[在线阅读](https://gdut_yy.gitee.io/doc-aposd/)
-
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-30、[video-object-removal](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zllrunning/video-object-removal)：通过 Pytorch 实现绘制一个边界框，即可删除视频中要删除的对象。下图是演示操作，框中红色是抹掉的部分，删除前后的效果对比图可进到项目首页查看
+29、[video-object-removal](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zllrunning/video-object-removal)：通过 Pytorch 实现绘制一个边界框，即可删除视频中要删除的对象。下图是演示操作，框中红色是抹掉的部分，删除前后的效果对比图可进到项目首页查看
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/img/video-object-removal.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[mlflow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mlflow/mlflow)：一个简化机器学习开发的平台，支持跟踪实验、代码打包、部署模型等。它提供了一套轻量级的 API，可与目前主流机器学习 TensorFlow、PyTorch、XGBoost 等库轻松整合
+30、[mlflow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mlflow/mlflow)：一个简化机器学习开发的平台，支持跟踪实验、代码打包、部署模型等。它提供了一套轻量级的 API，可与目前主流机器学习 TensorFlow、PyTorch、XGBoost 等库轻松整合
 ```python
 # 安装：$ pip install mlflow
 # 启动：$ mlflow ui
@@ -300,7 +298,7 @@ mlflow.keras.autolog()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/img/mlflow.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[snownlp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/isnowfy/snownlp)：一个 Python 写的自然语言处理库。使用简单、功能强大，支持中文分词、词性标注、情感分析等
+31、[snownlp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/isnowfy/snownlp)：一个 Python 写的自然语言处理库。使用简单、功能强大，支持中文分词、词性标注、情感分析等
 ```python
 from snownlp import SnowNLP
 

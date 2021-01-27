@@ -164,16 +164,14 @@ print(s)
 
 18、[DDFE-blog](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DDFE/DDFE-blog)：滴滴前端技术分享
 
-19、[Algorithm_for_Interview-Chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/imhuay/Algorithm_for_Interview-Chinese)：算法、深度学习、NLP 面试笔记
+19、[chinese-xinhua](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pwxcoo/chinese-xinhua)：中华新华字典数据库。包括歇后语，成语，词语，汉字
 
-20、[chinese-xinhua](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pwxcoo/chinese-xinhua)：中华新华字典数据库。包括歇后语，成语，词语，汉字
-
-21、[HowToBeAProgrammer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/braydie/HowToBeAProgrammer)：成为一名好的程序员是困难的，将一个想法变为现实，最困难的地方在于与你的同事和顾客相处。编程能力很重要，但在好的程序员看来。相比构建一个让各种各样客户都满意的软件系统，纯粹的编程真的只是小孩子的玩意。在这篇文章里，我尝试尽可能简洁地总结那些当我 21 岁时，希望别人告诉我的事。[中文版](https://github.com/braydie/HowToBeAProgrammer/blob/master/zh/README.md#%E7%9B%AE%E5%BD%95)
+20、[HowToBeAProgrammer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/braydie/HowToBeAProgrammer)：成为一名好的程序员是困难的，将一个想法变为现实，最困难的地方在于与你的同事和顾客相处。编程能力很重要，但在好的程序员看来。相比构建一个让各种各样客户都满意的软件系统，纯粹的编程真的只是小孩子的玩意。在这篇文章里，我尝试尽可能简洁地总结那些当我 21 岁时，希望别人告诉我的事。[中文版](https://github.com/braydie/HowToBeAProgrammer/blob/master/zh/README.md#%E7%9B%AE%E5%BD%95)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-22、[100-Days-Of-ML-Code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Avik-Jain/100-Days-Of-ML-Code)：《机器学习 100天》[中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code)
+21、[100-Days-Of-ML-Code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Avik-Jain/100-Days-Of-ML-Code)：《机器学习 100天》[中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

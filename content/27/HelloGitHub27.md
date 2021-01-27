@@ -134,7 +134,7 @@ $ appify -name "My Go Application" -icon ./icon.png /path/to/bin
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/simpread-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[incubator-echarts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/incubator-echarts)：使用 JavaScript 实现的开源、流行、强大的可视化库。可以流畅的运行在 PC 和移动设备上，兼容当前绝大部分浏览器。提供直观、交互丰富、可实现高度个性定制化的数据可视化图表，也可将其封装为任何 MVVM 框架的组件方便适用。[官网](http://echarts.baidu.com/)
+12、[echarts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/echarts)：使用 JavaScript 实现的开源、流行、强大的可视化库。可以流畅的运行在 PC 和移动设备上，兼容当前绝大部分浏览器。提供直观、交互丰富、可实现高度个性定制化的数据可视化图表，也可将其封装为任何 MVVM 框架的组件方便适用。[官网](http://echarts.baidu.com/)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/img/incubator-echarts-min.png' style="max-width:80%; max-height=80%;"></img></p>
 

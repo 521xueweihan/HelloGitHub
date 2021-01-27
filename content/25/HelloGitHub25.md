@@ -175,7 +175,7 @@ print('#2 status:', res.status_code)
 ### 其它
 16、[javascript-lessons](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/stone0090/javascript-lessons)：《JavaScript 闯关记》该教程部分章节精心设计了挑战关卡
 
-17、[linux-insides-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MintCN/linux-insides-zh)：Linux 内核揭密
+17、[linux-insides](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/0xAX/linux-insides)：Linux 内核揭密。[中文](https://github.com/MintCN/linux-insides-zh)
 
 18、[awesome-leetcode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tangweikun/awesome-leetcode)：该项目收集了各种编程语言的 Leetcode 题解
 

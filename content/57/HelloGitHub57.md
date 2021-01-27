@@ -27,6 +27,7 @@
 - [Objective-C 项目](#Objective-C-项目)
 - [PHP 项目](#PHP-项目)
 - [Python 项目](#Python-项目)
+- [Rust 项目](#Rust-项目)
 - [Swift 项目](#Swift-项目)
 - [其它](#其它)
 - [开源书籍](#开源书籍)
@@ -188,8 +189,17 @@ go run knnclassifier_iris.go
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+### Rust 项目
+22、[bat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sharkdp/bat)：替代 cat 的命令行工具。你还在命令行用 cat 查看文件吗？那你就 out 啦！今天推荐的 bat 它不仅支持语法高亮，还能展示 Git 的改动。macOS 下安装命令：`brew install bat` 相信你用过 bat 后就不会再想用回 cat 了
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/bat.png' style="max-width:80%; max-height=80%;"></img></p>
+
+23、[jpeg_tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MROS/jpeg_tutorial)：教你编写 JPEG 解码器的教程，示例为 Rust 代码
+
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
 ### Swift 项目
-22、[Pine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lukakerr/Pine)：一个免费、轻量、简洁的 macOS Markdown 编辑器。功能：
+24、[Pine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lukakerr/Pine)：一个免费、轻量、简洁的 macOS Markdown 编辑器。功能：
 - 主题
 - LaTex 公式
 - 自动保存
@@ -199,7 +209,7 @@ go run knnclassifier_iris.go
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/Pine.png' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[Publish](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JohnSundell/Publish)：专为 Swift 开发人员准备的静态网站生成器。让你实现整个网站都是用 Swift 构建的工具，支持多种主题、插件以及更多强大的自定义选项。[示例网站](https://swiftbysundell.com/)，安装和快速开始：
+25、[Publish](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JohnSundell/Publish)：专为 Swift 开发人员准备的静态网站生成器。让你实现整个网站都是用 Swift 构建的工具，支持多种主题、插件以及更多强大的自定义选项。[示例网站](https://swiftbysundell.com/)，安装和快速开始：
 ```
 $ git clone https://github.com/JohnSundell/Publish.git
 $ cd Publish
@@ -214,23 +224,17 @@ $ publish new
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-24、[open-source-rover](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nasa-jpl/open-source-rover)：NASA 面向科技爱好者开源的火星漫游车设计方案和代码。通过该项目你可以使用便宜的树莓派做出自己的火星漫游车，所需的零件很容易就可以买到，遥控部分是使用现成的 Xbox 手柄或者手机，减少花销。喜欢动手和硬件的小伙伴们，这个东西够酷吗？
+26、[open-source-rover](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nasa-jpl/open-source-rover)：NASA 面向科技爱好者开源的火星漫游车设计方案和代码。通过该项目你可以使用便宜的树莓派做出自己的火星漫游车，所需的零件很容易就可以买到，遥控部分是使用现成的 Xbox 手柄或者手机，减少花销。喜欢动手和硬件的小伙伴们，这个东西够酷吗？
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/open-source-rover.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[bat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sharkdp/bat)：替代 cat 的命令行工具。你还在命令行用 cat 查看文件吗？那你就 out 啦！今天推荐的 bat 它不仅支持语法高亮，还能展示 Git 的改动。macOS 下安装命令：`brew install bat` 相信你用过 bat 后就不会再想用回 cat 了
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/bat.png' style="max-width:80%; max-height=80%;"></img></p>
-
-26、[Web-Dev-For-Beginners](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/Web-Dev-For-Beginners)：微软开源的 Web 开发教程。该教程共有 24 节课，但目前只有英文版
+27、[Web-Dev-For-Beginners](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/Web-Dev-For-Beginners)：微软开源的 Web 开发教程。该教程共有 24 节课，但目前只有英文版
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/Web-Dev-For-Beginners.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[neofetch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dylanaraps/neofetch)：展示操作系统信息的命令行工具，支持将近 150 种操作系统
+28、[neofetch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dylanaraps/neofetch)：展示操作系统信息的命令行工具，支持将近 150 种操作系统
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/neofetch.png' style="max-width:80%; max-height=80%;"></img></p>
-
-28、[jpeg_tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MROS/jpeg_tutorial)：教你编写 JPEG 解码器的教程，示例为 Rust 代码
 
 29、[sql-style-guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mattm/sql-style-guide)：一份 SQL 语句编写风格建议。比如：
 ```
@@ -277,7 +281,8 @@ HELLO
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/56/HelloGitHub56.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/56/HelloGitHub56.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/58/HelloGitHub58.md">『下一期』</a>
+
 </p>
 
 ---

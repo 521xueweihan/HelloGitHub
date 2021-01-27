@@ -84,7 +84,7 @@ $pinyin->convert('带着希望去旅行，比到达终点更美好', PINYIN_ASCI
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-6、[incubator-superset](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/incubator-superset)：企业级的数据探索、展示平台。功能很强大，可以用来做数据分析、展示。如下图：
+6、[superset](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/superset)：企业级的数据探索、展示平台。功能很强大，可以用来做数据分析、展示。如下图：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/05/img/superset-min.png' style="max-width:80%; max-height=80%;"></img></p>

@@ -44,7 +44,7 @@
 > **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C 项目
-1、[freebsd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/freebsd/freebsd)：FreeBSD 操作系统源码仓库。快拉住我，我有点飘了竟然敢点开操作系统看源码 😅
+1、[freebsd-src](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/freebsd/freebsd-src)：FreeBSD 操作系统源码仓库。快拉住我，我有点飘了竟然敢点开操作系统看源码 😅
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

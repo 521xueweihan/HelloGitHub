@@ -106,7 +106,7 @@
 - 同步导出客户端 Model 代码
 - 等等
 
-13、[PowerJob](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/KFCFans/PowerJob)：基于 Akka 架构的新一代分布式任务调度与计算框架。支持 CRON、API、固定频率、固定延迟等调度策略，支持单机、广播、MapReduce 等多种执行模式，支持在线任务治理与运维，提供 Shell、Python、Java 等功能丰富的任务处理器，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全。同类产品对比：
+13、[PowerJob](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PowerJob/PowerJob)：基于 Akka 架构的新一代分布式任务调度与计算框架。支持 CRON、API、固定频率、固定延迟等调度策略，支持单机、广播、MapReduce 等多种执行模式，支持在线任务治理与运维，提供 Shell、Python、Java 等功能丰富的任务处理器，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全。同类产品对比：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/PowerJob.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -193,7 +193,7 @@ python py2sec.py -d example/ -m test1.py,bbb/
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/py2sec.png' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[oxfs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RainMark/oxfs)：一个基于 sftp 协议的 fuse 网络文件系统，功能上类似于 sshfs。特性：
+25、[oxfs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/oxfs/oxfs)：一个基于 sftp 协议的 fuse 网络文件系统，功能上类似于 sshfs。特性：
 - 引入了异步并发读远端文件机制，提高了文件首次读速度。
 - 缓存持久化到本地磁盘，下次挂载时访问更加快速。
 - 异步任务负责同步文件，避免低速的网络读写阻塞上层应用。
