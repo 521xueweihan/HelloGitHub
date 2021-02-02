@@ -6,10 +6,10 @@
 </p>
 
 ## 运行步骤
-这个脚本主要使用收集 GitHub 上优秀的项目，用于编写[《HelloGitHub 月刊》](https://github.com/521xueweihan/HelloGitHub)，后面还会持续开发～
+这个脚本主要用于收集 GitHub 上优秀的项目，用于编写[《HelloGitHub 月刊》](https://github.com/521xueweihan/HelloGitHub)，后面还会持续开发～
 
-1. 安装依赖：`pip install -r requirements.txt`
-2. 配置脚本中相关参数：
+1. **安装依赖**：`pip install -r requirements.txt`
+2. **配置脚本中相关参数**：
 	```
 	# github帐号
 	ACCOUNT = {
@@ -31,24 +31,24 @@
 	# qq邮件服务文档：http://service.mail.qq.com/cgi-bin/help?id=28
 	```
 
-**最后**：`python github_bot.py`
+3.**运行脚本**：`python github_bot.py`
 
 ## 开发日志
-#### 2017-4-6
+#### 2017-04-06
 1. GitHub Api 更新，event 最多获取 300 条
 2. 新注册帐号 521hellogithub 用于获取每天的数据
 
-#### 2017-3-28
+#### 2017-03-28
 增加收集项目 star 临界值
 
-#### 2016-9-29
+#### 2016-09-29
 - GitHub 今日热点项目不统计自己的项目
 - 错误日志放到脚本的同目录下
 
-#### 2016-9-24
+#### 2016-09-24
 实现根据 star 数量，从高到低展示。
 
-#### 2016-9-5
+#### 2016-09-05
 实现请求 GitHub Api 获取关注的用户 star 的项目、过滤内容、定时发邮件
 
 ## Todo
