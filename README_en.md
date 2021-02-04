@@ -52,7 +52,7 @@ The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/con
         <a href="https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592">
           <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/ucloud.png" width="50px"><br>
           <sub>云主机</sub><br>
-          <sub>仅 62 元/年</sub>
+          <sub>仅 6 元/月</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">

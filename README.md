@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/readme.gif"/>
   <br>中文 | <a href="README_en.md">English</a>
-  <br><strong>HelloGitHub</strong> 分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！<br>
-  <a href="https://mp.weixin.qq.com/s/9FUQ2i0HbemwfIj9sa1p0A">招募｜加入我们</a>
+  <br>分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
 </p>
 
 <p align="center">
@@ -13,16 +12,14 @@
 </p>
 
 ## 简介
-这是一个面向编程新手、热爱编程、对开源社区感兴趣人群的项目，内容**每月 28 号**以月刊的形式更新发布。内容包括：**流行项目**、**入门级项目**、**让生活变得更美好的工具**、**书籍**、**学习心得笔记**、**企业级项目**等，这些开源项目大多都是非常容易上手、很 Cool，能够让你用很短时间感受到编程的魅力和便捷。从而让大家感受到编程的乐趣，动手开始编程。
+HelloGitHub 是一个面向编程新手、开源社区新手人群的开源项目。**每月 28 号**以月刊的形式更新发布，内容包括：**有趣、入门级的开源项目**、**开源书籍**、**实战项目**、**企业级项目**等，让你用很短时间感受到编程的魅力和便捷。从而让感受到编程的乐趣，动手开始编程。
 
-希望通过本项目能够有更多人加入到开源社区、回馈社区。**让有趣、有价值的项目被更多人发现和加入**。在参与这些项目的过程中，你将得到：**热爱编程的小伙伴**🕺 、**更多编程知识**📚 、**优秀的编程技巧**💻 、**找到编程的乐趣**🎮 。
-
-- **『每日精选』** 关注我们的[最惨官微](https://weibo.com/hellogithub)获取每日项目推荐。
-- **『讲解开源项目』** 有趣的项目不知道怎么运行和玩耍？[点击阅读](https://github.com/HelloGitHub-Team/Article)讲解开源系列。
-
+希望通过本项目能够有更多人加入到开源社区、回馈社区。**让有趣、有价值的项目被更多人发现和加入**。
 
 ## 内容
-每月 28 号发布[最新一期](/content/last.md) | [官网](https://hellogithub.com) 
+更好的阅读体验在 [官网](https://hellogithub.com) 或 **HelloGitHub** 公众号。
+
+欢迎[推荐或自荐项目](https://github.com/521xueweihan/HelloGitHub/issues/new)成为 **HelloGitHub** 的[贡献者](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md) 
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
@@ -38,8 +35,6 @@
 | [第 15 期](/content/15/HelloGitHub15.md) | [第 14 期](/content/14/HelloGitHub14.md) | [第 13 期](/content/13/HelloGitHub13.md) | [第 12 期](/content/12/HelloGitHub12.md) | [第 11 期](/content/11/HelloGitHub11.md) |
 | [第 10 期](/content/10/HelloGitHub10.md) | [第 09 期](/content/09/HelloGitHub09.md) | [第 08 期](/content/08/HelloGitHub08.md) | [第 07 期](/content/07/HelloGitHub07.md) | [第 06 期](/content/06/HelloGitHub06.md) |
 | [第 05 期](/content/05/HelloGitHub05.md) | [第 04 期](/content/04/HelloGitHub04.md) | [第 03 期](/content/03/HelloGitHub03.md) | [第 02 期](/content/02/HelloGitHub02.md) | [第 01 期](/content/01/HelloGitHub01.md) |
-
-欢迎[推荐或自荐项目](https://github.com/521xueweihan/HelloGitHub/issues/new)成为 **HelloGitHub** 的[贡献者](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md) 
 
 
 ## 赞助
@@ -58,7 +53,7 @@
         <a href="https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592">
           <img src="https://gitee.com/xueweihan/img/raw/master/hellogithub/logo/ucloud.png" width="50px"><br>
           <sub>云主机</sub><br>
-          <sub>仅 62 元/年</sub>
+          <sub>仅 6 元/月</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
@@ -74,6 +69,7 @@
 
 
 ## 贡献者
+
 <table>
   <tbody>
     <tr>
