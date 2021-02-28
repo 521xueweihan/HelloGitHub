@@ -4,20 +4,10 @@
     <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
-## 简介
-分享 GitHub 上有趣、入门级的开源项目。
-
-这是一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 人群的月刊，月刊的内容包括：**各种编程语言的项目**、**让生活变得更美好的工具**、**书籍、学习笔记、教程等**，这些开源项目大多都是非常容易上手，而且非常 Cool。主要是希望大家能动手用起来，加入到**开源社区**中。
-- 会编程的可以贡献代码
-- 不会编程的可以反馈使用这些工具中的 Bug
-- 帮着宣传你觉得优秀的项目
-- Star 项目⭐️
-
-在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
-
-🎉 最后 HelloGitHub 这个项目就诞生了 🎉
-
 ## 目录
+
+**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/33/) 获取更好的阅读体验。
+
 - [C 项目](#C-项目)
 - [C++ 项目](#C-项目-1)
 - [CSS 项目](#CSS-项目)
@@ -34,15 +24,13 @@
 
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
-**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号
+关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期
+> **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
 1、[json-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/miloyip/json-tutorial)：由[Milo Yip](https://github.com/miloyip/json-tutorial#%E5%85%B3%E4%BA%8E%E4%BD%9C%E8%80%85)发起的用 C 从零开始编写 JSON 库教程。大纲：
@@ -172,7 +160,7 @@ _attrLabel = [NudeIn make:^(NUDTextMaker *make) {
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
-18、[meedu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Qsnh/meedu)：开源免费的在线教育系统，支持在线点播、在线电子书、会员收费三大模块。[在线尝试](https://meedu.app/)
+18、[meedu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Qsnh/meedu)：开源免费的在线教育系统，支持在线点播、在线电子书、会员收费三大模块。[在线尝试](https://meedu.vip/)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -239,12 +227,11 @@ _attrLabel = [NudeIn make:^(NUDTextMaker *make) {
 
 ---
 <p align="center">
-    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 6 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    "第一时间收到推送及更多内容"<br>
-
+    不仅能第一时间收到推送，还有各种回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/33/'>这里</a> 获取更好的阅读体验。
 </p>
-
 
 ## 声明
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。
