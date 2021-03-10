@@ -1,12 +1,12 @@
 ﻿<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/readme.gif"/>
+  <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/readme.gif"/>
   <br><a href="README.md">中文</a> | English 
   <br><strong>HelloGitHub</strong> is to share interesting, entry-level open source projects on GitHub.
   <br>Interest is the best teacher, you will find the interests of programming here!
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png"><img src="https://img.shields.io/badge/Talk-WeChat-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
+  <a href="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/weixin.png"><img src="https://img.shields.io/badge/Talk-WeChat-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
   <a href="https://github.com/521xueweihan/HelloGitHub/stargazers"><img src="https://img.shields.io/github/stars/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub stars"></a>
   <a href="https://github.com/521xueweihan/HelloGitHub/issues"><img src="https://img.shields.io/github/issues/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub issues"></a>
 </p>
@@ -36,56 +36,6 @@ The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/con
 | [NO.10](/content/10/HelloGitHub10.md) | [NO.09](/content/09/HelloGitHub09.md) | [NO.08](/content/08/HelloGitHub08.md) | [NO.07](/content/07/HelloGitHub07.md) | [NO.06](/content/06/HelloGitHub06.md) |
 | [NO.05](/content/05/HelloGitHub05.md) | [NO.04](/content/04/HelloGitHub04.md) | [NO.03](/content/03/HelloGitHub03.md) | [NO.02](/content/02/HelloGitHub02.md) | [NO.01](/content/01/HelloGitHub01.md) |
 
-## Sponsor
-
-<table>
-  <thead>
-    <tr>
-      <th align="center" style="width: 80px;">
-        <a href="https://www.nowcoder.com?from=hellogithub">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/nowcoder.jpg" width="50px"><br>
-          <sub>牛客网</sub><br>
-          <sub>IT 面试/笔试题库</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/ucloud.png" width="50px"><br>
-          <sub>云主机</sub><br>
-          <sub>仅 6 元/月</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
-          <img src="https://gitee.com/xueweihan/img/raw/master/hellogithub/logo/upyun.png" width="50px"><br>
-          <sub>CDN</sub><br>
-          <sub>开启全网加速</sub>
-        </a>
-      </th>
-    </tr>
-  </thead>
-</table>
-
-## Contributors
-
-<table>
-  <tbody>
-    <tr>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/ChungZH">
-          <img src="https://avatars1.githubusercontent.com/u/42088872?s=50&v=4" style="width: 50px;"><br>
-          <sub>ChungZH</sub>
-        </a><br>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md">
-          <img src="https://avatars1.githubusercontent.com/u/17665302?s=50&v=4" style="width: 50px;"><br>
-          <sub>更多贡献者</sub>
-        </a><br>
-      </th>
-    </tr>
-  </tbody>
-</table>
 
 ## Licence
 

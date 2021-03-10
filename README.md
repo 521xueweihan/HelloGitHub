@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/readme.gif"/>
+  <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/readme.gif"/>
   <br>中文 | <a href="README_en.md">English</a>
   <br>分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png"><img src="https://img.shields.io/badge/Talk-%E5%BE%AE%E4%BF%A1%E7%BE%A4-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
+  <a href="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/weixin.png"><img src="https://img.shields.io/badge/Talk-%E5%BE%AE%E4%BF%A1%E7%BE%A4-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
   <a href="https://github.com/521xueweihan/HelloGitHub/stargazers"><img src="https://img.shields.io/github/stars/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub stars"></a>
   <a href="https://github.com/521xueweihan/HelloGitHub/issues"><img src="https://img.shields.io/github/issues/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub issues"></a>
     <a href="https://weibo.com/hellogithub"><img src="https://img.shields.io/badge/%E6%96%B0%E6%B5%AA-Weibo-red.svg?style=popout-square" alt="Sina Weibo"></a>
@@ -14,12 +14,8 @@
 ## 简介
 HelloGitHub 是一个面向编程新手、开源社区新手人群的开源项目。**每月 28 号**以月刊的形式更新发布，内容包括：**有趣、入门级的开源项目**、**开源书籍**、**实战项目**、**企业级项目**等，让你用很短时间感受到编程的魅力和便捷。从而让感受到编程的乐趣，动手开始编程。
 
-希望通过本项目能够有更多人加入到开源社区、回馈社区。**让有趣、有价值的项目被更多人发现和加入**。
-
 ## 内容
-更好的阅读体验在 [官网](https://hellogithub.com) 或 **HelloGitHub** 公众号。
-
-欢迎[推荐或自荐项目](https://github.com/521xueweihan/HelloGitHub/issues/new)成为 **HelloGitHub** 的[贡献者](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md) 
+获得更好的阅读体验 [官网](https://hellogithub.com) 或 **HelloGitHub** 公众号。
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
@@ -37,56 +33,36 @@ HelloGitHub 是一个面向编程新手、开源社区新手人群的开源项�
 | [第 05 期](/content/05/HelloGitHub05.md) | [第 04 期](/content/04/HelloGitHub04.md) | [第 03 期](/content/03/HelloGitHub03.md) | [第 02 期](/content/02/HelloGitHub02.md) | [第 01 期](/content/01/HelloGitHub01.md) |
 
 
+欢迎[推荐或自荐项目](https://github.com/521xueweihan/HelloGitHub/issues/new)成为 **HelloGitHub** 的[贡献者](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md) 
+
 ## 赞助
 
 <table>
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.nowcoder.com?from=hellogithub">
-          <img src="https://gitee.com/xueweihan/img/raw/master/hellogithub/logo/nowcoder.jpg" width="50px"><br>
-          <sub>牛客网</sub><br>
-          <sub>IT 面试/笔试题库</sub>
+        <a href="https://time.geekbang.org/column/intro/100029001?code=FNAcb0CTFNrDDOk79W3Zp256dg1ylKSUwAOLcnLidu4%3D">
+          <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/geektime.jpeg" width="50px"><br>
+          <sub>搞懂</sub><br>
+          <sub>HTTP 协议</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
         <a href="https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592">
-          <img src="https://gitee.com/xueweihan/img/raw/master/hellogithub/logo/ucloud.png" width="50px"><br>
+          <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/ucloud.png" width="50px"><br>
           <sub>云主机</sub><br>
           <sub>仅 6 元/月</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
         <a href="https://www.upyun.com/">
-          <img src="https://gitee.com/xueweihan/img/raw/master/hellogithub/logo/upyun.png" width="50px"><br>
+          <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/upyun.png" width="50px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>
         </a>
       </th>
     </tr>
   </thead>
-</table>
-
-
-## 贡献者
-
-<table>
-  <tbody>
-    <tr>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/ChungZH">
-          <img src="https://avatars1.githubusercontent.com/u/42088872?s=50&v=4" style="width: 50px;"><br>
-          <sub>ChungZH</sub>
-        </a><br>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md">
-          <img src="https://avatars1.githubusercontent.com/u/17665302?s=50&v=4" style="width: 50px;"><br>
-          <sub>更多贡献者</sub>
-        </a><br>
-      </th>
-    </tr>
-  </tbody>
 </table>
 
 ## 声明
