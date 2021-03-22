@@ -11,7 +11,10 @@
     <a href="https://weibo.com/hellogithub"><img src="https://img.shields.io/badge/%E6%96%B0%E6%B5%AA-Weibo-red.svg?style=popout-square" alt="Sina Weibo"></a>
 </p>
 
+👉 [HelloGitHub 3D 星史](https://static.hellogithub.com/5y/2020.html)👈 周日我在 [「HelloGitHub 视频号」](https://static.hellogithub.com/5y/img/v.jpeg) 举办五周年直播活动，奖品丰厚邀您参加！
+
 ## 简介
+
 HelloGitHub 是一个面向编程新手、开源社区新手人群的开源项目。**每月 28 号**以月刊的形式更新发布，内容包括：**有趣、入门级的开源项目**、**开源书籍**、**实战项目**、**企业级项目**等，让你用很短时间感受到编程的魅力和便捷。从而让感受到编程的乐趣，动手开始编程。
 
 ## 内容
