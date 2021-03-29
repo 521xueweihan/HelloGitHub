@@ -148,7 +148,7 @@ print(s)
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-17、[weekly](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dt-fe/weekly)：前端精读。前端界的好文精读，每周更新
+17、[weekly](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ascoders/weekly)：前端精读。前端界的好文精读，每周更新
 
 18、[DDFE-blog](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DDFE/DDFE-blog)：滴滴前端技术分享
 

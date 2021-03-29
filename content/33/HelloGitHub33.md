@@ -60,7 +60,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/yeetgif.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-5、[ptt-daily-beauty](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Larry850806/ptt-daily-beauty)：每晚 11 点会自动发送 PTT 论坛（台湾最大论坛） Beauty 板块前 3 名的小姐姐图片。[点击订阅](https://www.daily-beauty.xyz/)
+5、[ptt-daily-beauty](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LarryLuTW/ptt-daily-beauty)：每晚 11 点会自动发送 PTT 论坛（台湾最大论坛） Beauty 板块前 3 名的小姐姐图片。[点击订阅](https://www.daily-beauty.xyz/)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/img/ptt-daily-beauty.png' style="max-width:80%; max-height=80%;"></img></p>
 

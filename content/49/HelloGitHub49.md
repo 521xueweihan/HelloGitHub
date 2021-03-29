@@ -148,7 +148,7 @@ while not pyboy.tick():
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/img/gpustat.png' style="max-width:80%; max-height=80%;"></img></p>
 
-22、[scalene](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/emeryberger/scalene)：一个 Python 的高性能 CPU 和内存分析器。Scalene 很快、占用资源少、展示信息全面，可用来排查、优化 Python 程序占用资源过多等问题
+22、[scalene](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/plasma-umass/scalene)：一个 Python 的高性能 CPU 和内存分析器。Scalene 很快、占用资源少、展示信息全面，可用来排查、优化 Python 程序占用资源过多等问题
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/img/scalene.png' style="max-width:80%; max-height=80%;"></img></p>
 

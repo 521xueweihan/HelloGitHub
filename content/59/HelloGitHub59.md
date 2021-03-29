@@ -328,7 +328,7 @@ try db.run(users.create { t in
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-35、[avatarify](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alievk/avatarify)：视频会议实时换脸工具。利用机器学习训练的模型，通过捕捉人脸动作并与图片相结合进行实时渲染的方式，达到实时换脸的效果。支持 OBS、Zoom、Skype、Teams、Slack 等直播和会议软件
+35、[avatarify-python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alievk/avatarify-python)：视频会议实时换脸工具。利用机器学习训练的模型，通过捕捉人脸动作并与图片相结合进行实时渲染的方式，达到实时换脸的效果。支持 OBS、Zoom、Skype、Teams、Slack 等直播和会议软件
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/img/avatarify.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -337,7 +337,7 @@ try db.run(users.create { t in
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/58/HelloGitHub58.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/58/HelloGitHub58.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/60/HelloGitHub60.md">『下一期』</a>
 </p>
 
 ---

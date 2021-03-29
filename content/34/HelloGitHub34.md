@@ -98,7 +98,7 @@ adduser {
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-7、[hutool](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/looly/hutool)：功能丰富的 Java 工具包。它帮助我们实现了常用的工具方法，从而减少代码的体积，提高开发效率。该项目最初是作者工作项目中的`util`模块，后来慢慢积累并加入更多非业务相关工具类方法。经过整理修改，最终形成丰富的开源工具集。示例代码：
+7、[hutool](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dromara/hutool)：功能丰富的 Java 工具包。它帮助我们实现了常用的工具方法，从而减少代码的体积，提高开发效率。该项目最初是作者工作项目中的`util`模块，后来慢慢积累并加入更多非业务相关工具类方法。经过整理修改，最终形成丰富的开源工具集。示例代码：
 ```java
 int a = 1;
 //aStr为"1"

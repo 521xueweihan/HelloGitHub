@@ -159,7 +159,7 @@ console.log(dateFormat(now(), "yyyy-mm-dd"));
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/img/cdfang-spider.png' style="max-width:80%; max-height=80%;"></img></p>
 
-20、[x-build](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/x-build-team/x-build)：面向小型项目的脚手架工具，通过终端命令最快在几秒钟初始化项目目录。该库内部集成了 webpack、babel、eslint 等前端常用的工具。通过该项目可以了解脚手架的开发，并且可以熟悉如何在工具中集成 webpack 这对自定义脚手架开发很有帮助
+20、[x-build](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/code-device/x-build)：面向小型项目的脚手架工具，通过终端命令最快在几秒钟初始化项目目录。该库内部集成了 webpack、babel、eslint 等前端常用的工具。通过该项目可以了解脚手架的开发，并且可以熟悉如何在工具中集成 webpack 这对自定义脚手架开发很有帮助
 
 21、[vue-unit-test-with-jest](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/holylovelqq/vue-unit-test-with-jest)：一个 Vue 的单元测试项目，列出了 Vue 开发时大多需要测试的环节，并附有测试代码及说明文档。现在前端开发的技术越来越多，但是我们只是注意到了开发阶段并没有做好对应的单元测试步骤，我们可以通过这个项目学习如何针对 Vue 项目做单元测试。示例代码：
 ```javascript

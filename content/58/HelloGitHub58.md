@@ -326,7 +326,7 @@ Lua 5.3.5 Copyright (C) 1994-2018 Lua.org, PUC-Rio
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/57/HelloGitHub57.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/57/HelloGitHub57.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/59/HelloGitHub59.md">『下一期』</a>
 </p>
 
 ---
