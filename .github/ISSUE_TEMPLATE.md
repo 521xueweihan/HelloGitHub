@@ -1,5 +1,5 @@
 ## 项目推荐
-- 项目地址：
+- 项目地址：仅收录 GitHub 的开源项目，请填写 GitHub 的项目地址
 
 - 类别：请从中选择（C、C#、C++、CSS、Go、Java、JS、Kotlin、Objective-C、PHP、Python、Ruby、Swift、其它、书籍、机器学习）
 
