@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 12 期
->兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
@@ -152,16 +152,14 @@ Hello Google!
 
 15、[gophers](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/egonelbre/gophers)：Go 吉祥物的各种图片素材
 
-16、[algs4](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kevin-wayne/algs4)：（英文）算法第四版书中的示例代码（Java）
-
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-17、[explore-python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ethan-funny/explore-python)：《Python 之旅》，该书总结了 Python 相关的知识点，力求深入浅出、条理清晰
+16、[explore-python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ethan-funny/explore-python)：《Python 之旅》，该书总结了 Python 相关的知识点，力求深入浅出、条理清晰
 
-18、[The-Art-Of-Programming-By-July](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/julycoding/The-Art-Of-Programming-By-July)：《编程之法：面试和算法心得》
+17、[The-Art-Of-Programming-By-July](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/julycoding/The-Art-Of-Programming-By-July)：《编程之法：面试和算法心得》
 
-19、[react-naive-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huzidaha/react-naive-book)：开源、免费、专业、简单的 React.js 教程
+18、[react-naive-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huzidaha/react-naive-book)：开源、免费、专业、简单的 React.js 教程
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -173,9 +171,9 @@ Hello Google!
 
 ---
 <p align="center">
-    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 6 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='http://gk.link/a/10q2z'>快速上手 Python 的方法</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝的活动<br>
+    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
     如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/12/'>这里</a> 获取更好的阅读体验。
 </p>
 

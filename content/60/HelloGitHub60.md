@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 60 期
->兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
@@ -228,7 +228,7 @@ const App = () => {
 
 16、[cool-admin-midway](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cool-team-official/cool-admin-midway)：一款基于 Node.js+midway.js 的后台权限管理系统。它开源免费不仅能够快速开发增删改查的需求，还支持 Serverless、Docker 等多种方便的部署方式，不管是用来学习如何开发管理后台，还是快速开发都是不错的选择
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/img/cool-admin-midway.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/img/cool-admin-midway.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -356,7 +356,7 @@ let secondGradient = [UIColor.blackColor(), UIColor.orangeColor()].gradient { gr
 ### 其它
 26、[azuredatastudio](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/azuredatastudio)：微软开源的数据库桌面管理工具。该工具支持 SQL Server、Azure SQL DB 和 SQL DW 数据库，Windows 下的安装包仅不到 100 MB，还支持另外两大操作系统 macOS 和 Linux。如果开发中用到了上面的几种数据库，就试试这款免费的数据库桌面管理工具吧
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/img/azuredatastudio.jpg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/img/azuredatastudio.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 27、[what-happens-when](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alex/what-happens-when)：该项目详细地解释了当你在浏览器中输入 google.com 按下回车后发生了什么。[中文](https://github.com/skyline75489/what-happens-when-zh_CN)
 
@@ -431,14 +431,14 @@ optim.step()
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/59/HelloGitHub59.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/59/HelloGitHub59.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/61/HelloGitHub61.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 6 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='http://gk.link/a/10q2z'>快速上手 Python 的方法</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝的活动<br>
+    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
     如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/60/'>这里</a> 获取更好的阅读体验。
 </p>
 

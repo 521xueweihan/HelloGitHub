@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 47 期
->兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
@@ -124,46 +124,18 @@ promisify(wx.getSystemInfo)().then(console.log)
 ### PHP 项目
 13、[clean-code-php](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jupeter/clean-code-php)：PHP 代码的整洁之道，整理了一系列整洁代码实操。小到变量细道 SOLID 都有涉猎，[中文译版](https://github.com/php-cpm/clean-code-php)
 
-14、[ext-collections](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CismonX/ext-collections)：一个 C 语言实现的 PHP 扩展库。提供了类似 Java stream API 和 kotlin.collections 的一系列库函数，方便开发者优雅、快速地操作 PHP 数组。
-- 提供了丰富的 PHP 数组操作函数，有助于提高开发效率和代码的可读性
-- 使用 C 语言实现，比同类 PHP 实现性能更高
-- 初学者可以通过阅读此项目代码帮助自己入门 PHP 扩展开发
-
-```php
-$employees = [
-    ['name' => 'Alice', 'sex' => 'female', 'age' => 35],
-    ['name' => 'Bob', 'sex' => 'male', 'age' => 29],
-    ['name' => 'David', 'sex' => 'male', 'age' => 40],
-    ['name' => 'Benjamin', 'sex' => 'male', 'age' => 32]
-];
-// Trying to get an array of names of male employees,
-// sorted by the descending order of their age.
-$names = Collection::init($employees)
-    ->filter(function ($value) {
-        return $value['sex'] == 'male';
-    })
-    ->sortedByDescending(function ($value) {
-        return $value['age'];
-    })
-    ->map(function ($value) {
-        return $value['name'];
-    })
-    ->toArray();
-// You got $names == ['David', 'Benjamin', 'Bob'].
-```
-
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-15、[wttr.in](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chubin/wttr.in)：一个 Python 实现的命令行查看天气工具
+14、[wttr.in](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chubin/wttr.in)：一个 Python 实现的命令行查看天气工具
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/wttr.png' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[activitywatch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ActivityWatch/activitywatch)：一个记录你的时间都花在那的 Python 项目。支持 Web 可视化，效果如下
+15、[activitywatch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ActivityWatch/activitywatch)：一个记录你的时间都花在那的 Python 项目。支持 Web 可视化，效果如下
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/activitywatch.png' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[akshare](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jindaxiang/akshare)：一款基于 Python 的开源金融数据接口库。提供了股票、期货、期权、基金、数字货币等金融产品的基本数据、实时和历史行情数据、衍生数据，包含数据采集、数据清洗、到数据落地的一套开源工具。满足了金融数据科学家、数据科学爱好者在金融数据获取方面的需求。示例代码：
+16、[akshare](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jindaxiang/akshare)：一款基于 Python 的开源金融数据接口库。提供了股票、期货、期权、基金、数字货币等金融产品的基本数据、实时和历史行情数据、衍生数据，包含数据采集、数据清洗、到数据落地的一套开源工具。满足了金融数据科学家、数据科学爱好者在金融数据获取方面的需求。示例代码：
 ```python
 import akshare as ak
 bond_df = ak.bond_spot_deal()
@@ -177,51 +149,51 @@ print(bond_df)
 4        15附息国债05  102.95   3.0359   -1.41   3.0359   None
 ```
 
-18、[repoll](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NaNShaner/repoll)：基于 Django 开发的 redis 集群管理、监控工具。功能包括：标准化申请流程、管理配置、监控接口等，减轻了运维人员的痛苦
+17、[repoll](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NaNShaner/repoll)：基于 Django 开发的 redis 集群管理、监控工具。功能包括：标准化申请流程、管理配置、监控接口等，减轻了运维人员的痛苦
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/repoll.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
-19、[Mos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Caldis/Mos)：一个用于在 macOS 上平滑鼠标滚动效果或单独设置滚动方向的小工具。让你的滚轮爽如触控板般丝滑
+18、[Mos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Caldis/Mos)：一个用于在 macOS 上平滑鼠标滚动效果或单独设置滚动方向的小工具。让你的滚轮爽如触控板般丝滑
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/Mos.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-20、[devops-exercises](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bregman-arie/devops-exercises)：这个仓库包含了 DevOps（开发运维）常见、流行服务相关的面试问题和回答，推荐给从事运维的同学
+19、[devops-exercises](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bregman-arie/devops-exercises)：这个仓库包含了 DevOps（开发运维）常见、流行服务相关的面试问题和回答，推荐给从事运维的同学
 
-21、[book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rust-lang/book)：《Rust 编程语言》这是官方出品的关于 Rust 的入门书籍
+20、[book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rust-lang/book)：《Rust 编程语言》这是官方出品的关于 Rust 的入门书籍
 
-22、[OnlineToolsBook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhaoolee/OnlineToolsBook)：该项目收集了一些有趣、实用的在线工具网站，点开即用
+21、[OnlineToolsBook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhaoolee/OnlineToolsBook)：该项目收集了一些有趣、实用的在线工具网站，点开即用
 
-23、[my-mac-os](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nikitavoloboev/my-mac-os)：该项目罗列了作者自用、收集的 macOS 上实用、炫酷的软件。我从中找到好几个炫酷、实用提高工作的工具，你也赶快来挑挑吧
+22、[my-mac-os](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nikitavoloboev/my-mac-os)：该项目罗列了作者自用、收集的 macOS 上实用、炫酷的软件。我从中找到好几个炫酷、实用提高工作的工具，你也赶快来挑挑吧
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/my-mac-os.png' style="max-width:80%; max-height=80%;"></img></p>
 
-24、[structured-text-tools](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dbohdan/structured-text-tools)：用于处理结构化文本数据（日志、JSON、YAML 等）的命令行工具列表
+23、[structured-text-tools](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dbohdan/structured-text-tools)：用于处理结构化文本数据（日志、JSON、YAML 等）的命令行工具列表
 
-25、[apisix](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/apisix)：一个云原生、高性能、可扩展的微服务 API 网关。它是基于 Nginx 和 etcd 来实现，和传统 API 网关相比，APISIX 具备动态路由和插件热加载，适合微服务体系下的 API 管理
+24、[apisix](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/apisix)：一个云原生、高性能、可扩展的微服务 API 网关。它是基于 Nginx 和 etcd 来实现，和传统 API 网关相比，APISIX 具备动态路由和插件热加载，适合微服务体系下的 API 管理
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/incubator-apisix.png' style="max-width:80%; max-height=80%;"></img></p>
 
-26、[app-ideas](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/florinpop17/app-ideas)：该收集了各类应用的想法，并按照易学程度把应用进行划分。你可以通过这个项目提高编程技术、学习新技术
+25、[app-ideas](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/florinpop17/app-ideas)：该收集了各类应用的想法，并按照易学程度把应用进行划分。你可以通过这个项目提高编程技术、学习新技术
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-27、[cookbook-2nd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ipython-books/cookbook-2nd)：《IPython Cookbook 第二版》
+26、[cookbook-2nd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ipython-books/cookbook-2nd)：《IPython Cookbook 第二版》
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/cookbook-2nd.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-28、[google-research](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google-research/google-research)：非官方整理的 Google AI Research 集合项目
+27、[google-research](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google-research/google-research)：非官方整理的 Google AI Research 集合项目
 
-29、[Retinanet-Pytorch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yatengLG/Retinanet-Pytorch)：一个以 Pytorch 深度学习库实现的 retinanet 目标检测模型。项目拥有清晰的结构、完善的注释以及详细的使用说明。适用于有些许深度学习基础的初学者进行学习或在实际的目标检测项目中使用
+28、[Retinanet-Pytorch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yatengLG/Retinanet-Pytorch)：一个以 Pytorch 深度学习库实现的 retinanet 目标检测模型。项目拥有清晰的结构、完善的注释以及详细的使用说明。适用于有些许深度学习基础的初学者进行学习或在实际的目标检测项目中使用
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -233,9 +205,9 @@ print(bond_df)
 
 ---
 <p align="center">
-    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 6 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='http://gk.link/a/10q2z'>快速上手 Python 的方法</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝的活动<br>
+    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
     如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/47/'>这里</a> 获取更好的阅读体验。
 </p>
 
