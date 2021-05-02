@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 28 期
->兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
@@ -84,7 +84,7 @@ int main(){
 
 8、[xinge-api-Golang](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xingePush/xinge-api-Golang)：腾讯信鸽 push v3 版的 Golang SDK。支持函数式配置项、标签推送、全平台推送、批量推送等
 
-9、[go-mysql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/siddontang/go-mysql)：监听 MySQL binlog 的库，可以用来把主库 MySQL 的变化同步到 Redis、elasticsearch 等。同时提供了一个类似阿里 canal 的工具库，监听并解析 binlog 变化。让管理数据和了解数据状态变得更加轻松
+9、[go-mysql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/go-mysql-org/go-mysql)：监听 MySQL binlog 的库，可以用来把主库 MySQL 的变化同步到 Redis、elasticsearch 等。同时提供了一个类似阿里 canal 的工具库，监听并解析 binlog 变化。让管理数据和了解数据状态变得更加轻松
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -210,9 +210,9 @@ graph.read(data);
 
 ---
 <p align="center">
-    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 6 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='http://gk.link/a/10q2z'>快速上手 Python 的方法</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝的活动<br>
+    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
     如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/28/'>这里</a> 获取更好的阅读体验。
 </p>
 

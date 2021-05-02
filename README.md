@@ -20,6 +20,7 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
+| [第 61 期](/content/61/HelloGitHub61.md) |
 | [第 60 期](/content/60/HelloGitHub60.md) | [第 59 期](/content/59/HelloGitHub59.md) | [第 58 期](/content/58/HelloGitHub58.md) | [第 57 期](/content/57/HelloGitHub57.md) | [第 56 期](/content/56/HelloGitHub56.md) |
 | [第 55 期](/content/55/HelloGitHub55.md) | [第 54 期](/content/54/HelloGitHub54.md) | [第 53 期](/content/53/HelloGitHub53.md) | [第 52 期](/content/52/HelloGitHub52.md) | [第 51 期](/content/51/HelloGitHub51.md) |
 | [第 50 期](/content/50/HelloGitHub50.md) | [第 49 期](/content/49/HelloGitHub49.md) | [第 48 期](/content/48/HelloGitHub48.md) | [第 47 期](/content/47/HelloGitHub47.md) | [第 46 期](/content/46/HelloGitHub46.md) |
@@ -42,10 +43,10 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://time.geekbang.org/column/intro/100029001?code=FNAcb0CTFNrDDOk79W3Zp256dg1ylKSUwAOLcnLidu4%3D">
+        <a href="http://gk.link/a/10q2z">
           <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/geektime.jpeg" width="50px"><br>
-          <sub>搞懂</sub><br>
-          <sub>HTTP 协议</sub>
+          <sub>实用的</sub><br>
+          <sub>Python</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
