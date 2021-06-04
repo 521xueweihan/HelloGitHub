@@ -184,7 +184,7 @@ dstImage := imaging.Sharpen(srcImage, 0.5)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/img/vardbg.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-22、[apkleaks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dwisiswant0/apkleaks)：扫描 APK 文件是否包含敏感信息的命令行工具。
+22、[apkleaks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dwisiswant0/apkleaks)：扫描 APK 文件是否包含敏感信息的命令行工具
 ```
 // custom-rules.json
 {
@@ -201,7 +201,7 @@ $ apkleaks -f /path/to/file.apk -p rules.json -o ~/Documents/apkleaks-results.tx
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Rust 项目
-24、[fselect](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jhspetersson/fselect)：用类 SQL 的命令查找文件的命令行工具。
+24、[fselect](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jhspetersson/fselect)：用类 SQL 的命令查找文件的命令行工具
 ```
 fselect size, path from /home/user where name = '*.cfg' or name = '*.tmp'
 fselect size, abspath from ./tmp where size gt 2g
@@ -271,12 +271,12 @@ fselect hsize, abspath from ./tmp where size lt 8k
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/60/HelloGitHub60.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/60/HelloGitHub60.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/62/HelloGitHub62.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    👉 <a href='http://gk.link/a/10q2z'>快速上手 Python 的方法</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 6 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
     不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
     如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/61/'>这里</a> 获取更好的阅读体验。

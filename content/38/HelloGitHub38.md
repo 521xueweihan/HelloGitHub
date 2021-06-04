@@ -41,7 +41,7 @@
 ### Go 项目
 2、[golang-developer-roadmap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Alikhll/golang-developer-roadmap)：成为 Go 开发者的学习路线图，[中文版](https://github.com/Alikhll/golang-developer-roadmap/blob/master/i18n/ReadMe-zh-CN.md)
 
-3、[scheduler](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hsxhr-10/scheduler)：Go 语言实现的作业调度工具包。适用于需要任务调度的场景，能够让初学者学到 time、reflect 等标准库的用法，[中文文档](https://github.com/prprprus/scheduler/blob/master/README-zh.md)
+3、[scheduler](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zongzhenh/scheduler)：Go 语言实现的作业调度工具包。适用于需要任务调度的场景，能够让初学者学到 time、reflect 等标准库的用法，[中文文档](https://github.com/prprprus/scheduler/blob/master/README-zh.md)
 
 4、[nic](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/EddieIvan01/nic)：一个易用的 HTTP Request 包。它封装了 Go 的 HTTP 标准库，提供了简洁优雅的 API。可以更轻松的发送HTTP 请求，解决了 Go 标准库自定义 HTTP 请求，操作 headers、cookies 时繁琐的步骤。类似于 Python 的 Requests 和 urllib 的区别。示例代码：
 ```go
@@ -283,7 +283,7 @@ class IrisClassifier(BentoService):
 
 ---
 <p align="center">
-    👉 <a href='http://gk.link/a/10q2z'>快速上手 Python 的方法</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 6 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
     不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
     如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/38/'>这里</a> 获取更好的阅读体验。
