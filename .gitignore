@@ -67,5 +67,6 @@ local_settings.py
 .DS_Store
 
 # hellogithub
+
 *.db
 content*.md
