@@ -46,7 +46,7 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
         <a href="https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592">
           <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/ucloud.png" width="50px"><br>
           <sub>云主机</sub><br>
-          <sub>仅 6 元/月</sub>
+          <sub>仅 4 元/月</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
