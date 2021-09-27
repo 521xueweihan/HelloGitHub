@@ -136,7 +136,7 @@ $ bash halo-cli.sh -u
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-11、[Gitter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kokohuang/Gitter)：GitHub 的小程序客户端。UI 设计漂亮，可作为小程序和 GitHub 结合的实战项目学习
+11、[Gitter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nslog11/Gitter)：GitHub 的小程序客户端。UI 设计漂亮，可作为小程序和 GitHub 结合的实战项目学习
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/Gitter.png' style="max-width:80%; max-height=80%;"></img></p>
 
