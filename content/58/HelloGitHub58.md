@@ -84,7 +84,7 @@ echo 'GET http://localhost:8080' | \
 
 8、[java-design-patterns](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iluwatar/java-design-patterns)：设计模式 Java 的最佳实践，出自开源社区大佬们之手。作为有梦想和追求的 Java 程序员，当然需要会一些设计模式啦。这个项目虽然是英文的但是先看代码和图，尝试理解含义那么英文描述也就能猜得八九不离十了。不要让英语作为你不努力的借口，努力变强吧！[在线阅读](https://java-design-patterns.com/)
 
-9、[apollo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ctripcorp/apollo)：携程开源的分布式配置中心。开箱即用理念发挥到极致，比如：服务器部分基于 Spring Boot 和 Spring Cloud 开发，运行方便无需额外的 Tomcat 应用容器。并且具备配置修改后即时生效、规范的权限、流程治理等特性，适用于微服务配置管理场景
+9、[apollo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apolloconfig/apollo)：携程开源的分布式配置中心。开箱即用理念发挥到极致，比如：服务器部分基于 Spring Boot 和 Spring Cloud 开发，运行方便无需额外的 Tomcat 应用容器。并且具备配置修改后即时生效、规范的权限、流程治理等特性，适用于微服务配置管理场景
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/img/apollo.jpg' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -157,7 +157,7 @@ redisClient.shutdown();
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/img/iDataV.png' style="max-width:80%; max-height=80%;"></img></p>
 
-15、[milkdown](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Saul-Mirone/milkdown)：一款清爽见即所得的 Markdown 编辑器。不同于大多数 Markdown 编辑器它是插件驱动的，类似开源可自由扩展的 Typora。项目由 prosemirror+remark 构建，入门开发者从中可以学习到如何使用 prosemirror 来开发富文本编辑器，以及如何设计一个针对编辑器的插件系统
+15、[milkdown](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Saul-Mirone/milkdown)：一款清爽所见即所得的 Markdown 编辑器。不同于大多数 Markdown 编辑器它是插件驱动的，类似开源可自由扩展的 Typora。项目由 prosemirror+remark 构建，入门开发者从中可以学习到如何使用 prosemirror 来开发富文本编辑器，以及如何设计一个针对编辑器的插件系统
 ```javascript
 import { Editor } from '@milkdown/core';
 import { commonmark } from '@milkdown/preset-commonmark';
@@ -262,7 +262,7 @@ print(ray.get(futures))
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
-25、[FlappySwift](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fullstackio/FlappySwift)：用 Swfit 写的愤怒小鸟游戏
+25、[FlappySwift](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fullstackio/FlappySwift)：用 Swfit 写的 Flappy Bird 游戏
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/img/FlappySwift.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -328,7 +328,7 @@ print(ray.get(futures))
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/64/HelloGitHub64.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/64/HelloGitHub64.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/66/HelloGitHub66.md">『下一期』</a>
 </p>
 
 ---
