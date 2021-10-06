@@ -141,7 +141,7 @@ StpUtil.switchTo(10044);                // 将当前会话身份临时切换为�
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-14、[mitojs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/clouDr-f2e/mitojs)：收集页面上的用户行为和报错信息的轻量级前端库。我问了下项目维护者，信息展示平台和后端服务还未开源，还需要等公司定开源协议。那就先看下前端的功能吧：
+14、[monitor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/clouDr-f2e/monitor)：收集页面上的用户行为和报错信息的轻量级前端库。我问了下项目维护者，信息展示平台和后端服务还未开源，还需要等公司定开源协议。那就先看下前端的功能吧：
 - 请求错误和代码报错上传
 - 收集用户点击、跳转行为
 - 支持 React、Vue、微信小程序

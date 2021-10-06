@@ -222,7 +222,7 @@ ReactDOM.render(
 
 26、[Front-End-Performance-Checklist](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/thedaviddias/Front-End-Performance-Checklist)：前端性能清单，让你的网站跑的更快。性能问题不光是后端要考虑的，它也是前端需要关注的。该项目列举了在设计和编写前端项目时，性能方面需要考虑、检查的地方
 
-27、[project-based-learning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tuvtran/project-based-learning)：编程教程仓库，这些教程分别使用不同的编程语言，从零构建应用程序。使读者通过实际项目案例，学习编译原理、操作系统、计算机网络、数据库等等。面向项目学习，比面向书本学习可操作性更高，更容易获得正向反馈
+27、[project-based-learning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/practical-tutorials/project-based-learning)：编程教程仓库，这些教程分别使用不同的编程语言，从零构建应用程序。使读者通过实际项目案例，学习编译原理、操作系统、计算机网络、数据库等等。面向项目学习，比面向书本学习可操作性更高，更容易获得正向反馈
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

@@ -284,7 +284,7 @@ Hello, Click!
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-26、[Visual-Studio-Code-Keymap-CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OrwillT/Visual-Studio-Code-Keymap-CN)：VS Code 编辑器官方快捷键查图汉化版
+26、[Visual-Studio-Code-Keymap-CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OrvilleQ/Visual-Studio-Code-Keymap-CN)：VS Code 编辑器官方快捷键查图汉化版
 
 27、[algorithm-visualizer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/algorithm-visualizer/algorithm-visualizer)：一个交互式算法可视化网站。你可以自由选择自己想学习的算法，每个算法它都清晰描绘了其原理和运作过程
 
