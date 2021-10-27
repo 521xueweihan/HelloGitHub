@@ -151,7 +151,7 @@ sjcl.encrypt("password", "data") //加密数据
 sjcl.decrypt("password", "encrypted-data") //解密数据
 ```
 
-17、[rubick](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/clouDr-f2e/rubick)：基于 Electron 开发的开源插件化工具箱。起初项目作者是 uTools 的用户但 uTools 没有开源，他又想接入公司内部的工具，然后 Rubick（拉比克）就诞生了。它实现了 uTools 的大部分功能，可以适配 uTools 丰富的开源插件，享受用完即走的便利
+17、[rubick](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rubickCenter/rubick)：基于 Electron 开发的开源插件化工具箱。起初项目作者是 uTools 的用户但 uTools 没有开源，他又想接入公司内部的工具，然后 Rubick（拉比克）就诞生了。它实现了 uTools 的大部分功能，可以适配 uTools 丰富的开源插件，享受用完即走的便利
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/rubick.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -166,18 +166,14 @@ sjcl.decrypt("password", "encrypted-data") //解密数据
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Kotlin 项目
-20、[FengYunWeather](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wsj1024/FengYunWeather)：开源的安卓天气 APP。使用 Kotlin 语言编写，采用 MVVM 架构和 OkHttp、coil、Room 等框架，代码逻辑清晰，适合新手入门和学习
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/FengYunWeather.png' style="max-width:80%; max-height=80%;"></img></p>
-
-21、[k-9](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/k9mail/k-9)：开源的 Android 电子邮件客户端
+20、[k-9](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/k9mail/k-9)：开源的 Android 电子邮件客户端
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/k-9.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-22、[tqsdk-python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shinnytech/tqsdk-python)：开源的 Python 量化交易框架。使用少量代码即可实现量化交易程序，还支持历史数据、实时数据、策略回测、实盘交易、图形化界面展示等功能。但免费版本仅提供全部的期货、商品/金融期权和上证50、沪深300 和中证500 的实时行情，付费版支持更多种类以及更加稳定的服务
+21、[tqsdk-python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shinnytech/tqsdk-python)：开源的 Python 量化交易框架。使用少量代码即可实现量化交易程序，还支持历史数据、实时数据、策略回测、实盘交易、图形化界面展示等功能。但免费版本仅提供全部的期货、商品/金融期权和上证50、沪深300 和中证500 的实时行情，付费版支持更多种类以及更加稳定的服务
 ```python
 from tqsdk import TqApi, TqAuth, TqAccount, TargetPosTask
 
@@ -203,7 +199,7 @@ while True:
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/tqsdk-python.png' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[Pillow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/python-pillow/Pillow)：最流行的 Python 图像处理库。它的诞生是由于 PIL 的年久失修，现已于 2011 年停止维护，所以开源爱好者们就在 PIL 的基础上创建了 Pillow。该库支持丰富的图像格式和强大的图像处理功能，如果你要用 Python 处理图像，它绝对是不二之选
+22、[Pillow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/python-pillow/Pillow)：最流行的 Python 图像处理库。它的诞生是由于 PIL 的年久失修，现已于 2011 年停止维护，所以开源爱好者们就在 PIL 的基础上创建了 Pillow。该库支持丰富的图像格式和强大的图像处理功能，如果你要用 Python 处理图像，它绝对是不二之选
 ```python
 # 安装：pip install pillow
 # 注意安装的版本，不同版本支持的 Python 版本也不同
@@ -219,15 +215,15 @@ grayscale.show()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/Pillow.png' style="max-width:80%; max-height=80%;"></img></p>
 
-24、[JDMemberCloseAccount](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yqchilde/JDMemberCloseAccount)：用 Python 操作 selenium 的实战项目。该项目以全自动退出京东加入的店铺会员为例，介绍了 Python 自动化的知识和方案
+23、[JDMemberCloseAccount](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yqchilde/JDMemberCloseAccount)：用 Python 操作 selenium 的实战项目。该项目以全自动退出京东加入的店铺会员为例，介绍了 Python 自动化的知识和方案
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/JDMemberCloseAccount.png' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[bigdata_analyse](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TurboWay/bigdata_analyse)：大数据分析实战项目的集合。该项目包含了淘宝、租房、招聘等数据的分析实例，不仅有 Python、SQL、HQL 的实例代码，还附上了数据集下载地址。想学习大数据的同学们，万事俱备就差你来学了
+24、[bigdata_analyse](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TurboWay/bigdata_analyse)：大数据分析实战项目的集合。该项目包含了淘宝、租房、招聘等数据的分析实例，不仅有 Python、SQL、HQL 的实例代码，还附上了数据集下载地址。想学习大数据的同学们，万事俱备就差你来学了
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/bigdata_analyse.png' style="max-width:80%; max-height=80%;"></img></p>
 
-26、[OnlineJudge](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/QingdaoU/OnlineJudge)：青岛大学开源的在线评测系统（OJ），采用 Django+Vue.js 实现。功能如下：
+25、[OnlineJudge](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/QingdaoU/OnlineJudge)：青岛大学开源的在线评测系统（OJ），采用 Django+Vue.js 实现。功能如下：
 - 基于 Docker 的一键部署
 - 支持 ACM/OI 两种比赛模式、实时/非实时评判
 - 丰富的可视化图表，一图胜千言
@@ -239,7 +235,7 @@ grayscale.show()
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
-27、[SwifterSwift](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SwifterSwift/SwifterSwift)：500合1 的原生 Swift 扩展库集合。集成了 500 多个原生 Swift 扩展的库，提供了更加方便的函数、语法糖、数据类型、UIKit 以及更高性能的 Cocoa 类，提高 Swift 的开发效率实现 1+1>2 的效果。适用于 iOS、macOS、tvOS 等系统
+26、[SwifterSwift](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SwifterSwift/SwifterSwift)：500合1 的原生 Swift 扩展库集合。集成了 500 多个原生 Swift 扩展的库，提供了更加方便的函数、语法糖、数据类型、UIKit 以及更高性能的 Cocoa 类，提高 Swift 的开发效率实现 1+1>2 的效果。适用于 iOS、macOS、tvOS 等系统
 ```swift
 // 原来使用 UIAlertController 实现提醒的代码如下：
 let alert = UIAlertController(title: "测试", message: "HelloGitHub", preferredStyle: .alert)
@@ -255,64 +251,64 @@ alert.show()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/SwifterSwift.png' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[firefox-ios](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mozilla-mobile/firefox-ios)：Firefox 浏览器 iOS 源码
+27、[firefox-ios](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mozilla-mobile/firefox-ios)：Firefox 浏览器 iOS 源码
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/firefox-ios.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-29、[nocodb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nocodb/nocodb)：开源的智能表格制作工具。我最初以为 nocodb 只是数据库桌面管理工具，后来我发现自己狭隘了。它不仅可以把数据库和图片等数据转化成表格的方式展现，还提供了团队协作、工作流接入以及更加开放 API 服务。让团队在数据上工作，数据就在手边“即视即用”。知名电子表格-数据库混合体 Airtable 产品的开源替代品
+28、[nocodb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nocodb/nocodb)：开源的智能表格制作工具。我最初以为 nocodb 只是数据库桌面管理工具，后来我发现自己狭隘了。它不仅可以把数据库和图片等数据转化成表格的方式展现，还提供了团队协作、工作流接入以及更加开放 API 服务。让团队在数据上工作，数据就在手边“即视即用”。知名电子表格-数据库混合体 Airtable 产品的开源替代品
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/nocodb.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[elasticsearch-dump](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/elasticsearch-dump/elasticsearch-dump)：Elasticsearch 数据导入/导出工具，可以用于 ES 的数据备份和迁移
+29、[elasticsearch-dump](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/elasticsearch-dump/elasticsearch-dump)：Elasticsearch 数据导入/导出工具，可以用于 ES 的数据备份和迁移
 
-31、[freeCodeCamp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/freeCodeCamp/freeCodeCamp)：免费学习编程的开源社区。它创立于 2014 年，期间帮助了无数编程爱好者学习编程，[中文站点](https://chinese.freecodecamp.org/)于 2021 年上线。freeCodeCamp 采用在线编程闯关的学习形式，遇到问题还可以通过活跃的社区答疑解惑。平台鼓励新手多动手写代码、运行代码，提倡 RSA 即：遇到问题先阅读文档资料，然后求助于搜索引擎，最后实在没招了再提问，这样有助于培养良好的提问习惯终身受益。同时作为非盈利组织，freeCodeCamp 不仅提供了免费学习的课程还开源了网站代码
+30、[freeCodeCamp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/freeCodeCamp/freeCodeCamp)：免费学习编程的开源社区。它创立于 2014 年，期间帮助了无数编程爱好者学习编程，[中文站点](https://chinese.freecodecamp.org/)于 2021 年上线。freeCodeCamp 采用在线编程闯关的学习形式，遇到问题还可以通过活跃的社区答疑解惑。平台鼓励新手多动手写代码、运行代码，提倡 RSA 即：遇到问题先阅读文档资料，然后求助于搜索引擎，最后实在没招了再提问，这样有助于培养良好的提问习惯终身受益。同时作为非盈利组织，freeCodeCamp 不仅提供了免费学习的课程还开源了网站代码
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/freeCodeCamp.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[developer-roadmap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kamranahmedse/developer-roadmap)：开发者学习路线图。这是一份包含后端、前端、运维部署等方向的学习路径图，帮你指明前进的方向。[中文](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
+31、[developer-roadmap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kamranahmedse/developer-roadmap)：开发者学习路线图。这是一份包含后端、前端、运维部署等方向的学习路径图，帮你指明前进的方向。[中文](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/developer-roadmap.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[adarkroom](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/doublespeakgames/adarkroom)：《小黑屋》是一款有趣的文字冒险类游戏。支持中文能够运行在浏览器、iOS 和 Android 设备，浏览器上默认会保存游戏进度到本地，另外还支持存档导入/导出防止丢失。友情提示：没玩过的同学刚开始容易摸不着头脑，因为事件触发需要时间，看滚动的文字+点击“添柴”耐心等 30 秒，就会触发新的事件了。如果你喜欢养成类游戏，那它一定会是你的菜。[在线试玩](http://adarkroom.doublespeakgames.com/?lang=zh_cn)
+32、[adarkroom](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/doublespeakgames/adarkroom)：《小黑屋》是一款有趣的文字冒险类游戏。支持中文能够运行在浏览器、iOS 和 Android 设备，浏览器上默认会保存游戏进度到本地，另外还支持存档导入/导出防止丢失。友情提示：没玩过的同学刚开始容易摸不着头脑，因为事件触发需要时间，看滚动的文字+点击“添柴”耐心等 30 秒，就会触发新的事件了。如果你喜欢养成类游戏，那它一定会是你的菜。[在线试玩](http://adarkroom.doublespeakgames.com/?lang=zh_cn)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/adarkroom.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[hyper](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vercel/hyper)：基于 Electron 的超高颜值终端工具。颜值即正义不仅在找对象时有用，挑工具时也同样奏效。它支持包括 Windows、Linux、macOS 等主流操作系统快下载试试，让你的终端漂亮得不像实力派
+33、[hyper](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vercel/hyper)：基于 Electron 的超高颜值终端工具。颜值即正义不仅在找对象时有用，挑工具时也同样奏效。它支持包括 Windows、Linux、macOS 等主流操作系统快下载试试，让你的终端漂亮得不像实力派
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/hyper.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[git-split-diffs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/banga/git-split-diffs)：更加直观展示代码改动的命令行工具。在终端上使用 `git diff` 查看修改时，默认的展示效果并不直观，该项目将代码的改动以类似 GitHub 网站的风格展示方便查看，还有多种主题可供选择
+34、[git-split-diffs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/banga/git-split-diffs)：更加直观展示代码改动的命令行工具。在终端上使用 `git diff` 查看修改时，默认的展示效果并不直观，该项目将代码的改动以类似 GitHub 网站的风格展示方便查看，还有多种主题可供选择
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/git-split-diffs.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-36、[understand_linux_process](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tobegit3hub/understand_linux_process)：《理解 Linux 进程》
+35、[understand_linux_process](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tobegit3hub/understand_linux_process)：《理解 Linux 进程》
 
-37、[http-api-guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bolasblack/http-api-guide)：《HTTP 接口设计指北》内容为设计 Web API 的一些建议
+36、[http-api-guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bolasblack/http-api-guide)：《HTTP 接口设计指北》内容为设计 Web API 的一些建议
 
-38、[CheatSheetSeries](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OWASP/CheatSheetSeries)：OWASP（开放式 Web 应用程序安全项目）速查表。项目由 OWASP 社区的安全专家编写，列举了多种安全问题和解决方案，从而更好地保护你的 Web 应用。[在线阅读](https://cheatsheetseries.owasp.org/)
+37、[CheatSheetSeries](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OWASP/CheatSheetSeries)：OWASP（开放式 Web 应用程序安全项目）速查表。项目由 OWASP 社区的安全专家编写，列举了多种安全问题和解决方案，从而更好地保护你的 Web 应用。[在线阅读](https://cheatsheetseries.owasp.org/)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/CheatSheetSeries.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-39、[HyperLPR](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/szad670401/HyperLPR)：中文车牌识别开源框架。支持 Python、Android、C++ 等编程语言调用，接入简单准确度较高。推荐给有车牌识别需求的小伙伴
+38、[HyperLPR](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/szad670401/HyperLPR)：中文车牌识别开源框架。支持 Python、Android、C++ 等编程语言调用，接入简单准确度较高。推荐给有车牌识别需求的小伙伴
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/HyperLPR.png' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[insightface](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/deepinsight/insightface)：支持 2D&3D 人脸分析的 Python 库。基于 PyTorch 和 MXNet 实现，采用先进的 ArcFace 人脸识别方法，高效地实现了人脸检测、识别等功能
+39、[insightface](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/deepinsight/insightface)：支持 2D&3D 人脸分析的 Python 库。基于 PyTorch 和 MXNet 实现，采用先进的 ArcFace 人脸识别方法，高效地实现了人脸检测、识别等功能
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/insightface.png' style="max-width:80%; max-height=80%;"></img></p>
 
-41、[Statistical-Learning-Method_Code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Dod-o/Statistical-Learning-Method_Code)：用 Python 实现《统计学习方法》书中的算法
+40、[Statistical-Learning-Method_Code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Dod-o/Statistical-Learning-Method_Code)：用 Python 实现《统计学习方法》书中的算法
 
-42、[DouZero_For_HappyDouDiZhu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu)：基于快手开源的斗地主强化学习框架，实现的欢乐斗地主 AI 助手
+41、[DouZero_For_HappyDouDiZhu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu)：基于快手开源的斗地主强化学习框架，实现的欢乐斗地主 AI 助手
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/img/DouZero_For_HappyDouDiZhu.png' style="max-width:80%; max-height=80%;"></img></p>
 

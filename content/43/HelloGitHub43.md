@@ -19,7 +19,6 @@
 - [Swift 项目](#Swift-项目)
 - [其它](#其它)
 - [开源书籍](#开源书籍)
-- [教程](#教程)
 - [机器学习](#机器学习)
 
 
@@ -269,7 +268,7 @@ import Percent
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-22、[curlconverter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NickCarneiro/curlconverter)：把 curl 命令转化成各语言的代码的工具，支持 Python、JavaScript、PHP、R、Go 等语言。[在线体验](https://curl.trillworks.com/)
+22、[curlconverter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/curlconverter/curlconverter)：把 curl 命令转化成各语言的代码的工具，支持 Python、JavaScript、PHP、R、Go 等语言。[在线体验](https://curl.trillworks.com/)
 
 23、[hub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/github/hub)：通过命令行的方式来操作 GitHub，支持绝大多数的操作。比如：创建远程仓库、删除远程仓库、提交 PR、管理 issue 等，常用操作：
 - 创建远程仓库：hub create github-repository
@@ -278,25 +277,22 @@ import Percent
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/img/hub.png' style="max-width:80%; max-height=80%;"></img></p>
 
-24、[cascadia-code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/cascadia-code)：微软开源的一套等宽字体，有趣的是可以组合字符创建新的字形。组合效果如下：
+24、[BigData-Notes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/heibaiying/BigData-Notes)：大数据入门教程，该教程介绍了大数据常用技术栈的基础和核心知识。内容涵盖：Hadoop、Spark、Storm、HBase、Hive、ZooKeeper、Kafka 等
+
+25、[cascadia-code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/cascadia-code)：微软开源的一套等宽字体，有趣的是可以组合字符创建新的字形。组合效果如下：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/img/cascadia-code.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[Administrative-divisions-of-China](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/modood/Administrative-divisions-of-China)：中国行政区划（五级）：省级、地级、县级、乡级和村级的数据集和爬虫程序
+26、[Administrative-divisions-of-China](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/modood/Administrative-divisions-of-China)：中国行政区划（五级）：省级、地级、县级、乡级和村级的数据集和爬虫程序
 
-26、[vim-airline](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vim-airline/vim-airline)：一个让每个 Vim 窗口的底部，都有一个漂亮状态行的插件。展示信息和效果如下图：
+27、[vim-airline](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vim-airline/vim-airline)：一个让每个 Vim 窗口的底部，都有一个漂亮状态行的插件。展示信息和效果如下图：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/img/vim-airline.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-27、[book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cosmicpython/book)：（英文）《Cosmic Python》讲述如何管理复杂性的 Pythonic 应用程序结构的书籍
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
-### 教程
-28、[BigData-Notes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/heibaiying/BigData-Notes)：大数据入门教程，该教程介绍了大数据常用技术栈的基础和核心知识。内容涵盖：Hadoop、Spark、Storm、HBase、Hive、ZooKeeper、Kafka 等
+28、[book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cosmicpython/book)：（英文）《Cosmic Python》讲述如何管理复杂性的 Pythonic 应用程序结构的书籍
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

@@ -135,7 +135,7 @@ promisify(wx.getSystemInfo)().then(console.log)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/activitywatch.png' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[akshare](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jindaxiang/akshare)：一款基于 Python 的开源金融数据接口库。提供了股票、期货、期权、基金、数字货币等金融产品的基本数据、实时和历史行情数据、衍生数据，包含数据采集、数据清洗、到数据落地的一套开源工具。满足了金融数据科学家、数据科学爱好者在金融数据获取方面的需求。示例代码：
+16、[akshare](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/akfamily/akshare)：一款基于 Python 的开源金融数据接口库。提供了股票、期货、期权、基金、数字货币等金融产品的基本数据、实时和历史行情数据、衍生数据，包含数据采集、数据清洗、到数据落地的一套开源工具。满足了金融数据科学家、数据科学爱好者在金融数据获取方面的需求。示例代码：
 ```python
 import akshare as ak
 bond_df = ak.bond_spot_deal()

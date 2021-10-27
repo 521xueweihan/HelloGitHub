@@ -44,7 +44,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C# 项目
-3、[Windows-Auto-Night-Mode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Armin2208/Windows-Auto-Night-Mode)：设置定时自动切换 Windows 10 深色和浅色主题的工具
+3、[Windows-Auto-Night-Mode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)：设置定时自动切换 Windows 10 深色和浅色主题的工具
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/Windows-Auto-Night-Mode.png' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -83,7 +83,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/seaweedfs.png' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[fate](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/godcong/fate)：起中文名工具，去吧！算名先生
+11、[fate](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/babyname/fate)：起中文名工具，去吧！算名先生
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

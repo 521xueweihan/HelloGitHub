@@ -18,7 +18,6 @@
 - [Swift 项目](#Swift-项目)
 - [其它](#其它)
 - [开源书籍](#开源书籍)
-- [教程](#教程)
 - [机器学习](#机器学习)
 
 
@@ -180,29 +179,26 @@ pyxel.run(update, draw)
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-22、[zju-icicles](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/QSCTech/zju-icicles)：浙江大学各种课程相关资源集合。包含：课程、作业、答案、复习资料、选课攻略等，是浙大在校生的必备资源，对于有考研想法的小伙伴而言也是很好的资源
+22、[nginx-admins-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/trimstray/nginx-admins-handbook)：该项目描述了如何提高 Nginx 的性能、安全性等方面的步骤，让你的网站在 SSL Labs 的评级到达 A+
 
-23、[awesome-scalability](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/binhnguyennus/awesome-scalability)：一个系统的阅读列表，描述了可扩展、高可用、高性能的大型系统背后的东西。每部分都是基于真实案例，讲述了如何搭建一个可扩展、高可用、高性能的大型系统，案例都是来自于经过数百万甚至数十亿用户实战检验的系统。对于所有工程师而言都是一个很好的学习资料，开卷有益
+23、[zju-icicles](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/QSCTech/zju-icicles)：浙江大学各种课程相关资源集合。包含：课程、作业、答案、复习资料、选课攻略等，是浙大在校生的必备资源，对于有考研想法的小伙伴而言也是很好的资源
 
-24、[awesome-wechat-weapp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/justjavac/awesome-wechat-weapp)：该项目收集了微信小程序开发过程中会使用到的资料、问题以及第三方组件库。随着微信小程序的市场越来越大，很多公司也专门以制作小程序为业，不论对感兴趣的人还是想自己动手做小程序的人而言，这份合集省去了不少查找资料的时间
+24、[awesome-scalability](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/binhnguyennus/awesome-scalability)：一个系统的阅读列表，描述了可扩展、高可用、高性能的大型系统背后的东西。每部分都是基于真实案例，讲述了如何搭建一个可扩展、高可用、高性能的大型系统，案例都是来自于经过数百万甚至数十亿用户实战检验的系统。对于所有工程师而言都是一个很好的学习资料，开卷有益
 
-25、[REKCARC-TSC-UHT](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PKUanonym/REKCARC-TSC-UHT)：清华大学计算机系课程相关资源集合。内容丰富，包含从大一到大四，跟着清华学子一起学习传说中高校的课程吧
+25、[awesome-wechat-weapp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/justjavac/awesome-wechat-weapp)：该项目收集了微信小程序开发过程中会使用到的资料、问题以及第三方组件库。随着微信小程序的市场越来越大，很多公司也专门以制作小程序为业，不论对感兴趣的人还是想自己动手做小程序的人而言，这份合集省去了不少查找资料的时间
 
-26、[SJTU-Courses](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/c-hj/SJTU-Courses)：上海交通大学课程资料分享
+26、[REKCARC-TSC-UHT](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PKUanonym/REKCARC-TSC-UHT)：清华大学计算机系课程相关资源集合。内容丰富，包含从大一到大四，跟着清华学子一起学习传说中高校的课程吧
 
-27、[libpku](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lib-pku/libpku)：由第三方整理的北京大学课程资料，涵盖了专业课、公选课、通选课等
+27、[SJTU-Courses](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/c-hj/SJTU-Courses)：上海交通大学课程资料分享
+
+28、[libpku](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lib-pku/libpku)：由第三方整理的北京大学课程资料，涵盖了专业课、公选课、通选课等
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-28、[prometheus-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yunlzheng/prometheus-book)：《Prometheus 操作指南》，[在线阅读](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart/why-monitor)
+29、[prometheus-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yunlzheng/prometheus-book)：《Prometheus 操作指南》，[在线阅读](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart/why-monitor)
 
-29、[the-craft-of-selfteaching](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/selfteaching/the-craft-of-selfteaching)：《自学是门手艺》一个编程入门者的自学心得。如今学习资源很多，对于初学者入门而言，最难的是如何自学，阅读本书打开编程自学大门吧
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
-### 教程
-30、[nginx-admins-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/trimstray/nginx-admins-handbook)：该项目描述了如何提高 Nginx 的性能、安全性等方面的步骤，让你的网站在 SSL Labs 的评级到达 A+
+30、[the-craft-of-selfteaching](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/selfteaching/the-craft-of-selfteaching)：《自学是门手艺》一个编程入门者的自学心得。如今学习资源很多，对于初学者入门而言，最难的是如何自学，阅读本书打开编程自学大门吧
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

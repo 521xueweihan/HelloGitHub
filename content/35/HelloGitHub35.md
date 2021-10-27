@@ -17,7 +17,6 @@
 - [Python 项目](#Python-项目)
 - [其它](#其它)
 - [开源书籍](#开源书籍)
-- [教程](#教程)
 - [机器学习](#机器学习)
 
 
@@ -224,21 +223,18 @@ if __name__ == '__main__':
 
 22、[OI-wiki](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OI-wiki/OI-wiki)：免费、开放、持续更新的编程竞赛相关知识教程。包含竞赛的基础知识、常见题型、解题思路以及常用工具等内容，帮助大家更快速、深入地学习编程竞赛相关知识
 
+23、[USTC-Course](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/USTC-Resource/USTC-Course)：该仓库收录中国科学技术大学众多课程资源。包括电子版教材、参考书、讲义、试卷、学习心得、习题解答等。以计算机学院课程为主，也包含公选课、自由选修等其他课程。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/USTC-CS-Courses-Resource.png' style="max-width:80%; max-height=80%;"></img></p>
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-23、[You-Dont-Know-JS](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/getify/You-Dont-Know-JS)：（英文）深入探讨 JavaScript 语言核心机制的书籍，适用于深入学习 JS。该书已出版，但在线阅读免费
+24、[You-Dont-Know-JS](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/getify/You-Dont-Know-JS)：（英文）深入探讨 JavaScript 语言核心机制的书籍，适用于深入学习 JS。该书已出版，但在线阅读免费
 
-24、[d2l-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/d2l-ai/d2l-zh)：《Dive into Deep Learning 》翻译版，即《动手学深度学习》。[在线阅读](http://zh.d2l.ai/)
+25、[d2l-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/d2l-ai/d2l-zh)：《Dive into Deep Learning 》翻译版，即《动手学深度学习》。[在线阅读](http://zh.d2l.ai/)
 
-25、[cppwasm-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/3dgen/cppwasm-book)：《C/C++ 面向 WebAssembly 编程》，[在线阅读](https://3dgen.cn/cppwasm-book/)
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
-### 教程
-26、[USTC-Course](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/USTC-Resource/USTC-Course)：该仓库收录中国科学技术大学众多课程资源。包括电子版教材、参考书、讲义、试卷、学习心得、习题解答等。以计算机学院课程为主，也包含公选课、自由选修等其他课程。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/USTC-CS-Courses-Resource.png' style="max-width:80%; max-height=80%;"></img></p>
+26、[cppwasm-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/3dgen/cppwasm-book)：《C/C++ 面向 WebAssembly 编程》，[在线阅读](https://3dgen.cn/cppwasm-book/)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

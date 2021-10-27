@@ -104,7 +104,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/img/gitstalk.png' style="max-width:80%; max-height=80%;"></img></p>
 
-15、[refined-github](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/refined-github)：一款 GitHub 的浏览器插件，支持 Chrome 和 Firefox。这款插件给 GitHub 增加了非常多强大的功能，比如一键合并冲突修复、等待 check 成功后合并 PR、在代码中链接到 Issue/PR 和 url 等，在 README 中有详细的功能列表，可以时常学习一下提高你的生产力
+15、[refined-github](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/refined-github/refined-github)：一款 GitHub 的浏览器插件，支持 Chrome 和 Firefox。这款插件给 GitHub 增加了非常多强大的功能，比如一键合并冲突修复、等待 check 成功后合并 PR、在代码中链接到 Issue/PR 和 url 等，在 README 中有详细的功能列表，可以时常学习一下提高你的生产力
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/img/refined-github.png' style="max-width:80%; max-height=80%;"></img></p>
 
