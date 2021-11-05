@@ -92,7 +92,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/img/rosedb.png' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[cointop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/miguelmota/cointop)：用于追踪加密货币行情的命令行工具。界面仿照 htop 支持类似 Vim 的快捷键，程序员摸鱼神器。[在线体验](https://cointop.sh/)
+11、[cointop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cointop-sh/cointop)：用于追踪加密货币行情的命令行工具。界面仿照 htop 支持类似 Vim 的快捷键，程序员摸鱼神器。[在线体验](https://cointop.sh/)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/img/cointop.png' style="max-width:80%; max-height=80%;"></img></p>
 

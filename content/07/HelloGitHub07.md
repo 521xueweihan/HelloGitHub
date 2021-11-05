@@ -44,7 +44,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
-3、[cpr](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/whoshuu/cpr)：C++ 版 `Request for human`，[在线文档](https://whoshuu.github.io/cpr/)，示例代码：
+3、[cpr](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/libcpr/cpr)：C++ 版 `Request for human`，[在线文档](https://whoshuu.github.io/cpr/)，示例代码：
 ```C++
 #include <cpr/cpr.h>
 

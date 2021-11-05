@@ -153,7 +153,7 @@ redisClient.shutdown();
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/img/didact.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-14、[iDataV](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yyhsong/iDataV)：大屏数据可视化项目集合。[在线查看](https://yyhsong.github.io/iDataV/)
+14、[iDataV](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yyhsong/iDataV)：大屏数据可视化项目集合
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/img/iDataV.png' style="max-width:80%; max-height=80%;"></img></p>
 
