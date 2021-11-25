@@ -23,7 +23,7 @@ The [latest article](https://github.com/521xueweihan/HelloGitHub/blob/master/con
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [NO.67](/content/67/HelloGitHub67.md) | [NO.66](/content/66/HelloGitHub66.md) |
+| [NO.68](/content/68/HelloGitHub68.md) | [NO.67](/content/67/HelloGitHub67.md) | [NO.66](/content/66/HelloGitHub66.md) |
 | [NO.65](/content/65/HelloGitHub65.md) | [NO.64](/content/64/HelloGitHub64.md) | [NO.63](/content/63/HelloGitHub63.md) | [NO.62](/content/62/HelloGitHub62.md) | [NO.61](/content/61/HelloGitHub61.md) |
 | [NO.60](/content/60/HelloGitHub60.md) | [NO.59](/content/59/HelloGitHub59.md) | [NO.58](/content/58/HelloGitHub58.md) | [NO.57](/content/57/HelloGitHub57.md) | [NO.56](/content/56/HelloGitHub56.md) |
 | [NO.55](/content/55/HelloGitHub55.md) | [NO.54](/content/54/HelloGitHub54.md) | [NO.53](/content/53/HelloGitHub53.md) | [NO.52](/content/52/HelloGitHub52.md) | [NO.51](/content/51/HelloGitHub51.md) |

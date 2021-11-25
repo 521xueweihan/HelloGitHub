@@ -35,7 +35,7 @@
 > **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
-1、[bytehound](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/koute/bytehound)：更强大的 Linux 内存分析工具。它能够显示内存变化曲线、占用详情、完整的堆栈记录等信息，有助于解决内容泄漏等问题
+1、[bytehound](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/koute/bytehound)：更强大的 Linux 内存分析工具。它能够显示内存变化曲线、占用详情、完整的堆栈记录等信息，有助于解决内存泄漏等问题
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/img/bytehound.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -287,7 +287,7 @@ df = q.collect()
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/66/HelloGitHub66.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/66/HelloGitHub66.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/68/HelloGitHub68.md">『下一期』</a>
 </p>
 
 ---
