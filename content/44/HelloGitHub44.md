@@ -31,17 +31,17 @@
 > **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
-1、[scrcpy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Genymobile/scrcpy)：一款可以用电脑显示并控制 Android 手机的开源工具。连接方便使用方便，手机无需 root、无需安装任何应用。支持 USB、Wi-Fi 两种方式连接，支持 Windows、macOS、Linux 三种操作系统。注意电脑端需要安装 adb 工具
+1、[netdata](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/netdata/netdata)：一款免费开源的 Linux 系统性能实时监控工具。它易于安装、占用资源少、功能强大，支持监控多种服务
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/netdata.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+2、[scrcpy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Genymobile/scrcpy)：一款可以用电脑显示并控制 Android 手机的开源工具。连接方便使用方便，手机无需 root、无需安装任何应用。支持 USB、Wi-Fi 两种方式连接，支持 Windows、macOS、Linux 三种操作系统。注意电脑端需要安装 adb 工具
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/scrcpy.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
-2、[netdata](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/netdata/netdata)：一款免费开源的 Linux 系统性能实时监控工具。它易于安装、占用资源少、功能强大，支持监控多种服务
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/netdata.gif' style="max-width:80%; max-height=80%;"></img></p>
-
 3、[musikcube](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/clangen/musikcube)：一个使用 C++ 编写的终端的音乐播放器，也可以作为一个音频引擎、元数据索引器和服务器。musikcube 可以在 Windows、MacOS 、Linux 以及带有 raspbian 的树莓派上轻松编译和运行。虽然它只能在终端上使用，但是功能应有尽有。使用方法详见 [User Guide](https://github.com/clangen/musikcube/wiki/user-guide)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/musikcube.png' style="max-width:80%; max-height=80%;"></img></p>

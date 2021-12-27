@@ -235,7 +235,7 @@ urlpatterns = [
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-26、[toml](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/toml-lang/toml)：更易读和易于维护的配置文件格式。如果你厌倦了 INI 的局限性、层层嵌套的 JSON 和 YAML 令人心惊胆战的缩进语法，不防给 TOML 一个机会，它支持多种数据类型、抛弃了缩进和嵌套，而且众多流行编程语言都有对应的库。TOML 已经足够成熟，绝对值得一试。[查看文档](https://toml.io/cn/v1.0.0)
+26、[toml](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/toml-lang/toml)：更易读和易于维护的配置文件格式。如果你厌倦了 INI 的局限性、层层嵌套的 JSON 和 YAML 令人心惊胆战的缩进语法，不妨给 TOML 一个机会，它支持多种数据类型、抛弃了缩进和嵌套，而且众多流行编程语言都有对应的库。TOML 已经足够成熟，绝对值得一试。[查看文档](https://toml.io/cn/v1.0.0)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/img/toml.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -284,7 +284,7 @@ urlpatterns = [
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/67/HelloGitHub67.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/67/HelloGitHub67.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/69/HelloGitHub69.md">『下一期』</a>
 </p>
 
 ---
