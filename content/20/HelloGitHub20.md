@@ -51,7 +51,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/20/img/milligram-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-4、[magic-of-css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/adamschwartz/magic-of-css)：一套可以让你成为‘魔术师’的 CSS 教程（英文）
+4、[magic-of-css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/adamschwartz/magic-of-css)：一套可以让你成为“魔术师”的 CSS 教程（英文）
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
