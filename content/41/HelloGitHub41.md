@@ -173,7 +173,7 @@ SmartSwipeRefresh.translateMode(view, false).setDataLoader(loader);
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-16、[Jtyoui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jtyoui/Jtyoui)：帮助学习 Python 的代码集合包。包含 20 多个简单易用的常用方法和数学函数，大多数方法在 100 行左右，而且每一个类的使用都有对应的测试用例。非常方便初学者学习，也可以帮助有经验的开发者快速实现一些功能。示例代码：
+16、[PyUnit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jtyoui/PyUnit)：帮助学习 Python 的代码集合包。包含 20 多个简单易用的常用方法和数学函数，大多数方法在 100 行左右，而且每一个类的使用都有对应的测试用例。非常方便初学者学习，也可以帮助有经验的开发者快速实现一些功能。示例代码：
 ```python
 # 这是一个阳历转化农历的程序
 from jtyoui.plunar import SC

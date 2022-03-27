@@ -189,7 +189,7 @@ pyxel.run(update, draw)
 
 26、[REKCARC-TSC-UHT](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PKUanonym/REKCARC-TSC-UHT)：清华大学计算机系课程相关资源集合。内容丰富，包含从大一到大四，跟着清华学子一起学习传说中高校的课程吧
 
-27、[SJTU-Courses](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/c-hj/SJTU-Courses)：上海交通大学课程资料分享
+27、[SJTU-Courses](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kxxwz/SJTU-Courses)：上海交通大学课程资料分享
 
 28、[libpku](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lib-pku/libpku)：由第三方整理的北京大学课程资料，涵盖了专业课、公选课、通选课等
 

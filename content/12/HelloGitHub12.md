@@ -94,7 +94,7 @@
 
 7、[standard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/standard/standard)：统一 JavaScript，只需一种样式，[中文](https://github.com/feross/standard/blob/master/docs/README-zhtw.md)
 
-8、[screenfull.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/screenfull.js)：极小、跨平台的 JavaScript 全屏插件，[在线 demo](https://sindresorhus.com/screenfull.js/)
+8、[screenfull](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/screenfull)：极小、跨平台的 JavaScript 全屏插件，[在线 demo](https://sindresorhus.com/screenfull.js/)
 
 9、[octotree](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ovity/octotree)：为 GitHub 和 GitLab 网站，提供直观地显示项目目录结构的浏览器插件，效果如下：
 

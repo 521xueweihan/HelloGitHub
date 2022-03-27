@@ -36,7 +36,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-2、[annie](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iawia002/annie)：Go 编写的快速、简单、干净的视频下载程序。支持哔哩哔哩、YouTube 视频网站
+2、[lux](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iawia002/lux)：Go 编写的快速、简单、干净的视频下载程序。支持哔哩哔哩、YouTube 视频网站
 ```
 $ annie -c cookies.txt https://www.bilibili.com/video/av20203945/
 
@@ -185,7 +185,7 @@ ws_api.get_gzh_info('微信名称')
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-21、[AiLearning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apachecn/AiLearning)：ApacheCN 制作的《机器学习实战》。配套视频：编码能力强，建议观看[《机器学习实战 - 教学版》](https://space.bilibili.com/97678687/#/channel/detail?cid=22486)。
+21、[ailearning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apachecn/ailearning)：ApacheCN 制作的《机器学习实战》。配套视频：编码能力强，建议观看[《机器学习实战 - 教学版》](https://space.bilibili.com/97678687/#/channel/detail?cid=22486)。
 编码能力弱，建议观看[《机器学习实战 - 讨论版》](https://space.bilibili.com/97678687/#/channel/detail?cid=13045)
 
 22、[tensorflow-docs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xitu/tensorflow-docs)：TensorFlow Docs 是由掘金翻译计划实时维护的 TensorFlow 官方文档中文版，维护者为全球各大公司开发人员和各著名高校研究者及学生

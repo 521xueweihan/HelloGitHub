@@ -85,7 +85,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-10、[Linkis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/WeBankFinTech/Linkis)：一款支持多种计算存储引擎的企业级计算中间件。打通了 Spark、TiSpark、Hive 等存储引擎，提供统一作业执行服务，支持提交 SQL、PySpark、HQL 等各种脚本的计算请求
+10、[incubator-linkis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/incubator-linkis)：一款支持多种计算存储引擎的企业级计算中间件。打通了 Spark、TiSpark、Hive 等存储引擎，提供统一作业执行服务，支持提交 SQL、PySpark、HQL 等各种脚本的计算请求
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/img/Linkis.png' style="max-width:80%; max-height=80%;"></img></p>
 
