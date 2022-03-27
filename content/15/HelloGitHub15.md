@@ -63,7 +63,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/font-spider-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[slick](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kenwheeler/slick)：实现了几乎所有效果的轮播图插件，[在线演示](http://kenwheeler.github.io/slick/)
+9、[slick](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kenwheeler/slick)：基于 jQuery 的触摸式幻灯片插件。支持动态增加、筛选、轮播、自动播放、延迟加载等功能，[中文官网](https://www.slickjs.cn/)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -144,7 +144,7 @@ def test():
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/spacevim-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-21、[English-level-up-tips-for-Chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/byoungd/English-level-up-tips-for-Chinese)：如何提高英语技能
+21、[English-level-up-tips](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/byoungd/English-level-up-tips)：如何提高英语技能
 
 22、[ch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xnum/ch)：类似 virtualenv，可以在 Linux 下建立虛拟的 home 目录並切换，以管理不同工作或项目的文件
 

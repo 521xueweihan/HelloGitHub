@@ -63,7 +63,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/img/stylus-shortcut.png' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[pattern.css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bansal-io/pattern.css)：用漂亮的图形填充背景的 CSS 库
+6、[pattern.css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bansal/pattern.css)：用漂亮的图形填充背景的 CSS 库
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/img/pattern-css.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -85,7 +85,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/img/bubbletea.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-10、[rosedb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/roseduan/rosedb)：一个完全用 Go 写的 Key-Value 数据库。rosedb 适合在找 Go 实战项目的小伙伴们，因为项目代码简洁、注释清晰，配上作者录制的讲解视频。你可以从中学到 Go 相关的知识
+10、[rosedb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/flower-corp/rosedb)：一个完全用 Go 写的 Key-Value 数据库。rosedb 适合在找 Go 实战项目的小伙伴们，因为项目代码简洁、注释清晰，配上作者录制的讲解视频。你可以从中学到 Go 相关的知识
 - 实用的高级特性，比如：goroutine、chan、mutex
 - 数据结构及算法相关知识，比如：链表、哈希表、跳表等
 - 操作系统的一些知识，特别是文件系统和内存映射

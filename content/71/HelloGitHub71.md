@@ -189,7 +189,7 @@ String jws = Jwts.builder().setSubject("HelloGitHub").signWith(key).compact();
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/img/handle.png' style="max-width:80%; max-height=80%;"></img></p>
 
-19、[noclip](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/magcius/noclip.website)：电子游戏关卡的数字博物馆。该项目包含了很多游戏的场景模型，可在线自由浏览。[在线体验](https://noclip.website/)
+19、[noclip.website](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/magcius/noclip.website)：电子游戏关卡的数字博物馆。该项目包含了很多游戏的场景模型，可在线自由浏览。[在线体验](https://noclip.website/)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/img/noclip.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -212,7 +212,7 @@ String jws = Jwts.builder().setSubject("HelloGitHub").signWith(key).compact();
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Kotlin 项目
-23、[RocketXPlugin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/trycatchx/RocketXPlugin)：加速 Android APK 编译的插件。它会自动识别未改动模块并在编译流程中替换为 AAR，最后只编译改动过的模块，从而实现加速的效果
+23、[RocketX](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/trycatchx/RocketX)：加速 Android APK 编译的插件。它会自动识别未改动模块并在编译流程中替换为 AAR，最后只编译改动过的模块，从而实现加速的效果
 ```
 // app module 的 build.gradle 加入
 apply plugin: 'com.rocketx'
@@ -335,7 +335,7 @@ try app.run()
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/70/HelloGitHub70.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/70/HelloGitHub70.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/72/HelloGitHub72.md">『下一期』</a>
 </p>
 
 ---

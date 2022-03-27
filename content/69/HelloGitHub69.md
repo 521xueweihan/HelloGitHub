@@ -117,7 +117,7 @@
 ### Java 项目
 14、[AndResGuard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shwenzhang/AndResGuard)：混淆压缩 APK 的工具。原理是采用资源混淆的方式，不涉及编译过程仅通过变短资源路径实现压缩和混淆，使用方法简单只需传入一个打包好的 APK 文件
 
-15、[datahub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/linkedin/datahub)：基于 Java 开发的元数据治理平台，可接入 Hive、Kafka、ES、MySQL 等数据源。随着公司业务的发展，数据的复杂度会呈指数倍增长，通过文档和口口相传的方式管理数据关系的方式终将被淘汰。如果你体验过到处问数据库的字段含义、没捋清某个字段导致线上事故、分析数据毫无头绪等情况。这个时候就需要元数据治理平台，它提供浏览、搜索和管理每个字段的含义、关系、来源等信息，通过元数据的方式更好的治理和挖掘数据的价值。[在线体验](https://demo.datahubproject.io/)
+15、[datahub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/datahub-project/datahub)：基于 Java 开发的元数据治理平台，可接入 Hive、Kafka、ES、MySQL 等数据源。随着公司业务的发展，数据的复杂度会呈指数倍增长，通过文档和口口相传的方式管理数据关系的方式终将被淘汰。如果你体验过到处问数据库的字段含义、没捋清某个字段导致线上事故、分析数据毫无头绪等情况。这个时候就需要元数据治理平台，它提供浏览、搜索和管理每个字段的含义、关系、来源等信息，通过元数据的方式更好的治理和挖掘数据的价值。[在线体验](https://demo.datahubproject.io/)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/img/datahub.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -129,7 +129,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/img/questdb.png' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[addax](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wgzhao/addax)：支持多种异构数据源离线同步工具。服务于大数据的 ETL 工具，可快速实现 MySQL、HDFS、Hive、HBase 等数据源之间的数据同步，主要用于离线采集各类数据到数据仓库或者大数据平台
+18、[Addax](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wgzhao/Addax)：支持多种异构数据源离线同步工具。服务于大数据的 ETL 工具，可快速实现 MySQL、HDFS、Hive、HBase 等数据源之间的数据同步，主要用于离线采集各类数据到数据仓库或者大数据平台
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/img/addax.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -301,7 +301,7 @@ if __name__ == "__main__":
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/img/wsa_pacman.png' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[appflowy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AppFlowy-IO/appflowy)：开源笔记工具。基于 Flutter 开发适用于各种操作系统，目标是成为 Notion 的代替品
+36、[AppFlowy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AppFlowy-IO/AppFlowy)：开源笔记工具。基于 Flutter 开发适用于各种操作系统，目标是成为 Notion 的代替品
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/img/appflowy.png' style="max-width:80%; max-height=80%;"></img></p>
 
