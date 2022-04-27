@@ -39,7 +39,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C# 项目
-2、[Notepads](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JasonStein/Notepads)：一款基于 C# 开发的 UWP 文本编辑器。该记事本应用是由一位国人开发，采用了 Fluent Design。轻便、美观，打开速度飞快，支持 Markdown 预览、文件更改前后对比和多标签页。它没有 VS Code 或是 Sublime 那么强，但是完全可以代替 Windows 系统自带的笔记本应用
+2、[Notepads](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/0x7c13/Notepads)：一款基于 C# 开发的 UWP 文本编辑器。该记事本应用是由一位国人开发，采用了 Fluent Design。轻便、美观，打开速度飞快，支持 Markdown 预览、文件更改前后对比和多标签页。它没有 VS Code 或是 Sublime 那么强，但是完全可以代替 Windows 系统自带的笔记本应用
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/img/Notepads.png' style="max-width:80%; max-height=80%;"></img></p>
 

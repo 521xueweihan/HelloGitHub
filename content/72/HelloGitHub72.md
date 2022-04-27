@@ -73,7 +73,7 @@ hashcat -a 3 -m 0 --force 0D7002A70CCDE8BF4BA2A4A5572A85E9(密码md5字符串) ?
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/Monitorian.png' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[PluginCore](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yiyungent/PluginCore)：适用于 ASP.NET Core 的轻量级插件框架。开箱即用自带插件管理 Web 界面
-```c#
+```csharp
 public void ConfigureServices(IServiceCollection services)
 {
     // ...
@@ -167,7 +167,7 @@ fmt.Println("cut use hmm: ", hmm)
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-11、[LSPosed](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LSPosed/LSPosed)：运行于 Android 操作系统的钩子框架。支持 Android 8-11 系统，能够拦截几乎所有 Java 函数的调用，从而可被用来修改 Android 系统和软件的功能
+11、[LSPosed](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LSPosed/LSPosed)：运行于 Android 操作系统的钩子框架。支持 Android 8 以上，能够拦截几乎所有 Java 函数的调用，从而可被用来修改 Android 系统和软件的功能
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/LSPosed.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -391,7 +391,7 @@ class PreprocImg(Executor):
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/71/HelloGitHub71.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/71/HelloGitHub71.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/73/HelloGitHub73.md">『下一期』</a>
 </p>
 
 ---
