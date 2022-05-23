@@ -31,17 +31,17 @@
 > **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
-1、[scrcpy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Genymobile/scrcpy)：一款可以用电脑显示并控制 Android 手机的开源工具。连接方便使用方便，手机无需 root、无需安装任何应用。支持 USB、Wi-Fi 两种方式连接，支持 Windows、macOS、Linux 三种操作系统。注意电脑端需要安装 adb 工具
+1、[netdata](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/netdata/netdata)：一款免费开源的 Linux 系统性能实时监控工具。它易于安装、占用资源少、功能强大，支持监控多种服务
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/netdata.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+2、[scrcpy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Genymobile/scrcpy)：一款可以用电脑显示并控制 Android 手机的开源工具。连接方便使用方便，手机无需 root、无需安装任何应用。支持 USB、Wi-Fi 两种方式连接，支持 Windows、macOS、Linux 三种操作系统。注意电脑端需要安装 adb 工具
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/scrcpy.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
-2、[netdata](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/netdata/netdata)：一款免费开源的 Linux 系统性能实时监控工具。它易于安装、占用资源少、功能强大，支持监控多种服务
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/netdata.gif' style="max-width:80%; max-height=80%;"></img></p>
-
 3、[musikcube](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/clangen/musikcube)：一个使用 C++ 编写的终端的音乐播放器，也可以作为一个音频引擎、元数据索引器和服务器。musikcube 可以在 Windows、MacOS 、Linux 以及带有 raspbian 的树莓派上轻松编译和运行。虽然它只能在终端上使用，但是功能应有尽有。使用方法详见 [User Guide](https://github.com/clangen/musikcube/wiki/user-guide)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/musikcube.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -124,13 +124,11 @@ ReactDOM.render(<QierPlayer srcOrigin="你的视频地址"/>, document.getElemen
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/qier-player.png' style="max-width:80%; max-height=80%;"></img></p>
 
-15、[zh.javascript.info](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/javascript-tutorial/zh.javascript.info)：《现代 JavaScript 教程》是以最新的 JavaScript 标准为基准的教程。通过简单但详细的内容，讲解从基础到高阶的 JavaScript 相关知识，能够帮助初中级前端提升 JavaScript 等前端技术水平。[在线阅读](https://zh.javascript.info/)
-
-16、[glut](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LeeLejia/glut)：一款用于团队内部 chrome 工具共享的工具，可以理解为 chrome 的小程序。它提供了比页面脚本更多的 API，可是实现更丰富的功能。可以随时在页面打开的小组件，它既可以作为页面的辅助工具或者也可以提供独立的功能。演示如下：
+15、[glut](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LeeLejia/glut)：一款用于团队内部 chrome 工具共享的工具，可以理解为 chrome 的小程序。它提供了比页面脚本更多的 API，可是实现更丰富的功能。可以随时在页面打开的小组件，它既可以作为页面的辅助工具或者也可以提供独立的功能。演示如下：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/glut.png' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[svrx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/svrxjs/svrx)：一个易于使用、插件化的前端开发工作台。帮助前端开发人员把折腾开发环境的时间，省下来做更有意义的事。快速开始：
+16、[svrx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/svrxjs/svrx)：一个易于使用、插件化的前端开发工作台。帮助前端开发人员把折腾开发环境的时间，省下来做更有意义的事。快速开始：
 1. 安装：`npm install -g @svrx/cli`
 2. 创建目录：`mkdir example && cd example`
 3. 创建文件：`echo '<html><body>Hello svrx!</body></html>' > index.html`
@@ -138,40 +136,40 @@ ReactDOM.render(<QierPlayer srcOrigin="你的视频地址"/>, document.getElemen
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/svrx.png' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[paint](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dli/paint)：在线体验下油画创作。呈上我的“杰作”：
+17、[paint](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dli/paint)：在线体验下油画创作。呈上我的“杰作”：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/paint.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
-19、[SyncMusic](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kasuganosoras/SyncMusic)：基于 PHP Swoole 开发的在线弹幕点歌台。支持自由点歌、切歌、调整排序、删除指定音乐以及基础权限分级
+18、[SyncMusic](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kasuganosoras/SyncMusic)：基于 PHP Swoole 开发的在线弹幕点歌台。支持自由点歌、切歌、调整排序、删除指定音乐以及基础权限分级
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/SyncMusic.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-20、[pyflame](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/uber-archive/pyflame)：Uber 开源的 Python 性能分析工具。可以在不修改代码的情况下分析 Python 程序的性能，同时生成火焰图
+19、[pyflame](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/uber-archive/pyflame)：Uber 开源的 Python 性能分析工具。可以在不修改代码的情况下分析 Python 程序的性能，同时生成火焰图
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/pyflame.png' style="max-width:80%; max-height=80%;"></img></p>
 
-21、[Gooey](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chriskiehl/Gooey)：一个把 Python 命令行工具转化成 GUI 桌面工具的库。就我个人还是喜欢命令行的形式😅
+20、[Gooey](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chriskiehl/Gooey)：一个把 Python 命令行工具转化成 GUI 桌面工具的库。就我个人还是喜欢命令行的形式😅
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/Gooey.png' style="max-width:80%; max-height=80%;"></img></p>
 
-22、[opendevops](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/opendevops-cn/opendevops)：一款基于 tornado 的开源自动化运维云管理平台。支持：ITSM、权限系统、Web Terminnal 登陆日志审计、录像回放、监控报警系统、DNS 管理、配置中心等
+21、[opendevops](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/opendevops-cn/opendevops)：一款基于 tornado 的开源自动化运维云管理平台。支持：ITSM、权限系统、Web Terminnal 登陆日志审计、录像回放、监控报警系统、DNS 管理、配置中心等
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/opendevops.png' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[KubeOperator](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/KubeOperator/KubeOperator)：用 Python 语言开发的开源容器集群管理平台。在离线网络环境下通过可视化 Web UI 在 VMware、Openstack 或者物理机上规划、部署和管理生产级别的 Kubernetes 集群。开启你的 Kubernetes 之旅
+22、[KubeOperator](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/KubeOperator/KubeOperator)：用 Python 语言开发的开源容器集群管理平台。在离线网络环境下通过可视化 Web UI 在 VMware、Openstack 或者物理机上规划、部署和管理生产级别的 Kubernetes 集群。开启你的 Kubernetes 之旅
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/KubeOperator.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
-24、[SwiftyGif](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kirualex/SwiftyGif)：高性能且上手容易的 Swift GIF 库。示例代码：
+23、[SwiftyGif](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kirualex/SwiftyGif)：高性能且上手容易的 Swift GIF 库。示例代码：
 ```swift
 import SwiftyGif
 
@@ -187,20 +185,22 @@ do {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/SwiftyGif.png' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[pock](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pock/pock)：一款在苹果电脑的触控栏中，显示 macOS 程序坞的开源工具
+24、[pock](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pock/pock)：一款在苹果电脑的触控栏中，显示 macOS 程序坞的开源工具
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/Pock.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-26、[infer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facebook/infer)：Facebook 开源的一个支持 Objective-C、Java 和 C 语言的静态分析工具，用它可以检测 Android、iOS 代码中的资源泄漏、内存泄漏、空指针等问题。建议集成到客户端发布的流程环节中，它能够将客户端应用的一些严重 Bug 扼杀在发布应用之前，同时减少应用崩溃和性能低下的情况
+25、[infer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facebook/infer)：Facebook 开源的一个支持 Objective-C、Java 和 C 语言的静态分析工具，用它可以检测 Android、iOS 代码中的资源泄漏、内存泄漏、空指针等问题。建议集成到客户端发布的流程环节中，它能够将客户端应用的一些严重 Bug 扼杀在发布应用之前，同时减少应用崩溃和性能低下的情况
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/infer.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[git-quick-stats](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/arzzen/git-quick-stats)：项目的 git 提交记录展示和统计的工具。支持：不同时间维度和用户名的统计、近期提交的概览等
+26、[git-quick-stats](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/arzzen/git-quick-stats)：项目的 git 提交记录展示和统计的工具。支持：不同时间维度和用户名的统计、近期提交的概览等
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/git-quick-stats.png' style="max-width:80%; max-height=80%;"></img></p>
+
+27、[zh.javascript.info](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/javascript-tutorial/zh.javascript.info)：《现代 JavaScript 教程》是以最新的 JavaScript 标准为基准的教程。通过简单但详细的内容，讲解从基础到高阶的 JavaScript 相关知识，能够帮助初中级前端提升 JavaScript 等前端技术水平。[在线阅读](https://zh.javascript.info/)
 
 28、[TeachYourselfCS-CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/izackwu/TeachYourselfCS-CN)：《TeachYourselfCS》自学计算科学的一份书单（中文翻译版）
 

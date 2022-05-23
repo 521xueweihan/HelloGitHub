@@ -131,7 +131,7 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/jizhi.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[star-history](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/timqian/star-history)：展示 GitHub 项目 Star 历史的在线工具。支持多个项目展示在同一个图表上，效果如下图：
+18、[star-history](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bytebase/star-history)：展示 GitHub 项目 Star 历史的在线工具。支持多个项目展示在同一个图表上，效果如下图：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/star-history.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -178,59 +178,55 @@ points & bars
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/altair.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[butterfly](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/meetbill/butterfly)：又一个轻量级的 Python Web 框架。Web 框架太多了，该项目主旨是通过开发一个轻量级、可靠可用的 Web 框架，来更加深入理解 Web 开发过程中经常忽略（框架做的）但又十分重要的知识点。那句话咋说来的：我不做一遍，我就不算懂！架构图如下：
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/butterfly.png' style="max-width:80%; max-height=80%;"></img></p>
-
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
-24、[lottie-ios](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/airbnb/lottie-ios)：Airbnb 开源的快速实现 APP 动画的三方库。还有支持 [Android](https://github.com/airbnb/lottie-android)、[React Native](https://github.com/react-native-community/lottie-react-native)、[Web](https://github.com/airbnb/lottie-web)、[Windows](https://github.com/windows-toolkit/Lottie-Windows) 等平台，动画效果如下：
+23、[lottie-ios](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/airbnb/lottie-ios)：Airbnb 开源的快速实现 APP 动画的三方库。还有支持 [Android](https://github.com/airbnb/lottie-android)、[React Native](https://github.com/react-native-community/lottie-react-native)、[Web](https://github.com/airbnb/lottie-web)、[Windows](https://github.com/windows-toolkit/Lottie-Windows) 等平台，动画效果如下：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/lottie-ios.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[YLExtensions](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/YuLeiFuYun/YLExtensions)：它解决了 UITableView 及 UICollectionView 注册和配置过程不得不写很多重复代码的问题
+24、[YLExtensions](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/YuLeiFuYun/YLExtensions)：它解决了 UITableView 及 UICollectionView 注册和配置过程不得不写很多重复代码的问题
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/YLExtensions.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-26、[math-as-code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Jam3/math-as-code)：这是一份通过对比数学符号和 JavaScript 代码来帮助开发者更容易了解数学符号的项目
+25、[math-as-code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Jam3/math-as-code)：这是一份通过对比数学符号和 JavaScript 代码来帮助开发者更容易了解数学符号的项目
 
-27、[PowerToys](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/PowerToys)：微软开源的 Windows 系统下强大的辅助工具。比如：窗口管理、批量图片处理、改键工具等，下图是屏幕颜色选择工具
+26、[PowerToys](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/PowerToys)：微软开源的 Windows 系统下强大的辅助工具。比如：窗口管理、批量图片处理、改键工具等，下图是屏幕颜色选择工具
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/PowerToys.png' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[first-contributions](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/firstcontributions/first-contributions)：手把手教你如何在 GitHub 第一次贡献代码的教程。支持多种语言，[中文](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.chs.md)
+27、[first-contributions](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/firstcontributions/first-contributions)：手把手教你如何在 GitHub 第一次贡献代码的教程。支持多种语言，[中文](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.chs.md)
 
-29、[leek-fund](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LeekHub/leek-fund)：在 VSCode 中看股票和基金实时数据的插件
+28、[leek-fund](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LeekHub/leek-fund)：在 VSCode 中看股票和基金实时数据的插件
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/leek-fund.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[Algorithm-Guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Xunzhuo/Algorithm-Guide)：系统性学习算法与数据结构的资料集合
+29、[Algorithm-Guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Xunzhuo/Algorithm-Guide)：系统性学习算法与数据结构的资料集合
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/Algorithms-in-4-Steps.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-31、[BuildYourOwnLisp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/orangeduck/BuildYourOwnLisp)：该书教你用 C 语言实现自己的 Lisp 语言。用 1000 多行实现一个小但功能齐全的 Lisp 语言，这里有份中文翻译版本，但是没有翻译完[点击阅读](https://ksco.gitbooks.io/build-your-own-lisp/content/)
+30、[BuildYourOwnLisp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/orangeduck/BuildYourOwnLisp)：该书教你用 C 语言实现自己的 Lisp 语言。用 1000 多行实现一个小但功能齐全的 Lisp 语言，这里有份中文翻译版本，但是没有翻译完[点击阅读](https://ksco.gitbooks.io/build-your-own-lisp/content/)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/BuildYourOwnLisp.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-32、[waifu2x](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nagadomi/waifu2x)：基于机器学习把图片、照片变得高清。该项目使用卷积神经网络对图片进行 1-2 倍的无损放大操作，支持降噪保证图片质量。[在线尝试](http://waifu2x.udp.jp/)
+31、[waifu2x](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nagadomi/waifu2x)：基于机器学习把图片、照片变得高清。该项目使用卷积神经网络对图片进行 1-2 倍的无损放大操作，支持降噪保证图片质量。[在线尝试](http://waifu2x.udp.jp/)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/waifu2x.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[Never-Blink](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ByronHsu/Never-Blink)：谁先眨眼谁就输了的游戏。使用 React + Flask + Dlib 技术实现的“眨眼就输了”在线游戏，虽然是个 demo 级别的项目，但是很有意思可以在本地运行起来找朋友一起玩一下
+32、[Never-Blink](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ByronHsu/Never-Blink)：谁先眨眼谁就输了的游戏。使用 React + Flask + Dlib 技术实现的“眨眼就输了”在线游戏，虽然是个 demo 级别的项目，但是很有意思可以在本地运行起来找朋友一起玩一下
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/Never-Blink.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[cnn-convoluter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pwwang/cnn-convoluter)：一个支持交互的展示卷积过程的可视化工具
+33、[cnn-convoluter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pwwang/cnn-convoluter)：一个支持交互的展示卷积过程的可视化工具
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/img/cnn-convoluter.gif' style="max-width:80%; max-height=80%;"></img></p>
 

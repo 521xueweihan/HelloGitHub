@@ -121,7 +121,7 @@ Console.WriteLine(json);
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Objective-C 项目
-9、[aria2gui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yangshun1029/aria2gui)：Aria2 的 Mac 客户端（下载工具），[介绍、使用方法](http://www.jianshu.com/p/1290f8e7b326)，特点：
+9、[aria2gui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NickYang29/aria2gui)：Aria2 的 Mac 客户端（下载工具），[介绍、使用方法](http://www.jianshu.com/p/1290f8e7b326)，特点：
 - 集成了 aria2，运行后即完成配置工作
 - 多线程下载
 - 未完成任务退出可以自动保存

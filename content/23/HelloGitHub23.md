@@ -67,7 +67,7 @@ public class Hello {
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-6、[wiki](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Requarks/wiki)：NodeJS+Git+Markdown 实现轻松搭建 wiki。对于团队内部的知识分享是一个不错的选择。[在线预览](https://docs.requarks.io/wiki)
+6、[wiki](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/requarks/wiki)：NodeJS+Git+Markdown 实现轻松搭建 wiki。对于团队内部的知识分享是一个不错的选择。[在线预览](https://docs.requarks.io/wiki)
 
 7、[prettier](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/prettier/prettier)：十分方便的代码格式化库。支持如：JavaScript、Flow、TypeScript、CSS、SCSS等编程语言。同时提供了编辑插件，在使用 vscode 开发 Vue 项目时候，使用此插件可以让代码更具有可读性
 ```javascript

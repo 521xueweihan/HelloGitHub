@@ -212,7 +212,7 @@ gui.run()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/63/img/rustdesk.png' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[indicatif](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mitsuhiko/indicatif)：样式丰富的 Rust 终端进度条库
+23、[indicatif](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/console-rs/indicatif)：样式丰富的 Rust 终端进度条库
 ```rust
 use indicatif::ProgressBar;
 

@@ -120,7 +120,7 @@ local/remote:	100.76.175.164:52353 <-> 54.241.191.232:443 (ESTABLISHED)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/48/img/MusicPlayer.png' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[KafkaCenter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xaecbd/KafkaCenter)：Kafka 集群管理维护、生产消费监控平台
+11、[KCenter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xaecbd/KCenter)：Kafka 集群管理维护、生产消费监控平台
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/48/img/KafkaCenter.png' style="max-width:80%; max-height=80%;"></img></p>
 

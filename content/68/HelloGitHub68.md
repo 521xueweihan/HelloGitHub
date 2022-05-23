@@ -78,7 +78,7 @@ ag test_blah ~/code(8G)/  4.67s user 4.58s system 286% cpu 3.227 total
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-9、[MangoDB](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MangoDB-io/MangoDB)：真正开源的 MongoDB 替代品。它底层采用 PostgreSQL 作为存储引擎，用 Go 语言实现了 MongoDB 协议，所以几乎兼容所有的 MongoDB 库，迁移起来毫无负担。如果你用不到 MongoDB 的高级功能，还受限于它的开源协议，那么这个项目可作为 MongoDB 的开源替代方案。它才刚刚起步，建议观望一段时间或做足测试再用于生产环境
+9、[FerretDB](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FerretDB/FerretDB)：真正开源的 MongoDB 替代品。它底层采用 PostgreSQL 作为存储引擎，用 Go 语言实现了 MongoDB 协议，所以几乎兼容所有的 MongoDB 库，迁移起来毫无负担。如果你用不到 MongoDB 的高级功能，还受限于它的开源协议，那么这个项目可作为 MongoDB 的开源替代方案。它才刚刚起步，建议观望一段时间或做足测试再用于生产环境
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/img/MangoDB.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -145,7 +145,7 @@ public class GlobalMouseWheelListenerExample implements NativeMouseWheelListener
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/img/pm2.png' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[automa](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kholid060/automa)：通过图形化界面拖拽功能模块，实现浏览器自动操作的扩展工具。轻松实现自动填表、截图、定时执行等操作。让浏览器自动完成预设工作流的插件，从而减少重复性操作提高效率
+18、[automa](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Kholid060/automa)：通过图形化界面拖拽功能模块，实现浏览器自动操作的扩展工具。轻松实现自动填表、截图、定时执行等操作。让浏览器自动完成预设工作流的插件，从而减少重复性操作提高效率
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/img/automa.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -235,7 +235,7 @@ urlpatterns = [
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-26、[toml](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/toml-lang/toml)：更易读和易于维护的配置文件格式。如果你厌倦了 INI 的局限性、层层嵌套的 JSON 和 YAML 令人心惊胆战的缩进语法，不防给 TOML 一个机会，它支持多种数据类型、抛弃了缩进和嵌套，而且众多流行编程语言都有对应的库。TOML 已经足够成熟，绝对值得一试。[查看文档](https://toml.io/cn/v1.0.0)
+26、[toml](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/toml-lang/toml)：更易读和易于维护的配置文件格式。如果你厌倦了 INI 的局限性、层层嵌套的 JSON 和 YAML 令人心惊胆战的缩进语法，不妨给 TOML 一个机会，它支持多种数据类型、抛弃了缩进和嵌套，而且众多流行编程语言都有对应的库。TOML 已经足够成熟，绝对值得一试。[查看文档](https://toml.io/cn/v1.0.0)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/img/toml.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -262,20 +262,18 @@ urlpatterns = [
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-32、[ugo-compiler-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chai2010/ugo-compiler-book)：《从头开发一个迷你 Go 语言》该书教你从头实现迷你 Go 语言，内容包含了词法解析、语法树构建、函数闭包、接口、CGO 的实现等内容。[在线阅读](https://chai2010.cn/ugo-compiler-book/ch1-basic/index.html)
+32、[ugo-compiler-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wa-lang/ugo-compiler-book)：《从头开发一个迷你 Go 语言》该书教你从头实现迷你 Go 语言，内容包含了词法解析、语法树构建、函数闭包、接口、CGO 的实现等内容。[在线阅读](https://chai2010.cn/ugo-compiler-book/ch1-basic/index.html)
 
 33、[archbase](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/foxsen/archbase)：教科书《计算机体系结构基础》第三版。[在线阅读](https://foxsen.github.io/archbase/)
-
-34、[spring-in-action-v6-translate](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LeonLi0102/spring-in-action-v6-translate)：《Spring 实战第 6 版》中文翻译。[在线阅读](https://leonli0102.github.io/spring-in-action-v6/)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-35、[best_AI_papers_2021](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/louisfb01/best_AI_papers_2021)：2021 年必看的人工智能论文列表。该项目不是简单的罗列论文，它不仅包含相关论文的代码、效果展示，还有深入的文章和讲解视频。通过学习这些前沿的人工智能论文，提前了解 AI 在未来更多可能性
+34、[best_AI_papers_2021](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/louisfb01/best_AI_papers_2021)：2021 年必看的人工智能论文列表。该项目不是简单的罗列论文，它不仅包含相关论文的代码、效果展示，还有深入的文章和讲解视频。通过学习这些前沿的人工智能论文，提前了解 AI 在未来更多可能性
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/img/best_AI_papers_2021.png' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[AnimeGANv2](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TachibanaYoshino/AnimeGANv2)：可以将图片和视频转换成漫画风格的工具。采用的是神经风格迁移+生成对抗网络（GAN）的组合，转换速度快。[在线尝试](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
+35、[AnimeGANv2](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TachibanaYoshino/AnimeGANv2)：可以将图片和视频转换成漫画风格的工具。采用的是神经风格迁移+生成对抗网络（GAN）的组合，转换速度快。[在线尝试](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/img/AnimeGANv2.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -284,7 +282,7 @@ urlpatterns = [
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/67/HelloGitHub67.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/67/HelloGitHub67.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/69/HelloGitHub69.md">『下一期』</a>
 </p>
 
 ---
