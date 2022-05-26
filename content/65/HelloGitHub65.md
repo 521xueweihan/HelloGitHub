@@ -110,7 +110,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/img/gocron.png' style="max-width:80%; max-height=80%;"></img></p>
 
-10、[sealos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fanux/sealos)：一条命令即可快速部署 Kubernetes(k8s) 集群的工具
+10、[sealos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/labring/sealos)：一条命令即可快速部署 Kubernetes(k8s) 集群的工具
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/img/sealos.png' style="max-width:80%; max-height=80%;"></img></p>
 

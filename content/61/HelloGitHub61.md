@@ -120,7 +120,7 @@ dstImage := imaging.Sharpen(srcImage, 0.5)
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-10、[flink-recommandSystem-demo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CheckChe0803/flink-recommandSystem-demo)：一个基于 Flink 实现的商品实时推荐系统。可以通过这个项目了解和学习推荐系统的设计和流程，该系统是通过 Flink 处理日志和统计商品热度，将处理好的数据放入 Redis 缓存。然后再将画像标签和实时记录放入 HBase。在用户请求获取推荐时，根据用户画像生成商品热度榜，并结合协同过滤和标签两个推荐模块，返回最终生成的商品推荐列表
+10、[flink-recommandSystem-demo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/will-che/flink-recommandSystem-demo)：一个基于 Flink 实现的商品实时推荐系统。可以通过这个项目了解和学习推荐系统的设计和流程，该系统是通过 Flink 处理日志和统计商品热度，将处理好的数据放入 Redis 缓存。然后再将画像标签和实时记录放入 HBase。在用户请求获取推荐时，根据用户画像生成商品热度榜，并结合协同过滤和标签两个推荐模块，返回最终生成的商品推荐列表
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/img/flink-recommandSystem-demo.png' style="max-width:80%; max-height=80%;"></img></p>
 

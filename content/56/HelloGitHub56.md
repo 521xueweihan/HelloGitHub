@@ -152,7 +152,7 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/img/Mindustry.png' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[fiction_house](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/201206030/fiction_house)：一个基于 SpringBoot 实现的小说和漫画在线阅读网站。网站功能齐全、资源丰富，同时支持 Web、安卓、微信小程序多平台。服务端分为网站和管理后台，采用 SpringBoot、MyBatis、MySQL、Redis 等技术实现，可当作 Java 新手实战项目学习
+11、[novel](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/201206030/novel)：一个基于 SpringBoot 实现的小说和漫画在线阅读网站。网站功能齐全、资源丰富，同时支持 Web、安卓、微信小程序多平台。服务端分为网站和管理后台，采用 SpringBoot、MyBatis、MySQL、Redis 等技术实现，可当作 Java 新手实战项目学习
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/img/fiction_house.png' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -52,7 +52,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
-4、[kvrocks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/KvrocksLabs/kvrocks)：基于 RocksDB 并兼容 Redis 协议的 NoSQL 数据库。磁盘类型的 Redis 为降低存储成本而生，存储成本可以降到 Redis 的 1/3 以上
+4、[incubator-kvrocks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/incubator-kvrocks)：基于 RocksDB 并兼容 Redis 协议的 NoSQL 数据库。磁盘类型的 Redis 为降低存储成本而生，存储成本可以降到 Redis 的 1/3 以上
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/img/kvrocks.png' style="max-width:80%; max-height=80%;"></img></p>
 
