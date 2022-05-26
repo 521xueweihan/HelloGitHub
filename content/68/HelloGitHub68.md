@@ -145,7 +145,7 @@ public class GlobalMouseWheelListenerExample implements NativeMouseWheelListener
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/img/pm2.png' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[automa](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Kholid060/automa)：通过图形化界面拖拽功能模块，实现浏览器自动操作的扩展工具。轻松实现自动填表、截图、定时执行等操作。让浏览器自动完成预设工作流的插件，从而减少重复性操作提高效率
+18、[automa](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AutomaApp/automa)：通过图形化界面拖拽功能模块，实现浏览器自动操作的扩展工具。轻松实现自动填表、截图、定时执行等操作。让浏览器自动完成预设工作流的插件，从而减少重复性操作提高效率
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/img/automa.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 

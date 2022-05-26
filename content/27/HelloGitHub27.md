@@ -182,7 +182,7 @@ def get_data(url):
 
 21、[Front-End-Checklist](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/thedaviddias/Front-End-Checklist)：一份在网站发布到生产环境之前，前端部分需要测试、检查的详尽清单。[中文版](https://github.com/JohnsenZhou/Front-End-Checklist)
 
-22、[build-your-own-x](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/danistefanovic/build-your-own-x)：（英文）费曼：“我不能创造的東西，我就不了解。”该项目收集了不同编程语言造轮子的教程
+22、[build-your-own-x](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/codecrafters-io/build-your-own-x)：（英文）费曼：“我不能创造的東西，我就不了解。”该项目收集了不同编程语言造轮子的教程
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

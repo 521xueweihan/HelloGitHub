@@ -94,7 +94,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/img/shattered-pixel-dungeon.png' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[uncle-novel](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/unclezs/uncle-novel)：一款电脑端小说阅读软件。该软件不仅支持本地导入小说，自动解析生成目录方便阅读。还支持全网搜索和下载小说、在线收听有声小说、自动更新章节等功能
+12、[uncle-novel](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/uncle-novel/uncle-novel)：一款电脑端小说阅读软件。该软件不仅支持本地导入小说，自动解析生成目录方便阅读。还支持全网搜索和下载小说、在线收听有声小说、自动更新章节等功能
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/img/uncle-novel.png' style="max-width:80%; max-height=80%;"></img></p>
 
