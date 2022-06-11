@@ -9,7 +9,7 @@
 <!--仅收录 GitHub 上的开源项目，请填写 GitHub 的项目地址-->
 - 项目地址：
 
-<!--请从中选择（C、C#、C++、CSS、Go、Java、JS、Kotlin、Objective-C、PHP、Python、Ruby、Swift、其它、书籍、机器学习）-->
+<!--请从中选择（C、C#、C++、CSS、Go、Java、JS、Kotlin、Objective-C、PHP、Python、Ruby、Rust、Swift、其它、书籍、机器学习）-->
 - 类别：
 
 <!--请用 20 个左右的字描述它是做什么的，类似文章标题让人一目了然 -->
