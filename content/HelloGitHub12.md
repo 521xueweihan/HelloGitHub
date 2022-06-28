@@ -39,6 +39,7 @@
 2、[ScreenToGif](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NickeManarin/ScreenToGif)：此工具可以记录屏幕的选定区域、网络摄像头的实时图像和绘图板上的实时图像。可以编辑并将动画保存为 GIF 或视频
 
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/img/screen-to-gif-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
@@ -67,9 +68,11 @@
 | F9 | 跳转到响应体 |
 
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/img/wuzz.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[sshtron](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zachlatta/sshtron)：sshtron 是通过 SSH 运行的多人贪吃蛇游戏，命令行输入：`ssh sshtron.zachlatta.com`，无需安装等待几秒即可进行游戏（因为服务器在国外，很卡😅）
+
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/img/sshtron.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -90,16 +93,18 @@
 6、[vue2-elm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bailicangdu/vue2-elm)：基于 vue2 + vuex 构建一个大型单页面应用，此项目大大小小共 45 个页面，涉及注册、登录、商品展示、购物车、下单等等，是一个完整的流程，
 
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/img/vue2-elm-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[standard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/standard/standard)：统一 JavaScript，只需一种样式，[中文](https://github.com/feross/standard/blob/master/docs/README-zhtw.md)
+7、[octotree](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ovity/octotree)：为 GitHub 和 GitLab 网站，提供直观地显示项目目录结构的浏览器插件，效果如下：
 
-8、[screenfull](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/screenfull)：极小、跨平台的 JavaScript 全屏插件，[在线 demo](https://sindresorhus.com/screenfull.js/)
-
-9、[octotree](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ovity/octotree)：为 GitHub 和 GitLab 网站，提供直观地显示项目目录结构的浏览器插件，效果如下：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/img/octotree-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+
+8、[standard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/standard/standard)：统一 JavaScript，只需一种样式，[中文](https://github.com/feross/standard/blob/master/docs/README-zhtw.md)
+
+9、[screenfull](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/screenfull)：极小、跨平台的 JavaScript 全屏插件，[在线 demo](https://sindresorhus.com/screenfull.js/)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -111,12 +116,14 @@
 3. 选择 `Refresh all`，刷新使之生效
 
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/img/bitbar-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 11、[mycli](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dbcli/mycli)：mycli 是一个带语法高亮、自动补全的 MySQL 命令行客户端工具。例如，连接数据库方法：`mycli -h localhost -u 用户名 数据库`
+
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/img/mycli.gif' style="max-width:80%; max-height=80%;"></img></p>

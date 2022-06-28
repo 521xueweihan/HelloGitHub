@@ -39,16 +39,18 @@
 ### C# 项目
 2、[NiceHashMiner](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nicehash/NiceHashMiner)：一款可以自动帮你挖比特币的免费 App。[中文官网地址](https://miner.nicehash.com/)，经典版截图如下：
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/NiceHashMinerLegacy-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-3、[WxJava](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Wechat-Group/WxJava)：开源、非官方、功能全面的微信开发 Java SDK，支持包括微信支付、开放平台、小程序、企业号和公众号等功能的开发。[示例 Demo 索引](https://github.com/Wechat-Group/weixin-java-tools/blob/master/demo.md)，以及详细的[开发文档](https://github.com/wechat-group/weixin-java-tools/wiki)
+3、[CC](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/luckybilly/CC)：使用简单、功能丰富的 Android 组件化框架。适用于几乎所有的组件化开发需求，可进行组件层面的 AOP 编程。[项目 wiki](https://github.com/luckybilly/CC/wiki)
 
-4、[CC](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/luckybilly/CC)：使用简单、功能丰富的 Android 组件化框架。适用于几乎所有的组件化开发需求，可进行组件层面的 AOP 编程。[项目 wiki](https://github.com/luckybilly/CC/wiki)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/cc.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+4、[WxJava](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Wechat-Group/WxJava)：开源、非官方、功能全面的微信开发 Java SDK，支持包括微信支付、开放平台、小程序、企业号和公众号等功能的开发。[示例 Demo 索引](https://github.com/Wechat-Group/weixin-java-tools/blob/master/demo.md)，以及详细的[开发文档](https://github.com/wechat-group/weixin-java-tools/wiki)
 
 5、[Geisha](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RitterHou/Geisha)：用 Java 语言写的 Web MVC 框架。包含诸多语言特性并实现了 IOC 、通过注解设置 URL 映射的功能。入门实践项目，适合新手熟悉 Java 语法和了解 Web 框架的实现。示例代码如下：
 ```java
@@ -105,7 +107,22 @@ fetch('/url').then(res => {}).catch(err => {})
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-11、[rq](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rq/rq)：基于 redis 的简单、轻量级任务队列库。可以帮助理解简单的任务队列模式和设计。使用简单、文档健全，适用于小型项目或简单的场景。
+11、[python-console-snake](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tancredi/python-console-snake)：命令行贪吃蛇
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/python-console-snake-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+
+12、[toapi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gaojiuli/toapi)：该项目做的事儿是通过简单的配置把目标网页的内容爬下来，缓存结果后提供成 API 的一条龙服务。
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/toapi-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+
+13、[redash](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/getredash/redash)：开源的数据可视化 Web 项目，提供了数据库查询和数据可视化功能。只提供的数据可视化最要的功能，使得简单易用且容易上手。可以直观地将一个 SQL 查询的结果可视化出来。同时提供 SQL 代码片段存储，减少重复编写 SQL 的问题
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/redash.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+14、[rq](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rq/rq)：基于 redis 的简单、轻量级任务队列库。可以帮助理解简单的任务队列模式和设计。使用简单、文档健全，适用于小型项目或简单的场景。
 ```shell
 # Tip：job 需要通过模块引用加入到任务队列中
 23:46:59 Cleaning registries for queue: default
@@ -114,22 +131,11 @@ fetch('/url').then(res => {}).catch(err => {})
 23:47:47 Result is kept for 500 seconds
 ```
 
-12、[python-console-snake](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tancredi/python-console-snake)：命令行贪吃蛇
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/python-console-snake-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-13、[toapi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gaojiuli/toapi)：该项目做的事儿是通过简单的配置把目标网页的内容爬下来，缓存结果后提供成 API 的一条龙服务。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/toapi-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-14、[redash](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/getredash/redash)：开源的数据可视化 Web 项目，提供了数据库查询和数据可视化功能。只提供的数据可视化最要的功能，使得简单易用且容易上手。可以直观地将一个 SQL 查询的结果可视化出来。同时提供 SQL 代码片段存储，减少重复编写 SQL 的问题
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/redash.gif' style="max-width:80%; max-height=80%;"></img></p>
-
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
 15、[LyricsX](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ddddxxx/LyricsX)：一个为 iTunes、Spotify、Vox 播放器提供自动下载歌词，并在桌面和任务栏显示的插件
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/img/LyricsX-show-min.jpg' style="max-width:80%; max-height=80%;"></img></p>
 

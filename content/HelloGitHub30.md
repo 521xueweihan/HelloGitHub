@@ -33,6 +33,7 @@
 ### C++ 项目
 1、[2048.cpp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/plibither8/2048.cpp)：C++ 写的终端 2048 游戏
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/2048.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
@@ -40,22 +41,23 @@
 ### CSS 项目
 2、[github-corners](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tholman/github-corners)：在你的网站右上角挂上章鱼猫。效果如下：
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/github-corners.png' style="max-width:80%; max-height=80%;"></img></p>
 
 3、[simple-icons](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/simple-icons/simple-icons)：1000+ 个流行品牌的免费 SVG 图标库。[在线预览](https://simpleicons.org/)
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/simple-icons.png' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[octicons](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/primer/octicons)：GitHub 官方开源的 GitHub 网站上用的图标库
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/octicons.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-5、[frp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fatedier/frp)：一个可用于内网穿透的高性能的反向代理应用，支持 tcp、udp、http、https 协议。有时想要让其他人（外网）通过域名访问或者测试我们在本地搭建的 web 服务，但是由于本地机器没有公网 IP，无法将域名解析到本地的机器，通过 frp 就可以实现这一功能。例如：微信公众号开发、slack bot 开发等，[中文文档](https://github.com/fatedier/frp/blob/master/README_zh.md)
-
-6、[nes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fogleman/nes)：Golang 写的 NES 模拟器。现在可能已经没人玩 NES 游戏了，不过可以了解下怎么写模拟器、如何用 Go 模拟 CPU 和 GPU
+5、[nes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fogleman/nes)：Golang 写的 NES 模拟器。现在可能已经没人玩 NES 游戏了，不过可以了解下怎么写模拟器、如何用 Go 模拟 CPU 和 GPU
 ```
 1. 安装 
 go get github.com/fogleman/nes
@@ -64,9 +66,10 @@ go get github.com/fogleman/nes
 nes [rom文件的路径]
 ```
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/nes.png' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[filebrowser](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/filebrowser/filebrowser)：自带文件浏览器的网盘服务。支持功能：文件浏览、文件生成分享链接、批量上传、文件夹创建等服务、用户系统。安装步骤如下：
+6、[filebrowser](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/filebrowser/filebrowser)：自带文件浏览器的网盘服务。支持功能：文件浏览、文件生成分享链接、批量上传、文件夹创建等服务、用户系统。安装步骤如下：
 1. 安装：`docker pull filebrowser/filebrowser`
 2. 配置：配置文件在 `/etc/config.json`，数据库在 `/etc/database.db`
 3. 启动
@@ -80,7 +83,10 @@ nes [rom文件的路径]
     ```
 4. 访问：然后访问 `http://localhost` 即可，默认是 80 端口，改端口的话修改 `config.json` 文件
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/filebrowser.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+7、[frp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fatedier/frp)：一个可用于内网穿透的高性能的反向代理应用，支持 tcp、udp、http、https 协议。有时想要让其他人（外网）通过域名访问或者测试我们在本地搭建的 web 服务，但是由于本地机器没有公网 IP，无法将域名解析到本地的机器，通过 frp 就可以实现这一功能。例如：微信公众号开发、slack bot 开发等，[中文文档](https://github.com/fatedier/frp/blob/master/README_zh.md)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -99,6 +105,7 @@ public class MainStart {
 ### JavaScript 项目
 9、[legoflow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/legoflow/legoflow)：内置最前沿的 WebPack4、Babel7、Gulp4 的构建工具，无需安装复杂的系统环境，更轻、更强、开箱即用的前端工作流客户端
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/legoflow.png' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[v-uploader](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TerryZ/v-uploader)：基于 Vue2 简洁易用、可批量、拖拽的文件上传插件。该[作者 GitHub 仓库](https://github.com/TerryZ?tab=repositories) 还有很多使用 Vue 开发的组件，想学习编写 Vue 组件的同学可以前去学习、借鉴。[文档及示例](https://terryz.gitee.io/vue/#/upload/demo)，支持功能：
@@ -107,9 +114,11 @@ public class MainStart {
 - 批量上传模式支持图片预览、文件拖拽
 - 健全的上传文件限制，文件类型、文件尺寸、自定义校验等
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/v-uploader.png' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[ice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/ice)：让前端开发简单而友好，海量可复用物料，配套桌面工具极速构建前端应用。模板比较多，样式易于定制，物料的概念很好。可用来极速构建中后台应用，[官网](https://alibaba.github.io/ice/iceworks)
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/ice.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -124,6 +133,7 @@ public class MainStart {
 
 ### Python 项目
 14、[termtosvg](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nbedos/termtosvg)：Python 写的终端记录器。通过命令 `termtosvg` 运行该工具，然后在终端执行你要展示的命令，最终输入 `exit` 命令结束录制，本地会生成一份 SVG 动画，可用于分享、展示终端操作。效果如下：
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/termtosvg.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -142,6 +152,7 @@ print(s)
 
 ### Swift 项目
 16、[FileHider-for-mac](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhihaozhang/FileHider-for-mac)：一款将你的文件夹、文件隐藏起来的小工具。适用于 macOS X 10.10 及以后的版本
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/FileHider-for-mac.gif' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -34,6 +34,7 @@
 1、[json](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nlohmann/json)：C++ 的 JSON 库
 
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/09/img/json-show.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
@@ -56,6 +57,7 @@
 6、[vue-hackernews-2.0](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vuejs/vue-hackernews-2.0)：这是一个 Vue2.0 示例，克隆 [Hacker News](https://news.ycombinator.com/) 网站（我感觉比原站好看多了😅）
 
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/09/img/vue-hackernews-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[N-blog](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nswbmw/N-blog)：面向新手的 Node.js 教程，该教程讲述了 Node.js 基本知识点，同时结合搭建一个多人博客的实战，从零基础到实际开发，由浅到深帮助新手入门 Node.js 这门语言
@@ -70,7 +72,26 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-10、[flask-limiter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alisaifee/flask-limiter)：一个 Flask 的扩展库，它可以根据访问者的 IP 限制其访问频率、次数等。示例代码如下：
+10、[ngrok](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/inconshreveable/ngrok)：一个十分方便、好用的内网穿透工具，它可以把本地某个端口的服务，通过一个安全隧道，映射到公网的一个地址。同时它提供了一个 Web 页面，展示了每个请求、响应的所有信息，便于调试本地的程序。基本的使用方法如下：
+```
+ngrok 协议 本地服务监听的端口
+ngrok http 8000
+
+创建成功会返回公网地址，然后通过该地址就可以访问到本地的服务。
+本地访问 http://localhost:4040，就可以查看关于每个请求、响应的相关数据
+```
+
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/09/img/ngrok-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+
+11、[glances](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nicolargo/glances)：一个可以让你**一目了然**你的系统情况（类 (h)top）的工具，它界面友好，安装方便：`pip install glances`
+
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/09/img/glances-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+
+12、[flask-limiter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alisaifee/flask-limiter)：一个 Flask 的扩展库，它可以根据访问者的 IP 限制其访问频率、次数等。示例代码如下：
 ```python
 from flask import Flask
 from flask_limiter import Limiter
@@ -99,23 +120,6 @@ def ping():
 
 app.run()
 ```
-
-11、[ngrok](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/inconshreveable/ngrok)：一个十分方便、好用的内网穿透工具，它可以把本地某个端口的服务，通过一个安全隧道，映射到公网的一个地址。同时它提供了一个 Web 页面，展示了每个请求、响应的所有信息，便于调试本地的程序。基本的使用方法如下：
-```
-ngrok 协议 本地服务监听的端口
-ngrok http 8000
-
-创建成功会返回公网地址，然后通过该地址就可以访问到本地的服务。
-本地访问 http://localhost:4040，就可以查看关于每个请求、响应的相关数据
-```
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/09/img/ngrok-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-12、[glances](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nicolargo/glances)：一个可以让你**一目了然**你的系统情况（类 (h)top）的工具，它界面友好，安装方便：`pip install glances`
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/09/img/glances-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

@@ -32,16 +32,18 @@
 > **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
-1、[os-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cfenollosa/os-tutorial)：（英文）如何从头开始创建操作系统
+1、[nvtop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Syllo/nvtop)：NVIDIA GPU 类 (h)top 的任务监控工具，它可以监控多个 GPU 并以熟悉的方式（类 htop 方式）打印有关它们的信息
 
-2、[nvtop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Syllo/nvtop)：NVIDIA GPU 类 (h)top 的任务监控工具，它可以监控多个 GPU 并以熟悉的方式（类 htop 方式）打印有关它们的信息
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/nvtop.png' style="max-width:80%; max-height=80%;"></img></p>
+
+2、[os-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cfenollosa/os-tutorial)：（英文）如何从头开始创建操作系统
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C# 项目
 3、[QuickLook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/QL-Win/QuickLook)：它允许 Windows 用户只需按空格键即可以快速地查看文件内容（类 macOS 的 Quick Look）
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/QuickLook.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -92,9 +94,11 @@ Output:
 ```
 
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/go-sniffer.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[dive](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wagoodman/dive)：用来探索 docker 镜像每一层文件系统，以及发现缩小镜像体积方法的命令行工具。启动命令：`dive 镜像名`
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/dive.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -186,6 +190,7 @@ $ arc unarchive test.tar.gz
 ### Java 项目
 11、[ratel](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ainilili/ratel)：命令行可联网的斗地主游戏。Ratel 分客户端和服务端，你可以让小伙伴们的客户端都连接你的服务器进行游戏，也可以直接连接作者的公网服务器进行游戏
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/ratel.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 12、[SpiderMan](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/simplepeng/SpiderMan)：手机端显示 Android 崩溃日志，示例代码如下：
@@ -206,12 +211,14 @@ SpiderMan.init(this)
 });
 ```
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/SpiderMan.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 13、[three.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mrdoob/three.js)：一个知名的 JavaScript 3D 库。随着数据可视化以及 Web AR 的流行，会越来越多使用到 three.js ，尤其是和 Vue/React 前端框架结合使用。官方网站包含丰富的[示例](https://threejs.org/examples/)和全面的[中文文档](https://threejs.org/docs/)，赶快去写几个 demo 熟悉下该库吧
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/three-js.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -226,6 +233,7 @@ SpiderMan.init(this)
 ### Objective-C 项目
 17、[MacPass](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MacPass/MacPass)：一款 macOS 平台的免费、开源、实用的密码管理工具
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/MacPass.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
@@ -233,18 +241,20 @@ SpiderMan.init(this)
 ### Python 项目
 18、[himawaripy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/boramalper/himawaripy)：一个 Python3 脚本，它会定时（需设置定时任务）抓取由日本 Himawari 8 气象卫星拍摄的接近实时的地球照片，并将它设置成你的桌面背景
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/himawaripy.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-19、[search-engine-optimization](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/marcobiedermann/search-engine-optimization)：（英文）这个项目收集了很多 SEO 优化的建议
+19、[ProgrammingFonts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ProgrammingFonts/ProgrammingFonts)：适合程序员的编程字体的集合，现在有 30 多种奇妙的字体
 
-20、[lemonade-stand](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nayafia/lemonade-stand)：《开源项目挣钱实用手册》[中文版](https://github.com/wizicer/FinancialSupportForOpenSource)
-
-21、[ProgrammingFonts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ProgrammingFonts/ProgrammingFonts)：适合程序员的编程字体的集合，现在有 30 多种奇妙的字体
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/ProgrammingFonts.png' style="max-width:80%; max-height=80%;"></img></p>
+
+20、[search-engine-optimization](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/marcobiedermann/search-engine-optimization)：（英文）这个项目收集了很多 SEO 优化的建议
+
+21、[lemonade-stand](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nayafia/lemonade-stand)：《开源项目挣钱实用手册》[中文版](https://github.com/wizicer/FinancialSupportForOpenSource)
 
 22、[Linux-Tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/judasn/Linux-Tutorial)：Java 程序员眼中的 Linux
 
@@ -260,22 +270,12 @@ SpiderMan.init(this)
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-26、[awesome-machine-learning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/josephmisiti/awesome-machine-learning)：一个精选的机器学习框架、库、软件的集合项目
+26、[deepvariant](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/deepvariant)：一个数据分析工作流。能够使用深度神经网络从下一代 DNA 序列数据中调用遗传变异体，联想到了最近的基因编辑人类事件。关于如何工作的技术细节，如下图：
 
-27、[fastai](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fastai/fastai)：利用当前最好的深度学习算法简化训练神经网络的过程。包含了很多“开箱即用”的工具，支持 Vision、Collab 等模型。示例代码：
-```python
-# here's how to train an MNIST model using resnet18
-untar_data(MNIST_PATH)
-data = image_data_from_folder(MNIST_PATH)
-learn = create_cnn(data, tvm.resnet18, metrics=accuracy)
-learn.fit(1)
-```
-
-28、[deepvariant](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/deepvariant)：一个数据分析工作流。能够使用深度神经网络从下一代 DNA 序列数据中调用遗传变异体，联想到了最近的基因编辑人类事件。关于如何工作的技术细节，如下图：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/deepvariant.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[AIAlpha](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/VivekPa/AIAlpha)：使用无监督学习和监督学习来预测股票，有趣的项目。运行步骤如下：
+27、[AIAlpha](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/VivekPa/AIAlpha)：使用无监督学习和监督学习来预测股票，有趣的项目。运行步骤如下：
 ```
 git clone https://github.com/VivekPa/AlphaAI.git
 cd AlphaAI
@@ -283,11 +283,24 @@ pip install -r requirements.txt
 python run.py
 ```
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/AlphaAI.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[bert](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google-research/bert)：一种新的语言表征模型，来自 Transformer 的双向编码器表征。目前最强 NLP 预训练模型，横扫 11 项 NLP 任务记录
+28、[bert](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google-research/bert)：一种新的语言表征模型，来自 Transformer 的双向编码器表征。目前最强 NLP 预训练模型，横扫 11 项 NLP 任务记录
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/img/bert.png' style="max-width:80%; max-height=80%;"></img></p>
+
+29、[awesome-machine-learning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/josephmisiti/awesome-machine-learning)：一个精选的机器学习框架、库、软件的集合项目
+
+30、[fastai](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fastai/fastai)：利用当前最好的深度学习算法简化训练神经网络的过程。包含了很多“开箱即用”的工具，支持 Vision、Collab 等模型。示例代码：
+```python
+# here's how to train an MNIST model using resnet18
+untar_data(MNIST_PATH)
+data = image_data_from_folder(MNIST_PATH)
+learn = create_cnn(data, tvm.resnet18, metrics=accuracy)
+learn.fit(1)
+```
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

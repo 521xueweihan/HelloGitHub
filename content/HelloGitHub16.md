@@ -47,6 +47,7 @@ $(function () {
 })
 ```
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/VerificationCode.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 3、[WeixinSDK](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Wlitsoft/WeixinSDK)：微信 C# 版 SDK，虽然现在已经有很多优秀的 SDK，但是本项目的更多的是交流、学习。每个类均有完整的代码注释、对应的单元测试、代码易于理解、接口抽象易于扩展。代码实例如下：
@@ -90,9 +91,11 @@ namespace WeixinSDK.Test.Fake
 ### C++ 项目
 4、[vnote](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vnotex/vnote)：Markdown 编辑软件。舒适的 Markdown 编辑体验，Vim 操作模式，编辑时代码块高亮
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/vnote-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 5、[RedisDesktopManager](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/uglide/RedisDesktopManager)：Redis 桌面管理工具
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/RedisDesktopManager-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -100,6 +103,7 @@ namespace WeixinSDK.Test.Fake
 
 ### Go 项目
 6、[excelize](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/qax-os/excelize)：操作 XLSX 文件，支持 Microsoft Excel™ 2007 以更高版本
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/excelize-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -113,48 +117,54 @@ namespace WeixinSDK.Test.Fake
 - 其中不乏实际开发中的实战 demo
 - 持续更新，已经开始切换到 `SpringBoot+SpringCloud` 构建微服务应用
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/SSM-min.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-8、[android-interview-questions-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/stormzhang/android-interview-questions-cn)：很全面、高质量 Android 面试指南
+8、[SmartRefreshLayout](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/scwang90/SmartRefreshLayout)：强大，稳定，成熟的 Android下 拉刷新框架，集成了各种的炫酷、多样、实用、美观的 Header 和 Footer
 
-9、[SmartRefreshLayout](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/scwang90/SmartRefreshLayout)：强大，稳定，成熟的 Android下 拉刷新框架，集成了各种的炫酷、多样、实用、美观的 Header 和 Footer
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/SmartRefreshLayout.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+9、[android-interview-questions-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/stormzhang/android-interview-questions-cn)：很全面、高质量 Android 面试指南
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-10、[mvvm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DMQ/mvvm)：剖析 vue 实现原理，了解 vue 的双向数据绑定原理以及核心代码模块，自己动手实现简易版 mvvm
+10、[docker-dashboard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pipiliang/docker-dashboard)：基于控制台的 docker 工具，代码简单易读，可以做为学习 Node.js 的实践项目
 
-11、[GifW00t](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yaronn/GifW00t)：纯 JavaScript 写的 Web 录像插件，可以用来实现网页在线游戏回放、反馈网站 bug、演示用途等，实用举例：
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/docker-dashboard-min.png' style="max-width:80%; max-height=80%;"></img></p>
+
+11、[APlayer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DIYgod/APlayer)：漂亮的 HTML5 音乐播放器
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/APlayer-min.png' style="max-width:80%; max-height=80%;"></img></p>
+
+12、[DPlayer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DIYgod/DPlayer)：可爱的弹幕视频播放器
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/DPlayer-min.jpeg' style="max-width:80%; max-height=80%;"></img></p>
+
+13、[mvvm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DMQ/mvvm)：剖析 vue 实现原理，了解 vue 的双向数据绑定原理以及核心代码模块，自己动手实现简易版 mvvm
+
+14、[GifW00t](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yaronn/GifW00t)：纯 JavaScript 写的 Web 录像插件，可以用来实现网页在线游戏回放、反馈网站 bug、演示用途等，实用举例：
 - [Packman 游戏](http://s3-us-west-2.amazonaws.com/anigif100/pacman/index.html)
 - [Helicopter 游戏](http://s3-us-west-2.amazonaws.com/anigif100/examples/helicopter/index.html)
 - [在线画板](http://s3-us-west-2.amazonaws.com/anigif100/examples/paint/paint.html)
 
-12、[docker-dashboard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pipiliang/docker-dashboard)：基于控制台的 docker 工具，代码简单易读，可以做为学习 Node.js 的实践项目
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/docker-dashboard-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-13、[APlayer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DIYgod/APlayer)：漂亮的 HTML5 音乐播放器
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/APlayer-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-14、[DPlayer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DIYgod/DPlayer)：可爱的弹幕视频播放器
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/DPlayer-min.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-15、[LearnPython](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xianhu/LearnPython)：这一个以”撸代码“的形式学习 Python 的编程技巧的项目，针对 Python 的一些语法特性力求通过代码例子解释该知识点、同时还有一些实践项目，通过动手实践有助于知识的融会贯通。同时可以关注作者的[知乎专栏](https://zhuanlan.zhihu.com/pythoner)学习更多的 Python 编程技巧
+15、[GetSubtitles](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gyh1621/GetSubtitles)：通过拖曳视频文件进终端，**一步下载字幕** 到视频对应文件夹，并重命名字幕名称为视频名称。Ubuntu 16.04、Windows 10上测试通过，同时兼容 Python2、3。Python 的魅力之一就是可以**快速实现一个适合自己的小工具** Cool ✌️
 
-16、[getproxy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fate0/getproxy)：极简的抓取代理项目，无需配置。不仅提供了获取代理脚本，同时可以通过[该页面](https://github.com/fate0/proxylist/blob/master/proxy.list)，直接获取可用代理（15min 更新、类型包含http和https）
-
-17、[syncPlaylist](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Denon/syncPlaylist)：在网易云音乐与 QQ 音乐之间同步歌单。易于使用、配置方便、代码简单，用到的技术：`requests` + `beautifulsoup` 以及 `selenium` + `phantomjs`
-
-18、[GetSubtitles](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gyh1621/GetSubtitles)：通过拖曳视频文件进终端，**一步下载字幕** 到视频对应文件夹，并重命名字幕名称为视频名称。Ubuntu 16.04、Windows 10上测试通过，同时兼容 Python2、3。Python 的魅力之一就是可以**快速实现一个适合自己的小工具** Cool ✌️
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/img/GetSubtitles.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+16、[LearnPython](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xianhu/LearnPython)：这一个以”撸代码“的形式学习 Python 的编程技巧的项目，针对 Python 的一些语法特性力求通过代码例子解释该知识点、同时还有一些实践项目，通过动手实践有助于知识的融会贯通。同时可以关注作者的[知乎专栏](https://zhuanlan.zhihu.com/pythoner)学习更多的 Python 编程技巧
+
+17、[getproxy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fate0/getproxy)：极简的抓取代理项目，无需配置。不仅提供了获取代理脚本，同时可以通过[该页面](https://github.com/fate0/proxylist/blob/master/proxy.list)，直接获取可用代理（15min 更新、类型包含http和https）
+
+18、[syncPlaylist](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Denon/syncPlaylist)：在网易云音乐与 QQ 音乐之间同步歌单。易于使用、配置方便、代码简单，用到的技术：`requests` + `beautifulsoup` 以及 `selenium` + `phantomjs`
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

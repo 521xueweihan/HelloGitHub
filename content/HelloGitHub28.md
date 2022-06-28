@@ -33,14 +33,13 @@
 ### C# 项目
 1、[choco](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chocolatey/choco)：类似 yum、apt-get、brew 的 Windows 包、软件管理、自动安装工具
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/choco.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
-2、[cpp-cheat-sheet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gibsjose/cpp-cheat-sheet)：能够帮你通过 Google 和 NASA 面试的 C++ 数据结构和算法的 cheat sheet（英文）
-
-3、[taskflow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/taskflow/taskflow)：一个 C++ 头文件库，让你以简单的几行代码就可以实现高效的并发。示例代码如下：
+2、[taskflow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/taskflow/taskflow)：一个 C++ 头文件库，让你以简单的几行代码就可以实现高效的并发。示例代码如下：
 ```c++
 #include "taskflow.hpp"  // the only include you need
 
@@ -66,7 +65,10 @@ int main(){
 }
 ```
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/cpp-taskflow.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+3、[cpp-cheat-sheet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gibsjose/cpp-cheat-sheet)：能够帮你通过 Google 和 NASA 面试的 C++ 数据结构和算法的 cheat sheet（英文）
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -89,44 +91,22 @@ int main(){
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-10、[vjtools](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vipshop/vjtools)：唯品会的 Java 技术干货分享
+10、[Auto.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hyb1996/Auto.js)：不需要 ROOT 权限的类似按键精灵的自动操作软件，可以实现自动点击、滑动、输入文字、打开应用等。Auto.js 的大部分用户用它来点赞、签到、刷游戏
 
-11、[Auto.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hyb1996/Auto.js)：不需要 ROOT 权限的类似按键精灵的自动操作软件，可以实现自动点击、滑动、输入文字、打开应用等。Auto.js 的大部分用户用它来点赞、签到、刷游戏
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/Auto-js-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[MTransition](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HJ-Money/MTransition)：一个 Android 的 Activity 切换动画库。该库可以用少量代码实现一些复杂的、自定义的 Activity 切换动画
+11、[MTransition](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HJ-Money/MTransition)：一个 Android 的 Activity 切换动画库。该库可以用少量代码实现一些复杂的、自定义的 Activity 切换动画
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/MTransition.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+12、[vjtools](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vipshop/vjtools)：唯品会的 Java 技术干货分享
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-13、[Web-Series](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wx-chevalier/Web-Series)：现代 Web 开发导论，内容大纲如下： 
-- 基础篇
-- 进阶篇
-- 架构优化篇
-- React 篇
-- Vue 篇
-
-14、[taro](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NervJS/taro)：一套 React 语法规范的多端开发解决方案。我们可以只书写一套代码，再通过 Taro 的编译工具，将源代码分别编译出可以在不同端（微信小程序、H5、React-Native 等）运行的代码。已经投入到了京东生产环境使用，示例代码如下：
-```javascript
-import Taro, { Component } from '@tarojs/taro'
-import { View, Button } from '@tarojs/components'
-
-export default class Index extends Component {
-    constructor () {
-        super(...arguments)
-        this.state = {
-            title: '首页',
-            list: [1, 2, 3]
-        }
-    }
-    ....   // 代码来源官网示例
-}
-```
-
-15、[G6](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/antvis/G6)：蚂蚁金服出品的关系数据可视化引擎，开发者可以基于 G6 拓展出属于自己的图分析应用或者图编辑器应用。[官方文档](https://antv.alipay.com/zh-cn/index.html)，示例代码：
+13、[G6](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/antvis/G6)：蚂蚁金服出品的关系数据可视化引擎，开发者可以基于 G6 拓展出属于自己的图分析应用或者图编辑器应用。[官方文档](https://antv.alipay.com/zh-cn/index.html)，示例代码：
 ```javascript
 import G6 from '@antv/g6';
 
@@ -153,11 +133,37 @@ const graph = new G6.Graph({
 graph.read(data);
 ```
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/g6.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[DesktopNaotu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NaoTu/DesktopNaotu)：桌面版脑图是基于百度脑图的本地化版本，帮助你在没有互联网环境的情况下，依然可以使用脑图工具。开箱即用，跨平台支持 Windows/Linux/Mac OS。桌面版思维工具，目前 Xmind 使用很多，但是需要收费，对于不常用，要求没有严格可以考虑此项目
+14、[DesktopNaotu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NaoTu/DesktopNaotu)：桌面版脑图是基于百度脑图的本地化版本，帮助你在没有互联网环境的情况下，依然可以使用脑图工具。开箱即用，跨平台支持 Windows/Linux/Mac OS。桌面版思维工具，目前 Xmind 使用很多，但是需要收费，对于不常用，要求没有严格可以考虑此项目
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/DesktopNaotu-min.png' style="max-width:80%; max-height=80%;"></img></p>
+
+15、[Web-Series](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wx-chevalier/Web-Series)：现代 Web 开发导论，内容大纲如下： 
+- 基础篇
+- 进阶篇
+- 架构优化篇
+- React 篇
+- Vue 篇
+
+16、[taro](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NervJS/taro)：一套 React 语法规范的多端开发解决方案。我们可以只书写一套代码，再通过 Taro 的编译工具，将源代码分别编译出可以在不同端（微信小程序、H5、React-Native 等）运行的代码。已经投入到了京东生产环境使用，示例代码如下：
+```javascript
+import Taro, { Component } from '@tarojs/taro'
+import { View, Button } from '@tarojs/components'
+
+export default class Index extends Component {
+    constructor () {
+        super(...arguments)
+        this.state = {
+            title: '首页',
+            list: [1, 2, 3]
+        }
+    }
+    ....   // 代码来源官网示例
+}
+```
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -174,31 +180,35 @@ graph.read(data);
 - 最少仅用一行代码即可与 Scrapy 和 requests 进行集成
 - 等等
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/scylla-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-19、[spark_study](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shijinkui/spark_study)：Spark 源码阅读笔记
+19、[CS-Interview-Knowledge-Map](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/InterviewMap/CS-Interview-Knowledge-Map)：这是一份制作精良、系统的面试图谱。内容包括：前端、计算机网络、算法、数据结构等方面。相信认真学习完这份资料，你会找到自己心仪的工作。[在线阅读](https://yuchengkai.cn/docs/zh/)
 
-20、[CS-Interview-Knowledge-Map](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/InterviewMap/CS-Interview-Knowledge-Map)：这是一份制作精良、系统的面试图谱。内容包括：前端、计算机网络、算法、数据结构等方面。相信认真学习完这份资料，你会找到自己心仪的工作。[在线阅读](https://yuchengkai.cn/docs/zh/)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/InterviewMap-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-21、[Best-App](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hzlzh/Best-App)：苹果系统下的优秀软件、硬件、技巧、周边设备的集合
+20、[follow-me-install-kubernetes-cluster](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/opsnull/follow-me-install-kubernetes-cluster)：部署 kubernetes 集群教程。该教程介绍使用二进制部署最新 kubernetes 集群的所有步骤，而不是使用 kubeadm 等自动化方式来部署集群。这样有助于理解系统各组件的交互原理，进而能够快速定位、解决实际中遇到的问题
 
-22、[follow-me-install-kubernetes-cluster](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/opsnull/follow-me-install-kubernetes-cluster)：部署 kubernetes 集群教程。该教程介绍使用二进制部署最新 kubernetes 集群的所有步骤，而不是使用 kubeadm 等自动化方式来部署集群。这样有助于理解系统各组件的交互原理，进而能够快速定位、解决实际中遇到的问题
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/follow-me-install-kubernetes-cluster-min.png' style="max-width:80%; max-height=80%;"></img></p>
+
+21、[spark_study](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shijinkui/spark_study)：Spark 源码阅读笔记
+
+22、[Best-App](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hzlzh/Best-App)：苹果系统下的优秀软件、硬件、技巧、周边设备的集合
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-23、[The-Flask-Mega-Tutorial-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh)：2017 年新版《The Flask Mega-Tutorial 教程》（狗书）中文翻译版
+23、[progit2](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/progit/progit2)：《Pro Git 第二版》[在线中文阅读](https://git-scm.com/book/zh/v2)
 
-24、[progit2](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/progit/progit2)：《Pro Git 第二版》[在线中文阅读](https://git-scm.com/book/zh/v2)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/progit2-min.png' style="max-width:80%; max-height=80%;"></img></p>
+
+24、[The-Flask-Mega-Tutorial-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh)：2017 年新版《The Flask Mega-Tutorial 教程》（狗书）中文翻译版
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

@@ -38,12 +38,14 @@
 2、[dopamine-windows](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/digimezzo/dopamine-windows)：基于WPF编写的现代扁平风格轻量级播放器
 
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/Dopamine-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 3、[dht](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shiyanhui/dht)：DHT 实现了 BitTorrent DHT 协议，它包含两种模式，标准模式和爬虫模式。标准模式遵循 DHT 协议，你可以把它当做一个标准的 DHT 组件。爬虫模式是为了嗅探到更多 torrent 文件信息，它在某些方面不遵循 DHT 协议。 基于爬虫模式，你可以打造你自己的 BTDigg，[演示地址](http://bthub.io/)
+
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/dnt-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -56,33 +58,37 @@
 5、[Grav](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/glomadrian/Grav)：Android 粒子动画效果，非常炫酷。让 APP 逼格更上一层楼
 
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/Grav.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[AndroidLibs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/XXApple/AndroidLibs)：Android 开源代码大全，收集 Android 开发中优秀的开源组件库，方便大家查询
+6、[AndroidLibs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ColorfulCat/AndroidLibs)：Android 开源代码大全，收集 Android 开发中优秀的开源组件库，方便大家查询
 
 7、[android-discuss](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/android-cn/android-discuss)：Android 问题交流讨论坛，包含 Android 开发中的各种问题讨论
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-8、[js-stack-from-scratch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xitu/js-stack-from-scratch)：从零开始构建 JavaScript 技术栈（中文版）
+8、[gifify](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vvo/gifify)：可以选择视频文件的某一时间间隔做成 gif 动图
 
-9、[element](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ElemeFE/element)：一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的组件库，提供了配套设计资源，帮助你的网站快速成型。[官网](http://element.eleme.io/#/zh-CN)
-
-10、[gifify](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vvo/gifify)：可以选择视频文件的某一时间间隔做成 gif 动图
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/gifify.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[cmder](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cmderdev/cmder)：Windows 控制台模拟器，运行效果如下：
+9、[cmder](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cmderdev/cmder)：Windows 控制台模拟器，运行效果如下：
+
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/cmder-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[Vue2.0LOL](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/arronf2e/Vue2.0LOL)：Vue2.0 版英雄联盟助手
+10、[Vue2.0LOL](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/arronf2e/Vue2.0LOL)：Vue2.0 版英雄联盟助手
+
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/vue2.0lol-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+
+11、[js-stack-from-scratch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xitu/js-stack-from-scratch)：从零开始构建 JavaScript 技术栈（中文版）
+
+12、[element](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ElemeFE/element)：一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的组件库，提供了配套设计资源，帮助你的网站快速成型。[官网](http://element.eleme.io/#/zh-CN)
 
 13、[typescript-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xcatliu/typescript-tutorial)：TypeScript 入门教程
 
@@ -90,6 +96,7 @@
 
 ### Objective-C 项目
 14、[PYSearch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ko1o/PYSearch)：一款综合（QQ 音乐、微信、美团、优酷、虎牙直播等多款 App）风格的搜索控制器
+
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/PYSearch-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -102,6 +109,7 @@
 4. 支持自定义需要忽略检测的文件夹, 例如：iOS 工程中的 Pods 文件夹；
 5. 支持中文与英文，跟随系统语言变化；
 6. 支持忽略代码中的空行，代码行数计算更精确；
+
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/PPRows.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -170,24 +178,26 @@ Request failed
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-21、[uBlock](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gorhill/uBlock)：uBlock Origin 不只是一个广告过滤工具，它是具有一般性用途的过滤工具，屏蔽广告的功能是通过支持 Adblock Plus 过滤规则语法实现的。uBlock 还扩充了语法，一开始就支持自定义过滤规则，[中文文档](https://github.com/fang5566/uBlock/blob/master/README.md#ublock-origin)
+21、[SwitchHosts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/oldj/SwitchHosts)：一个用于快速切换 hosts 文件的小程序，基于 Electron 开发
 
-22、[SwitchHosts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/oldj/SwitchHosts)：一个用于快速切换 hosts 文件的小程序，基于 Electron 开发
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/SwitchHosts-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[alloyteam.github.com](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AlloyTeam/alloyteam.github.com)：腾讯 AlloyTeam 开源项目官网
+22、[SuperTinyIcons](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/edent/SuperTinyIcons)：体积超级小、制作精致的常见网站和 app 的图标库，每个图标均小于 1KB
 
-24、[be-a-professional-programmer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/stanzhai/be-a-professional-programmer)：成为专业程序员路上用到的各种优秀资料、神器及框架
-
-25、[gold-miner](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xitu/gold-miner)：掘金翻译计划，翻译掘金上优质的英文文章
-
-26、[Awesome](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Awesome-Windows/Awesome)：一个 Windows 上优质和精选的最佳应用程序及工具列表。[中文版](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
-
-27、[SuperTinyIcons](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/edent/SuperTinyIcons)：体积超级小、制作精致的常见网站和 app 的图标库，每个图标均小于 1KB
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/SuperTinyIcons.png' style="max-width:80%; max-height=80%;"></img></p>
+
+23、[uBlock](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gorhill/uBlock)：uBlock Origin 不只是一个广告过滤工具，它是具有一般性用途的过滤工具，屏蔽广告的功能是通过支持 Adblock Plus 过滤规则语法实现的。uBlock 还扩充了语法，一开始就支持自定义过滤规则，[中文文档](https://github.com/fang5566/uBlock/blob/master/README.md#ublock-origin)
+
+24、[alloyteam.github.com](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AlloyTeam/alloyteam.github.com)：腾讯 AlloyTeam 开源项目官网
+
+25、[be-a-professional-programmer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/stanzhai/be-a-professional-programmer)：成为专业程序员路上用到的各种优秀资料、神器及框架
+
+26、[gold-miner](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xitu/gold-miner)：掘金翻译计划，翻译掘金上优质的英文文章
+
+27、[Awesome](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Awesome-Windows/Awesome)：一个 Windows 上优质和精选的最佳应用程序及工具列表。[中文版](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

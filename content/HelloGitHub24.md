@@ -57,7 +57,12 @@ $ annie -c cookies.txt https://www.bilibili.com/video/av20203945/
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-4、[PreLoader](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/luckybilly/PreLoader)：Android 页面在打开后需要在 UI 初始化完成后才能发起网络请求，以免网络请求返回后展示到 UI 时出现错误。但这种串行的做法导致页面的整个初始化时间变长。使用该工具可以在打开页面之前预加载数据，然后在页面 UI 初始化完成后提取预加载好的数据进行展示，从而缩短页面初始化时间，提升用户体验。示例代码如下：
+4、[SuperLike](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Qiu800820/SuperLike)：仿今日头条点赞喷射表情动画
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/SuperLike.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+5、[PreLoader](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/luckybilly/PreLoader)：Android 页面在打开后需要在 UI 初始化完成后才能发起网络请求，以免网络请求返回后展示到 UI 时出现错误。但这种串行的做法导致页面的整个初始化时间变长。使用该工具可以在打开页面之前预加载数据，然后在页面 UI 初始化完成后提取预加载好的数据进行展示，从而缩短页面初始化时间，提升用户体验。示例代码如下：
 ```java
 // 开启预加载任务
 int preLoaderId = PreLoader.preLoad(new Loader());
@@ -90,20 +95,22 @@ class Listener implements DataListener<String> {
 }
 ```
 
-5、[SuperLike](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Qiu800820/SuperLike)：仿今日头条点赞喷射表情动画
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/SuperLike.gif' style="max-width:80%; max-height=80%;"></img></p>
-
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-6、[node-in-debugging](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nswbmw/node-in-debugging)：《Node.js 调试指南》作者整理了使用 Node.js 开发这几年的调试经验和思路
+6、[chrome-music-lab](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/googlecreativelab/chrome-music-lab)：Chrome 音乐实验室是一个网站，让学习音乐变得更加简单、好玩。完全基于Web端，国内可直接访问、老少皆宜、支持多种乐器，圆你一个音乐梦
 
-7、[chrome-music-lab](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/googlecreativelab/chrome-music-lab)：Chrome 音乐实验室是一个网站，让学习音乐变得更加简单、好玩。完全基于Web端，国内可直接访问、老少皆宜、支持多种乐器，圆你一个音乐梦
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/chrome-music-lab-show-min.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-8、[mpvue](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Meituan-Dianping/mpvue)：小程序的前端框架。框架基于 Vue.js 核心，修改了 Vue.js 的 runtime 和 compiler 实现。使其可以运行在小程序环境中，为小程序开发引入了整套 Vue.js 开发体验。[5 分钟上手视频](http://mpvue.com/mpvue/quickstart/)
+7、[30-seconds-of-code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/30-seconds/30-seconds-of-code)：精选可以在 30秒 或更短的时间内理解的实用 JavaScript 代码片段集合
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/30-seconds-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+
+8、[node-in-debugging](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nswbmw/node-in-debugging)：《Node.js 调试指南》作者整理了使用 Node.js 开发这几年的调试经验和思路
+
+9、[mpvue](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Meituan-Dianping/mpvue)：小程序的前端框架。框架基于 Vue.js 核心，修改了 Vue.js 的 runtime 和 compiler 实现。使其可以运行在小程序环境中，为小程序开发引入了整套 Vue.js 开发体验。[5 分钟上手视频](http://mpvue.com/mpvue/quickstart/)
 - 彻底的组件化开发能力：提高代码复用性
 - 完整的 Vue.js 开发体验
 - 方便的 Vuex 数据管理方案：方便构建复杂应用
@@ -112,18 +119,16 @@ class Listener implements DataListener<String> {
 - 使用 Vue.js 命令行工具 vue-cli 快速初始化项目
 - H5 代码转换编译成小程序目标代码的能力
 
-9、[30-seconds-of-code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/30-seconds/30-seconds-of-code)：精选可以在 30秒 或更短的时间内理解的实用 JavaScript 代码片段集合
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/30-seconds-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Objective-C 项目
 10、[WeChatPlugin-MacOS](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)：Mac 版微信小助手，支持自动回复、消息防撤回、远程控制、微信多开、会话置底、免认证登录、通知快捷回复等功能
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/WeChatPlugin-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[LSAnimator](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Lision/LSAnimator)：通过使用 LSAnimator（Objective-C）或者 CoreAnimator（Swift）可以用少量的代码实现复杂而又易于维护的动画，并且弥补了 JHChainableAnimations 的致命缺陷。[详细描述](https://github.com/Lision/LSAnimator/blob/master/README_ZH-CN.md)
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/LSAnimator.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -150,9 +155,11 @@ print(fetcher.get_proxies()) # or print(fetcher.pool)
 
 以知乎为目标抓取网站，该代理IP池的实际性能测试结果如下：
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/haipproxy-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 14、[MovieHeavens](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LeetaoGoooo/MovieHeavens)：基于 Pyqt4 的电影天堂电影搜索工具，再也不用忍受各种广告和点击跳转了
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/MovieHeavens.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -168,6 +175,7 @@ ws_api.get_gzh_info('微信名称')
 
 ### Swift 项目
 16、[iina](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iina/iina)：Mac 下开源多媒体播放器，支持多国语言、高逼格 UI。安装：`brew cask install iina`
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/iina-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -185,14 +193,15 @@ ws_api.get_gzh_info('微信名称')
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-21、[ailearning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apachecn/ailearning)：ApacheCN 制作的《机器学习实战》。配套视频：编码能力强，建议观看[《机器学习实战 - 教学版》](https://space.bilibili.com/97678687/#/channel/detail?cid=22486)。
-编码能力弱，建议观看[《机器学习实战 - 讨论版》](https://space.bilibili.com/97678687/#/channel/detail?cid=13045)
+21、[DeepLeague](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/farzaa/DeepLeague)：英雄联盟的机器学习项目，规模不大，适合研究一些 CV 和 ML 的算法应用
 
-22、[tensorflow-docs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xitu/tensorflow-docs)：TensorFlow Docs 是由掘金翻译计划实时维护的 TensorFlow 官方文档中文版，维护者为全球各大公司开发人员和各著名高校研究者及学生
-
-23、[DeepLeague](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/farzaa/DeepLeague)：英雄联盟的机器学习项目，规模不大，适合研究一些 CV 和 ML 的算法应用
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/img/DeepLeague.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+22、[ailearning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apachecn/ailearning)：ApacheCN 制作的《机器学习实战》。配套视频：编码能力强，建议观看[《机器学习实战 - 教学版》](https://space.bilibili.com/97678687/#/channel/detail?cid=22486)。
+编码能力弱，建议观看[《机器学习实战 - 讨论版》](https://space.bilibili.com/97678687/#/channel/detail?cid=13045)
+
+23、[tensorflow-docs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xitu/tensorflow-docs)：TensorFlow Docs 是由掘金翻译计划实时维护的 TensorFlow 官方文档中文版，维护者为全球各大公司开发人员和各著名高校研究者及学生
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

@@ -32,6 +32,7 @@
 ### C 项目
 1、[obs-studio](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/obsproject/obs-studio)：由 OBS 项目维护的免费开源流媒体和录制程序。该程序支持 Windows 7、macOS 10.10、Ubuntu 14.04 操作系统。可用于直播和屏幕录制，[下载地址](https://github.com/obsproject/obs-studio/releases)
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/obs-studio.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 2、[C](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TheAlgorithms/C)：各种基础算法、数据结构的 C 语言实现。这个[TheAlgorithms](https://github.com/TheAlgorithms) 开源组织的项目包含基础算法的各种编程语言的示例代码
@@ -142,9 +143,11 @@ BitmapEncoder.saveBitmap(chart, "./Sample_Chart", BitmapFormat.PNG);
 BitmapEncoder.saveBitmapWithDPI(chart, "./Sample_Chart_300_DPI", BitmapFormat.PNG, 300);
 ```
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/XChart.png' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[AndroidAutoSize](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JessYanCoding/AndroidAutoSize)：学习成本极低的 Android 屏幕适配方案，已被知名 APP 用于线上产品
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/AndroidAutoSize.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -154,6 +157,7 @@ BitmapEncoder.saveBitmapWithDPI(chart, "./Sample_Chart_300_DPI", BitmapFormat.PN
 - 低内存：采用内存复用的方式，整个生命周期只产生极少的临时对象，不影响应用程序的 GC
 - 高精度：采用纳秒来计算响应时间
 - 高实时：支持秒级监控，最低 1 秒
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/MyPerf4J.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -172,6 +176,7 @@ BitmapEncoder.saveBitmapWithDPI(chart, "./Sample_Chart_300_DPI", BitmapFormat.PN
 
 ### Python 项目
 15、[awslogs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jorgebastida/awslogs)：一个简单的命令行工具，用于在本地查询 Amazon CloudWatch 日志，强大的支持多实例日志汇总查看。简单的查看命令：`awslogs get /var/logs/syslog ALL -s1d`
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/awslogs.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -204,6 +209,7 @@ cup
 
 ### Swift 项目
 18、[Gifski](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/Gifski)：Gifski这个开源程序可以将一系列图片或一段视频转化为高质量的gif，高质量是这个程序最大的特色，下面我们将从使用与评价两个方面来介绍这个程序。Gifski实际上适用于windows，mac以及linux三个平台，唯一不同的是，mac平台上的gifski内置了视频分帧工具，因此可以直接把视频拖入程序窗口即可生成gif，而其它平台上则只能使用第三方程序分帧后才能处理，并且要在命令行中运行
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/gifski-app.jpg' style="max-width:80%; max-height=80%;"></img></p>
 

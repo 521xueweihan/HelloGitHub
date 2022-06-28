@@ -33,12 +33,33 @@
 ### C++ 项目
 1、[playerdemo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/itisyang/playerdemo)：开源、入门级视频播放器跨平台视频播放器。该播放器拥有视频播放器基本功能，适合学习播放器开发技术，音频、视频技术
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/playerdemo.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-2、[sqler](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alash3al/sqler)：根据 SQL 和配置文件生成接口的工具。与传统的 SQL 生成 RESETful API 的工具不同，这个工具允许你自定义一些 API 的前、后处理，Auth 之类的行为。启动命令 `sqler -config=path to config file`，配置示例：
+2、[color](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gookit/color)：Golang 的命令行色彩使用库。拥有丰富的色彩渲染输出、通用的 API 方法、兼容 Windows 系统
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/color.png' style="max-width:80%; max-height=80%;"></img></p>
+
+3、[Modlishka](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/drk1wi/Modlishka)：钓鱼网站生成工具。该工具会根据给定的模版生成一个钓鱼网站，然后在该网站输入的用户名密码等敏感信息会被记录
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/Modlishka.jpeg' style="max-width:80%; max-height=80%;"></img></p>
+
+4、[txqr](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/divan/txqr)：通过动态二维码传输数据，如：传输文件等
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/txqr.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+5、[gitbatch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/isacikgoz/gitbatch)：批量管理 Git 仓库的命令行工具
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/gitbatch.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+6、[sqler](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alash3al/sqler)：根据 SQL 和配置文件生成接口的工具。与传统的 SQL 生成 RESETful API 的工具不同，这个工具允许你自定义一些 API 的前、后处理，Auth 之类的行为。启动命令 `sqler -config=path to config file`，配置示例：
 ```
 adduser {
 // 参数校验
@@ -79,35 +100,20 @@ adduser {
 }
 ```
 
-3、[color](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gookit/color)：Golang 的命令行色彩使用库。拥有丰富的色彩渲染输出、通用的 API 方法、兼容 Windows 系统
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/color.png' style="max-width:80%; max-height=80%;"></img></p>
-
-4、[Modlishka](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/drk1wi/Modlishka)：钓鱼网站生成工具。该工具会根据给定的模版生成一个钓鱼网站，然后在该网站输入的用户名密码等敏感信息会被记录
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/Modlishka.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
-5、[txqr](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/divan/txqr)：通过动态二维码传输数据，如：传输文件等
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/txqr.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-6、[gitbatch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/isacikgoz/gitbatch)：批量管理 Git 仓库的命令行工具
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/gitbatch.gif' style="max-width:80%; max-height=80%;"></img></p>
-
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-7、[hutool](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dromara/hutool)：功能丰富的 Java 工具包。它帮助我们实现了常用的工具方法，从而减少代码的体积，提高开发效率。该项目最初是作者工作项目中的`util`模块，后来慢慢积累并加入更多非业务相关工具类方法。经过整理修改，最终形成丰富的开源工具集。示例代码：
+7、[VIABUS-Architecture](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/KunMinX/VIABUS-Architecture)：一款响应式架构。借助总线转发数据的请求和响应，实现 UI、业务的完全解耦
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/android-viabus-architecture.png' style="max-width:80%; max-height=80%;"></img></p>
+
+8、[hutool](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dromara/hutool)：功能丰富的 Java 工具包。它帮助我们实现了常用的工具方法，从而减少代码的体积，提高开发效率。该项目最初是作者工作项目中的`util`模块，后来慢慢积累并加入更多非业务相关工具类方法。经过整理修改，最终形成丰富的开源工具集。示例代码：
 ```java
 int a = 1;
 //aStr为"1"
 String aStr = Convert.toStr(a);
 ```
-
-8、[VIABUS-Architecture](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/KunMinX/VIABUS-Architecture)：一款响应式架构。借助总线转发数据的请求和响应，实现 UI、业务的完全解耦
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/android-viabus-architecture.png' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[DevUtils](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/afkT/DevUtils)：Android 工具库，注释规范、API文档清晰明了、工具类种类多。根据不同功能模块封装，方便使用。帮助开发人员，便捷、快速地开发安全、可靠的项目。内置部分常用的资源文件，如 color.xml、layout.xml 等
 
@@ -125,9 +131,58 @@ String aStr = Convert.toStr(a);
 
 ```
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/vConsole.png' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[omi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/omi)：腾讯开源的通用 Web 组件化框架。特点：
+11、[gridea](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/getgridea/gridea)：静态博客写作客户端，你可以用它来记录你的生活、心情、知识、笔记、创意。使用了 electron 技术，对于学习 Javascript 桌面端开发是一个很好的项目
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/hve-notes.png' style="max-width:80%; max-height=80%;"></img></p>
+
+12、[weapp-library](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/imageslr/weapp-library)：提供在线借书功能的开源小程序项目。连接读者与图书馆，实现图书借阅线上化。界面风格良好，功能完整。具有注册登录、图书搜索、书单系统、订单管理等功能。这是一个完整的小程序项目，包括了前后端的开发，并且撰写了完善的文档，适合初学者学习。可以扫描下面的小程序码体验：
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/weapp-library.png' style="max-width:80%; max-height=80%;"></img></p>
+
+13、[axial3d](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bestvist/axial3d)：实现了类似 GitHub 404 页面的动画效果。效果有趣，使用场景较多，并且实现了组件化，示例代码：
+```javascript
+<html>
+<head>
+    <title>Demo - Axial3d</title>
+</head>
+<body>
+    <script src="https://unpkg.com/axial3d"></script>
+    <div id="axial3d"></div>
+    <script>
+        (function () {
+            var options = {
+                selector: '#axial3d',
+                imgs: [
+                    {src: 'https://bestvist.github.io/axial3d/public/demo1/bg.png', left: '50px', top: '10px'},
+                    {src: 'https://bestvist.github.io/axial3d/public/demo1/2.png', left: '150px', top: '10px'},
+                    {src: 'https://bestvist.github.io/axial3d/public/demo1/3.png', left: '50px', top: '300px'},
+                    {src: 'https://bestvist.github.io/axial3d/public/demo1/4.png', left: '300px', top: '300px'}
+                ]
+            }
+            var effect = new Axial3d(options);
+        })()
+    </script>
+</body>
+</html>
+```
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/axial3d.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+14、[giojs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/syt123450/giojs)：基于 Three.js 的 Web 3D 地球数据可视化的开源组件库。使用 Gio.js 的网页应用开发者，可以快速地以申明的方式创建自定义的 Web3D 数据可视化模型，添加数据，并且将其作为一个组件整合到自己的应用中。支持静态 Dom、React和微信小程序。具有一下特点：
+- 易用性 -- 仅使用 4 行 Javascript 即可创建 3D 地球数据可视化模型
+- 定制化 -- 使用 Gio.js 提供的丰富的 API 来创建自定义样式的 3D 地球
+- 现代化 -- 基于 Gio.js 构建高交互、跨平台、自适应的现代化 3D 前端应用
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/giojs.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+15、[omi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/omi)：腾讯开源的通用 Web 组件化框架。特点：
 - 拥有官方 UI 组件库
 - 使用 omio 可以兼容到 IE8
 - 设计精巧、兼容性好
@@ -166,56 +221,13 @@ define('my-counter', class extends WeElement {
 render(<my-counter />, 'body')
 ```
 
-12、[RSSHub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DIYgod/RSSHub)：轻量、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源。现已支持丰富的源，详情见[文档](https://docs.rsshub.app/)
-
-13、[gridea](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/getgridea/gridea)：静态博客写作客户端，你可以用它来记录你的生活、心情、知识、笔记、创意。使用了 electron 技术，对于学习 Javascript 桌面端开发是一个很好的项目
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/hve-notes.png' style="max-width:80%; max-height=80%;"></img></p>
-
-14、[weapp-library](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/imageslr/weapp-library)：提供在线借书功能的开源小程序项目。连接读者与图书馆，实现图书借阅线上化。界面风格良好，功能完整。具有注册登录、图书搜索、书单系统、订单管理等功能。这是一个完整的小程序项目，包括了前后端的开发，并且撰写了完善的文档，适合初学者学习。可以扫描下面的小程序码体验：
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/weapp-library.png' style="max-width:80%; max-height=80%;"></img></p>
-
-15、[axial3d](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bestvist/axial3d)：实现了类似 GitHub 404 页面的动画效果。效果有趣，使用场景较多，并且实现了组件化，示例代码：
-```javascript
-<html>
-<head>
-    <title>Demo - Axial3d</title>
-</head>
-<body>
-    <script src="https://unpkg.com/axial3d"></script>
-    <div id="axial3d"></div>
-    <script>
-        (function () {
-            var options = {
-                selector: '#axial3d',
-                imgs: [
-                    {src: 'https://bestvist.github.io/axial3d/public/demo1/bg.png', left: '50px', top: '10px'},
-                    {src: 'https://bestvist.github.io/axial3d/public/demo1/2.png', left: '150px', top: '10px'},
-                    {src: 'https://bestvist.github.io/axial3d/public/demo1/3.png', left: '50px', top: '300px'},
-                    {src: 'https://bestvist.github.io/axial3d/public/demo1/4.png', left: '300px', top: '300px'}
-                ]
-            }
-            var effect = new Axial3d(options);
-        })()
-    </script>
-</body>
-</html>
-```
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/axial3d.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-16、[giojs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/syt123450/giojs)：基于 Three.js 的 Web 3D 地球数据可视化的开源组件库。使用 Gio.js 的网页应用开发者，可以快速地以申明的方式创建自定义的 Web3D 数据可视化模型，添加数据，并且将其作为一个组件整合到自己的应用中。支持静态 Dom、React和微信小程序。具有一下特点：
-- 易用性 -- 仅使用 4 行 Javascript 即可创建 3D 地球数据可视化模型
-- 定制化 -- 使用 Gio.js 提供的丰富的 API 来创建自定义样式的 3D 地球
-- 现代化 -- 基于 Gio.js 构建高交互、跨平台、自适应的现代化 3D 前端应用
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/giojs.gif' style="max-width:80%; max-height=80%;"></img></p>
+16、[RSSHub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DIYgod/RSSHub)：轻量、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源。现已支持丰富的源，详情见[文档](https://docs.rsshub.app/)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Objective-C 项目
 17、[keycastr](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/keycastr/keycastr)：在屏幕上实时显示当前按键的工具
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/keycastr.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -232,6 +244,7 @@ render(<my-counter />, 'body')
 - 可直接使用 Swoole 的很多特性
 - 等等
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/laravel-s.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
@@ -239,9 +252,18 @@ render(<my-counter />, 'body')
 ### Python 项目
 20、[sherlock](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sherlock-project/sherlock)：（英文）在主流社交网站，例如：GitHub、Facebook 等网站上查找指定的用户名是否存在。你想取一个独一无二的名字吗？快试试吧
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/sherlock.png' style="max-width:80%; max-height=80%;"></img></p>
 
-21、[click](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pallets/click)：Python 的第三方库，用于快速创建命令行。支持装饰器方式调用、多种参数类型、自动生成帮助信息等。示例代码如下：
+21、[PSpider](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xianhu/PSpider)：代码量极少，功能却很完备的 Python 爬虫框架。特点：
+- 功能完备：包含抓取、解析、存储等
+- 代码量少：方便阅读源码、动手修改、二次开发
+- 等等
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/PSpider.png' style="max-width:80%; max-height=80%;"></img></p>
+
+22、[click](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pallets/click)：Python 的第三方库，用于快速创建命令行。支持装饰器方式调用、多种参数类型、自动生成帮助信息等。示例代码如下：
 ```python
 import click
 
@@ -265,13 +287,6 @@ Hello, Click!
 Hello, Click!
 ```
 
-22、[PSpider](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xianhu/PSpider)：代码量极少，功能却很完备的 Python 爬虫框架。特点：
-- 功能完备：包含抓取、解析、存储等
-- 代码量少：方便阅读源码、动手修改、二次开发
-- 等等
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/PSpider.png' style="max-width:80%; max-height=80%;"></img></p>
-
 23、[awesome-python-applications](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mahmoud/awesome-python-applications)：（英文）介绍 Python 有趣、神奇的开源项目。目前涵盖多个领域、项目丰富
 
 24、[ranger](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ranger/ranger)：以类似 VIM 操作，方便、快捷地管理文件的工具
@@ -293,13 +308,19 @@ Hello, Click!
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-29、[spinningup](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/openai/spinningup)：（英文）OpenAI 制作的教育资源，可以更容易地学习深层强化学习。官方项目，浅显易懂，提供练手的例子，方便初学者或对深层强化学习感兴趣的人群学习和入门
+29、[the-gan-zoo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hindupuravinash/the-gan-zoo)：生成对抗网络（Generative Adversarial Networks，简称GAN）的一个大集合，作者列举了生成对抗网络领域各式各样的应用集合，大部分为论文，包含少数的 GitHub 项目。该项目对于 GAN 领域覆盖面全面，论文列表整理清晰，GAN 方向的研究者可以从这个项目中查询到想看的经典的论文或者扩充自己的知识储备
 
-30、[the-gan-zoo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hindupuravinash/the-gan-zoo)：生成对抗网络（Generative Adversarial Networks，简称GAN）的一个大集合，作者列举了生成对抗网络领域各式各样的应用集合，大部分为论文，包含少数的 GitHub 项目。该项目对于 GAN 领域覆盖面全面，论文列表整理清晰，GAN 方向的研究者可以从这个项目中查询到想看的经典的论文或者扩充自己的知识储备
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/the-gan-zoo.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[transformers](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huggingface/transformers)：Google 神级语言表示模型的 PyTorch 预训练模型和 PyTorch 框架结合，使得更加容易上手。PyTorch 版本更方便小白上手实验。示例代码：
+30、[Semantic-Segmentation-Suite](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/GeorgeSeif/Semantic-Segmentation-Suite)：图像语义分割模型组件整理，包含了模型、数据增广、准确率评价等模块。方便研究者快速搭建和试验一个图像语义分割模型，同时集成了一些 state-of-the-art 的模型
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/Semantic-Segmentation-Suite.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+31、[spinningup](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/openai/spinningup)：（英文）OpenAI 制作的教育资源，可以更容易地学习深层强化学习。官方项目，浅显易懂，提供练手的例子，方便初学者或对深层强化学习感兴趣的人群学习和入门
+
+32、[transformers](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huggingface/transformers)：Google 神级语言表示模型的 PyTorch 预训练模型和 PyTorch 框架结合，使得更加容易上手。PyTorch 版本更方便小白上手实验。示例代码：
 ```python
 import torch
 from pytorch_pretrained_bert import BertTokenizer, BertModel, BertForMaskedLM
@@ -326,11 +347,7 @@ tokens_tensor = torch.tensor([indexed_tokens])
 segments_tensors = torch.tensor([segments_ids])
 ```
 
-32、[RecommenderSystem-Paper](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/daicoolb/RecommenderSystem-Paper)：推荐系统论文整理列表，包括了行业顶尖会议 AAAI、NIPS 等发表的论文，以及 KDD 一些获奖论文。方便推荐系统方向以及文本表示方向等研究人员，跟踪阅读行业内经典论文和最新研究方向
-
-33、[Semantic-Segmentation-Suite](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/GeorgeSeif/Semantic-Segmentation-Suite)：图像语义分割模型组件整理，包含了模型、数据增广、准确率评价等模块。方便研究者快速搭建和试验一个图像语义分割模型，同时集成了一些 state-of-the-art 的模型
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/img/Semantic-Segmentation-Suite.gif' style="max-width:80%; max-height=80%;"></img></p>
+33、[RecommenderSystem-Paper](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/daicoolb/RecommenderSystem-Paper)：推荐系统论文整理列表，包括了行业顶尖会议 AAAI、NIPS 等发表的论文，以及 KDD 一些获奖论文。方便推荐系统方向以及文本表示方向等研究人员，跟踪阅读行业内经典论文和最新研究方向
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

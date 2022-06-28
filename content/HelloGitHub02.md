@@ -33,9 +33,11 @@
 2、[listen1_desktop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/listen1/listen1_desktop)：Listen 1 让你用一个网页就能听到多个网站的在线音乐，支持各种平台。如图：
 
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/img/listen1-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 3、[jquery-weui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lihongxun945/jquery-weui)：可能是最好用 WeUI 版本，展示效果如下：
+
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/img/jquery-weui-min.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -62,9 +64,11 @@
 7、[luokr.com](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alvan/luokr.com)：Python Tornado 写的开源网站——螺壳网，[访问](http://luokr.com/)，如图：
 
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/img/luokr-com.png' style="max-width:80%; max-height=80%;"></img></p>
 
 8、[ssbc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/78/ssbc)：Python Django 写的种子搜索网站——手撕包菜，如图：
+
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/img/ssbc.png' style="max-width:80%; max-height=80%;"></img></p>

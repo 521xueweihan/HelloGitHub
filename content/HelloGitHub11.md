@@ -55,9 +55,7 @@ Transfer/sec:    606.33MB
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-4、[GitClub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TellH/GitClub)：GitClub 不仅仅是一个 GitHub 客户端，还是一个发现优秀 GitHub 开源项目的 App
-
-5、[tale](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/otale/tale)：简洁、漂亮、轻量级、Java 博客，[在线预览](https://tale.biezhi.me/)。特性：
+4、[tale](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/otale/tale)：简洁、漂亮、轻量级、Java 博客，[在线预览](https://tale.biezhi.me/)。特性：
 - 设计简洁，界面美观
 - Markdown 文章发布
 - 自定义文章链接
@@ -68,17 +66,22 @@ Transfer/sec:    606.33MB
 - 部署简单，不依赖 Tomcat
 
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/11/img/tale-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[jvm-mon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ajermakovics/jvm-mon)：命令行模式的 JVM 监控
+5、[jvm-mon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ajermakovics/jvm-mon)：命令行模式的 JVM 监控
+
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/11/img/jvm-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+
+6、[GitClub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TellH/GitClub)：GitClub 不仅仅是一个 GitHub 客户端，还是一个发现优秀 GitHub 开源项目的 App
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 7、[react-tetris](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chvin/react-tetris)：逼真的俄罗斯方块（非常逼真、强大！），详细的技术介绍，[在线试玩](https://chvin.github.io/react-tetris/?lan=zh)
+
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/11/img/tetris.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -103,6 +106,7 @@ print ifconfig("eth0")
 
 ### Swift 项目
 11、[Swift-30-Projects](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/soapyigu/Swift-30-Projects)：30 个小型 Swift Apps，可以用来上手学习、练习移动开发。
+
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/11/img/swift30projects-show-min.jpg' style="max-width:80%; max-height=80%;"></img></p>

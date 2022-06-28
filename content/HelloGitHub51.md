@@ -35,6 +35,7 @@
 ### C 项目
 1、[goaccess](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/allinurl/goaccess)：实时 Web 日志分析工具
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/goaccess.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
@@ -42,13 +43,16 @@
 ### C# 项目
 2、[netch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/netchx/netch)：一款 Windows 平台的开源游戏加速工具
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/Netch.png' style="max-width:80%; max-height=80%;"></img></p>
 
 3、[ScheduleMasterCore](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hey-hoho/ScheduleMasterCore)：一款基于 .NET Core 开发的分布式任务调度系统。支持丰富的调度类型、灵活可控的系统参数、简易的 UI 操作、支持多节点高可用、业务 API 集成等等特性。同时支持多样化的部署方式，容易上手
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/ScheduleMasterCore.png' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[HandyControl](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HandyOrg/HandyControl)：一套 WPF 控件库。它几乎重写了所有原生样式，同时包含 70 余款自定义控件。支持跨平台、国际化，适用于 MVVM 架构开发，扁平化设计、支持动态更换主题和背景色。丰富的自定义控件解决了 View 设计的痛点，让程序员更加专注于业务逻辑的开发
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/HandyControl.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -57,9 +61,11 @@
 ### C++ 项目
 5、[CnC_Remastered_Collection](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/electronicarts/CnC_Remastered_Collection)：EA 发布的《红警》和《泰伯利亚黎明》游戏源代码
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/CnC_Remastered_Collection.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[ChineseChess](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/XMuli/ChineseChess)：基于 Qt5 开发的中国象棋网络对战平台，支持单机和网络对战
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/chinessChess.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -68,13 +74,16 @@
 ### Go 项目
 7、[grmon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bcicen/grmon)：Goroutine 的命令行监控工具
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/grmon.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 8、[HackChrome](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cckuailong/HackChrome)：Go 语言实现的从 Chrome 中获取自动保存的用户名密码工具。目前仅支持 Windows Chrome 中存储的密码，但是很有意思还可以学习怎么用 Go 调用 DLL 动态链接库的姿势
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/HackChrome.png' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[seaweedfs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chrislusf/seaweedfs)：一款基于 Go 开发的部署方便、使用简单且强大的分布式文件系统
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/seaweedfs.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -83,20 +92,22 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-11、[JApiDocs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/YeDaxia/JApiDocs)：一个无需额外注解、开箱即用的 SpringBoot 接口文档生成工具。特性：
+11、[PowerJob](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PowerJob/PowerJob)：基于 Akka 架构的新一代分布式任务调度与计算框架。支持 CRON、API、固定频率、固定延迟等调度策略，支持单机、广播、MapReduce 等多种执行模式，支持在线任务治理与运维，提供 Shell、Python、Java 等功能丰富的任务处理器，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全。同类产品对比：
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/PowerJob.png' style="max-width:80%; max-height=80%;"></img></p>
+
+12、[JApiDocs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/YeDaxia/JApiDocs)：一个无需额外注解、开箱即用的 SpringBoot 接口文档生成工具。特性：
 - 代码即文档
 - 支持导出 HTML
 - 同步导出客户端 Model 代码
 - 等等
 
-12、[PowerJob](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PowerJob/PowerJob)：基于 Akka 架构的新一代分布式任务调度与计算框架。支持 CRON、API、固定频率、固定延迟等调度策略，支持单机、广播、MapReduce 等多种执行模式，支持在线任务治理与运维，提供 Shell、Python、Java 等功能丰富的任务处理器，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全。同类产品对比：
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/PowerJob.png' style="max-width:80%; max-height=80%;"></img></p>
-
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 13、[react-trello](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rcdexta/react-trello)：任务状态管理面板组件。实现了拖拽方式管理任务状态，点击即可编辑任务内容
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/react-trello.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -108,6 +119,7 @@ perfume.end('fibonacci');
 // Perfume.js: fibonacci 0.14 ms
 ```
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/perfume.png' style="max-width:80%; max-height=80%;"></img></p>
 
 15、[mongood](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/renzholy/mongood)：MongoDB 图形化的管理工具。特性：
@@ -115,17 +127,20 @@ perfume.end('fibonacci');
 - 支持完整的 Mongo-shell 数据类型和查询语法，利用索引实现的自动查询和排序
 - 支持 Json 数据库模式，既可用于 Server 也可用于 Client
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/Mongood.png' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[TimeCat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/oct16/TimeCat)：一款 JS 的网页录屏工具。参考了游戏录像的原理而实现的渲染引擎，生成的录像文件只有传统视频的百分之一！还可以在录制语音的同时自动生成字幕，导出的视频文件可以跨端播放。目前已经开发一段时间，后续还将实现更多有意思的功能，欢迎持续关注。[在线预览](https://oct16.gitee.io/static/timeCatReplay/antd.html)
+16、[brick-design](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/brick-design/brick-design)：基于 React 组件的可视化拖拽、搭建页面的代码生成工具。所见即所得，可以完美还原 UI 设计搞，并支持多款型号手机（可配置）和 PC 效果展示，模板功能可以使你分享你的页面或者页面中局部任何部分组件组合，减少相似页面的重复操作。效果如下：
 
-17、[brick-design](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/brick-design/brick-design)：基于 React 组件的可视化拖拽、搭建页面的代码生成工具。所见即所得，可以完美还原 UI 设计搞，并支持多款型号手机（可配置）和 PC 效果展示，模板功能可以使你分享你的页面或者页面中局部任何部分组件组合，减少相似页面的重复操作。效果如下：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/react-visual-editor.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[elevator.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tholman/elevator.js)：一个 back to top 返回顶部的插件。如他的名字一样，网页在返回顶部过程中像电梯向上运行，当页面返回到顶部时，会有电梯“到达”的提示音。叮~页面已到达顶部
+17、[elevator.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tholman/elevator.js)：一个 back to top 返回顶部的插件。如他的名字一样，网页在返回顶部过程中像电梯向上运行，当页面返回到顶部时，会有电梯“到达”的提示音。叮~页面已到达顶部
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/elevator.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+18、[TimeCat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/oct16/TimeCat)：一款 JS 的网页录屏工具。参考了游戏录像的原理而实现的渲染引擎，生成的录像文件只有传统视频的百分之一！还可以在录制语音的同时自动生成字幕，导出的视频文件可以跨端播放。目前已经开发一段时间，后续还将实现更多有意思的功能，欢迎持续关注。[在线预览](https://oct16.gitee.io/static/timeCatReplay/antd.html)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -137,6 +152,7 @@ perfume.end('fibonacci');
 - 任务配置灵活，可单独配置任务扫描参数
 - 支持白名单模式，主动忽略白名单仓库
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/code6.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
@@ -144,9 +160,11 @@ perfume.end('fibonacci');
 ### Python 项目
 20、[rich](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Textualize/rich)：一个让你的终端输出变得“花里胡哨”的三方库。我的一位前辈告诉我，不要整那些花里胡哨的主题和样式，这是在自寻烦恼。可是臣妾做不到啊，这么好看的终端输出，让我的心情都愉悦起来了。瞧那性感的语法高亮、整齐的表格、舒服的颜色、进度条等，一切都是值得的
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/rich.png' style="max-width:80%; max-height=80%;"></img></p>
 
 21、[poetry](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/python-poetry/poetry)：Python 虚拟环境、依赖管理工具。依赖管理工具有很多，我相上了它有三点：通过单文件 pyproject.toml 便可轻松的区别安装、管理开发和正式环境、有版本锁定可方便回滚、输出界面简单清爽。当然它还是个“新生儿”，尝鲜的风险还是有的，选择须谨慎
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/poetry.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -155,6 +173,7 @@ perfume.end('fibonacci');
 pip install freegames
 python -m freegames.snake # freegames.游戏名
 ```
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/free-python-games.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -174,12 +193,14 @@ python py2sec.py -f example/test1.py -r
 python py2sec.py -d example/ -m test1.py,bbb/
 ```
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/py2sec.png' style="max-width:80%; max-height=80%;"></img></p>
 
 24、[oxfs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/oxfs/oxfs)：一个基于 sftp 协议的 fuse 网络文件系统，功能上类似于 sshfs。特性：
 - 引入了异步并发读远端文件机制，提高了文件首次读速度。
 - 缓存持久化到本地磁盘，下次挂载时访问更加快速。
 - 异步任务负责同步文件，避免低速的网络读写阻塞上层应用。
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/oxfs.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -188,6 +209,7 @@ python py2sec.py -d example/ -m test1.py,bbb/
 ### Swift 项目
 25、[Aerial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JohnCoates/Aerial)：炫酷的苹果系统屏保项目。该屏保视频取材自苹果零售店 Apple TV 的专用屏保，航拍质量超棒，快换上试试吧。直接下载 [Aerial.saver.zip 文件](https://github.com/JohnCoates/Aerial/releases)，解压后双击文件“即可食用”
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/Aerial.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
@@ -195,13 +217,16 @@ python py2sec.py -d example/ -m test1.py,bbb/
 ### 其它
 26、[shan-shui-inf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LingDong-/shan-shui-inf)：自动生成一副山水画
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/shan-shui-inf.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 27、[kuboard-press](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eip-work/kuboard-press)：一款基于 Kubernetes 的微服务管理界面。包含文档、教程、管理界面和实战分享
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/kuboard-press.png' style="max-width:80%; max-height=80%;"></img></p>
 
 28、[vscode-rainbow-fart](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SaekiRaku/vscode-rainbow-fart)：一款在你编程时花式夸你的 VSCode 扩展插件。可以根据代码关键字，播放贴近代码意义的真人语音，并且有一个醒目的项目名字“彩虹屁”
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/vscode-rainbow-fart.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -216,6 +241,7 @@ python py2sec.py -d example/ -m test1.py,bbb/
 ### 开源书籍
 32、[go-ast-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chai2010/go-ast-book)：《Go语法树入门：开启自制编程语言和编译器之旅》
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/go-ast-book.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
@@ -223,9 +249,11 @@ python py2sec.py -d example/ -m test1.py,bbb/
 ### 机器学习
 33、[Surprise](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NicolasHug/Surprise)：一款简单易用基于 Python scikit 的推荐系统。如果你想用 Python 上手做一套推荐系统，那你可以试试它
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/Surprise.png' style="max-width:80%; max-height=80%;"></img></p>
 
 34、[djl](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/deepjavalibrary/djl)：亚马逊开源的一款基于 Java 语言的深度学习框架。对于 Java 开发者而言，可以在 Java 中开发及应用原生的机器学习和深度学习模型，同时简化了深度学习开发的难度。通过 DJL 提供直观的、高级的 API，Java 开发人员可以训练自己的模型，或者利用数据科学家用 Python 预先训练好的模型来进行推理。如果您恰好是对学习深度学习感兴趣的 Java 开发者，那么这个项目完全对口。运行效果如下：
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/djl.gif' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -31,39 +31,44 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-2、[ant-design](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ant-design/ant-design)：阿里开源的一套企业级的 UI 设计语言和 React 实现。[中文文档](https://ant.design/docs/react/introduce-cn)，样式偏向于后端，展示效果十分漂亮
+2、[VeryNginx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alexazhou/VeryNginx)：一个功能强大而对人类友好的 Nginx 扩展程序。[VeryNginx 文档](https://github.com/alexazhou/VeryNginx/blob/master/readme_zh.md)
 
-3、[VeryNginx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alexazhou/VeryNginx)：一个功能强大而对人类友好的 Nginx 扩展程序。[VeryNginx 文档](https://github.com/alexazhou/VeryNginx/blob/master/readme_zh.md)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/VeryNginx-min.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-4、[activate-power-mode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/disjukr/activate-power-mode)：爆炸输入效果，[在线演示](http://0xabcdef.com/activate-power-mode/)
+3、[activate-power-mode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/disjukr/activate-power-mode)：爆炸输入效果，[在线演示](http://0xabcdef.com/activate-power-mode/)
+
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/activate-power-mode.gif' style="max-width:80%; max-height=80%;"></img></p>
 
+4、[ant-design](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ant-design/ant-design)：阿里开源的一套企业级的 UI 设计语言和 React 实现。[中文文档](https://ant.design/docs/react/introduce-cn)，样式偏向于后端，展示效果十分漂亮
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-5、[awesome-python-webapp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/michaelliao/awesome-python-webapp)：廖老师的 Python 入门教程中的实践项目的代码，[教程在线阅读](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001397616003925a3d157284cd24bc0952d6c4a7c9d8c55000)
+5、[beijing_bus](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wong2/beijing_bus)：北京实时公交，可以显示查询的公交到达某站还需多久
 
-6、[Minos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/phith0n/Minos)：一个基于 Tornado/MongoDB/Redis 的社区系统
-
-7、[tushare](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/waditu/tushare)：TuShare 是一个免费、开源的 Python 财经数据接口包，[TuShare 文档](http://tushare.org/index.html)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/TuShare-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-8、[beijing_bus](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wong2/beijing_bus)：北京实时公交，可以显示查询的公交到达某站还需多久
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/beijing_bus.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+6、[tushare](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/waditu/tushare)：TuShare 是一个免费、开源的 Python 财经数据接口包，[TuShare 文档](http://tushare.org/index.html)
+
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/None' style="max-width:80%; max-height=80%;"></img></p>
+
+7、[awesome-python-webapp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/michaelliao/awesome-python-webapp)：廖老师的 Python 入门教程中的实践项目的代码，[教程在线阅读](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001397616003925a3d157284cd24bc0952d6c4a7c9d8c55000)
+
+8、[Minos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/phith0n/Minos)：一个基于 Tornado/MongoDB/Redis 的社区系统
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 9、[archey-osx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/obihann/archey-osx)：命令行中显示 Mac OS X 计算机的基本信息
+
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/archey-osx.png' style="max-width:80%; max-height=80%;"></img></p>

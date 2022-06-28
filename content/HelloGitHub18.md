@@ -47,6 +47,7 @@
 - 跨数据中心数据强一致性保证
 - 故障自恢复的高可用
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/tidb-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[echo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/labstack/echo)：Go 语言最受欢迎的 Web 框架之一，具有：高性能、便于扩展、轻量的特点，示例代码：
@@ -66,12 +67,14 @@ func callback(ctx echo.Context) error {
 }
 ```
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/echo-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
 5、[AndroidTVLauncher](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JackyAndroid/AndroidTVLauncher)：一个 TV Leanback 风格桌面，基于 Leanback 库开发，符合 Android TV 官方交互规范
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/AndroidTVLauncher-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -97,6 +100,7 @@ public DataTablesOutput<User> getUsers(@Valid @RequestBody DataTablesInput input
 }
 ```
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/spring-data-jpa-datatables-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[xxl-job](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xuxueli/xxl-job)：轻量级分布式任务调度框架，其核心设计目标是：开发迅速、学习简单、轻量级、易扩展，文档齐全。[官网](http://www.xuxueli.com/xxl-job/)
@@ -115,6 +119,7 @@ flatpickr(".myClass", {});
 $(".selector").flatpickr(optional_config);
 ```
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/flatpickr-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[vue-3d-model](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hujiulong/vue-3d-model)：展示三维模型的 Vue 组件，支持模型操作和模型点击事件，能自动缩放模型到合适大小并校正偏移，目前支持 obj、stl、dae 和 json 格式的模型，示例代码：
@@ -131,28 +136,15 @@ $(".selector").flatpickr(optional_config);
 </script>
 ```
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/vue-3d-model.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[weweChat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/trazyn/weweChat)：微信的第三方客户端。在完整实现 Web 微信功能的基础上，新增并优化部分功能，重设计整体 UI，提供更好的体验。Mac 安装命令：`brew cask install wewechat`
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/weweChat-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[puppeteer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/puppeteer/puppeteer)：Google Chrome 团队开源的面向 Node.js 的，基于 DevTools 协议的远程 Headless Chrome 控制库，它可以生成网页截图、PDF、抓取单页应用与网页内容、进行自动化表单提交、界面测试与模拟键盘输入等功能。示例代码如下：
-```javascript
-// 访问 https://example.com 并将截图保存为 example.png
-const puppeteer = require('puppeteer');
-
-(async () => {
-  const browser = await puppeteer.launch();
-  const page = await browser.newPage();
-  await page.goto('https://example.com');
-  await page.screenshot({path: 'example.png'});
-
-  await browser.close();
-})();
-```
-
-12、[SelectPage](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TerryZ/SelectPage)：简洁优雅而功能强大的选择器，使用简单，适应各种UI环境，功能强大，丰富的参数和回调函数
+11、[SelectPage](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TerryZ/SelectPage)：简洁优雅而功能强大的选择器，使用简单，适应各种UI环境，功能强大，丰富的参数和回调函数
 。它包含了 autocomplete、ajax 数据源、多选择 Tag、i18n 国际化，结果列表分页展示，键盘快捷操作等
 ```javascript
 //defined a array, the data returned at the server side is also used that format：
@@ -171,12 +163,29 @@ $('#selectpage').selectPage({
 });
 ```
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/SelectPage-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+
+12、[puppeteer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/puppeteer/puppeteer)：Google Chrome 团队开源的面向 Node.js 的，基于 DevTools 协议的远程 Headless Chrome 控制库，它可以生成网页截图、PDF、抓取单页应用与网页内容、进行自动化表单提交、界面测试与模拟键盘输入等功能。示例代码如下：
+```javascript
+// 访问 https://example.com 并将截图保存为 example.png
+const puppeteer = require('puppeteer');
+
+(async () => {
+  const browser = await puppeteer.launch();
+  const page = await browser.newPage();
+  await page.goto('https://example.com');
+  await page.screenshot({path: 'example.png'});
+
+  await browser.close();
+})();
+```
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
 13、[wooyun_public](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hanc00l/wooyun_public)：乌云公开漏洞、知识库爬虫和搜索
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/wooyun-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 

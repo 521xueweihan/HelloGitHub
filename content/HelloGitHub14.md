@@ -41,23 +41,25 @@ gcc -g -O2 testSearcher.c ip2region.c
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
-2、[SQLAdvisor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Meituan-Dianping/SQLAdvisor)：美团点评公司 DBA 团队开源的一个分析 SQL 并给出索引优化建议的工具，开源内容和内部使用保持一致，文档齐全
+2、[bfs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/baidu/bfs)：百度文件系统，架构图如下：
 
-3、[bfs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/baidu/bfs)：百度文件系统，架构图如下：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/bfs-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+
+3、[SQLAdvisor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Meituan-Dianping/SQLAdvisor)：美团点评公司 DBA 团队开源的一个分析 SQL 并给出索引优化建议的工具，开源内容和内部使用保持一致，文档齐全
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-4、[poseidon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Qihoo360/poseidon)：Poseidon 系统是奇虎 360 开源的一个日志搜索平台，可以在数百万亿条、数百 PB 大小的日志数据中快速分析和检索特定字符串。
+4、[fsql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kashav/fsql)：用 SQL 的语法搜索文件，酷吧
 
-5、[go.uuid](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/satori/go.uuid)：Go 的 [UUID](http://baike.baidu.com/item/UUID) 包
-
-6、[fsql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kashav/fsql)：用 SQL 的语法搜索文件，酷吧
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/fsql.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+5、[poseidon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Qihoo360/poseidon)：Poseidon 系统是奇虎 360 开源的一个日志搜索平台，可以在数百万亿条、数百 PB 大小的日志数据中快速分析和检索特定字符串。
+
+6、[go.uuid](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/satori/go.uuid)：Go 的 [UUID](http://baike.baidu.com/item/UUID) 包
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -74,9 +76,11 @@ gcc -g -O2 testSearcher.c ip2region.c
 10、[BrowserQuest](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mozilla/BrowserQuest)：Mozilla 开源的多人在线角色扮演游戏项目
 
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/browserquest-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[Rental](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/answershuto/Rental)：一款租房 APP，基于 Node.js 爬虫，爬取 58 同城租房信息，并用地图进行可视化展示，方便用户获取周围租房信息
+
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/rental-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -89,12 +93,14 @@ gcc -g -O2 testSearcher.c ip2region.c
 13、[iTerm2](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gnachman/iTerm2)：Mac 上超好用的终端软件
 
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/iterm2-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
 14、[server](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nextcloud/server)：开源云存储平台，功能齐全，可以用于搭建公司内部的云存储平台
+
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/nextcloud-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -105,14 +111,17 @@ gcc -g -O2 testSearcher.c ip2region.c
 15、[explainshell](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/idank/explainshell)：一个可以解析 Linux 命令的网站，它可以给出命令的解释和其参数的解释，例如：`ps -aux|grep python`，[在线演示](https://www.explainshell.com/)
 
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/explainshell-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 16、[certbot](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/certbot/certbot)：免费的自动启用和部署 HTTPS 的工具，让你的网站开启 HTTPS 变得简单快捷。在部署教程页面选择服务器的操作系统和 Web 服务器，之后根据给出的步骤一步步的执行命令就行了，[部署教程](https://certbot.eff.org/)
 
 
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/cerbot-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 17、[pdir2](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/laike9m/pdir2)：Python 程序员需要一个更好的 `dir()` —— 以更加友好的显示 `dir()` 输出的结果
+
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/pdir2.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -123,6 +132,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 18、[EmojiIntelligence](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BilalReffas/EmojiIntelligence)：完全用 Swift 实现神经网络的 Demo
 - 第一步设置 emoji 对应的图形
 - 使用神经网络识别图形，返回 emoji 表情
+
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/emoji-intelligence.gif' style="max-width:80%; max-height=80%;"></img></p>
