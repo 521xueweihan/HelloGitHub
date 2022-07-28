@@ -53,7 +53,7 @@ target("test")
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C# 项目
-3、[gui.cs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/migueldeicaza/gui.cs)：支持 Windows 和 Linux/Unix 的 .NET 终端 UI 工具库。方便实现终端 GUI 工具，并且可以实现终端中用鼠标啦
+3、[Terminal.Gui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gui-cs/Terminal.Gui)：支持 Windows 和 Linux/Unix 的 .NET 终端 UI 工具库。方便实现终端 GUI 工具，并且可以实现终端中用鼠标啦
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/img/gui_cs.png' style="max-width:80%; max-height=80%;"></img></p>

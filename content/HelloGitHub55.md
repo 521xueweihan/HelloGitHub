@@ -189,7 +189,7 @@ public class TestService {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/img/AnotherRedisDesktopManager.png' style="max-width:80%; max-height=80%;"></img></p>
 
-14、[vant](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/youzan/vant)：由有赞前端团队开源的移动端组件库。目前官方提供了 Vue 版本和微信小程序版本，并由社区团队维护 React 版本。有完善的中英文文档和示例，60+ 高质量组件，90%+ 单元测试覆盖率，持续维护 4 年以上
+14、[vant](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vant-ui/vant)：由有赞前端团队开源的移动端组件库。目前官方提供了 Vue 版本和微信小程序版本，并由社区团队维护 React 版本。有完善的中英文文档和示例，60+ 高质量组件，90%+ 单元测试覆盖率，持续维护 4 年以上
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/img/vant.png' style="max-width:80%; max-height=80%;"></img></p>
