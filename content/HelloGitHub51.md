@@ -82,7 +82,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/HackChrome.png' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[seaweedfs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chrislusf/seaweedfs)：一款基于 Go 开发的部署方便、使用简单且强大的分布式文件系统
+9、[seaweedfs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/seaweedfs/seaweedfs)：一款基于 Go 开发的部署方便、使用简单且强大的分布式文件系统
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/seaweedfs.png' style="max-width:80%; max-height=80%;"></img></p>

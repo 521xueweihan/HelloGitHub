@@ -94,7 +94,7 @@ echo 'GET http://localhost:8080' | \
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/img/apollo.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[LogiKM](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/didi/LogiKM)：功能强大的 Kafka 集群监控和运维管理平台。强大到我一度以为它是付费的，如果你的公司用 Kafka 的话，可以试试主导把这个项目在公司内部用起来，那你离升职和加薪就不远了
+9、[KnowStreaming](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/didi/KnowStreaming)：功能强大的 Kafka 集群监控和运维管理平台。强大到我一度以为它是付费的，如果你的公司用 Kafka 的话，可以试试主导把这个项目在公司内部用起来，那你离升职和加薪就不远了
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/img/Logi-KafkaManager.png' style="max-width:80%; max-height=80%;"></img></p>

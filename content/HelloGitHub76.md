@@ -213,7 +213,7 @@ const toolbar = createToolbar({
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/50586840.png' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[naive-ui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TuSimple/naive-ui)：仅支持 Vue3 的组件库。拥有完善的 TypeScript 类型推导的 Vue3 组件库，拥有 80 多种组件、中文文档，如果你想换换“口味”可以试试它。
+23、[naive-ui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tusen-ai/naive-ui)：仅支持 Vue3 的组件库。拥有完善的 TypeScript 类型推导的 Vue3 组件库，拥有 80 多种组件、中文文档，如果你想换换“口味”可以试试它。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/373855820.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -395,7 +395,7 @@ tagger.predict(sentence)
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub75.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub75.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub77.md">『下一期』</a>
 </p>
 
 ---

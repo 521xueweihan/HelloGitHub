@@ -206,7 +206,7 @@ go-pry -i="fmt,math,strconv"
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/img/lottery.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[js-sdsl](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ZLY201/js-sdsl)：实用的 JavaScript 数据结构库。实现了 LinkList、Queue、Set、Map 等数据结构，严格的单元测试提供了正确性和性能的保证，可用于各种需要用到高级数据结构的场景
+23、[js-sdsl](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/js-sdsl/js-sdsl)：实用的 JavaScript 数据结构库。实现了 LinkList、Queue、Set、Map 等数据结构，严格的单元测试提供了正确性和性能的保证，可用于各种需要用到高级数据结构的场景
 ```html
 <script src="https://zly201.github.io/js-sdsl/js-sdsl.min.js"></script>
 <script>

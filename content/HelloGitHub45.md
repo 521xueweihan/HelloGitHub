@@ -155,7 +155,7 @@ func main() {
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-13、[SnowJena](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/onblog/SnowJena)：基于令牌桶算法实现的分布式无锁限流框架。简单易用的 API，开箱即用、支持熔断降级、动态配置规则、可视化监控等功能。示例代码：
+13、[SnowJena](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/onblogs/SnowJena)：基于令牌桶算法实现的分布式无锁限流框架。简单易用的 API，开箱即用、支持熔断降级、动态配置规则、可视化监控等功能。示例代码：
 ```java
 public class AppTest {
     Logger logger = LoggerFactory.getLogger(getClass());
