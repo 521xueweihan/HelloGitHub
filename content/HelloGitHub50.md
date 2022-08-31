@@ -142,7 +142,7 @@ jbake -s #运行项目
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/kkFileView.png' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[zfile](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhaojun1998/zfile)：免费开源的在线云盘项目。功能特性：
+12、[zfile](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zfile-dev/zfile)：免费开源的在线云盘项目。功能特性：
 - 文件夹密码
 - 支持在线浏览文本文件、视频、图片、音乐
 - 文件/目录二维码

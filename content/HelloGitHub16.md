@@ -169,7 +169,7 @@ namespace WeixinSDK.Test.Fake
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-19、[You-Dont-Need-jQuery](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nefe/You-Dont-Need-jQuery)：前端发展很快，现代浏览器原生 API 已经足够好用。有些场景下我们并不需要为了操作 DOM、Event 等再学习一下 jQuery 的 API，该项目总结了大部分 jQuery API 替代的方法，[中文](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
+19、[You-Dont-Need-jQuery](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/camsong/You-Dont-Need-jQuery)：前端发展很快，现代浏览器原生 API 已经足够好用。有些场景下我们并不需要为了操作 DOM、Event 等再学习一下 jQuery 的 API，该项目总结了大部分 jQuery API 替代的方法，[中文](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
 
 20、[useful-scripts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/oldratlee/useful-scripts)：一些平时实用的脚本
 

@@ -73,7 +73,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/img/cutter.png' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[bpftrace](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iovisor/bpftrace)：Linux 高级追踪工具和语言。该工具基于 eBPF 和 BBC 实现了通过探针机制采集内核和程序运行的信息，然后用图表等方式将信息展示出来，帮助开发者找到隐藏较深的 Bug、安全问题和性能瓶颈
+6、[bpftrace](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iovisor/bpftrace)：Linux 高级追踪工具和语言。该工具基于 eBPF 和 BCC 实现了通过探针机制采集内核和程序运行的信息，然后用图表等方式将信息展示出来，帮助开发者找到隐藏较深的 Bug、安全问题和性能瓶颈
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/img/bpftrace.png' style="max-width:80%; max-height=80%;"></img></p>

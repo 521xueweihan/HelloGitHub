@@ -98,7 +98,7 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
-5、[cocoyaxi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/idealvin/cocoyaxi)：在 C++ 上实现类似 Go goroutine 的库。它实现了协程同步事件、协程锁、协程池、channel、waitgroup，内存占用少实测 1000 万协程占用 2.8G 内存
+5、[coost](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/idealvin/coost)：在 C++ 上实现类似 Go goroutine 的库。它实现了协程同步事件、协程锁、协程池、channel、waitgroup，内存占用少实测 1000 万协程占用 2.8G 内存
 ```c++
 #include "co/co.h"
 
