@@ -306,7 +306,7 @@ SwiftMessages.show(view: view)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/52710065.png' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[gibMacOS](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/corpnewt/gibMacOS)：macOS 系统下载工具。通过 Python 脚本直接下载 macOS 系统文件，可用来制作 macOS 安装镜像。
+37、[gibMacOS](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/corpnewt/gibMacOS)：macOS 系统下载工具。通过 Python 脚本直接下载 macOS 系统文件，可用来制作 macOS 安装镜像。  
 38、[mackup](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lra/mackup)：自动同步应用程序设置的工具。能够帮你快速备份、同步 macOS 和 Linux 上应用配置文件的工具，包括 Zsh、Vim、iTerm2、MySQL 在内的多种开发相关应用，还支持 Dropbox、iCloud、Git 等丰富的同步方式。
 ```shell
 # 安装
