@@ -48,17 +48,10 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-3、[overlord](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bilibili/overlord)：基于 Go 语言编写的 memcache 和 redis&cluster 的代理及集群管理平台。致力于提供自动化高可用的缓存服务解决方案。自带图形界面的缓存集群管理程序，[安装步骤](https://github.com/bilibili/overlord/blob/master/doc/wiki-cn/platform-deploy.md)
+3、[akutan](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eBay/akutan)：eBay 开源的分布式图数据库，少数依然支持 SparQL 的图数据库
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/overlord.png' style="max-width:80%; max-height=80%;"></img></p>
-
-4、[kratos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/go-kratos/kratos)：哔哩哔哩开源的一套 Go 微服务框架，包含大量微服务相关框架及工具。解决了 gin 在微服务场景下的一些适配和微服务本身的一系列生态，[快速开始](https://github.com/bilibili/kratos/blob/master/doc/wiki-cn/quickstart.md)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/kratos.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-5、[docker-slim](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/docker-slim/docker-slim)：自动缩减 docker 镜像的体积的工具。大幅度缩减 docker 镜像的体积，方便分发，使用命令 `docker-slim build --http-probe your-name/your-app`。比如 Node.js 镜像缩减后的对比：
+4、[docker-slim](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/docker-slim/docker-slim)：自动缩减 docker 镜像的体积的工具。大幅度缩减 docker 镜像的体积，方便分发，使用命令 `docker-slim build --http-probe your-name/your-app`。比如 Node.js 镜像缩减后的对比：
 ```
 from ubuntu:14.04 - 432MB => 14MB (缩减了 30.85 倍)
 
@@ -67,12 +60,26 @@ from debian:jessie - 406MB => 25.1MB (缩减了 16.21 倍)
 from node:alpine - 66.7MB => 34.7MB (缩减了 1.92 倍)
 ```
 
-6、[akutan](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eBay/akutan)：eBay 开源的分布式图数据库，少数依然支持 SparQL 的图数据库
+
+5、[kratos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/go-kratos/kratos)：哔哩哔哩开源的一套 Go 微服务框架，包含大量微服务相关框架及工具。解决了 gin 在微服务场景下的一些适配和微服务本身的一系列生态，[快速开始](https://github.com/bilibili/kratos/blob/master/doc/wiki-cn/quickstart.md)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/kratos.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+6、[overlord](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bilibili/overlord)：基于 Go 语言编写的 memcache 和 redis&cluster 的代理及集群管理平台。致力于提供自动化高可用的缓存服务解决方案。自带图形界面的缓存集群管理程序，[安装步骤](https://github.com/bilibili/overlord/blob/master/doc/wiki-cn/platform-deploy.md)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/overlord.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-7、[giffun](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/guolindev/giffun)：Android 端开源的 GIF 浏览和分享 App。该应用界面基于 Material Design 标准设计，围绕 GIF 为主题，建立了一个小型的社交系统。支持：
+7、[cim](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/crossoverJie/cim)：一款面向开发者的 IM 即时通讯系统。命令行通讯工具，对开发者友好。提供了一些组件让开发者易于扩展和定制功能。架构图如下：
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/cim.jpeg' style="max-width:80%; max-height=80%;"></img></p>
+
+8、[giffun](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/guolindev/giffun)：Android 端开源的 GIF 浏览和分享 App。该应用界面基于 Material Design 标准设计，围绕 GIF 为主题，建立了一个小型的社交系统。支持：
 - 查看热门搞笑的 GIF 图
 - 关注你喜欢的人，他的有趣分享尽收眼底
 - 一键发布你自己的 GIF 趣图
@@ -82,11 +89,6 @@ from node:alpine - 66.7MB => 34.7MB (缩减了 1.92 倍)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/giffun.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-8、[cim](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/crossoverJie/cim)：一款面向开发者的 IM 即时通讯系统。命令行通讯工具，对开发者友好。提供了一些组件让开发者易于扩展和定制功能。架构图如下：
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/cim.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
 9、[seata](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/seata/seata)：一套一站式分布式事务解决方案。让分布式事务的使用像本地事务的使用一样，简单和高效，并逐步解决开发者们遇到的分布式事务方面的所有难题。分布式事务提出了很多年，但是一直没有很好的解决方案，要不就收费很贵。蚂蚁金服开源的 seata，将让分布式事务不在束之高阁，任何需要的人都可以使用它，推荐学习和使用。工作流程图如下：
 
 
@@ -94,18 +96,20 @@ from node:alpine - 66.7MB => 34.7MB (缩减了 1.92 倍)
 
 10、[SpringAll](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wuyouzhuguli/SpringAll)：Spring 系列源码教程，包含 Spring Boot、Spring Boot、Spring Cloud 等。Spring 是 Java 目前生命力最强的框架之一，通过资料与源码的配合，容易学习和上手
 
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-11、[zhui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhui-team/zhui)：这是一款国风的组件库。好用的组件库千千万，有趣的创意万里挑一
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/zhui.png' style="max-width:80%; max-height=80%;"></img></p>
-
-12、[emoji-minesweeper](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/muan/emoji-minesweeper)：Emoji 符号的扫雷游戏。代码很简短，游戏创意很酷。寥寥 300+ 行代码实现该游戏，简短易于初学者学习
+11、[emoji-minesweeper](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/muan/emoji-minesweeper)：Emoji 符号的扫雷游戏。代码很简短，游戏创意很酷。寥寥 300+ 行代码实现该游戏，简短易于初学者学习
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/emoji-minesweeper.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+12、[leetcode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/azl397985856/leetcode)：更加贴近前端的数据结构与算法的库。以 leetcode 作为切入点，详细讲解关于数据结构的方方面面， 并以JavaScript 语言作为解题语言。 后期会加入更多关于前端贴合的内容， 比如：`react fiber` 的实现和链表、`react hooks` 的实现和数组等等
+- 第一部分：leetcode 经典题目的解析，包括思路、关键点和具体的代码实现
+- 第二部分：对于数据结构与算法的总结
+- 第三部分：anki 卡片， 将 leetcode 题目按照一定的方式记录在 anki 中，方便大家记忆
+
 
 13、[squoosh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/GoogleChromeLabs/squoosh)：谷歌开源的图片压缩工具。在保证图片质量的情况下快速压缩图片，支持多种图片格式。6.63M 的图片压缩后为 2.92M，使用起来简单方便
 
@@ -125,10 +129,11 @@ const player = new Player({
 })
 ```
 
-15、[leetcode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/azl397985856/leetcode)：更加贴近前端的数据结构与算法的库。以 leetcode 作为切入点，详细讲解关于数据结构的方方面面， 并以JavaScript 语言作为解题语言。 后期会加入更多关于前端贴合的内容， 比如：`react fiber` 的实现和链表、`react hooks` 的实现和数组等等
-- 第一部分：leetcode 经典题目的解析，包括思路、关键点和具体的代码实现
-- 第二部分：对于数据结构与算法的总结
-- 第三部分：anki 卡片， 将 leetcode 题目按照一定的方式记录在 anki 中，方便大家记忆
+
+15、[zhui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhui-team/zhui)：这是一款国风的组件库。好用的组件库千千万，有趣的创意万里挑一
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/zhui.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -146,7 +151,10 @@ ffmpeg.run(stream)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/ffmpeg-python.png' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[pyxel](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kitao/pyxel)：基于 Python 编程程语言实现的复古游戏引擎。示例代码：
+17、[pyright](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/pyright)：微软出品的 Python 静态类型检查工具。执行速度快，适合大型 Python 项目，引用一句话：动态语言一时爽，重构火葬场
+
+
+18、[pyxel](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kitao/pyxel)：基于 Python 编程程语言实现的复古游戏引擎。示例代码：
 ```python
 # 代码中导入 Pyxel 模块后
 import pyxel
@@ -167,8 +175,6 @@ pyxel.run(update, draw)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/pyxel.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[pyright](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/pyright)：微软出品的 Python 静态类型检查工具。执行速度快，适合大型 Python 项目，引用一句话：动态语言一时爽，重构火葬场
-
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Ruby 项目
@@ -182,6 +188,7 @@ pyxel.run(update, draw)
 
 20、[guides](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/thoughtbot/guides)：Ruby 编程风格指南。统一的格式风格有利于代码的维护和迭代，对于 Ruby 使用者而言帮助极大
 
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
@@ -193,36 +200,40 @@ pyxel.run(update, draw)
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-22、[nginx-admins-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/trimstray/nginx-admins-handbook)：该项目描述了如何提高 Nginx 的性能、安全性等方面的步骤，让你的网站在 SSL Labs 的评级到达 A+
+22、[awesome-scalability](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/binhnguyennus/awesome-scalability)：一个系统的阅读列表，描述了可扩展、高可用、高性能的大型系统背后的东西。每部分都是基于真实案例，讲述了如何搭建一个可扩展、高可用、高性能的大型系统，案例都是来自于经过数百万甚至数十亿用户实战检验的系统。对于所有工程师而言都是一个很好的学习资料，开卷有益
 
-23、[zju-icicles](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/QSCTech/zju-icicles)：浙江大学各种课程相关资源集合。包含：课程、作业、答案、复习资料、选课攻略等，是浙大在校生的必备资源，对于有考研想法的小伙伴而言也是很好的资源
 
-24、[awesome-scalability](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/binhnguyennus/awesome-scalability)：一个系统的阅读列表，描述了可扩展、高可用、高性能的大型系统背后的东西。每部分都是基于真实案例，讲述了如何搭建一个可扩展、高可用、高性能的大型系统，案例都是来自于经过数百万甚至数十亿用户实战检验的系统。对于所有工程师而言都是一个很好的学习资料，开卷有益
+23、[awesome-wechat-weapp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/justjavac/awesome-wechat-weapp)：该项目收集了微信小程序开发过程中会使用到的资料、问题以及第三方组件库。随着微信小程序的市场越来越大，很多公司也专门以制作小程序为业，不论对感兴趣的人还是想自己动手做小程序的人而言，这份合集省去了不少查找资料的时间
 
-25、[awesome-wechat-weapp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/justjavac/awesome-wechat-weapp)：该项目收集了微信小程序开发过程中会使用到的资料、问题以及第三方组件库。随着微信小程序的市场越来越大，很多公司也专门以制作小程序为业，不论对感兴趣的人还是想自己动手做小程序的人而言，这份合集省去了不少查找资料的时间
+
+24、[libpku](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lib-pku/libpku)：由第三方整理的北京大学课程资料，涵盖了专业课、公选课、通选课等
+
+
+25、[nginx-admins-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/trimstray/nginx-admins-handbook)：该项目描述了如何提高 Nginx 的性能、安全性等方面的步骤，让你的网站在 SSL Labs 的评级到达 A+
+
 
 26、[REKCARC-TSC-UHT](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PKUanonym/REKCARC-TSC-UHT)：清华大学计算机系课程相关资源集合。内容丰富，包含从大一到大四，跟着清华学子一起学习传说中高校的课程吧
 
+
 27、[SJTU-Courses](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kxxwz/SJTU-Courses)：上海交通大学课程资料分享
 
-28、[libpku](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lib-pku/libpku)：由第三方整理的北京大学课程资料，涵盖了专业课、公选课、通选课等
+
+28、[zju-icicles](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/QSCTech/zju-icicles)：浙江大学各种课程相关资源集合。包含：课程、作业、答案、复习资料、选课攻略等，是浙大在校生的必备资源，对于有考研想法的小伙伴而言也是很好的资源
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
 29、[prometheus-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yunlzheng/prometheus-book)：《Prometheus 操作指南》，[在线阅读](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart/why-monitor)
 
+
 30、[the-craft-of-selfteaching](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/selfteaching/the-craft-of-selfteaching)：《自学是门手艺》一个编程入门者的自学心得。如今学习资源很多，对于初学者入门而言，最难的是如何自学，阅读本书打开编程自学大门吧
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-31、[openpose](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CMU-Perceptual-Computing-Lab/openpose)：基于卷积神经网络和监督学习的开源库，可以实现人的面部、躯干和四肢甚至手指的跟踪。适用于多人，且标记准确，同时具有较好的鲁棒性
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/openpose.png' style="max-width:80%; max-height=80%;"></img></p>
-
-32、[FaceDetection-DSFD](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/FaceDetection-DSFD)：腾讯优图的双分支人脸检测器全新算法，该算法已经被计算机视觉顶级会议 CVPR 2019 接收。优图此次提出的 DSFD 人脸检测算法，主要有 3 点创新：
+31、[FaceDetection-DSFD](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/FaceDetection-DSFD)：腾讯优图的双分支人脸检测器全新算法，该算法已经被计算机视觉顶级会议 CVPR 2019 接收。优图此次提出的 DSFD 人脸检测算法，主要有 3 点创新：
 1. 新的特征增强模块（FEM：Feature Enhance Module）
 2. 分层锚点渐进式的代价函数监督（PLA：Progressive Anchor Loss）
 3. 改进的锚点匹配策略（Improved Anchor Matching Strategy）
@@ -230,15 +241,20 @@ pyxel.run(update, draw)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/FaceDetection-DSFD.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[SPADE](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NVlabs/SPADE)：英伟达（NVIDIA）新开源的绘图工具。利用生成对抗网络，根据几根简单的线条就能生成栩栩如生的图像
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/SPADE.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-34、[ICCV2019-LearningToPaint](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/megvii-research/ICCV2019-LearningToPaint)：一个深度强化学习项目，研究如何让机器用画笔画画。也可体验制作自己的绘画或根据一张图片生成一整个绘画过程
+32、[ICCV2019-LearningToPaint](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/megvii-research/ICCV2019-LearningToPaint)：一个深度强化学习项目，研究如何让机器用画笔画画。也可体验制作自己的绘画或根据一张图片生成一整个绘画过程
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/LearningToPaint.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+33、[openpose](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CMU-Perceptual-Computing-Lab/openpose)：基于卷积神经网络和监督学习的开源库，可以实现人的面部、躯干和四肢甚至手指的跟踪。适用于多人，且标记准确，同时具有较好的鲁棒性
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/openpose.png' style="max-width:80%; max-height=80%;"></img></p>
+
+34、[SPADE](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NVlabs/SPADE)：英伟达（NVIDIA）新开源的绘图工具。利用生成对抗网络，根据几根简单的线条就能生成栩栩如生的图像
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/SPADE.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

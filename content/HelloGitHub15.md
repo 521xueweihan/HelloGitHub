@@ -40,7 +40,9 @@
 ### Go 项目
 2、[aliyungo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/denverdino/aliyungo)：非官方的 Aliyun Go语言 SDK 支持API：ECS, OSS, DNS, SLB, RDS, RAM, MNS, STS, SLS, MQ, Push, OpenSearch, DM, Container Service
 
+
 3、[conference](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gopherchina/conference)：Go 语言实际项目应用的技术分享
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -70,38 +72,28 @@
 
 8、[veneno](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhuyingda/veneno)：一个基于 Node.js 编写的 web 安全漏洞自动化扫描框架
 
+
 9、[xdomain](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jpillora/xdomain)：纯 JavaScript 实现 CROS 的库，[在线示例](http://jpillora.com/xdomain/)
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Objective-C 项目
-10、[spectacle](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eczarny/spectacle)：OS X 系统下的窗口管理工具，通过快捷键方便、快捷的调整窗口大小和位置
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/spectacle-show-min.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-11、[FLEX](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FLEXTool/FLEX)：用于 iOS 开发的一组应用内调试工具，功能强大且多，多到不一一列举了
+10、[FLEX](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FLEXTool/FLEX)：用于 iOS 开发的一组应用内调试工具，功能强大且多，多到不一一列举了
 
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/flex.gif' style="max-width:80%; max-height=80%;"></img></p>
 
+11、[spectacle](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eczarny/spectacle)：OS X 系统下的窗口管理工具，通过快捷键方便、快捷的调整窗口大小和位置
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/spectacle-show-min.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-12、[musicbox](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/darknessomi/musicbox)：基于 Python 编写的网易云音乐**命令行**版本，使用起来简单优雅，能够快速安装及使用
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/musicbox.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-13、[snake](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chuyangliu/snake)：贪吃蛇游戏 AI 版，通过算法实现让小蛇通过吃豆，最后蛇的身体填满整个地图算结束。该项目详细描述实现思想以及相关算法的讨论
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/snake.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-14、[django-blog-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jukanntenn/django-blog-tutorial)：基于最新版 Django 1.10 和 Python 3.5，通过 26 篇教程一步步带你使用 Django 从零开发一个个人博客系统，在实践的同时掌握 Django 的开发技巧，[完成效果展示](http://demo.zmrenwu.com/)
-
-15、[aredis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NoneGG/aredis)：一款基于 Python3 asyncio 的异步 redis 客户端，支持对于单实例，连接池， 哨兵以及集群。[作者](https://github.com/NoneGG)希望可以找到志同道合的小伙伴集思广益，一起维护、优化。示例代码如下：
+12、[aredis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NoneGG/aredis)：一款基于 Python3 asyncio 的异步 redis 客户端，支持对于单实例，连接池， 哨兵以及集群。[作者](https://github.com/NoneGG)希望可以找到志同道合的小伙伴集思广益，一起维护、优化。示例代码如下：
 ```Python
    >>> import asyncio
    >>> from aredis import StrictRedis
@@ -124,7 +116,11 @@
    >>> loop.run_until_complete(example())
 ```
 
-16、[freezegun](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spulec/freezegun)：时间漫步模块，模拟到某一个时间，使用简单方式多样，实现了装饰器、上下文等调用方式。示例代码如下：
+
+13、[django-blog-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jukanntenn/django-blog-tutorial)：基于最新版 Django 1.10 和 Python 3.5，通过 26 篇教程一步步带你使用 Django 从零开发一个个人博客系统，在实践的同时掌握 Django 的开发技巧，[完成效果展示](http://demo.zmrenwu.com/)
+
+
+14、[freezegun](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spulec/freezegun)：时间漫步模块，模拟到某一个时间，使用简单方式多样，实现了装饰器、上下文等调用方式。示例代码如下：
 ```python
 from freezegun import freeze_time
 import datetime
@@ -137,6 +133,17 @@ def test():
 
 ```
 
+
+15、[musicbox](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/darknessomi/musicbox)：基于 Python 编写的网易云音乐**命令行**版本，使用起来简单优雅，能够快速安装及使用
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/musicbox.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+16、[snake](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chuyangliu/snake)：贪吃蛇游戏 AI 版，通过算法实现让小蛇通过吃豆，最后蛇的身体填满整个地图算结束。该项目详细描述实现思想以及相关算法的讨论
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/snake.gif' style="max-width:80%; max-height=80%;"></img></p>
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Ruby 项目
@@ -148,29 +155,34 @@ def test():
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-18、[SpaceVim](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SpaceVim/SpaceVim)：一个社区驱动的模块化 vim/neovim 配置集合，其中包含了多种功能模块，并且针对 neovim 做了功能优化。spacevim 有多种功能模块可供选择，支持多种语言。用户只需要选择需要的模块，就可以配置出一个适合自己的开发环境
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/spacevim-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-19、[ch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xnum/ch)：类似 virtualenv，可以在 Linux 下建立虛拟的 home 目录並切换，以管理不同工作或项目的文件
+18、[ch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xnum/ch)：类似 virtualenv，可以在 Linux 下建立虛拟的 home 目录並切换，以管理不同工作或项目的文件
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/ch.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-20、[vim-galore-zh_cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wsdjeg/vim-galore-zh_cn)：Vim 从入门到精通
+19、[English-level-up-tips](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/byoungd/English-level-up-tips)：如何提高英语技能
 
-21、[Spacemacs-rocks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/emacs-china/Spacemacs-rocks)：用 21 天学习 Emacs 以及 Spacemacs（Emacs 的配置文件）的使用
 
-22、[English-level-up-tips](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/byoungd/English-level-up-tips)：如何提高英语技能
+20、[Spacemacs-rocks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/emacs-china/Spacemacs-rocks)：用 21 天学习 Emacs 以及 Spacemacs（Emacs 的配置文件）的使用
+
+
+21、[SpaceVim](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SpaceVim/SpaceVim)：一个社区驱动的模块化 vim/neovim 配置集合，其中包含了多种功能模块，并且针对 neovim 做了功能优化。spacevim 有多种功能模块可供选择，支持多种语言。用户只需要选择需要的模块，就可以配置出一个适合自己的开发环境
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/spacevim-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+
+22、[vim-galore-zh_cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wsdjeg/vim-galore-zh_cn)：Vim 从入门到精通
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-23、[redis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangz1990/redis)：《Redis Command Reference》全文的中文翻译版，[在线阅读](http://redisdoc.com/)
+23、[es6tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ruanyf/es6tutorial)：阮一峰老师的开源精品，ECMAScript 6 入门书籍，[在线阅读](http://es6.ruanyifeng.com/)
 
 
-24、[es6tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ruanyf/es6tutorial)：阮一峰老师的开源精品，ECMAScript 6 入门书籍，[在线阅读](http://es6.ruanyifeng.com/)
+
+
+24、[redis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangz1990/redis)：《Redis Command Reference》全文的中文翻译版，[在线阅读](http://redisdoc.com/)
 
 
 

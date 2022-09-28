@@ -64,10 +64,17 @@ double nanoseconds = DateTime.Now.GetTotalNanoseconds();// 获取纳秒级时间
 double seconds = DateTime.Now.GetTotalSeconds();// 获取秒级时间戳
 double minutes = DateTime.Now.GetTotalMinutes();// 获取分钟级时间戳
 ```
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
-6、[imgui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ocornut/imgui)：游戏行业内流行的轻量级 C++ 图形界面库。这是个即时模式的 GUI 框架，控件都需要手绘。优点是更加灵活和轻量，可以快速构建功能简单、体积小的 GUI 程序，但不适合用来实现复杂动画的 GUI 应用，多用于开发游戏内的 GUI 工具。
+6、[CppCoreGuidelines](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/isocpp/CppCoreGuidelines)：C++ 核心指南。一份由 C++ 之父 Bjarne Stroustrup 领导的 C++ 编码指南，目的是为了帮助大家更好地使用现代 C++。这个项目主要讨论的是关于 C++ 编写接口、内存管理、并发等方面的问题，适合有一定 C++ 基础想要进阶的小伙伴。
+
+7、[flatbuffers](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/flatbuffers)：谷歌开源的高性能序列化库。类似 Protocol Buffers 的序列化格式，但解析速度更快、占用内存更少，多用于对解析耗时敏感的 Android 应用和游戏。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/19953044.png' style="max-width:80%; max-height=80%;"></img></p>
+
+8、[imgui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ocornut/imgui)：游戏行业内流行的轻量级 C++ 图形界面库。这是个即时模式的 GUI 框架，控件都需要手绘。优点是更加灵活和轻量，可以快速构建功能简单、体积小的 GUI 程序，但不适合用来实现复杂动画的 GUI 应用，多用于开发游戏内的 GUI 工具。
 ```C++
 ImGui::Text("Hello, world %d", 123);
 if (ImGui::Button("Save"))
@@ -78,11 +85,6 @@ ImGui::SliderFloat("float", &f, 0.0f, 1.0f);
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/22067521.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[flatbuffers](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/flatbuffers)：谷歌开源的高性能序列化库。类似 Protocol Buffers 的序列化格式，但解析速度更快、占用内存更少，多用于对解析耗时敏感的 Android 应用和游戏。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/19953044.png' style="max-width:80%; max-height=80%;"></img></p>
-
-8、[CppCoreGuidelines](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/isocpp/CppCoreGuidelines)：C++ 核心指南。一份由 C++ 之父 Bjarne Stroustrup 领导的 C++ 编码指南，目的是为了帮助大家更好地使用现代 C++。这个项目主要讨论的是关于 C++ 编写接口、内存管理、并发等方面的问题，适合有一定 C++ 基础想要进阶的小伙伴。
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### CSS 项目
@@ -91,33 +93,58 @@ ImGui::SliderFloat("float", &f, 0.0f, 1.0f);
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/492267422.png' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[css-protips](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AllThingsSmitty/css-protips)：CSS 专业技巧。一个帮你提升 CSS 技巧的收藏集。
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-11、[wechat-backup](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/greycodee/wechat-backup)：本地备份微信聊天记录的工具。它能够将手机上的微信聊天记录，解密后保存在电脑上，支持查看、搜索、恢复微信聊天记录。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/503408858.png' style="max-width:80%; max-height=80%;"></img></p>
-
-12、[ptg](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/crossoverJie/ptg)：用 Go 写的 GUI gRPC 客户端。作者在调试 gPRC 接口时，发现没有类似 postman 趁手的 gPRC 客户端，所以就自己动手写了一个然后开源了。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/415986304.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-13、[wild-workouts-go-ddd-example](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)：Go DDD 示例项目。该项目通过一个预约系统的示例，展示了如何在 Go 项目中实现领域驱动设计(DDD)和读写分离架构(CQRS)。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/261871717.png' style="max-width:80%; max-height=80%;"></img></p>
-
-14、[gitleaks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zricethezav/gitleaks)：一款静态应用程序安全测试(SAST)工具。它可以检测项目中是否包含密码、API Key、token 等信息，还能够轻松整合到 Git Hook 和 GitHub Action，实现提交代码时自动检测，通过告警和阻止 push 等方式，有效地防止敏感信息泄漏。
+11、[gitleaks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zricethezav/gitleaks)：一款静态应用程序安全测试(SAST)工具。它可以检测项目中是否包含密码、API Key、token 等信息，还能够轻松整合到 Git Hook 和 GitHub Action，实现提交代码时自动检测，通过告警和阻止 push 等方式，有效地防止敏感信息泄漏。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/119190187.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-15、[mercure](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dunglas/mercure)：一种用于实时通信的开放式协议。该项目是基于 HTTP 和 SSE 的一种协议，然后用 Go 语言实现的实时推送服务。相较于 WebSocket 协议它使用起来更加简单，客户端发起订阅就和请求普通的 HTTP 接口一样，而且在 HTTP/2 下还可以双向通信。
+12、[mercure](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dunglas/mercure)：一种用于实时通信的开放式协议。该项目是基于 HTTP 和 SSE 的一种协议，然后用 Go 语言实现的实时推送服务。相较于 WebSocket 协议它使用起来更加简单，客户端发起订阅就和请求普通的 HTTP 接口一样，而且在 HTTP/2 下还可以双向通信。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/140949512.png' style="max-width:80%; max-height=80%;"></img></p>
+
+13、[ptg](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/crossoverJie/ptg)：用 Go 写的 GUI gRPC 客户端。作者在调试 gPRC 接口时，发现没有类似 postman 趁手的 gPRC 客户端，所以就自己动手写了一个然后开源了。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/415986304.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+14、[wechat-backup](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/greycodee/wechat-backup)：本地备份微信聊天记录的工具。它能够将手机上的微信聊天记录，解密后保存在电脑上，支持查看、搜索、恢复微信聊天记录。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/503408858.png' style="max-width:80%; max-height=80%;"></img></p>
+
+15、[wild-workouts-go-ddd-example](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)：Go DDD 示例项目。该项目通过一个预约系统的示例，展示了如何在 Go 项目中实现领域驱动设计(DDD)和读写分离架构(CQRS)。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/261871717.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-16、[picocli](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/remkop/picocli)：构建 Java 命令行应用的框架。简单易用寥寥几行代码，就可以完成一个 Java 命令行应用程序。虽然由 Java 编写但可以在 Groovy、Kotlin、Scala 中使用，支持命令自动补全、颜色、子命令、帮助信息等功能。
+16、[forest](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dromara/forest)：极简的声明式 Java HTTP 客户端。一个开源的 Java HTTP 客户端框架，采用声明式的开发方式，分分钟即可完成 HTTP 请求的定义、发送、接收、解析、错误处理、日志打印等操作。
+```java
+public interface AmapClient {
+    /**
+     * @Get注解代表该方法专做GET请求
+     * 在url中的{0}代表引用第一个参数，{1}引用第二个参数
+     */
+    @Get("http://ditu.amap.com/service/regeo?longitude={0}&latitude={1}")
+    Map getLocation(String longitude, String latitude);
+}
+
+// 注入接口实例
+@Autowired
+private AmapClient amapClient;
+...
+// 调用接口
+Map result = amapClient.getLocation("121.475078", "31.223577");
+System.out.println(result);
+```
+
+17、[liteflow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dromara/liteflow)：轻快、稳定可编排的规则引擎。规则引擎能够帮助系统解耦，实现通过修改规则就可以适应复杂多变的业务逻辑。这是一个功能强大的 Java 规则引擎，支持同步异步混编、平滑热刷新，无需重启应用即可让新规则生效，规则语法简单、文档通俗易懂，学习门槛低容易上手。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/250036571.png' style="max-width:80%; max-height=80%;"></img></p>
+
+18、[picocli](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/remkop/picocli)：构建 Java 命令行应用的框架。简单易用寥寥几行代码，就可以完成一个 Java 命令行应用程序。虽然由 Java 编写但可以在 Groovy、Kotlin、Scala 中使用，支持命令自动补全、颜色、子命令、帮助信息等功能。
 ```java
 import picocli.CommandLine;
 import picocli.CommandLine.Option;
@@ -157,41 +184,26 @@ public class Example implements Runnable {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/80640282.png' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[liteflow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dromara/liteflow)：轻快、稳定可编排的规则引擎。规则引擎能够帮助系统解耦，实现通过修改规则就可以适应复杂多变的业务逻辑。这是一个功能强大的 Java 规则引擎，支持同步异步混编、平滑热刷新，无需重启应用即可让新规则生效，规则语法简单、文档通俗易懂，学习门槛低容易上手。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/250036571.png' style="max-width:80%; max-height=80%;"></img></p>
-
-18、[forest](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dromara/forest)：极简的声明式 Java HTTP 客户端。一个开源的 Java HTTP 客户端框架，采用声明式的开发方式，分分钟即可完成 HTTP 请求的定义、发送、接收、解析、错误处理、日志打印等操作。
-```java
-public interface AmapClient {
-    /**
-     * @Get注解代表该方法专做GET请求
-     * 在url中的{0}代表引用第一个参数，{1}引用第二个参数
-     */
-    @Get("http://ditu.amap.com/service/regeo?longitude={0}&latitude={1}")
-    Map getLocation(String longitude, String latitude);
-}
-
-// 注入接口实例
-@Autowired
-private AmapClient amapClient;
-...
-// 调用接口
-Map result = amapClient.getLocation("121.475078", "31.223577");
-System.out.println(result);
-```
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-19、[regex-vis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Bowen7/regex-vis)：在线可视化正则编辑器。该项目可将输入的正则表达式，自动生成对应的可视化图形，支持通过编辑图形节点修改正则表达式，以及对正则表达式进行测试等功能。
+19、[mjml](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mjmlio/mjml)：能够快速制作出响应式邮件的框架。邮件样式是一个让人头疼的问题，而通过这个项目制作的邮件，可以正常地显示在不同的邮件客户端。它还提供了在线编辑器，以及多种邮件模版和丰富的组件，能够帮你快速制作出精美、移动端优先、响应式的邮件。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/50586840.png' style="max-width:80%; max-height=80%;"></img></p>
+
+20、[naive-ui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tusen-ai/naive-ui)：仅支持 Vue3 的组件库。拥有完善的 TypeScript 类型推导的 Vue3 组件库，拥有 80 多种组件、中文文档，如果你想换换“口味”可以试试它。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/373855820.png' style="max-width:80%; max-height=80%;"></img></p>
+
+21、[regex-vis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Bowen7/regex-vis)：在线可视化正则编辑器。该项目可将输入的正则表达式，自动生成对应的可视化图形，支持通过编辑图形节点修改正则表达式，以及对正则表达式进行测试等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/295656398.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-20、[vxe-table](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/x-extends/vxe-table)：好用的 Vue 表格组件。支持增删改查、虚拟列表、大数据懒加载、数据校验、分页、弹窗等功能的 Vue 表格组件。
+22、[vxe-table](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/x-extends/vxe-table)：好用的 Vue 表格组件。支持增删改查、虚拟列表、大数据懒加载、数据校验、分页、弹窗等功能的 Vue 表格组件。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/182395618.png' style="max-width:80%; max-height=80%;"></img></p>
 
-21、[wangEditor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wangeditor-team/wangEditor)：一款开源的 Web 富文本编辑器。基于 slate.js 和 snabbdom.js 实现的富文本编辑器，支持 JS、Vue 和 React 框架。开箱即用仅需几行代码，就能实现一个功能齐全的富文本编辑器。
+23、[wangEditor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wangeditor-team/wangEditor)：一款开源的 Web 富文本编辑器。基于 slate.js 和 snabbdom.js 实现的富文本编辑器，支持 JS、Vue 和 React 框架。开箱即用仅需几行代码，就能实现一个功能齐全的富文本编辑器。
 ```javascript
 import '@wangeditor/editor/dist/css/style.css'
 import { createEditor, createToolbar } from '@wangeditor/editor'
@@ -208,14 +220,6 @@ const toolbar = createToolbar({
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/26262860.png' style="max-width:80%; max-height=80%;"></img></p>
-
-22、[mjml](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mjmlio/mjml)：能够快速制作出响应式邮件的框架。邮件样式是一个让人头疼的问题，而通过这个项目制作的邮件，可以正常地显示在不同的邮件客户端。它还提供了在线编辑器，以及多种邮件模版和丰富的组件，能够帮你快速制作出精美、移动端优先、响应式的邮件。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/50586840.png' style="max-width:80%; max-height=80%;"></img></p>
-
-23、[naive-ui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tusen-ai/naive-ui)：仅支持 Vue3 的组件库。拥有完善的 TypeScript 类型推导的 Vue3 组件库，拥有 80 多种组件、中文文档，如果你想换换“口味”可以试试它。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/373855820.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -273,9 +277,9 @@ with Diagram("Advanced Web Service with On-Premise", show=False):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/237791077.png' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[orange3](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/biolab/orange3)：互动式数据分析桌面工具。一款面向不会编程人群的数据挖掘和数据可视化工具箱。内置多种图表类型、支持可视化编程，无需写代码即可做出简单、实用的数据分析软件，多用于教学和实验室等场景。
+28、[labelImg](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/heartexlabs/labelImg)：图形化界面的图像标注工具。用 Python 和 Qt 编写的图像标注桌面应用，简单方便下载就能用，适用于 Windows、Linux、macOS。标注数据支持 PASCAL VOC 格式的 XML 文件和 YOLO 的 txt 文件。
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/8357227.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/42625970.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 29、[MechanicalSoup](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MechanicalSoup/MechanicalSoup)：自动与网站交互的轻量级 Python 库。我们写爬虫一般是请求+解析两步走，该项目将 Requests(请求) 和 BeautifulSoup(解析) 两大 Python 爬虫常用库，封装成一个浏览器对象(StatefulBrowser)，将上面说的两步并成一步。后面仅需一个浏览器对象，就可以完成请求页面、过滤内容、提交表单、跳转地址等操作，使得代码更加简单、操作更加方便。又因为它不依赖浏览器进程，所以相较于 Selenium 它更加轻巧，但缺点是不支持 JS 动态渲染的页面。
 ```python
@@ -306,13 +310,13 @@ for link in browser.links():
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/20180433.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[pandas-profiling](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ydataai/pandas-profiling)：能够自动生成 pandas DataFrame 分析报告的库。虽然 pandas 自带的 df.describe 函数可以方便地生成统计报告，但是信息较少。该项目能够自动生成一份 df 多维度的 HTML 分析报告，包含列的类型、缺失情况、数值分布、行重复率、占用内存大小等信息，有助于更好地了解数据情况。
+30、[orange3](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/biolab/orange3)：互动式数据分析桌面工具。一款面向不会编程人群的数据挖掘和数据可视化工具箱。内置多种图表类型、支持可视化编程，无需写代码即可做出简单、实用的数据分析软件，多用于教学和实验室等场景。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/8357227.png' style="max-width:80%; max-height=80%;"></img></p>
+
+31、[pandas-profiling](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ydataai/pandas-profiling)：能够自动生成 pandas DataFrame 分析报告的库。虽然 pandas 自带的 df.describe 函数可以方便地生成统计报告，但是信息较少。该项目能够自动生成一份 df 多维度的 HTML 分析报告，包含列的类型、缺失情况、数值分布、行重复率、占用内存大小等信息，有助于更好地了解数据情况。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/49346299.png' style="max-width:80%; max-height=80%;"></img></p>
-
-31、[labelImg](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/heartexlabs/labelImg)：图形化界面的图像标注工具。用 Python 和 Qt 编写的图像标注桌面应用，简单方便下载就能用，适用于 Windows、Linux、macOS。标注数据支持 PASCAL VOC 格式的 XML 文件和 YOLO 的 txt 文件。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/42625970.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -331,25 +335,25 @@ for link in browser.links():
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-34、[LxgwWenKai](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lxgw/LxgwWenKai)：适合正文阅读的开源中文字体。它是基于 FONTWORKS 出品的 Klee One 字体衍生品，并且针对简体中文做了增补和优化，字体效果惊艳、完全免费且支持商用。
+34、[functional-programming-jargon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hemanth/functional-programming-jargon)：函数式编程世界的行话。该项目希望通过介绍函数编程中的术语，让学习函数式编程变得容易些，示例代码均采用 JavaScript 编写。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/31168578.png' style="max-width:80%; max-height=80%;"></img></p>
+
+35、[LxgwWenKai](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lxgw/LxgwWenKai)：适合正文阅读的开源中文字体。它是基于 FONTWORKS 出品的 Klee One 字体衍生品，并且针对简体中文做了增补和优化，字体效果惊艳、完全免费且支持商用。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/334448316.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[MaaAssistantArknights](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MaaAssistantArknights/MaaAssistantArknights)：明日方舟游戏助手。基于图像识别技术，实现一键完成明日方舟游戏的全部日常任务。
+36、[MaaAssistantArknights](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MaaAssistantArknights/MaaAssistantArknights)：明日方舟游戏助手。基于图像识别技术，实现一键完成明日方舟游戏的全部日常任务。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/384520418.png' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[opensnitch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/evilsocket/opensnitch)：一个 Linux 应用防火墙。它能够监视和控制应用的网络活动，相当于 Linux 版的 Little Snitch。
+37、[opensnitch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/evilsocket/opensnitch)：一个 Linux 应用防火墙。它能够监视和控制应用的网络活动，相当于 Linux 版的 Little Snitch。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/88417028.png' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[Publii](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/GetPublii/Publii)：带 GUI 的静态网站生成工具。一款本地的静态网站 CMS 工具，有了它无需编程基础，即可通过图形化界面，轻松地创建个人博客、企业官网等，还支持一键发布到 GitHub Page、GitLab、Netlify 等网站。
+38、[Publii](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/GetPublii/Publii)：带 GUI 的静态网站生成工具。一款本地的静态网站 CMS 工具，有了它无需编程基础，即可通过图形化界面，轻松地创建个人博客、企业官网等，还支持一键发布到 GitHub Page、GitLab、Netlify 等网站。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/137733266.png' style="max-width:80%; max-height=80%;"></img></p>
-
-38、[functional-programming-jargon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hemanth/functional-programming-jargon)：函数式编程世界的行话。该项目希望通过介绍函数编程中的术语，让学习函数式编程变得容易些，示例代码均采用 JavaScript 编写。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/31168578.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

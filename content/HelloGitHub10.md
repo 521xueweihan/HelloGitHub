@@ -48,20 +48,23 @@
 - hpp 风格，所有源码都是 .hpp 文件里面，方便使用。没有链接，就没有伤害。
 - 本项目的副产品项目：simhash_server 提供了简单的 simhash HTTP 服务。
 
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### CSS 项目
-3、[material-design-icons](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/material-design-icons)：Google 官方开源基于 Material Design 设计风格的图标库
+3、[Font-Awesome](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FortAwesome/Font-Awesome)：GitHub 上 Star 数最多的图标库，应该是当下最流行的图标库
+
+
+4、[material-design-icons](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/material-design-icons)：Google 官方开源基于 Material Design 设计风格的图标库
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/10/img/material-design-icons.png' style="max-width:80%; max-height=80%;"></img></p>
-
-4、[Font-Awesome](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FortAwesome/Font-Awesome)：GitHub 上 Star 数最多的图标库，应该是当下最流行的图标库
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 5、[kingshard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/flike/kingshard)：kingshard 是一个由 Go 开发高性能 MySQL Proxy 项目，kingshard 在满足基本的读写分离的功能上，致力于简化 MySQL 分库分表操作；能够让 DBA 通过 kingshard 轻松平滑地实现 MySQL 数据库扩容。
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -69,24 +72,11 @@
 6、[rocketmq](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/rocketmq)：RocketMQ 是阿里巴巴在 2012 年开源的第三代分布式消息中间件。
 历年双 11，RocketMQ 都承担了阿里巴巴生产系统百分之百的消息流转，在核心交易链路有着稳定和出色的表现，今年双十一，更是创造了万亿级消息精准低延迟投递。
 
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-7、[RAP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/thx/RAP)：阿里妈妈 MUX 团队出品，企业级 Web 接口管理工具。RAP 通过 GUI 工具帮助 Web 工程师更高效的管理接口文档，同时通过分析接口结构自动生成 Mock 数据、校验真实接口的正确性，使得接口开发更加规范、自动化。
-
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/10/img/rap-show-min.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
-8、[iview](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iview/iview)：iView 是一套基于 Vue.js 的开源 UI 组件库，主要服务于 PC 界面的中后台产品。特性：
-- 高质量、功能丰富
-- 友好的 API，自由灵活地使用空间
-- 事无巨细的文档
-- 细致、漂亮的 UI
-- 使用单文件的 Vue 组件化开发模式
-- 基于 npm + webpack + babel 开发，支持 ES2015
-
-9、[flv.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bilibili/flv.js)：使用纯 JavaScript 写的 HTML5 Flash 视频（flv）播放器，示例代码如下：
+7、[flv.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bilibili/flv.js)：使用纯 JavaScript 写的 HTML5 Flash 视频（flv）播放器，示例代码如下：
 ```javascript
 <script src="flv.min.js"></script>
 <video id="videoElement"></video>
@@ -103,6 +93,22 @@
     }
 </script>
 ```
+
+
+8、[iview](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iview/iview)：iView 是一套基于 Vue.js 的开源 UI 组件库，主要服务于 PC 界面的中后台产品。特性：
+- 高质量、功能丰富
+- 友好的 API，自由灵活地使用空间
+- 事无巨细的文档
+- 细致、漂亮的 UI
+- 使用单文件的 Vue 组件化开发模式
+- 基于 npm + webpack + babel 开发，支持 ES2015
+
+
+9、[RAP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/thx/RAP)：阿里妈妈 MUX 团队出品，企业级 Web 接口管理工具。RAP 通过 GUI 工具帮助 Web 工程师更高效的管理接口文档，同时通过分析接口结构自动生成 Mock 数据、校验真实接口的正确性，使得接口开发更加规范、自动化。
+
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/10/img/rap-show-min.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -125,11 +131,11 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-12、[saythanks.io](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BlitzKraft/saythanks.io)：Kennethreitz 写的一个简单的网站（基于 Flask），用于向开源项目作者发送感谢邮件的 Web App。该项目结构简单，可以用来学习大神是如何快速开发 Web 项目、方法、代码风格、开发常用库。而且该项目的意义也特别好：**感谢开源项目的作者**，愿开源社区越来越好，[网站地址](https://saythanks.io)
+12、[jumpserver](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jumpserver/jumpserver)：Jumpserver 是一款由 Python 编写开源的跳板机（是一类可作为跳板批量操作远程设备的网络设备）系统，实现了跳板机应有的功能。基于 SSH 协议来管理，客户端无需安装 agent。支持常见 Linux 系统，效果如下：
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/10/img/thanks-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/10/img/jumpserver-min.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 13、[locust](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/locustio/locust)：模拟用户行为的[负载测试](http://blog.csdn.net/kerryzhu/article/details/3515714)工具，包含友好的 Web 页面，如下图：
 
@@ -137,27 +143,32 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/10/img/locust-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-14、[jumpserver](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jumpserver/jumpserver)：Jumpserver 是一款由 Python 编写开源的跳板机（是一类可作为跳板批量操作远程设备的网络设备）系统，实现了跳板机应有的功能。基于 SSH 协议来管理，客户端无需安装 agent。支持常见 Linux 系统，效果如下：
+14、[saythanks.io](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BlitzKraft/saythanks.io)：Kennethreitz 写的一个简单的网站（基于 Flask），用于向开源项目作者发送感谢邮件的 Web App。该项目结构简单，可以用来学习大神是如何快速开发 Web 项目、方法、代码风格、开发常用库。而且该项目的意义也特别好：**感谢开源项目的作者**，愿开源社区越来越好，[网站地址](https://saythanks.io)
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/10/img/jumpserver-min.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/10/img/thanks-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-15、[IntelliJ-IDEA-Tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/judasn/IntelliJ-IDEA-Tutorial)：IntelliJ IDEA 简体中文专题教程
+15、[500lines](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aosabook/500lines)：（英文）用少于 500 行的 Python 代码，你可以写出什么东西？相信你看完这个项目，会学到很多（每个项目的作者都是业内大神写的）。[中文翻译版（未翻译完）](https://github.com/HT524/500LineorLess_CN)
+
 
 16、[Awesome_APIs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TonnyL/Awesome_APIs)：第三方 API 集合
 
-17、[Lee-VR-Source](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/GeekLiB/Lee-VR-Source)：VR 开发者必备资源汇总
 
-18、[500lines](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aosabook/500lines)：（英文）用少于 500 行的 Python 代码，你可以写出什么东西？相信你看完这个项目，会学到很多（每个项目的作者都是业内大神写的）。[中文翻译版（未翻译完）](https://github.com/HT524/500LineorLess_CN)
+17、[IntelliJ-IDEA-Tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/judasn/IntelliJ-IDEA-Tutorial)：IntelliJ IDEA 简体中文专题教程
+
+
+18、[Lee-VR-Source](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/GeekLiB/Lee-VR-Source)：VR 开发者必备资源汇总
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
 19、[redisbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangz1990/redisbook)：Redis 设计与实现（网络版）
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -169,6 +180,7 @@
 - [Support vector machine (SVM) with kernels (Linear, Poly, RBF)](https://github.com/rushter/MLAlgorithms/tree/master/mla/svm)
 - [K-Means](https://github.com/rushter/MLAlgorithms/blob/master/mla/kmeans.py)
 - 等等
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

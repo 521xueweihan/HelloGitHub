@@ -33,6 +33,7 @@
 ### C 项目
 1、[BaiduPCS](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/GangZhuo/BaiduPCS)：C 写的百度网盘命令行工具，[在线文档](https://github.com/GangZhuo/BaiduPCS/wiki/BaiduPCS-基本使用)
 
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C# 项目
@@ -59,58 +60,43 @@ int main(int argc, char** argv) {
 }
 ```
 
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### CSS 项目
 4、[cssicon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wentin/cssicon)：纯 CSS 实现的 icon
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 5、[beego](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/beego/beego)：一个使用 Go 的思维来帮助您构建并开发 Go 应用程序的开源框架，齐全的文档（中文），丰富的使用案例。[官网地址](https://beego.me)
 
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-6、[nodeclub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cnodejs/nodeclub)：Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统，[社区地址](https://cnodejs.org/)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/07/img/nodeclub-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-7、[clipboard.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zenorocha/clipboard.js)：实现了点击文本内容的 JavaScript 插件，优点：最新、极小、无任依赖、使用简单方便。[在线文档](https://clipboardjs.com)
+6、[clipboard.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zenorocha/clipboard.js)：实现了点击文本内容的 JavaScript 插件，优点：最新、极小、无任依赖、使用简单方便。[在线文档](https://clipboardjs.com)
 
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/07/img/clipboard-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+
+7、[nodeclub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cnodejs/nodeclub)：Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统，[社区地址](https://cnodejs.org/)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/07/img/nodeclub-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Objective-C 项目
 8、[PYPhotoBrowser](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ko1o/PYPhotoBrowser)：高仿 QQ、微信效果的图片浏览器（支持原图和缩略图、多种手势、CocoaPods）
 
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-9、[httpie](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/httpie/httpie)：非常好用的命令行 HTTP 客户端，cURL 的替代者，返回的结果支持**高亮**，提高了可读性。用于调试接口、查看服务器返回的 HTTP 协议的信息。[在线文档](https://httpie.org/docs#examples)，下面的是 cURL 和 httpie 的返回结果对比图：
-
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/07/img/httpie-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-10、[langid.py](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/saffsd/langid.py)：用于识别输入文本数据所属的语种，目前支持 97 种语言识别。示例代码：
-```python
-import langid
-text1 = "I am a coder and love data mining"
-text2 = "请注明作者和出处并保留声明和联系方式"
-
-print langid.classify(text1)
-print langid.classify(text2)
-
-# ('en', 0.9999957874458753)
-# ('zh', 1.0)
-```
-
-11、[fake-useragent](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hellysmile/fake-useragent)：伪装浏览器身份，常用于爬虫。这个项目的代码很少，可以阅读一下，看看 `ua.random` 是如何返回随机的浏览器身份的😁，示例代码：
+9、[fake-useragent](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hellysmile/fake-useragent)：伪装浏览器身份，常用于爬虫。这个项目的代码很少，可以阅读一下，看看 `ua.random` 是如何返回随机的浏览器身份的😁，示例代码：
 ```python
 from fake_useragent import UserAgent
 ua = UserAgent()
@@ -140,23 +126,50 @@ ua.safari
 ua.random
 ```
 
+
+10、[httpie](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/httpie/httpie)：非常好用的命令行 HTTP 客户端，cURL 的替代者，返回的结果支持**高亮**，提高了可读性。用于调试接口、查看服务器返回的 HTTP 协议的信息。[在线文档](https://httpie.org/docs#examples)，下面的是 cURL 和 httpie 的返回结果对比图：
+
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/07/img/httpie-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+
+11、[langid.py](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/saffsd/langid.py)：用于识别输入文本数据所属的语种，目前支持 97 种语言识别。示例代码：
+```python
+import langid
+text1 = "I am a coder and love data mining"
+text2 = "请注明作者和出处并保留声明和联系方式"
+
+print langid.classify(text1)
+print langid.classify(text2)
+
+# ('en', 0.9999957874458753)
+# ('zh', 1.0)
+```
+
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 12、[coding-interview-university](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jwasham/coding-interview-university)：一套完整的学习手册帮助自己准备 Google 的面试，[中文翻译版](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 
-13、[learning-react](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yiminghe/learning-react)：[yiminghe](https://github.com/yiminghe) 的 react 中文教程，包含[入门](http://yiminghe.me/learning-react/tutorial/zh-cn/intro.html#/)和[进阶](http://yiminghe.me/learning-react/tutorial/zh-cn/advanced.html#/)
 
-14、[static](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/staticfile/static)：这个项目是一个仓库，它尽可能全面收录优秀的开源库，并免费为之提供 CDN 加速服务，使之有更好的访问速度和稳定的环境。同时，它也提供开源库源接入的入口，让所有人都可以提交开源库，包括 JavaScript、CSS、image 和 swf 等静态文件。[访问 Staticfile CDN](https://www.staticfile.org/about.html)
+13、[How-to-Make-a-Computer-Operating-System](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)：（英文）如何做一个操作系统[在线阅读](https://www.gitbook.com/book/samypesse/how-to-create-an-operating-system/details)
 
-15、[WebFundamentals](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/WebFundamentals)：（英文）Google 的 Web 开发者最佳练习教程
 
-16、[How-to-Make-a-Computer-Operating-System](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)：（英文）如何做一个操作系统[在线阅读](https://www.gitbook.com/book/samypesse/how-to-create-an-operating-system/details)
+14、[learning-react](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yiminghe/learning-react)：[yiminghe](https://github.com/yiminghe) 的 react 中文教程，包含[入门](http://yiminghe.me/learning-react/tutorial/zh-cn/intro.html#/)和[进阶](http://yiminghe.me/learning-react/tutorial/zh-cn/advanced.html#/)
+
+
+15、[static](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/staticfile/static)：这个项目是一个仓库，它尽可能全面收录优秀的开源库，并免费为之提供 CDN 加速服务，使之有更好的访问速度和稳定的环境。同时，它也提供开源库源接入的入口，让所有人都可以提交开源库，包括 JavaScript、CSS、image 和 swf 等静态文件。[访问 Staticfile CDN](https://www.staticfile.org/about.html)
+
+
+16、[WebFundamentals](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/WebFundamentals)：（英文）Google 的 Web 开发者最佳练习教程
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
 17、[build-web-application-with-golang](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/astaxie/build-web-application-with-golang)：《Go Web 编程》中文
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

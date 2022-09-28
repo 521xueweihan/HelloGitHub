@@ -62,7 +62,15 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/evans.png' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[mkcert](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FiloSottile/mkcert)：无需配置，执行一条命令让本地的开发环境实现 HTTPS 的工具。效果如下：
+6、[gochat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LockGit/gochat)：纯 Go 实现的轻量级即时通讯系统。技术上各层之间通过 rpc 通讯，使用 redis 作为消息存储与投递的载体，相对 kafka 操作起来更加方便快捷。各层之间基于 etcd 服务发现，在扩容部署时将会方便很多。架构、目录结构清晰，文档详细。而且还提供了 docker 一件构建，安装运行十分方便，推荐作为学习项目
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/gochat.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+7、[guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/uber-go/guide)：Uber 内部的 Go 风格规范。[中文翻译版](https://github.com/xxjwxc/uber_go_guide_cn)
+
+
+8、[mkcert](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FiloSottile/mkcert)：无需配置，执行一条命令让本地的开发环境实现 HTTPS 的工具。效果如下：
 ```bash
 $ mkcert -install
 Created a new local CA at "/Users/filippo/Library/Application Support/mkcert" 💥
@@ -86,13 +94,6 @@ The certificate is at "./example.com+5.pem" and the key at "./example.com+5-key.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/mkcert.png' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[gochat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LockGit/gochat)：纯 Go 实现的轻量级即时通讯系统。技术上各层之间通过 rpc 通讯，使用 redis 作为消息存储与投递的载体，相对 kafka 操作起来更加方便快捷。各层之间基于 etcd 服务发现，在扩容部署时将会方便很多。架构、目录结构清晰，文档详细。而且还提供了 docker 一件构建，安装运行十分方便，推荐作为学习项目
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/gochat.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-8、[guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/uber-go/guide)：Uber 内部的 Go 风格规范。[中文翻译版](https://github.com/xxjwxc/uber_go_guide_cn)
-
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
@@ -108,15 +109,34 @@ The certificate is at "./example.com+5.pem" and the key at "./example.com+5-key.
 
 11、[SpringCloud](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhoutaoo/SpringCloud)：基于 SpringCloud2.1 的微服务开发脚手架
 
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-12、[kiwi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/kiwi)：还在为前端的全球化多语言而发愁吗？可以试试阿里开源的这项目
+12、[FileSaver.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eligrey/FileSaver.js)：文件保存的 JavaScript 库，支持多种常见的文件存储格式：xls、txt、png 等。它可以方便的把数据转成文件，然后供用户下载。示例代码：
+```javascript
+// 存储文本
+var blob = new Blob(["Hello, world!"], {type: "text/plain;charset=utf-8"});
+FileSaver.saveAs(blob, "hello world.txt");
+```
+
+
+13、[glut](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LeeLejia/glut)：一款用于团队内部 chrome 工具共享的工具，可以理解为 chrome 的小程序。它提供了比页面脚本更多的 API，可是实现更丰富的功能。可以随时在页面打开的小组件，它既可以作为页面的辅助工具或者也可以提供独立的功能。演示如下：
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/glut.png' style="max-width:80%; max-height=80%;"></img></p>
+
+14、[kiwi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/kiwi)：还在为前端的全球化多语言而发愁吗？可以试试阿里开源的这项目
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/kiwi.png' style="max-width:80%; max-height=80%;"></img></p>
 
-13、[qier-player](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vortesnail/qier-player)：一款基于 React 的轻量级在线视频播放器组件，界面简洁、操作流畅具有视频播放器的基础功能。方便你在项目中轻松添加播放器组件，实现视频播放功能。如果你嫌原生 video 功能太少、操作太傻、界面太简陋，那这个播放器就是你的菜。你还能够通过阅读源码学习到关于生命周期执行顺序、父子组件传值的方式、以及如何利用定时器进行一些实时的状态更新的技巧。示例代码：
+15、[paint](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dli/paint)：在线体验下油画创作。呈上我的“杰作”：
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/paint.png' style="max-width:80%; max-height=80%;"></img></p>
+
+16、[qier-player](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vortesnail/qier-player)：一款基于 React 的轻量级在线视频播放器组件，界面简洁、操作流畅具有视频播放器的基础功能。方便你在项目中轻松添加播放器组件，实现视频播放功能。如果你嫌原生 video 功能太少、操作太傻、界面太简陋，那这个播放器就是你的菜。你还能够通过阅读源码学习到关于生命周期执行顺序、父子组件传值的方式、以及如何利用定时器进行一些实时的状态更新的技巧。示例代码：
 ```javascript
 import React from 'react';
 import ReactDOM from 'react-dom';
@@ -128,12 +148,7 @@ ReactDOM.render(<QierPlayer srcOrigin="你的视频地址"/>, document.getElemen
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/qier-player.png' style="max-width:80%; max-height=80%;"></img></p>
 
-14、[glut](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LeeLejia/glut)：一款用于团队内部 chrome 工具共享的工具，可以理解为 chrome 的小程序。它提供了比页面脚本更多的 API，可是实现更丰富的功能。可以随时在页面打开的小组件，它既可以作为页面的辅助工具或者也可以提供独立的功能。演示如下：
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/glut.png' style="max-width:80%; max-height=80%;"></img></p>
-
-15、[svrx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/svrxjs/svrx)：一个易于使用、插件化的前端开发工作台。帮助前端开发人员把折腾开发环境的时间，省下来做更有意义的事。快速开始：
+17、[svrx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/svrxjs/svrx)：一个易于使用、插件化的前端开发工作台。帮助前端开发人员把折腾开发环境的时间，省下来做更有意义的事。快速开始：
 1. 安装：`npm install -g @svrx/cli`
 2. 创建目录：`mkdir example && cd example`
 3. 创建文件：`echo '<html><body>Hello svrx!</body></html>' > index.html`
@@ -141,18 +156,6 @@ ReactDOM.render(<QierPlayer srcOrigin="你的视频地址"/>, document.getElemen
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/svrx.png' style="max-width:80%; max-height=80%;"></img></p>
-
-16、[paint](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dli/paint)：在线体验下油画创作。呈上我的“杰作”：
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/paint.png' style="max-width:80%; max-height=80%;"></img></p>
-
-17、[FileSaver.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eligrey/FileSaver.js)：文件保存的 JavaScript 库，支持多种常见的文件存储格式：xls、txt、png 等。它可以方便的把数据转成文件，然后供用户下载。示例代码：
-```javascript
-// 存储文本
-var blob = new Blob(["Hello, world!"], {type: "text/plain;charset=utf-8"});
-FileSaver.saveAs(blob, "hello world.txt");
-```
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -165,30 +168,35 @@ FileSaver.saveAs(blob, "hello world.txt");
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-19、[pyflame](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/uber-archive/pyflame)：Uber 开源的 Python 性能分析工具。可以在不修改代码的情况下分析 Python 程序的性能，同时生成火焰图
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/pyflame.png' style="max-width:80%; max-height=80%;"></img></p>
-
-20、[Gooey](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chriskiehl/Gooey)：一个把 Python 命令行工具转化成 GUI 桌面工具的库。就我个人还是喜欢命令行的形式😅
+19、[Gooey](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chriskiehl/Gooey)：一个把 Python 命令行工具转化成 GUI 桌面工具的库。就我个人还是喜欢命令行的形式😅
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/Gooey.png' style="max-width:80%; max-height=80%;"></img></p>
+
+20、[KubeOperator](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/KubeOperator/KubeOperator)：用 Python 语言开发的开源容器集群管理平台。在离线网络环境下通过可视化 Web UI 在 VMware、Openstack 或者物理机上规划、部署和管理生产级别的 Kubernetes 集群。开启你的 Kubernetes 之旅
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/KubeOperator.png' style="max-width:80%; max-height=80%;"></img></p>
 
 21、[opendevops](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/opendevops-cn/opendevops)：一款基于 tornado 的开源自动化运维云管理平台。支持：ITSM、权限系统、Web Terminnal 登陆日志审计、录像回放、监控报警系统、DNS 管理、配置中心等
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/opendevops.png' style="max-width:80%; max-height=80%;"></img></p>
 
-22、[KubeOperator](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/KubeOperator/KubeOperator)：用 Python 语言开发的开源容器集群管理平台。在离线网络环境下通过可视化 Web UI 在 VMware、Openstack 或者物理机上规划、部署和管理生产级别的 Kubernetes 集群。开启你的 Kubernetes 之旅
+22、[pyflame](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/uber-archive/pyflame)：Uber 开源的 Python 性能分析工具。可以在不修改代码的情况下分析 Python 程序的性能，同时生成火焰图
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/KubeOperator.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/pyflame.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
-23、[SwiftyGif](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kirualex/SwiftyGif)：高性能且上手容易的 Swift GIF 库。示例代码：
+23、[pock](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pock/pock)：一款在苹果电脑的触控栏中，显示 macOS 程序坞的开源工具
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/Pock.png' style="max-width:80%; max-height=80%;"></img></p>
+
+24、[SwiftyGif](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kirualex/SwiftyGif)：高性能且上手容易的 Swift GIF 库。示例代码：
 ```swift
 import SwiftyGif
 
@@ -205,51 +213,51 @@ do {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/SwiftyGif.png' style="max-width:80%; max-height=80%;"></img></p>
 
-24、[pock](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pock/pock)：一款在苹果电脑的触控栏中，显示 macOS 程序坞的开源工具
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/Pock.png' style="max-width:80%; max-height=80%;"></img></p>
-
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-25、[infer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facebook/infer)：Facebook 开源的一个支持 Objective-C、Java 和 C 语言的静态分析工具，用它可以检测 Android、iOS 代码中的资源泄漏、内存泄漏、空指针等问题。建议集成到客户端发布的流程环节中，它能够将客户端应用的一些严重 Bug 扼杀在发布应用之前，同时减少应用崩溃和性能低下的情况
+25、[CoolplaySpark](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lw-lin/CoolplaySpark)：Spark 源代码分析、类库解读等
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/infer.png' style="max-width:80%; max-height=80%;"></img></p>
+26、[funNLP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fighting41love/funNLP)：中文词库的集合。可用于：敏感词、语言检测、拆字词典等
 
-26、[git-quick-stats](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/arzzen/git-quick-stats)：项目的 git 提交记录展示和统计的工具。支持：不同时间维度和用户名的统计、近期提交的概览等
+
+27、[git-quick-stats](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/arzzen/git-quick-stats)：项目的 git 提交记录展示和统计的工具。支持：不同时间维度和用户名的统计、近期提交的概览等
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/git-quick-stats.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[github-cards](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lepture/github-cards)：非官方的 GitHub 卡片
+28、[github-cards](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lepture/github-cards)：非官方的 GitHub 卡片
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/github-cards.png' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[zh.javascript.info](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/javascript-tutorial/zh.javascript.info)：《现代 JavaScript 教程》是以最新的 JavaScript 标准为基准的教程。通过简单但详细的内容，讲解从基础到高阶的 JavaScript 相关知识，能够帮助初中级前端提升 JavaScript 等前端技术水平。[在线阅读](https://zh.javascript.info/)
+29、[infer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facebook/infer)：Facebook 开源的一个支持 Objective-C、Java 和 C 语言的静态分析工具，用它可以检测 Android、iOS 代码中的资源泄漏、内存泄漏、空指针等问题。建议集成到客户端发布的流程环节中，它能够将客户端应用的一些严重 Bug 扼杀在发布应用之前，同时减少应用崩溃和性能低下的情况
 
-29、[TeachYourselfCS-CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/izackwu/TeachYourselfCS-CN)：《TeachYourselfCS》自学计算科学的一份书单（中文翻译版）
 
-30、[funNLP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fighting41love/funNLP)：中文词库的集合。可用于：敏感词、语言检测、拆字词典等
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/infer.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[CoolplaySpark](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lw-lin/CoolplaySpark)：Spark 源代码分析、类库解读等
+30、[TeachYourselfCS-CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/izackwu/TeachYourselfCS-CN)：《TeachYourselfCS》自学计算科学的一份书单（中文翻译版）
+
+
+31、[zh.javascript.info](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/javascript-tutorial/zh.javascript.info)：《现代 JavaScript 教程》是以最新的 JavaScript 标准为基准的教程。通过简单但详细的内容，讲解从基础到高阶的 JavaScript 相关知识，能够帮助初中级前端提升 JavaScript 等前端技术水平。[在线阅读](https://zh.javascript.info/)
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-32、[openpilot](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/commaai/openpilot)：comma.ai 开源的自动驾驶系统
+32、[ML-NLP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NLP-LOVE/ML-NLP)：该项目总结了机器学习、NLP 面试中常考到的知识点和代码实现
 
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/openpilot.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 33、[MNN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/MNN)：一个轻量级的深度神经网络推理引擎，在端侧加载深度神经网络模型进行推理预测。架构设计如下：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/MNN.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[ML-NLP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NLP-LOVE/ML-NLP)：该项目总结了机器学习、NLP 面试中常考到的知识点和代码实现
+34、[openpilot](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/commaai/openpilot)：comma.ai 开源的自动驾驶系统
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/openpilot.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

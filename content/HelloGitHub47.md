@@ -32,19 +32,22 @@
 > **以下为本期内容**｜每个月 **28** 号更新
 
 ### C++ 项目
-1、[modern-cpp-features](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AnthonyCalandra/modern-cpp-features)：该项目介绍了现代 C++（C++11 以及之后的版本）语言和库的新特性。它能够帮助大家更快地入手新时代的 C++
+1、[CPlusPlusThings](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Light-City/CPlusPlusThings)：这是一个适合 C++ 初学者从入门到进阶的教程。解决了面试者想要深入 C++ 及如何入坑 C++ 的问题。除此之外，该仓库拓展了更加深入的语法分析、多线程并发等的知识，是一个比较全面的 C++ 从入门学习到进阶提升的项目
 
-2、[CPlusPlusThings](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Light-City/CPlusPlusThings)：这是一个适合 C++ 初学者从入门到进阶的教程。解决了面试者想要深入 C++ 及如何入坑 C++ 的问题。除此之外，该仓库拓展了更加深入的语法分析、多线程并发等的知识，是一个比较全面的 C++ 从入门学习到进阶提升的项目
+
+2、[modern-cpp-features](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AnthonyCalandra/modern-cpp-features)：该项目介绍了现代 C++（C++11 以及之后的版本）语言和库的新特性。它能够帮助大家更快地入手新时代的 C++
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-3、[cli](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cli/cli)：GitHub 官方基于 Go 语言开发的命令行 GitHub 工具。用它可以在终端中执行 GitHub 的常用的管理 Issue、切分支、Clone 等操作
+3、[7days-golang](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/geektutu/7days-golang)：用 Go 在 7 天时间内实现 Web 框架、分布式缓存等应用的实战教程
+
+
+4、[cli](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cli/cli)：GitHub 官方基于 Go 语言开发的命令行 GitHub 工具。用它可以在终端中执行 GitHub 的常用的管理 Issue、切分支、Clone 等操作
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/cli.png' style="max-width:80%; max-height=80%;"></img></p>
-
-4、[7days-golang](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/geektutu/7days-golang)：用 Go 在 7 天时间内实现 Web 框架、分布式缓存等应用的实战教程
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -76,15 +79,21 @@ mvn clean package -Pnative
 ./target/amqp-quickstart-1.0-SNAPSHOT-runner
 ```
 
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-7、[showdoc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/star7th/showdoc)：一款基于 JavaScript 实现的开源在线文档工具。支持：多端编辑查看、权限管理、文档导出、Markdown 语法等，功能虽不多但已足够用了。推荐自建自用、小团队内部使用
+7、[breathe-relaxer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zerosoul/breathe-relaxer)：一个在线放松网站的项目。带上耳机，[点开网站](https://works.yangerxiao.com/breathe-relaxer/)然后深呼吸
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/showdoc.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/breathe-relaxer.png' style="max-width:80%; max-height=80%;"></img></p>
 
-8、[qier-progress](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vortesnail/qier-progress)：这是一个用于缓解用户焦虑，给予用户请求回馈的顶部进度条。该项目使用 ts 重构了万星 star 的 nprogress 项目，打包体积更小、且支持了多彩模式、自定义高度和颜色等，最重要的是有良好的类型注解。该项目结构简单、代码量也比较少，非常利于学习 ts 相关用法和作为实战项目。示例代码：
+8、[image-compress-without-backend](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zerosoul/image-compress-without-backend)：一个纯前端在线图片压缩小工具。即无需上传照片到服务器，一切都在浏览器端完成，快速而高效。非常适用于图片压缩后质量要求不是很高的场景，比如：移动端图片展示等
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/image-compress-without-backend.png' style="max-width:80%; max-height=80%;"></img></p>
+
+9、[qier-progress](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vortesnail/qier-progress)：这是一个用于缓解用户焦虑，给予用户请求回馈的顶部进度条。该项目使用 ts 重构了万星 star 的 nprogress 项目，打包体积更小、且支持了多彩模式、自定义高度和颜色等，最重要的是有良好的类型注解。该项目结构简单、代码量也比较少，非常利于学习 ts 相关用法和作为实战项目。示例代码：
 ```javascript
 const qprogress = new QProgress()
 qprogress.start()
@@ -94,15 +103,10 @@ qprogress.finish()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/qier-progress.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[image-compress-without-backend](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zerosoul/image-compress-without-backend)：一个纯前端在线图片压缩小工具。即无需上传照片到服务器，一切都在浏览器端完成，快速而高效。非常适用于图片压缩后质量要求不是很高的场景，比如：移动端图片展示等
+10、[showdoc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/star7th/showdoc)：一款基于 JavaScript 实现的开源在线文档工具。支持：多端编辑查看、权限管理、文档导出、Markdown 语法等，功能虽不多但已足够用了。推荐自建自用、小团队内部使用
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/image-compress-without-backend.png' style="max-width:80%; max-height=80%;"></img></p>
-
-10、[breathe-relaxer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zerosoul/breathe-relaxer)：一个在线放松网站的项目。带上耳机，[点开网站](https://works.yangerxiao.com/breathe-relaxer/)然后深呼吸
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/breathe-relaxer.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/showdoc.png' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[wx-promise-pro](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/youngjuning/wx-promise-pro)：支持 finnaly、typescript 的微信小程序异步解决方案。特性：
 - 方便集成：一处引用，处处使用
@@ -118,6 +122,7 @@ promisifyAll()
 promisify(wx.getSystemInfo)().then(console.log)
 ```
 
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Objective-C 项目
@@ -131,25 +136,16 @@ promisify(wx.getSystemInfo)().then(console.log)
 ### PHP 项目
 13、[clean-code-php](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jupeter/clean-code-php)：PHP 代码的整洁之道，整理了一系列整洁代码实操。小到变量细道 SOLID 都有涉猎，[中文译版](https://github.com/php-cpm/clean-code-php)
 
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-14、[wttr.in](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chubin/wttr.in)：一个 Python 实现的命令行查看天气工具
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/wttr.png' style="max-width:80%; max-height=80%;"></img></p>
-
-15、[activitywatch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ActivityWatch/activitywatch)：一个记录你的时间都花在那的 Python 项目。支持 Web 可视化，效果如下
+14、[activitywatch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ActivityWatch/activitywatch)：一个记录你的时间都花在那的 Python 项目。支持 Web 可视化，效果如下
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/activitywatch.png' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[repoll](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NaNShaner/repoll)：基于 Django 开发的 redis 集群管理、监控工具。功能包括：标准化申请流程、管理配置、监控接口等，减轻了运维人员的痛苦
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/repoll.png' style="max-width:80%; max-height=80%;"></img></p>
-
-17、[akshare](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/akfamily/akshare)：一款基于 Python 的开源金融数据接口库。提供了股票、期货、期权、基金、数字货币等金融产品的基本数据、实时和历史行情数据、衍生数据，包含数据采集、数据清洗、到数据落地的一套开源工具。满足了金融数据科学家、数据科学爱好者在金融数据获取方面的需求。示例代码：
+15、[akshare](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/akfamily/akshare)：一款基于 Python 的开源金融数据接口库。提供了股票、期货、期权、基金、数字货币等金融产品的基本数据、实时和历史行情数据、衍生数据，包含数据采集、数据清洗、到数据落地的一套开源工具。满足了金融数据科学家、数据科学爱好者在金融数据获取方面的需求。示例代码：
 ```python
 import akshare as ak
 bond_df = ak.bond_spot_deal()
@@ -163,6 +159,17 @@ print(bond_df)
 4        15附息国债05  102.95   3.0359   -1.41   3.0359   None
 ```
 
+
+16、[repoll](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NaNShaner/repoll)：基于 Django 开发的 redis 集群管理、监控工具。功能包括：标准化申请流程、管理配置、监控接口等，减轻了运维人员的痛苦
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/repoll.png' style="max-width:80%; max-height=80%;"></img></p>
+
+17、[wttr.in](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chubin/wttr.in)：一个 Python 实现的命令行查看天气工具
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/wttr.png' style="max-width:80%; max-height=80%;"></img></p>
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
@@ -174,25 +181,30 @@ print(bond_df)
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-19、[my-mac-os](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nikitavoloboev/my-mac-os)：该项目罗列了作者自用、收集的 macOS 上实用、炫酷的软件。我从中找到好几个炫酷、实用提高工作的工具，你也赶快来挑挑吧
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/my-mac-os.png' style="max-width:80%; max-height=80%;"></img></p>
-
-20、[apisix](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/apisix)：一个云原生、高性能、可扩展的微服务 API 网关。它是基于 Nginx 和 etcd 来实现，和传统 API 网关相比，APISIX 具备动态路由和插件热加载，适合微服务体系下的 API 管理
+19、[apisix](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/apisix)：一个云原生、高性能、可扩展的微服务 API 网关。它是基于 Nginx 和 etcd 来实现，和传统 API 网关相比，APISIX 具备动态路由和插件热加载，适合微服务体系下的 API 管理
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/incubator-apisix.png' style="max-width:80%; max-height=80%;"></img></p>
 
-21、[devops-exercises](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bregman-arie/devops-exercises)：这个仓库包含了 DevOps（开发运维）常见、流行服务相关的面试问题和回答，推荐给从事运维的同学
+20、[app-ideas](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/florinpop17/app-ideas)：该收集了各类应用的想法，并按照易学程度把应用进行划分。你可以通过这个项目提高编程技术、学习新技术
 
-22、[book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rust-lang/book)：《Rust 编程语言》这是官方出品的关于 Rust 的入门书籍
 
-23、[OnlineToolsBook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhaoolee/OnlineToolsBook)：该项目收集了一些有趣、实用的在线工具网站，点开即用
+21、[book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rust-lang/book)：《Rust 编程语言》这是官方出品的关于 Rust 的入门书籍
 
-24、[structured-text-tools](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dbohdan/structured-text-tools)：用于处理结构化文本数据（日志、JSON、YAML 等）的命令行工具列表
 
-25、[app-ideas](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/florinpop17/app-ideas)：该收集了各类应用的想法，并按照易学程度把应用进行划分。你可以通过这个项目提高编程技术、学习新技术
+22、[devops-exercises](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bregman-arie/devops-exercises)：这个仓库包含了 DevOps（开发运维）常见、流行服务相关的面试问题和回答，推荐给从事运维的同学
+
+
+23、[my-mac-os](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nikitavoloboev/my-mac-os)：该项目罗列了作者自用、收集的 macOS 上实用、炫酷的软件。我从中找到好几个炫酷、实用提高工作的工具，你也赶快来挑挑吧
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/my-mac-os.png' style="max-width:80%; max-height=80%;"></img></p>
+
+24、[OnlineToolsBook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhaoolee/OnlineToolsBook)：该项目收集了一些有趣、实用的在线工具网站，点开即用
+
+
+25、[structured-text-tools](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dbohdan/structured-text-tools)：用于处理结构化文本数据（日志、JSON、YAML 等）的命令行工具列表
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -207,7 +219,9 @@ print(bond_df)
 ### 机器学习
 27、[google-research](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google-research/google-research)：非官方整理的 Google AI Research 集合项目
 
+
 28、[Retinanet-Pytorch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yatengLG/Retinanet-Pytorch)：一个以 Pytorch 深度学习库实现的 retinanet 目标检测模型。项目拥有清晰的结构、完善的注释以及详细的使用说明。适用于有些许深度学习基础的初学者进行学习或在实际的目标检测项目中使用
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

@@ -46,17 +46,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
-2、[UNO](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Gusabary/UNO)：使用 C++ 编写的命令行 UNO 纸牌游戏。操作方便支持人机或联机对战，游戏基于 Asio 网络库和现代 C++ 开发，也有对 C++17 的尝试。分别实现了服务端、客户端，代码简单对 C++ 新手友好，UNO 的爱好者快来玩一玩吧！
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/UNO.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-3、[godot](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/godotengine/godot)：一款功能丰富的开源游戏引擎。最初它只是一款 2D 引擎，近期拓展了 3D 部分的能力。相较于 UE4 或者 Unity 这样的成熟商业引擎来说，Godot 还很年轻不够成熟，尤其 3D 方面的能力。但它拥有简易的开发方式，上手简单。而且社区活跃、文档覆盖全面、有较为丰富的示例代码，对于刚入门的游戏开发者友好。同时开源引擎底层代码完全开源，开发者可以阅读和贡献代码，而不是只停留在游戏逻辑开发层面。总而言之 Godot 是一个极有潜力的游戏引擎，推荐给想学习游戏开发的同学
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/godot.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-4、[fast-cpp-csv-parser](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ben-strasser/fast-cpp-csv-parser)：读取 CSV 文件的 C++ 库（仅头文件）。示例代码：
+2、[fast-cpp-csv-parser](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ben-strasser/fast-cpp-csv-parser)：读取 CSV 文件的 C++ 库（仅头文件）。示例代码：
 ```c++
 # include "csv.h"
 
@@ -69,6 +59,17 @@ int main(){
   }
 }
 ```
+
+
+3、[godot](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/godotengine/godot)：一款功能丰富的开源游戏引擎。最初它只是一款 2D 引擎，近期拓展了 3D 部分的能力。相较于 UE4 或者 Unity 这样的成熟商业引擎来说，Godot 还很年轻不够成熟，尤其 3D 方面的能力。但它拥有简易的开发方式，上手简单。而且社区活跃、文档覆盖全面、有较为丰富的示例代码，对于刚入门的游戏开发者友好。同时开源引擎底层代码完全开源，开发者可以阅读和贡献代码，而不是只停留在游戏逻辑开发层面。总而言之 Godot 是一个极有潜力的游戏引擎，推荐给想学习游戏开发的同学
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/godot.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+4、[UNO](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Gusabary/UNO)：使用 C++ 编写的命令行 UNO 纸牌游戏。操作方便支持人机或联机对战，游戏基于 Asio 网络库和现代 C++ 开发，也有对 C++17 的尝试。分别实现了服务端、客户端，代码简单对 C++ 新手友好，UNO 的爱好者快来玩一玩吧！
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/UNO.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -99,6 +100,7 @@ cd $GOPATH/src/github.com/sjwhitworth/golearn/examples/knnclassifier
 go run knnclassifier_iris.go
 ```
 
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
@@ -125,17 +127,7 @@ go run knnclassifier_iris.go
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-11、[x-spreadsheet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/myliang/x-spreadsheet)：基于 JavaScript 实现的轻量级 Web 电子表格库。它功能齐全，包含表格的基本操作和函数等，还有详细的中文文档，[在线尝试](https://myliang.github.io/x-spreadsheet/)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/x-spreadsheet.png' style="max-width:80%; max-height=80%;"></img></p>
-
-12、[h5-Dooring](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MrXujiang/h5-Dooring)：一款功能齐全的 H5 页面可视化配置平台。让你通过可视化的方式制作出 H5 页面，技术栈以 React 为主，后台采用 Node.js 实现。虽然网上有很多这种工具，但本项目免费开源、功能齐全值得一试
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/h5-Dooring.png' style="max-width:80%; max-height=80%;"></img></p>
-
-13、[Ant-Forest](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SuperMonster003/Ant-Forest)：基于 Auto.js 的蚂蚁森林能量自动收获脚本。它是个“绿色环保”的项目，我能从中感受到满满的爱和想把它做好的决心！来看看作者开发 Ant-Forest 时解决了哪些难题：
+11、[Ant-Forest](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SuperMonster003/Ant-Forest)：基于 Auto.js 的蚂蚁森林能量自动收获脚本。它是个“绿色环保”的项目，我能从中感受到满满的爱和想把它做好的决心！来看看作者开发 Ant-Forest 时解决了哪些难题：
 1. 能量球识别无法使用控件信息（使用基于霍夫变换的图像识别）
 2. 脚本执行逻辑易被打断（使用事件监听及扩展模块增强鲁棒性）
 3. 每次只能运行一次（完善的复查及定时循环功能）
@@ -144,15 +136,25 @@ go run knnclassifier_iris.go
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/Ant-Forest.png' style="max-width:80%; max-height=80%;"></img></p>
 
-14、[tui.image-editor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nhn/tui.image-editor)：功能齐全的图片编辑器。支持图片剪裁、旋转、涂鸦等功能，实现了 Vue 和 React 封装的组件，便于整合进你的项目
+12、[h5-Dooring](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MrXujiang/h5-Dooring)：一款功能齐全的 H5 页面可视化配置平台。让你通过可视化的方式制作出 H5 页面，技术栈以 React 为主，后台采用 Node.js 实现。虽然网上有很多这种工具，但本项目免费开源、功能齐全值得一试
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/h5-Dooring.png' style="max-width:80%; max-height=80%;"></img></p>
+
+13、[tui.image-editor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nhn/tui.image-editor)：功能齐全的图片编辑器。支持图片剪裁、旋转、涂鸦等功能，实现了 Vue 和 React 封装的组件，便于整合进你的项目
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/image-editor.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-15、[windows95](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/felixrieseberg/windows95)：基于 Electron 实现的 Windows 95 操作系统。它实现了该操作系统下的所有东西，对！所有！想体验下 Windows 95 版的扫雷吗？下载安装即可
+14、[windows95](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/felixrieseberg/windows95)：基于 Electron 实现的 Windows 95 操作系统。它实现了该操作系统下的所有东西，对！所有！想体验下 Windows 95 版的扫雷吗？下载安装即可
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/windows95.png' style="max-width:80%; max-height=80%;"></img></p>
+
+15、[x-spreadsheet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/myliang/x-spreadsheet)：基于 JavaScript 实现的轻量级 Web 电子表格库。它功能齐全，包含表格的基本操作和函数等，还有详细的中文文档，[在线尝试](https://myliang.github.io/x-spreadsheet/)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/x-spreadsheet.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -175,23 +177,24 @@ go run knnclassifier_iris.go
 - 集成至 bash/zsh 等，易于切换版本
 - 易于安装、启用 PHP 扩展
 
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-19、[python-patterns](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/faif/python-patterns)：Python 设计模式和使用场景的集合
+19、[15-minute-apps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pythonguis/15-minute-apps)：基于 PyQt 框架写的小型桌面应用程序的集合。想用 Python 写桌面应用的小伙伴，这个项目应该可以帮到你。比如写个扫雷游戏：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/python-patterns.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/15-minute-apps.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 20、[pgcli](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dbcli/pgcli)：支持语法高亮和自动补全的 Postgres 数据库客户端命令行工具。它安装简单上手快速，如果你用过 Postgres 数据库自带的命令行工具，就一定能感受到 pgcli 的迷人之处
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/pgcli.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-21、[15-minute-apps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pythonguis/15-minute-apps)：基于 PyQt 框架写的小型桌面应用程序的集合。想用 Python 写桌面应用的小伙伴，这个项目应该可以帮到你。比如写个扫雷游戏：
+21、[python-patterns](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/faif/python-patterns)：Python 设计模式和使用场景的集合
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/15-minute-apps.jpg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/python-patterns.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -202,6 +205,7 @@ go run knnclassifier_iris.go
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/bat.png' style="max-width:80%; max-height=80%;"></img></p>
 
 23、[jpeg_tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MROS/jpeg_tutorial)：教你编写 JPEG 解码器的教程，示例为 Rust 代码
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -233,22 +237,17 @@ $ publish new
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-26、[open-source-rover](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nasa-jpl/open-source-rover)：NASA 面向科技爱好者开源的火星漫游车设计方案和代码。通过该项目你可以使用便宜的树莓派做出自己的火星漫游车，所需的零件很容易就可以买到，遥控部分是使用现成的 Xbox 手柄或者手机，减少花销。喜欢动手和硬件的小伙伴们，这个东西够酷吗？
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/open-source-rover.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-27、[Web-Dev-For-Beginners](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/Web-Dev-For-Beginners)：微软开源的 Web 开发教程。该教程共有 24 节课，但目前只有英文版
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/Web-Dev-For-Beginners.png' style="max-width:80%; max-height=80%;"></img></p>
-
-28、[neofetch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dylanaraps/neofetch)：展示操作系统信息的命令行工具，支持将近 150 种操作系统
+26、[neofetch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dylanaraps/neofetch)：展示操作系统信息的命令行工具，支持将近 150 种操作系统
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/neofetch.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[sql-style-guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mattm/sql-style-guide)：一份 SQL 语句编写风格建议。比如：
+27、[open-source-rover](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nasa-jpl/open-source-rover)：NASA 面向科技爱好者开源的火星漫游车设计方案和代码。通过该项目你可以使用便宜的树莓派做出自己的火星漫游车，所需的零件很容易就可以买到，遥控部分是使用现成的 Xbox 手柄或者手机，减少花销。喜欢动手和硬件的小伙伴们，这个东西够酷吗？
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/open-source-rover.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+28、[sql-style-guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mattm/sql-style-guide)：一份 SQL 语句编写风格建议。比如：
 ```
 -- Good
 select *
@@ -260,6 +259,12 @@ select *
 from users
 where email = "example@domain.com"
 ```
+
+
+29、[Web-Dev-For-Beginners](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/Web-Dev-For-Beginners)：微软开源的 Web 开发教程。该教程共有 24 节课，但目前只有英文版
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/Web-Dev-For-Beginners.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
