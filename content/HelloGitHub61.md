@@ -269,7 +269,7 @@ fselect hsize, abspath from ./tmp where size lt 8k
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/img/LIII.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[shapez.io](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tobspr/shapez.io)：一款 Steam 上的模拟建造游戏《异形工厂》的源码。游戏是在无边的地图上开采资源、放置设施、组合图形、相互搭配，扩建自己的异形工厂。游戏轻松但也很有挑战性，快去试一试吧
+30、[shapez.io](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tobspr-games/shapez.io)：一款 Steam 上的模拟建造游戏《异形工厂》的源码。游戏是在无边的地图上开采资源、放置设施、组合图形、相互搭配，扩建自己的异形工厂。游戏轻松但也很有挑战性，快去试一试吧
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/img/shapez_io.png' style="max-width:80%; max-height=80%;"></img></p>

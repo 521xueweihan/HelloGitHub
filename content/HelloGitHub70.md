@@ -313,7 +313,7 @@ end
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/img/iGlance.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[SwiftPamphletApp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/KwaiAppTeam/SwiftPamphletApp)：一款免费开源的 Swift 手册工具。能够帮助开发者方便地查看 Swift 语法和常用库的使用指南，除此之外还可以接收 Swift 开源库的动态
+32、[SwiftPamphletApp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ming1016/SwiftPamphletApp)：一款免费开源的 Swift 手册工具。能够帮助开发者方便地查看 Swift 语法和常用库的使用指南，除此之外还可以接收 Swift 开源库的动态
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/img/SwiftPamphletApp.png' style="max-width:80%; max-height=80%;"></img></p>
