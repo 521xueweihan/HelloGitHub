@@ -39,12 +39,17 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-2、[redis-tui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mylxsw/redis-tui)：炫酷的 redis 命令行图形界面工具
+2、[CovenantSQL](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CovenantSQL/CovenantSQL)：具有区块链特性的去中心化 SQL 关系型数据库。可以提供 DBaaS 服务，去中心化存储保证用户隐私。[中文文档](https://developers.covenantsql.io/docs/zh-CN/intro)，MacOS 系统可以通过 `brew install cql` 直接安装
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/redis-tui.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/CovenantSQL.png' style="max-width:80%; max-height=80%;"></img></p>
 
-3、[gameboy.live](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HFO4/gameboy.live)：Gameboy 模拟器，还可以通过 socket 远程玩
+3、[diving](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vicanso/diving)：基于 [dive](https://github.com/wagoodman/dive) 分析 docker 镜像，界面化展示了镜像每层的变动（增加、修改、删除等）、用户层数据大小等信息。便捷获取镜像信息和每层镜像内容的文件树，可以方便地浏览镜像信息。对于需要优化镜像体积时非常方便
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/diving.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+4、[gameboy.live](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HFO4/gameboy.live)：Gameboy 模拟器，还可以通过 socket 远程玩
 ```
 # 下载
 git clone https://github.com/HFO4/gameboy.live.git
@@ -73,21 +78,10 @@ Usage of gbdotlive:
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/gameboy.png' style="max-width:80%; max-height=80%;"></img></p>
 
-4、[CovenantSQL](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CovenantSQL/CovenantSQL)：具有区块链特性的去中心化 SQL 关系型数据库。可以提供 DBaaS 服务，去中心化存储保证用户隐私。[中文文档](https://developers.covenantsql.io/docs/zh-CN/intro)，MacOS 系统可以通过 `brew install cql` 直接安装
+5、[golang-developer-roadmap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Alikhll/golang-developer-roadmap)：成为 Go 开发者的学习路线图，[中文版](https://github.com/Alikhll/golang-developer-roadmap/blob/master/i18n/ReadMe-zh-CN.md)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/CovenantSQL.png' style="max-width:80%; max-height=80%;"></img></p>
-
-5、[diving](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vicanso/diving)：基于 [dive](https://github.com/wagoodman/dive) 分析 docker 镜像，界面化展示了镜像每层的变动（增加、修改、删除等）、用户层数据大小等信息。便捷获取镜像信息和每层镜像内容的文件树，可以方便地浏览镜像信息。对于需要优化镜像体积时非常方便
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/diving.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-6、[golang-developer-roadmap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Alikhll/golang-developer-roadmap)：成为 Go 开发者的学习路线图，[中文版](https://github.com/Alikhll/golang-developer-roadmap/blob/master/i18n/ReadMe-zh-CN.md)
-
-7、[scheduler](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/prprprus/scheduler)：Go 语言实现的作业调度工具包。适用于需要任务调度的场景，能够让初学者学到 time、reflect 等标准库的用法，[中文文档](https://github.com/prprprus/scheduler/blob/master/README-zh.md)
-
-8、[nic](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/EddieIvan01/nic)：一个易用的 HTTP Request 包。它封装了 Go 的 HTTP 标准库，提供了简洁优雅的 API。可以更轻松的发送HTTP 请求，解决了 Go 标准库自定义 HTTP 请求，操作 headers、cookies 时繁琐的步骤。类似于 Python 的 Requests 和 urllib 的区别。示例代码：
+6、[nic](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/EddieIvan01/nic)：一个易用的 HTTP Request 包。它封装了 Go 的 HTTP 标准库，提供了简洁优雅的 API。可以更轻松的发送HTTP 请求，解决了 Go 标准库自定义 HTTP 请求，操作 headers、cookies 时繁琐的步骤。类似于 Python 的 Requests 和 urllib 的区别。示例代码：
 ```go
 resp, err := nic.Get("http://example.com", nil)
 if err != nil {
@@ -96,10 +90,31 @@ if err != nil {
 fmt.Println(resp.Text)
 ```
 
+
+7、[redis-tui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mylxsw/redis-tui)：炫酷的 redis 命令行图形界面工具
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/redis-tui.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+8、[scheduler](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/prprprus/scheduler)：Go 语言实现的作业调度工具包。适用于需要任务调度的场景，能够让初学者学到 time、reflect 等标准库的用法，[中文文档](https://github.com/prprprus/scheduler/blob/master/README-zh.md)
+
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-9、[Gloading](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/luckybilly/Gloading)：深度解耦的 Android 加载组件，特点：
+9、[Android-BLE](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aicareles/Android-BLE)：Android 蓝牙框架，包括扫描、连接、设置通知、发送数据、读取、接收数据和 OTA 升级等。近乎一行代码植入项目，可扩展、配置蓝牙相关操作，适用于 Android-BLE4.0 蓝牙。即便是 BLE 方面的小白也可以在短短几分钟内接入并运用到项目中
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/Android-BLE.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+10、[generator-jhipster](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jhipster/generator-jhipster)：用于在几秒钟内创建 Spring Boot + Angular/React 项目的开源应用程序生成器（脚手架）。它可以自动化生成一个完整 Web 应用或微服务架构，加快项目的开发效率。特点和技术栈：
+- 基于 Spring Boot 框架的服务端，具备高性能和高可用的 Java 技术栈
+- 基于 Angular、React、Bootstrap 的时尚、现代、移动优先的前端
+- 基于 JHipster Registry、Netflix OSS、ELK 堆栈和 Docker 的强大的微服务架构
+- 使用 Yeoman、Webpack 和 Maven/Gradle 构建应用程序的强大工作流程
+
+
+11、[Gloading](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/luckybilly/Gloading)：深度解耦的 Android 加载组件，特点：
 - 深度解耦 App 中全局加载中、加载失败及空数据视图
 - 分离全局加载状态视图的实现和使用
 - 不需要在每个页面的布局文件中额外添加加载状态视图
@@ -126,18 +141,8 @@ holder.showEmpty()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/Gloading.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-10、[Android-BLE](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aicareles/Android-BLE)：Android 蓝牙框架，包括扫描、连接、设置通知、发送数据、读取、接收数据和 OTA 升级等。近乎一行代码植入项目，可扩展、配置蓝牙相关操作，适用于 Android-BLE4.0 蓝牙。即便是 BLE 方面的小白也可以在短短几分钟内接入并运用到项目中
+12、[rhizobia_J](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/momosecurity/rhizobia_J)：陌陌开源的 Java 安全编码规范和 SDK
 
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/Android-BLE.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-11、[rhizobia_J](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/momosecurity/rhizobia_J)：陌陌开源的 Java 安全编码规范和 SDK
-
-12、[generator-jhipster](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jhipster/generator-jhipster)：用于在几秒钟内创建 Spring Boot + Angular/React 项目的开源应用程序生成器（脚手架）。它可以自动化生成一个完整 Web 应用或微服务架构，加快项目的开发效率。特点和技术栈：
-- 基于 Spring Boot 框架的服务端，具备高性能和高可用的 Java 技术栈
-- 基于 Angular、React、Bootstrap 的时尚、现代、移动优先的前端
-- 基于 JHipster Registry、Netflix OSS、ELK 堆栈和 Docker 的强大的微服务架构
-- 使用 Yeoman、Webpack 和 Maven/Gradle 构建应用程序的强大工作流程
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -149,17 +154,20 @@ holder.showEmpty()
 
 14、[practice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mintsweet/practice)：使用当下流行的多种不同前端技术栈，实现不同项目的详细教程，教你如何快速上手这些技术。虽然项目名称叫做 `Practice` 但是内容为当前前端最火的框架实践，而且符合生产环境下的开发流程规范，推荐学习
 
+
 15、[ts-utility-plugins](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ddzy/ts-utility-plugins)：使用原生 TS 构建特效、插件、业务的实践教程项目。脱离各种框架实现原生的特效以及插件
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
-16、[wizard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mylxsw/wizard)：一款基于 Laravel 开发框架的开源文档管理系统。目前已经在多家公司部署使用，支持：Markdown、Swagger 文档管理，公司内部的统一身份认证系统（LDAP）等功能
+16、[PHP-Interview-QA](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/colinlet/PHP-Interview-QA)：《PHP 面试问答》结合实际 PHP 面试经验，系统地汇总面试中的各类的问题，并尝试提供简洁准确的答案，为你面试 PHP 相关岗位提供“秘籍”。包含：网络协议、数据结构与算法、PHP基础、Web、MySQL、Redis、自我介绍、离职原因、职业规划等部分
+
+
+17、[wizard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mylxsw/wizard)：一款基于 Laravel 开发框架的开源文档管理系统。目前已经在多家公司部署使用，支持：Markdown、Swagger 文档管理，公司内部的统一身份认证系统（LDAP）等功能
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/wizard.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
-17、[PHP-Interview-QA](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/colinlet/PHP-Interview-QA)：《PHP 面试问答》结合实际 PHP 面试经验，系统地汇总面试中的各类的问题，并尝试提供简洁准确的答案，为你面试 PHP 相关岗位提供“秘籍”。包含：网络协议、数据结构与算法、PHP基础、Web、MySQL、Redis、自我介绍、离职原因、职业规划等部分
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -198,9 +206,12 @@ Modified var:.. number = 3
 ....
 ```
 
+
 20、[Python-100-Days](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jackfrued/Python-100-Days)：《Python 100 天从新手到大师》—— Python 的入门学习资料，学习曲线低。非专业人士也能上手学习，适合新手入门
 
+
 21、[Zvm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/5A59/Zvm)：一款用 Python 实现的简易 JVM。实现功能如下：class 文件解析、类加载、运行时数据区、指令解释器、基本指令集、简易 GC、简易线程、简易 JDK 库，可以运行基本的 Java class 文件。代码量少，模块清晰，适合用来学习 JVM 的基本结构和实现
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -231,35 +242,35 @@ Modified var:.. number = 3
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/3d-game-shaders-for-beginners.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-26、[hacker-laws](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dwmkerr/hacker-laws)：程序员工作中可能使用到的定律、原则的讲解，这些原则多应用于我们的开发和设计中，开卷有益
+26、[algo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wangzheng0822/algo)：必知必会的数据结构和算法代码答案（多种编程语言）
+
+
+27、[commit-messages-guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RomuloOliveira/commit-messages-guide)：Git 提交描述（commit）的编写指南，[中文](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README_zh-CN.md)
+
+
+28、[hacker-laws](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dwmkerr/hacker-laws)：程序员工作中可能使用到的定律、原则的讲解，这些原则多应用于我们的开发和设计中，开卷有益
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/hacker-laws.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[commit-messages-guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RomuloOliveira/commit-messages-guide)：Git 提交描述（commit）的编写指南，[中文](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README_zh-CN.md)
-
-28、[weekly](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aliyunfe/weekly)：《阿里云前端技术周刊》
-
-29、[vscode-extension-samples](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/vscode-extension-samples)：官方 VS Code 开发扩展插件的代码实例集合
-
-30、[algo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wangzheng0822/algo)：必知必会的数据结构和算法代码答案（多种编程语言）
-
-31、[vim-bootstrap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/editor-bootstrap/vim-bootstrap)：一个简单、易用的 `.vimrc` 配置文件生成工具，也可通过[网站](https://vim-bootstrap.com/)点选生成。支持 Vim、NeoVim、NeoVim-Qt、MacVim 和 GVim。特点：
+29、[vim-bootstrap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/editor-bootstrap/vim-bootstrap)：一个简单、易用的 `.vimrc` 配置文件生成工具，也可通过[网站](https://vim-bootstrap.com/)点选生成。支持 Vim、NeoVim、NeoVim-Qt、MacVim 和 GVim。特点：
 - 轻量：包含少且必要的插件
 - 易用：适合在vim中成功存活的入门者
 - 易于定制：只需选择使用的语言,即可获得对应配置
 - 先进的插件管理器：使用 Vim-Plug 管理插件，简单易用、速度快
 - 支持多种编程语言
 
+
+30、[vscode-extension-samples](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/vscode-extension-samples)：官方 VS Code 开发扩展插件的代码实例集合
+
+
+31、[weekly](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aliyunfe/weekly)：《阿里云前端技术周刊》
+
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-32、[maskrcnn-benchmark](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facebookresearch/maskrcnn-benchmark)：Facebook 开源的 PyTorch 版本的 Mask-RCNN。研究人员可以按照教程、示例代码逐步进行实现
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/maskrcnn-benchmark.png' style="max-width:80%; max-height=80%;"></img></p>
-
-33、[BentoML](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bentoml/BentoML)：一个机器学习工具用来打包和发布模型。帮助数据科学家用不到 5 分钟把在 ipython notebook 里的模型发布到生产环境
+32、[BentoML](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bentoml/BentoML)：一个机器学习工具用来打包和发布模型。帮助数据科学家用不到 5 分钟把在 ipython notebook 里的模型发布到生产环境
 ```python
 %%writefile iris_classifier.py
 from bentoml import BentoService, api, env, artifacts
@@ -279,11 +290,20 @@ class IrisClassifier(BentoService):
         return self.artifacts.model.predict(df)
 ```
 
-34、[stanford-cs-229-machine-learning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/afshinea/stanford-cs-229-machine-learning)：斯坦福 CS229 教程讲义文档，该文档内容细致、条理清晰，方便入门者作为读书笔记学习。[中文版](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/zh)
+
+33、[lihang-code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fengdu78/lihang-code)：机器学习领域经典书籍《统计学习方法》的课件和代码。这个项目提供了课件、代码资源，叙述从具体问题或实例入手，由浅入深，阐明思路，给出必要的数学推导，便于读者掌握统计学习方法的实质，学会运用
+
+
+34、[maskrcnn-benchmark](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facebookresearch/maskrcnn-benchmark)：Facebook 开源的 PyTorch 版本的 Mask-RCNN。研究人员可以按照教程、示例代码逐步进行实现
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/maskrcnn-benchmark.png' style="max-width:80%; max-height=80%;"></img></p>
 
 35、[mlcourse.ai](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Yorko/mlcourse.ai)：一套机器学习课程。课程全面细致，同时带有 demo 以及进阶的 Kaggle 比赛的样例，非常适合初学者逐步的深入学习
 
-36、[lihang-code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fengdu78/lihang-code)：机器学习领域经典书籍《统计学习方法》的课件和代码。这个项目提供了课件、代码资源，叙述从具体问题或实例入手，由浅入深，阐明思路，给出必要的数学推导，便于读者掌握统计学习方法的实质，学会运用
+
+36、[stanford-cs-229-machine-learning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/afshinea/stanford-cs-229-machine-learning)：斯坦福 CS229 教程讲义文档，该文档内容细致、条理清晰，方便入门者作为读书笔记学习。[中文版](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/zh)
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

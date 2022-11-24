@@ -71,12 +71,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/grpcui.png' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[Yearning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cookieY/Yearning)：Go 写的高颜值、开源 SQL 审核平台
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/Yearning.png' style="max-width:80%; max-height=80%;"></img></p>
-
-8、[uptoc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/saltbo/uptoc)：一个基于 Go 的静态博客部署到云存储的工具。静态博客不论是部署在 GitHubPages 还是 Netlify 等平台都存在国内访问速度慢的问题，解决这个问题最好的办法就是部署在国内的云存储，如腾讯云 COS、阿里云 OSS、七牛云等。借助该工具可以快速上传到上述云存储平台，加快你的静态博客访问速度
+7、[uptoc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/saltbo/uptoc)：一个基于 Go 的静态博客部署到云存储的工具。静态博客不论是部署在 GitHubPages 还是 Netlify 等平台都存在国内访问速度慢的问题，解决这个问题最好的办法就是部署在国内的云存储，如腾讯云 COS、阿里云 OSS、七牛云等。借助该工具可以快速上传到上述云存储平台，加快你的静态博客访问速度
 ```bash
 # 安装
 curl -sSf http://uptoc.saltbo.cn/install.sh | sh
@@ -84,7 +79,8 @@ curl -sSf http://uptoc.saltbo.cn/install.sh | sh
 uptoc --driver oss --region cn-beijing --access_key xxx --access_secret xxx --bucket demo-bucket /opt/blog/public
 ```
 
-9、[xlsx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tealeg/xlsx)：读写 xlsx 文件的 Go 库。示例代码：
+
+8、[xlsx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tealeg/xlsx)：读写 xlsx 文件的 Go 库。示例代码：
 ```go
 //example type
 type structTest struct {
@@ -117,6 +113,12 @@ if err != nil {
 fmt.Println(readStruct)
 ```
 
+
+9、[Yearning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cookieY/Yearning)：Go 写的高颜值、开源 SQL 审核平台
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/Yearning.png' style="max-width:80%; max-height=80%;"></img></p>
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
@@ -142,7 +144,16 @@ jbake -s #运行项目
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/kkFileView.png' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[zfile](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zfile-dev/zfile)：免费开源的在线云盘项目。功能特性：
+12、[Schedulis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/WeBankFinTech/Schedulis)：一个基于 Azkaban 开发的工作流任务调度系统。该调度系统具备高性能、高可用（去中心化多调度中心和多执行器）和多租户资源隔离等。特性：
+- 常规的 Command Shell 和 Linkis（HadoopMR、Hive、Spark、Sqoop、Python）大数据任务
+- 特色的数据检查和工作流之间的依赖任务
+- 完善的告警和工作流执行策略
+- 提供多种类型的参数设置，动态全局变量和简单易用的 UI
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/Schedulis.png' style="max-width:80%; max-height=80%;"></img></p>
+
+13、[zfile](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zfile-dev/zfile)：免费开源的在线云盘项目。功能特性：
 - 文件夹密码
 - 支持在线浏览文本文件、视频、图片、音乐
 - 文件/目录二维码
@@ -152,44 +163,15 @@ jbake -s #运行项目
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/zfile.png' style="max-width:80%; max-height=80%;"></img></p>
 
-13、[Schedulis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/WeBankFinTech/Schedulis)：一个基于 Azkaban 开发的工作流任务调度系统。该调度系统具备高性能、高可用（去中心化多调度中心和多执行器）和多租户资源隔离等。特性：
-- 常规的 Command Shell 和 Linkis（HadoopMR、Hive、Spark、Sqoop、Python）大数据任务
-- 特色的数据检查和工作流之间的依赖任务
-- 完善的告警和工作流执行策略
-- 提供多种类型的参数设置，动态全局变量和简单易用的 UI
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/Schedulis.png' style="max-width:80%; max-height=80%;"></img></p>
-
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-14、[typical](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/camwiegert/typical)：零依赖、仅 400 字节的输入动画库。示例代码：
-```javascript
-import {
-    type,
-    type as loop
-};
-
-const steps = [1000, 'Ready', 1000, 'Set', 1000, 'Go'];
-
-type(element, ...steps, loop);
-```
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/typical.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-15、[HueJumper2k](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/KilledByAPixel/HueJumper2k)：用 JS 实现的 2KB 大小的 3D 赛车游戏。[在线试试](https://killedbyapixel.itch.io/hue-jumper)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/HueJumper2k.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-16、[avataaars-generator](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fangpenlin/avataaars-generator)：基于 React 实现的卡通头像生成工具。[在线尝试](https://getavataaars.com/)
+14、[avataaars-generator](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fangpenlin/avataaars-generator)：基于 React 实现的卡通头像生成工具。[在线尝试](https://getavataaars.com/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/avataaars-generator.png' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[ce](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jspreadsheet/ce)：一个轻量级、功能强大的电子表格库。轻松实现复杂数据的表格管理，支持 JS 数组、JSON、CSV 等数据，并且可以实现 excel 文件的直接复制和粘贴。示例代码：
+15、[ce](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jspreadsheet/ce)：一个轻量级、功能强大的电子表格库。轻松实现复杂数据的表格管理，支持 JS 数组、JSON、CSV 等数据，并且可以实现 excel 文件的直接复制和粘贴。示例代码：
 ```javascript
 var data = [
     ['Jazz', 'Honda', '2019-02-12', '', true, '$ 2.000,00', '#777700'],
@@ -213,25 +195,35 @@ jexcel(document.getElementById('spreadsheet'), {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/jexcel.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[form-create](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xaboy/form-create)：一个可以通过 JSON 自动生成具有动态渲染、数据收集、验证和提交功能的表单生成器。结合内置多种常用表单组件和自定义组件，轻松搞定复杂的表单，支持 iview、element-ui、and-design-vue
+16、[form-create](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xaboy/form-create)：一个可以通过 JSON 自动生成具有动态渲染、数据收集、验证和提交功能的表单生成器。结合内置多种常用表单组件和自定义组件，轻松搞定复杂的表单，支持 iview、element-ui、and-design-vue
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/form-create.gif' style="max-width:80%; max-height=80%;"></img></p>
 
+17、[HueJumper2k](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/KilledByAPixel/HueJumper2k)：用 JS 实现的 2KB 大小的 3D 赛车游戏。[在线试试](https://killedbyapixel.itch.io/hue-jumper)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/HueJumper2k.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+18、[typical](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/camwiegert/typical)：零依赖、仅 400 字节的输入动画库。示例代码：
+```javascript
+import {
+    type,
+    type as loop
+};
+
+const steps = [1000, 'Ready', 1000, 'Set', 1000, 'Go'];
+
+type(element, ...steps, loop);
+```
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/typical.gif' style="max-width:80%; max-height=80%;"></img></p>
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-19、[MrDoc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zmister2016/MrDoc)：一个基于 Python 开发的在线文档系统。支持 Markdown 语法、文集分类、科学公式、流程图、思维导图等内容。清爽的阅读界面，还可以把内容打包导出为 Markdown 文件、EPUB 文件、PDF 文件。适合作为个人和小型团队的私有文档服务
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/MrDoc.png' style="max-width:80%; max-height=80%;"></img></p>
-
-20、[geek_crawler](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhengxiaotian/geek_crawler)：极客时间课程（目前仅支持图文、音频）下载到本地的 Python 脚本。需输入账号密码后，才能将指定极客时间专栏课程保存到本地，方便随时随地学习
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/geek_crawler.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
-21、[fastapi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tiangolo/fastapi)：基于 Python 3.6+ 的高性能 Web 框架。“人如其名”用 FastAPI 写接口那叫一个快、调试方便，Python 在进步而它基于这些进步，让 Web 开发变得更快、更强。示例代码：
+19、[fastapi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tiangolo/fastapi)：基于 Python 3.6+ 的高性能 Web 框架。“人如其名”用 FastAPI 写接口那叫一个快、调试方便，Python 在进步而它基于这些进步，让 Web 开发变得更快、更强。示例代码：
 ```python
 from fastapi import FastAPI
 
@@ -251,52 +243,74 @@ async def read_item(item_id: int, q: str = None):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/fastapi.png' style="max-width:80%; max-height=80%;"></img></p>
 
+20、[geek_crawler](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhengxiaotian/geek_crawler)：极客时间课程（目前仅支持图文、音频）下载到本地的 Python 脚本。需输入账号密码后，才能将指定极客时间专栏课程保存到本地，方便随时随地学习
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/geek_crawler.jpeg' style="max-width:80%; max-height=80%;"></img></p>
+
+21、[MrDoc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zmister2016/MrDoc)：一个基于 Python 开发的在线文档系统。支持 Markdown 语法、文集分类、科学公式、流程图、思维导图等内容。清爽的阅读界面，还可以把内容打包导出为 Markdown 文件、EPUB 文件、PDF 文件。适合作为个人和小型团队的私有文档服务
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/MrDoc.png' style="max-width:80%; max-height=80%;"></img></p>
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
-22、[vimr](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/qvacua/vimr)：Neovim 的 macOS 版
+22、[SwiftUI](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Jinxiansen/SwiftUI)：该项目参考 SwiftUI 官方示例，记录代码和展示效果
+
+
+23、[vimr](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/qvacua/vimr)：Neovim 的 macOS 版
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/vimr.png' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[SwiftUI](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Jinxiansen/SwiftUI)：该项目参考 SwiftUI 官方示例，记录代码和展示效果
-
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-24、[winget-cli](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/winget-cli)：微软开源的 Windows 程序包管理器，帮助开发者快速的安装工具（预览版）。 目前有搜索、显示和安装软件包等功能，命令简单 `winget install <tool>`
+24、[awesome-IntelliJ-IDEA](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA)：玩转 IDE 加班远离你，IntelliJ IDEA 的技巧仓库
 
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/winget-cli.png' style="max-width:80%; max-height=80%;"></img></p>
 
 25、[fullstackopen](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/villeheikkila/fullstackopen)：免费开源的 Web 全栈编程课程。一站式学习 React、Redux、Node.js、MongoDB、GraphQL 以及 TypeScript，这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。让你可以利用 ReactJS 搭配 Node.js 开发的 REST API，来搭建单页面应用程序
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/fullstackopen.png' style="max-width:80%; max-height=80%;"></img></p>
 
-26、[vim](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vim/vim)：Vim 官方仓库
+26、[GitHub520](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/521xueweihan/GitHub520)：通过修改 hosts 解决 GitHub 访问慢、图裂问题的项目。基于 GitHub Action 定时访问 ipaddress 自动获取、输出 GitHub 相关域名对应的最新 IP 保证长期有效，用户不需要安装和运行代码，直接复制项目首页的内容便可生效
+
+
+27、[vim](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vim/vim)：Vim 官方仓库
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/vim.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[awesome-IntelliJ-IDEA](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA)：玩转 IDE 加班远离你，IntelliJ IDEA 的技巧仓库
+28、[winget-cli](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/winget-cli)：微软开源的 Windows 程序包管理器，帮助开发者快速的安装工具（预览版）。 目前有搜索、显示和安装软件包等功能，命令简单 `winget install <tool>`
 
-28、[GitHub520](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/521xueweihan/GitHub520)：通过修改 hosts 解决 GitHub 访问慢、图裂问题的项目。基于 GitHub Action 定时访问 ipaddress 自动获取、输出 GitHub 相关域名对应的最新 IP 保证长期有效，用户不需要安装和运行代码，直接复制项目首页的内容便可生效
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/winget-cli.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
 29、[thinking-in-java-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apachecn/thinking-in-java-zh)：《Java 编程思想》中文版。[在线阅读](https://wizardforcel.gitbooks.io/thinking-in-java/content/)
 
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-30、[pose-animator](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yemount/pose-animator)：一个基于 PoseNet 和 FaceMesh 可将你的 Pose 变成 2D 动画的工具。生成的动画人物会根据你的表情和肢体动作做出相应动作，来试试制作你专属的 2D 镜像人吧
+30、[photo2cartoon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/minivision-ai/photo2cartoon)：将真实照片转换为卡通风格的开源项目。效果如下：
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/photo2cartoon.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+31、[pose-animator](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yemount/pose-animator)：一个基于 PoseNet 和 FaceMesh 可将你的 Pose 变成 2D 动画的工具。生成的动画人物会根据你的表情和肢体动作做出相应动作，来试试制作你专属的 2D 镜像人吧
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/pose-animator.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[scikit-opt](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/guofei9987/scikit-opt)：一个封装了 7 种启发式算法的 Python 代码库。分别是：差分进化算法、遗传算法、粒子群算法、模拟退火算法、蚁群算法、鱼群算法、免疫优化算法，示例代码：
+32、[Real-World-Masked-Face-Dataset](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset)：口罩人脸数据集
+
+
+33、[scikit-opt](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/guofei9987/scikit-opt)：一个封装了 7 种启发式算法的 Python 代码库。分别是：差分进化算法、遗传算法、粒子群算法、模拟退火算法、蚁群算法、鱼群算法、免疫优化算法，示例代码：
 ```python
 from sko.GA import GA_TSP
 
@@ -306,13 +320,6 @@ best_points, best_distance = ga_tsp.run()
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/scikit-opt.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-32、[photo2cartoon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/minivision-ai/photo2cartoon)：将真实照片转换为卡通风格的开源项目。效果如下：
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/img/photo2cartoon.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-33、[Real-World-Masked-Face-Dataset](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset)：口罩人脸数据集
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

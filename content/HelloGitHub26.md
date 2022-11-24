@@ -59,13 +59,12 @@
 
 4、[You-need-to-know-css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/l-hammer/You-need-to-know-css)：该项目包含了一些常用的 CSS 样式示例和作者阅读《CSS揭秘》的收获分享，适合于想要提高 CSS 技能的同学
 
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-5、[lgo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yunabe/lgo)：实现像 python 一样的交互式编程，同时整合了 Jupyter Notebook。效果如下：
+5、[go-perfbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dgryski/go-perfbook)：《关于 Go 性能优化的思考》概述了编写高性能 Go 代码的最佳实践。[中文](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)
 
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/lgo.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[gopool](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aosen/gopool)：Golang 分布式的连接池，协程池。内含 Redis Client 连接池实现，特点如下：
 - 提供下游的高可用访问，投票机制摘除下游不健康节点
@@ -73,7 +72,11 @@
 - 每个下游节点对应一个 channel，保证负载均衡
 - 提供连接池状态监控接口包括总连接数、每个 IP 的连接数
 
-7、[go-perfbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dgryski/go-perfbook)：《关于 Go 性能优化的思考》概述了编写高性能 Go 代码的最佳实践。[中文](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)
+
+7、[lgo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yunabe/lgo)：实现像 python 一样的交互式编程，同时整合了 Jupyter Notebook。效果如下：
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/lgo.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -98,6 +101,7 @@
 └—————————————————————AutoEx——————————————————————
 ```
 
+
 9、[javatuples](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/javatuples/javatuples)：提供了多个方便易用的 Java 元组类。写 Java 代码经常会有需要使用元组的场景，我们经常会用 Array 或者 List 来代替这种实现。但是这不仅不够优雅，并且不够安全（你要放弃泛型来达到可以存放不同类型的数据）。而 javatuples 提供了多个类型安全的、优雅的实现类，大大提升了我们开发的效率以及便捷性。示例代码：
 ```java
 ...
@@ -117,32 +121,62 @@ Double[] myDoubleArray = triplet.getValue2();
 ...
 ```
 
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-10、[tui.calendar](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nhn/tui.calendar)：功能全面的 JavaScript 日程安排日历。虽然项目依赖了 jQuery，但是对于真实项目来说这样做是可以的。此项目适用于多种场景，炫酷的交互和 UI
+10、[BizCharts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/BizCharts)：蚂蚁出品的基于 React 的图表库。图表样式丰富、使用方便、易扩展、文档齐全，[官网](https://antv.alipay.com/zh-cn/g2/3.x/index.html)
 
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/tui_calendar.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[carbon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/carbon-app/carbon)：以美观、整洁的方式，展示你的代码片段。同时提供 SVG、PNG 多种方式展示
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/carbon-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[javascript-algorithms](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/trekhleb/javascript-algorithms)：包含了多种基于 JavaScript 的算法与数据结构，[中文](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
-
-13、[dayjs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iamkun/dayjs)：一个轻量的 JavaScript 时间日期处理库。保持和 Moment.js 的 API 设计完全一样。如果你曾经用过 Moment.js，那么你已经知道如何使用 Day.js 了。体积仅有 2kb 是 Moment.js 的轻量化方案，示例代码如下：
+12、[dayjs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iamkun/dayjs)：一个轻量的 JavaScript 时间日期处理库。保持和 Moment.js 的 API 设计完全一样。如果你曾经用过 Moment.js，那么你已经知道如何使用 Day.js 了。体积仅有 2kb 是 Moment.js 的轻量化方案，示例代码如下：
 ```javascript
 dayjs().startOf('month').add(1, 'day').set('year', 2018).format('YYYY-MM-DD HH:mm:ss');
 ```
 
-14、[BizCharts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/BizCharts)：蚂蚁出品的基于 React 的图表库。图表样式丰富、使用方便、易扩展、文档齐全，[官网](https://antv.alipay.com/zh-cn/g2/3.x/index.html)
+
+13、[javascript-algorithms](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/trekhleb/javascript-algorithms)：包含了多种基于 JavaScript 的算法与数据结构，[中文](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+
+
+14、[tui.calendar](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nhn/tui.calendar)：功能全面的 JavaScript 日程安排日历。虽然项目依赖了 jQuery，但是对于真实项目来说这样做是可以的。此项目适用于多种场景，炫酷的交互和 UI
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/tui_calendar.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-15、[redis-faina](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facebookarchive/redis-faina)：Redis 性能分析器。提供两种模式分析模式：命令实时、读取日志。其原理是使用 Redis MONITOR 命令，将该命令的结果通过管道传递给 redis-faina 脚本，脚本将返回的信息解析，并汇成总成统计信息。具体信息如下所示：
+15、[marshmallow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/marshmallow-code/marshmallow)：使用类似于 ORM 的语法，序列化、反序列化 Python 对象。可以将序列化的对象呈现为标准格式，适用于例如数据校验、返回 HTTP API 的 JSON。示例代码如下：
+```python
+from datetime import date
+from marshmallow import Schema, fields, pprint
+
+class ArtistSchema(Schema):
+    name = fields.Str()
+
+class AlbumSchema(Schema):
+    title = fields.Str()
+    release_date = fields.Date()
+    artist = fields.Nested(ArtistSchema())
+
+bowie = dict(name='David Bowie')
+album = dict(artist=bowie, title='Hunky Dory', release_date=date(1971, 12, 17))
+
+schema = AlbumSchema()
+result = schema.dump(album)
+pprint(result, indent=2)
+# 输出如下
+# { 'artist': {'name': 'David Bowie'},
+#   'release_date': '1971-12-17',
+#   'title': 'Hunky Dory'}
+```
+
+
+16、[redis-faina](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facebookarchive/redis-faina)：Redis 性能分析器。提供两种模式分析模式：命令实时、读取日志。其原理是使用 Redis MONITOR 命令，将该命令的结果通过管道传递给 redis-faina 脚本，脚本将返回的信息解析，并汇成总成统计信息。具体信息如下所示：
 ```shell
 注意：分析非常闲的 redis 实例时，分析的结果可能偏差的很多。
 时间单位为微秒：ms = 1.0 × 10^-6 seconds
@@ -195,30 +229,6 @@ Slowest Calls
 523571.0   	"get" "startchart:521xueweihan/hellogithub"
 ```
 
-16、[marshmallow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/marshmallow-code/marshmallow)：使用类似于 ORM 的语法，序列化、反序列化 Python 对象。可以将序列化的对象呈现为标准格式，适用于例如数据校验、返回 HTTP API 的 JSON。示例代码如下：
-```python
-from datetime import date
-from marshmallow import Schema, fields, pprint
-
-class ArtistSchema(Schema):
-    name = fields.Str()
-
-class AlbumSchema(Schema):
-    title = fields.Str()
-    release_date = fields.Date()
-    artist = fields.Nested(ArtistSchema())
-
-bowie = dict(name='David Bowie')
-album = dict(artist=bowie, title='Hunky Dory', release_date=date(1971, 12, 17))
-
-schema = AlbumSchema()
-result = schema.dump(album)
-pprint(result, indent=2)
-# 输出如下
-# { 'artist': {'name': 'David Bowie'},
-#   'release_date': '1971-12-17',
-#   'title': 'Hunky Dory'}
-```
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -229,6 +239,7 @@ pprint(result, indent=2)
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/fd.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 18、[rayon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rayon-rs/rayon)：一个易用、无数据竞争的将顺序迭代器转化成并行迭代器。简单说就是原本你的数组只能一个一个地遍历，使用这个库可以并发同时从几个 index 开始遍历，同时也能遍历 map 等类似的数据结构
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -259,20 +270,26 @@ public func print<T>(file: String = #file, function: String = #function, line: I
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-20、[architect-awesome](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xingshaocheng/architect-awesome)：《后端架构师技术图谱》
+20、[a-cartoon-intro-to-redux-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jasonslyvia/a-cartoon-intro-to-redux-cn)：《看漫画学 Redux》
 
-21、[a-cartoon-intro-to-redux-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jasonslyvia/a-cartoon-intro-to-redux-cn)：《看漫画学 Redux》
+
+21、[architect-awesome](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xingshaocheng/architect-awesome)：《后端架构师技术图谱》
+
 
 22、[architecture.of.internet-product](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/davideuler/architecture.of.internet-product)：知名互联网公司的架构文档
 
-23、[public-apis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/public-apis/public-apis)：（英文）用于 Web 开发的公共 API 集合
 
-24、[practical-programming-books](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/EZLippi/practical-programming-books)：实用的计算机相关技术书籍、入门的实用教程、技术网站、博文集合
+23、[practical-programming-books](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/EZLippi/practical-programming-books)：实用的计算机相关技术书籍、入门的实用教程、技术网站、博文集合
+
+
+24、[public-apis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/public-apis/public-apis)：（英文）用于 Web 开发的公共 API 集合
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
 25、[sicp-py-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wizardforcel/sicp-py-zh)：《SICP Python 描述中文版》[在线阅读](https://wizardforcel.gitbooks.io/sicp-py/content/)
+
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

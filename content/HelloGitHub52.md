@@ -31,12 +31,13 @@
 > **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
-1、[SimpleKernel](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Simple-XX/SimpleKernel)：一个用来练手的简单内核项目。提供了各个阶段完成度不同的内核，可以选择从自己喜欢的地方开始
+1、[raspberry-pi-os](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/s-matyukevich/raspberry-pi-os)：基于树莓派的操作系统开发教程（还未完结）。你的树莓派在吃灰吗？把它插上电用来学习开发操作系统吧
+
+
+2、[SimpleKernel](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Simple-XX/SimpleKernel)：一个用来练手的简单内核项目。提供了各个阶段完成度不同的内核，可以选择从自己喜欢的地方开始
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/SimpleKernel.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
-2、[raspberry-pi-os](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/s-matyukevich/raspberry-pi-os)：基于树莓派的操作系统开发教程（还未完结）。你的树莓派在吃灰吗？把它插上电用来学习开发操作系统吧
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -77,10 +78,14 @@ int main()
 }
 ```
 
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-6、[gotty](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yudai/gotty)：能够把终端执行的命令展示到网页上的工具。安装和运行命令如下：
+6、[algo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hoanhan101/algo)：Golang 程序员面试中的问题和解答集合。该项目目前完成了大部分的数据结构和算法部分，准备相关面试的小伙伴可以阅读学习起来了
+
+
+7、[gotty](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yudai/gotty)：能够把终端执行的命令展示到网页上的工具。安装和运行命令如下：
 ```
 安装：go get github.com/yudai/gotty
 运行：gotty [options] <command> [<arguments...>]
@@ -89,17 +94,15 @@ int main()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/gotty.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[logrus](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sirupsen/logrus)：可能是 Go 目前最受欢迎的第三方日志库。日志首先要能让人看懂，其次是程序易于处理日志包含的内容，logrus 也许能让你轻松快速实现上述两点
+8、[logrus](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sirupsen/logrus)：可能是 Go 目前最受欢迎的第三方日志库。日志首先要能让人看懂，其次是程序易于处理日志包含的内容，logrus 也许能让你轻松快速实现上述两点
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/logrus.png' style="max-width:80%; max-height=80%;"></img></p>
 
-8、[websocket](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gorilla/websocket)：Go 的 websocket 三方库。看看它和标准库的对比，你就知道为什么它会出现在本期月刊中了
+9、[websocket](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gorilla/websocket)：Go 的 websocket 三方库。看看它和标准库的对比，你就知道为什么它会出现在本期月刊中了
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/websocket.png' style="max-width:80%; max-height=80%;"></img></p>
-
-9、[algo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hoanhan101/algo)：Golang 程序员面试中的问题和解答集合。该项目目前完成了大部分的数据结构和算法部分，准备相关面试的小伙伴可以阅读学习起来了
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -109,15 +112,15 @@ int main()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/FlappyBird.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[metersphere](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/metersphere/metersphere)：一站式的开源企业级持续测试平台。适应场景包括：测试跟踪、接口测试、性能测试等，兼容 JMeter 等开源标准，能够帮助开发和测试团队充分利用云弹性进行高度可扩展的自动化测试。测试同学的福音
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/metersphere.png' style="max-width:80%; max-height=80%;"></img></p>
-
-12、[iotdb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/iotdb)：清华大学软件学院自主研发并开源的时间序列数据管理引擎。能够有效应对工业物联网领域时间序列数量多、写入频率高、数据乱序到达、秒级聚合等场景。官方网站有系统设计文档和使用手册，作为初学者，可以系统的学习数据库系统的完整设计和实现。在 IoTDB 社区可以与国内用户直接交流、收集需求、设计功能、性能优化，每个改进点都可以看到直接效果。还可以体验 Apache 开源软件的工作模式，与世界各地的开发者交流想法，也有机会成为 Apache Committer、PMC 等
+11、[iotdb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/iotdb)：清华大学软件学院自主研发并开源的时间序列数据管理引擎。能够有效应对工业物联网领域时间序列数量多、写入频率高、数据乱序到达、秒级聚合等场景。官方网站有系统设计文档和使用手册，作为初学者，可以系统的学习数据库系统的完整设计和实现。在 IoTDB 社区可以与国内用户直接交流、收集需求、设计功能、性能优化，每个改进点都可以看到直接效果。还可以体验 Apache 开源软件的工作模式，与世界各地的开发者交流想法，也有机会成为 Apache Committer、PMC 等
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/incubator-iotdb.png' style="max-width:80%; max-height=80%;"></img></p>
+
+12、[metersphere](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/metersphere/metersphere)：一站式的开源企业级持续测试平台。适应场景包括：测试跟踪、接口测试、性能测试等，兼容 JMeter 等开源标准，能够帮助开发和测试团队充分利用云弹性进行高度可扩展的自动化测试。测试同学的福音
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/metersphere.png' style="max-width:80%; max-height=80%;"></img></p>
 
 13、[MyBookshelf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gedoor/MyBookshelf)：免费开源的安卓小说阅读软件，能够自定义订阅小说数据源。支持：
 - 全局状态栏沉浸
@@ -138,27 +141,7 @@ int main()
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-15、[chrome-extensions-searchReplace](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Summer-andy/chrome-extensions-searchReplace)：一款搜索并且替换文本的谷歌插件。在做产品 PPT 的时候，需要对某些个页面中的一些名词进行统一替换，这个插件就是为了解决这个问题而诞生的。同时作者也是调研了其他类似功能的插件，它们都包含或多或少的问题，最终作者自己动手做了这个项目。可以说这款替换插件应该就是你最终的选择了
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/chrome-extensions-searchReplace.png' style="max-width:80%; max-height=80%;"></img></p>
-
-16、[mongo-express](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mongo-express/mongo-express)：使用 Node.js、Express 和 Bootstrap3 编写的 MongoDB 管理平台
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/mongo-express.png' style="max-width:80%; max-height=80%;"></img></p>
-
-17、[Zettlr](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Zettlr/Zettlr)：开源免费支持多种操作系统的 Markdown 编辑器。如果你想尝试一款新的 Markdown 编辑器，它或许能满足你对编辑器所有想法，如果还不够那就自己动手增加吧
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/Zettlr.png' style="max-width:80%; max-height=80%;"></img></p>
-
-18、[leetcode-cli](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/skygragon/leetcode-cli)：LeetCode 的命令行工具。之前我们推荐过命令行斗地主、划水逛社区等，真正努力的人用命令行来刷算法题！我颤抖了
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/leetcode-cli.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-19、[apidoc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apidoc/apidoc)：根据代码中的注释生成 RESTful 风格的 API 文档。注释示例：
+15、[apidoc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apidoc/apidoc)：根据代码中的注释生成 RESTful 风格的 API 文档。注释示例：
 ```
 /**
  * @api {get} /user/:id Request User information
@@ -171,6 +154,27 @@ int main()
  * @apiSuccess {String} lastname  Lastname of the User.
  */
 ```
+
+
+16、[chrome-extensions-searchReplace](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Summer-andy/chrome-extensions-searchReplace)：一款搜索并且替换文本的谷歌插件。在做产品 PPT 的时候，需要对某些个页面中的一些名词进行统一替换，这个插件就是为了解决这个问题而诞生的。同时作者也是调研了其他类似功能的插件，它们都包含或多或少的问题，最终作者自己动手做了这个项目。可以说这款替换插件应该就是你最终的选择了
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/chrome-extensions-searchReplace.png' style="max-width:80%; max-height=80%;"></img></p>
+
+17、[leetcode-cli](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/skygragon/leetcode-cli)：LeetCode 的命令行工具。之前我们推荐过命令行斗地主、划水逛社区等，真正努力的人用命令行来刷算法题！我颤抖了
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/leetcode-cli.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+18、[mongo-express](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mongo-express/mongo-express)：使用 Node.js、Express 和 Bootstrap3 编写的 MongoDB 管理平台
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/mongo-express.png' style="max-width:80%; max-height=80%;"></img></p>
+
+19、[Zettlr](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Zettlr/Zettlr)：开源免费支持多种操作系统的 Markdown 编辑器。如果你想尝试一款新的 Markdown 编辑器，它或许能满足你对编辑器所有想法，如果还不够那就自己动手增加吧
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/Zettlr.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -210,6 +214,7 @@ SECRET_KEY = os.getenv("EMAIL")
 DATABASE_PASSWORD = os.getenv("DATABASE_PASSWORD")
 ```
 
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
@@ -243,14 +248,16 @@ DATABASE_PASSWORD = os.getenv("DATABASE_PASSWORD")
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/github-readme-stats.png' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[papirus-icon-theme](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)：适用于 Linux 系统的免费开源 SVG 图标主题
+28、[LeetcodeTop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/afatcoder/LeetcodeTop)：国内各大互联网公司常考的 LeetCode 题目
 
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/papirus-icon-theme.png' style="max-width:80%; max-height=80%;"></img></p>
 
 29、[nvda](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nvaccess/nvda)：一个微软开源的免费 Windows 操作系统的无视觉桌面访问阅读器。通过合成器语音或者盲文点字的反馈，方便盲人和低视力人群使用运行在 Windows 操作系统下运作的电脑。也能够让开发者了解微软的常见的辅助功能接口，如微软 Active Accessibility、Java Access Bridge、IAccessible2 和 UI automation。希望有更多的人了解无障碍，[NVDA 中文站](https://www.nvdacn.com/)
 
-30、[LeetcodeTop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/afatcoder/LeetcodeTop)：国内各大互联网公司常考的 LeetCode 题目
+
+30、[papirus-icon-theme](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)：适用于 Linux 系统的免费开源 SVG 图标主题
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/img/papirus-icon-theme.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
