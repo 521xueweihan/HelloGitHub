@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/readme.gif"/>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/readme.gif"/>
   <br>中文 | <a href="README_en.md">English</a>
   <br>分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
 </p>
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/weixin.png"><img src="https://img.shields.io/badge/Talk-%E5%BE%AE%E4%BF%A1%E7%BE%A4-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
+  <a href="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png"><img src="https://img.shields.io/badge/Talk-%E5%BE%AE%E4%BF%A1%E7%BE%A4-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
   <a href="https://github.com/521xueweihan/HelloGitHub/stargazers"><img src="https://img.shields.io/github/stars/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub stars"></a>
   <a href="https://github.com/521xueweihan/HelloGitHub/issues"><img src="https://img.shields.io/github/issues/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub issues"></a>
     <a href="https://weibo.com/hellogithub"><img src="https://img.shields.io/badge/%E6%96%B0%E6%B5%AA-Weibo-red.svg?style=popout-square" alt="Sina Weibo"></a>
@@ -20,7 +20,7 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [第 79 期](/content/HelloGitHub79.md) | [第 78 期](/content/HelloGitHub78.md) | [第 77 期](/content/HelloGitHub77.md) | [第 76 期](/content/HelloGitHub76.md) |
+| [第 80 期](/content/HelloGitHub80.md) | [第 79 期](/content/HelloGitHub79.md) | [第 78 期](/content/HelloGitHub78.md) | [第 77 期](/content/HelloGitHub77.md) | [第 76 期](/content/HelloGitHub76.md) |
 | [第 75 期](/content/HelloGitHub75.md) | [第 74 期](/content/HelloGitHub74.md) | [第 73 期](/content/HelloGitHub73.md) | [第 72 期](/content/HelloGitHub72.md) | [第 71 期](/content/HelloGitHub71.md) |
 | [第 70 期](/content/HelloGitHub70.md) | [第 69 期](/content/HelloGitHub69.md) | [第 68 期](/content/HelloGitHub68.md) | [第 67 期](/content/HelloGitHub67.md) | [第 66 期](/content/HelloGitHub66.md) |
 | [第 65 期](/content/HelloGitHub65.md) | [第 64 期](/content/HelloGitHub64.md) | [第 63 期](/content/HelloGitHub63.md) | [第 62 期](/content/HelloGitHub62.md) | [第 61 期](/content/HelloGitHub61.md) |
@@ -40,35 +40,35 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
     <tr>
       <th align="center" style="width: 80px;">
         <a href="https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592">
-          <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/ucloud.png" width="60px"><br>
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>云主机</sub><br>
           <sub>仅 4 元/月</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
         <a href="https://www.upyun.com/">
-          <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/upyun.png" width="60px"><br>
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
         <a href="https://doc.rentsoft.cn/">
-          <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/im.png" width="60px"><br>
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/im.png" width="60px"><br>
           <sub>OpenIM</sub><br>
           <sub>开源IM力争No.1</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
         <a href="https://github.com/yomorun/yomo">
-          <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/yomo.jpeg" width="60px"><br>
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/yomo.jpeg" width="60px"><br>
           <sub>YoMo</sub><br>
           <sub>低时延交互编程框架</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
         <a href="https://apifox.cn/a103hello">
-          <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/apifox.png" width="60px"><br>
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
           <sub>Apifox</sub><br>
           <sub>比 Postman 更强大</sub>
         </a>

@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 02 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
@@ -17,7 +17,7 @@
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -27,6 +27,8 @@
 ### CSS 项目
 1、[github-markdown-css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/github-markdown-css)：仿 GitHub 的 Markdown 的样式，就是使用了这个 CSS 后，Markdown 展示效果和 GitHub 的大致一样。[示例](https://sindresorhus.com/github-markdown-css/)
 
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/19544711.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -38,15 +40,21 @@
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/img/jquery-weui-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/48972492.png' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[listen1_desktop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/listen1/listen1_desktop)：Listen 1 让你用一个网页就能听到多个网站的在线音乐，支持各种平台。如图：
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/img/listen1-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/59187489.png' style="max-width:80%; max-height=80%;"></img></p>
 
-5、[waitForImages](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alexanderdickson/waitForImages)：背景加载完事件，示例代码：
+5、[ssbc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/78/ssbc)：Python Django 写的种子搜索网站——手撕包菜，如图：
+
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/35296157.png' style="max-width:80%; max-height=80%;"></img></p>
+
+6、[waitForImages](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alexanderdickson/waitForImages)：背景加载完事件，示例代码：
 ```html
 <script type="text/javascript" src="http://catmull.uk/downloads/bg-loaded/bg-loaded.js"></script>
 <script type="text/javascript">
@@ -59,22 +67,24 @@
 ```
 
 
-6、[wechat-h5-boilerplate](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/panteng/wechat-h5-boilerplate)：为腾讯微信优化的 HTML5 动效模板，帮助你快速构建全屏滚动型 HTML5 页面，[示例](https://panteng.github.io/wechat-h5-boilerplate/)
+7、[wechat-h5-boilerplate](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/panteng/wechat-h5-boilerplate)：为腾讯微信优化的 HTML5 动效模板，帮助你快速构建全屏滚动型 HTML5 页面，[示例](https://panteng.github.io/wechat-h5-boilerplate/)
 
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/48837302.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-7、[algorithm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/qiwsir/algorithm)：老齐的 Python 算法教程
+8、[algorithm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/qiwsir/algorithm)：老齐的 Python 算法教程
 
 
-8、[luokr.com](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alvan/luokr.com)：Python Tornado 写的开源网站——螺壳网，[访问](http://luokr.com/)，如图：
+9、[luokr.com](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alvan/luokr.com)：Python Tornado 写的开源网站——螺壳网，[访问](http://luokr.com/)，如图：
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/img/luokr-com.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/16545854.png' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[mincss](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/peterbe/mincss)：Python 写的用来找到 CSS 中没有用到的代码片段，并删除。适用于：想要做一个页面，但是不会写 CSS 人。示例代码如下：
+10、[mincss](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/peterbe/mincss)：Python 写的用来找到 CSS 中没有用到的代码片段，并删除。适用于：想要做一个页面，但是不会写 CSS 人。示例代码如下：
 ```python
 #coding:utf-8
 #!/usr/bin/env python
@@ -117,10 +127,10 @@ if __name__ == '__main__':
 ```
 
 
-10、[python-gems](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RealHacker/python-gems)：有趣的 Pyhton 代码片段集合
+11、[python-gems](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RealHacker/python-gems)：有趣的 Pyhton 代码片段集合
 
 
-11、[python-goose](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/grangier/python-goose)：Goose 用于文章提取器，提取中文内容的示例代码：
+12、[python-goose](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/grangier/python-goose)：Goose 用于文章提取器，提取中文内容的示例代码：
 ```python
 >>> from goose import Goose
 >>> from goose.text import StopWordsChinese
@@ -135,12 +145,6 @@ if __name__ == '__main__':
 一些亲北京阵营议员欢迎梁振英道歉，且认为应能获得香港民众接受，但这些议员也质问梁振英有
 ```
 
-
-12、[ssbc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/78/ssbc)：Python Django 写的种子搜索网站——手撕包菜，如图：
-
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/img/ssbc.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/weixin.png"><img src="https://img.shields.io/badge/Talk-WeChat-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
+  <a href="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png"><img src="https://img.shields.io/badge/Talk-WeChat-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
   <a href="https://github.com/521xueweihan/HelloGitHub/stargazers"><img src="https://img.shields.io/github/stars/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub stars"></a>
   <a href="https://github.com/521xueweihan/HelloGitHub/issues"><img src="https://img.shields.io/github/issues/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub issues"></a>
 </p>
@@ -23,7 +23,7 @@ Will be released on the **28th of each month**| [Contributors](https://github.co
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [NO.79](/content/HelloGitHub79.md) | [NO.78](/content/HelloGitHub78.md) | [NO.77](/content/HelloGitHub77.md) | [NO.76](/content/HelloGitHub76.md) |
+| [NO.80](/content/HelloGitHub80.md) | [NO.79](/content/HelloGitHub79.md) | [NO.78](/content/HelloGitHub78.md) | [NO.77](/content/HelloGitHub77.md) | [NO.76](/content/HelloGitHub76.md) |
 | [NO.75](/content/HelloGitHub75.md) | [NO.74](/content/HelloGitHub74.md) | [NO.73](/content/HelloGitHub73.md) | [NO.72](/content/HelloGitHub72.md) | [NO.71](/content/HelloGitHub71.md) |
 | [NO.70](/content/HelloGitHub70.md) | [NO.69](/content/HelloGitHub69.md) | [NO.68](/content/HelloGitHub68.md) | [NO.67](/content/HelloGitHub67.md) | [NO.66](/content/HelloGitHub66.md) |
 | [NO.65](/content/HelloGitHub65.md) | [NO.64](/content/HelloGitHub64.md) | [NO.63](/content/HelloGitHub63.md) | [NO.62](/content/HelloGitHub62.md) | [NO.61](/content/HelloGitHub61.md) |

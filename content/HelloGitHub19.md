@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 19 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
@@ -21,7 +21,7 @@
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -32,7 +32,7 @@
 1、[ctop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bcicen/ctop)：实现了类 top 命令展示效果的 docker 容器监控工具
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/ctop.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/77419377.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -55,7 +55,7 @@ for (String sentence : testCase)
 3、[MVPArt](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JessYanCoding/MVPArt)：一个新的 MVP 架构，此框架旨在解决传统 MVP 类和接口太多、并且 Presenter 和 View 通过接口通信过于繁琐、重用 Presenter 代价太大等问题。架构图如下：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/MVPArt-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/83117984.png' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[p3c](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/p3c)：阿里云栖大会发布的 Java 代码规约扫描插件，支持多种 IDE。代码规范对于编程来说是非常重要的，随着代码量的增多会更加意识到其重要性。赶快拿去使用吧，[阿里巴巴 Java 开发手册](https://github.com/alibaba/p3c/blob/master/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E7%BB%88%E6%9E%81%E7%89%88%EF%BC%89.pdf)
 
@@ -66,17 +66,17 @@ for (String sentence : testCase)
 5、[emoji](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gee1k/emoji)：方便快速查找获取 emoji 表情、名称，并且可以复制到任何文本中，另外支持中文搜索 💯 [网站地址](http://emoji.svend.cc/)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/emoji.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/104567903.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[H5](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/answershuto/H5)：这是作者的个人项目，功能是可视化编辑、生成手机 H5 页面的单页应用 WebApp。该项目是一个全栈项目，具有前后端完整服务。并且项目结构清晰。后端服务具有控制器，模型，路由，前端服务具有组件，并且使用 Vuex 做状态管理，麻雀虽小五脏俱全
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/H5.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/76468697.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[micro-note](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/linguowei/micro-note)：目前的前端圈使用最多的莫过于 Vue 以及 React，而 Angular 使用相比前两个就会少一点，而 Angular 也因为过于强大，导致学习曲线陡峭涉及概念繁多等问题。该项目（徽记）是基于 Angular4 以及 Typescript 开发，项目中都是 Angular4 基础使用，适合新手入门、学习、动手实践
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/micro-note-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/97899363.png' style="max-width:80%; max-height=80%;"></img></p>
 
 8、[project-guidelines](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/elsewhencode/project-guidelines)：JavaScript 项目规范，[中文](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md)
 
@@ -98,7 +98,7 @@ $('#btnDemo').selectMenu({
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/SelectMenu-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/106082125.png' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[wxapp-market](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/o2team/wxapp-market)：小程序营销组件，使用简单、方式齐全。包含示例代码，玩法多样
 - 大转盘
@@ -108,7 +108,7 @@ $('#btnDemo').selectMenu({
 - ...
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/wxapp-market.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/102470633.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

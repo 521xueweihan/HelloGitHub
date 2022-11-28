@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 47 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
@@ -24,7 +24,7 @@
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -47,7 +47,7 @@
 4、[cli](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cli/cli)：GitHub 官方基于 Go 语言开发的命令行 GitHub 工具。用它可以在终端中执行 GitHub 的常用的管理 Issue、切分支、Clone 等操作
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/cli.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/212613049.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -69,7 +69,7 @@ public class BasicGameApp extends GameApplication {
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/FXGLGames.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/48744267.png' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[quarkus-quickstarts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/quarkusio/quarkus-quickstarts)：Quarkus 开源的 Java 多种框架 demo 项目集合。这些示例项目可以快速启动、结构清晰，初学者可用作 Java 的实战项目，老手可以当作项目脚手架。启动示例：
 
@@ -86,12 +86,12 @@ mvn clean package -Pnative
 7、[breathe-relaxer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zerosoul/breathe-relaxer)：一个在线放松网站的项目。带上耳机，[点开网站](https://works.yangerxiao.com/breathe-relaxer/)然后深呼吸
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/breathe-relaxer.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/239242750.png' style="max-width:80%; max-height=80%;"></img></p>
 
 8、[image-compress-without-backend](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zerosoul/image-compress-without-backend)：一个纯前端在线图片压缩小工具。即无需上传照片到服务器，一切都在浏览器端完成，快速而高效。非常适用于图片压缩后质量要求不是很高的场景，比如：移动端图片展示等
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/image-compress-without-backend.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/241373163.png' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[qier-progress](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vortesnail/qier-progress)：这是一个用于缓解用户焦虑，给予用户请求回馈的顶部进度条。该项目使用 ts 重构了万星 star 的 nprogress 项目，打包体积更小、且支持了多彩模式、自定义高度和颜色等，最重要的是有良好的类型注解。该项目结构简单、代码量也比较少，非常利于学习 ts 相关用法和作为实战项目。示例代码：
 ```javascript
@@ -101,12 +101,12 @@ qprogress.finish()
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/qier-progress.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/238699546.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[showdoc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/star7th/showdoc)：一款基于 JavaScript 实现的开源在线文档工具。支持：多端编辑查看、权限管理、文档导出、Markdown 语法等，功能虽不多但已足够用了。推荐自建自用、小团队内部使用
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/showdoc.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/46964895.png' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[wx-promise-pro](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/youngjuning/wx-promise-pro)：支持 finnaly、typescript 的微信小程序异步解决方案。特性：
 - 方便集成：一处引用，处处使用
@@ -129,7 +129,7 @@ promisify(wx.getSystemInfo)().then(console.log)
 12、[simplenote-macos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Automattic/simplenote-macos)：一款 macOS 上免费开源的记事本应用
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/simplenote-macos.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/65415630.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -143,7 +143,7 @@ promisify(wx.getSystemInfo)().then(console.log)
 14、[activitywatch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ActivityWatch/activitywatch)：一个记录你的时间都花在那的 Python 项目。支持 Web 可视化，效果如下
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/activitywatch.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/57224308.png' style="max-width:80%; max-height=80%;"></img></p>
 
 15、[akshare](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/akfamily/akshare)：一款基于 Python 的开源金融数据接口库。提供了股票、期货、期权、基金、数字货币等金融产品的基本数据、实时和历史行情数据、衍生数据，包含数据采集、数据清洗、到数据落地的一套开源工具。满足了金融数据科学家、数据科学爱好者在金融数据获取方面的需求。示例代码：
 ```python
@@ -163,12 +163,12 @@ print(bond_df)
 16、[repoll](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NaNShaner/repoll)：基于 Django 开发的 redis 集群管理、监控工具。功能包括：标准化申请流程、管理配置、监控接口等，减轻了运维人员的痛苦
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/repoll.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/203765955.png' style="max-width:80%; max-height=80%;"></img></p>
 
 17、[wttr.in](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chubin/wttr.in)：一个 Python 实现的命令行查看天气工具
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/wttr.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/48623558.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -176,7 +176,7 @@ print(bond_df)
 18、[Mos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Caldis/Mos)：一个用于在 macOS 上平滑鼠标滚动效果或单独设置滚动方向的小工具。让你的滚轮爽如触控板般丝滑
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/Mos.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/80204710.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -184,7 +184,7 @@ print(bond_df)
 19、[apisix](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/apisix)：一个云原生、高性能、可扩展的微服务 API 网关。它是基于 Nginx 和 etcd 来实现，和传统 API 网关相比，APISIX 具备动态路由和插件热加载，适合微服务体系下的 API 管理
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/incubator-apisix.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/180481986.png' style="max-width:80%; max-height=80%;"></img></p>
 
 20、[app-ideas](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/florinpop17/app-ideas)：该收集了各类应用的想法，并按照易学程度把应用进行划分。你可以通过这个项目提高编程技术、学习新技术
 
@@ -198,7 +198,7 @@ print(bond_df)
 23、[my-mac-os](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nikitavoloboev/my-mac-os)：该项目罗列了作者自用、收集的 macOS 上实用、炫酷的软件。我从中找到好几个炫酷、实用提高工作的工具，你也赶快来挑挑吧
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/my-mac-os.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/53133861.png' style="max-width:80%; max-height=80%;"></img></p>
 
 24、[OnlineToolsBook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhaoolee/OnlineToolsBook)：该项目收集了一些有趣、实用的在线工具网站，点开即用
 
@@ -212,7 +212,7 @@ print(bond_df)
 26、[cookbook-2nd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ipython-books/cookbook-2nd)：《IPython Cookbook 第二版》
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/img/cookbook-2nd.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/90548944.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

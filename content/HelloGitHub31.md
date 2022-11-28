@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 31 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
@@ -22,7 +22,7 @@
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -36,7 +36,7 @@
 2、[obs-studio](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/obsproject/obs-studio)：由 OBS 项目维护的免费开源流媒体和录制程序。该程序支持 Windows 7、macOS 10.10、Ubuntu 14.04 操作系统。可用于直播和屏幕录制，[下载地址](https://github.com/obsproject/obs-studio/releases)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/obs-studio.jpg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/13233158.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -138,7 +138,7 @@ client.SetSignType(HMACSHA256)
 8、[AndroidAutoSize](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JessYanCoding/AndroidAutoSize)：学习成本极低的 Android 屏幕适配方案，已被知名 APP 用于线上产品
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/AndroidAutoSize.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/145098146.png' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[MyPerf4J](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LinShunKang/MyPerf4J)：一个针对高并发、低延迟应用设计的高性能 Java 性能监控和统计工具。特性：
 - 高性能: 单线程支持每秒 1000 万次 响应时间的记录，每次记录只花费 73 纳秒
@@ -148,7 +148,7 @@ client.SetSignType(HMACSHA256)
 - 高实时：支持秒级监控，最低 1 秒
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/MyPerf4J.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/124743561.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[XChart](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/knowm/XChart)：用于绘制数据的轻量级 Java 库。示例代码：
 ```java
@@ -165,7 +165,7 @@ BitmapEncoder.saveBitmapWithDPI(chart, "./Sample_Chart_300_DPI", BitmapFormat.PN
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/XChart.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/2078882.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -188,7 +188,7 @@ BitmapEncoder.saveBitmapWithDPI(chart, "./Sample_Chart_300_DPI", BitmapFormat.PN
 15、[awslogs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jorgebastida/awslogs)：一个简单的命令行工具，用于在本地查询 Amazon CloudWatch 日志，强大的支持多实例日志汇总查看。简单的查看命令：`awslogs get /var/logs/syslog ALL -s1d`
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/awslogs.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/29613985.png' style="max-width:80%; max-height=80%;"></img></p>
 
 16、[CUP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/baidu/CUP)：CUP 基础库是百度开源的 Python 语言基础库，致力将 DEV 从涉及底层操作、Util 操作类解放出来，使其更关注构建 service 上层业务逻辑。
 目前已涵盖了构建一个服务的各个方面，大家可以从基础库的代码结构、wiki、doc 中进行简单了解。
@@ -223,7 +223,7 @@ cup
 18、[Gifski](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/Gifski)：Gifski这个开源程序可以将一系列图片或一段视频转化为高质量的gif，高质量是这个程序最大的特色，下面我们将从使用与评价两个方面来介绍这个程序。Gifski实际上适用于windows，mac以及linux三个平台，唯一不同的是，mac平台上的gifski内置了视频分帧工具，因此可以直接把视频拖入程序窗口即可生成gif，而其它平台上则只能使用第三方程序分帧后才能处理，并且要在命令行中运行
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/gifski-app.jpg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/119822304.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

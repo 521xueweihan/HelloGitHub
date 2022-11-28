@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 78 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
@@ -28,7 +28,7 @@
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -44,7 +44,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/6111297.png' style="max-width:80%; max-height=80%;"></img></p>
 
-2、[CPU-X](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/X0rg/CPU-X)：一款显示电脑 CPU、主板等信息的免费工具。能够显示设备的 CPU、主板、内存、显卡、操作系统等信息，支持 GUI 和命令行两种启动方式，适用于 Linux 和 FreeBSD 操作系统。
+2、[CPU-X](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TheTumultuousUnicornOfDarkness/CPU-X)：一款显示电脑 CPU、主板等信息的免费工具。能够显示设备的 CPU、主板、内存、显卡、操作系统等信息，支持 GUI 和命令行两种启动方式，适用于 Linux 和 FreeBSD 操作系统。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/24292801.png' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 41 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
@@ -24,7 +24,7 @@
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -87,7 +87,7 @@ cd gridstudio && ./run.sh # 直接运行
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/gridstudio.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/198441611.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[simple-computer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/djhworld/simple-computer)：一个用 Go 语言模拟简单计算机 CPU 的项目。只有 Go 语言的函数，没有硬件的模块，从与非门直到一台能做加减运算和显示的迷你虚拟计算机。这些是计算机最底层、基础的东西，虽然是使用 Go 语言模拟，而不是用硬件打造而。但是计算机的基本结构，运行的基本原理都显示的非常清楚。对于新手，既能了解 CPU 原理，也会发现编程语言除了能写软件之外的其他有趣用处。安装命令：
 ```bash
@@ -97,7 +97,7 @@ make test # 测试
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/simple-computer.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/186473531.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -132,22 +132,22 @@ SmartSwipeRefresh.translateMode(view, false).setDataLoader(loader);
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/SmartSwipe.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/196566030.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 8、[SoloPi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alipay/SoloPi)：一个不需要连接电脑、非侵入式的 Android 自动化工具。公测版拥有录制回放、性能测试、一机多控三项主要功能，能为测试开发人员节省宝贵时间。安卓版本多、终端型号多，一个成熟安卓应用的上线需要进行大量测试，而很多测试都是属于重复操作，通过此工具可以极大简化测试人员的工作量
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/SoloPi.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/175650201.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[vhr](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lenve/vhr)：一个前后端分离的人力资源管理系统。该项目采用 SpringBoot + Vue 架构，这两个都是近些年很流行的框架。该项目涉及的场景很多，可作为全栈工程师的入门实践
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/vhr.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/116237823.png' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[XUI](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xuexiangjys/XUI)：一个简洁而优雅的 Android 原生 UI 框架。让原生 Android 开发人员也能像 web 开发者一样，拥有方便的 UI 库。该项目适用于有一定 Android 开发经验的开发者
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/XUI.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/164397881.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -155,7 +155,7 @@ SmartSwipeRefresh.translateMode(view, false).setDataLoader(loader);
 11、[chart.xkcd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/timqian/chart.xkcd)：手绘风格的 JS 图表库。手绘风格的设计给人一种很可爱的感觉，看了这些图表你会发现数据也可以以萌萌哒的形式展示
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/chart.xkcd.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/200573908.xkcd' style="max-width:80%; max-height=80%;"></img></p>
 
 12、[fullPage.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alvarotrigo/fullPage.js)：通过调用 fullPage 可轻易创建全屏滚动网站（也称为单页网站）。 fullPage 可创建全屏滚动网站，同时也可在网站中添加横向滚动条。适合快速搭建全屏滚动或者拥有视觉差的站点，使得网站看上去更加高端、大气、上档次，示例代码：
 ```javascript
@@ -168,22 +168,22 @@ SmartSwipeRefresh.translateMode(view, false).setDataLoader(loader);
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/fullPage.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/12972263.png' style="max-width:80%; max-height=80%;"></img></p>
 
 13、[PicGo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Molunerfinn/PicGo)：基于 electron-vue 实现的桌面图床工具。该工具可以帮助你高效、非常方便地上传图片到网络图床，包括了微博图床、七牛图床、腾讯云 COS、又拍云、GitHub、SM.MS、阿里云OSS、Imgur 等。只要使用快捷键或拖动就可以上传，而且上传成功的图片链接会自动复制到你的剪贴板里，支持 macOS、Windows、Linux 三大系统
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/PicGo.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/113965016.png' style="max-width:80%; max-height=80%;"></img></p>
 
 14、[Valine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xCss/Valine)：一款快速、简洁且高效的无后端的 JS 评论插件。该库使用 LeanCloud API 存储数据，且设计美观、体积小、支持 Markdown 和 Emoji。对于使用 Hexo、Hugo 等静态网页博客主来说，它简直就是福音。通过简单的几步就可以快速的给自己的博客增加评论功能，你还不快来试试
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/Valine.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/99242671.png' style="max-width:80%; max-height=80%;"></img></p>
 
 15、[webtorrent](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/webtorrent/webtorrent)：基于 JS 的流媒体种子客户端。不需要等待种子中的内容下载完毕，就可以马上播放种子中的内容，且有 Windows、Mac 和 Linux 操作系统的桌面版客户端。还在为等待下载而苦恼吗？有了它即可复制种子链接观看对应的视频内容
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/webtorrent.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/13584262.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -191,12 +191,12 @@ SmartSwipeRefresh.translateMode(view, false).setDataLoader(loader);
 16、[bullet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bchao1/bullet)：一个支持终端输入和菜单选择的 Python 库。可以让使用者在终端上用方向键移动、单选、复选、密码输入等，而且支持定制化格式和颜色。看下面的效果图你就知道它是干什么
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/bullet.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/171899746.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 17、[DaPy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JacksonWuxs/DaPy)：一个易用的数据分析 Python 库。通过提供合理的数据结构和丰富的机器学习模型，它能帮你快速地实现数据分析思路。简单来说，DaPy 能帮助你完成数据挖掘任务中的每一步，导入导出数据、预处理数据、特征工程、模型训练和模型评估等
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/DaPy.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/124340246.png' style="max-width:80%; max-height=80%;"></img></p>
 
 18、[PyUnit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jtyoui/PyUnit)：帮助学习 Python 的代码集合包。包含 20 多个简单易用的常用方法和数学函数，大多数方法在 100 行左右，而且每一个类的使用都有对应的测试用例。非常方便初学者学习，也可以帮助有经验的开发者快速实现一些功能。示例代码：
 ```python
@@ -217,7 +217,7 @@ if __name__ == '__main__':
 19、[overcommit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sds/overcommit)：一款可配置的 git hook 管理工具。git hook 是 git 的强大功能，当触发某一个 git 的事件，例如：add、commit、push 等操作时，会触发执行对应事件的附加操作（hook）。可以用来检测代码质量、commit 描述风格、控制代码质量等。overcommit 就是能让你不写一行代码（配置不算代码），来自定义 hook 要执行的操作。它使用简单、文档详尽、例子众多、社区活跃，值得一试
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/overcommit.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/1520275.png' style="max-width:80%; max-height=80%;"></img></p>
 
 20、[rest-client](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rest-client/rest-client)：一个 Ruby 的 HTTP 客户端库。已经有累计 10 万人在使用，该库使用方便、API 设计优雅、支持常用的 HTTP 方法、文件下载、设置代理等。每个方法基本都有示例代码：
 ```ruby
@@ -265,7 +265,7 @@ RestClient.post( url,
 21、[AppearancesSwitcher](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BoringApp/AppearancesSwitcher)：可以在 macOS 通知中心上快速切换“亮/暗”主题的小工具
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/AppearancesSwitcher.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/201937396.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -297,7 +297,7 @@ RestClient.post( url,
 28、[rasa](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RasaHQ/rasa)：一个专门为了多轮人机对话而生的框架。主要包含 Rasa Core、Rasa NLU 两大模块，提供了对话场景、意图理解、实体抽取等功能。用户只需按照平台的语料格式构建自己的语料，便可以方便的进行意图理解和实体抽取的训练。目前使用 Rasa 平台的用户也逐渐多了起来，除了官方文档网上也容易的找到相关的项目，便于学习和上手
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/rasa.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/70908208.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

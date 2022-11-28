@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 72 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
@@ -27,7 +27,7 @@
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -60,12 +60,12 @@ hashcat -a 3 -m 0 --force 0D7002A70CCDE8BF4BA2A4A5572A85E9(密码md5字符串) ?
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/hashcat.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/47409672.png' style="max-width:80%; max-height=80%;"></img></p>
 
 2、[reptyr](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nelhage/reptyr)：能够把旧终端运行中的程序，迁移到新终端窗口的实用工具
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/reptyr.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/1252864.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -73,7 +73,7 @@ hashcat -a 3 -m 0 --force 0D7002A70CCDE8BF4BA2A4A5572A85E9(密码md5字符串) ?
 3、[Monitorian](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/emoacht/Monitorian)：轻松调节多个显示器亮度的 Windows 桌面工具。操作界面支持中文，使用时显示器需要开启 DDC/CI
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/Monitorian.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/79386660.png' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[PluginCore](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yiyungent/PluginCore)：适用于 ASP.NET Core 的轻量级插件框架。开箱即用自带插件管理 Web 界面
 ```csharp
@@ -93,7 +93,7 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/PluginCore.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/393686145.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -123,7 +123,7 @@ DEF_main(argc, argv) {
 6、[log](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/adamschwartz/log)：浏览器 console.log  风格的 CSS 库。[查看效果](https://adamschwartz.co/log/)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/log.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/9401692.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -167,12 +167,12 @@ fmt.Println("cut use hmm: ", hmm)
 9、[hh-lol-prophet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/real-web-world/hh-lol-prophet)：英雄联盟对局先知工具。免费合法不封号，原理是基于 LOL 客户端接口获取用户数据，实现开局前对玩家信息分析和打分
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/hh-lol-prophet.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/460053762.png' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[illustrated-tls12](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/syncsynchalt/illustrated-tls12)：图解 TLS 连接。用在线交互的方式讲解 TLS 的全过程，从建立 TLS 1.2 客户端发送 ping 再到接收 pong，详细到每一个字节。[在线尝试](https://tls.ulfheim.net/)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/illustrated-tls.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/151671321.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -180,12 +180,12 @@ fmt.Println("cut use hmm: ", hmm)
 11、[LSPosed](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LSPosed/LSPosed)：运行于 Android 操作系统的钩子框架。支持 Android 8 以上，能够拦截几乎所有 Java 函数的调用，从而可被用来修改 Android 系统和软件的功能
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/LSPosed.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/320785435.png' style="max-width:80%; max-height=80%;"></img></p>
 
 12、[supertokens-core](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/supertokens/supertokens-core)：开源的身份验证方案。为你的应用轻松增加登录、会话管理等功能，支持自行搭建服务。可用作 Auth0 的开源替代品
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/supertokens-core.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/231921809.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -193,7 +193,7 @@ fmt.Println("cut use hmm: ", hmm)
 13、[chameleon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/didi/chameleon)：一端所见即多端所见。适应不同环境的跨端整体解决方案，支持 Web、小程序、快应用 等平台
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/chameleon.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/166419150.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 14、[charts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/frappe/charts)：简单、零依赖、响应式的 SVG 图表库
 ```javascript
@@ -221,7 +221,7 @@ const chart = new frappe.Chart("#chart",
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/charts.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/108395495.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 15、[lax.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alexfoxy/lax.js)：用于滚动时创建平滑和好看动画的库。简单轻量仅 4KB 大小，但功能齐全且灵活
 ```html
@@ -252,12 +252,12 @@ const chart = new frappe.Chart("#chart",
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/lax.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/175176201.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 16、[reveal.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hakimel/reveal.js)：一款 HTML 演示框架。让你摆脱传统死板的 PPT 制作方法，可以方便地使用 HTML、Markdown 语言制作 PPT
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/reveal.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/1861458.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 17、[tinykeys](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jamiebuilds/tinykeys)：极小的键盘事件监听库
 ```javascript
@@ -283,7 +283,7 @@ tinykeys(window, {
 18、[compose-tetris](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vitaviva/compose-tetris)：基于 Jetpack Compose 的俄罗斯方块游戏
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/compose-tetris.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/354306491.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -303,7 +303,7 @@ $ ./pokete/pokete.py
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/pokete.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/331361562.png' style="max-width:80%; max-height=80%;"></img></p>
 
 21、[rembg](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/danielgatis/rembg)：简单实用的删除图像背景/抠图工具
 ```python
@@ -319,12 +319,12 @@ output.save(output_path)
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/rembg.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/286500101.png' style="max-width:80%; max-height=80%;"></img></p>
 
 22、[saleor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/saleor/saleor)：用 Python 开发的电商平台。采用 Django+GraphQL API+React 构建，功能丰富支持移动端、订单、商品、用户管理等。[在线体验](https://demo.saleor.io/dashboard)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/saleor.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/8162715.png' style="max-width:80%; max-height=80%;"></img></p>
 
 23、[textdistance](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/life4/textdistance)：计算文本距离的常用算法库。包含计算文本相似度、多样性、编辑距离、压缩等多种算法，所有算法均采用 Python 实现，容易理解调用方便
 ```python
@@ -334,7 +334,7 @@ textdistance.hamming.normalized_similarity('test', 'text')
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/textdistance.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/90356012.png' style="max-width:80%; max-height=80%;"></img></p>
 
 24、[tiptop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nschloe/tiptop)：炫酷的命令行系统监控工具
 ```
@@ -343,7 +343,7 @@ textdistance.hamming.normalized_similarity('test', 'text')
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/tiptop.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/409999750.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -351,7 +351,7 @@ textdistance.hamming.normalized_similarity('test', 'text')
 25、[OnlySwitch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jacklandrin/OnlySwitch)：免费开源的 macOS 状态栏一键设置工具。可以轻松对系统功能进行设置，如隐藏桌面图标、清理 Xcode 缓存、一键隐藏刘海儿、进入夜览模式等数十种功能
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/OnlySwitch.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/433619938.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -362,17 +362,17 @@ textdistance.hamming.normalized_similarity('test', 'text')
 27、[design-patterns-for-humans](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kamranahmedse/design-patterns-for-humans)：人人都能看懂的设计模式教程。[中文](https://github.com/guanguans/design-patterns-for-humans-cn)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/design-patterns-for-humans.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/82227585.png' style="max-width:80%; max-height=80%;"></img></p>
 
 28、[electerm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/electerm/electerm)：一款支持 SSH/SFTP 的终端工具。支持中文和 Windows、Linux、macOS 操作系统
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/electerm.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/106087444.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 29、[ElectronBot](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/peng-zhihui/ElectronBot)：自制桌面级小机器人。它具备 USB 通信显示画面功能以及 6 个自由度，支持手势识别和人体关键点检测。这里有配套的全部开发资料和 SDK，让你也可以制作出一个这样有趣的机器人
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/ElectronBot.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/468685658.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 30、[english-words](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dwyl/english-words)：大型英语单词文本。它是基于 WordNet 英语词汇数据库整理的文本文件，可用于英语自动提示、自动搜索等功能
 
@@ -380,13 +380,15 @@ textdistance.hamming.normalized_similarity('test', 'text')
 31、[Learn-Vim](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iggredible/Learn-Vim)：学习 Vim 的指南。该教程不是“大而全的百科全书”，它着重介绍了 Vim 中最常用的功能，让你可以快速熟悉和使用 Vim。[中文](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
 
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/279310322.png' style="max-width:80%; max-height=80%;"></img></p>
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
 32、[Deep-Learning-with-TensorFlow-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)：《TensorFlow 深度学习》
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/Deep-Learning-with-TensorFlow-book.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/192155460.png' style="max-width:80%; max-height=80%;"></img></p>
 
 33、[microfrontends](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/phodal/microfrontends)：《微前端的那些事儿》 将 Web 应用由单一的单体应用，转变为多个小型前端应用聚合为一的应用
 
@@ -397,7 +399,7 @@ textdistance.hamming.normalized_similarity('test', 'text')
 34、[awesome-automl-papers](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hibayesian/awesome-automl-papers)：汇集了自动机器学习（AutoML）相关的论文、文章、教程等资源的项目
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/awesome-automl-papers.jpeg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/111381431.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 35、[deep-learning-for-image-processing](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)：深度学习在图像处理方面的教程。该项目配以视频的方式介绍知识点和搭建方法，对应的 PTT 在 course_ppt 目录下
 
@@ -420,7 +422,7 @@ class PreprocImg(Executor):
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/img/jina.jpg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/240315046.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

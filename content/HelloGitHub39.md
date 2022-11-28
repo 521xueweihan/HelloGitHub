@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 39 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
@@ -27,7 +27,7 @@
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -60,7 +60,7 @@ var t3 = fsql.Select<Xxx>()
 2、[marksentence](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/leihui6/marksentence)：这是一个在托福听力中标记句子的工具（即精听工具）。在听力时可文本对照，并且对听力音频中没听懂片段进行标记，并选择标记理由，方便日后的反复复习
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/marksencent.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/183042464.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 3、[pprint](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/p-ranav/pprint)：一个让输出变得更漂亮的 C++ 库。就像 python 语言的 pprint 库，它对基本类型、字符串、复数、enum 类型、STL 容器等做了输出格式优化，有了缩进和分行才更容易发现这个世界的美好。示例代码如下：
 ```c++
@@ -81,7 +81,7 @@ printer.print(std::map<std::string, std::set<int>>{{"foo", {1, 2, 3, 3, 2, 1}}, 
 4、[RemixIcon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Remix-Design/RemixIcon)：一套免费、可商用、设计精美、细致的图标库。看到它第一眼后，我感觉自己之前用的图标简直就是枯草🙈。这个项目可以让开发者、设计师在一个图标库中快速找到适合的图标，用于自己的网站或 APP 开发。不同于混搭收集的图标库，RemixIcon 的每一枚图标都是由设计师精心设计而成，并且每一枚图标都包含填充和描边两种风格，便于切换使用
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/RemixIcon.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/161979323.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -120,12 +120,12 @@ docker run -it --rm -p 8081:8081 goalert/all-in-one
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/goalert.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/188457198.png' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[olivia](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/olivia-ai/olivia)：一个类似 Siri 的开源语音助手，目前只支持英文。开源的语音助手并不多，而且涉及的问题很复杂，现在有了它就可以基于这个项目做一些有趣的小应用
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/olivia.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/136217503.png' style="max-width:80%; max-height=80%;"></img></p>
 
 8、[script](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bitfield/script)：一个封装好的 OS 三方库，解决了 Go 使用 OS 标准库错误处理的麻烦。如果没有它，打开一个文件查找一个关键字再统计下数量，你至少会需要 2-3 个异常处理的逻辑。有了它，只需要：
 ```go
@@ -143,7 +143,7 @@ doc.X().Background.ColorAttr.ST_HexColorRGB = color.RGB(50, 50, 50).AsRGBString(
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/unioffice.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/101704343.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -151,17 +151,17 @@ doc.X().Background.ColorAttr.ST_HexColorRGB = color.RGB(50, 50, 50).AsRGBString(
 10、[Java](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TheAlgorithms/Java)：一份算法清单，详细演示了 Java 中内置的算法实现。如果你想要知道平时使用 Java 时，Java 的内置算法如何帮你处理任务，那么这个项目值得一读。此外，这份清单中还用到了配图来帮助你理解
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/Java.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/63477660.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[Linkage-RecyclerView](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/KunMinX/Linkage-RecyclerView)：一款基于 MVP 架构开发的二级联动列表控件，高度解耦、轻松配置、使用方便。依托于 MVP 的 “配置解耦” 特性，使用者无需知道内部的实现细节，仅通过实现配置类即可完成功能的定制和扩展。此外，在不设置自定义配置的情况下，最少只需一行代码即可运行起来
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/Linkage-RecyclerView.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/182623865.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 12、[SmoothRefreshLayout](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dkzwm/SmoothRefreshLayout)：一个高效、强大的 Android 刷新库。支持越界回弹、二级刷新、横向刷新、拉伸回弹、类QQ下拉回弹效果等
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/SmoothRefreshLayout.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/92929173.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -175,7 +175,7 @@ doc.X().Background.ColorAttr.ST_HexColorRGB = color.RGB(50, 50, 50).AsRGBString(
 15、[filepond](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pqina/filepond)：一个 JavaScript 文件上传库。可以上传拖入的任何内容，具有体积小、上传快、方便的文件管理等特点，从而让用户享受‘丝滑’般的文件上传体验
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/filepond.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/106279637.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 16、[HitUP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wonderbeyond/HitUP)：一款发现 Top 系列的 Chrome 扩展。它会替换掉浏览器默认的 New Tab 空白页面，助你保持对流行技术趋势的跟进。核心功能是展示 GitHub 上近期最流行的项目，并会围绕 “Find top things” 的主题谨慎添加新特性，让你对新技术和新事物‘了如指掌’
 
@@ -189,7 +189,7 @@ doc.X().Background.ColorAttr.ST_HexColorRGB = color.RGB(50, 50, 50).AsRGBString(
 18、[OpenEmu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OpenEmu/OpenEmu)：在 macOS 系统上回味下童年时的游戏，一个可以玩各种复古游戏的游戏机
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/OpenEmu.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/1185279.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -197,7 +197,7 @@ doc.X().Background.ColorAttr.ST_HexColorRGB = color.RGB(50, 50, 50).AsRGBString(
 19、[FreshRSS](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FreshRSS/FreshRSS)：一个 PHP 写的免费自托管 RSS 阅读器（free and free），据说上万条订阅都不带卡顿。可分配多账户、支持第三方安卓、iOS 客户端、支持 FEVER API 协议，与 Rsshub 搭配使用，完美解决 RSS 重度用户的痛点。是 RSS 爱好者的福音和神器
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/FreshRSS.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/6322699.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -232,7 +232,7 @@ doc.X().Background.ColorAttr.ST_HexColorRGB = color.RGB(50, 50, 50).AsRGBString(
  3Blue1Brown 的视频中所展示的那样，效果炫酷。但要学会和用好这个工具需要花些精力
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/manim.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/32689863.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 23、[psutil](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/giampaolo/psutil)：一个跨平台库的进程和系统资源监控、管理库。用于查看有关正在运行的进程和系统利用率，如 CPU、内存、磁盘、网络等信息。 实现了 UNIX 命令行工具提供的许多功能，例如：ps、top、lsof、netstat、ifconfig 等，支持 Linux、Windows、macOS 等系统。学会了这个库，就可以通过 Python 脚本做更多有趣的事情了。查看内存的代码：
 ```
@@ -269,7 +269,7 @@ Downloading 完整版第五期：陈晓卿 中国有俩行当门槛极低——�
 26、[timer-app](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/michaelvillar/timer-app)：一个 macOS 上简单的计时器软件。拖动蓝色箭头设置时间，当时间到了会显示通知，并发出一个很好的声音
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/timer-app.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/55126195.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -304,7 +304,7 @@ Downloading 完整版第五期：陈晓卿 中国有俩行当门槛极低——�
 34、[ImageMiniLab](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/itisyang/ImageMiniLab)：图像迷你实验室，可进行图像实验、处理、分析。使用 PyQt5 结合 opencv-python 实现代码简洁易读，通过该工具可以快速演示图像算法效果，便于 cv 入门学习
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/img/ImageMiniLab.jpg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/92602736.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 35、[PyTorch-NLP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PetrochukM/PyTorch-NLP)：简称 torchnlp 是一个支持快速原型设计（包括数据集和神经网络层）的 PyTorch-NLP 工具包。该库封装好了神经网络层、文本处理模块和数据集库，有利于加速自然语言处理研究和实践。示例代码：
 ```python

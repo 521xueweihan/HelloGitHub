@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 79 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
@@ -27,7 +27,7 @@
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -67,7 +67,7 @@ masscan -p 0-65535 IP --rate=1000
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/311683390.png' style="max-width:80%; max-height=80%;"></img></p>
 
-8、[NotepadNext](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dail8859/NotepadNext)：Notepad++  的开源替代品。采用 C++ 重写的跨平台文本编辑器，拥有和 Notepad++ 相似的界面和功能。
+8、[NotepadNext](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dail8859/NotepadNext)：Notepad++  的替代品。采用 C++ 重写的跨平台文本编辑器，拥有和 Notepad++ 相似的界面和功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/224468265.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -113,7 +113,7 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/489681062.png' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[mizu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/up9inc/mizu)：强大的 Kubernetes API 流量查看工具。如果把 k8s 比作操作系统，那它就是 k8s 上的 tcpdump，使用起来就像 Chrome 开发者工具一样简单直接，能够让 k8s 上微服务之间的网络通信一览无遗。
+12、[kubeshark](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kubeshark/kubeshark)：强大的 Kubernetes API 流量查看工具。如果把 k8s 比作操作系统，那它就是 k8s 上的 tcpdump，使用起来就像 Chrome 开发者工具一样简单直接，能够让 k8s 上微服务之间的网络通信一览无遗。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/359419233.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -391,7 +391,7 @@ print(result["text"])
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub78.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub78.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub80.md">『下一期』</a>
 </p>
 
 ---

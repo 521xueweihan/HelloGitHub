@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 46 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
@@ -24,7 +24,7 @@
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -44,12 +44,12 @@
 3、[indicators](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/p-ranav/indicators)：一个使用 C++ 编写的进度条库，你可以用它在命令行中实现美观的进度条。它使用方便、线程安全、支持多种进度条样式
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/indicators.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/225650140.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[sudoku](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mayerui/sudoku)：C++ 实现的命令行数独游戏。600 余行代码，初学者也可以轻松学习
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/sudoku.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/147114859.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -75,12 +75,12 @@ func main() {
 - 支持索引、外键等
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/gormt.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/185033017.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[statping](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/statping/statping)：一个 Go 编写的服务状态展示页项目。通过该项目可以快速搭建起一个展示服务可用状态、服务质量的页面
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/statping.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/136770331.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -88,7 +88,7 @@ func main() {
 8、[gradle](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gradle/gradle)：一个基于 Apache Ant 和 Maven 概念的项目自动化建构工具（干了这两个工具的活）。它使用一种基于 Groovy 的特定领域语言来声明项目设置，而不是传统的 XML（更灵活）。当前其支持的语言限于 Java、Groovy 和 Scala，计划未来将支持更多的语言
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/gradle.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/302322.png' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[jodd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/oblac/jodd)：一组以极简为原则的 Java 服务框架和实用工具的项目。这不是一个介绍 Java 项目的集合，而是把经常会用到的功能，用尽可能少的代码实现并封装成库，供开发人员选择使用。当你要用 Java 快速实现一些功能的时候，从而不需要引入繁重的库就可以快速实现功能。一个功能一个库，灵活使用、极简实用，便于学习和理解
 ```
@@ -105,7 +105,7 @@ Jodd = tools + ioc + mvc + db + aop + tx + json + html < 1.7 Mb
 11、[concent](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/concentjs/concent)：一个兼容 Redux 生态的渐进式和高性能状态管理方案。基于依赖标记、引用收集和状态分发原理工作，通过独有的实例上下文机制增强组件能力，抹平类组件和函数组件的生命周期函数写法差异。内置 computed、watch、setup、event 等高级特性，让逻辑复用更优雅、组件表现形式更丰富、应用架构更稳健
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/concent.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/186519945.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 12、[fe-interview](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/azl397985856/fe-interview)：项目作者总结关于准备前端面试的复习汇总项目，项目不定时更新。这不仅仅是一份用于求职面试的攻略，也是一份前端小伙伴用来检视自己，实现突破的宝典。希望通过这个指南，大家可以打通自己的任督二脉，在前端的路上更进一步
 
@@ -113,7 +113,7 @@ Jodd = tools + ioc + mvc + db + aop + tx + json + html < 1.7 Mb
 13、[gods-pen](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ymm-tech/gods-pen)：一个在线生成 H5 页面的平台。用户无需掌握复杂的编程技术，通过简单拖拽、少量配置即可快速制作精美的页面，可用于营销场景下的页面制作。同时，也为开发者提供了完备的编程接入能力，通过脚本和组件的形式获得强大的组件行为和交互控制能力
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/gods-pen.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/180064351.png' style="max-width:80%; max-height=80%;"></img></p>
 
 14、[p5.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/processing/p5.js)：一个 JavaScript 创意编程程式库，可以用来绘图、实现艺术创意等。使用该库只需要会 JS 代码就可以用它画出许多有趣的东西，文档齐全能够快速上手，还有在线编辑器。[官网](https://p5js.org/zh-Hans/)，示例代码：
 ```javascript
@@ -132,7 +132,7 @@ function draw() {
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/p5.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/8424040.png' style="max-width:80%; max-height=80%;"></img></p>
 
 15、[vue-monoplasty-slide-verify](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/monoplasty/vue-monoplasty-slide-verify)：基于 Vue2.0+ 的验证码插件。可用于网页注册等需要验证码的地方，滑动式的验证码免于字母验证码的繁琐输入。[在线演示](https://monoplasty.github.io/vue-monoplasty-slide-verify/)，示例代码：
 ```javascript
@@ -163,7 +163,7 @@ export default {
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/vue-monoplasty-slide-verify.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/144220810.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -171,12 +171,12 @@ export default {
 16、[Bob](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ripperhe/Bob)：一款支持划词翻译和截图翻译 Mac 端翻译软件。系统默认划词工具有些不支持的 PDF 文件，通过这个软件截图翻译功能，可以舒服的解决阅读这些文件时需要翻译的问题
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/Bob.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/216210734.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 17、[textmate](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/textmate/textmate)：一款 macOS 上著名的开源代码编辑器。它界面简洁，功能强大。支持高效的 Snippets 功能、主流版本控制系统、自定义主题、实时 HTML/Markdown 预览等功能
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/textmate.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/5344375.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -204,7 +204,7 @@ var_dump($curl->getResponse());exit;
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/php-curl-class.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/12165811.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -212,12 +212,12 @@ var_dump($curl->getResponse());exit;
 20、[KeymouseGo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/taojy123/KeymouseGo)：Python 实现的精简绿色版按键精灵。记录用户的鼠标、键盘操作，自动执行之前记录的操作，可设定执行的次数。在进行某些简单、单调重复的操作时，使用该软件可以十分省事儿。只需要录制一遍，剩下的交给 KeymouseGo 来做就可以了
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/KeymouseGo.jpg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/30101893.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 21、[sentry](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/getsentry/sentry)：一款免费开源的 Python 实时异常监控平台。采用 C/S 模式，服务器端通过 Python 实现，同时提供 web 管理页面，支持从任何语言、任何应用程序发送事件。一个成熟的服务必要的一环就是异常告警，Sentry 可以帮你及时知道服务非预期的异常
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/sentry.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/873328.png' style="max-width:80%; max-height=80%;"></img></p>
 
 22、[vaex](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vaexio/vaex)：类似 Pandas 的 Python 数据处理库，在处理大型数据集的时候表现极大的优于 Pandas。Vaex 通过懒加载、延迟计算和零内存复制策略，极大的降低了内存的使用率、提高了计算的效率。从而能够每秒处理 10 亿行的数据，并且支持以直方图、密度图等形式展示数据。有大数据集处理需求的小伙伴赶快试试吧
 
@@ -234,20 +234,20 @@ image.show()
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/word_cloud.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/6536534.png' style="max-width:80%; max-height=80%;"></img></p>
 
 24、[ZeroNet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HelloZeroNet/ZeroNet)：一个使用 Bitcoin 加密和 BitTorrent 网络的去中心化网络。将传统巨头垄断的互联网变得平民化，不需要租用服务器不需要公网 IP，每个人都可以轻松创建分布式博客、分布式论坛、分布式微博、分布式视频网站、分布式直播网站等等
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/ZeroNet.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/29112049.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Ruby 项目
-25、[astuto](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/riggraz/astuto)：一个免费、开源的 Ruby 自托管客户反馈平台。它可以帮助您收集、管理用户的反馈并设置其优先级。客户反馈是大部分网站不可或缺的功能，使用 astuto 能够十分快速的给你的网站加上此功能
+25、[astuto](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/astuto/astuto)：一个免费、开源的 Ruby 自托管客户反馈平台。它可以帮助您收集、管理用户的反馈并设置其优先级。客户反馈是大部分网站不可或缺的功能，使用 astuto 能够十分快速的给你的网站加上此功能
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/astuto.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/203002681.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -286,12 +286,12 @@ Hippy
 - 播放器推荐：IINA（Mac）、VLC（Linux）、Potplayer（Windows）
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/iptv.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/157616880.png' style="max-width:80%; max-height=80%;"></img></p>
 
 28、[powerlevel9k](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Powerlevel9k/powerlevel9k)：一款 ZSH 系的 Powerline 主题。效果如下图：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/powerlevel9k.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/30003816.png' style="max-width:80%; max-height=80%;"></img></p>
 
 29、[valval](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/valvalio/valval)：一个基于 V 语言的 web 框架。V 语言是一门还在开发和完善过程中的语言，还不怎么成熟但却十分适合用于 web 开发，不仅官方的标准库中提供了 vweb 以及 orm 的支持，不少开发者也都推出了各自的 web 开发框架，valval 就是其中之一。示例代码如下：
 ```v
@@ -310,7 +310,7 @@ fn main() {
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/valval.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/226818047.png' style="max-width:80%; max-height=80%;"></img></p>
 
 30、[wuhan2020](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wuhan2020/wuhan2020)：武汉新型冠状病毒防疫信息收集平台。[在线浏览](https://wuhan2020.github.io/)
 
@@ -318,7 +318,7 @@ fn main() {
 31、[zotero](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zotero/zotero)：一款开源文献管理工具。可以方便的管理、收集、组织、引用和共享文献的工具，经常进行学术研究和文献阅读的小伙伴请收好
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/zotero.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/2656556.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -335,7 +335,7 @@ print(text)
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/img/faceai.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/129874045.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

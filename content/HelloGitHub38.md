@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 38 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
@@ -23,7 +23,7 @@
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -34,7 +34,7 @@
 1、[terminal](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/terminal)：微软开源的一个全新、现代、功能丰富、高效的 Windows 终端应用程序。它支持 Windows 命令行社区最常用的许多命令，还支持选项卡、富文本、全球化、可配置性、主题和样式等功能。一直以来 Windows 不被开发者青睐的原因之一就是终端不好用，现在有了这个我都想买个 Windows 系统的电脑了（确定不是打游戏？）
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/Terminal.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/100060912.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -42,12 +42,12 @@
 2、[CovenantSQL](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CovenantSQL/CovenantSQL)：具有区块链特性的去中心化 SQL 关系型数据库。可以提供 DBaaS 服务，去中心化存储保证用户隐私。[中文文档](https://developers.covenantsql.io/docs/zh-CN/intro)，MacOS 系统可以通过 `brew install cql` 直接安装
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/CovenantSQL.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/129072319.png' style="max-width:80%; max-height=80%;"></img></p>
 
 3、[diving](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vicanso/diving)：基于 [dive](https://github.com/wagoodman/dive) 分析 docker 镜像，界面化展示了镜像每层的变动（增加、修改、删除等）、用户层数据大小等信息。便捷获取镜像信息和每层镜像内容的文件树，可以方便地浏览镜像信息。对于需要优化镜像体积时非常方便
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/diving.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/168781242.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[gameboy.live](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HFO4/gameboy.live)：Gameboy 模拟器，还可以通过 socket 远程玩
 ```
@@ -76,7 +76,7 @@ Usage of gbdotlive:
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/gameboy.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/182409579.png' style="max-width:80%; max-height=80%;"></img></p>
 
 5、[golang-developer-roadmap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Alikhll/golang-developer-roadmap)：成为 Go 开发者的学习路线图，[中文版](https://github.com/Alikhll/golang-developer-roadmap/blob/master/i18n/ReadMe-zh-CN.md)
 
@@ -94,7 +94,7 @@ fmt.Println(resp.Text)
 7、[redis-tui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mylxsw/redis-tui)：炫酷的 redis 命令行图形界面工具
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/redis-tui.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/182524195.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 8、[scheduler](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/prprprus/scheduler)：Go 语言实现的作业调度工具包。适用于需要任务调度的场景，能够让初学者学到 time、reflect 等标准库的用法，[中文文档](https://github.com/prprprus/scheduler/blob/master/README-zh.md)
 
@@ -105,7 +105,7 @@ fmt.Println(resp.Text)
 9、[Android-BLE](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aicareles/Android-BLE)：Android 蓝牙框架，包括扫描、连接、设置通知、发送数据、读取、接收数据和 OTA 升级等。近乎一行代码植入项目，可扩展、配置蓝牙相关操作，适用于 Android-BLE4.0 蓝牙。即便是 BLE 方面的小白也可以在短短几分钟内接入并运用到项目中
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/Android-BLE.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/75049680.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[generator-jhipster](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jhipster/generator-jhipster)：用于在几秒钟内创建 Spring Boot + Angular/React 项目的开源应用程序生成器（脚手架）。它可以自动化生成一个完整 Web 应用或微服务架构，加快项目的开发效率。特点和技术栈：
 - 基于 Spring Boot 框架的服务端，具备高性能和高可用的 Java 技术栈
@@ -139,7 +139,7 @@ holder.showEmpty()
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/Gloading.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/176971716.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 12、[rhizobia_J](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/momosecurity/rhizobia_J)：陌陌开源的 Java 安全编码规范和 SDK
 
@@ -150,7 +150,7 @@ holder.showEmpty()
 13、[ieaseMusic](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/trazyn/ieaseMusic)：基于网易云音乐 API 开发的第三方客户端，支持 Linux、Mac OS 系统。成熟的 JS 桌面应用产品，颜值很高，音乐资源丰富
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/ieaseMusic.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/104079562.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 14、[practice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mintsweet/practice)：使用当下流行的多种不同前端技术栈，实现不同项目的详细教程，教你如何快速上手这些技术。虽然项目名称叫做 `Practice` 但是内容为当前前端最火的框架实践，而且符合生产环境下的开发流程规范，推荐学习
 
@@ -167,7 +167,7 @@ holder.showEmpty()
 17、[wizard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mylxsw/wizard)：一款基于 Laravel 开发框架的开源文档管理系统。目前已经在多家公司部署使用，支持：Markdown、Swagger 文档管理，公司内部的统一身份认证系统（LDAP）等功能
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/wizard.jpeg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/98536285.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -175,7 +175,7 @@ holder.showEmpty()
 18、[city-vein](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/antct/city-vein)：用公交路线数据，还原城市结构。通过数据可视化手段，还原了 30 多个城市的城市结构。该项目中有数据获取和处理的脚本，而且该项目充分体现了数据可视化带来的便利和效果，易于激发学习编程的热情。[在线浏览](https://96486d9b.github.io/city-vein/)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/city-vein.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/131034378.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 19、[PySnooper](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cool-RR/PySnooper)：Python 的第三方调试库。让你通过装饰器方法，方便的知道每一行程序运行后的结果，而不需要再手动增加 `print` 展示过程数据、调试程序。示例代码：
 ```python
@@ -219,7 +219,7 @@ Modified var:.. number = 3
 22、[huginn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huginn/huginn)：基于 Ruby 开发的自动化处理任务工具。可以监控事物然后根据编写好的逻辑进行处理（IFTTT），比如：监控天气然后通过微信提醒你带伞、追的小说或者动漫更新通知、聚合信息发送等。它框架稳定、生态活跃，有了它从而让你的生活更加有效率，快去试试吧
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/huginn.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/8681349.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -227,12 +227,12 @@ Modified var:.. number = 3
 23、[Brooklyn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pedrommcarrasco/Brooklyn)：炫酷的苹果电脑屏幕保护程序
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/Brooklyn.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/155397367.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 24、[PopMenu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CaliCastle/PopMenu)：一款简单、漂亮、方便、灵活自定义的弹出菜单组件。如果你的 App 需要一款灵活好看的弹出菜单的话，那么 PopMenu 值得你一试
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/PopMenu.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/129322624.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -240,7 +240,7 @@ Modified var:.. number = 3
 25、[3d-game-shaders-for-beginners](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lettier/3d-game-shaders-for-beginners)：有关如何为 3D 游戏实施 SSAO、景深、照明、法线贴图等效果的教程。包含示例代码（C++）与 Demo，更便于理解和学习
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/3d-game-shaders-for-beginners.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/186309296.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 26、[algo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wangzheng0822/algo)：必知必会的数据结构和算法代码答案（多种编程语言）
 
@@ -251,7 +251,7 @@ Modified var:.. number = 3
 28、[hacker-laws](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dwmkerr/hacker-laws)：程序员工作中可能使用到的定律、原则的讲解，这些原则多应用于我们的开发和设计中，开卷有益
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/hacker-laws.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/118858739.png' style="max-width:80%; max-height=80%;"></img></p>
 
 29、[vim-bootstrap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/editor-bootstrap/vim-bootstrap)：一个简单、易用的 `.vimrc` 配置文件生成工具，也可通过[网站](https://vim-bootstrap.com/)点选生成。支持 Vim、NeoVim、NeoVim-Qt、MacVim 和 GVim。特点：
 - 轻量：包含少且必要的插件
@@ -297,7 +297,7 @@ class IrisClassifier(BentoService):
 34、[maskrcnn-benchmark](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facebookresearch/maskrcnn-benchmark)：Facebook 开源的 PyTorch 版本的 Mask-RCNN。研究人员可以按照教程、示例代码逐步进行实现
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/maskrcnn-benchmark.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/154542095.png' style="max-width:80%; max-height=80%;"></img></p>
 
 35、[mlcourse.ai](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Yorko/mlcourse.ai)：一套机器学习课程。课程全面细致，同时带有 demo 以及进阶的 Kaggle 比赛的样例，非常适合初学者逐步的深入学习
 

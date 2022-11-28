@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 14 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
@@ -23,7 +23,7 @@
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -45,7 +45,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 2、[bfs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/baidu/bfs)：百度文件系统，架构图如下：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/bfs-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/26562172.png' style="max-width:80%; max-height=80%;"></img></p>
 
 3、[SQLAdvisor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Meituan-Dianping/SQLAdvisor)：美团点评公司 DBA 团队开源的一个分析 SQL 并给出索引优化建议的工具，开源内容和内部使用保持一致，文档齐全
 
@@ -57,7 +57,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/fsql.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/89662045.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 5、[go.uuid](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/satori/go.uuid)：Go 的 [UUID](http://baike.baidu.com/item/UUID) 包
 
@@ -84,7 +84,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/browserquest-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/2491285.png' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[deep-into-node](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yjhjstz/deep-into-node)：深入理解 Node.js 的核心思想与源码分析
 
@@ -93,7 +93,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/rental-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/70337112.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -102,7 +102,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/iterm2-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/1580036.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -111,7 +111,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/nextcloud-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/60243197.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -120,19 +120,19 @@ gcc -g -O2 testSearcher.c ip2region.c
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/cerbot-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/26516210.png' style="max-width:80%; max-height=80%;"></img></p>
 
 16、[explainshell](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/idank/explainshell)：一个可以解析 Linux 命令的网站，它可以给出命令的解释和其参数的解释，例如：`ps -aux|grep python`，[在线演示](https://www.explainshell.com/)
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/explainshell-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/12484808.png' style="max-width:80%; max-height=80%;"></img></p>
 
 17、[pdir2](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/laike9m/pdir2)：Python 程序员需要一个更好的 `dir()` —— 以更加友好的显示 `dir()` 输出的结果
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/pdir2.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/83316119.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -143,7 +143,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/emoji-intelligence.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/87763802.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

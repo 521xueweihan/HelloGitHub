@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 21 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
@@ -22,7 +22,7 @@
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -52,7 +52,7 @@
 3、[mattermost-server](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mattermost/mattermost-server)：采用 Go 语言开发的团队通讯服务项目，可用于自行搭建服务。为团队带来跨 PC 和移动设备的消息收发、文件分享，搜索等功能的通讯服务平台
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/mattermost-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/37448451.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -60,7 +60,7 @@
 4、[android-material-design-icon-generator-plugin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/konifar/android-material-design-icon-generator-plugin)：IntelliJ／Android Studio 生成、设计 icon 的插件，安装简单使用方便。如下图所示：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/icon-generator-plugin.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/28638448.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 5、[blade](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lets-blade/blade)：轻量级、高效、简洁优雅的 Java Web 框架，致力于为个人开发者更快捷地开发 Web 应用提供便利。详尽的[中文文档](https://github.com/lets-blade/blade/blob/master/README_CN.md)及[入门视频](https://www.bilibili.com/video/av15572599/)。示例代码：
 ```java
@@ -75,12 +75,12 @@ public static void main(String[] args) {
 6、[canal](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/canal)：MySQL 数据库 binlog 的增量订阅、消费组件。模拟 MySQL salve 方式，实现 MySQL 的主从同步，同时加入了增量日志解析等功能。MySQL 原始主备机制，示意图如下：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/canal-show-min.jpeg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/7587038.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[grain](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dianbaer/grain)：极简的、组件式的 RPC 框架，灵活且适合学习。包含系统通用多线程模型与消息通讯、多对多关系的分布式锁、基于系统通用多线程模型的 Websocket 框架、支持行级锁的多线程锁等组件
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/grain-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/91581792.png' style="max-width:80%; max-height=80%;"></img></p>
 
 8、[RxGalleryFinal](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FinalTeam/RxGalleryFinal)：Android 图片、视频文件选择器，支持多选、单选、拍摄和裁剪等
 
@@ -91,23 +91,23 @@ public static void main(String[] args) {
 9、[anyupload](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dianbaer/anyupload)：该项目是一款上传插件，使用方便、简单。支持多文件上传、上传速率动态控制、真实进度监控 kb/s、分块生成 MD5、分块上传、MD5 校验、暂停、取消等功能。[在线体验](https://www.threecss.com/AnyUploadClient/)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/anyupload-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/107945228.png' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[git-point](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gitpoint/git-point)：基于 React Native 开发的非官方开源 GitHub 客户端，功能丰富包含查看项目和用户信息、接收通知、管理
  Issues 和 PR。支持 Android、iOS，选择对应的客户端[下载使用](https://github.com/gitpoint/git-point/releases)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/git-point-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/86202845.png' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[numeric-keyboard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/viclm/numeric-keyboard)：手机数字键盘，包含一个纯键盘 UI 和输入框套件。有纯 JavaScript、React、Vue 三个版本
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/numeric-keyboard-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/106380954.png' style="max-width:80%; max-height=80%;"></img></p>
 
 12、[webster](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhuyingda/webster)：一款可以抓取网页中 AJAX 异步内容的分布式爬虫框架
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/webster-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/109503867.png' style="max-width:80%; max-height=80%;"></img></p>
 
 13、[wepy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/wepy)：微信官方的开源项目，该项目是为了让小程序支持组件化开发的框架，特征如下：
 - 类 Vue 开发风格
@@ -122,7 +122,7 @@ public static void main(String[] args) {
 14、[profile-summary-for-github](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tipsy/profile-summary-for-github)：GitHub 账号数据可视化服务，很新颖地增加了 star 后可见（回复可见）😄
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/github-profile-summary-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/113752225.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -160,7 +160,7 @@ print(", ".join(seg_list))
 17、[thefuck](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nvbn/thefuck)：在 Linux 命令行中，当你输入的命令有错误后，直接输入 `fuck` 就可以自动执行修复后的命令，效果图如下：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/thefuck.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/33614304.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 18、[youtube-dl](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ytdl-org/youtube-dl)：强大的视频下载工具，支持几百个国内外主流视频网站。正如名字一样，最初是为了下载 youtube 上的视频而开发的。如果有国外服务器的朋友，可以充分利用这个工具，下载 youtube 上的视频，速度不要太爽。下面介绍安装、下载视频等命令：
 ```
@@ -206,7 +206,7 @@ format code  extension  resolution note
 23、[vscode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/vscode)：Visual Studio Code 是微软出品的支持多平台的开源编辑器，体积小、功能丰富、性能强大、扩展性很强。我是用着挺爽，写些代码片段、文章、文档开箱即用。个人感觉编写中型项目、代码调试的话还是 IDE 更方便些，总之推荐下载和使用。[下载地址](https://code.visualstudio.com/)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/img/vscode-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/41881900.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

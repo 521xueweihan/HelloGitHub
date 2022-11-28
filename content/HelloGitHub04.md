@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 04 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
@@ -17,7 +17,7 @@
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -29,7 +29,7 @@
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/img/cachecloud-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/50406544.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -38,13 +38,13 @@
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/img/zhihu-vue-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/61360359.png' style="max-width:80%; max-height=80%;"></img></p>
 
 3、[zingtouch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zingchart/zingtouch)：支持移动端各种触摸动作包含：转动、挥动、滑动等动作的库，[官方网站](https://zingchart.github.io/zingtouch/)，展示图如下：
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/img/zingtouch-show.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/53977537.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -53,10 +53,12 @@
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/img/flask-admin-show.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/3758878.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 5、[python-guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/realpython/python-guide)：Requests 库的作者——kennethreitz，写的 Python 入门教程。不单单是语法层面的，涵盖项目结构、代码风格，进阶、工具等方方面面。虽然是**英文版**([中文翻译版](http://pythonguidecn.readthedocs.io/zh/latest/))，但我这个英语渣都能看懂，你肯定也可以，快去看看吧，开卷有益。[在线阅读](http://docs.python-guide.org/en/latest/)
 
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/1481305.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[python-sdk](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/qiniu/python-sdk)：七牛云存储 SDK。我自己在用他家的服务，上手简单、有免费额度，可以用来做‘图床’，同时，有了这个 SDK 可以写一些好用的小工具。**注意**：图床不能随便用，我曾经就用超了，账户的钱能扣成**负数**！
 
@@ -73,19 +75,16 @@
 9、[Front-end-Web-Development-Interview-Question](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/paddingme/Front-end-Web-Development-Interview-Question)：前端开发面试题大收集
 
 
-10、[How-to-Be-A-Programmer-CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ahangchen/How-to-Be-A-Programmer-CN)：如何做好一枚程序员（中文翻译版）
+10、[interview](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HIT-Alibaba/interview)：笔试面试知识整理(涵盖：IOS、Android、计算机基础)，[在线阅读](https://hit-alibaba.github.io/interview/index.html)
 
 
-11、[interview](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HIT-Alibaba/interview)：笔试面试知识整理(涵盖：IOS、Android、计算机基础)，[在线阅读](https://hit-alibaba.github.io/interview/index.html)
+11、[interview_python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/taizilongxu/interview_python)：关于 Python 的面试题
 
 
-12、[interview_python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/taizilongxu/interview_python)：关于 Python 的面试题
+12、[neural-networks-and-deep-learning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mnielsen/neural-networks-and-deep-learning)：《神经网络与深度学习》相关代码 Python 实现，[神经网络与深度学习－中文在线阅读](https://tigerneil.gitbooks.io/neural-networks-and-deep-learning-zh/content/chapter1.html)，该书中的相关理论的 Python 代码实现
 
 
-13、[neural-networks-and-deep-learning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mnielsen/neural-networks-and-deep-learning)：《神经网络与深度学习》相关代码 Python 实现，[神经网络与深度学习－中文在线阅读](https://tigerneil.gitbooks.io/neural-networks-and-deep-learning-zh/content/chapter1.html)，该书中的相关理论的 Python 代码实现
-
-
-14、[PyZh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MrKiven/PyZh)：Python 经典的技术文章的翻译和收集，[在线阅读](http://pyzh.readthedocs.io/en/latest/)
+13、[PyZh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MrKiven/PyZh)：Python 经典的技术文章的翻译和收集，[在线阅读](http://pyzh.readthedocs.io/en/latest/)
 
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>

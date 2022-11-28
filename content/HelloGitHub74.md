@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 74 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
@@ -29,7 +29,7 @@
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -49,7 +49,7 @@ ls *.js | entr -r node app.js
 2、[FreeRDP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FreeRDP/FreeRDP)：完全免费的远程桌面管理工具。此项目为远程桌面协议（RDP）的一个开源实现，通过它可以轻松实现 macOS 或 Linux 远程操作 Windows 桌面系统反之亦可，使用起来十分方便和流畅。[下载地址](https://github.com/FreeRDP/FreeRDP/wiki/PreBuilds)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/FreeRDP.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/1979797.png' style="max-width:80%; max-height=80%;"></img></p>
 
 3、[open-gpu-kernel-modules](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NVIDIA/open-gpu-kernel-modules)：英伟达开源的 Linux GPU 内核驱动。关于开源的原因网友们众说纷纭黑客勒索、被 Linus 骂的、拥抱开源，但无论如何这是件好事，至于这件事后续对 Linux 系统的影响就让我们拭目以待吧
 
@@ -57,12 +57,12 @@ ls *.js | entr -r node app.js
 4、[ServerStatus](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cppla/ServerStatus)：多服务器云监控。轻松监控多台服务器状态的工具，用于解决多个不同平台下的服务器状态监控问题
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/ServerStatus.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/138679609.png' style="max-width:80%; max-height=80%;"></img></p>
 
 5、[sioyek](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ahrm/sioyek)：免费开源的 PDF 阅读器。支持交互式快速搜索文档，而且就算文档中的引用没有链接也可以直接跳转，特别适合 PC 端阅读和研究论文、技术文档等
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/sioyek.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/385037052.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -70,7 +70,7 @@ ls *.js | entr -r node app.js
 6、[TowerDefense-GameFramework-Demo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DrFlower/TowerDefense-GameFramework-Demo)：开源的塔防游戏示例。此项目主要用来上手和学习基于 Unity 引擎的游戏框架 GameFramework，感兴趣的同学可以把玩一下。游戏共有五个关卡，玩家通过击杀敌人和建造能量塔获取资源，消耗能量建造防御塔阻止敌人攻击基地
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/TowerDefense-GameFramework-Demo.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/257643506.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -81,12 +81,12 @@ ls *.js | entr -r node app.js
 8、[polybar](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/polybar/polybar)：超酷的 Linux 桌面状态栏工具。使用时无需精通 shell 就能上手，轻松完成高度自定义的状态栏。还有更多现成的主题，拿来即用[点击查看](https://github.com/adi1090x/polybar-themes)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/polybar.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/59212953.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[serenity](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SerenityOS/serenity)：开源桌面操作系统。一款披着复古外衣现代的类 Unix 开源操作系统。从内核到 Web 浏览器均采用 C++ 编写，没有依赖现成的第三方库，外观模仿 90 年代操作系统界面的风格，我认为这是一封极客致敬经典的情书
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/serenity.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/160083795.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -94,7 +94,7 @@ ls *.js | entr -r node app.js
 10、[weui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/weui)：微信开源的原生基础样式库。为微信内网页和小程序量身设计的样式库，包括按钮、徽章、进度条、图标、对话框等各式元素
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/weui.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/28167802.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -105,7 +105,7 @@ ls *.js | entr -r node app.js
 12、[fx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/antonmedv/fx)：命令行 JSON 浏览工具。看似简单却十分实用的 JSON 命令行查询工具，支持流式和交互式两种查询方式
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/fx.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/118945118.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 13、[httprunner](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/httprunner/httprunner)：开源的 API 测试工具。支持丰富的网络协议，涵盖接口测试、性能测试等测试类型的测试工具
 - 多种网络协议：支持 HTTP(S)/HTTP2/WebSocket/RPC 等
@@ -115,12 +115,12 @@ ls *.js | entr -r node app.js
 - 网络性能采集：在场景化接口测试的基础上，可额外采集网络链路性能指标
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/httprunner.jpeg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/94166852.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 14、[zinc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zinclabs/zinc)：轻量级全文搜索引擎。Go 语言下的轻量级搜索引擎，支持中文搜索自带 Web 管理界面
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/zinc.jpeg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/434218673.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -128,27 +128,27 @@ ls *.js | entr -r node app.js
 15、[debezium](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/debezium/debezium)：捕获数据更改(CDC)的流式处理平台。可以监控数据库中的数据变动，把每一个行级别的数据改动，通过流的方式实时同步给其他服务。适用于更新缓存、更新搜索、双写等场景
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/debezium.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/50205233.png' style="max-width:80%; max-height=80%;"></img></p>
 
 16、[hertzbeat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dromara/hertzbeat)：易用友好的云监控系统。适用于应用服务、数据库、网站、API、操作系统等监控的场景，可以帮助中小型团队快速搭建监控系统
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/hertzbeat.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/455584258.png' style="max-width:80%; max-height=80%;"></img></p>
 
 17、[jclasslib](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ingokegel/jclasslib)：Java 字节码浏览器。支持可视化操作、查看、编辑编译好的 Java 类文件的开发工具
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/jclasslib.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/2788710.png' style="max-width:80%; max-height=80%;"></img></p>
 
 18、[RuoYi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yangzongzhuan/RuoYi)：开箱即用的权限管理系统。基于 SpringBoot 开发的后台管理系统，包含用户管理、部门管理、角色管理、登录日志、定时任务、服务监控等功能，可以用来快速构建 CMS、CRM、OA 等系统
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/RuoYi.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/215689781.png' style="max-width:80%; max-height=80%;"></img></p>
 
 19、[shardingsphere](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/shardingsphere)：一套开源的分布式数据库增强计算引擎。可将多种数据库转换为分布式数据库的生态系统，就是把多种不同类型的数据整合成对外是一个整体的数据库，即化零为整。充分合理地利用数据库的计算和存储能力，解决数据分片、数据加密、异构数据查询等痛点
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/shardingsphere.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/49876476.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -180,7 +180,7 @@ const App = () => {
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/bytemd.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/244554606.png' style="max-width:80%; max-height=80%;"></img></p>
 
 21、[fortune-sheet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ruilisi/fortune-sheet)：类似 Excel 的电子表格组件。使用简单无需繁琐的配置，内置多种 Excel 常用功能，并且支持在线协同编辑
 ```javascript
@@ -196,17 +196,17 @@ ReactDOM.render(
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/fortune-sheet.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/476099912.png' style="max-width:80%; max-height=80%;"></img></p>
 
 22、[WebGAL](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MakinoharaShoko/WebGAL)：易于开发的网页端视觉小说引擎。无需开发基础分分钟就能学会所有语法，立马开始创作自己的 Galgame。[在线尝试](https://demo.msfasr.com/)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/WebGAL.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/407346682.png' style="max-width:80%; max-height=80%;"></img></p>
 
 23、[xterm.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xtermjs/xterm.js)：功能齐全的终端前端组件。用 TypeScript 编写的前端组件，提供了完整的终端功能、支持鼠标事件、丰富的 Unicode 支持。在众多流行开源项目中都能看到它的身影，比如 VS Code、Hyper 和 Theia 等
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/xterm.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/18068542.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -214,7 +214,7 @@ ReactDOM.render(
 24、[PermissionX](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/guolindev/PermissionX)：解决 Android 运行时权限的库。该项目本是作者写的一本书中的练手项目，后来经过不断优化和功能迭代，已经可以真正做到简化 Android 运行时权限处理的工作，所以就有了我们现在看到的 PermissionX。时至今日它依旧在持续更新，没有停下变得更好的脚步，或许这就是工匠精神的体现吧。[中文文档](https://blog.csdn.net/guolin_blog/category_10108528.html)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/PermissionX.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/218407426.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -222,7 +222,7 @@ ReactDOM.render(
 25、[framework](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/flarum/framework)：简约大方的论坛项目。这是一个用 PHP+Mithril 开发的免费、美观、简单、速度快的论坛系统
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/framework.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/28257573.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -230,7 +230,7 @@ ReactDOM.render(
 26、[Archery](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hhyo/Archery)：在线 SQL 审核平台。采用 Django+Bootstrap 框架开发而成，支持 MySQL、Oracle 等数据库的 SQL 上线、备份、慢日志查询等功能。[在线尝试](https://demo.archerydms.com/)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/Archery.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/150677832.png' style="max-width:80%; max-height=80%;"></img></p>
 
 27、[Handright](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Gsllchb/Handright)：模拟手写体中文的 Python 库。基于 PIL 开发实现的工具库，能够输出手写体中文的图片，支持自定义背景图
 ```python
@@ -251,12 +251,12 @@ for im in images:
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/Handright.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/110765710.png' style="max-width:80%; max-height=80%;"></img></p>
 
 28、[OneForAll](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shmilylty/OneForAll)：功能强大的子域收集工具。具有强大的子域收集能力、支持子域验证、速度快等特点的子域扫描工具
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/OneForAll.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/161151882.png' style="max-width:80%; max-height=80%;"></img></p>
 
 29、[pyenv](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pyenv/pyenv)：简单易用的 Python 版本管理工具。开发者有时候因为历史遗留问题，需要维护依赖不同 Pyhton 版本的项目，这时就需要安装和管理多个 Python 版本，这是一件十分痛苦的事情。而 pyenv 恰好完美地解决了这一痛点，它支持 global、local、shell 三种模式，开发者可以根据情况灵活地切换不同的 Python 版本，这一切仅需一条命令
 ```
@@ -269,7 +269,7 @@ global：全局
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/pyenv.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/5625464.png' style="max-width:80%; max-height=80%;"></img></p>
 
 30、[xxh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xxh/xxh)：在 SSH 服务器时带上自己喜欢的 shell。你的 shell 里是不是塞满了快捷脚本、工具和颜色，但在 SSH 远程连接服务器时，你就会失去这一切。xxh 可以把你最喜欢的 shell 带到任何地方
 ```
@@ -278,7 +278,7 @@ xonsh：xxh anyhost +s xonsh
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/xxh.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/219294494.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -286,7 +286,7 @@ xonsh：xxh anyhost +s xonsh
 31、[solidus](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/solidusio/solidus)：开源的简约电商平台。基于 Ruby on Rails 构建的电商平台，界面清爽代码完全开源。[在线尝试](http://demo.solidus.io/)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/solidus.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/30985840.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -300,7 +300,7 @@ xonsh：xxh anyhost +s xonsh
 33、[TermiWatch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kuglee/TermiWatch)：终端风格的 iWatch 手表面
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/TermiWatch.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/161073102.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -311,22 +311,22 @@ xonsh：xxh anyhost +s xonsh
 35、[code996](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hellodigua/code996)：根据 git 的提交时间推断工作强度的工具。通过分析 git 提交记录，得出是否加班、工作强度的可视化图表的工具
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/code996.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/429520684.png' style="max-width:80%; max-height=80%;"></img></p>
 
 36、[flutter_floatwing](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jiusanzhou/flutter_floatwing)：Flutter 的 Android 浮动窗口插件。该插件能够让开发者使用 Flutter 完成浮动窗口的功能开发，同时无需任何原生 Android 开发的背景
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/flutter_floatwing.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/490972345.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 37、[opensource.guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/github/opensource.guide)：GitHub 官方的开源指南。为想学习如何创建和贡献开源项目的个人、社区和公司提供的资源集合，[中文](https://opensource.guide/zh-hans/)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/opensource.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/61204818.png' style="max-width:80%; max-height=80%;"></img></p>
 
 38、[pinball](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/flutter/pinball)：谷歌开源的弹珠台游戏。使用 Flutter 和  Firebase 平台开发的弹珠台游戏，可运行在 Android、iOS、Windows、macOS、Linux 操作系统。[在线试玩](https://pinball.flutter.dev/#/)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/pinball.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/462900266.png' style="max-width:80%; max-height=80%;"></img></p>
 
 39、[Thanks-Mirror](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eryajf/Thanks-Mirror)：国内公共仓库镜像的集合。该项目包含开发常用的库、软件、系统镜像地址以及使用的方法
 
@@ -334,7 +334,7 @@ xonsh：xxh anyhost +s xonsh
 40、[wechat-report](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/myth984/wechat-report)：自制微信聊天年度报告。教你如何生成和女朋友微信聊天记录的年度报告项目
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/wechat-report.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/443021832.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -342,7 +342,7 @@ xonsh：xxh anyhost +s xonsh
 41、[machine-learning-yearning-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/deeplearning-ai/machine-learning-yearning-cn)：《Machine Learning Yearning》中文版。《机器学习训练秘籍》样稿吴恩达著，[在线阅读](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/machine-learning-yearning-cn.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/137935980.png' style="max-width:80%; max-height=80%;"></img></p>
 
 42、[TCP-IP-NetworkNote](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/riba2534/TCP-IP-NetworkNote)：《TCP/IP 网络编程》学习笔记。除了笔记还包含书中的代码实现和课后习题回答
 
@@ -350,23 +350,25 @@ xonsh：xxh anyhost +s xonsh
 43、[the-unix-workbench](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/seankross/the-unix-workbench)：《The Unix Workbench》该书面向刚接触编程和类 Unix（如 macOS）和 Linux 操作系统的开发者，帮你快速上手命令行以及搞懂相关知识。[在线阅读](https://seankross.com/the-unix-workbench/)
 
 
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/70629065.png' style="max-width:80%; max-height=80%;"></img></p>
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 44、[machine_learning_complete](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Nyandwi/machine_learning_complete)：全面的机器学习教程库。一份包含 30 多个 Jupyter Notebook 的集合库，内容涵盖机器学习所需的 Python 基础，数据操作、清洗、分析、可视化常用的库和工具，以及经典机器学习、NLP、计算机视觉等算法，一份面面俱到的机器学习入门教程
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/machine_learning_complete.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/410249461.png' style="max-width:80%; max-height=80%;"></img></p>
 
 45、[mindsdb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mindsdb/mindsdb)：用 SQL 开启机器学习的数据库。把机器学习引入 SQL 数据库将模型作为虚拟表（AI-table），从而省去了数据准备、预处理等步骤，可以直接用 SQL 查询时间序列、回归、分类预测的结果，实现简化机器学习开发流程的效果
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/mindsdb.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/143328315.png' style="max-width:80%; max-height=80%;"></img></p>
 
 46、[WantWords](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/thunlp/WantWords)：拯救词穷的字典。由清华大学 NLP 实验室开源，可以根据你的意思返回相关词汇，有效解决词穷、话到嘴边说不出来的窘境。[在线尝试](https://wantwords.net/)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/img/WantWords.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/301421364.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
