@@ -73,6 +73,13 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
           <sub>比 Postman 更强大</sub>
         </a>
       </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://he3.app?utm_source=hellogithub&utm_medium=github&utm_campaign=hellogithub">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/he3.png" width="60px"><br>
+          <sub>He3</sub><br>
+          <sub>开发者必备工具箱</sub>
+        </a>
+      </th>
     </tr>
   </thead>
 </table>
