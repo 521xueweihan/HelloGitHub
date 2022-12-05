@@ -152,7 +152,7 @@ public class GlobalMouseWheelListenerExample implements NativeMouseWheelListener
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/412741449.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[colorfu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pearmini/colorfu)：自动生成由文字/颜色/图片/纹理元素组成的壁纸。[在线尝试](https://colorfu.art/)
+16、[colorfu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pearmini/colorfu)：自动生成由文字/颜色/图片/纹理元素组成的壁纸。[在线尝试](https://pearmini.github.io/colorfu)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/218908818.png' style="max-width:80%; max-height=80%;"></img></p>
