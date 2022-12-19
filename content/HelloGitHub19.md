@@ -211,7 +211,7 @@ browser.submit(upload_form)
 
 ---
 <p align="center">
-    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
     不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
     如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/19/'>这里</a> 获取更好的阅读体验。
