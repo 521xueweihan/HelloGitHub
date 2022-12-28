@@ -20,6 +20,7 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
+| [第 81 期](/content/HelloGitHub81.md) |
 | [第 80 期](/content/HelloGitHub80.md) | [第 79 期](/content/HelloGitHub79.md) | [第 78 期](/content/HelloGitHub78.md) | [第 77 期](/content/HelloGitHub77.md) | [第 76 期](/content/HelloGitHub76.md) |
 | [第 75 期](/content/HelloGitHub75.md) | [第 74 期](/content/HelloGitHub74.md) | [第 73 期](/content/HelloGitHub73.md) | [第 72 期](/content/HelloGitHub72.md) | [第 71 期](/content/HelloGitHub71.md) |
 | [第 70 期](/content/HelloGitHub70.md) | [第 69 期](/content/HelloGitHub69.md) | [第 68 期](/content/HelloGitHub68.md) | [第 67 期](/content/HelloGitHub67.md) | [第 66 期](/content/HelloGitHub66.md) |
@@ -28,7 +29,6 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
 | [第 55 期](/content/HelloGitHub55.md) | [第 54 期](/content/HelloGitHub54.md) | [第 53 期](/content/HelloGitHub53.md) | [第 52 期](/content/HelloGitHub52.md) | [第 51 期](/content/HelloGitHub51.md) |
 | [第 50 期](/content/HelloGitHub50.md) | [第 49 期](/content/HelloGitHub49.md) | [第 48 期](/content/HelloGitHub48.md) | [第 47 期](/content/HelloGitHub47.md) | [第 46 期](/content/HelloGitHub46.md) |
 | [第 45 期](/content/HelloGitHub45.md) | [第 44 期](/content/HelloGitHub44.md) | [第 43 期](/content/HelloGitHub43.md) | [第 42 期](/content/HelloGitHub42.md) | [第 41 期](/content/HelloGitHub41.md) |
-| [第 40 期](/content/HelloGitHub40.md) | [第 39 期](/content/HelloGitHub39.md) | [第 38 期](/content/HelloGitHub38.md) | [第 37 期](/content/HelloGitHub37.md) | [第 36 期](/content/HelloGitHub36.md) |
 | [第 05 期](/content/HelloGitHub05.md) | [第 04 期](/content/HelloGitHub04.md) | [第 03 期](/content/HelloGitHub03.md) | [第 02 期](/content/HelloGitHub02.md) | [第 01 期](/content/HelloGitHub01.md) |
 
 欢迎[推荐或自荐](https://github.com/521xueweihan/HelloGitHub/issues/new)项目成为 **HelloGitHub** 的[贡献者](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md)
