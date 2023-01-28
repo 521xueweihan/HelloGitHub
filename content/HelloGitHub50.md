@@ -71,7 +71,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/160253491.png' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[uptoc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/saltbo/uptoc)：一个基于 Go 的静态博客部署到云存储的工具。静态博客不论是部署在 GitHubPages 还是 Netlify 等平台都存在国内访问速度慢的问题，解决这个问题最好的办法就是部署在国内的云存储，如腾讯云 COS、阿里云 OSS、七牛云等。借助该工具可以快速上传到上述云存储平台，加快你的静态博客访问速度
+7、[uptoc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bonaysoft/uptoc)：一个基于 Go 的静态博客部署到云存储的工具。静态博客不论是部署在 GitHubPages 还是 Netlify 等平台都存在国内访问速度慢的问题，解决这个问题最好的办法就是部署在国内的云存储，如腾讯云 COS、阿里云 OSS、七牛云等。借助该工具可以快速上传到上述云存储平台，加快你的静态博客访问速度
 ```bash
 # 安装
 curl -sSf http://uptoc.saltbo.cn/install.sh | sh

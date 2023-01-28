@@ -51,7 +51,17 @@
 3、[akutan](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eBay/akutan)：eBay 开源的分布式图数据库，少数依然支持 SparQL 的图数据库
 
 
-4、[docker-slim](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/docker-slim/docker-slim)：自动缩减 docker 镜像的体积的工具。大幅度缩减 docker 镜像的体积，方便分发，使用命令 `docker-slim build --http-probe your-name/your-app`。比如 Node.js 镜像缩减后的对比：
+4、[kratos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/go-kratos/kratos)：哔哩哔哩开源的一套 Go 微服务框架，包含大量微服务相关框架及工具。解决了 gin 在微服务场景下的一些适配和微服务本身的一系列生态，[快速开始](https://github.com/bilibili/kratos/blob/master/doc/wiki-cn/quickstart.md)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/165041732.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+5、[overlord](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bilibili/overlord)：基于 Go 语言编写的 memcache 和 redis&cluster 的代理及集群管理平台。致力于提供自动化高可用的缓存服务解决方案。自带图形界面的缓存集群管理程序，[安装步骤](https://github.com/bilibili/overlord/blob/master/doc/wiki-cn/platform-deploy.md)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/121465286.png' style="max-width:80%; max-height=80%;"></img></p>
+
+6、[slim](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/slimtoolkit/slim)：自动缩减 docker 镜像的体积的工具。大幅度缩减 docker 镜像的体积，方便分发，使用命令 `docker-slim build --http-probe your-name/your-app`。比如 Node.js 镜像缩减后的对比：
 ```
 from ubuntu:14.04 - 432MB => 14MB (缩减了 30.85 倍)
 
@@ -60,16 +70,6 @@ from debian:jessie - 406MB => 25.1MB (缩减了 16.21 倍)
 from node:alpine - 66.7MB => 34.7MB (缩减了 1.92 倍)
 ```
 
-
-5、[kratos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/go-kratos/kratos)：哔哩哔哩开源的一套 Go 微服务框架，包含大量微服务相关框架及工具。解决了 gin 在微服务场景下的一些适配和微服务本身的一系列生态，[快速开始](https://github.com/bilibili/kratos/blob/master/doc/wiki-cn/quickstart.md)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/165041732.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-6、[overlord](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bilibili/overlord)：基于 Go 语言编写的 memcache 和 redis&cluster 的代理及集群管理平台。致力于提供自动化高可用的缓存服务解决方案。自带图形界面的缓存集群管理程序，[安装步骤](https://github.com/bilibili/overlord/blob/master/doc/wiki-cn/platform-deploy.md)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/121465286.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

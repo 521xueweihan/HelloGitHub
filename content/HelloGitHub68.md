@@ -260,7 +260,7 @@ RedisList[1, 4, 9, 16, 25]
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-26、[fl_chart](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/imaNNeoFighT/fl_chart)：Flutter 图表库。它支持折线图、条形图、饼图、散点图和雷达图
+26、[fl_chart](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/imaNNeo/fl_chart)：Flutter 图表库。它支持折线图、条形图、饼图、散点图和雷达图
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/186255460.png' style="max-width:80%; max-height=80%;"></img></p>

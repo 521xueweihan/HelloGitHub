@@ -303,7 +303,7 @@ static void take_gil(PyThreadState *tstate)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/212790745.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[xemu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mborgerson/xemu)：免费开源的 Xbox 模拟器，支持 Windows、Linux、macOS 系统
+33、[xemu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xemu-project/xemu)：免费开源的 Xbox 模拟器，支持 Windows、Linux、macOS 系统
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/241270996.png' style="max-width:80%; max-height=80%;"></img></p>
