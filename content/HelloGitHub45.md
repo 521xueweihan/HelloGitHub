@@ -6,23 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/45/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Kotlin 项目](#Kotlin-项目)
-- [Python 项目](#Python-项目)
-- [Ruby 项目](#Ruby-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/45) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -50,8 +38,6 @@ target("test")
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/34431834.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 3、[Blog.Core](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/anjoy8/Blog.Core)：基于 ASP.NET Core 和 Vue 从零开始搭建前后端分离项目教程+实战项目。该项目从 .NET Core 基础讲起，内容完整、系统，对初学者和有一定基础的小伙伴都有借鉴和学习的价值
 
@@ -62,8 +48,6 @@ target("test")
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/113807330.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 5、[pika](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OpenAtomFoundation/pika)：一个企业级开源的可持久化的大容量（百G）redis 存储服务。兼容 redis 的绝大部分接口，解决 redis 由于存储数据量巨大而导致内存不够用的容量瓶颈。并且可以像 redis 一样，通过 slaveof 命令进行主从备份，支持全同步和部分同步
@@ -86,8 +70,6 @@ std::cout << result.get() << std::endl;
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/11986447.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 8、[gf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gogf/gf)：一款高性能、功能丰富的 Go Web 框架。特点：
@@ -156,8 +138,6 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/215655521.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 13、[holer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wisdom-projects/holer)：一个将局域网中的应用映射到公网访问的端口映射软件，支持转发基于 TCP 协议的报文。内网穿透工具，包含 Web 后台管理系统。用到的技术如下：
 - 服务端采用 SpringBoot 和 Netty 实现
@@ -200,8 +180,6 @@ public class AppTest {
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/181322928.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 16、[formily](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/formily)：一款面向企业级复杂场景的高性能表单解决方案。特性：
@@ -290,8 +268,6 @@ export default Container;
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/85611345.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Kotlin 项目
 21、[SketchyComponent](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/5A59/SketchyComponent)：一款 Android 上的手绘风格组件库。该库提供了一些基础图形和 icon，以及便捷的自定义能力。之前介绍过手绘风格的图表库大家很喜欢，这回是 Android 组件库不知道对不对大家的胃口。示例代码：
 ```java
@@ -306,8 +282,6 @@ text.background = skSquareDrawable
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/227990983.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 22、[memory_profiler](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pythonprofilers/memory_profiler)：Python 程序内存占用分析工具。示例代码：
@@ -376,15 +350,11 @@ window.close()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/204939699.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Ruby 项目
 26、[pghero](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ankane/pghero)：Postgres 性能监控服务。让你对 pg 数据库的性能了如指掌
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/22059578.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 27、[clean-code-javascript](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ryanmcdermott/clean-code-javascript)：《Clean Code JavaScript》（JavaScript 代码整洁之道），这是根据《代码整洁之道》作者多年经验整理的 JS 代码优化建议，但也仅仅只是一份建议。[中文](https://github.com/alivebao/clean-code-js)
@@ -405,16 +375,12 @@ window.close()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/226726247.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 31、[front-end-handbook-2019](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FrontendMasters/front-end-handbook-2019)：《Front-End Developer Handbook 2019》（前端开发者手册 2019 版）。该书适合任何阶段的人用来了解前端开发实践的指南，它概述和讨论了前端工程的实践：如何学习前端、在 2019 年进行前端实践时应该使用哪些工具。[在线阅读](https://frontendmasters.com/books/front-end-handbook/2019/)
 
 
 32、[machine-learning-systems-design](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chiphuyen/machine-learning-systems-design)：一本关于机器学习系统设计的小册子附有练习题
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 33、[AIDungeon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Latitude-Archives/AIDungeon)：一个基于机器学习的地下城文字游戏。此项目介绍了如何使用机器学习构建一个游戏，代码简单清晰适合 AI 爱好者深入研究
@@ -455,8 +421,6 @@ trainer(net, train_dataset)
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -465,10 +429,10 @@ trainer(net, train_dataset)
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/45/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/45'>这里</a>。
 </p>
 
 ## 声明

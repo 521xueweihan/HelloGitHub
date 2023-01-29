@@ -6,25 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/36/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C# 项目](#C-项目)
-- [C++ 项目](#C-项目-1)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Ruby 项目](#Ruby-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/36) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -66,15 +52,11 @@ program -> {
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 2、[calculator](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/calculator)：微软 Windows 系统预装的计算器工具开源了。该工具提供标准、科学、程序员计算器的功能，以及各种度量单位和货币之间的转换功能。实现语言为 C++ 代码并不复杂，快来看看微软工程师编写的代码吧！运行效果如下：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/168008797.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### CSS 项目
 3、[bootstrap-table](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wenzhixin/bootstrap-table)：基于 Bootstrap 的 jQuery 表格插件，通过简单的设置就可以拥有强大的单选、多选、排序、分页、编辑、导出、过滤（扩展）等功能。示例代码：
@@ -107,8 +89,6 @@ program -> {
 
 4、[CSS-Inspiration](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chokcoco/CSS-Inspiration)：这里汇集了 CSS 的使用和学习的示例代码，展示不同 CSS 属性或者不同的课题使用 CSS 来解决的各种方法。[在线阅读地址](https://chokcoco.github.io/CSS-Inspiration/#/)包含代码实际展示样式
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 5、[auxpi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/0xDkd/auxpi)：基于 API 的简单图床应用。整合了主流图床的 API，并且做了一个 GUI 用来管理，[安装](https://github.com/aimerforreimu/AUXPI/wiki/%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)简单
@@ -143,8 +123,6 @@ $ pprof -web [你的golang程序二进制文件] profile.pb.gz
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 10、[Luban](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Curzibn/Luban)：图片压缩是常见的问题，那么微信是如何处理图像的压缩？Luban（鲁班）就是通过在微信朋友圈发送近 100 张不同分辨率的图片，对比原图与微信压缩后的图片逆向推算出来的压缩算法。示例代码：
 ```java
@@ -169,8 +147,6 @@ Flowable.just(photos)
 - Windows 系统，启动：双击`startYACY.bat`、 关闭：双击`stopYACY.bat`
 - Mac OS X 系统，请使用 Mac 应用程序，并像其他 Mac 应用程序那样启动或停止它（双击）
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 12、[griffith](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhihu/griffith)：让流式播放变得简单。无论你视频格式是 `mp4` 还是 `hls`，Griffith 都能使用媒体源拓展（MSE）来实现分段加载等功能，提供在线视频播放。示例代码：
@@ -210,15 +186,11 @@ render(<Player sources={sources} />)
 16、[Web](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/qianguyihao/Web)：前端入门的图文教程，从 0-1 的过程。内容详细，对于新入行前端的同学有很多的帮助
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Objective-C 项目
 17、[BackgroundMusic](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kyleneideck/BackgroundMusic)：macOS 音频工具，包含功能：自动暂停音乐、设置各个应用程序的音量、录制系统音频
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/52422583.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
 18、[PasteMe](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LucienShui/PasteMe)：快速分享文本、代码的网站项目。支持加密、一键复制、永久保存、阅后即焚等功能。[在线示例](https://pasteme.cn/)
@@ -230,8 +202,6 @@ render(<Player sources={sources} />)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/84031519.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 20、[awesome-python-login-model](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Kr1s77/awesome-python-login-model)：该项目收集了各大网站登陆方式和部分网站的爬虫程序。登陆方式实现包含 selenium 登录、通过抓包直接模拟登录等。有助于新手研究、编写爬虫
@@ -267,8 +237,6 @@ render(<Player sources={sources} />)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/150997854.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Ruby 项目
 27、[jekyll](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jekyll/jekyll)：强大的静态博客网站生成工具。无需数据库，可以通过 Markdown 和 Config 轻松生成一个静态博客。该项目十分成熟、社区活跃、拥有多种主题可供选择。最后可以通过 [GitHub Page](https://pages.github.com/) 把生成的博客免费部署上线。快速开始：
 ```
@@ -280,15 +248,11 @@ render(<Player sources={sources} />)
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 28、[Bagel](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yagiz/Bagel)：一个小型、原生的 iOS 网络调试工具。使用过程不需要配置证书、代理之类的东西。只需要 iOS 设备和 Mac 处于同一网络，就可以查看、监控 App 的网络流量等信息
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/91084289.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 29、[ChinaMobilePhoneNumberRegex](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/VincentSit/ChinaMobilePhoneNumberRegex)：一组匹配中国大陆手机号码的正则表达式
@@ -313,16 +277,12 @@ render(<Player sources={sources} />)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/86350964.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 35、[Go42](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ffhelicopter/Go42)：《Go语言四十二章经》Golang 入门书籍。书中作者总结了自己踩坑的经验总结和思考，[在线阅读](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
 
 
 36、[PythonDataScienceHandbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jakevdp/PythonDataScienceHandbook)：英文原版《Python Data Science Handbook》，该书对于希望或已经从事数据科学相关工作的 Python 工程师而言是重要的学习手册。[在线阅读](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 37、[BigGAN-PyTorch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ajbrock/BigGAN-PyTorch)：“Bye Bye TPU”，4 个 GPU 就能训练“史上最强” BigGAN！只需 4-8 个 GPU 即可训练，摆脱了算力束缚
@@ -340,8 +300,6 @@ render(<Player sources={sources} />)
 41、[Virgilio](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/virgili0/Virgilio)：本资源库旨在为以下领域提供三种有机完整的学习路径：机器学习、商业智能、云计算。在此你将能够了解相关原理并且在项目实践中予以运用。如果仔细遵循这些学习路径，则可以从零开始构建完整的认识和获得始终可用的技能。事实上，这些学习路径不需要之前有相关知识，但基础编程和简单数学是理解和实践大多数相关概念的必要条件
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -350,10 +308,10 @@ render(<Player sources={sources} />)
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/36/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/36'>这里</a>。
 </p>
 
 ## 声明

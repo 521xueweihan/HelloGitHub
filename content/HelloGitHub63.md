@@ -6,24 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/63/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C++ 项目](#C-项目-1)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Kotlin 项目](#Kotlin-项目)
-- [Python 项目](#Python-项目)
-- [Ruby 项目](#Ruby-项目)
-- [Rust 项目](#Rust-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/63) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -39,13 +26,9 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/63/27788471.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 2、[rocksdb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facebook/rocksdb)：用 C++ 编写的高性能键值存储引擎。该项目是由 Fackbook 数据库团队基于 levelDB 开发，键值均支持二进制流，能够充分利用多核 CPU 获得高性能，并兼容 levelDB 的 API 可谓是青出于蓝而胜于蓝。RocksDB 当下十分流行，一些开源数据库底层存储用的就是它
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 3、[fzf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/junegunn/fzf)：能够搜“一切”的模糊搜索命令行工具。它能够搜文件、历史命令、进程、git 提交记录等信息，支持预览内容、整合到 Vim/Neovim 编辑器，而且搜索速度极快
@@ -117,8 +100,6 @@ func main() {
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 8、[airbyte](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/airbytehq/airbyte)：一个开源的 EL(T) 平台。能简单快速地把用户提供的应用、数据库等地方的数据聚合到平台，从而可以在一个平台查询、展示、更新、管理这些数据
 
@@ -137,8 +118,6 @@ func main() {
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/63/258748710.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 12、[cusdis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/djyde/cusdis)：这是一个界面清爽、注重隐私的轻量级博客评论系统。可以很方便地与 React、Vue 或其他博客系统结合，并且还提供了一个后台来管理所有的评论。除此之外，还支持一键从 Disqus 导入、邮件通知等强大的功能
@@ -181,13 +160,9 @@ db.get('posts')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/63/38558578.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Kotlin 项目
 17、[mirai](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mamoe/mirai)：由 Kotlin 语言编写的 QQ 机器人框架。该项目提供了 Android QQ 协议的 API，通过这些 API 可以实现自动化操作，比如：群管理等功能，注意！该项目不支持一切商业使用。最后项目的 Kotlin 代码写的很好，感兴趣的同学可以去看下源码
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 18、[GitHubPoster](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yihong0618/GitHubPoster)：能够把多个平台上的数据，生成类似 GitHub 绿墙图像的工具。比如能够把发推的频率、扇贝单词打卡等情况生成类似 GitHub 绿墙图像，使用简单感兴趣的同学可以把玩一下
@@ -218,15 +193,11 @@ gui.run()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/63/86245815.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Ruby 项目
 21、[forem](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/forem/forem)：用来构建社区的 Ruby 开源项目。一款开源、现成的论坛项目，能够让你快速搭建起来一个社区平台。国外知名的程序员社区 dev 用的就是它
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/63/73648678.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Rust 项目
 22、[azul](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fschutt/azul)：一个跨平台的 Rust 和 C/C++ 的 GUI 框架。使用 WebRender 渲染引擎和 CSS/HTML-like DOM 构建，可用于开发漂亮的原生桌面应用程序
@@ -278,8 +249,6 @@ bar.finish();
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/63/299354207.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 25、[Grid](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/exyte/Grid)：受 CSS Grid 启发，用 SwiftUI 编写关于视图（view）布局的开源项目
 
@@ -294,8 +263,6 @@ if let userName = json[0]["user"]["name"].string {
 }
 ```
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 27、[aind](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aind-containers/aind)：实现在 Docker 中启动安卓应用的项目
@@ -333,8 +300,6 @@ docker exec aind cat /home/user/.vnc/passwdfile
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/63/368525749.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 34、[awesome-fenix](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fenixsoft/awesome-fenix)：讲述“如何构建大型且可靠的分布式系统”的开源书籍。推荐给想成为架构师的你，[在线阅读](https://icyfenix.cn/) 
 
@@ -343,8 +308,6 @@ docker exec aind cat /home/user/.vnc/passwdfile
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/63/82082721.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 36、[AugLy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facebookresearch/AugLy)：Facebook 开源的一个数据增强 Python 库。该库目前支持音频、图像、文本和视频四种模式，一方面可以用现实数据对数据进行增强，另一方面还可以检测出相似内容，消除重复数据带来的干扰
@@ -357,8 +320,6 @@ docker exec aind cat /home/user/.vnc/passwdfile
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/63/188660663.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -367,10 +328,10 @@ docker exec aind cat /home/user/.vnc/passwdfile
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/63/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/63'>这里</a>。
 </p>
 
 ## 声明

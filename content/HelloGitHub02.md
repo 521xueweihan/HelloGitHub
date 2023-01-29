@@ -6,15 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/02/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [CSS 项目](#CSS-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Python 项目](#Python-项目)
-- [其它](#其它)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/02) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -29,8 +25,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/19544711.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 2、[ant-motion](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ant-design/ant-motion)：阿里开源的项目，一套 React 框架动效解决方案，可以帮助开发者，更容易的在项目中使用动效。同时可以方便快捷地制作一个公司的介绍页，[在线演示](https://motion.ant.design/)
@@ -71,8 +65,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/48837302.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 8、[algorithm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/qiwsir/algorithm)：老齐的 Python 算法教程
@@ -146,13 +138,9 @@ if __name__ == '__main__':
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 其它
 13、[leetcode-solutions](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RealHacker/leetcode-solutions)：Leetcode OJ 的 Python 算法实现
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
@@ -162,10 +150,10 @@ if __name__ == '__main__':
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/02/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/02'>这里</a>。
 </p>
 
 ## 声明

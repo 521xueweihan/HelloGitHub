@@ -6,25 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/57/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C++ 项目](#C-项目-1)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Rust 项目](#Rust-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/57) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -42,8 +28,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/286048802.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 2、[fast-cpp-csv-parser](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ben-strasser/fast-cpp-csv-parser)：读取 CSV 文件的 C++ 库（仅头文件）。示例代码：
@@ -71,15 +55,11 @@ int main(){
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/297546772.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 5、[water.css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kognise/water.css)：一个专门为简单页面和示例网页准备的 CSS 框架
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/179574410.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 6、[fyne](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fyne-io/fyne)：一款 Go 语言跨平台 UI 库。想用 Go 写图形界面应用的小伙伴，快速上手：
@@ -101,8 +81,6 @@ go run knnclassifier_iris.go
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 8、[keepass2android](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PhilippC/keepass2android)：一个开源的 Android 密码管理器。[下载地址](https://github.com/PhilippC/keepass2android/releases)，功能：
 - 仅需输入一次安全性很强的密码（很长或随机的密码）
@@ -123,8 +101,6 @@ go run knnclassifier_iris.go
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/263788932.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 11、[Ant-Forest](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SuperMonster003/Ant-Forest)：基于 Auto.js 的蚂蚁森林能量自动收获脚本。它是个“绿色环保”的项目，我能从中感受到满满的爱和想把它做好的决心！来看看作者开发 Ant-Forest 时解决了哪些难题：
@@ -156,15 +132,11 @@ go run knnclassifier_iris.go
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/147656990.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Objective-C 项目
 16、[LuLu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/objective-see/LuLu)：免费开源的 macOS 防火墙软件
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/103010090.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
 17、[humhub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/humhub/humhub)：用 PHP 写的开源社交平台。看过《社交网络》的小伙伴，都知道大名鼎鼎的 Facebook 最早就是扎克伯格用 PHP 语言写出来的，humhub 能够让不会编程的小伙伴也可以用创建出一个社交平台啦。跟着提示一步步操作，不到 1 分钟我的社交平台就建好了，[点击访问](https://hellogithub.humhub.com/)
@@ -177,8 +149,6 @@ go run knnclassifier_iris.go
 - 集成至 bash/zsh 等，易于切换版本
 - 易于安装、启用 PHP 扩展
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 19、[15-minute-apps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pythonguis/15-minute-apps)：基于 PyQt 框架写的小型桌面应用程序的集合。想用 Python 写桌面应用的小伙伴，这个项目应该可以帮到你。比如写个扫雷游戏：
@@ -196,8 +166,6 @@ go run knnclassifier_iris.go
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/4578002.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Rust 项目
 22、[bat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sharkdp/bat)：替代 cat 的命令行工具。你还在命令行用 cat 查看文件吗？那你就 out 啦！今天推荐的 bat 它不仅支持语法高亮，还能展示 Git 的改动。macOS 下安装命令：`brew install bat` 相信你用过 bat 后就不会再想用回 cat 了
 
@@ -206,8 +174,6 @@ go run knnclassifier_iris.go
 
 23、[jpeg_tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MROS/jpeg_tutorial)：教你编写 JPEG 解码器的教程，示例为 Rust 代码
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
 24、[Pine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lukakerr/Pine)：一个免费、轻量、简洁的 macOS Markdown 编辑器。功能：
@@ -233,8 +199,6 @@ $ publish new
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/230532062.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 26、[neofetch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dylanaraps/neofetch)：展示操作系统信息的命令行工具，支持将近 150 种操作系统
@@ -266,8 +230,6 @@ where email = "example@domain.com"
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/311525798.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 30、[pure-bash-bible](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dylanaraps/pure-bash-bible)：该书有好多复制就能用的 bash 函数，我愿称其为 bash 的“奇技淫巧”。比如把字母转为大写的函数：
 ```
@@ -283,8 +245,6 @@ HELLO
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/137147386.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 机器学习
 31、[pulse](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/adamian98/pulse)：根据包含马赛克的人脸图像，生成一张相似容貌的结果。注意不是复原哦，仅可用于人脸
 
@@ -296,8 +256,6 @@ HELLO
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/298980599.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -306,10 +264,10 @@ HELLO
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/57/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/57'>这里</a>。
 </p>
 
 ## 声明

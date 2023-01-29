@@ -6,25 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/70/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Ruby 项目](#Ruby-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/70) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -42,8 +28,6 @@
 
 2、[tinyssh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/janmojzis/tinyssh)：极简 SSH 服务器。为了便于学习仅保留了基础功能，而且抛弃了较旧的加密算法。该项目的学习价值大于实用价值，适合对 SSH 和加密知识感兴趣的小伙伴
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C# 项目
 3、[.NET-Backend-Developer-Roadmap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap)： .NET 后端学习路线图
@@ -70,8 +54,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/445545738.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 7、[CGraph](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ChunelFeng/CGraph)：无第三方依赖的 DAG 调度框架。实现了依赖节点依次执行、无依赖节点并发执行的逻辑。项目结构清晰、文档齐全，不仅代码中包含关键注释，还有示例代码和讲解文章。初学者可以通过该项目学到图调度方式、模块开发、模板编程、多线程编程、设计模式和通用算法的知识
@@ -112,8 +94,6 @@ timg some-video.mp4 # 播放视频
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/61416223.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 10、[go-pry](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/d4l3k/go-pry)：Go 语言的交互式 REPL 命令行工具
@@ -162,8 +142,6 @@ octosql "SELECT customer_id, SUM(amount)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/173582015.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 15、[agrona](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/real-logic/agrona)：提供了用于创建高性能应用的数据结构和实用方法的库。它将 Java 标准库中的数据结构进行包装，避免了 Java 自动装箱。比如提供的队列使用了填充字节的方式，避免头尾结点进入同一缓冲行，来提高队列出队入队的性能。整个项目代码量不多注释完善、代码风格清晰，抛开使用来讲也是一个值得学习的项目
 
@@ -182,8 +160,6 @@ octosql "SELECT customer_id, SUM(amount)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/39673913.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 19、[js-sdsl](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/js-sdsl/js-sdsl)：实用的 JavaScript 数据结构库。实现了 LinkList、Queue、Set、Map 等数据结构，严格的单元测试提供了正确性和性能的保证，可用于各种需要用到高级数据结构的场景
@@ -220,15 +196,11 @@ octosql "SELECT customer_id, SUM(amount)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/15246993.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Objective-C 项目
 24、[Stay](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shenruisi/Stay)：移动端 Safari 浏览器插件管理器。提供了丰富的脚本管理能力，还支持运行油猴插件。内置的脚本库提供了 App 防跳转、广告拦截、自动展开文本等功能
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/420680322.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
 25、[dootask](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kuaifan/dootask)：在线项目管理平台。功能包括任务分配、文档协作、即时 IM、文档协作、文件管理等
@@ -240,8 +212,6 @@ octosql "SELECT customer_id, SUM(amount)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/437779131.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 27、[django-grappelli](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sehmaschine/django-grappelli)：美化 Django 默认管理后台界面的库
@@ -284,8 +254,6 @@ python manage.py collectstatic
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/436126869.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Ruby 项目
 30、[fastlane](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fastlane/fastlane)：一款专为 iOS 和 Android 开发者提供自动化构建的工具。它上手简单使用方便，能够帮助开发者自动完成 App 打包、签名、测试、发布、提交到 App Store、Google Play 等工作，实现一条命令发布应用
 ```
@@ -305,8 +273,6 @@ end
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/27442967.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 31、[iGlance](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iglance/iGlance)：macOS 状态栏系统监视器
 
@@ -317,8 +283,6 @@ end
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/427532379.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 33、[JetBrainsMono](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JetBrains/JetBrainsMono)：JetBrains 为开发者开源的免费字体。该字体形状简单没有不必要的细节，从而阅读起来十分轻松而且小尺寸时显示更加清晰
@@ -346,8 +310,6 @@ end
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/279638102.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 38、[rust-course](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sunface/rust-course)：《Rust 语言圣经》涵盖了 Rust 语言从入门到精通的全部知识。该书目前还未完成，正处于积极更新的状态。[在线阅读](https://book.rust.team)
 
@@ -355,15 +317,11 @@ end
 39、[safe-rules](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Qihoo360/safe-rules)：由 360 质量工程部开源的《代码安全规则集合》。一份全面详细的 C/C++ 编程规范指南，适用于桌面、服务端以及嵌入式等软件开发
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 机器学习
 40、[VNN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/joyycom/VNN)：高性能、轻量级的神经网络部署框架。支持人脸关键点检测、卡通图像风格化、天气场景识别等功能，打包全部功能后的 SDK 体积还不到 3 MB，适用于 Android、iOS 等操作系统
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/435838356.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
@@ -373,10 +331,10 @@ end
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/70/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/70'>这里</a>。
 </p>
 
 ## 声明

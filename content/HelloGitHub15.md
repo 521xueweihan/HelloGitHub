@@ -6,20 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/15/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [Python 项目](#Python-项目)
-- [Ruby 项目](#Ruby-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/15) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -35,16 +26,12 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/63088743.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Go 项目
 2、[aliyungo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/denverdino/aliyungo)：非官方的 Aliyun Go语言 SDK 支持API：ECS, OSS, DNS, SLB, RDS, RAM, MNS, STS, SLS, MQ, Push, OpenSearch, DM, Container Service
 
 
 3、[conference](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gopherchina/conference)：Go 语言实际项目应用的技术分享
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
 4、[FunGameRefresh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Hitomis/FunGameRefresh)：好玩的下拉刷新控件
@@ -56,8 +43,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/93503295.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 6、[font-spider](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aui/font-spider)：字蛛是一个智能 WebFont 压缩工具，它能自动分析出页面使用的 WebFont 并进行按需压缩
@@ -76,8 +61,6 @@
 9、[xdomain](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jpillora/xdomain)：纯 JavaScript 实现 CROS 的库，[在线示例](http://jpillora.com/xdomain/)
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Objective-C 项目
 10、[FLEX](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FLEXTool/FLEX)：用于 iOS 开发的一组应用内调试工具，功能强大且多，多到不一一列举了
 
@@ -89,8 +72,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/768345.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 12、[aredis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NoneGG/aredis)：一款基于 Python3 asyncio 的异步 redis 客户端，支持对于单实例，连接池， 哨兵以及集群。[作者](https://github.com/NoneGG)希望可以找到志同道合的小伙伴集思广益，一起维护、优化。示例代码如下：
@@ -144,15 +125,11 @@ def test():
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/61924149.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Ruby 项目
 17、[mastodon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mastodon/mastodon)：基于 Ruby 语言的社交网站服务器端所有的源代码，通过这个项目，你可以自己部署一个属于自己的社交网站
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/52281283.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 18、[ch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xnum/ch)：类似 virtualenv，可以在 Linux 下建立虛拟的 home 目录並切换，以管理不同工作或项目的文件
@@ -174,8 +151,6 @@ def test():
 22、[vim-galore-zh_cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wsdjeg/vim-galore-zh_cn)：Vim 从入门到精通
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 23、[es6tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ruanyf/es6tutorial)：阮一峰老师的开源精品，ECMAScript 6 入门书籍，[在线阅读](http://es6.ruanyifeng.com/)
 
@@ -186,8 +161,6 @@ def test():
 
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -196,10 +169,10 @@ def test():
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/15/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/15'>这里</a>。
 </p>
 
 ## 声明

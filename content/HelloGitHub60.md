@@ -6,22 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/60/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/60) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -42,8 +31,6 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/225607507.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 3、[nopCommerce](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nopSolutions/nopCommerce)：免费开源的 ASP.NET 电子商城平台。该项目始于 2008 年，由专业团队开发和维护，大而全的商城项目。支持 Windows、Linux、macOS 平台，还有支持开箱即用的 Docker 部署方式
 
@@ -59,8 +46,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/120231691.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 6、[jwEngine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jwcpp/jwEngine)：一个跨平台、轻量级、支持 C++ 和 Lua 的 Web 框架。支持 TCP、KCP、WebSocket、HTTP 等协议，底层采用 libuv 异步 IO 提高并发，避免多线程上下文切换开销和破坏代码美感，网络部分和逻辑部分使用一个主事件循环驱动。支持 Lua 提高开发效率，适用于小型游戏开发，示例代码：
@@ -87,8 +72,6 @@ event_run()
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/305089628.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 8、[act](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nektos/act)：该项目可以让你在本地调试 GitHub Actions 脚本。GitHub Actions 是 GitHub 提供的仓库自动工作流程功能，用户可以利用 GitHub 提供的免费计算机资源轻松实现 CI/CD，还可以用来做很多有意思的事情。但是在编写 actions 脚本时，想调试脚本或得到运行结果，只能 push 到远程仓库等待运行结束，没有办法在本地调试和查看结果。有了 act 这个项目，就可以在本地轻松调试 actions 啦，是不是很棒
@@ -159,8 +142,6 @@ Output:
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 11、[QNotified](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ferredoxin/QNotified)：让运行在安卓系统上的 QQ 变得更好用的开源 Xposed 模块。Xposed 是一个运行于 Android 操作系统的 Hook 框架，可以理解为安卓操作系统的外挂！安装本工具后，可在 QQ 自带的设置中点击 QNotified 即可开启“超级”模式。支持：
 - 防撤回
@@ -171,8 +152,6 @@ Output:
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/177373545.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 12、[ChatUI](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/ChatUI)：专注于对话领域的 UI 开源项目。可以帮助用户快速搭建体验友好的机器人对话界面，特性：
@@ -245,8 +224,6 @@ const App = () => {
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/23267883.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
 17、[dompdf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dompdf/dompdf)：一个 HTML 转 PDF 的 PHP 库。示例代码：
@@ -326,8 +303,6 @@ try {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/281640234.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Python 项目
 20、[Airtest](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AirtestProject/Airtest)：适用于移动端应用的跨平台 UI 自动化框架。基于图像识别定位元素，可能都不需要一行代码就可以很方便地用它来测试 APP 或刷游戏
 
@@ -348,8 +323,6 @@ try {
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/21244505.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
 24、[flappy-fly-bird](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jVirus/flappy-fly-bird)：用 Swift 写的 Flappy Bird 游戏
@@ -375,8 +348,6 @@ let secondGradient = [UIColor.blackColor(), UIColor.orangeColor()].gradient { gr
 }
 ```
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 26、[azuredatastudio](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/azuredatastudio)：微软开源的数据库桌面管理工具。该工具支持 SQL Server、Azure SQL DB 和 SQL DW 数据库，Windows 下的安装包仅不到 100 MB，还支持另外两大操作系统 macOS 和 Linux。如果开发中用到了上面的几种数据库，就试试这款免费的数据库桌面管理工具吧
@@ -413,8 +384,6 @@ docker run -it \
 
 30、[what-happens-when](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alex/what-happens-when)：该项目详细地解释了当你在浏览器中输入 google.com 按下回车后发生了什么。[中文](https://github.com/skyline75489/what-happens-when-zh_CN)
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 31、[best-of-ml-python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ml-tooling/best-of-ml-python)：优秀的 Python 机器学习相关开源库集合。该项目会根据收录的开源项目各项指标计算得出一个评分，并定期更新
@@ -460,8 +429,6 @@ optim.step()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/305144746.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -470,10 +437,10 @@ optim.step()
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/60/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/60'>这里</a>。
 </p>
 
 ## 声明

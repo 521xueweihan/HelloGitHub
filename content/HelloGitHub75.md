@@ -6,27 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/75/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Kotlin 项目](#Kotlin-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Ruby 项目](#Ruby-项目)
-- [Rust 项目](#Rust-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/75) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -49,14 +33,10 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/203957456.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 4、[lively](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rocksdanister/lively)：Windows 动态桌面壁纸工具。支持 Windows 用户设置多种动画文件为桌面壁纸的工具，不仅安装简单效果炫酷，而且完全免费。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/201188122.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 5、[async_simple](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/async_simple)：阿里开源的轻量级 C++ 异步框架。提供了基于 C++20 无栈协程(Lazy)、有栈协程(Uthread) 以及 Future/Promise 等异步组件，能够轻松完成 C++ 异步的开发，广泛应用于阿里的图计算引擎、时序数据库、搜索引擎等系统。
@@ -88,8 +68,6 @@ dynamic.h：动态类型的对象，可用来处理 json-> map
 ...
 ```
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 7、[NES.css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nostalgic-css/NES.css)：NES 风格的 CSS 框架。NES 就是我们小时候玩的“红白机”，如果你喜欢这种像素风格的画面，该项目可以让你轻松实现类似“红白机”复古游戏风格的网页。
 ```html
@@ -106,8 +84,6 @@ dynamic.h：动态类型的对象，可用来处理 json-> map
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/150042589.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 8、[go-best-practice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/llitfkitfk/go-best-practice)：编写可维护 Go 代码的建议。《Go 语言最佳实践》一文的中文翻译版。
@@ -127,8 +103,6 @@ dynamic.h：动态类型的对象，可用来处理 json-> map
 12、[server](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/screego/server)：多用户的屏幕分享服务。它可以快速启动一个在线共享屏幕的服务，让用户无需安装任何软件，仅使用浏览器就能分享自己的屏幕画面。项目基于网页实时通信(WebRTC) 实现，由 STUN/TURN 协议完成内网穿透和浏览器端对端的连接，既实用又有源码可以学习。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/280232135.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
 13、[baritone](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cabaletta/baritone)：Minecraft 游戏机器人 。它可以帮你自动完成寻路、采集矿石等操作。
@@ -169,8 +143,6 @@ builder.addService(ServerInterceptor.intercept(service,
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/117965972.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### JavaScript 项目
 17、[dicebear](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dicebear/dicebear)：供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库，还有免费的接口服务。支持多种不同的风格，比如：像素、冒险家、标识等。
 ```javascript
@@ -207,21 +179,15 @@ let svg = createAvatar(style, {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/321979911.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Kotlin 项目
 23、[SmsForwarder](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pppscn/SmsForwarder)：Android 上的消息转发应用。可以监控 Android 手机上的短信、来电和应用通知，并根据配置好的规则自动转发给其它手机，以及包括钉钉、飞书、企业微信在内的多种主流消息平台。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/337594329.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### PHP 项目
 24、[freenom](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/luolongfei/freenom)：免费域名自动续期工具。因为顶级免费域名供应商 Freenom，提供的免费域名需要每年续期，该项目可以自动完成域名续期，让你轻松拥有免费的顶级域名。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/404921727.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 25、[DearPyGui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hoffstadt/DearPyGui)：强大的 Python GUI 库。底层采用 GPU 渲染提供了卓越的性能，内置多种现成的部件和样式控制，文档详细包含丰富的示例，可以轻松上手。
@@ -285,21 +251,15 @@ L:   1 | P:  14 | L039 | Unnecessary whitespace found.
 L:   1 | P:  27 | L001 | Unnecessary trailing whitespace.
 ```
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Ruby 项目
 29、[gollum](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gollum/gollum)：基于 Git 的轻量级 wiki 系统。后端采用 Ruby 编写，然后 Git 作为文件存储的 wiki 系统。功能够用部署简单，但界面比较“简朴”。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/585285.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Rust 项目
 30、[lapce](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lapce/lapce)：纯 Rust 编写的代码编辑器。基于 Rust 的 Druid 和 Xi-Editor 构建的轻快代码编辑器，内置终端、LSP 协议支持、远程开发、VIM 模式，支持 Windows、Linux、macOS。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/120425779.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
 31、[Runestone](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/simonbs/Runestone)：适用于 iOS 的高亮文本编辑器。基于 Tree-sitter 实现的高性能 iOS 文本编辑器，支持多种编程语言的语法高亮，以及行数、显示不可见字符、插入符号对等功能。
@@ -335,8 +295,6 @@ struct ContentView: View {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/134316697.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 其它
 34、[checkchan-dist](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/easychen/checkchan-dist)：网页内容监控工具。能监测网页内容变化，并发送异动通知，可用来跟踪网站内容、追番剧和小说。
 
@@ -362,14 +320,10 @@ struct ContentView: View {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/246335987.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 40、[cpp-game-engine-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ThisisGame/cpp-game-engine-book)：《游戏引擎浅入浅出》。该书介绍了如何从零制作一个完整的游戏引擎，内容包含从基础的环境搭建，到后面的骨骼动画、多线程渲染、阴影实现等方面。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/345923708.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 41、[dalle-mini](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/borisdayma/dalle-mini)：根据文字生成图片的 AI 模型。可以按照文字提示自动生成图片，我试了下感觉生成的图片有些“抽象”。
@@ -380,8 +334,6 @@ struct ContentView: View {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/74505259.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -390,10 +342,10 @@ struct ContentView: View {
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/75/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/75'>这里</a>。
 </p>
 
 ## 声明

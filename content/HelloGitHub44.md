@@ -6,21 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/44/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C++ 项目](#C-项目-1)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/44) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -41,8 +31,6 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/111583593.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 3、[musikcube](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/clangen/musikcube)：一个使用 C++ 编写的终端的音乐播放器，也可以作为一个音频引擎、元数据索引器和服务器。musikcube 可以在 Windows、MacOS 、Linux 以及带有 raspbian 的树莓派上轻松编译和运行。虽然它只能在终端上使用，但是功能应有尽有。使用方法详见 [User Guide](https://github.com/clangen/musikcube/wiki/user-guide)
 
@@ -53,8 +41,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/47690142.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 5、[evans](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ktr0731/evans)：基于 Go 语言实现的支持交互模式的 gRPC 客户端，让调试、测试 gRPC API 更加容易
@@ -94,8 +80,6 @@ The certificate is at "./example.com+5.pem" and the key at "./example.com+5-key.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/138547797.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 9、[DoKit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/didi/DoKit)：一款功能齐全的 iOS 、Android、微信小程序客户端研发助手。它功能强大、接入方便、便于扩展，能够让每一个 App 快速接入一些常用的辅助开发工具、测试效率工具、视觉辅助工具，而且能够完美在 Doraemon 面板中接入一些定制的辅助工具
 
@@ -109,8 +93,6 @@ The certificate is at "./example.com+5.pem" and the key at "./example.com+5-key.
 
 11、[SpringCloud](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhoutaoo/SpringCloud)：基于 SpringCloud2.1 的微服务开发脚手架
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 12、[FileSaver.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eligrey/FileSaver.js)：文件保存的 JavaScript 库，支持多种常见的文件存储格式：xls、txt、png 等。它可以方便的把数据转成文件，然后供用户下载。示例代码：
@@ -157,15 +139,11 @@ ReactDOM.render(<QierPlayer srcOrigin="你的视频地址"/>, document.getElemen
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/180575663.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### PHP 项目
 18、[SyncMusic](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kasuganosoras/SyncMusic)：基于 PHP Swoole 开发的在线弹幕点歌台。支持自由点歌、切歌、调整排序、删除指定音乐以及基础权限分级
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/220157762.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 19、[Gooey](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chriskiehl/Gooey)：一个把 Python 命令行工具转化成 GUI 桌面工具的库。就我个人还是喜欢命令行的形式😅
@@ -187,8 +165,6 @@ ReactDOM.render(<QierPlayer srcOrigin="你的视频地址"/>, document.getElemen
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/65319101.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
 23、[pock](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pock/pock)：一款在苹果电脑的触控栏中，显示 macOS 程序坞的开源工具
@@ -212,8 +188,6 @@ do {
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/54882337.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 25、[CoolplaySpark](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lw-lin/CoolplaySpark)：Spark 源代码分析、类库解读等
@@ -243,8 +217,6 @@ do {
 31、[zh.javascript.info](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/javascript-tutorial/zh.javascript.info)：《现代 JavaScript 教程》是以最新的 JavaScript 标准为基准的教程。通过简单但详细的内容，讲解从基础到高阶的 JavaScript 相关知识，能够帮助初中级前端提升 JavaScript 等前端技术水平。[在线阅读](https://zh.javascript.info/)
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 机器学习
 32、[ML-NLP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NLP-LOVE/ML-NLP)：该项目总结了机器学习、NLP 面试中常考到的知识点和代码实现
 
@@ -259,8 +231,6 @@ do {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/74627617.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -269,10 +239,10 @@ do {
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/44/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/44'>这里</a>。
 </p>
 
 ## 声明

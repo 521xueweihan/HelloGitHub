@@ -6,25 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/40/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Ruby 项目](#Ruby-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/40) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -47,8 +33,6 @@
 2、[TDengine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/taosdata/TDengine)：一个专门针对物联网等行业以及应用监控进行设计优化的大数据平台。它的数据库插入、查询操作比其它的数据库快了 10 倍！消耗的成本也非常低，和其他典型的此类解决方案相比。TDengine 只需要不到 1/5 的计算资源，它还提供了 Java、C/C++、Python、Go、RESTful API 等用于开发的接口。还在为数据的写入、读取、计算的性能发愁吗？有了它相信你的头发存活率会大大提高
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 3、[Common.Utility](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Jimmey-Jiang/Common.Utility)：项目作者日常工作总结和网上收集、整理的 C# 各式各样的功能类库。类与类之间没有联系，可以单独引用至项目。代码中包含注释，便于使用和学习
 
@@ -58,13 +42,9 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/158939316.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 5、[muduo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chenshuo/muduo)：一个依赖 Boost 的非阻塞 IO 和事件驱动 C++ 网络库。实现了对底层系统调用的封装、高性能异步日志的设计、Reactor 多线程并发模式设计、简单的 HTTP 协议的解析。适合开发 Linux 下的多线程服务端应用程序，通过阅读源码还可学习到 C++ 语言、Linux 网络编程等后端知识
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 6、[gocui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jroimartin/gocui)：命令行 UI 库。提供了类似 HTML canvas 的 API 用来在终端中绘制 UI，使得内容可以分块展示，甚至可以在某些终端中支持点击事件。如果你想做一个 redis-cli 或者其它炫酷、支持点击事件的命令行 UI 程序。但是又不想陷入手绘 UI 的困境，该库可以帮你解决这些烦恼
@@ -120,8 +100,6 @@ scope launch
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/34659664.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 12、[arthas](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/arthas)：阿里开源的 Java 诊断工具。当线上出现了奇怪的异常时，无需发版就能截获运行时的数据，包括参数、返回值、异常、耗时等等。上手简单、文档完备、无代码侵入式的可以对正在运行的 jvm 进程进行监控，简单易用的命令行工具。线上出 bug 了，有了 arthas 先喝口咖啡压压惊，问题分分钟定位不是梦
 
@@ -149,8 +127,6 @@ mall
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/173974328.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 16、[cdfang-spider](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mengsixing/cdfang-spider)：成都房源统计的数据可视化项目。该项目统计了成都开盘以来所有的房源信息，帮助想在成都买房的同学提供一些可视化的数据分析，比房协网官方的数据更直观，分析更透彻。此项目包含了一套完整的源代码，以及详细的项目搭建文档，开发者可以根据搭建文档一步一步搭建这个项目。可以帮助开发者学习前端，后端，数据库端，单元测试，持续集成等全套知识。基于此项目，你可以做任何地区的房源信息可视化，让数据说话
@@ -203,23 +179,17 @@ it('filter test', () => {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/174164624.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Objective-C 项目
 23、[GHDropMenuDemo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shabake/GHDropMenuDemo)：一款适用于多种场景、使用简单的筛选菜单组件。方便集成、快速选择出筛选项、对原有项目无污染
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/161890062.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### PHP 项目
 24、[CRMEB](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/crmeb/CRMEB)：基于 ThinkPhp5.0 + Vue + EasyWeChat 开发的一套开源、免费新零售商城系统（集客户关系管理+营销电商系统）。能够帮助企业基于微信公众号、小程序、PC、APP 等，实现会员管理、数据分析、精准营销的电子商务管理系统。满足企业新零售、预约、O2O、多店等各种业务需求，反正就是功能强大、适用于多种场景的商城系统
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/154943413.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 25、[cufflinks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/santosjorge/cufflinks)：基于 plotly 和 pandas 的绘图库。Pandas 是处理数据的常用库，cufflinks 可以让 pandas 处理后的数据更直观的展示。通过该库你可以用极少的代码，实现绚丽和多样的数据可视化图形
@@ -230,8 +200,6 @@ it('filter test', () => {
 26、[one-python-craftsman](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/piglei/one-python-craftsman)：如何编写优秀的 Python 代码？优秀的代码就是由无数优秀的细节组成的。这个项目就是详细讲解 Python 那些细节，比如何时使用异常、怎么给变量起名、怎么编写条件分支等等，看似简单的可能也是最难的地方。本项目作者是资深的 Python 开发，内容贴近实际工作和业务场景，相信认真学习完本项目，你的编码能力一定会得到很大提升，帮你在 Python 的开发道路上走的更高、更远
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Ruby 项目
 27、[rubocop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rubocop/rubocop)：一个 Ruby 静态代码分析器和代码格式化程序。开箱即用，强制执行社区 Ruby 样式指南中列出的许多指导原则。RuboCop 非常灵活，大多数行为都可以通过各种配置选项进行调整。除了报告代码中的问题外，还可以自动为您解决一些问题。使用最广、效率超高的 Ruby 静态代码检测工具。示例代码：
 ```
@@ -241,15 +209,11 @@ $ rubocop
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 28、[uPic](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gee1k/uPic)：一款 macOS 端的图床客户端，支持多种免费、付费的图床，让你方便快捷的上传图片，醉心于内容创作的工具
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/190874674.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 29、[from_coder_to_expert](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/0voice/from_coder_to_expert)：2019 年各互联网大厂最新内部技术分享的文档、PDF、PPT 集合。从程序员到 CTO，从专业走向卓越
@@ -271,16 +235,12 @@ $ rubocop
 33、[Student-resources](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ivmm/Student-resources)：这个世界对学生总是非常友好，尤其是大学生。学生们总能获得各种各样的优惠，本文介绍的就是利用学生身份可以享受到的相关学生优惠权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠资格，使得其他同学无法受益。像 GitHub、Microsoft、AWS、JetBrains 以及最近开始的苹果学生优惠大促销，大学生（中学生也可以，小学生比较难）们都可以尽情享用啦！最后祝各位学生学业进步，让自己的生活更精彩
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 34、[flutter-in-action](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/flutterchina/flutter-in-action)：《Flutter 实战》，[在线阅读](https://book.flutterchina.club/)
 
 
 35、[go101](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/go101/go101)：《Go语言101》是一本着重介绍 Go 语法和语义的编程指导书，[中文版在线阅读](https://gfw.go101.org/article/101.html)
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 36、[DG-Net](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NVlabs/DG-Net)：深度学习模型训练时往往需要大量的标注数据，但收集和标注大量的数据往往比较困难。作者在行人重识别这个任务上探索了，利用生成数据来辅助训练的方法。通过生成高质量的行人图像（行人两两换衣），将其与行人重识别模型融合，同时提升行人生成的质量和行人重识别的精度
@@ -356,8 +316,6 @@ forward(input_ids, token_type_ids=None, attention_mask=None, masked_lm_labels=No
 39、[TabNine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/codota/TabNine)：基于 OpenAI 的语言模型的代码补全工具。支持 23 种编程语言、5 种编辑器（VS Code、Sublime Text、Atom、Emacs、Vim）、使用简单，效果惊艳
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -366,10 +324,10 @@ forward(input_ids, token_type_ids=None, attention_mask=None, masked_lm_labels=No
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/40/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/40'>这里</a>。
 </p>
 
 ## 声明

@@ -6,22 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/41/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C# 项目](#C-项目)
-- [C++ 项目](#C-项目-1)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Python 项目](#Python-项目)
-- [Ruby 项目](#Ruby-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/41) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -51,8 +40,6 @@ RedisHelper.StartPipe().Set("a", "1").Get("a").EndPipe();
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 2、[awesome-modern-cpp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rigtorp/awesome-modern-cpp)：Wow Awesome！你想将 modern cpp 运用自如吗？那就来看 Awesome-modern-cpp 吧！这里列出了一些有关现代 C++ 的最佳实践、书籍、会议、谈话、播客、博客、网站、各种各样的库以及一些工具，让你不禁 Wow Awesome，这就是你独享的 moment
 
@@ -63,8 +50,6 @@ fmt::print("Hello, {}!", "world");  // 类 Python 的语法风格
 fmt::printf("Hello, %s!", "world"); 
 ```
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 4、[go-github](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/go-github)：谷歌出品的 GitHub API Go 语言版本。如果你需要做一个 GiHhub 相关的产品后端，这个可以省去很多功夫，而且还可以学习谷歌工程师写的  Go 项目、设计接口的思路。示例代码：
@@ -98,8 +83,6 @@ make test # 测试
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/186473531.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
 7、[SmartSwipe](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/luckybilly/SmartSwipe)：一个侧滑处理框架，而不是具体某种侧滑效果的实现。其内部封装十几种侧滑效果，包括侧滑返回、侧滑删除、百叶窗、开门等效果，总有那么几款能让你眼前一亮。示例代码：
@@ -149,8 +132,6 @@ SmartSwipeRefresh.translateMode(view, false).setDataLoader(loader);
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/164397881.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### JavaScript 项目
 11、[chart.xkcd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/timqian/chart.xkcd)：手绘风格的 JS 图表库。手绘风格的设计给人一种很可爱的感觉，看了这些图表你会发现数据也可以以萌萌哒的形式展示
 
@@ -185,8 +166,6 @@ SmartSwipeRefresh.translateMode(view, false).setDataLoader(loader);
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/13584262.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Python 项目
 16、[bullet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bchao1/bullet)：一个支持终端输入和菜单选择的 Python 库。可以让使用者在终端上用方向键移动、单选、复选、密码输入等，而且支持定制化格式和颜色。看下面的效果图你就知道它是干什么
 
@@ -210,8 +189,6 @@ if __name__ == '__main__':
     print(lun)  # 二零一九年 七月 十四 星期四 无
 ```
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Ruby 项目
 19、[overcommit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sds/overcommit)：一款可配置的 git hook 管理工具。git hook 是 git 的强大功能，当触发某一个 git 的事件，例如：add、commit、push 等操作时，会触发执行对应事件的附加操作（hook）。可以用来检测代码质量、commit 描述风格、控制代码质量等。overcommit 就是能让你不写一行代码（配置不算代码），来自定义 hook 要执行的操作。它使用简单、文档详尽、例子众多、社区活跃，值得一试
@@ -259,15 +236,11 @@ RestClient.post( url,
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 21、[AppearancesSwitcher](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BoringApp/AppearancesSwitcher)：可以在 macOS 通知中心上快速切换“亮/暗”主题的小工具
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/201937396.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 22、[awesome-adb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mzlogin/awesome-adb)：ADB 用法集合（Android Debug Bridge）
@@ -276,13 +249,9 @@ RestClient.post( url,
 23、[git-tips](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/521xueweihan/git-tips)：Git 常用命令集合
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 24、[OnJava8](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LingCoder/OnJava8)：《On Java 8》中文版又名《Java 编程思想》
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 25、[Awesome-Multimodal-Research](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)：该项目是收录多模态相关研究的一个精选列表，正在持续更新中。现实世界中的信息通常以不同的模态出现。例如，图像通常与标签和文本解释联系在一起；文本包含图像以便更清楚地表达文章的主要思想。不同的模态由迥异的统计特性刻画。例如，图像通常表示为特征提取器的像素强度或输出，而文本则表示为离散的词向量。由于不同信息资源的统计特性不同，发现不同模态之间的关系是非常重要的
@@ -299,8 +268,6 @@ RestClient.post( url,
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/70908208.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -309,10 +276,10 @@ RestClient.post( url,
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/41/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/41'>这里</a>。
 </p>
 
 ## 声明

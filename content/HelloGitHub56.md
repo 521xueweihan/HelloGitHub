@@ -6,23 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/56/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [Python 项目](#Python-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/56) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -35,8 +23,6 @@
 ### C 项目
 1、[ucore](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kiukotsu/ucore)：清华大学操作系统课程，配套实验项目。推荐给有计算机结构原理、C 和汇编、数据结构基础并对操作系统感兴趣的同学，项目中包含教学视频、练习题、实验指导书等
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C# 项目
 2、[ContextMenuManager](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BluePointLilac/ContextMenuManager)：一个纯粹的 Windows 右键菜单管理程序。功能：
@@ -51,8 +37,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/198071756.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 4、[spdlog](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gabime/spdlog)：快速、上手简单的 C++ 日志库。示例代码：
@@ -112,15 +96,11 @@ curl 127.0.0.1:1412/Example/Echo -H 'Content-Type: application/json' -d '{messag
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/295369297.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 6、[tailwindcss](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tailwindlabs/tailwindcss)：基于比组件更小、更灵活的工具类（utility-first）思想的 CSS 框架。这个思想简单来说就是用 class 保证灵活、便于自定义组件，而不是在组件基础上实现个性化。网上对这个框架褒贬不一，但我觉得挺好想学一下
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/106017343.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 7、[go-zero](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zeromicro/go-zero)：一个可靠的 Go 语言 Web 和 RPC 框架。就算是 Go 新手基于该框架，也可以快速写出高性能可扩展的微服务。示例代码：
@@ -154,8 +134,6 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/14712850.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 10、[Mindustry](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Anuken/Mindustry)：一款 Java 编写的免费沙盒塔防游戏。支持多平台：Windows、Linux、macOS、Android 
 
@@ -166,8 +144,6 @@ func main() {
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/220875250.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 12、[AdminLTE](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ColorlibHQ/AdminLTE)：基于 Bootstrap 4.5 和 jQuery 的管理后台模板
@@ -261,15 +237,11 @@ playSong(song) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/309123651.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Objective-C 项目
 17、[Sloth](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sveinbjornt/Sloth)：一款 macOS 系统下显示进程打开的文件、socket、管道等信息的工具。就像桌面版的 lsof，快来试试吧
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/1535038.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 18、[flask-state](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yoobool/flask-state)：一款轻便的机器状态监控 Flask 插件。示例代码：
@@ -319,15 +291,11 @@ Processing: 100%|████████████████████| 3
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/296233312.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 22、[eul](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gao-sun/eul)：一款极简免费的 macOS 状态监控工具。我就在用，强烈推荐给你
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/275095333.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 23、[CopyTranslator](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CopyTranslator/CopyTranslator)：支持网页和 PDF 的划词翻译工具。有了它就可以解决阅读 PDF 文件时，要翻译大段内容情况下的乱码、换行、翻译不准的问题
@@ -356,8 +324,6 @@ Processing: 100%|████████████████████| 3
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/310933773.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 机器学习
 29、[DeepLearningProject](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Spandan-Madan/DeepLearningProject)：哈佛大学开源的深度学习教程
 
@@ -382,8 +348,6 @@ result = reader.readtext('chinese.jpg')
 31、[examples](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pytorch/examples)：关于视觉、本文等方面的 PyTorch 的示例集合。包含：使用 Convnets 的图像分类（MNIST）、生成对抗网络（DCGAN）等
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -392,10 +356,10 @@ result = reader.readtext('chinese.jpg')
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/56/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/56'>这里</a>。
 </p>
 
 ## 声明

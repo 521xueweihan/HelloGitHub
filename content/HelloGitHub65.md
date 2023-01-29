@@ -6,25 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/65/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Rust 项目](#Rust-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/65) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -40,15 +26,11 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/126449599.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 2、[AduSkin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aduskin/AduSkin)：一款简约漂亮的 WPF UI 库
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/223720599.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 3、[filament](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/filament)：轻量级实时物理渲染引擎。能够用来做游戏渲染引擎或者音视频编辑工程，当你需要处理 3D 渲染效果，又不想引入庞大的游戏引擎时，可以考虑使用它尤其是 Android 平台
@@ -60,8 +42,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/126412363.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### CSS 项目
 5、[devices.css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/marvelapp/devices.css)：仅用 CSS 实现手机和平板设备的平面模型。机型包含 iPhone、Android、Lumia 和 iPad
@@ -90,8 +70,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/18042286.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 6、[gocron](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ouqiang/gocron)：基于 Go 语言实现的轻量级定时任务管理平台。功能：
@@ -124,8 +102,6 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/255014912.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 11、[Android-skin-support](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ximsfei/Android-skin-support)：方便好用的 Android 换肤框架
 ```java
@@ -157,8 +133,6 @@ connection.close();
 redisClient.shutdown(); 
 ```
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 13、[didact](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pomber/didact)：教你从零写一个 React 框架。通过一系列的文章和代码，教授如何实现 React 框架，从而能够更好的理解 React 内部原理
@@ -200,15 +174,11 @@ new Editor()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/99761907.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### PHP 项目
 18、[icon-workshop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhanghuanchong/icon-workshop)：移动应用图标生成工具。能够一键生成多种尺寸的 iOS/Android 应用图标和 APP 启动图
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/132244601.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 19、[moviepy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Zulko/moviepy)：用于处理视频的 Python 库，它支持视频剪辑、自定义效果、视频合成、格式转化、插入文字等功能。专于注视频但不局限于此，还支持处理音频和 GIF 图片。虽然现在视频剪辑的工具很丰富，但如果要批量处理视频，用 Python+moviepy 写个脚本应该可以一劳永逸，节省时间
@@ -275,15 +245,11 @@ $ python3 -m weibo_spider
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Rust 项目
 24、[toydb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/erikgrinaker/toydb)：Rust 写的分布式 SQL 数据库实战项目。作为一个学习项目并不适合于生产环境，但通过该项目你可以学习如何用 Rust 实现 Raft 协议、符合 ACID 的事物引擎、SQL 解析、数据持久化等。适合对数据库底层运作原理感兴趣的小伙伴
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/183929744.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
 25、[FlappySwift](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fullstackio/FlappySwift)：用 Swfit 写的 Flappy Bird 游戏
@@ -295,8 +261,6 @@ $ python3 -m weibo_spider
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/91977145.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 27、[authpass](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/authpass/authpass)：基于 Flutter 开发的适用于所有平台的密码管理器。可通过 Dropbox 等云服务同步数据，支持自动填充密码
@@ -339,8 +303,6 @@ $ python3 -m weibo_spider
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/57049212.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 35、[Learn-Web-Hacking](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LyleMi/Learn-Web-Hacking)：Web 安全学习笔记，[在线阅读](https://websec.readthedocs.io/zh/latest/)
 
@@ -349,8 +311,6 @@ $ python3 -m weibo_spider
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/37411426.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 37、[ASRT_SpeechRecognition](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nl8590687/ASRT_SpeechRecognition)：基于深度学习的中文语音识别系统
@@ -361,8 +321,6 @@ $ python3 -m weibo_spider
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/243487250.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -371,10 +329,10 @@ $ python3 -m weibo_spider
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/65/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/65'>这里</a>。
 </p>
 
 ## 声明

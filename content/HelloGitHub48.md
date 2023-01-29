@@ -6,21 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/48/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C++ 项目](#C-项目-1)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Python 项目](#Python-项目)
-- [Ruby 项目](#Ruby-项目)
-- [其它](#其它)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/48) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -69,8 +59,6 @@ myscan -p 21,22,23,80,443,8080 -t 256 192.168.1.1 192.168.1.254
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 4、[contour](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/contour-terminal/contour)：一个使用 C++ 17 开发的终端模拟器。可在 Windows、Linux 和 MacOS 三大平台使用，支持字体连字 Font Ligatures（例如 Fira Code 字体）、GPU 加速渲染、背景模糊（Win10、KDE）、256 色、True Color 和配色主题
 
@@ -80,15 +68,11 @@ myscan -p 21,22,23,80,443,8080 -t 256 192.168.1.1 192.168.1.254
 5、[milvus](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/milvus-io/milvus)：一款开源的、针对海量特征向量的相似性搜索引擎。相比 Faiss 和 SPTAG 这样的算子库，Milvus 提供完整的向量数据更新，索引与查询框架。Milvus 利用 GPU 进行索引加速与查询加速，能大幅提高单机性能。部署使用简单，降低了 AI 应用落地的难度
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 6、[cssgridgenerator](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sdras/cssgridgenerator)：在线通过点击动态生成基本的 CSS Grid 代码。[在线尝试](https://cssgrid-generator.netlify.com/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/48/188726142.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 7、[awesome-golang-algorithm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kylesliu/awesome-golang-algorithm)：Go 语言刷 LeetCode。[在线阅读](https://leetcode.gin.sh/)
@@ -122,8 +106,6 @@ local/remote:	100.76.175.164:52353 <-> 54.241.191.232:443 (ESTABLISHED)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/48/127227141.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 10、[dolphinscheduler](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/dolphinscheduler)：分布式易扩展的可视化 DAG 工作流任务调度系统。致力于解决数据处理流程中错综复杂的依赖关系，使调度系统在数据处理流程中开箱即用
 
@@ -139,8 +121,6 @@ local/remote:	100.76.175.164:52353 <-> 54.241.191.232:443 (ESTABLISHED)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/48/44499483.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 13、[G2](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/antvis/G2)：一套面向常规统计图表，以数据驱动的高交互可视化图形语法，具有高度的易用性和扩展性。使用 G2，你可以无需关注图表各种繁琐的实现细节，一条语句即可使用 Canvas 或 SVG 构建出各种各样的可交互的统计图表。G2 是整个蚂蚁金服 AntV 可视化解决方案中的一个环节，主要针对在高交互、高扩展的二维统计图表
@@ -162,8 +142,6 @@ local/remote:	100.76.175.164:52353 <-> 54.241.191.232:443 (ESTABLISHED)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/48/46604802.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 17、[httpx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/encode/httpx)：使用简单方便，轻松实现异步请求的 HTTP 客户端（Python 3.8+)。示例代码：
@@ -213,15 +191,11 @@ liquid().render('./img/liquid.html')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/48/229764065.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Ruby 项目
 21、[homeland](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ruby-china/homeland)：开源免费、不限制商业使用的社区网站系统
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/48/3842593.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 22、[browser-2020](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/luruke/browser-2020)：该项目汇集了浏览器鲜为人知的一些功能
@@ -238,8 +212,6 @@ liquid().render('./img/liquid.html')
 25、[Waking-Up](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wolverinn/Waking-Up)：采用追问形式的后端面试问题总结。提问然后追问是面试常见模式，更加贴近真实面试
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 机器学习
 26、[autokeras](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/keras-team/autokeras)：Keras 官方出品基于 Keras 的 AutoML 系统。支持 CPU 和 GPU 训练，傻瓜式 API，3 行代码就能训练一个模型。目前支持的任务：图像分类、图像回归、文本分类、结构化数据分类等。将人从手工选择超参数中解放出来，快速开发原型，官方口号“所有人都能使用机器学习”，[官网](https://autokeras.com/)
 ```python
@@ -252,8 +224,6 @@ results = clf.predict(x_test)
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -262,10 +232,10 @@ results = clf.predict(x_test)
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/48/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/48'>这里</a>。
 </p>
 
 ## 声明

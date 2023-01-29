@@ -6,22 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/47/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C++ 项目](#C-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/47) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -38,8 +27,6 @@
 2、[modern-cpp-features](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AnthonyCalandra/modern-cpp-features)：该项目介绍了现代 C++（C++11 以及之后的版本）语言和库的新特性。它能够帮助大家更快地入手新时代的 C++
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Go 项目
 3、[7days-golang](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/geektutu/7days-golang)：用 Go 在 7 天时间内实现 Web 框架、分布式缓存等应用的实战教程
 
@@ -48,8 +35,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/212613049.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
 5、[FXGLGames](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AlmasB/FXGLGames)：此项目包含 FXGL 框架构建的游戏示例。该游戏框架无需安装或设置开箱即用，游戏可以轻松打包到单个可执行文件.jar。示例代码：
@@ -79,8 +64,6 @@ mvn clean package -Pnative
 ./target/amqp-quickstart-1.0-SNAPSHOT-runner
 ```
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 7、[breathe-relaxer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zerosoul/breathe-relaxer)：一个在线放松网站的项目。带上耳机，[点开网站](https://works.yangerxiao.com/breathe-relaxer/)然后深呼吸
@@ -123,21 +106,15 @@ promisify(wx.getSystemInfo)().then(console.log)
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Objective-C 项目
 12、[simplenote-macos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Automattic/simplenote-macos)：一款 macOS 上免费开源的记事本应用
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/65415630.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### PHP 项目
 13、[clean-code-php](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jupeter/clean-code-php)：PHP 代码的整洁之道，整理了一系列整洁代码实操。小到变量细道 SOLID 都有涉猎，[中文译版](https://github.com/php-cpm/clean-code-php)
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 14、[activitywatch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ActivityWatch/activitywatch)：一个记录你的时间都花在那的 Python 项目。支持 Web 可视化，效果如下
@@ -170,15 +147,11 @@ print(bond_df)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/48623558.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 18、[Mos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Caldis/Mos)：一个用于在 macOS 上平滑鼠标滚动效果或单独设置滚动方向的小工具。让你的滚轮爽如触控板般丝滑
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/80204710.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 19、[apisix](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/apisix)：一个云原生、高性能、可扩展的微服务 API 网关。它是基于 Nginx 和 etcd 来实现，和传统 API 网关相比，APISIX 具备动态路由和插件热加载，适合微服务体系下的 API 管理
@@ -206,15 +179,11 @@ print(bond_df)
 25、[structured-text-tools](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dbohdan/structured-text-tools)：用于处理结构化文本数据（日志、JSON、YAML 等）的命令行工具列表
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 26、[cookbook-2nd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ipython-books/cookbook-2nd)：《IPython Cookbook 第二版》
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/90548944.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 27、[google-research](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google-research/google-research)：非官方整理的 Google AI Research 集合项目
@@ -222,8 +191,6 @@ print(bond_df)
 
 28、[Retinanet-Pytorch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yatengLG/Retinanet-Pytorch)：一个以 Pytorch 深度学习库实现的 retinanet 目标检测模型。项目拥有清晰的结构、完善的注释以及详细的使用说明。适用于有些许深度学习基础的初学者进行学习或在实际的目标检测项目中使用
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
@@ -233,10 +200,10 @@ print(bond_df)
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/47/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/47'>这里</a>。
 </p>
 
 ## 声明

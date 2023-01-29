@@ -6,25 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/82/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Python 项目](#Python-项目)
-- [Ruby 项目](#Ruby-项目)
-- [Rust 项目](#Rust-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/82) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -46,8 +32,6 @@
 3、[ZSWatch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jakkra/ZSWatch)：自制开源智能手表。该项目是基于开源 Zephyr 的智能手表，设备包含了一个分辨率为 240x240 的 IPS TFT 圆形屏幕和 3 个按钮(上一页/下一页/进入)，支持计步、血氧仪、心率仪、蓝牙等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/529594820.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C# 项目
 4、[carnac](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Code52/carnac)：用于展示键盘按键操作的工具。这是一款能够在桌面实时显示键盘操作记录的工具，多用于演示应用、录制教程等场景，适用于 Windows 7 及以上的操作系统。
@@ -74,8 +58,6 @@ dotnet publish -r win-x64 -c Release /p:Mode=CoreRT-NoRuntime
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/231551119.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 7、[cpp-httplib](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yhirose/cpp-httplib)：一个文件的 C++ HTTP/HTTPS 库。这是一个用 C++11 写的仅头文件、跨平台的 HTTP/HTTPS 服务器端和客户端库，使用时十分方便，只需在代码中引入 `httplib.h` 文件。
 ```c++
@@ -98,14 +80,10 @@ res->body;
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/1524684.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 10、[css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/primer/css)：GitHub 开源的设计系统。由 GitHub 设计团队开源和维护的项目，包含了 GitHub 的界面设计原则、使用指南和开箱即用的 UI 组件。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/32551735.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 11、[d2](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/terrastruct/d2)：一种可将文本转换为图表的脚本语言。该项目是一种图表脚本语言，可将文本转换为图表。你只需描述想要的图表，它就会生成对应的图像。
@@ -141,8 +119,6 @@ kubectl apply -f pkg/k8s/crd/install/shifu_install.yml
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/403559729.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 16、[HummerRisk](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HummerRisk/HummerRisk)：云原生安全检测平台。该项目用非侵入的方式，解决云原生环境的安全和治理问题。支持主流公/私有云资源的安全检测、漏洞扫描、一键获取报告等功能。
 
@@ -155,8 +131,6 @@ kubectl apply -f pkg/k8s/crd/install/shifu_install.yml
 18、[neo4j](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/neo4j/neo4j)：目前最流行的图数据库。它是一款采用 Java 和 Scala 语言开发的原生图数据库，专属的查询语言 Cypher，能够直观且高效地查询和处理数据之间的关系。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/6650539.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 19、[html2canvas](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/niklasvh/html2canvas)：实现浏览器内截屏的 JavaScript 库。该项目可以让你在浏览器内对整个网页或部分内容进行截图，原理是通过读取 DOM 和样式，将当前页面渲染成一个画布图像。
@@ -208,8 +182,6 @@ _.countBy([1, 2, 3, 4, 5], function(num) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/349241.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Python 项目
 24、[bandit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PyCQA/bandit)：查找 Python 代码中常见安全问题的工具。该项目是 PyCQA 出品的 Python 代码检测工具，知名的 isort 和 flake8 就是他们开源的。
 
@@ -247,14 +219,10 @@ h_flow() # "Hello, World! I'm HelloGitHub!"
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/139199684.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Ruby 项目
 29、[YouPlot](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/red-data-tools/YouPlot)：Ruby 写的命令行数据可视化工具。该项目能够在终端里将数据转化成彩色的图表，支持条形图、直方图、箱型图等类型的图表。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/283230219.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Rust 项目
 30、[ChatGPT](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lencx/ChatGPT)：第三方的 ChatGPT 桌面应用。把 ChatGPT 放到你的桌面，支持快捷键、斜杠命令、划词搜索、导出记录等实用的功能，适用于 macOS、Windows、Linux 操作系统。
@@ -265,16 +233,12 @@ h_flow() # "Hello, World! I'm HelloGitHub!"
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/247725846.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 32、[vimac](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dexterleng/vimac)：用键盘代替鼠标的 macOS 应用。它可以让用户实现仅通过键盘操作苹果电脑，支持两种操作模式。
 - 激活模式：将屏幕上可点击的位置，映射成键盘按键
 - 滚动模式：使用 HJKL 按键，可完成区域滚动
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/206583780.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 33、[cdn-up-and-running](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/leandromoreira/cdn-up-and-running)：从零开始构建 CDN 的教程。为了让你在实战中学习 CDN 的工作原理，这里会从创建一个单一的后端服务开始，逐渐扩展到多个节点、模拟延迟、可视化、可测试的 CDN 服务。因为设计 CDN 会涉及 Nginx、Lua、Docker、Grafana 等知识点，所以学习该教程需要有一定的编程基础。
@@ -303,16 +267,12 @@ git clone https://github.com/Botspot/pi-apps
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/564785929.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 38、[essential-netty-in-action](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/waylau/essential-netty-in-action)：《Netty 实战》精简版。该书是《Netty in Action》的中文精简版，带你快速掌握 Netty。
 
 39、[time-as-a-friend](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xiaolai/time-as-a-friend)：《把时间当作朋友》。做事不一定要图快，马跑起来比骆驼快，但骆驼一生走过的路却是马的两倍。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/175853072.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 40、[annotated_deep_learning_paper_implementations](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/labmlai/annotated_deep_learning_paper_implementations)：深度学习论文的实现集合。这是一个关于神经网络和相关算法 PyTorch 实现的集合，代码里还包含逐行的注释。
@@ -352,9 +312,7 @@ print("Label probs:", probs)  # 图文匹配概率 [[1.268734e-03 5.436878e-02 6
 
 42、[KuiperInfer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zjhellofss/KuiperInfer)：从零编写深度学习推理框架的教程。手把手教你用 C++ 写出一个深度学习推理框架，项目整体风格和结构借鉴了Caffe。初学者通过该教程不仅可以了解深度学习框架背后的知识，还能够学会如何上手一个中等规模的 C++ 项目。
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/568649213.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/568649213.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -364,10 +322,10 @@ print("Label probs:", probs)  # 图文匹配概率 [[1.268734e-03 5.436878e-02 6
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/82/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/82'>这里</a>。
 </p>
 
 ## 声明

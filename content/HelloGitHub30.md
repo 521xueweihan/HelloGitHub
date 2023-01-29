@@ -6,21 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/30/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C++ 项目](#C-项目)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [Python 项目](#Python-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/30) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -35,8 +25,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/127719331.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### CSS 项目
 2、[github-corners](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tholman/github-corners)：在你的网站右上角挂上章鱼猫。效果如下：
@@ -53,8 +41,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/6720403.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 5、[filebrowser](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/filebrowser/filebrowser)：自带文件浏览器的网盘服务。支持功能：文件浏览、文件生成分享链接、批量上传、文件夹创建等服务、用户系统。安装步骤如下：
@@ -89,8 +75,6 @@ nes [rom文件的路径]
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/31566326.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 8、[cicada](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TogetherOS/cicada)：基于 Netty4 实现的快速、轻量级 Web 框架。没有过多的依赖，核心 jar 包仅 30KB。一行代码即可启动 HTTP 服务，支持灵活的传参方式。[中文文档](https://github.com/TogetherOS/cicada/blob/master/README-ZH.md)，示例代码：
 ```java
@@ -101,8 +85,6 @@ public class MainStart {
 }
 ```
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 9、[ice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/ice)：让前端开发简单而友好，海量可复用物料，配套桌面工具极速构建前端应用。模板比较多，样式易于定制，物料的概念很好。可用来极速构建中后台应用，[官网](https://alibaba.github.io/ice/iceworks)
@@ -127,13 +109,9 @@ public class MainStart {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/131277712.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Objective-C 项目
 13、[iOS-InterviewQuestion-collection](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/liberalisman/iOS-InterviewQuestion-collection)：iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践。
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 14、[cx-extractor-python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chrislinan/cx-extractor-python)：这是一个对网页正文进行抽取的工具。 [cx-extractor](https://github.com/chrislinan/cx-extractor/blob/master/%E5%9F%BA%E4%BA%8E%E8%A1%8C%E5%9D%97%E5%88%86%E5%B8%83%E5%87%BD%E6%95%B0%E7%9A%84%E9%80%9A%E7%94%A8%E7%BD%91%E9%A1%B5%E6%AD%A3%E6%96%87%E6%8A%BD%E5%8F%96%E7%AE%97%E6%B3%95.pdf) 算法的 python 版本，改进了原有算法，使其支持中英文，对新闻类网页正文抽取效果较好。示例代码：
@@ -153,15 +131,11 @@ print(s)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/136727471.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 16、[FileHider-for-mac](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhihaozhang/FileHider-for-mac)：一款将你的文件夹、文件隐藏起来的小工具。适用于 macOS X 10.10 及以后的版本
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/117047395.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 17、[chinese-xinhua](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pwxcoo/chinese-xinhua)：中华新华字典数据库。包括歇后语，成语，词语，汉字
@@ -176,13 +150,9 @@ print(s)
 20、[weekly](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ascoders/weekly)：前端精读。前端界的好文精读，每周更新
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 机器学习
 21、[100-Days-Of-ML-Code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Avik-Jain/100-Days-Of-ML-Code)：《机器学习 100天》[中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code)
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
@@ -192,10 +162,10 @@ print(s)
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/30/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/30'>这里</a>。
 </p>
 
 ## 声明

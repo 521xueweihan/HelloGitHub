@@ -6,23 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/58/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C# 项目](#C-项目)
-- [C++ 项目](#C-项目-1)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Ruby 项目](#Ruby-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/58) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -38,15 +26,11 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/295200728.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 2、[ChordNova](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Chen-and-Sim/ChordNova)：一款开源免费的和弦生成工具。我不懂乐理，但单从这个软件的界面就感受到了专业，因为有很多乐理的名词😅
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/283499368.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 3、[containers-the-hard-way](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shuveb/containers-the-hard-way)：用 Go 实现迷你 Docker，包含 Docker 核心功能的开源项目。该项目仅用 Linux 系统接口实现了类似容器的功能，这些能够帮助你更好地了解容器的工作方式。如果你想更深入地理解容器，就参考本项目写一个迷你 Docker 吧
@@ -81,8 +65,6 @@ echo 'GET http://localhost:8080' | \
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/12080551.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 7、[Anki-Android](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ankidroid/Anki-Android)：高效学习神器 Anki 安卓客户端。Anki 是一个帮助学习的记忆卡片软件，卡片正面是问题背面是答案，然后根据记忆公式帮你复习和记牢。[下载地址](https://github.com/ankidroid/Anki-Android/releases/tag/v2.14.3) 如果下载后不会用的话，本文点赞过 100 我出一份小白教程给大家上手这个神器
 
@@ -106,8 +88,6 @@ echo 'GET http://localhost:8080' | \
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/248416273.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 12、[cloudbase-framework](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/cloudbase-framework)：腾讯开源的云原生一体化部署工具。一键将项目部署上云，不限制框架和语言
@@ -156,8 +136,6 @@ const graph = new Graph({
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/221622743.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
 17、[easy-sms](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/overtrue/easy-sms)：短信发送 PHP 组件。特点：
@@ -217,8 +195,6 @@ $easySms->send(13188888888, [
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/330622402.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Python 项目
 19、[lastversion](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dvershinin/lastversion)：帮你找到库或者软件最新版本的 Python 工具。它可以避开不同项目作者使用的不同风格的版本号，获取一个项目的最新版本号，下载或安装它们。本项目可用于 build system，比如自动更新脚本。支持从这些网站搜索：GitHub、GitLab、PyPI 等，确保版本最新和稳定
 ```
@@ -249,8 +225,6 @@ lastversion wordpress
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/50063252.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Ruby 项目
 23、[spree](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spree/spree)：基于 Ruby on Rails 实现的大而全的电子商城开源项目。功能齐全项目结构清晰：
 - spree_api：REST API 接口
@@ -261,8 +235,6 @@ lastversion wordpress
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/3314.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
 24、[mas](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mas-cli/mas)：Mac App Store 命令行版
@@ -295,8 +267,6 @@ provider.request(.zen) { result in
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/125547624.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 27、[Ad-papers](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wzhe06/Ad-papers)：计算广告相关论文、学习资料和业界分享集合
@@ -338,13 +308,9 @@ Lua 5.3.5 Copyright (C) 1994-2018 Lua.org, PUC-Rio
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/83050680.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 34、[DeepLearning-500-questions](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/scutan90/DeepLearning-500-questions)：《深度学习 500 问》AI 工程师面试知识点的书籍。内容涵盖深度学习的知识点及各大公司常见的笔试题
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 35、[DeepMoji](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bfelbo/DeepMoji)：通过深度学习把自然语言转化成 emoji 表情的项目。用机器学习来了解文字表达的情感，最后返回几个感情相近的 emoji 表情。该项目有趣且易于学习，包含机器学习项目该有的所有内容：示例、模型、数据、测试、源码等
@@ -357,8 +323,6 @@ Lua 5.3.5 Copyright (C) 1994-2018 Lua.org, PUC-Rio
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/305316768.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -367,10 +331,10 @@ Lua 5.3.5 Copyright (C) 1994-2018 Lua.org, PUC-Rio
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/58/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/58'>这里</a>。
 </p>
 
 ## 声明

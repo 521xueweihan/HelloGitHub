@@ -16,7 +16,7 @@
 HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号**以月刊的形式[更新发布](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA5MzYyNzQ0MQ==&action=getalbum&album_id=1331197538447310849#wechat_redirect)，内容包括：**有趣、入门级的开源项目**、**开源书籍**、**实战项目**、**企业级项目**等，让你用很短时间感受到开源的魅力，爱上开源！
 
 ## 内容
-获得更好的阅读体验 [官网](https://hellogithub.com) 或 [HelloGitHub 公众号](https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/weixin.png)
+获得更好的阅读体验 [官网](https://hellogithub.com/) 或 [HelloGitHub 公众号](https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/weixin.png)
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
@@ -31,7 +31,7 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
 | [第 45 期](/content/HelloGitHub45.md) | [第 44 期](/content/HelloGitHub44.md) | [第 43 期](/content/HelloGitHub43.md) | [第 42 期](/content/HelloGitHub42.md) | [第 41 期](/content/HelloGitHub41.md) |
 | [第 05 期](/content/HelloGitHub05.md) | [第 04 期](/content/HelloGitHub04.md) | [第 03 期](/content/HelloGitHub03.md) | [第 02 期](/content/HelloGitHub02.md) | [第 01 期](/content/HelloGitHub01.md) |
 
-欢迎[推荐或自荐](https://github.com/521xueweihan/HelloGitHub/issues/new)项目成为 **HelloGitHub** 的[贡献者](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md)
+欢迎[推荐或自荐](https://hellogithub.com/periodical)项目成为 **HelloGitHub** 的[贡献者](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md)
 
 ## 赞助
 

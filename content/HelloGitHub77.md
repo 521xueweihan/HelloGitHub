@@ -6,25 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/77/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Kotlin 项目](#Kotlin-项目)
-- [Python 项目](#Python-项目)
-- [Rust 项目](#Rust-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/77) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -52,14 +38,10 @@
 - 多种编程语言：Python、Rust、Java、Go、JS 等
 - 支持各种级别的细粒度检测
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 4、[Bili.Uwp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Richasy/Bili.Uwp)：非官方的 B 站桌面应用。基于 UWP 框架开发的哔哩哔哩 Windows 客户端，简单易用、界面清爽，适用于 Windows 10/11 桌面系统和 Xbox。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/372096057.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 5、[annoy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spotify/annoy)：用于近似最近邻搜索的算法库。近似最近邻(ANN)方法是指一系列解决最近邻查找问题的近似算法，多用于内容推荐、搜索等场景。该项目是封装好的 C++/Python Annoy 算法库。Annoy 是用树为数据结构的 ANN 算法实现，它通过随机投影创建二叉树构建索引提升查询效率，采用优先队列和“森林”查询方法提高准确率，实现海量数据下的实时搜索。
@@ -98,14 +80,10 @@ print(u.get_nns_by_item(0, 1000)) # will find the 1000 nearest neighbors
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/1217614.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 9、[Cnblogs-Theme-SimpleMemory](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)：一款以阅读为主的博客园皮肤。博客园是一个博客平台，它支持用户自定义皮肤。该项目就是一款开源的博客园皮肤，文档有详细的安装步骤，一看就会立马就能用上。虽然皮肤会让博客的访问速度变慢一点，但是皮肤效果简洁好看值得一试。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/142394932.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 10、[bk-cmdb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/bk-cmdb)：腾讯开源的配置平台。面向资产及应用的企业级配置管理平台，拥有主机管理、组织架构管理、通用权限管理、操作审计等功能。该项目的代码审核很严格，此举不仅保证了项目的代码质量，还提高了代码的可读性，推荐阅读源码。
@@ -140,8 +118,6 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/244694886.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 15、[doris](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/doris)：高性能的分析数据库。一个基于 MPP 架构的高性能、实时的分析型数据库，尤其是在海量数据和高并发场景下表现优异。目前，在众多知名企业中均有使用，可用来构建用户分析、日志检索分析、用户画像等应用。
 
@@ -154,8 +130,6 @@ java -jar plantuml.jar 文本文件
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/1051476.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 17、[koodo-reader](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/troyeguo/koodo-reader)：先进的电子书阅读工具。该阅读器支持 EPUB、Kindle、PDF、漫画等多种常见文本格式，界面清爽功能丰富，拥有自定义字体、添加笔记、书签、划词翻译、导入图书、数据同步等功能。提供了 Windows、macOS 和 Linux 客户端，还支持网页版可在线使用。
@@ -178,14 +152,10 @@ java -jar plantuml.jar 文本文件
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/307320394.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Kotlin 项目
 22、[Unciv](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yairm210/Unciv)：一款类似《文明》的单机策略手游。仅 6M 的回合制策略游戏，玩家可以在游戏中模拟创建帝国文明，相当于开源版的《文明》安卓手游。虽然游戏画面是像素风格，但并未影响游戏体验，游戏支持中文、内容丰富可玩性非常高。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/111605778.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 23、[dooit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kraanzu/dooit)：命令行待办事项工具。用 Python 写的交互式命令行 todo 工具，操作简单支持快捷键和鼠标，界面精致可自定义主题和图标。
@@ -229,8 +199,6 @@ server.list_sessions()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/235434204.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Rust 项目
 29、[cheats.rs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ralfbiedert/cheats.rs)：Rust 编程语言小抄。这里不仅有 Rust 基础语法，还有执行顺序详解和编写时需要关注的注意事项。如果你觉得还不够，该项目还包含了示例代码(EX)、书籍(BK)、标准库(STD) 等 Rust 相关资料。
 
@@ -265,8 +233,6 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
 }
 ```
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 32、[MonitorControl](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MonitorControl/MonitorControl)：控制 macOS 外接显示器的工具。一款 macOS 多显示器控制工具，有了它就能够在菜单栏或使用快捷键，轻松地控制外接显示器的音量、亮度、对比度。
 
@@ -296,8 +262,6 @@ SwiftMessages.show(view: view)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/65219683.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 其它
 34、[all-contributors](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/all-contributors/all-contributors)：表彰非代码贡献者的工具。这是一个 GitHub 机器人，可以在 issues 使用指令，将贡献者增添到项目首页，进行展示和表彰。
 
@@ -323,8 +287,6 @@ mackup restore
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/525105056.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 39、[babel-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jamiebuilds/babel-handbook)：Babel 使用手册。内容分为「用户手册」如何安装和配置 Babel 和「插件手册」如何为 Babel 创建插件 两部分。
 
@@ -332,16 +294,12 @@ mackup restore
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/74014284.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 机器学习
 41、[fauxpilot](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fauxpilot/fauxpilot)：自建 GitHub Copilot 服务。它采用 NVIDIA 的 Triton Inference Server 的 SalesForce CodeGen 模型，自建 AI 编码辅助服务。支持接入 VSCode Copilot 插件，使用起来十分方便。
 
 42、[mmdetection](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/open-mmlab/mmdetection)：OpenMMLab 开源的目标检测工具箱。基于 PyTorch 的目标检测开源工具箱，支持 Faster R-CNN、Mask R-CNN、RetinaNet 等主流算法。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/145670234.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
@@ -351,10 +309,10 @@ mackup restore
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/77/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/77'>这里</a>。
 </p>
 
 ## 声明

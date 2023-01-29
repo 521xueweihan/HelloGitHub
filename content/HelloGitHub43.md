@@ -6,23 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/43/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Python 项目](#Python-项目)
-- [Ruby 项目](#Ruby-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/43) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -44,15 +32,11 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/36836475.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 2、[BenchmarkDotNet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dotnet/BenchmarkDotNet)：功能强大的用于基准测试 .NET 库
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/12191244.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 3、[CppCon2019](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CppCon/CppCon2019)：C++ 2019 大会的幻灯片和相关材料集合
@@ -99,8 +83,6 @@ int main() {
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/192787774.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 6、[bigcache](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/allegro/bigcache)：基于 Go 语言的高性能大缓存库。在 Ubuntu 18.04 LTS，机器配置 i7-6700K CPU @ 4.00GHz with 32GB of RAM 上性能测试结果：
@@ -172,8 +154,6 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/91054480.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 11、[AutoUpdateProject](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MZCretin/AutoUpdateProject)：一个简单易用、接入方便、UI 多样的 Android 内实现在线更新的库。示例代码：
 ```java
@@ -203,8 +183,6 @@ AppUpdateUtils.init(this, updateConfig);
 
 13、[spring-analysis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/seaswalker/spring-analysis)：Spring 框架源码讲解。包括：spring-core、spring-aop、spring-context、spring-taskspring-mvc 等部分
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 14、[chart-race-react](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bchao1/chart-race-react)：一个简单易用的 Bar Chart Race（长条图赛跑动画） React 组件。示例代码：
@@ -249,8 +227,6 @@ request('https://hellogithub.com', function (error, response, body) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/156293506.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Python 项目
 19、[RPA-Python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tebelorg/RPA-Python)：一个 Python 自动化操作的库。比如：自动打开网页并截图，示例代码：
 ```python
@@ -264,15 +240,11 @@ t.close()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/178592227.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Ruby 项目
 20、[shift](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/square/shift)：一个 Ruby 语言写的在线 MySQL 数据库迁移工具
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/49679370.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
 21、[Percentage](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/Percentage)：让 Swift 语言支持百分比类型，消除精度缺失的烦恼。示例代码：
@@ -285,8 +257,6 @@ import Percent
 //=> -5%
 ```
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 22、[Administrative-divisions-of-China](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/modood/Administrative-divisions-of-China)：中国行政区划（五级）：省级、地级、县级、乡级和村级的数据集和爬虫程序
@@ -316,13 +286,9 @@ import Percent
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/11075527.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 28、[book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cosmicpython/book)：（英文）《Cosmic Python》讲述如何管理复杂性的 Pythonic 应用程序结构的书籍
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 29、[dimensionality_reduction_alo_codes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/heucoder/dimensionality_reduction_alo_codes)：该项目使用 Python 实现了 11 种经典的数据抽取（数据降维）算法。同时附有相关资料、展示效果，适用于机器学习初学者和刚刚入坑数据挖掘的小伙伴
@@ -335,8 +301,6 @@ import Percent
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/214118425.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -345,10 +309,10 @@ import Percent
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/43/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/43'>这里</a>。
 </p>
 
 ## 声明

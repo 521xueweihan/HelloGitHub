@@ -6,23 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/55/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Python 项目](#Python-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/55) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -37,8 +25,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/288082909.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C# 项目
 2、[ToolGood.Words](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/toolgood/ToolGood.Words)：一款高性能非法词、敏感词检测库。还支持繁体简体互换、获取拼音首字母、获取拼音字母、拼音模糊搜索等功能
@@ -65,21 +51,15 @@ Assert.AreEqual("我是***", str);
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 3、[workflow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sogou/workflow)：搜狗开源的 C++ 服务器引擎。支撑搜狗几乎所有后端 C++ 在线服务，包括所有搜索服务、云输入法、广告等，每日处理超百亿请求。这是一个设计轻盈优雅的企业级程序引擎，可以满足大多数 C++ 后端开发需求
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### CSS 项目
 4、[flexboxfroggy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/thomaspark/flexboxfroggy)：一个帮助学习 CSS flexbox 知识的在线游戏。游戏一共 24 关，通俗易懂的解释了 flex 布局。适合初学者，并且支持中文，可以在 settings 中选择语言。[在线试玩](https://flexboxfroggy.com/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/46774900.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 5、[ali](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nakabonne/ali)：能够实时展示分析的压力测试工具。现在压测工具有很多，这款的亮点在于可以在终端实时展示压测过程的曲线。一条命令搞定启动：`ali 地址`
@@ -132,8 +112,6 @@ if err := d.Render(); err != nil {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/263883501.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 9、[jmeter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/jmeter)：Apache 开源的压力测试工具。提供 GUI 操作界面就是可以点点点操作，也可以写脚本提高测试的自动化，它还不局限于 Web 测试，支持更多压力测试场景。我身边 97% 从事测试相关工作的人都用过它，要不要来看看它的源码？纯 Java 实现
 
@@ -179,8 +157,6 @@ public class TestService {
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### JavaScript 项目
 12、[AnotherRedisDesktopManager](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/qishibo/AnotherRedisDesktopManager)：一款支持多语言、多平台的 redis 桌面管理工具。对比目前其它同类型工具，它拥有更丰富的功能、更高的稳定性和性能，支持集群等功能
 
@@ -219,8 +195,6 @@ beeplay()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/72070328.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Python 项目
 17、[asciinema](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/asciinema/asciinema)：终端记录工具。忘记录屏软件吧，纯文本的录制终端操作的工具。安装简单、使用方便，且生成的记录文件极小，但需要配合 JS 文件播放
 
@@ -247,15 +221,11 @@ beeplay()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/16479108.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 22、[stats](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/exelban/stats)：macOS 菜单栏上的监控工具。支持 CPU、GPU、内存、网络等监控和多语言
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/189285554.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 23、[keysim](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/crsnbrt/keysim)：键盘配色预览工具。“定制”这个操作一听就很贵，下单之前先这个工具先看看效果吧，避免浪费钱。[在线尝试](https://keyboardsimulator.xyz/)
@@ -283,13 +253,9 @@ beeplay()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/224362151.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 27、[Mastering_Go_ZH_CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hantmac/Mastering_Go_ZH_CN)：《Mastering Go》的中文翻译版《玩转 Go》。[在线阅读](https://wskdsgcf.gitbook.io/mastering-go-zh-cn/)
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 28、[mlflow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mlflow/mlflow)：一个简化机器学习开发的平台，支持跟踪实验、代码打包、部署模型等。它提供了一套轻量级的 API，可与目前主流机器学习 TensorFlow、PyTorch、XGBoost 等库轻松整合
@@ -325,8 +291,6 @@ s.sentiments    # 0.9769663402895832 positive的概率
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/194876821.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -335,10 +299,10 @@ s.sentiments    # 0.9769663402895832 positive的概率
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/55/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/55'>这里</a>。
 </p>
 
 ## 声明

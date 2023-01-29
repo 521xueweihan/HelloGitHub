@@ -6,25 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/54/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Kotlin 项目](#Kotlin-项目)
-- [Python 项目](#Python-项目)
-- [Rust 项目](#Rust-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/54) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -37,8 +23,6 @@
 ### C 项目
 1、[libevent](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/libevent/libevent)：C 语言实现的轻量级、高性能事件通知库。基于事件驱动，支持多种 I/O 多路复用技术：epoll、poll、select、kqueue 等。libevent 就是这些系统基础库的统一封装，提供更高级的 API 并解决跨平台的问题
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C# 项目
 2、[dotnet-docker](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dotnet/dotnet-docker)：.NET Core 和 Tools 的 Docker 镜像
@@ -69,8 +53,6 @@ Console.WriteLine("prediction: " + prediction.Prediction);
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 4、[drogon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/drogonframework/drogon)：一款 C++ 的异步非阻塞高性能 Web 框架。功能强大、上手容易，使得用 C++ 语言构建各种类型的高性能 Web 应用，变得更加方便。示例代码：
 ```C++
@@ -90,15 +72,11 @@ int main()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/131236938.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 5、[css-diner](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/flukeout/css-diner)：通过游戏方式在线学习 CSS 选择器知识。初学者可以通过简单的动画界面，学习 CSS 多种选择器语法是如何筛选出页面的元素，虽然是英文网站但还算通俗易懂。[在线尝试](https://flukeout.github.io/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/16636908.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 6、[go-admin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/go-admin-team/go-admin)：基于 Gin+Vue+Element UI 的前后端分离权限管理系统。文档齐全、还有视频教程适合新手学习，特点：
@@ -157,8 +135,6 @@ Socket：pgweb --url "postgres:///database?host=/absolute/path/to/unix/socket/di
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/24968828.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 10、[roncoo-pay](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/roncoo/roncoo-pay)：开源的 Java 互联网业务支付系统。拥有独立的账户体系、用户体系、支付接入体系、支付交易体系、对账清结算体系等，想学习支付相关技术的同学可以看看这个项目。项目结构如下：
 ```
@@ -191,8 +167,6 @@ roncoo-pay
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/273891882.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### JavaScript 项目
 12、[IconPark](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bytedance/IconPark)：该开源库提供了 1200+ 高质量图标，还有一个界面便于定制图标。强大之处是可以通过改变一个 SVG 文件的属性来变换出多种主题，支持导出 SVG、PNG、Vue 和 React 图标组件等。极大的方便了设计师和开发者，让他们有更多时间逛 HG 了
 
@@ -214,15 +188,11 @@ roncoo-pay
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/37958358.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Kotlin 项目
 16、[DateTimePicker](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/loper7/DateTimePicker)：一个简约、漂亮的日期时间选择器。支持 100% 自定义 UI，内置日期时间选择弹窗基于 Google BottomSheetDialog
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/245125241.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 17、[Computer-Networking-A-Top-Down-Approach-NOTES](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES)：《计算机网络－自顶向下方法》编程作业。包含问题和 Python 代码解答，Wireshark 实验部分为官方文档的翻译
@@ -279,8 +249,6 @@ for i in range(1000000):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/74660642.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Rust 项目
 22、[rustlings](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rust-lang/rustlings)：该项目通过一个个简单练习小 demo，让初学者学习 Rust 的语法。通过简单的命令即可安装本项目，然后修改每个小练习，达到编译通过或者目标输出，通过后会进入下一关，有种闯关的成就感。运行方法：
 ```
@@ -296,8 +264,6 @@ rustlings watch
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/42489829.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
 23、[ZLPhotoBrowser](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/longitachi/ZLPhotoBrowser)：轻量级照片选择框架。它使用简单、功能丰富，支持预览/相册内拍照及录视频、拖拽/滑动选择、编辑裁剪图片/视频等功能。示例代码：
@@ -315,8 +281,6 @@ ac.showPhotoLibrary(sender: self)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/47162528.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 24、[Halfrost-Field](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/halfrost/Halfrost-Field)：前阿里巴巴资深后端工程师“霜神”的技术博客，分享前、后端的技术干货。作者日常工作语言是 Go，在进入阿里巴巴之前，做了几年前端工作。文章内容包含：机器学习、Go、JS、iOS、网络协议等系列
@@ -362,8 +326,6 @@ ac.showPhotoLibrary(sender: self)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/242364937.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 30、[jshistory-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/doodlewind/jshistory-cn)：《JavaScript 20 年》中文版。[在线阅读](https://cn.history.js.org/)
 
@@ -374,8 +336,6 @@ ac.showPhotoLibrary(sender: self)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/80980931.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 32、[computervision-recipes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/computervision-recipes)：计算机视觉系统最佳实践，包含各种 CV 示例项目。示例使用 PytTorch 深度学习库+ Jupyter 文件，涵盖：图像分类、相似、识别、追踪等方面，适合对图像方面感兴趣的小伙伴阅读和学习
@@ -393,8 +353,6 @@ ac.showPhotoLibrary(sender: self)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/122696125.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -403,10 +361,10 @@ ac.showPhotoLibrary(sender: self)
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/54/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/54'>这里</a>。
 </p>
 
 ## 声明

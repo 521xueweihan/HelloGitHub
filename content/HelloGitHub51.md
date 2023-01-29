@@ -6,23 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/51/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/51) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -37,8 +25,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/11397939.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C# 项目
 2、[HandyControl](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HandyOrg/HandyControl)：一套 WPF 控件库。它几乎重写了所有原生样式，同时包含 70 余款自定义控件。支持跨平台、国际化，适用于 MVVM 架构开发，扁平化设计、支持动态更换主题和背景色。丰富的自定义控件解决了 View 设计的痛点，让程序员更加专注于业务逻辑的开发
@@ -56,8 +42,6 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/218220866.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 5、[ChineseChess](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/XMuli/ChineseChess)：基于 Qt5 开发的中国象棋网络对战平台，支持单机和网络对战
 
@@ -68,8 +52,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/251383553.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 7、[fate](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/babyname/fate)：起中文名工具，去吧！算名先生
@@ -85,8 +67,6 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/21827146.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 10、[JApiDocs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/YeDaxia/JApiDocs)：一个无需额外注解、开箱即用的 SpringBoot 接口文档生成工具。特性：
 - 代码即文档
@@ -99,8 +79,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/247659028.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 12、[brick-design](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/brick-design/brick-design)：基于 React 组件的可视化拖拽、搭建页面的代码生成工具。所见即所得，可以完美还原 UI 设计搞，并支持多款型号手机（可配置）和 PC 效果展示，模板功能可以使你分享你的页面或者页面中局部任何部分组件组合，减少相似页面的重复操作。效果如下：
@@ -140,8 +118,6 @@ perfume.end('fibonacci');
 17、[TimeCat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/oct16/TimeCat)：一款 JS 的网页录屏工具。参考了游戏录像的原理而实现的渲染引擎，生成的录像文件只有传统视频的百分之一！还可以在录制语音的同时自动生成字幕，导出的视频文件可以跨端播放。目前已经开发一段时间，后续还将实现更多有意思的功能，欢迎持续关注。[在线预览](https://oct16.gitee.io/static/timeCatReplay/antd.html)
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### PHP 项目
 18、[code6](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/4x99/code6)：一款 GitHub 代码泄露监控系统，通过定期扫描 GitHub 发现代码泄露行为。特性：
 - 全可视化界面，操作部署简单
@@ -152,8 +128,6 @@ perfume.end('fibonacci');
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/268451269.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 19、[free-python-games](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/grantjenks/free-python-games)：真入门级的 Python 游戏集合库。都是简单的小游戏：贪吃蛇、迷宫、Pong、猜字等，运行方便、代码简单易懂。用游戏开启的你 Python 学习之旅，玩完再学源码，其乐无穷啊。安装运行：
@@ -202,15 +176,11 @@ python py2sec.py -d example/ -m test1.py,bbb/
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/220809393.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 24、[Aerial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JohnCoates/Aerial)：炫酷的苹果系统屏保项目。该屏保视频取材自苹果零售店 Apple TV 的专用屏保，航拍质量超棒，快换上试试吧。直接下载 [Aerial.saver.zip 文件](https://github.com/JohnCoates/Aerial/releases)，解压后双击文件“即可食用”
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/44998092.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 25、[flink-training-course](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/flink-china/flink-training-course)：Flink 视频直播教程回放集合
@@ -237,15 +207,11 @@ python py2sec.py -d example/ -m test1.py,bbb/
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/267863774.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 31、[go-ast-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chai2010/go-ast-book)：《Go语法树入门：开启自制编程语言和编译器之旅》
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/160272948.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 32、[data-science-ipython-notebooks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/donnemartin/data-science-ipython-notebooks)：数据科学的 IPython 集合。包含：TensorFlow、Theano、Caffe、scikit-learn、Spark、Hadoop、MapReduce、matplotlib、pandas、SciPy 等方方面面
@@ -261,8 +227,6 @@ python py2sec.py -d example/ -m test1.py,bbb/
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/71709976.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -271,10 +235,10 @@ python py2sec.py -d example/ -m test1.py,bbb/
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/51/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/51'>这里</a>。
 </p>
 
 ## 声明

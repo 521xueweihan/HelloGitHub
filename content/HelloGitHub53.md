@@ -6,23 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/53/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Python 项目](#Python-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/53) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -43,23 +31,17 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/5293802.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 3、[Windows-Auto-Night-Mode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)：设置定时自动切换 Windows 10 深色和浅色主题的工具
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/158025849.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 4、[flameshot](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/flameshot-org/flameshot)：操作简单、功能强大的截图工具
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/90902132.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### CSS 项目
 5、[css-sweeper](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/propjockey/css-sweeper)：一个只用 HTML 和 CSS 实现的扫雷游戏。[在线试玩](https://propjockey.github.io/css-sweeper/)
@@ -71,8 +53,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/101221093.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 7、[ginrpc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xxjwxc/ginrpc)：简化 go-gin 框架注册路由方式，自动生成 Swagger/Markdown 文档。示例代码：
@@ -111,8 +91,6 @@ func main() {
 10、[livego](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gwuhaolin/livego)：基于 Go 实现的直播服务项目
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 11、[CalendarView](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huanghaibin-dev/CalendarView)：一个优雅强大的 Android 日历控件，支持周视图、自定义周起始等功能
 
@@ -129,8 +107,6 @@ func main() {
 
 14、[tutorials](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eugenp/tutorials)：该项目是 Spring 框架下的小型、单一功能的教程和示例代码集合。主要是 Spring、Spring Boot、Spring Security 等方面
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 15、[genal-chat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/genaller/genal-chat)：适合前端新手学习的‘星空’聊天室项目。采用 Vue + socket.io 结合 TypeScript 语法构建，界面炫酷、良好的代码规范、支持群聊和好友搜索等功能
@@ -157,8 +133,6 @@ func main() {
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/42976210.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 20、[altair](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/altair-viz/altair)：强大的数据可视化 Python 库。支持多种数据展示方式、接口简单、效果炫酷，示例代码和效果如下：
@@ -200,8 +174,6 @@ points & bars
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/282413176.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 23、[lottie-ios](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/airbnb/lottie-ios)：Airbnb 开源的快速实现 APP 动画的三方库。还有支持 [Android](https://github.com/airbnb/lottie-android)、[React Native](https://github.com/react-native-community/lottie-react-native)、[Web](https://github.com/airbnb/lottie-web)、[Windows](https://github.com/windows-toolkit/Lottie-Windows) 等平台，动画效果如下：
 
@@ -212,8 +184,6 @@ points & bars
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/288598239.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 25、[Algorithm-Guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Xunzhuo/Algorithm-Guide)：系统性学习算法与数据结构的资料集合
@@ -237,15 +207,11 @@ points & bars
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/184456251.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 30、[BuildYourOwnLisp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/orangeduck/BuildYourOwnLisp)：该书教你用 C 语言实现自己的 Lisp 语言。用 1000 多行实现一个小但功能齐全的 Lisp 语言，这里有份中文翻译版本，但是没有翻译完[点击阅读](https://ksco.gitbooks.io/build-your-own-lisp/content/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/18437816.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 31、[cnn-convoluter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pwwang/cnn-convoluter)：一个支持交互的展示卷积过程的可视化工具
@@ -263,8 +229,6 @@ points & bars
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/35756351.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -273,10 +237,10 @@ points & bars
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/53/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/53'>这里</a>。
 </p>
 
 ## 声明

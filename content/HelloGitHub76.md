@@ -6,27 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/76/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Kotlin 项目](#Kotlin-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Rust 项目](#Rust-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/76) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -49,8 +33,6 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/1291410.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 4、[CrazyCar](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TastSong/CrazyCar)：一款用 Unity 制作的联机赛车游戏。这是一套完整的网络联机游戏解决方案，项目包含游戏端、服务器端、网络传输和管理后台。游戏支持计时赛、多人比赛、个人成就、资源热更等特性，可以运行在 iOS/Android/Windows 设备上。
 
@@ -64,8 +46,6 @@ double nanoseconds = DateTime.Now.GetTotalNanoseconds();// 获取纳秒级时间
 double seconds = DateTime.Now.GetTotalSeconds();// 获取秒级时间戳
 double minutes = DateTime.Now.GetTotalMinutes();// 获取分钟级时间戳
 ```
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 6、[CppCoreGuidelines](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/isocpp/CppCoreGuidelines)：C++ 核心指南。一份由 C++ 之父 Bjarne Stroustrup 领导的 C++ 编码指南，目的是为了帮助大家更好地使用现代 C++。这个项目主要讨论的是关于 C++ 编写接口、内存管理、并发等方面的问题，适合有一定 C++ 基础想要进阶的小伙伴。
@@ -85,16 +65,12 @@ ImGui::SliderFloat("float", &f, 0.0f, 1.0f);
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/22067521.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 9、[core](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ui-buttons/core)：CSS 按钮样式集合。该项目实现了 100 种不同样式的按钮。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/492267422.png' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[css-protips](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AllThingsSmitty/css-protips)：CSS 专业技巧。一个帮你提升 CSS 技巧的收藏集。
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 11、[gitleaks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zricethezav/gitleaks)：一款静态应用程序安全测试(SAST)工具。它可以检测项目中是否包含密码、API Key、token 等信息，还能够轻松整合到 Git Hook 和 GitHub Action，实现提交代码时自动检测，通过告警和阻止 push 等方式，有效地防止敏感信息泄漏。
@@ -116,8 +92,6 @@ ImGui::SliderFloat("float", &f, 0.0f, 1.0f);
 15、[wild-workouts-go-ddd-example](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)：Go DDD 示例项目。该项目通过一个预约系统的示例，展示了如何在 Go 项目中实现领域驱动设计(DDD)和读写分离架构(CQRS)。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/261871717.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
 16、[forest](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dromara/forest)：极简的声明式 Java HTTP 客户端。一个开源的 Java HTTP 客户端框架，采用声明式的开发方式，分分钟即可完成 HTTP 请求的定义、发送、接收、解析、错误处理、日志打印等操作。
@@ -184,8 +158,6 @@ public class Example implements Runnable {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/80640282.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### JavaScript 项目
 19、[mjml](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mjmlio/mjml)：能够快速制作出响应式邮件的框架。邮件样式是一个让人头疼的问题，而通过这个项目制作的邮件，可以正常地显示在不同的邮件客户端。它还提供了在线编辑器，以及多种邮件模版和丰富的组件，能够帮你快速制作出精美、移动端优先、响应式的邮件。
 
@@ -221,28 +193,20 @@ const toolbar = createToolbar({
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/26262860.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Kotlin 项目
 24、[typing-learner](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tangshimin/typing-learner)：可通过视频生成单词本的背单词应用。该项目可将 MKV 格式的英文视频制作成单词库，在记忆单词时可通过台词和播放视频片段，让每个单词都有语境，帮助理解和记忆英文单词。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/479222482.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Objective-C 项目
 25、[lemon-cleaner](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/lemon-cleaner)：苹果电脑专属的清理工具。腾讯开源的免费 macOS 设备空间清理工具「柠檬清理」，支持深度清理、删除重复文件、卸载应用、状态栏显示等功能，能够一键轻松清理垃圾释放空间。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/513077635.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### PHP 项目
 26、[course-tencent-cloud](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xiaochong0302/course-tencent-cloud)：PHP 写的网课平台。依托腾讯云基础服务架构，采用 Phalcon 框架开发的网课系统，支持付费、点播、直播、专栏、问答、会员、秒杀等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/296000242.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 27、[diagrams](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mingrammer/diagrams)：用 Python 代码图解系统架构。程序员在做技术方案的时候，系统架构图是必不可少的。该项目将绘制架构图时所需的图标，封装成了对应的类极易调用，文档还提供了丰富的示例，让你分分钟就能上手，轻松用 Python 快速绘制出一份精美且清晰的架构图，这样不仅能省去拖拽调整连线的步骤，而且代码还可以复用，以便应对不断迭代升级的架构。
@@ -318,21 +282,15 @@ for link in browser.links():
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/49346299.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Rust 项目
 32、[pueue](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Nukesor/pueue)：命令行任务管理工具。一个处理 shell 命令队列的工具，支持后台执行、定时执行、任务并行、暂停任务、任务崩溃恢复等功能。但它只是一个命令行工具，不能当作任务队列来用。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/41925963.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 33、[MiaoYan](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tw93/MiaoYan)：一款 macOS 上的 Markdown 编辑器。采用 Swift5 原生开发，适用于 macOS 的 Markdown 编辑器「妙言」。界面清爽好看，支持 PPT 模式、语法高亮、黑暗模式等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/253461233.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 34、[functional-programming-jargon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hemanth/functional-programming-jargon)：函数式编程世界的行话。该项目希望通过介绍函数编程中的术语，让学习函数式编程变得容易些，示例代码均采用 JavaScript 编写。
@@ -355,8 +313,6 @@ for link in browser.links():
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/137733266.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 39、[dive-into-webpack](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gwuhaolin/dive-into-webpack)：《深入浅出 Webpack》。一本系统讲解 Webpack 的书，内容涵盖了 Webpack 的入门、配置、实战、优化以及原理。
 
@@ -365,8 +321,6 @@ for link in browser.links():
 40、[interviews.ai](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BoltzmannEntropy/interviews.ai)：《深度学习面试》。书中包含了数百个人工智能领域面试时会遇到的问题(PRB)和解答(SOL)，作者希望可以借此帮助研究生/求职者，通过机器学习方面的面试。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/412151953.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 41、[flair](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/flairNLP/flair)：简单易用的 NLP 框架。基于 PyTorch 的 NLP 框架，支持文本命名实体识别(NER)、词性标注(PoS)、词义消歧和分类。项目中包含详细的使用教程，介绍了如何标记文本、训练语言模型等。
@@ -394,8 +348,6 @@ tagger.predict(sentence)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/415489170.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -404,10 +356,10 @@ tagger.predict(sentence)
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/76/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/76'>这里</a>。
 </p>
 
 ## 声明

@@ -6,23 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/33/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C++ 项目](#C-项目-1)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/33) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -44,19 +32,13 @@
 8. 访问与其他功能：JSON array／object 的访问及修改
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 2、[LeetCodeAnimation](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MisterBooo/LeetCodeAnimation)：用动画的形式呈现解 LeetCode 题目的思路
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 3、[lit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ajusa/lit)：仅 395 字节的响应式 CSS 框架
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 4、[ptt-daily-beauty](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LarryLuTW/ptt-daily-beauty)：每晚 11 点会自动发送 PTT 论坛（台湾最大论坛） Beauty 板块前 3 名的小姐姐图片。[点击订阅](https://www.daily-beauty.xyz/)
@@ -79,8 +61,6 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/151709018.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 8、[AndroidWM](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangyz0918/AndroidWM)：一个轻量级的开源 Android 图片水印框架，支持文字水印和图像水印，以及不同的水印样式、位置等。同时可以支持 LSB 空间域隐形数字水印的加载和频域数字水印的加载和检测，适合客户端图片水印添加，移动端图像处理等
 
@@ -96,8 +76,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/48155157.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 10、[better-onetab](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cnwangjie/better-onetab)：实用的管理浏览器多标签页面的工具，目前支持 Chrome 以及 FireFox 的扩展。支持标签页储存和标签页分组等功能
@@ -117,8 +95,6 @@
 
 13、[swc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/swc-project/swc)：基于 Rust 开发的 [Babel](https://github.com/babel/babel) 替代品，速度更快，值得关注
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Objective-C 项目
 14、[ish](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ish-app/ish)：在 iOS 上跑 Linux shell，可以通过 linux 命令操作你的 iOS 设备
@@ -174,13 +150,9 @@ _attrLabel = [NudeIn make:^(NUDTextMaker *make) {
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### PHP 项目
 18、[meedu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Qsnh/meedu)：开源免费的在线教育系统，支持在线点播、在线电子书、会员收费三大模块。[在线尝试](https://meedu.vip/)
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 19、[loguru](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Delgan/loguru)：一个让 Python 记录日志变得简单的库
@@ -195,8 +167,6 @@ _attrLabel = [NudeIn make:^(NUDTextMaker *make) {
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/15830664.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 22、[Back-End-Developer-Interview-Questions](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)：《后端开发面试题》[中文](https://github.com/monklof/Back-End-Developer-Interview-Questions)
@@ -219,16 +189,12 @@ _attrLabel = [NudeIn make:^(NUDTextMaker *make) {
 27、[weekly](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ruanyf/weekly)：[阮一峰](https://github.com/ruanyf)技术分享周刊，每周五发布
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 28、[Cpp_Concurrency_In_Action](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xiaoweiChen/Cpp_Concurrency_In_Action)：《C++ Concurrency in Action》的中文翻译版（C++ 并发编程），[在线阅读](https://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/)
 
 
 29、[ddia](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Vonng/ddia)：《Designing Data-Intensive Application》中文翻译版（设计数据密集型应用）
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 30、[deep-learning-papers-translation](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SnailTyan/deep-learning-papers-translation)：主要内容是 CV 领域里一些论文的翻译，包括分类、检测、OCR和模型轻量化。不喜欢看英文原版论文的，可以关注该项目
@@ -250,8 +216,6 @@ _attrLabel = [NudeIn make:^(NUDTextMaker *make) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/104791940.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -260,10 +224,10 @@ _attrLabel = [NudeIn make:^(NUDTextMaker *make) {
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/33/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/33'>这里</a>。
 </p>
 
 ## 声明

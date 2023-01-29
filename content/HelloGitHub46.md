@@ -6,22 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/46/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C++ 项目](#C-项目-1)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Ruby 项目](#Ruby-项目)
-- [其它](#其它)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/46) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -34,8 +23,6 @@
 ### C 项目
 1、[freebsd-src](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/freebsd/freebsd-src)：FreeBSD 操作系统源码仓库。快拉住我，我有点飘了竟然敢点开操作系统看源码 😅
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 2、[design-patterns-cpp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JakubVojvoda/design-patterns-cpp)：常见设计模式 C++ 语言实现版
@@ -50,8 +37,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/147114859.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 5、[gojsonq](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/thedevsaddam/gojsonq)：一款支持解析、查询 JSON/YAML/XML/CSV 数据的 Go 三方开源库。示例代码：
@@ -82,8 +67,6 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/136770331.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 8、[gradle](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gradle/gradle)：一个基于 Apache Ant 和 Maven 概念的项目自动化建构工具（干了这两个工具的活）。它使用一种基于 Groovy 的特定领域语言来声明项目设置，而不是传统的 XML（更灵活）。当前其支持的语言限于 Java、Groovy 和 Scala，计划未来将支持更多的语言
 
@@ -98,8 +81,6 @@ Jodd = tools + ioc + mvc + db + aop + tx + json + html < 1.7 Mb
 
 10、[zxing](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zxing/zxing)：一款用于解析、生成多种格式的 1D/2D 条形码（UPC-A、QR Code、UPC-E、Data Matrix 等）的开源 Java 库。提供了多种的客户端支持包括：J2ME、J2SE 和 Android 等
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 11、[concent](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/concentjs/concent)：一个兼容 Redux 生态的渐进式和高性能状态管理方案。基于依赖标记、引用收集和状态分发原理工作，通过独有的实例上下文机制增强组件能力，抹平类组件和函数组件的生命周期函数写法差异。内置 computed、watch、setup、event 等高级特性，让逻辑复用更优雅、组件表现形式更丰富、应用架构更稳健
@@ -165,8 +146,6 @@ export default {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/144220810.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Objective-C 项目
 16、[Bob](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ripperhe/Bob)：一款支持划词翻译和截图翻译 Mac 端翻译软件。系统默认划词工具有些不支持的 PDF 文件，通过这个软件截图翻译功能，可以舒服的解决阅读这些文件时需要翻译的问题
 
@@ -177,8 +156,6 @@ export default {
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/5344375.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
 18、[parsedown](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/erusev/parsedown)：一个小而美的 PHP 的 Markdown 解析库。该库提供了标准 Markdown 文本转化成 HTML 字符串功能，并拥有良好的文档。它的主文件只有一个，除了 PHP 版本限制必须高于 5.3 外几乎无依赖，可通过 composer 引入，也可以直接使用 Parsedown.php 文件。该项目中使用大量正则表达式，可作为学习正则表达式的示例，并且有完整的单元测试。示例代码：
@@ -205,8 +182,6 @@ var_dump($curl->getResponse());exit;
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/12165811.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 20、[KeymouseGo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/taojy123/KeymouseGo)：Python 实现的精简绿色版按键精灵。记录用户的鼠标、键盘操作，自动执行之前记录的操作，可设定执行的次数。在进行某些简单、单调重复的操作时，使用该软件可以十分省事儿。只需要录制一遍，剩下的交给 KeymouseGo 来做就可以了
@@ -241,15 +216,11 @@ image.show()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/29112049.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Ruby 项目
 25、[astuto](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/astuto/astuto)：一个免费、开源的 Ruby 自托管客户反馈平台。它可以帮助您收集、管理用户的反馈并设置其优先级。客户反馈是大部分网站不可或缺的功能，使用 astuto 能够十分快速的给你的网站加上此功能
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/203002681.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 26、[Hippy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/Hippy)：一个新生的跨端开发框架，目标是使开发者可以只写一套代码就直接运行于三个平台（iOS、Android 和 Web）。Hippy 的设计是面向传统 Web 开发者的，特别是之前有过 React Native 和 Vue 的开发者用起来会更为顺手，Hippy 致力于让前端开发跨端 App 更加容易。鹅厂提供的跨端开发框架，内部多款 APP 在用，还不快来试试！项目目录说明如下：
@@ -320,8 +291,6 @@ fn main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/2656556.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 机器学习
 32、[faceai](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vipstone/faceai)：一款优秀入门级 AI 项目以及教程，内容涵盖：人脸、视频、文字的检测和识别。他不仅包含最基本的人脸检测、识别（图片、视频）、轮廓标识、头像合成（给人戴帽子），还有表情识别（生气、厌恶、恐惧等）、视频对象提取、图片修复（可用于水印去除）、图片自动上色等等。推荐这个开源项目不是因为它的内容强大，而是它的教程写的实在太好了，真 · 入门级。手把手教你如何使用这个项目，做出上述功能来。在每篇功能文章的教程里，不仅仅写了每个功能的技术实现方案，还有具体重点关键代码的注释和解释以及具体实现，让你非常轻松的能够看懂、学习和使用。对于想要入门或者了解机器学习的初学者不能再友好了。示例代码：
 ```python
@@ -337,8 +306,6 @@ print(text)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/129874045.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -347,10 +314,10 @@ print(text)
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/46/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/46'>这里</a>。
 </p>
 
 ## 声明

@@ -6,20 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/21/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C++ 项目](#C-项目-1)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Kotlin 项目](#Kotlin-项目)
-- [Python 项目](#Python-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/21) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -33,8 +24,6 @@
 1、[kcp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/skywind3000/kcp)：纯算法实现的快速可靠协议。能以比 TCP 浪费 10%-20% 的带宽为代价，换取平均延迟降低 30%-40%，且最大延迟降低 3 倍的传输效果
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 2、[OpenCC](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BYVoid/OpenCC)：中文简繁转化开源项目，[在线尝试](http://opencc.byvoid.com/)
 - 严格区分 “一简对多繁” 和 “一简对多异”
@@ -46,15 +35,11 @@
 - 兼容 Windows、Linux、Mac 平台
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Go 项目
 3、[mattermost-server](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mattermost/mattermost-server)：采用 Go 语言开发的团队通讯服务项目，可用于自行搭建服务。为团队带来跨 PC 和移动设备的消息收发、文件分享，搜索等功能的通讯服务平台
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/37448451.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
 4、[android-material-design-icon-generator-plugin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/konifar/android-material-design-icon-generator-plugin)：IntelliJ／Android Studio 生成、设计 icon 的插件，安装简单使用方便。如下图所示：
@@ -85,8 +70,6 @@ public static void main(String[] args) {
 8、[RxGalleryFinal](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FinalTeam/RxGalleryFinal)：Android 图片、视频文件选择器，支持多选、单选、拍摄和裁剪等
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### JavaScript 项目
 9、[anyupload](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dianbaer/anyupload)：该项目是一款上传插件，使用方便、简单。支持多文件上传、上传速率动态控制、真实进度监控 kb/s、分块生成 MD5、分块上传、MD5 校验、暂停、取消等功能。[在线体验](https://www.threecss.com/AnyUploadClient/)
 
@@ -116,15 +99,11 @@ public static void main(String[] args) {
 - 等等
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Kotlin 项目
 14、[profile-summary-for-github](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tipsy/profile-summary-for-github)：GitHub 账号数据可视化服务，很新颖地增加了 star 后可见（回复可见）😄
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/113752225.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 15、[jieba](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fxsjy/jieba)：强大的 Python 分词库，拿来直接用就好。示例代码如下：
@@ -188,8 +167,6 @@ format code  extension  resolution note
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 其它
 19、[android-training-course-in-chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kesenhoo/android-training-course-in-chinese)：Android 官方培训课程中文版，[在线阅读](http://hukai.me/android-training-course-in-chinese/index.html)
 
@@ -208,13 +185,9 @@ format code  extension  resolution note
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/41881900.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 24、[pydata-notebook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BrambleXu/pydata-notebook)：《利用Python进行数据分析 2017 第二版》中文翻译笔记
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
@@ -224,10 +197,10 @@ format code  extension  resolution note
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/21/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/21'>这里</a>。
 </p>
 
 ## 声明

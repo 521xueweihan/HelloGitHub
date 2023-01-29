@@ -6,25 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/81/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Rust 项目](#Rust-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/81) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -49,8 +35,6 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/226844803.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 5、[DevToys](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/veler/DevToys)：程序员的瑞士军刀。该项目打包了程序员日常开发会用到的小工具，比如时间戳转化、各种解码、输出美化、颜色选择器等，使用方便颜值高。
 
@@ -59,8 +43,6 @@
 6、[Tai](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Planshit/Tai)：Windows 上统计软件使用时长的工具。该项目会根据软件获得焦点和失去焦点的时间差，来计算软件的真实使用时长，而不是简单地统计软件存活时间。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/429850227.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 7、[GASDocumentation](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tranek/GASDocumentation)：虚幻引擎 5 之 GAS 插件上手教程。该项目是讲解如何使用虚幻引擎 5 的 GameplayAbilitySystem 插件，作者从什么是 GAS 开始，最后用 GAS 做出了一个简单的多人射击游戏。如果你对虚幻引擎 5 感兴趣而且会 C++ 的话，那么看完这份教程一定会让你有所收获。
@@ -72,8 +54,6 @@
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/324829379.png' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[tesseract](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tesseract-ocr/tesseract)：一款“老当益壮”的 OCR 引擎。这个项目最早诞生于 1985 年，几经易主在 2005 年的时候 HP 将其开源。目前，Tesseract 已经成为 OCR 领域 Star 数最多的开源项目，它支持包括中文在内的 100 多种语言，具有精准度高、跨平台等特点。
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### CSS 项目
 10、[china_school_badge](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lovefc/china_school_badge)：全国高校校徽字体图标库。该项目包含国内 200 多所高校校徽制作的字体图标。
@@ -94,8 +74,6 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/316836816.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Go 项目
 12、[answer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/answerdev/answer)：一款开源的问答社区。采用 Go 语言编写的问答社区，支持积分、提问、回答、标签等功能，部署简单。
 
@@ -113,8 +91,6 @@
 
 16、[raft](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hashicorp/raft)：Raft 算法的 Go 语言实现。Raft 是一种分布式一致性算法(共识算法)，常用于分布式集群内的任意节点，在某种状态转换上保持一致。
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 17、[JimuReport](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jeecgboot/JimuReport)：一款在线制作报表的工具。该项目可通过在线拖拽制作报表，支持报表设计、图形报表、大屏展示等功能。
 
@@ -131,8 +107,6 @@
 20、[LibreraReader](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/foobnix/LibreraReader)：一款支持多种格式的 Android 电子书阅读器。适用于 Android 设备的阅读应用，支持最流行的文档格式，包括 PDF、EPUB、MOBI、DjVu、FB2、TXT、RTF、AZW、HTML、CBZ、DOC 等多种电子书格式。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/88200328.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 21、[infisical](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Infisical/infisical)：一款帮助团队同步环境变量的工具。该项目可用于团队成员之前同步环境变量，拥有简单易懂的操作界面，支持端到端加密、自托管、权限控制、集成 CI/CD 等功能。
@@ -172,14 +146,10 @@ function getOS() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/534763581.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### PHP 项目
 26、[snipe-it](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/snipe/snipe-it)：一款 IT 资产管理系统。该项目是基于 Laravel 8 构建的适用于中小型企业的 IT 资产管理系统，支持资产分配、生成二维码标签、资产审计、保修到期提醒等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/14346979.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 27、[Bottles](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bottlesdevs/Bottles)：一款可轻松实现 Linux 上运行 Windows 软件的工具。该项目提供了清爽易用的 GUI 界面，用户就算不懂任何编程技巧，也可以轻而易举地在 Linux 系统上，运行 Windows 的游戏和软件。
@@ -222,8 +192,6 @@ if __name__ == '__main__':
         time.sleep(5)
 ```
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Rust 项目
 32、[rust-raspberrypi-OS-tutorials](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)：学习如何用 Rust 编写嵌入式操作系统。该教程会从零开始，一步步地指导你如何用 Rust 开发出一个功能齐全的嵌入式操作系统的内核。它包含了实现一般操作系统的任务，例如开发串口控制台、设置虚拟内存和处理硬件异常。教程中的所有代码，均可运行在树莓派 3 和 4 上。
 
@@ -233,14 +201,10 @@ if __name__ == '__main__':
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/410749029.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 34、[Plash](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/Plash)：将网站变成 Mac 桌面壁纸。这是一款适用于 macOS 的桌面壁纸应用，支持将多种网站设置为壁纸，这些网站并不局限于图片网站，还可以是新闻、气象等站点。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/232793032.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 35、[chinese-independent-blogs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/timqian/chinese-independent-blogs)：中文个人独立博客网站合集。如果说中文独立博客的时代已经过去，那么至少还有这么一块地方，属于热爱自由的博主们。
@@ -261,14 +225,10 @@ if __name__ == '__main__':
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/54008251.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 40、[hello-algo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/krahets/hello-algo)：一本动画图解数据结构与算法的入门书。《Hello，算法》一书通过动画和代码诠释数据结构和经典算法，学习曲线平滑，支持电脑、手机等多种终端在线阅读。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/561730219.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 41、[DeOldify](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jantic/DeOldify)：一款可以给老旧照片上色的项目。该项目基于深度学习实现了对黑白图像和视频进行着色的功能。
@@ -295,8 +255,6 @@ for i in range(10):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/86031674.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -305,10 +263,10 @@ for i in range(10):
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/81/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/81'>这里</a>。
 </p>
 
 ## 声明

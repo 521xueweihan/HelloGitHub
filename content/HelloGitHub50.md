@@ -6,22 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/50/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C# 项目](#C-项目)
-- [C++ 项目](#C-项目-1)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Python 项目](#Python-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/50) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -36,8 +25,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/59349909.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 2、[FlowChar](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Gusabary/FlowChar)：一个用来把伪代码生成纯字符流程图的小工具。让使用者仅需要写一段简单的伪代码，便可以生成对应的流程图。该项目结构清晰、使用简单，代码量少适合使用和“把玩”。示例图如下：
@@ -55,15 +42,11 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/116167731.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 5、[css.gg](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/astrit/css.gg)：开源图标 UI 库。支持 CSS、SVG、Figma、NPM 等
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/212204036.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 6、[grpcui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fullstorydev/grpcui)：gRPC 的 Web 页面调试工具。该项目提供交互式的调试界面，让你开发 gRPC 的时候如虎添翼
@@ -119,8 +102,6 @@ fmt.Println(readStruct)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/107417113.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 10、[jbake](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jbake-org/jbake)：基于 Java 的开源静态网站、博客生成器。常用命令如下：
 ```
@@ -162,8 +143,6 @@ jbake -s #运行项目
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/203183673.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 14、[avataaars-generator](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fangpenlin/avataaars-generator)：基于 React 实现的卡通头像生成工具。[在线尝试](https://getavataaars.com/)
@@ -220,8 +199,6 @@ type(element, ...steps, loop);
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/211405607.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Python 项目
 19、[fastapi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tiangolo/fastapi)：基于 Python 3.6+ 的高性能 Web 框架。“人如其名”用 FastAPI 写接口那叫一个快、调试方便，Python 在进步而它基于这些进步，让 Web 开发变得更快、更强。示例代码：
 ```python
@@ -253,8 +230,6 @@ async def read_item(item_id: int, q: str = None):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/254536602.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 22、[SwiftUI](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Jinxiansen/SwiftUI)：该项目参考 SwiftUI 官方示例，记录代码和展示效果
 
@@ -263,8 +238,6 @@ async def read_item(item_id: int, q: str = None):
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/17300388.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 24、[awesome-IntelliJ-IDEA](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA)：玩转 IDE 加班远离你，IntelliJ IDEA 的技巧仓库
@@ -288,13 +261,9 @@ async def read_item(item_id: int, q: str = None):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/197275130.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 29、[thinking-in-java-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apachecn/thinking-in-java-zh)：《Java 编程思想》中文版。[在线阅读](https://wizardforcel.gitbooks.io/thinking-in-java/content/)
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 30、[photo2cartoon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/minivision-ai/photo2cartoon)：将真实照片转换为卡通风格的开源项目。效果如下：
@@ -321,8 +290,6 @@ best_points, best_distance = ga_tsp.run()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/50/113166974.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -331,10 +298,10 @@ best_points, best_distance = ga_tsp.run()
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/50/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/50'>这里</a>。
 </p>
 
 ## 声明

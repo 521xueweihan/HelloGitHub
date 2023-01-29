@@ -6,23 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/42/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C++ 项目](#C-项目-1)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [Python 项目](#Python-项目)
-- [Ruby 项目](#Ruby-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/42) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -66,8 +54,6 @@ for(int i = 0; i < arrlist_size(result); i++) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/203350168.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 2、[nebula](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vesoft-inc/nebula)：Nebula Graph 是一款开源图数据库，目标是为超大规模的图数据提供高并发、低延时的读、写及计算服务。目前是世界上唯一能够容纳千亿个顶点和万亿条边、并提供毫秒级查询延时的图数据库解决方案。特点：
 - 全对称分布式架构
@@ -79,15 +65,11 @@ for(int i = 0; i < arrlist_size(result); i++) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/146459443.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 3、[iCSS](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chokcoco/iCSS)：该项目围绕 CSS 话题，讲述了 CSS 相关的技巧、动画实现
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/68592809.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 4、[kubesphere](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kubesphere/kubesphere)：一款在主流容器调度平台 Kubernetes 之上构建的企业级分布式多租户容器管理平台。提供简单易用的操作界面以及向导式操作方式，在降低用户使用容器调度平台学习成本的同时，极大降低开发、测试、运维的日常工作的复杂度。[中文文档](https://kubesphere.io/docs/zh-CN/)
@@ -102,8 +84,6 @@ for(int i = 0; i < arrlist_size(result); i++) {
 
 6、[ultimate-go](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hoanhan101/ultimate-go)：该项目是作者在学习 Go 过程中，对 Go 源码以及涉及到的相关的计算机基础知识的心得与总结。适合 Go 学习者阅读与学习。快来和作者一起深入了解 Go 源码，了解背后的计算机理论和 Go 的设计思想
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
 7、[easyexcel](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/easyexcel)：使用简单、上手快速、占用内存小且避免内存溢出的 Java 处理 Excel 工具。示例代码：
@@ -161,8 +141,6 @@ XUpdate.newBuild(getActivity())
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/139153913.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### JavaScript 项目
 12、[leonsans](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cmiscm/leonsans)：这是一个用 JS 编写的 Sans Serif 半衬线字体。Leon Sans 允许动态更改字体粗细并在 HTML 5 的 Canvas 元素中创建自定义动画、效果或形状，[点击](https://leon-kim.com/)查看动画效果。PS：这个字体是作者来庆祝他刚出生的婴儿 Leon 的哦
 
@@ -199,13 +177,9 @@ XUpdate.newBuild(getActivity())
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/172029743.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Objective-C 项目
 17、[JHBlog](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SunshineBrother/JHBlog)：该项目整理了作者从初级 iOS 开发到中级的晋级之路的相关知识集合
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 18、[bokeh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bokeh/bokeh)：一个交互式的数据可视化 Python 库，专注于在 Web 浏览器中实现美观、直接的数据可视化功能。使用它可以让你快速和轻松地创建交互式图表、仪表板和数据可视化程序。流式数据集的可视化效果如下图：
@@ -223,8 +197,6 @@ XUpdate.newBuild(getActivity())
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/38067078.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Ruby 项目
 21、[ruby-pinyin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/janx/ruby-pinyin)：可以把汉字转化为对应的拼音的库，同时能够较好的处理多音字的情况。正确处理多音字，示例代码如下：
 ```ruby
@@ -235,15 +207,11 @@ return ["nán", "jīng", "shì", "cháng", "jiāng", "dà", "qiáo"]
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 22、[EFQRCode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/EFPrefix/EFQRCode)：一个轻量级的、用来生成和识别二维码的纯 Swift 库，可根据输入的水印图和图标产生艺术二维码
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/79902465.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 23、[advanced-java](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/doocs/advanced-java)：一份 Java 工程师进阶知识点集合，内容涵盖：高并发、分布式、高可用、微服务等领域知识。这些知识点不局限于 Java 语言，后端的同学也可以从中收获很多，[在线阅读](https://doocs.github.io/advanced-java)
@@ -273,8 +241,6 @@ return ["nán", "jīng", "shì", "cháng", "jiāng", "dà", "qiáo"]
 29、[reverse-interview](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/viraptor/reverse-interview)：如果当面试官问“你还有什么要问我的吗？”的时候你毫无头绪，那这个项目正是你所需要的。[中文](https://github.com/yifeikong/reverse-interview-zh)
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 机器学习
 30、[albert_zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/brightmart/albert_zh)：海量中文预训练 ALBERT 模型
 
@@ -295,8 +261,6 @@ array([[4.43336608e-03, 9.95215198e-01, 3.51419231e-04, 1.68657851e-08]])
 32、[ChineseNLPCorpus](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/InsaneLife/ChineseNLPCorpus)：中文自然语言处理数据集
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -305,10 +269,10 @@ array([[4.43336608e-03, 9.95215198e-01, 3.51419231e-04, 1.68657851e-08]])
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/42/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/42'>这里</a>。
 </p>
 
 ## 声明

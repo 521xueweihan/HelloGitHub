@@ -6,24 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/64/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Kotlin 项目](#Kotlin-项目)
-- [Python 项目](#Python-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/64) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -39,8 +26,6 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/349490770.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 2、[ToastFish](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Uahh/ToastFish)：利用 Windows 通知栏背单词的软件。能够选择单词集合，并在背完后进行测验
 
@@ -51,8 +36,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/376881436.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 4、[Plants-vs.-Zombies-Online-Battle](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle)：在没有游戏源代码的前提下，通过逆向工程和代码注入实现植物大战僵尸局域网对战模式。成功加载后解密模式的最后一关，会变为网络对战关卡。玩法为其中一个玩家放置植物进行防御，另一玩家放置僵尸进攻。项目结合逆向工程、C++和汇编相关技术，在无源代码的前提下为游戏增加功能。对逆向工程感兴趣的小伙可以看看源码
@@ -85,15 +68,11 @@ int main(int argc, char *argv[]) {
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 6、[normalize.css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/necolas/normalize.css)：用来消除浏览器默认样式的 CSS 库。不同浏览器对于同一个元素会有不一样的默认样式，比如：超链接线的颜色。相较于 reset（重制样式）解决办法，normalize.css 采用更加和平且高效地方式，解决了浏览器默认样式的问题，尽可能让同一个 CSS 文件在不同的浏览器上显示效果一样和正常
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/1700621.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 7、[dtm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dtm-labs/dtm)：Go 语言实现的分布式事务管理器。优雅的解决了微服务架构下幂等、空补偿、悬挂等分布式事务难题，提供了简单易用、高性能、易水平扩展的分布式事务解决方案，除 Go 外还有 Python、PHP、Node.js 等语言的客户端
@@ -134,8 +113,6 @@ int main(int argc, char *argv[]) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/196937459.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 12、[dataease](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dataease/dataease)：开源的数据可视化和分析工具。采用 SpringBoot+Vue.js 技术栈实现，通过丰富的可视化图表让数据更加直观
 - 数据连接：支持关系型数据库、Excel 等文件、Hadoop 等大数据平台、NoSQL 等各种数据源
@@ -151,8 +128,6 @@ int main(int argc, char *argv[]) {
 
 14、[Mybatis-PageHelper](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pagehelper/Mybatis-PageHelper)：MyBatis 通用分页插件，[使用方法](https://github.com/pagehelper/Mybatis-PageHelper/blob/master/wikis/zh/HowToUse.md)
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 15、[50projects50days](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bradtraversy/50projects50days)：50 个采用 HTML+CSS+JS 的前端小项目集合。项目包含网页源码和效果展示，标准入门级的前端开源项目。通过查看效果让新手感受前端的美妙，简单的源码降低了上手写代码门槛。或许其中某个网页的效果也会让工作多年的你大呼哇塞
@@ -182,15 +157,11 @@ sjcl.decrypt("password", "encrypted-data") //解密数据
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Kotlin 项目
 20、[k-9](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/thundernest/k-9)：开源的 Android 电子邮件客户端
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/1326671.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 21、[bigdata_analyse](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TurboWay/bigdata_analyse)：大数据分析实战项目的集合。该项目包含了淘宝、租房、招聘等数据的分析实例，不仅有 Python、SQL、HQL 的实例代码，还附上了数据集下载地址。想学习大数据的同学们，万事俱备就差你来学了
@@ -257,8 +228,6 @@ while True:
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/136556542.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 26、[firefox-ios](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mozilla-mobile/firefox-ios)：Firefox 浏览器 iOS 源码
 
@@ -281,8 +250,6 @@ alert.show()
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/64705781.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 28、[adarkroom](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/doublespeakgames/adarkroom)：《小黑屋》是一款有趣的文字冒险类游戏。支持中文能够运行在浏览器、iOS 和 Android 设备，浏览器上默认会保存游戏进度到本地，另外还支持存档导入/导出防止丢失。友情提示：没玩过的同学刚开始容易摸不着头脑，因为事件触发需要时间，看滚动的文字+点击“添柴”耐心等 30 秒，就会触发新的事件了。如果你喜欢养成类游戏，那它一定会是你的菜。[在线试玩](http://adarkroom.doublespeakgames.com/?lang=zh_cn)
@@ -318,8 +285,6 @@ alert.show()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/108761645.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 35、[CheatSheetSeries](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OWASP/CheatSheetSeries)：OWASP（开放式 Web 应用程序安全项目）速查表。项目由 OWASP 社区的安全专家编写，列举了多种安全问题和解决方案，从而更好地保护你的 Web 应用。[在线阅读](https://cheatsheetseries.owasp.org/)
 
@@ -331,8 +296,6 @@ alert.show()
 
 37、[understand_linux_process](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tobegit3hub/understand_linux_process)：《理解 Linux 进程》
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 38、[DouZero_For_HappyDouDiZhu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu)：基于快手开源的斗地主强化学习框架，实现的欢乐斗地主 AI 助手
@@ -353,8 +316,6 @@ alert.show()
 41、[Statistical-Learning-Method_Code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Dod-o/Statistical-Learning-Method_Code)：用 Python 实现《统计学习方法》书中的算法
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -363,10 +324,10 @@ alert.show()
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/64/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/64'>这里</a>。
 </p>
 
 ## 声明

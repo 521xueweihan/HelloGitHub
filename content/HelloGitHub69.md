@@ -6,24 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/69/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/69) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -53,15 +40,11 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/239770490.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 4、[jynew](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jynew/jynew)：采用 Unity 重制的《金庸群侠传》3D 版
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/366663429.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 5、[bpftrace](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iovisor/bpftrace)：Linux 高级追踪工具和语言。该工具基于 eBPF 和 BCC 实现了通过探针机制采集内核和程序运行的信息，然后用图表等方式将信息展示出来，帮助开发者找到隐藏较深的 Bug、安全问题和性能瓶颈
@@ -84,8 +67,6 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/104732438.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 8、[heti](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sivan/heti)：专为中文内容展示设计的排版样式。它会让你的中文网站变得好看
 - 贴合网格的排版
@@ -96,8 +77,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/239760033.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 9、[air](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cosmtrek/air)：有代码变动就会自动重启服务的 Go 工具。在开发 Go Web 项目时，每次修改后都需要手动编译、重启服务，这个工具会在文件和目录发生变动后，自动编译并重启服务，大大提高了开发效率
@@ -125,8 +104,6 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/425894452.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 14、[Addax](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wgzhao/Addax)：支持多种异构数据源离线同步工具。服务于大数据的 ETL 工具，可快速实现 MySQL、HDFS、Hive、HBase 等数据源之间的数据同步，主要用于离线采集各类数据到数据仓库或者大数据平台
 
@@ -150,8 +127,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/44804216.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 19、[arco-design](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/arco-design/arco-design)：基于 ArcoDesign 的 React/Vue UI 组件库。包含 60 多个开箱即用的高质量组件，还提供了可视化的样式配置平台，可用于快速构建企业级管理后台
@@ -212,15 +187,11 @@ main()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/324935660.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Objective-C 项目
 23、[vienna-rss](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ViennaRSS/vienna-rss)：适用于 macOS 的免费 RSS 订阅工具
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/2285190.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
 24、[laravel-tips](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LaravelDaily/laravel-tips)：Laravel 编码技巧集合。[中文](https://github.com/Lysice/laravel-tips-chinese/blob/master/README-zh.md)
@@ -244,8 +215,6 @@ $section->addText(
 );
 ```
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 26、[orjson](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ijl/orjson)：更快更强的 Python JSON 库。支持比如日期、numpy 数组等丰富的数据类型，而且速度更快
@@ -293,8 +262,6 @@ if __name__ == "__main__":
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/206990697.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 其它
 29、[AppFlowy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AppFlowy-IO/AppFlowy)：开源笔记工具。基于 Flutter 开发适用于各种操作系统，目标是成为 Notion 的代替品
 
@@ -341,8 +308,6 @@ if __name__ == "__main__":
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/423541572.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 37、[everything-curl](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bagder/everything-curl)：《关于 curl 的所有东西》。由 curl 项目发起者撰写的书，内容包括 curl 入门、开源、源码、项目等方面。[在线阅读](https://everything.curl.dev/)
 
@@ -353,8 +318,6 @@ if __name__ == "__main__":
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/307536107.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 39、[ML-For-Beginners](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/ML-For-Beginners)：微软开源的入门级机器学习教程
@@ -373,8 +336,6 @@ spleeter separate -p spleeter:2stems -o output 音频.mp3
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -383,10 +344,10 @@ spleeter separate -p spleeter:2stems -o output 音频.mp3
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/69/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/69'>这里</a>。
 </p>
 
 ## 声明

@@ -6,25 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/67/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Kotlin 项目](#Kotlin-项目)
-- [Python 项目](#Python-项目)
-- [Rust 项目](#Rust-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/67) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -45,15 +31,11 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/66150122.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 3、[ShareX](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ShareX/ShareX)：免费的 Windows 截屏录制工具。功能强大支持全屏截图、滚动截图、检测窗口截图、GIF 录制等，截图后还支持在图片上增加文字、水印、特效、马赛克等，最后可直接上传图床得到链接，丝滑地完成整个截图流程
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/13428264.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 4、[NanaZip](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/M2Team/NanaZip)：基于 7-Zip 的开源压缩工具。包含多种压缩算法和美观的 Win11 风格 UI，同时适配 Win11 右键菜单操作
@@ -66,8 +48,6 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/364013734.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 6、[weather-icons](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/erikflowers/weather-icons)：天气主题图标和 CSS 文件。包含 220+ 个高质量的天气图标
 
@@ -78,8 +58,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/62615465.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 8、[gopay](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/go-pay/gopay)： Go 的集合支付库。支持微信、支付宝、PayPal、QQ 支付
@@ -97,8 +75,6 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/59101986.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 11、[shattered-pixel-dungeon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/00-Evan/shattered-pixel-dungeon)：开源的像素风 RougeLike 角色扮演游戏，耐玩且支持中文。游戏虽然画面怀旧但内容丰富，可选战士、法师、射手、盗贼四种角色，超过 150 种道具玩法多样。每场探险都不一样，每次开局都是随机生成关卡和敌人。游戏看似简单但上手有难度，想要通关需要花些时间研究。支持 PC、安卓和 iOS 客户端，[下载地址](https://github.com/00-Evan/shattered-pixel-dungeon/releases/tag/v1.0.3)
 
@@ -109,8 +85,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/161329070.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 13、[city-roads](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/anvaka/city-roads)：自动生成任意城市的道路图。采用 OpenStreetMap 的免费数据实现城市道路可视化，还支持导出图片用这些图片做壁纸感觉很酷。[在线尝试](https://anvaka.github.io/city-roads/)
@@ -181,15 +155,11 @@ let lexer = {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/92390901.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Kotlin 项目
 19、[TranslationPlugin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/YiiGuxing/TranslationPlugin)：IDE 翻译插件。支持 JetBrains 系列产品
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/60159997.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 20、[30-Days-Of-Python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Asabeneh/30-Days-Of-Python)：免费、零基础的 Python 教程。保姆级 Python 教程内容虽为英文，但问题不大请放心食用
@@ -222,8 +192,6 @@ ps -ef | q -H "SELECT UID,COUNT(*) cnt FROM - GROUP BY UID ORDER BY cnt DESC"
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/368439610.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Rust 项目
 24、[polars](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pola-rs/polars)：多线程、类 Pandas 的数据处理库。底层采用 Apache Arrow 从而带来了更高效的数据处理性能、占用内存更少、处理速度更快，再加上简单易用的 API，让你在处理大数据集（50GB）时，更加游刃有余。支持 Rust、Python 等语言，值得一试
 ```python
@@ -242,8 +210,6 @@ df = q.collect()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/263727855.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 25、[Charts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/danielgindi/Charts)：支持 iOS/tvOS/OSX 的图表库。功能：
 - 8 种不同的图表类型
@@ -253,8 +219,6 @@ df = q.collect()
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/32578467.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 26、[aliyunpan](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/liupan1890/aliyunpan)：基于网页版阿里云盘开发的 PC 客户端。能够同时登陆和管理多个账号、显示文件体积、文件夹树，还可以在线播放网盘中的视频并外挂字幕。支持 Windows、Linux、macOS 操作系统
@@ -292,15 +256,11 @@ df = q.collect()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/332757634.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 33、[AlgoXY](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/liuxinyu95/AlgoXY)：作者正在重写《算法新解》，开源仓库同步更新。[下载地址](https://github.com/liuxinyu95/AlgoXY/files/6862229/algoxy-zh-cn.pdf)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/1638524.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 34、[optuna](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/optuna/optuna)：专为机器学习准备的超参数优化框架。采用高效的采样和剪枝策略，支持简单的 Python 语法，仅需少量代码便可进行分布式计算加速优化，除此之外还有更为直观的可视化页面。全方位帮你调参，自动找到最优参数
@@ -318,8 +278,6 @@ df = q.collect()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/387326890.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -328,10 +286,10 @@ df = q.collect()
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/67/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/67'>这里</a>。
 </p>
 
 ## 声明

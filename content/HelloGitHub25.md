@@ -6,21 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/25/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [Python 项目](#Python-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/25) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -36,15 +26,11 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/121354477.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 2、[tabler](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tabler/tabler)：一套基于 Bootstrap 4 免费开源的 Dashboard 模版
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/119811010.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 3、[dynamo.cli](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FrontMage/dynamo.cli)：AWS DynamoDB 是一项快速灵活的 NoSQL 数据库服务。如果大家使用这个用服务，但又记不住蹩脚的 AWS 客户端的查询命令。可以使用这个工具，通过 SQL 命令查询、操作 Amazon DynamoDB 数据库
@@ -55,13 +41,9 @@
 4、[mqant](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/liangdas/mqant)：一款基于 Go 语言的简洁、高性能的分布式游戏服务框架。[快速上手文档](https://github.com/liangdas/mqant/wiki)，作者阐述了自己为什么选用 Go 作为开发语言和一些设计思路
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 5、[JCSprout](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/crossoverJie/JCSprout)：该项目介绍的内容包含：Java 基础知识、底层原理、算法详解、大厂面试真题等
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 6、[battle-city](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shinima/battle-city)：基于 React 的经典坦克大战，[在线试玩](http://shinima.pw/battle-city)。欢迎感兴趣的小伙伴动起手来提交代码加入到这个项目
@@ -125,15 +107,11 @@ render( Page,  document.body );
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/130452003.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Objective-C 项目
 11、[RDM](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/avibrazil/RDM)：轻松地改变 MacBook Retina 屏幕分辨率的工具
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/33700453.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 12、[airflow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/airflow)：定时任务管理平台，管理和调度各种离线定时任务，自带 Web 管理界面。当定时任务量达到百级别的时候，就无法再使用 crontab 有效、方便地管理这些任务了。该项目就是为了解决了这个问题而诞生的
@@ -173,8 +151,6 @@ synonyms.seg("能量")
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/101684374.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 其它
 16、[awesome-leetcode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tangweikun/awesome-leetcode)：该项目收集了各种编程语言的 Leetcode 题解
 
@@ -191,8 +167,6 @@ synonyms.seg("能量")
 20、[open-source-mac-os-apps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/serhii-londar/open-source-mac-os-apps)：（英文）macOS 系统上的开源应用集合，并标注了应用通过那种编程语言实现
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 21、[advanced-go-programming-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chai2010/advanced-go-programming-book)：《Go语言高级编程》该书针对 Go 语言有一定经验，想更加深入了解 Go 语言各种高级用法的开发人员
 
@@ -201,8 +175,6 @@ synonyms.seg("能量")
 1. 本书假定读者已经熟悉了传统 C++ ，至少在阅读传统 C++ 代码上不具备任何困难。换句话说，那些长期使用传统 C++ 进行编码的人、渴望在短时间内迅速了解现代 C++ 特性的人非常适合阅读本书；
 2. 本书一定程度上介绍了一些现代 C++ 的黑魔法，但这些魔法毕竟有限，不适合希望进阶学习现代 C++ 的读者，本书的定位系现代 C++ 的快速上手。当然，希望进阶学习的读者可以使用本书来回顾并检验自己对现代 C++ 的熟悉度。
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 23、[ChatBotCourse](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lcdevelop/ChatBotCourse)：该项目介绍了如何自己动手做聊天机器人。全面地介绍了所需要的技术：自然语言识别、分词、语料库、机器学习等，包含所需的 Java 和 Python 代码
@@ -213,8 +185,6 @@ synonyms.seg("能量")
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/92265140.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -223,10 +193,10 @@ synonyms.seg("能量")
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/25/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/25'>这里</a>。
 </p>
 
 ## 声明

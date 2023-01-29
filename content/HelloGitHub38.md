@@ -6,21 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/38/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C++ 项目](#C-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Ruby 项目](#Ruby-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/38) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -35,8 +25,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/100060912.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 2、[CovenantSQL](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CovenantSQL/CovenantSQL)：具有区块链特性的去中心化 SQL 关系型数据库。可以提供 DBaaS 服务，去中心化存储保证用户隐私。[中文文档](https://developers.covenantsql.io/docs/zh-CN/intro)，MacOS 系统可以通过 `brew install cql` 直接安装
@@ -99,8 +87,6 @@ fmt.Println(resp.Text)
 8、[scheduler](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/prprprus/scheduler)：Go 语言实现的作业调度工具包。适用于需要任务调度的场景，能够让初学者学到 time、reflect 等标准库的用法，[中文文档](https://github.com/prprprus/scheduler/blob/master/README-zh.md)
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 9、[Android-BLE](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aicareles/Android-BLE)：Android 蓝牙框架，包括扫描、连接、设置通知、发送数据、读取、接收数据和 OTA 升级等。近乎一行代码植入项目，可扩展、配置蓝牙相关操作，适用于 Android-BLE4.0 蓝牙。即便是 BLE 方面的小白也可以在短短几分钟内接入并运用到项目中
 
@@ -144,8 +130,6 @@ holder.showEmpty()
 12、[rhizobia_J](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/momosecurity/rhizobia_J)：陌陌开源的 Java 安全编码规范和 SDK
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### JavaScript 项目
 13、[ieaseMusic](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/trazyn/ieaseMusic)：基于网易云音乐 API 开发的第三方客户端，支持 Linux、Mac OS 系统。成熟的 JS 桌面应用产品，颜值很高，音乐资源丰富
 
@@ -158,8 +142,6 @@ holder.showEmpty()
 15、[ts-utility-plugins](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ddzy/ts-utility-plugins)：使用原生 TS 构建特效、插件、业务的实践教程项目。脱离各种框架实现原生的特效以及插件
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### PHP 项目
 16、[PHP-Interview-QA](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/colinlet/PHP-Interview-QA)：《PHP 面试问答》结合实际 PHP 面试经验，系统地汇总面试中的各类的问题，并尝试提供简洁准确的答案，为你面试 PHP 相关岗位提供“秘籍”。包含：网络协议、数据结构与算法、PHP基础、Web、MySQL、Redis、自我介绍、离职原因、职业规划等部分
 
@@ -168,8 +150,6 @@ holder.showEmpty()
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/98536285.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 18、[city-vein](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/antct/city-vein)：用公交路线数据，还原城市结构。通过数据可视化手段，还原了 30 多个城市的城市结构。该项目中有数据获取和处理的脚本，而且该项目充分体现了数据可视化带来的便利和效果，易于激发学习编程的热情。[在线浏览](https://96486d9b.github.io/city-vein/)
@@ -213,15 +193,11 @@ Modified var:.. number = 3
 21、[Zvm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/5A59/Zvm)：一款用 Python 实现的简易 JVM。实现功能如下：class 文件解析、类加载、运行时数据区、指令解释器、基本指令集、简易 GC、简易线程、简易 JDK 库，可以运行基本的 Java class 文件。代码量少，模块清晰，适合用来学习 JVM 的基本结构和实现
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Ruby 项目
 22、[huginn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huginn/huginn)：基于 Ruby 开发的自动化处理任务工具。可以监控事物然后根据编写好的逻辑进行处理（IFTTT），比如：监控天气然后通过微信提醒你带伞、追的小说或者动漫更新通知、聚合信息发送等。它框架稳定、生态活跃，有了它从而让你的生活更加有效率，快去试试吧
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/8681349.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
 23、[Brooklyn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pedrommcarrasco/Brooklyn)：炫酷的苹果电脑屏幕保护程序
@@ -233,8 +209,6 @@ Modified var:.. number = 3
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/129322624.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 25、[3d-game-shaders-for-beginners](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lettier/3d-game-shaders-for-beginners)：有关如何为 3D 游戏实施 SSAO、景深、照明、法线贴图等效果的教程。包含示例代码（C++）与 Demo，更便于理解和学习
@@ -266,8 +240,6 @@ Modified var:.. number = 3
 
 31、[weekly](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aliyunfe/weekly)：《阿里云前端技术周刊》
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 32、[BentoML](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bentoml/BentoML)：一个机器学习工具用来打包和发布模型。帮助数据科学家用不到 5 分钟把在 ipython notebook 里的模型发布到生产环境
@@ -305,8 +277,6 @@ class IrisClassifier(BentoService):
 36、[stanford-cs-229-machine-learning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/afshinea/stanford-cs-229-machine-learning)：斯坦福 CS229 教程讲义文档，该文档内容细致、条理清晰，方便入门者作为读书笔记学习。[中文版](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/zh)
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -315,10 +285,10 @@ class IrisClassifier(BentoService):
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/38/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/38'>这里</a>。
 </p>
 
 ## 声明

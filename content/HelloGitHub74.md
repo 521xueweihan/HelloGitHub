@@ -6,27 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/74/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Kotlin 项目](#Kotlin-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Ruby 项目](#Ruby-项目)
-- [Rust 项目](#Rust-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/74) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -64,15 +48,11 @@ ls *.js | entr -r node app.js
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/385037052.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 6、[TowerDefense-GameFramework-Demo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DrFlower/TowerDefense-GameFramework-Demo)：开源的塔防游戏示例。此项目主要用来上手和学习基于 Unity 引擎的游戏框架 GameFramework，感兴趣的同学可以把玩一下。游戏共有五个关卡，玩家通过击杀敌人和建造能量塔获取资源，消耗能量建造防御塔阻止敌人攻击基地
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/257643506.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 7、[Cpp_Primer_Practice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/applenob/Cpp_Primer_Practice)：《C++ Primer》中文版第 5 版的学习笔记。该项目不仅包含学习笔记还有课后习题的答案
@@ -88,15 +68,11 @@ ls *.js | entr -r node app.js
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/160083795.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 10、[weui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/weui)：微信开源的原生基础样式库。为微信内网页和小程序量身设计的样式库，包括按钮、徽章、进度条、图标、对话框等各式元素
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/28167802.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 11、[ants](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/panjf2000/ants)：高性能 goroutine 池。实现了大规模下的 goroutine 调度和复用，从而节省资源提高执行效果。还有如任务提交、动态调整 pool 大小、查询运行状态等实用接口
@@ -121,8 +97,6 @@ ls *.js | entr -r node app.js
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/434218673.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
 15、[debezium](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/debezium/debezium)：捕获数据更改(CDC)的流式处理平台。可以监控数据库中的数据变动，把每一个行级别的数据改动，通过流的方式实时同步给其他服务。适用于更新缓存、更新搜索、双写等场景
@@ -149,8 +123,6 @@ ls *.js | entr -r node app.js
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/49876476.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 20、[bytemd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bytedance/bytemd)：掘金社区开源的 Markdown 编辑器组件。基于 Svelte 构建的 Markdown 编辑器组件，功能齐全还可以通过插件扩展功能，默认安全且兼容 SSR，适用于 React、Vue 和 Angular 框架
@@ -208,23 +180,17 @@ ReactDOM.render(
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/18068542.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Kotlin 项目
 24、[PermissionX](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/guolindev/PermissionX)：解决 Android 运行时权限的库。该项目本是作者写的一本书中的练手项目，后来经过不断优化和功能迭代，已经可以真正做到简化 Android 运行时权限处理的工作，所以就有了我们现在看到的 PermissionX。时至今日它依旧在持续更新，没有停下变得更好的脚步，或许这就是工匠精神的体现吧。[中文文档](https://blog.csdn.net/guolin_blog/category_10108528.html)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/218407426.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### PHP 项目
 25、[framework](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/flarum/framework)：简约大方的论坛项目。这是一个用 PHP+Mithril 开发的免费、美观、简单、速度快的论坛系统
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/28257573.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 26、[Archery](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hhyo/Archery)：在线 SQL 审核平台。采用 Django+Bootstrap 框架开发而成，支持 MySQL、Oracle 等数据库的 SQL 上线、备份、慢日志查询等功能。[在线尝试](https://demo.archerydms.com/)
@@ -280,29 +246,21 @@ xonsh：xxh anyhost +s xonsh
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/219294494.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Ruby 项目
 31、[solidus](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/solidusio/solidus)：开源的简约电商平台。基于 Ruby on Rails 构建的电商平台，界面清爽代码完全开源。[在线尝试](http://demo.solidus.io/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/30985840.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Rust 项目
 32、[mdBook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rust-lang/mdBook)：Rust 官方开源的 Markdown 电子书构建工具。类似 Gitbook 可以将 Markdown 文件制作成在线书籍，简单易用非常适合创建教程、课程材料、开源书籍等文稿
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
 33、[TermiWatch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kuglee/TermiWatch)：终端风格的 iWatch 手表面
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/161073102.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 34、[A-Programmers-Guide-to-English](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yujiangshui/A-Programmers-Guide-to-English)：专为程序员编写的英语学习指南。一位程序员提升英语水平的实践经验分享，还有相关训练方法和用到的工具，[点击查看](https://a-programmers-guide-to-english.harryyu.me/)
@@ -336,8 +294,6 @@ xonsh：xxh anyhost +s xonsh
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/443021832.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 41、[machine-learning-yearning-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/deeplearning-ai/machine-learning-yearning-cn)：《Machine Learning Yearning》中文版。《机器学习训练秘籍》样稿吴恩达著，[在线阅读](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
 
@@ -351,8 +307,6 @@ xonsh：xxh anyhost +s xonsh
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/70629065.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 44、[machine_learning_complete](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Nyandwi/machine_learning_complete)：全面的机器学习教程库。一份包含 30 多个 Jupyter Notebook 的集合库，内容涵盖机器学习所需的 Python 基础，数据操作、清洗、分析、可视化常用的库和工具，以及经典机器学习、NLP、计算机视觉等算法，一份面面俱到的机器学习入门教程
@@ -370,8 +324,6 @@ xonsh：xxh anyhost +s xonsh
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/301421364.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -380,10 +332,10 @@ xonsh：xxh anyhost +s xonsh
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/74/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/74'>这里</a>。
 </p>
 
 ## 声明

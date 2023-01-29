@@ -6,25 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/80/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Rust 项目](#Rust-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/80) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -39,14 +25,10 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/14049216.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 2、[Malware-Patch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/the1812/Malware-Patch)：阻止 Windows 流氓软件授权的工具。它轻巧、无需后台运行，可用于阻止指定软件的管理员授权。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/133600987.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 3、[Magisk](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/topjohnwu/Magisk)：Android 获取 Root 权限的工具。它可以快速、无痛地获得 Android 的超级用户权限，支持 Android 5.0 以上的设备。
@@ -63,8 +45,6 @@ pid = 561
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/22394357.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 5、[css-only-chat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kkuchta/css-only-chat)：仅用 CSS 实现网络聊天。前端不用 JavaScript 只用 CSS 实现网络聊天的功能，秘诀是伪选择器加载的背景图像和永远加载的索引页。
 ```css
@@ -74,8 +54,6 @@ pid = 561
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/185419470.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 6、[cadvisor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/cadvisor)：一款由 Google 开源的容器监控工具。它可以实时统计容器运行时占用的资源，包括 CPU 利用率、内存使用量、网络传输等信息。提供了 Web 可视化页面，能方便用户分析和监控容器运行状态，支持包括 Docker 在内的几乎所有类型的容器。
@@ -124,8 +102,6 @@ $ supervisord -c supervisor.conf
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/69154291.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 11、[Aegis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/beemdevelopment/Aegis)：一款免费、安全、开源的 2FA 安卓应用。双重认证(2FA) 就是使用两种不同的元素来确认用户身份，比如用户名和密码是一种元素，手机号和短信验证码也是一种元素，两种元素结合就是双重认证。除了短信之外还有一种 APP 可生成和验证码功能类似的一次性密码(TOTP)，Aegis 就是一款支持 HOTP 和 TOTP 算法的开源 2FA 应用，使用时要先将手机和账号绑定，绑定后 APP 就会定时刷新一组随机数字，需要双重认证时输入这串数字即可。
 
@@ -144,8 +120,6 @@ $ supervisord -c supervisor.conf
 13、[wvp-GB28181-pro](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/648540858/wvp-GB28181-pro)：开箱即用的网络视频平台。基于 GB28181 标准实现的网络视频平台，能够接入摄像机、平台、NVR 等设备、支持视频预览、云台控制、录像查询和回放、无人观看自动断流等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/312830970.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 14、[cypress](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cypress-io/cypress)：基于 JavaScript 的下一代前端测试工具。主要用于浏览器端到端测试的自动化工具，端到端(E2E)测试就是站在用户的角度，模拟实际使用场景的测试方式。Cypress 目前已成主流浏览器端到端测试工具，它运行速度快、上手简单，支持图形化界面可实时观察执行情况，以及截屏和视频记录测试结果。
@@ -168,14 +142,10 @@ $ supervisord -c supervisor.conf
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/53639099.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### PHP 项目
 19、[YOURLS](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/YOURLS/YOURLS)：完全免费的短网址服务。采用 PHP 编写的短网址服务，它完全开源可自行搭建服务，支持数据统计、地理位置、可视化等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/5508585.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 20、[calibre](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kovidgoyal/calibre)：一款功能强大的电子书管理工具。它是集下载、格式转化、制作、管理于一体的电子书工具，比如可以将 txt 文本，转化成包含作者信息和书籍封面的 mobi 文件，制作完成后还可以直接发送到 Kindle 设备上。
@@ -213,8 +183,6 @@ if __name__ == '__main__':
     app.run()
 ```
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Rust 项目
 25、[difftastic](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Wilfred/difftastic)：命令行文件对比工具。一种可根据文件的语法，进行结构化比较的工具，支持 30 多种编程语言。
 
@@ -236,14 +204,10 @@ ABC
 123
 ```
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 28、[CotEditor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/coteditor/CotEditor)：一款适用于 macOS 的轻量级纯文本编辑器。它免费、整洁、启动速度快，拥有看起来十分舒服的界面。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/9243402.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 29、[fonteditor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ecomfe/fonteditor)：在线字体编辑器。在线编辑、转换、预览字体文件，支持多种字体格式。
@@ -268,8 +232,6 @@ ABC
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/558275471.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 35、[Book3_Elements-of-Mathematics](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Visualize-ML/Book3_Elements-of-Mathematics)：《数学要素》从加减乘除到机器学习。全彩多图的一本科普书，内容以图解+数学+编程为主。
 
@@ -281,16 +243,12 @@ ABC
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/34169414.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 机器学习
 38、[AiLearning-Theory-Applying](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ben1234560/AiLearning-Theory-Applying)：快速上手 AI 理论及应用实战。该教程包含学习 AI 必备的数学基础，机器学习实战小项目、深度学习入门、自然语言通用框架 BERT 实战，以及大量数据集。
 
 39、[vmaf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Netflix/vmaf)：Netflix 开源的视频质量评估算法。一种将人类视觉模型与机器学习结合的评估视频质量的方法，目的是改善观众们的观看体验。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/51317975.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
@@ -300,10 +258,10 @@ ABC
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/80/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/80'>这里</a>。
 </p>
 
 ## 声明

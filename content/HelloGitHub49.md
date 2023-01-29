@@ -6,24 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/49/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Kotlin 项目](#Kotlin-项目)
-- [Python 项目](#Python-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/49) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -36,8 +23,6 @@
 ### C 项目
 1、[switch-lan-play](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spacemeowx2/switch-lan-play)：让您和您的朋友像在局域网中一样玩 switch 游戏。[教程](https://www.bilibili.com/read/cv4233983/)
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C# 项目
 2、[excel2json](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/neil3d/excel2json)：C# 写的把 Excel 表转换成 json 的工具
@@ -55,8 +40,6 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/189676777.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 5、[hplayer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ithewei/hplayer)：一个基于 C++ 实现的多画面播放器。能播放文件源、网络源、设备捕获源，界面为多画面监控网格，可自由切换多画面风格，支持拖拽与合并。适合想要入门音视频、播放器开发的小伙伴们学习，该项目用到的技术栈：
 - Qt 实现界面
@@ -70,15 +53,11 @@
 6、[interview](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huihut/interview)：C/C++ 技术面试知识集合项目。包括语言、程序库、数据结构、算法、链接装载库等知识
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 7、[SpinKit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tobiasahlin/SpinKit)：纯 CSS 实现加载动画的项目
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/15150300.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 8、[crawlab](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/crawlab-team/crawlab)：基于 Go 的分布式爬虫管理平台。支持 Python、Node.js、Go、Java、PHP 等多种编程语言以及多种爬虫框架
@@ -90,8 +69,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/44498957.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
 10、[concurrent](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RedSpider1/concurrent)：RedSpider 社区开源的《深入浅出 Java 多线程》教程。[在线阅读](http://concurrent.redspider.group/)
@@ -109,8 +86,6 @@
 
 13、[toBeTopJavaer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hollischuang/toBeTopJavaer)：一份全面、系统的 Java 学习教程。推荐给刚入门 Java、需要进阶的小伙伴，[在线阅读](https://hollischuang.github.io/toBeTopJavaer/#/menu)
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 14、[chroma.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gka/chroma.js)：一款极小、零依赖用于各种颜色转换的 JS 库，帮助前端把颜色操作于股掌之间。示例代码：
@@ -142,15 +117,11 @@ chroma.scale(['#fafa6e','#2A4858'])
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/51769689.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Kotlin 项目
 19、[sourcerer-app](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sourcerer-io/sourcerer-app)：提供 GitHub 用户相关数据可视化的项目
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/96525128.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 20、[gpustat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wookayin/gpustat)：一个方便查询 GPU 状态的命令行程序
@@ -174,8 +145,6 @@ while not pyboy.tick():
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/228700143.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 23、[Dozer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Mortennn/Dozer)：隐藏 macOS 状态栏图标的工具，使状态栏看起来更整洁
 
@@ -195,8 +164,6 @@ let _ = "19 Nov 2015 22:20:40 +0100".toRSS(alt: true)
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 其它
 25、[bash-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wangdoc/bash-tutorial)：Bash 教程。[在线阅读](https://wangdoc.com/bash/)
 
@@ -214,8 +181,6 @@ let _ = "19 Nov 2015 22:20:40 +0100".toRSS(alt: true)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/312262.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 29、[istio-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/servicemesher/istio-handbook)：ServiceMesher 社区出品的《Istio 服务网格进阶实战》。Istio 是由 Google、IBM、Lyft 等共同开源的 Service Mesh（服务网格）框架，作为云原生时代下承 Kubernetes、上接 Serverless 架构的重要基础设施层
 
@@ -225,15 +190,11 @@ let _ = "19 Nov 2015 22:20:40 +0100".toRSS(alt: true)
 30、[webrtc-book-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/a-wing/webrtc-book-cn)：《Real-Time Communication with WebRTC》中文翻译版，WebRTC 实时通信。在浏览器中提供丰富的音频和视频实时通信和点对点数据交换，不需要私有插件。这本书向您展示了如何使用新兴的 Web 实时通信（WebRTC）技术来构建一个浏览器到浏览器通信的应用程序
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 机器学习
 31、[pycorrector](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shibing624/pycorrector)：中文文本纠错工具。音似、形似错字（或变体字）纠正，可用于中文拼音、笔画输入法的错误纠正。依据语言模型检测错别字位置，通过拼音音似特征、笔画五笔编辑距离特征及语言模型困惑度特征纠正错别字。解决了在文本识别模型处理后，对识别结果中个别词汇错误进行纠错
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/123424015.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
@@ -243,10 +204,10 @@ let _ = "19 Nov 2015 22:20:40 +0100".toRSS(alt: true)
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/49/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/49'>这里</a>。
 </p>
 
 ## 声明

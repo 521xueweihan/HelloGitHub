@@ -6,22 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/29/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C++ 项目](#C-项目-1)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [Python 项目](#Python-项目)
-- [Ruby 项目](#Ruby-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/29) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -42,13 +31,9 @@
 2、[redis-3.0-annotated](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangz1990/redis-3.0-annotated)：[黄健宏](https://github.com/huangz1990) 在编写《Redis 设计与实现》期间，阅读 Redis 3.0 源码过程中写的注释。相信对于想要阅读 redis 源码的同学，会有很大的帮助
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 3、[BurstLinker](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bilibili/BurstLinker)：主要为 Android 开发的一个 C++ GIF 编码器。支持多种常见的颜色量化算法、颜色抖动算法
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 4、[dgraph](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dgraph-io/dgraph)：开源、免费的分布式图数据库。如果你在构建用户关系系统，图数据库绝对是比关系型数据库更好的选择。通过 SPARQL 查询一个用户相关的其他用户会比 SQL 快百倍。自带图形界面、RDF 导入工具等必备工具。安装：`curl https://get.dgraph.io -sSf | bash`
@@ -88,8 +73,6 @@ $ rclone sync /home/local/directory remote:bucket
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 8、[CoolViewPager](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HuanHaiLiuXin/CoolViewPager)：自定义 ViewPager 组件，支持双向自动循环、自动循环参数自由设置、界面实时刷新、自定义边缘及垂直切换效果。示例代码：
 ```java
@@ -124,8 +107,6 @@ public class ActivityEdgeEffectColor extends BaseActivity {
 10、[Heart-First-JavaWeb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/skyline75489/Heart-First-JavaWeb)：走心的 Java Web 入门开发教程，对于初学者友好。教程中列举了在初学 Java Web 的过程中，可能会遇到的问题、难点
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### JavaScript 项目
 11、[hotkeys](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jaywcjlove/hotkeys)：一个强健的 Javascript 库用于捕获键盘输入和输入的组合键。它没有依赖，压缩只有 3kb 左右。[在线展示](https://wangchujiang.com/hotkeys/)
 
@@ -159,8 +140,6 @@ ReactDOM.render(
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Objective-C 项目
 15、[SBSAnimoji](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/simonbs/SBSAnimoji)：最长可以录60秒的 Animoji 画面，录制完成后可以直接按拓展按钮分享，可以学习AvatarKit的使用
 
@@ -178,8 +157,6 @@ ReactDOM.render(
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/29/84404175.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 17、[FeelUOwn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/feeluown/FeelUOwn)：一个符合 Unix 哲学的跨平台的音乐播放器，主要面向 Linux/macOS 用户。特性：
@@ -217,23 +194,17 @@ ReactDOM.render(
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/29/11380094.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Ruby 项目
 21、[snibox](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/snibox/snibox)：代码片段管理器。支持各种编程语言的代码片段、Markdown、纯文本。[在线示例](https://snibox.github.io/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/29/116063695.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 22、[Bartinter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MaximKotliar/Bartinter)：状态栏外观管理组件。可根据背景的颜色，动态地更改状态栏的颜色，使状态栏的信息可读
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/29/137921876.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 23、[chinese-independent-developer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/1c7/chinese-independent-developer)：中国独立开发者项目列表
@@ -251,13 +222,9 @@ ReactDOM.render(
 27、[system-design-primer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/donnemartin/system-design-primer)：学习如何设计可扩展的系统将帮助你成为一个更好的工程师。这个仓库就是整理、收集系统设计方面的资源。[中文版](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 28、[simple_os_book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chyyuu/simple_os_book)：操作系统的基本原理与简单实现的教学项目。以操作系统基本原理为教学引导，RISC-V CPU 为底层硬件基础，设计并实现一个微型但全面的“麻雀”操作系统——ucore
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
@@ -267,10 +234,10 @@ ReactDOM.render(
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/29/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/29'>这里</a>。
 </p>
 
 ## 声明

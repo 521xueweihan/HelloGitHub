@@ -6,20 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/12/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [Python 项目](#Python-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/12) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -34,16 +25,12 @@
 
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 2、[ScreenToGif](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NickeManarin/ScreenToGif)：此工具可以记录屏幕的选定区域、网络摄像头的实时图像和绘图板上的实时图像。可以编辑并将动画保存为 GIF 或视频
 
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/64713769.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 3、[sshtron](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zachlatta/sshtron)：sshtron 是通过 SSH 运行的多人贪吃蛇游戏，命令行输入：`ssh sshtron.zachlatta.com`，无需安装等待几秒即可进行游戏（因为服务器在国外，很卡😅）
@@ -78,8 +65,6 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/80465011.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 5、[fresco](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facebook/fresco)：Facebook 开源的 Android 管理图片的库，[中文文档](https://www.fresco-cn.org/docs/index.html)。包含功能如下：
 - 显示占位图直到加载完成
@@ -88,8 +73,6 @@
 - 图片不再显示时，从内存中移除
 - 等等
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 6、[octotree](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ovity/octotree)：为 GitHub 和 GitLab 网站，提供直观地显示项目目录结构的浏览器插件，效果如下：
@@ -110,8 +93,6 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/77189043.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Objective-C 项目
 10、[xbar](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/matryer/xbar)：Bitbar 是可以将任何（自己或别人写好的）脚本的**输出**到 Mac OS 的状态栏上。同时，支持自定义更新频率。例如：定时获取比特币的价格、HelloGitHub 项目的 star 数量，使用步骤如下：
 
@@ -122,8 +103,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/14376285.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 11、[mycli](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dbcli/mycli)：mycli 是一个带语法高亮、自动补全的 MySQL 命令行客户端工具。例如，连接数据库方法：`mycli -h localhost -u 用户名 数据库`
@@ -155,8 +134,6 @@ Hello Google!
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 其它
 13、[gophers](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/egonelbre/gophers)：Go 吉祥物的各种图片素材
 
@@ -166,8 +143,6 @@ Hello Google!
 
 15、[performance-column](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/barretlee/performance-column)：[阿里胡子哥](https://github.com/barretlee)写的《性能专栏》，旨在提升 PC/H5/Native 等多个端上对性能的认知，[阅读地址](https://github.com/barretlee/performance-column/issues)
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
 16、[explore-python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ethan-funny/explore-python)：《Python 之旅》，该书总结了 Python 相关的知识点，力求深入浅出、条理清晰
@@ -179,8 +154,6 @@ Hello Google!
 18、[The-Art-Of-Programming-By-July](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/julycoding/The-Art-Of-Programming-By-July)：《编程之法：面试和算法心得》
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -189,10 +162,10 @@ Hello Google!
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/12/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/12'>这里</a>。
 </p>
 
 ## 声明

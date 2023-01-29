@@ -6,20 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/16/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Python 项目](#Python-项目)
-- [其它](#其它)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/16) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -32,8 +23,6 @@
 ### C 项目
 1、[Tinyhttpd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/EZLippi/Tinyhttpd)：一个不到 500 行的超轻量型 HTTP Server，可以用来理解服务器程序的原理和本质。快看 C语言 的入门级项目！
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C# 项目
 2、[VerificationCode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eatage/VerificationCode)：滑动验证码 Demo，示例代码如下：
@@ -88,8 +77,6 @@ namespace WeixinSDK.Test.Fake
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 4、[RedisDesktopManager](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RedisInsight/RedisDesktopManager)：Redis 桌面管理工具
 
@@ -101,15 +88,11 @@ namespace WeixinSDK.Test.Fake
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/70038437.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Go 项目
 6、[excelize](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/qax-os/excelize)：操作 XLSX 文件，支持 Microsoft Excel™ 2007 以更高版本
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/66841911.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
 7、[android-interview-questions-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/stormzhang/android-interview-questions-cn)：很全面、高质量 Android 面试指南
@@ -129,8 +112,6 @@ namespace WeixinSDK.Test.Fake
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/61623700.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 10、[APlayer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DIYgod/APlayer)：漂亮的 HTML5 音乐播放器
@@ -157,8 +138,6 @@ namespace WeixinSDK.Test.Fake
 14、[mvvm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DMQ/mvvm)：剖析 vue 实现原理，了解 vue 的双向数据绑定原理以及核心代码模块，自己动手实现简易版 mvvm
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Python 项目
 15、[getproxy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fate0/getproxy)：极简的抓取代理项目，无需配置。不仅提供了获取代理脚本，同时可以通过[该页面](https://github.com/fate0/proxylist/blob/master/proxy.list)，直接获取可用代理（15min 更新、类型包含http和https）
 
@@ -173,8 +152,6 @@ namespace WeixinSDK.Test.Fake
 
 18、[syncPlaylist](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Denon/syncPlaylist)：在网易云音乐与 QQ 音乐之间同步歌单。易于使用、配置方便、代码简单，用到的技术：`requests` + `beautifulsoup` 以及 `selenium` + `phantomjs`
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 19、[Bash-Snippets](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alexanderepstein/Bash-Snippets)：实用、有趣的 shell 脚本集合
@@ -192,16 +169,12 @@ namespace WeixinSDK.Test.Fake
 23、[You-Dont-Need-jQuery](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/camsong/You-Dont-Need-jQuery)：前端发展很快，现代浏览器原生 API 已经足够好用。有些场景下我们并不需要为了操作 DOM、Event 等再学习一下 jQuery 的 API，该项目总结了大部分 jQuery API 替代的方法，[中文](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 机器学习
 24、[ncnn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/ncnn)：腾讯开源的一个为手机端极致优化的高性能神经网络前向计算框架
 
 
 25、[tutorials](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MorvanZhou/tutorials)：机器学习入门教程，十分详细包含视频教程、文字教程
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
@@ -211,10 +184,10 @@ namespace WeixinSDK.Test.Fake
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/16/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/16'>这里</a>。
 </p>
 
 ## 声明

@@ -6,21 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/35/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C# 项目](#C-项目)
-- [C++ 项目](#C-项目-1)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [Python 项目](#Python-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/35) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -36,13 +26,9 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/121049045.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 2、[FLIF](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FLIF-hub/FLIF)：免费、新颖的无损图像格式。压缩比方面优于 PNG、lossless WebP、lossless BPG、lossless JPEG2000 等格式
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 3、[1m-go-websockets](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eranyanay/1m-go-websockets)：该项目演示了如何用 Go 编写一个可以提供超过一百万个 websockets 连接、运行内存小于 1GB 的服务器。`setup.sh` 是用来创建 websocket 客户端的，`destroy.sh` 则用来销毁客户端
@@ -111,8 +97,6 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/165092572.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 7、[APIJSON](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/APIJSON)：快速开发 API 服务的框架。为简单的增删改查、复杂的查询、简单的事务操作提供了完全自动化的 API。大部分 HTTP 请求后端再也不用写接口了，也不用写文档了，适合中小型前后端分离的项目
 
@@ -141,8 +125,6 @@ $ bash halo-cli.sh -u
 
 10、[SpringBoot-Learning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dyc87112/SpringBoot-Learning)：Spring Boot 教程
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 11、[ant-design-vue](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vueComponent/ant-design-vue)：Ant Design 的 Vue 实现，该项目已经得到 [Ant Design 官方](https://vue.ant.design/docs/vue/introduce-cn/)认可
@@ -189,13 +171,9 @@ Rainbow.extend('javascript', [
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Objective-C 项目
 16、[iWeChat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lefex/iWeChat)：还原、探索微信 APP 的项目。通过该项目借鉴、学习微信客户端开发的相关设计与技术，也可以学到如何分析一个第三方 APP 的方法
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 17、[ruia](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/howie6879/ruia)：基于 asyncio 和 aiohttp 的 Python3 异步爬虫框架。它具有容易上手、非阻塞、扩展性强等特点，实例代码：
@@ -226,8 +204,6 @@ if __name__ == '__main__':
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/119708446.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 其它
 19、[devhub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/devhubapp/devhub)：支持 Android、iOS、Web、Desktop 的 GitHub 管理通知客户端。能够帮你方便地接收、查看、管理 GitHub 消息、动态等
 
@@ -250,8 +226,6 @@ if __name__ == '__main__':
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/164782828.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 24、[cppwasm-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/3dgen/cppwasm-book)：《C/C++ 面向 WebAssembly 编程》，[在线阅读](https://3dgen.cn/cppwasm-book/)
 
@@ -261,8 +235,6 @@ if __name__ == '__main__':
 
 26、[You-Dont-Know-JS](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/getify/You-Dont-Know-JS)：（英文）深入探讨 JavaScript 语言核心机制的书籍，适用于深入学习 JS。该书已出版，但在线阅读免费
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 27、[deep-learning-drizzle](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kmario23/deep-learning-drizzle)：世界计算机名校的深度学习、强化学习、机器学习、计算机视觉、自然语言处理等方面的公开课
@@ -290,8 +262,6 @@ doc.sentences[0].print_dependencies()
 30、[Tensorflow-Cookbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/taki0112/Tensorflow-Cookbook)：易学易用的 Tensorflow 教程
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -300,10 +270,10 @@ doc.sentences[0].print_dependencies()
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/35/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/35'>这里</a>。
 </p>
 
 ## 声明

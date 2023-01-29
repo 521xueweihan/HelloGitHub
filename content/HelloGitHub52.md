@@ -6,21 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/52/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [Python 项目](#Python-项目)
-- [其它](#其它)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/52) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -39,15 +29,11 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/124174311.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 3、[perfview](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/perfview)：微软开源的性能分析工具。配套的教程[视频](https://channel9.msdn.com/Series/PerfView-Tutorial)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/33010673.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 4、[GuiLite](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/idea4good/GuiLite)：引用方便的 C++ 全平台 GUI 库。能够使用在 PC 端、移动设备、物联网设备甚至是没有操作系统的单片机，还支持多种开发语言和三方库
@@ -79,8 +65,6 @@ int main()
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Go 项目
 6、[algo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hoanhan101/algo)：Golang 程序员面试中的问题和解答集合。该项目目前完成了大部分的数据结构和算法部分，准备相关面试的小伙伴可以阅读学习起来了
 
@@ -103,8 +87,6 @@ int main()
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/13624859.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
 10、[FlappyBird](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kingyuluk/FlappyBird)：Java 标准库实现的 Flappy Bird。优化了游戏难度并加入移动型水管，增加可玩性。没有采用第三方库和游戏引擎、项目结构简单、代码注释完整，适合 Java 初学者做为编程入门实战项目
@@ -137,8 +119,6 @@ int main()
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/88970564.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 15、[apidoc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apidoc/apidoc)：根据代码中的注释生成 RESTful 风格的 API 文档。注释示例：
@@ -176,15 +156,11 @@ int main()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/115446081.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Objective-C 项目
 20、[Zebra](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zbrateam/Zebra)：用于越狱的 iOS 设备的软件包管理器
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/154848478.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 21、[ar-cutpaste](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cyrildiagne/ar-cutpaste)：AR 拷贝实物照片到 PS 软件的工具。它可以通过 iPhone 或者 Android 手机将真实物品从周围环境中抠出来，并粘贴到 Photoshop 中，未来还会支持其它软件
@@ -214,8 +190,6 @@ SECRET_KEY = os.getenv("EMAIL")
 DATABASE_PASSWORD = os.getenv("DATABASE_PASSWORD")
 ```
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 24、[analytics](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/plausible/analytics)：一个开源的轻量级 Web 访问分析工具。如果你不想侵犯用户的隐私，只获取自己网站访问的基本数据，可以试试这个项目，用来代替谷歌分析
@@ -259,15 +233,11 @@ DATABASE_PASSWORD = os.getenv("DATABASE_PASSWORD")
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/60187911.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 机器学习
 31、[3d-photo-inpainting](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vt-vl-lab/3d-photo-inpainting)：一个把单张静态照片转化成 3D 图片的项目。快来尝鲜啦，不要等朋友圈 3D 照片刷屏后才“后知后觉”
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/254127753.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
@@ -277,10 +247,10 @@ DATABASE_PASSWORD = os.getenv("DATABASE_PASSWORD")
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/52/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/52'>这里</a>。
 </p>
 
 ## 声明

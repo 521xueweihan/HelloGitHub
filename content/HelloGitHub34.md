@@ -6,21 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/34/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C++ 项目](#C-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/34) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -35,8 +25,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/101305947.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 2、[color](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gookit/color)：Golang 的命令行色彩使用库。拥有丰富的色彩渲染输出、通用的 API 方法、兼容 Windows 系统
@@ -101,8 +89,6 @@ adduser {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/157105804.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 7、[DevUtils](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/afkT/DevUtils)：Android 工具库，注释规范、API文档清晰明了、工具类种类多。根据不同功能模块封装，方便使用。帮助开发人员，便捷、快速地开发安全、可靠的项目。内置部分常用的资源文件，如 color.xml、layout.xml 等
 
@@ -119,8 +105,6 @@ String aStr = Convert.toStr(a);
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/149297934.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 10、[axial3d](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bestvist/axial3d)：实现了类似 GitHub 404 页面的动画效果。效果有趣，使用场景较多，并且实现了组件化，示例代码：
@@ -228,8 +212,6 @@ render(<my-counter />, 'body')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/150964385.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Objective-C 项目
 17、[Karabiner-Elements](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pqrs-org/Karabiner-Elements)：一款 macOS 的强大的修键软件
 
@@ -238,8 +220,6 @@ render(<my-counter />, 'body')
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/132914.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
 19、[laravel-s](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hhxsv5/laravel-s)：用于快速集成 [Swoole](https://www.swoole.com/) 到 [Laravel](https://laravel.com/)，开箱即用。特点：
@@ -252,8 +232,6 @@ render(<my-counter />, 'body')
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/117649937.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 20、[awesome-python-applications](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mahmoud/awesome-python-applications)：（英文）介绍 Python 有趣、神奇的开源项目。目前涵盖多个领域、项目丰富
@@ -300,13 +278,9 @@ Hello, Click!
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/162998479.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 25、[iOS-Developer-Roadmap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BohdanOrlov/iOS-Developer-Roadmap)：（英文） iOS 开发者学习路线图
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 26、[algorithm-visualizer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/algorithm-visualizer/algorithm-visualizer)：一个交互式算法可视化网站。你可以自由选择自己想学习的算法，每个算法它都清晰描绘了其原理和运作过程
@@ -317,8 +291,6 @@ Hello, Click!
 
 28、[Visual-Studio-Code-Keymap-CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OrvilleQ/Visual-Studio-Code-Keymap-CN)：VS Code 编辑器官方快捷键查图汉化版
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 29、[RecommenderSystem-Paper](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/daicoolb/RecommenderSystem-Paper)：推荐系统论文整理列表，包括了行业顶尖会议 AAAI、NIPS 等发表的论文，以及 KDD 一些获奖论文。方便推荐系统方向以及文本表示方向等研究人员，跟踪阅读行业内经典论文和最新研究方向
@@ -365,8 +337,6 @@ segments_tensors = torch.tensor([segments_ids])
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -375,10 +345,10 @@ segments_tensors = torch.tensor([segments_ids])
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/34/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/34'>这里</a>。
 </p>
 
 ## 声明

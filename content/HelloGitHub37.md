@@ -6,22 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/37/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C# 项目](#C-项目)
-- [C++ 项目](#C-项目-1)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Python 项目](#Python-项目)
-- [Ruby 项目](#Ruby-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/37) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -37,15 +26,11 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/28452273.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 2、[tinytetris](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/taylorconor/tinytetris)：一个用 C++ 编写的终端版俄罗斯方块游戏。提供了两个版本的源码，分为注释版和库版，注释较多易于理解和学习
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/178619111.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 3、[akutan](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eBay/akutan)：eBay 开源的分布式图数据库，少数依然支持 SparQL 的图数据库
@@ -71,8 +56,6 @@ from node:alpine - 66.7MB => 34.7MB (缩减了 1.92 倍)
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 7、[cim](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/crossoverJie/cim)：一款面向开发者的 IM 即时通讯系统。命令行通讯工具，对开发者友好。提供了一些组件让开发者易于扩展和定制功能。架构图如下：
 
@@ -96,8 +79,6 @@ from node:alpine - 66.7MB => 34.7MB (缩减了 1.92 倍)
 
 10、[SpringAll](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wuyouzhuguli/SpringAll)：Spring 系列源码教程，包含 Spring Boot、Spring Boot、Spring Cloud 等。Spring 是 Java 目前生命力最强的框架之一，通过资料与源码的配合，容易学习和上手
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 11、[emoji-minesweeper](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/muan/emoji-minesweeper)：Emoji 符号的扫雷游戏。代码很简短，游戏创意很酷。寥寥 300+ 行代码实现该游戏，简短易于初学者学习
@@ -134,8 +115,6 @@ const player = new Player({
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/164386930.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 16、[ffmpeg-python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kkroening/ffmpeg-python)：FFmpeg 是一套可以用来记录、转换数字音频、视频，并能将其转化为流的开源计算机程序。这个是其 Python 的库，可以用该库操作、处理视频和音频。示例代码：
@@ -175,8 +154,6 @@ pyxel.run(update, draw)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/136780445.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Ruby 项目
 19、[githubchart-api](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/2016rshah/githubchart-api)：根据 GitHub 账号的贡献记录生成对应图像。一行代码，可以在任何网站展示自己在 GitHub 上的贡献活跃图标。示例代码：
 ```
@@ -189,15 +166,11 @@ pyxel.run(update, draw)
 20、[guides](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/thoughtbot/guides)：Ruby 编程风格指南。统一的格式风格有利于代码的维护和迭代，对于 Ruby 使用者而言帮助极大
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 21、[GodEye](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zixun/GodEye)：一行代码自动显示日志、崩溃、网络、ANR、泄漏、CPU、文件夹等信息，就像上帝睁开眼睛一样
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/83022668.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 22、[awesome-scalability](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/binhnguyennus/awesome-scalability)：一个系统的阅读列表，描述了可扩展、高可用、高性能的大型系统背后的东西。每部分都是基于真实案例，讲述了如何搭建一个可扩展、高可用、高性能的大型系统，案例都是来自于经过数百万甚至数十亿用户实战检验的系统。对于所有工程师而言都是一个很好的学习资料，开卷有益
@@ -221,16 +194,12 @@ pyxel.run(update, draw)
 28、[zju-icicles](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/QSCTech/zju-icicles)：浙江大学各种课程相关资源集合。包含：课程、作业、答案、复习资料、选课攻略等，是浙大在校生的必备资源，对于有考研想法的小伙伴而言也是很好的资源
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 29、[prometheus-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yunlzheng/prometheus-book)：《Prometheus 操作指南》，[在线阅读](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart/why-monitor)
 
 
 30、[the-craft-of-selfteaching](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/selfteaching/the-craft-of-selfteaching)：《自学是门手艺》一个编程入门者的自学心得。如今学习资源很多，对于初学者入门而言，最难的是如何自学，阅读本书打开编程自学大门吧
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 31、[FaceDetection-DSFD](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/FaceDetection-DSFD)：腾讯优图的双分支人脸检测器全新算法，该算法已经被计算机视觉顶级会议 CVPR 2019 接收。优图此次提出的 DSFD 人脸检测算法，主要有 3 点创新：
@@ -256,8 +225,6 @@ pyxel.run(update, draw)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/175539152.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -266,10 +233,10 @@ pyxel.run(update, draw)
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/37/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/37'>这里</a>。
 </p>
 
 ## 声明

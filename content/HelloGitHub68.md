@@ -6,24 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/68/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Python 项目](#Python-项目)
-- [Rust 项目](#Rust-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/68) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -49,8 +36,6 @@ ag test_blah ~/code(8G)/  4.67s user 4.58s system 286% cpu 3.227 total
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/214011414.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 4、[NETworkManager](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BornToBeRoot/NETworkManager)：管理和解决网络问题的工具。它集成了 IP 和端口扫描、WiFi 分析器、跟踪路由、DNS 查询等工具
 
@@ -61,8 +46,6 @@ ag test_blah ~/code(8G)/  4.67s user 4.58s system 286% cpu 3.227 total
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/154741914.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 6、[leocad](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/leozide/leocad)：用来创建虚拟乐高模型的 CAD 工具。适用于 Windows、Linux 和 macOS 系统
@@ -75,15 +58,11 @@ ag test_blah ~/code(8G)/  4.67s user 4.58s system 286% cpu 3.227 total
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/6486826.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 8、[csshake](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/elrumordelaluz/csshake)：用 CSS 实现抖动效果
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/17179843.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 9、[caddy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/caddyserver/caddy)：用 Go 编写的轻量级 Web 服务器。它相较于 Apache、Nginx 这些知名 Web 服务器，独特点在于提供了编译好的可执行文件，实现了真正的开箱即用。无需任何配置即可拥有免费的 HTTPS、自动把 Markdown 文件转化成 HTML 等人性化的功能。如果是搭建中小型的 Web 服务，它完全够用而且省时省心
@@ -100,8 +79,6 @@ ag test_blah ~/code(8G)/  4.67s user 4.58s system 286% cpu 3.227 total
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/422821402.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
 12、[greenDAO](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/greenrobot/greenDAO)：高性能的 Android ORM 库。拥有体积小、易于使用、支持数据库加密等特点，通过它 Android 开发者可以采用面向对象的方式操作数据库，不需要再手写和拼接 SQL 啦
@@ -144,8 +121,6 @@ public class GlobalMouseWheelListenerExample implements NativeMouseWheelListener
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/250512612.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### JavaScript 项目
 15、[automa](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AutomaApp/automa)：通过图形化界面拖拽功能模块，实现浏览器自动操作的扩展工具。轻松实现自动填表、截图、定时执行等操作。让浏览器自动完成预设工作流的插件，从而减少重复性操作提高效率
 
@@ -166,8 +141,6 @@ public class GlobalMouseWheelListenerExample implements NativeMouseWheelListener
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/417768406.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 19、[django-debug-toolbar](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jazzband/django-debug-toolbar)：Django 的调试工具栏。可显示当前请求和响应有关的各种调试信息，包括耗时、SQL、配置、性能等信息
@@ -241,23 +214,17 @@ RedisList[1, 4, 9, 16, 25]
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/43160685.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Rust 项目
 24、[hyperfine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sharkdp/hyperfine)：命令行基准测试工具。可用来查看和对比命令的耗时，支持多次运行的统计分析、结果导出等功能
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/117356231.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 25、[xcode-dev-cleaner](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vashpan/xcode-dev-cleaner)：用于清理各种 Xcode 的缓存数据，释放存储空间。注意是清除 Xcode 缓存数据，不是卸载 Xcode 哈
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/132659513.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 26、[fl_chart](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/imaNNeo/fl_chart)：Flutter 图表库。它支持折线图、条形图、饼图、散点图和雷达图
@@ -290,16 +257,12 @@ RedisList[1, 4, 9, 16, 25]
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/280882811.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 32、[archbase](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/foxsen/archbase)：教科书《计算机体系结构基础》第三版。[在线阅读](https://foxsen.github.io/archbase/)
 
 
 33、[ugo-compiler-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wa-lang/ugo-compiler-book)：《从头开发一个迷你 Go 语言》该书教你从头实现迷你 Go 语言，内容包含了词法解析、语法树构建、函数闭包、接口、CGO 的实现等内容。[在线阅读](https://chai2010.cn/ugo-compiler-book/ch1-basic/index.html)
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 34、[AnimeGANv2](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TachibanaYoshino/AnimeGANv2)：可以将图片和视频转换成漫画风格的工具。采用的是神经风格迁移+生成对抗网络（GAN）的组合，转换速度快。[在线尝试](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
@@ -312,8 +275,6 @@ RedisList[1, 4, 9, 16, 25]
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/425298533.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -322,10 +283,10 @@ RedisList[1, 4, 9, 16, 25]
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/68/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/68'>这里</a>。
 </p>
 
 ## 声明

@@ -6,23 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/61/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Rust 项目](#Rust-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/61) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -67,8 +55,6 @@ static void compress_orDie(const char* fname, const char* oname)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/29759715.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 3、[Files](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/files-community/Files)：一个全新的文件管理器。采用 Fluent Design 和 Windows 平台最新的 API 实现，简约但不简单
 
@@ -79,8 +65,6 @@ static void compress_orDie(const char* fname, const char* oname)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/542714.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 5、[algorithm-pattern](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/greyireland/algorithm-pattern)：LeetCode 刷题集合项目。项目从 Go 语言入门讲起，总结了一套刷题模板和解题套路，示例代码为 Go 语言
@@ -126,8 +110,6 @@ cat test.json | jql '(elem "countries" (elem (keys) (elem "name")))'
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 10、[flink-recommandSystem-demo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/will-che/flink-recommandSystem-demo)：一个基于 Flink 实现的商品实时推荐系统。可以通过这个项目了解和学习推荐系统的设计和流程，该系统是通过 Flink 处理日志和统计商品热度，将处理好的数据放入 Redis 缓存。然后再将画像标签和实时记录放入 HBase。在用户请求获取推荐时，根据用户画像生成商品热度榜，并结合协同过滤和标签两个推荐模块，返回最终生成的商品推荐列表
 
@@ -148,8 +130,6 @@ cat test.json | jql '(elem "countries" (elem (keys) (elem "name")))'
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/6220644.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 14、[drawio](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jgraph/drawio)：一款简洁强大的绘图工具。免费开源可以自行部署也可以[在线使用](https://app.diagrams.net/)，功能上直追 Microsoft Visio。支持流程图、序列图、网络拓扑图、甘特图、思维导图、模型图等，还能导出多种格式类型比如 png、svg、PDF、HTML 和 VSDX 格式（Microsoft Visio 图形格式）
@@ -177,8 +157,6 @@ cat test.json | jql '(elem "countries" (elem (keys) (elem "name")))'
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/270208710.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### PHP 项目
 19、[question2answer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/q2a/question2answer)：采用 PHP+MySQL 实现的免费开源的问答平台。基本上问答平台该有的功能它都有，那么问题来了是做个知乎还是 Stack Overflow 呢？
 - 支持回答投票、评论、最佳回答、关注和关闭问题
@@ -189,8 +167,6 @@ cat test.json | jql '(elem "countries" (elem (keys) (elem "name")))'
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/2916562.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 20、[apkleaks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dwisiswant0/apkleaks)：扫描 APK 文件是否包含敏感信息的命令行工具
@@ -221,8 +197,6 @@ $ apkleaks -f /path/to/file.apk -p rules.json -o ~/Documents/apkleaks-results.tx
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/233500493.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Rust 项目
 24、[fselect](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jhspetersson/fselect)：用类 SQL 的命令查找文件的命令行工具
 ```
@@ -231,8 +205,6 @@ fselect size, abspath from ./tmp where size gt 2g
 fselect hsize, abspath from ./tmp where size lt 8k
 ```
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
 25、[awesome-ios](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vsouza/awesome-ios)：超棒的 iOS 开源项目集合。它非常全面包含 Objective-C、Swift 语言的项目，拥有网络、UI、JSON、数据库、音视频等分类，iOS 初学者寻找开源项目的好地方
@@ -249,8 +221,6 @@ fselect hsize, abspath from ./tmp where size lt 8k
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/190091793.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 28、[cloudmusic-vscode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/YXL76/cloudmusic-vscode)：网易云音乐 VS Code 插件。基于网易云网页 API 实现，支持：
@@ -274,8 +244,6 @@ fselect hsize, abspath from ./tmp where size lt 8k
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/255365829.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 31、[Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)：《黑客的贝叶斯方法：以 Python 为例》
 
@@ -288,8 +256,6 @@ fselect hsize, abspath from ./tmp where size lt 8k
 33、[The-design-and-implementation-of-a-64-bit-os](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yifengyou/The-design-and-implementation-of-a-64-bit-os)：《一个 64 位操作系统的设计与实现》
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 机器学习
 34、[AI-Expert-Roadmap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AMAI-GmbH/AI-Expert-Roadmap)：人工智能学习路线图
 
@@ -301,8 +267,6 @@ fselect hsize, abspath from ./tmp where size lt 8k
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/241217584.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -311,10 +275,10 @@ fselect hsize, abspath from ./tmp where size lt 8k
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/61/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/61'>这里</a>。
 </p>
 
 ## 声明

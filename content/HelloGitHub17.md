@@ -6,21 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/17/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C# 项目](#C-项目)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Kotlin 项目](#Kotlin-项目)
-- [Python 项目](#Python-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/17) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -39,15 +29,11 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/17/30474266.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 3、[bulma](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jgthms/bulma)：UI框架，样式比 Bootstrap 更加扁平化。源码文件结构清晰，通过源码可以学到 UI 框架架构。[使用 bulma 的网站展示](http://bulma.io/expo/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/17/50264296.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 4、[casbin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/casbin/casbin)：访问控制开源库，支持 ACL/RBAC/ABAC 等访问控制模型，支持 MySQL/NoSQL 等存储方式
@@ -57,8 +43,6 @@
 
 5、[jwt-go](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dgrijalva/jwt-go)：Golang 实现 JSON Web Tokens (JWT)
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
 6、[elasticsearch-sql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NLPchina/elasticsearch-sql)：用 SQL 查询 Elasticsearch
@@ -75,8 +59,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/17/65073648.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 9、[gka](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gkajs/gka)：简单、高效的帧动画生成工具，图片处理工具。
@@ -105,15 +87,11 @@
 13、[wtfjs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/denysdovhan/wtfjs)：JavaScript 有趣和棘手（坑爹？）的示例
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Kotlin 项目
 14、[Eyepetizer-in-Kotlin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LRH1993/Eyepetizer-in-Kotlin)：一款使用 kotlin 语言开发的 App。适合初学者作为学习 kotlin 语言的一个项目，可以在做项目的同时体验到 kotlin 语言的优点
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/17/95836274.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 15、[huey](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/coleifer/huey)：结合 redis 实现的轻量任务队列，但是支持功能还是很多的：
@@ -141,8 +119,6 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/17/62032720.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 其它
 20、[games](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/leereilly/games)：GitHub 上游戏项目的合集
 
@@ -159,8 +135,6 @@
 24、[sec-chart](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SecWiki/sec-chart)：安全思维导图集合
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 25、[pandas-cookbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jvns/pandas-cookbook)：pandas cookbook（英文）
 
@@ -168,16 +142,12 @@
 26、[tensorflow_cookbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nfmcclure/tensorflow_cookbook)：Tensorflow cookbook（英文）
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 机器学习
 27、[EffectiveTensorflow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vahidk/EffectiveTensorflow)：TensorFlow 最佳实践
 
 
 28、[TensorFlow-World](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/astorfi/TensorFlow-World)：简单易用的 TensorFlow 教程
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
@@ -187,10 +157,10 @@
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/17/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/17'>这里</a>。
 </p>
 
 ## 声明

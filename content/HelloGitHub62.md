@@ -6,26 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/62/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Kotlin 项目](#Kotlin-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/62) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -39,8 +24,6 @@
 1、[discount](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Orc/discount)：一个用 C 语言编写的 Markdown 实现，可以轻松将 MD 文档转换为 HTML 格式
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 2、[EarTrumpet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/File-New-Project/EarTrumpet)：一款 Windows 系统上的音量控制小工具
 
@@ -52,15 +35,11 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/262395224.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 4、[incubator-kvrocks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/incubator-kvrocks)：基于 RocksDB 并兼容 Redis 协议的 NoSQL 数据库。磁盘类型的 Redis 为降低存储成本而生，存储成本可以降到 Redis 的 1/3 以上
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/202483348.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### CSS 项目
 5、[pattern.css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bansal/pattern.css)：用漂亮的图形填充背景的 CSS 库
@@ -72,8 +51,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/314513164.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 7、[bubbletea](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/charmbracelet/bubbletea)：一个强大的 TUI（文本用户界面）框架。Bubble Tea 非常适合构建复杂交互的终端应用程序，同时还能让命令行程序变得多彩和炫酷
@@ -107,8 +84,6 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/318972528.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 12、[Apktool](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iBotPeaches/Apktool)：反编译 Android 安装包 APK 文件的工具
 
@@ -117,8 +92,6 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/156317154.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 14、[amis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/baidu/amis)：通过 JSON 配置就能生成各种后台页面。这是百度开源的前端低代码框架，[中文文档](https://baidu.gitee.io/amis/zh-CN/docs/index)快速上手
@@ -141,8 +114,6 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/126505563.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Kotlin 项目
 18、[tachiyomi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tachiyomiorg/tachiyomi)：一款免费、开源的安卓漫画阅读器。支持：
 - 多种漫画源
@@ -153,23 +124,17 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/43807251.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Objective-C 项目
 19、[UTM](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/utmapp/UTM)：运行在 iOS 和 macOS 系统上的虚拟机。通过 UTM 你可以在无需“越狱”的情况下，在 iPhone 和 iPad 上运行 Windows、Linux 等操作系统
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/181042062.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### PHP 项目
 20、[github-profile-views-counter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/antonkomarev/github-profile-views-counter)：用来展示 GitHub 个人首页被访问次数的项目。使用方法：`![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)`
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/278929867.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 21、[BaoTa](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aaPanel/BaoTa)：宝塔 Linux 服务器运维管理平台。简单好用的服务器运维平台，支持一键 LNMP 安装、管理集群、网站、数据库等功能，可以有效的提高操作的规范性和安全性，降低出错概率。这个开源项目是免费版，还有付费的[专业版](https://www.bt.cn/?invite_code=MV90dXphcW0=)
@@ -219,8 +184,6 @@ def test_while_statement():
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/149430917.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 25、[Design-Patterns-In-Swift](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ochococo/Design-Patterns-In-Swift)：设计模式 Swift 5.0 实现。[中文版](https://github.com/ochococo/Design-Patterns-In-Swift/blob/master/README-CN.md)
 
@@ -242,8 +205,6 @@ x <- 42
 // alternativelyL x ^= 42, without operators: x.value = 42
 ```
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 28、[AntennaPod](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AntennaPod/AntennaPod)：一款免费、开源、没有广告的播客应用（Android 和 iOS）。由播客爱好者用爱开发和维护，支持在线播放和音频下载等功能，同时内置数以百万计的免费和付费播客源，从独立播主到大型新闻机构出版社，如 BBC、NPR 和 CNN 应有尽有，也可自行导入播客源
@@ -274,8 +235,6 @@ x <- 42
 33、[vulhub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vulhub/vulhub)：一个面向大众的开源漏洞环境集合。Vulhub 中包含了 180 余个丰富且真实的漏洞与其相应的环境，无需 Docker 知识即可通过一条简单的命令，跑起来一个存在某个漏洞的完整应用。安全研究人员能够方便地复现与研究漏洞，省去了学习复杂的部署知识、寻找有漏洞的旧版本应用、搭建依赖的服务等麻烦，从而可以快速验证修复方案
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 34、[bitcoinbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bitcoinbook/bitcoinbook)：《Mastering Bitcoin  2nd Edition》精通比特币第 2 版
 
@@ -285,15 +244,11 @@ x <- 42
 35、[python-parallel-programming-cookbook-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/laixintao/python-parallel-programming-cookbook-cn)：《Python Parallel Programming Cookbook》Python 并行编程。[在线阅读](https://python-parallel-programmning-cookbook.readthedocs.io/zh_CN/latest/)
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 机器学习
 36、[imgaug](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aleju/imgaug)：这是个图像数据增强 Python 库。数据集的数量和质量对于机器学习很重要，而数据增强就是让有限的数据集产生更多的数据，增加训练样本的数量以及多样性。imgaug 就是专为机器学习准备的图像数据增强库
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/38900806.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
@@ -303,10 +258,10 @@ x <- 42
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/62/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/62'>这里</a>。
 </p>
 
 ## 声明

@@ -6,25 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/79/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Kotlin 项目](#Kotlin-项目)
-- [Python 项目](#Python-项目)
-- [Ruby 项目](#Ruby-项目)
-- [Rust 项目](#Rust-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/79) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -43,8 +29,6 @@ masscan -p 0-65535 IP --rate=1000
 
 2、[sysbench](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/akopytov/sysbench)：基于 LuaJIT 的可编写脚本的多线程基准测试工具。多用于数据库基准测试的命令行工具，经常出现在各种知名数据库的性能对比报告中。支持丰富的测试选项，比如表数量、数据条数、生成只读 SQL 等。
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 3、[imewlconverter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/studyzy/imewlconverter)：一款开源免费的输入法词库转换程序。输入法会根据用户的输入和选词频率，形成一套符合用户输入习惯的词库，但这个词库无法直接转换到其它输入法，如果你换了输入法就需要重新习惯、养成新的词库。该项目支持 20 多种输入法的用户词库相互导入、导出以及合并词库，能够将你的输入习惯带到全新的输入法。
 
@@ -57,8 +41,6 @@ masscan -p 0-65535 IP --rate=1000
 5、[PRemoteM](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/1Remote/PRemoteM)：爽快利落的 Windows 平台远程桌面管理软件。该项目致力于提供优秀的远程桌面管理体验，通过启动器可以快速地连接到远程服务器，目前已支持 RDP、SSH、SFTP、FTP 等多种远程连接方式。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/247198136.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 6、[30dayMakeCppServer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yuesong-feng/30dayMakeCppServer)：从零编写一个 C++ 服务器的教程。该项目包含图文教程和源码，讲解了 socket、epoll、线程池、CMake 等知识点，适合有一定 C/C++ 基础的小伙伴学习。
@@ -74,8 +56,6 @@ masscan -p 0-65535 IP --rate=1000
 9、[srs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ossrs/srs)：一款简单、高效的实时视频服务器。高性能的流媒体服务器，支持 RTMP、WebRTC、HLS 和 HTTP-FLV 等协议，常用来构建直播和视频会议的后端服务。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/34777562.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 10、[env](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/caarlos0/env)：用于解析环境变量的 Go 语言库。一般情况下项目启动时需要的配置参数，都是通过环境变量传递的。该项目就是 Go 语言用来解析环境变量的库，它简单、体积小、零依赖。
@@ -141,8 +121,6 @@ trivy image [YOUR_IMAGE_NAME]
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/180687624.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 15、[GoodWeather](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lilongweidev/GoodWeather)：从零开发 Android 天气 APP。该项目介绍了如何开发一款支持天气预报、城市搜索、空气质量、自动更新等功能的 Android 应用，内含源码和配套讲解博文。
 
@@ -155,8 +133,6 @@ trivy image [YOUR_IMAGE_NAME]
 17、[spring-cloud-tencent](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/spring-cloud-tencent)：腾讯开源的一站式微服务解决方案。基于 Spring Cloud 的服务治理框架，提供了微服务领域常见的服务注册与发现、配置中心、服务路由、限流熔断以及元数据链路透传等能力。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/390607649.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 18、[ava](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/avajs/ava)：可以并发执行 JavaScript 测试的工具。这是一款 Node.js 的测试运行工具，拥有简洁的 API、详细的错误输出、较高的执行效率等特点。
@@ -179,14 +155,10 @@ trivy image [YOUR_IMAGE_NAME]
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/320299900.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Kotlin 项目
 23、[uhabits](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iSoron/uhabits)：一款帮助建立和维持好习惯的应用。该软件完全免费、支持中文、无广告和内购，在 Google 应用商店上有 500 万的下载量。首先用户需要在 APP 上新建一个习惯，可以设置频率、量化任务、提醒时间等，每当完成一次习惯就在应用上做一个标记，后面会有详细的图表展示习惯养成情况。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/26357991.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 24、[latexify_py](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/latexify_py)：用于生成 LaTeX 数学公式的 Python 库。LaTeX 是一种基于 ΤΕΧ 的排版系统，对于展示复杂的数学公式表现极为出色。该项目可以用 Python 函数，轻松生成复杂的 LaTeX 数学公式描述。
@@ -248,8 +220,6 @@ while True:
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/474839179.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Ruby 项目
 29、[linguist](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/github/linguist)：GitHub 官方开源的识别项目编程语言的库。该项目是 GitHub.com 网站上，用于检测开源项目编程语言占比的库。
 ```shell
@@ -268,8 +238,6 @@ github-linguist
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/1725199.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Rust 项目
 30、[atuin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ellie/atuin)：神奇的 shell 历史记录工具。该项目通过 SQLite 数据库存储 shell 历史，能够显示更多的 shell 历史、命令运行时间、执行时间等信息，还支持选择、过滤、统计、同步/备份等操作。
 ```
@@ -280,8 +248,6 @@ atuin search --exit 0 --after "yesterday 3pm" make
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/301244405.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 31、[this-week-in-rust](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rust-lang/this-week-in-rust)：Rust 语言社区的每周摘要。该项目是由 Rust 社区发起，每周发布一期 Rust 相关动态，包括 Rust 语言的文章、视频、音频、开源项目分享，以及本周的更新(PR)、RFC(征求意见)和开发进度。
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
 32、[isowords](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pointfreeco/isowords)：3D 魔方单词消消乐游戏。这是一款用 Swift 编写的 iOS 游戏，玩家可以选择 3D 立方体上的字母组成英文单词，如果一个字母被使用 3 次，该字母立方体就会消失，显示下面更多的字母。支持限时、无限、多人三种游戏模式，以及每日挑战和全球排行榜。
@@ -304,8 +270,6 @@ Benchmark.main()
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/262342606.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 34、[code2flow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/scottrogowski/code2flow)：为动态语言生成调用图的工具。可根据源码文件生成漂亮的调用图的命令行工具，支持 Python、JavaScript、Ruby 等动态语言。
@@ -353,8 +317,6 @@ code2flow 文件
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/21385916.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 39、[craftinginterpreters](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/munificent/craftinginterpreters)：《Crafting Interpreters》手撸解释器。该书作者在 Google 从事 Dart 语言的相关工作，书中内容是从一门小型自创编程语言 Lox 开始，详细介绍了如何为该语言制作解释器和虚拟机，推荐给想要学习编译原理或自创编程语言的同学。
 
@@ -363,8 +325,6 @@ code2flow 文件
 40、[ThinkDSP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AllenDowney/ThinkDSP)：《Think DSP》Python 数字信号处理。本书内容是将 Python 代码和数字信号处理结合，相较于干巴巴的文字，通过代码示例更容易理解相关概念，该书作者还著有《Think Python》等图书。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/12089444.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 41、[motion-diffusion-model](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/GuyTevet/motion-diffusion-model)：根据文本生成 3D 人体运动的模型。论文《Human Motion Diffusion Model》第一作者开源的 PyTorch 实现。
@@ -386,8 +346,6 @@ print(result["text"])
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/537603333.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -396,10 +354,10 @@ print(result["text"])
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/79/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/79'>这里</a>。
 </p>
 
 ## 声明

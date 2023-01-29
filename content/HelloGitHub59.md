@@ -6,22 +6,11 @@
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/59/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/59) 换一种浏览方式。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
@@ -37,23 +26,17 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/77920383.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 2、[tilt-brush](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/googlevr/tilt-brush)：Google 开源的 VR 绘图工具。用它可以在虚拟三维空间中创作各种作品，支持主流的 VR 设备
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/255415824.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 3、[winmerge](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/WinMerge/winmerge)：一个用 C++ 编写的 Windows 比较和合并工具。它可以比较文件和文件夹，以直观的可视化格式来显示两者甚至三者之间的差异，操作简单
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/26494018.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 4、[bild](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/anthonynsimon/bild)：纯 Go 实现的多种图像处理算法库。示例代码：
@@ -99,8 +82,6 @@ func main() {
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/325724738.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
 8、[dbeaver](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dbeaver/dbeaver)：支持主流数据库的桌面管理工具。一款用 Java 写的数据库管理工具，只要是 JDBC 支持的数据库它都支持。虽然分免费社区版和付费企业版，但是免费的功能其实已经够用啦
@@ -148,8 +129,6 @@ StpUtil.switchTo(10044);                // 将当前会话身份临时切换为�
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### JavaScript 项目
 13、[folio-2019](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/brunosimon/folio-2019)：一个开源的 3D 博客项目。这个博客我点进去后就惊呆了，用户可通过操控一辆小汽车选择要阅读的文章，过程中还有汽车的声音和砖块碰撞的效果等，特别炫酷！快去体验下吧！[点击尝试](https://bruno-simon.com/)
 
@@ -182,15 +161,11 @@ StpUtil.switchTo(10044);                // 将当前会话身份临时切换为�
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/13502197.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### PHP 项目
 18、[actionview](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lxerxa/actionview)：一个类 Jira 的开源问题需求跟踪平台。前端基于 React＋Redux 后端采用 PHP 的 Laravel 框架实现
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/64629613.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 19、[alive-progress](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rsalmei/alive-progress)：新！Python 炫酷进度条项目。支持 Python2.7-3.8 示例代码：
@@ -282,8 +257,6 @@ def test_iana():
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 24、[Maccy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/p0deje/Maccy)：适用于 macOS 的轻量级剪贴板管理工具。支持复制内容的历史记录、快速搜索、快捷键选择等
 
@@ -314,8 +287,6 @@ try db.run(users.create { t in
 // )
 ```
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 26、[AndroidSDK](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/thyrlian/AndroidSDK)：包含完整 Android SDK 运行环境的 Docker 镜像。适用于各种 Android 持续集成场景，甚至包括模拟器运行应用、界面自动化测试，也可以连接云端进行自动化测试。Android 构建的容器镜像解决方案之一（不违法许可协议的方案），并在 Docker 官方的 DockerCon EU 2017 进行过宣讲
@@ -356,15 +327,11 @@ try db.run(users.create { t in
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/331603334.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 机器学习
 34、[avatarify-python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alievk/avatarify-python)：视频会议实时换脸工具。利用机器学习训练的模型，通过捕捉人脸动作并与图片相结合进行实时渲染的方式，达到实时换脸的效果。支持 OBS、Zoom、Skype、Teams、Slack 等直播和会议软件
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/253601257.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
@@ -374,10 +341,10 @@ try db.run(users.create { t in
 
 ---
 <p align="center">
-    👉 <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/59/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/59'>这里</a>。
 </p>
 
 ## 声明
