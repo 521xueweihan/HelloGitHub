@@ -6,9 +6,7 @@
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png"><img src="https://img.shields.io/badge/Talk-%E5%BE%AE%E4%BF%A1%E7%BE%A4-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
-  <a href="https://github.com/521xueweihan/HelloGitHub/stargazers"><img src="https://img.shields.io/github/stars/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub stars"></a>
-  <a href="https://github.com/521xueweihan/HelloGitHub/issues"><img src="https://img.shields.io/github/issues/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub issues"></a>
-    <a href="https://weibo.com/hellogithub"><img src="https://img.shields.io/badge/%E6%96%B0%E6%B5%AA-Weibo-red.svg?style=popout-square" alt="Sina Weibo"></a>
+  <a href="https://weibo.com/hellogithub"><img src="https://img.shields.io/badge/%E6%96%B0%E6%B5%AA-Weibo-red.svg?style=popout-square" alt="Sina Weibo"></a>
 </p>
 
 ## 简介
@@ -71,6 +69,13 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/he3.png" width="60px"><br>
           <sub>He3</sub><br>
           <sub>开发者必备工具箱</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://rebrand.ly/jina-hg">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/jina_ai.png" width="60px"><br>
+          <sub>Jina AI</sub><br>
+          <sub>5 分钟解锁多模态 AI</sub>
         </a>
       </th>
     </tr>
