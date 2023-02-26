@@ -1,34 +1,19 @@
 # 《HelloGitHub》第 78 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/78/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [C++ 项目](#C-项目-2)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Ruby 项目](#Ruby-项目)
-- [Rust 项目](#Rust-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/78) 换一种浏览方式。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -44,7 +29,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/6111297.png' style="max-width:80%; max-height=80%;"></img></p>
 
-2、[CPU-X](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/X0rg/CPU-X)：一款显示电脑 CPU、主板等信息的免费工具。能够显示设备的 CPU、主板、内存、显卡、操作系统等信息，支持 GUI 和命令行两种启动方式，适用于 Linux 和 FreeBSD 操作系统。
+2、[CPU-X](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TheTumultuousUnicornOfDarkness/CPU-X)：一款显示电脑 CPU、主板等信息的免费工具。能够显示设备的 CPU、主板、内存、显卡、操作系统等信息，支持 GUI 和命令行两种启动方式，适用于 Linux 和 FreeBSD 操作系统。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/24292801.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -58,8 +43,6 @@ gifsicle -I input.gif | head
 gifsicle input.gif -O3 -o output.gif
 ```
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 4、[Text-Grab](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TheJoeFin/Text-Grab)：一个轻量级的 Windows OCR 工具。它基于 Windows 10 系统自带的 OCR API 实现，可以将看到的所有文字转化成文本，而且启动速度快、无需常驻后台、可离线使用。
 
@@ -72,8 +55,6 @@ gifsicle input.gif -O3 -o output.gif
 6、[XCharts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/XCharts-Team/XCharts)：Unity 数据可视化图表插件。一款基于 Unity UGUI 的图表插件，它功能强大、简单易用，支持折线图、柱状图、饼图、雷达图、散点图、热力图、环形图、K 线图等多种图表。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/147537593.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 7、[aseprite](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aseprite/aseprite)：开源、专业的像素画编辑软件。一款主要用于像素画和 Sprite 动画的图像编辑软件，它拥有图层、自由手绘模式、阴影墨水、自定义笔刷、轮廓线、宽像素、命令行界面、Lua 脚本等特色功能。该软件虽然专业版收费但并不贵，也可选择免费版但无法保存作品。
@@ -92,14 +73,10 @@ gifsicle input.gif -O3 -o output.gif
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/330355479.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### CSS 项目
 11、[30diasDeCSS](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MilenaCarecho/30diasDeCSS)：在 30 天内用 HTML 和 CSS 创建 30 个迷你项目的挑战。该项目包含了 30 个用 HTML+CSS 构建的迷你项目，每个项目通过动图直观地展示了实现的效果，不仅包含全部源码还指出了用到的知识点。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/279362298.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 12、[cobra](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spf13/cobra)：当下最流行的 Go CLI 框架。功能强大且极易上手的 Go 语言 CLI 库，可用于快速构建命令行程序，被 K8s、Hugo、GitHub CLI 等众多知名 Go 项目所采用，支持自动提示、自动构建项目、嵌套子命令等功能。
@@ -142,8 +119,6 @@ statsviz.Register(mux)
 16、[v2](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/miniflux/v2)：极简的 feed 订阅工具。该项目的“简”是由内而外，内部代码部分不使用 Web 框架和 ORM 仅采用 Go+PostgreSQL+JS 实现，界面朴实无华、功能精简实用，支持快速自建、源管理、自动获取内容、快捷键、用户系统等，这一切不多不少刚刚好。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/111364256.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
 17、[caffeine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ben-manes/caffeine)：Java 的高性能缓存库。借鉴了 Guava 和 ConcurrentLinkedHashMap 的设计经验，青出于蓝而胜于蓝的 Java 本地缓存库，拥有更高的缓存命中率和更快的读写速度。
@@ -197,8 +172,6 @@ public class App {
 }
 ```
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### JavaScript 项目
 21、[jsoncrack.com](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AykutSarac/jsoncrack.com)：优雅的 JSON 数据可视化工具。该项目不是简单的展示 JSON 数据，而是将其转化为类似脑图的形式，支持放大/缩小、展开/收缩、搜索节点、导出图片等操作，还可以快速部署成服务。
 
@@ -234,14 +207,10 @@ downloadFile(fileDataList, fileName, fileType) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/365739812.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### PHP 项目
 26、[Piwigo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Piwigo/Piwigo)：一款开源在线相册应用。采用 PHP+MySQL 开发的管理照片的 Web 项目，它功能强大安装简单，拥有丰富的主题和灵活的插件，可轻松完成个性化定制。支持 iOS 和 Android 客户端，让你可以随时随地上传、管理照片。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/39682214.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 27、[django-silk](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jazzband/django-silk)：Django 的性能分析工具。它可以将 Django 服务的平均耗时、请求次数、查询 SQL、代码性能分析等信息展示到一个页面，开发者有了这些信息就能够更快地找到 Django 服务的性能瓶颈和响应慢的原因。
@@ -297,14 +266,10 @@ INSTALLED_APPS = (
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/6432337.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Ruby 项目
 32、[wpscan](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wpscanteam/wpscan)：一款 WordPress 安全扫描工具。该项目可用于发现 WordPress 构建的网站存在的安全隐患，扫描项包括 WordPress 漏洞、已安装的插件和主题、弱密码等。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/4994614.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Rust 项目
 33、[easy_rust](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Dhghomon/easy_rust)：用简单的英语写的 Rust 教程。虽然当下已经有很多的 Rust 教程，但是大多都是以英语为主，这对不擅长英语的程序员并不友好，所以作者写了一份仅用简单的英语讲解 Rust 的教程，已有中文翻译版。
@@ -313,15 +278,11 @@ INSTALLED_APPS = (
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/205326947.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 35、[TinyPNG4Mac](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kyleduo/TinyPNG4Mac)：适用于 macOS 的 TinyPNG 第三方客户端。TinyPNG 是一个提供免费图像压缩服务的网站，该项目是其第三方 macOS 客户端，可以让你无需打开浏览器、无需手动下载图片，仅通过简单的拖拽就能完成对 JPEG、PNG 图片的压缩。
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/62392794.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
 36、[bats-core](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bats-core/bats-core)：Bash 自动化测试系统。它通过测试用例验证 Bash 脚本的运行结果是否符合预期，原理是基于 Bash 的 errexit(set -e) 选项判断测试用例的执行成功与否。
@@ -357,8 +318,6 @@ INSTALLED_APPS = (
 
 41、[WebKit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/WebKit/WebKit)：苹果开源的 Web 浏览器引擎。它被用于开发 macOS 和 iOS 上的 Safari、App Store、Mail 等应用。WebKit 不仅出现在苹果的生态中，其分支 Blink 项目也是 Chromium 的重要组成部分，它又是各大主流浏览器的核心。
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 42、[Cookbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/andkret/Cookbook)：《数据工程师 Cookbook》。这本书会告诉你，如果想要成为一名出色的数据工程师，到底需要学习哪些知识。
 
@@ -367,8 +326,6 @@ INSTALLED_APPS = (
 43、[patterns-of-distributed-systems](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dreamhead/patterns-of-distributed-systems)：《分布式系统模式》中文版。该书尝试将副本同步、可靠性、网络延迟等分布式系统共性问题归纳总结，并参考像 Kafka、Zookeeper 等分布式系统的实现过程，给出分布式系统中同类问题的通用解决方法/模式。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/345944794.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 44、[stable-diffusion](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CompVis/stable-diffusion)：可以根据文字生成图片的模型。只要输入一段文字描述，就能得到一张由 AI 生成的图片，除此之外该项目还支持将粗糙的草图转化成精致的艺术图片。
@@ -395,8 +352,6 @@ image.save("astronaut_rides_horse.png")
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/93354260.png' style="max-width:80%; max-height=80%;"></img></p>
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -405,10 +360,10 @@ image.save("astronaut_rides_horse.png")
 
 ---
 <p align="center">
-    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/78/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/78'>这里</a>。
 </p>
 
 ## 声明

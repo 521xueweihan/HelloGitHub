@@ -1,26 +1,19 @@
 # 《HelloGitHub》第 06 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/06/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C# 项目](#C-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Python 项目](#Python-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/06) 换一种浏览方式。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -31,16 +24,12 @@
 1、[Cowboy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gaochundong/Cowboy)：一个基于 .NET/C# 实现的开源 WebSocket 网络库。[详细介绍](http://www.cnblogs.com/gaochundong/p/cowboy_websockets.html)
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Go 项目
 2、[wukong](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huichen/wukong)：悟空引擎是一个高度可定制的全文搜索引擎，[为什么要有悟空引擎](https://github.com/huichen/wukong/blob/master/docs/why_wukong.md)，[入门教程](https://github.com/huichen/wukong/blob/master/docs/codelab.md)，这个项目的搜索引擎原理如下：
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/06/img/wukong-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/06/11994902.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java 项目
 3、[disconf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/knightliao/disconf)：一个企业级的分布式配置管理平台，专注于各种分布式系统配置管理的通用平台，提供统一的配置管理服务。核心目标：一个 jar 包，到处运行。[在线文档](http://disconf.readthedocs.io/zh_CN/latest/index.html)
@@ -68,8 +57,6 @@ java -jar moco-runner-<version>-standalone.jar http -p 12306 -c foo.json
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### JavaScript 项目
 5、[nodeppt](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ksky521/nodeppt)：这可能是迄今为止最好的网页版演示库，[在线演示](http://qdemo.sinaapp.com/)
 
@@ -78,16 +65,14 @@ java -jar moco-runner-<version>-standalone.jar http -p 12306 -c foo.json
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/06/img/vue-sui-demo-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/06/50753708.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
 7、[amazing-qr](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/x-hw/amazing-qr)：Python 写的生成动态、彩色、各式各样的二维码，详细的[中文文档](https://github.com/sylnsfar/qrcode/blob/master/README-cn.md)，通过 `qrcode` 生成的二维码样式如下：
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/06/img/qrcode-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/06/66557478.png' style="max-width:80%; max-height=80%;"></img></p>
 
 8、[textfilter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/observerss/textfilter)：基于某 1w 词敏感词库，用 Python 实现几种不同的过滤方式。**用于过滤敏感词的实用模块**，示例代码：
 ```python
@@ -110,18 +95,14 @@ test_first_character()
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/06/img/young-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/06/67109930.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift 项目
 10、[12306ForMac](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fancymax/12306ForMac)：非官方的 12306 购票，Mac OS 客户端
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/06/img/12306ForMac-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/06/50915433.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
 11、[Apollo-11](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chrislgarry/Apollo-11)：阿波罗 11 号代码，[中文介绍](https://github.com/chrislgarry/Apollo-11/blob/master/README.zh_cn.md)
@@ -153,8 +134,6 @@ brew install mercurial
 14、[weapp-ide-crack](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gavinkwoe/weapp-ide-crack)：【应用号】IDE + 破解 + Demo
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -163,10 +142,10 @@ brew install mercurial
 
 ---
 <p align="center">
-    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/06/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/06'>这里</a>。
 </p>
 
 ## 声明

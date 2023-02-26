@@ -1,29 +1,19 @@
 # 《HelloGitHub》第 28 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/28/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C# 项目](#C-项目)
-- [C++ 项目](#C-项目-1)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Kotlin 项目](#Kotlin-项目)
-- [Python 项目](#Python-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/28) 换一种浏览方式。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -34,9 +24,7 @@
 1、[choco](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chocolatey/choco)：类似 yum、apt-get、brew 的 Windows 包、软件管理、自动安装工具
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/choco.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/28647218.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C++ 项目
 2、[cpp-cheat-sheet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gibsjose/cpp-cheat-sheet)：能够帮你通过 Google 和 NASA 面试的 C++ 数据结构和算法的 cheat sheet（英文）
@@ -69,15 +57,11 @@ int main(){
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/cpp-taskflow.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/130068982.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### CSS 项目
 4、[pure](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pure-css/pure)：雅虎公司出品的一组轻量级、响应式纯 CSS 模块，适用于任何 Web 项目。本网站就是采用 Pure.css 模版构建，[中文文档](https://www.purecss.cn/)
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 5、[go-cloud](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/go-cloud)：还在为兼容不同的云平台 SDK 而烦恼吗？go-cloud 通过封装不同云平台的接口，向用户提供统一的 API。例如：阿里云和腾讯云的存储桶 API 不一样，但是通过 go-cloud 的封装，可以使用统一的 API 调用
@@ -95,29 +79,25 @@ int main(){
 9、[xinge-api-Golang](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xingePush/xinge-api-Golang)：腾讯信鸽 push v3 版的 Golang SDK。支持函数式配置项、标签推送、全平台推送、批量推送等
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 10、[Auto.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hyb1996/Auto.js)：不需要 ROOT 权限的类似按键精灵的自动操作软件，可以实现自动点击、滑动、输入文字、打开应用等。Auto.js 的大部分用户用它来点赞、签到、刷游戏
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/Auto-js-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/80171078.png' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[MTransition](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HJ-Money/MTransition)：一个 Android 的 Activity 切换动画库。该库可以用少量代码实现一些复杂的、自定义的 Activity 切换动画
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/MTransition.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/138117119.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 12、[vjtools](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vipshop/vjtools)：唯品会的 Java 技术干货分享
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 13、[DesktopNaotu](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NaoTu/DesktopNaotu)：桌面版脑图是基于百度脑图的本地化版本，帮助你在没有互联网环境的情况下，依然可以使用脑图工具。开箱即用，跨平台支持 Windows/Linux/Mac OS。桌面版思维工具，目前 Xmind 使用很多，但是需要收费，对于不常用，要求没有严格可以考虑此项目
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/DesktopNaotu-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/73137241.png' style="max-width:80%; max-height=80%;"></img></p>
 
 14、[G6](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/antvis/G6)：蚂蚁金服出品的关系数据可视化引擎，开发者可以基于 G6 拓展出属于自己的图分析应用或者图编辑器应用。[官方文档](https://antv.alipay.com/zh-cn/index.html)，示例代码：
 ```javascript
@@ -147,7 +127,7 @@ graph.read(data);
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/g6.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/81810486.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 15、[taro](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NervJS/taro)：一套 React 语法规范的多端开发解决方案。我们可以只书写一套代码，再通过 Taro 的编译工具，将源代码分别编译出可以在不同端（微信小程序、H5、React-Native 等）运行的代码。已经投入到了京东生产环境使用，示例代码如下：
 ```javascript
@@ -175,13 +155,9 @@ export default class Index extends Component {
 - Vue 篇
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Kotlin 项目
 17、[kotlin-in-chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huanglizhuo/kotlin-in-chinese)：Kotlin 官方文档翻译项目
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 18、[scylla](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/imWildCat/scylla)：一款高质量的免费代理 IP 池工具，仅支持 Python 3.6。[中文文档](https://scylla.wildcat.io/zh/latest/)，特性如下：
@@ -192,9 +168,7 @@ export default class Index extends Component {
 - 等等
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/scylla-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/128911431.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
 19、[Best-App](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hzlzh/Best-App)：苹果系统下的优秀软件、硬件、技巧、周边设备的集合
@@ -203,28 +177,24 @@ export default class Index extends Component {
 20、[CS-Interview-Knowledge-Map](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/InterviewMap/CS-Interview-Knowledge-Map)：这是一份制作精良、系统的面试图谱。内容包括：前端、计算机网络、算法、数据结构等方面。相信认真学习完这份资料，你会找到自己心仪的工作。[在线阅读](https://yuchengkai.cn/docs/zh/)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/InterviewMap-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/125791597.png' style="max-width:80%; max-height=80%;"></img></p>
 
 21、[follow-me-install-kubernetes-cluster](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/opsnull/follow-me-install-kubernetes-cluster)：部署 kubernetes 集群教程。该教程介绍使用二进制部署最新 kubernetes 集群的所有步骤，而不是使用 kubeadm 等自动化方式来部署集群。这样有助于理解系统各组件的交互原理，进而能够快速定位、解决实际中遇到的问题
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/follow-me-install-kubernetes-cluster-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/87710748.png' style="max-width:80%; max-height=80%;"></img></p>
 
 22、[spark_study](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shijinkui/spark_study)：Spark 源码阅读笔记
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
 23、[progit2](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/progit/progit2)：《Pro Git 第二版》[在线中文阅读](https://git-scm.com/book/zh/v2)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/img/progit2-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/15400220.png' style="max-width:80%; max-height=80%;"></img></p>
 
 24、[The-Flask-Mega-Tutorial-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh)：2017 年新版《The Flask Mega-Tutorial 教程》（狗书）中文翻译版
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
@@ -234,10 +204,10 @@ export default class Index extends Component {
 
 ---
 <p align="center">
-    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/28/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/28'>这里</a>。
 </p>
 
 ## 声明

@@ -1,27 +1,19 @@
 # 《HelloGitHub》第 19 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/19/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Kotlin 项目](#Kotlin-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/19) 换一种浏览方式。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -32,9 +24,7 @@
 1、[ctop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bcicen/ctop)：实现了类 top 命令展示效果的 docker 容器监控工具
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/ctop.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/77419377.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java 项目
 2、[HanLP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hankcs/HanLP)：一系列模型与算法组成的 NLP 工具包，目标是普及自然语言处理在生产环境中的应用。具备功能完善、性能高效、架构清晰、语料时新、可自定义的特点，功能包括：中文分词、词性标注、命名实体识别、关键词提取等。示例代码：
@@ -55,28 +45,26 @@ for (String sentence : testCase)
 3、[MVPArt](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JessYanCoding/MVPArt)：一个新的 MVP 架构，此框架旨在解决传统 MVP 类和接口太多、并且 Presenter 和 View 通过接口通信过于繁琐、重用 Presenter 代价太大等问题。架构图如下：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/MVPArt-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/83117984.png' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[p3c](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/p3c)：阿里云栖大会发布的 Java 代码规约扫描插件，支持多种 IDE。代码规范对于编程来说是非常重要的，随着代码量的增多会更加意识到其重要性。赶快拿去使用吧，[阿里巴巴 Java 开发手册](https://github.com/alibaba/p3c/blob/master/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E7%BB%88%E6%9E%81%E7%89%88%EF%BC%89.pdf)
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 5、[emoji](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gee1k/emoji)：方便快速查找获取 emoji 表情、名称，并且可以复制到任何文本中，另外支持中文搜索 💯 [网站地址](http://emoji.svend.cc/)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/emoji.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/104567903.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[H5](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/answershuto/H5)：这是作者的个人项目，功能是可视化编辑、生成手机 H5 页面的单页应用 WebApp。该项目是一个全栈项目，具有前后端完整服务。并且项目结构清晰。后端服务具有控制器，模型，路由，前端服务具有组件，并且使用 Vuex 做状态管理，麻雀虽小五脏俱全
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/H5.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/76468697.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[micro-note](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/linguowei/micro-note)：目前的前端圈使用最多的莫过于 Vue 以及 React，而 Angular 使用相比前两个就会少一点，而 Angular 也因为过于强大，导致学习曲线陡峭涉及概念繁多等问题。该项目（徽记）是基于 Angular4 以及 Typescript 开发，项目中都是 Angular4 基础使用，适合新手入门、学习、动手实践
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/micro-note-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/97899363.png' style="max-width:80%; max-height=80%;"></img></p>
 
 8、[project-guidelines](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/elsewhencode/project-guidelines)：JavaScript 项目规范，[中文](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md)
 
@@ -98,7 +86,7 @@ $('#btnDemo').selectMenu({
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/SelectMenu-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/106082125.png' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[wxapp-market](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/o2team/wxapp-market)：小程序营销组件，使用简单、方式齐全。包含示例代码，玩法多样
 - 大转盘
@@ -108,15 +96,11 @@ $('#btnDemo').selectMenu({
 - ...
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/img/wxapp-market.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/102470633.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Kotlin 项目
 11、[kotlin-examples](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Kotlin/kotlin-examples)：JetBrains 开源的 Kotlin 语言 Web 示例项目
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
 12、[Biny](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/Biny)：腾讯开源的一款高性能的超轻量级PHP框架，用于快速开发现代 Web 应用程序。代码简洁优雅，对应用层，数据层，模板渲染层的封装简单易懂，能够快速上手使用，[文档](http://www.billge.cc/)齐全。高性能，框架响应时间在 1ms 以内，单机 qps 轻松上3000。
@@ -126,8 +110,6 @@ $('#btnDemo').selectMenu({
 - 支持浏览器端调试，快速定位程序问题和性能瓶颈
 - 具有sql防注入，html自动防xss等特性
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 13、[binlog2sql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/danfengcao/binlog2sql)：从 MySQL binlog 解析出你要的 SQL。根据不同选项，提供如下功能
@@ -174,8 +156,6 @@ browser.submit(upload_form)
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 其它
 18、[Amazing-Windows-Apps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AmazingApps/Amazing-Windows-Apps)：该项目收录了众多 Windows 绝妙的项目、工具。这些软件都是经过测试，安全、免费、好用，[在线阅读](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/content/zh-CN/)
 
@@ -189,8 +169,6 @@ browser.submit(upload_form)
 21、[remote-working](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/greatghoul/remote-working)：收集整理国内远程工作相关的项目
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 22、[kubernetes-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rootsongjc/kubernetes-handbook)：Kubernetes 中文指南／实践手册，[在线阅读](https://jimmysong.io/kubernetes-handbook/)
 
@@ -201,8 +179,6 @@ browser.submit(upload_form)
 24、[op_practice_book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/meetbill/op_practice_book)：《运维实践指南》
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -211,10 +187,10 @@ browser.submit(upload_form)
 
 ---
 <p align="center">
-    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/19/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/19'>这里</a>。
 </p>
 
 ## 声明

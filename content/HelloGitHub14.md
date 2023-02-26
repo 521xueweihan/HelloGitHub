@@ -1,29 +1,19 @@
 # 《HelloGitHub》第 14 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/14/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C++ 项目](#C-项目-1)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [PHP 项目](#PHP-项目)
-- [Python 项目](#Python-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/14) 换一种浏览方式。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -39,33 +29,27 @@ gcc -g -O2 testSearcher.c ip2region.c
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C++ 项目
 2、[bfs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/baidu/bfs)：百度文件系统，架构图如下：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/bfs-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/26562172.png' style="max-width:80%; max-height=80%;"></img></p>
 
 3、[SQLAdvisor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Meituan-Dianping/SQLAdvisor)：美团点评公司 DBA 团队开源的一个分析 SQL 并给出索引优化建议的工具，开源内容和内部使用保持一致，文档齐全
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 4、[fsql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kashav/fsql)：用 SQL 的语法搜索文件，酷吧
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/fsql.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/89662045.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 5、[go.uuid](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/satori/go.uuid)：Go 的 [UUID](http://baike.baidu.com/item/UUID) 包
 
 
 6、[poseidon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Qihoo360/poseidon)：Poseidon 系统是奇虎 360 开源的一个日志搜索平台，可以在数百万亿条、数百 PB 大小的日志数据中快速分析和检索特定字符串。
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
 7、[druid](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/druid)：一个 JDBC 组件库，包括数据库连接池、SQL Parser 等组件，同时能够提供强大的监控和扩展功能
@@ -77,14 +61,12 @@ gcc -g -O2 testSearcher.c ip2region.c
 9、[symphony](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/88250/symphony)：用 Java 实现的现代化社区（论坛／社交网络／博客）平台，功能众多，[访问该社区](https://hacpai.com/tag/Sym)
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### JavaScript 项目
 10、[BrowserQuest](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mozilla/BrowserQuest)：Mozilla 开源的多人在线角色扮演游戏项目
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/browserquest-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/2491285.png' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[deep-into-node](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yjhjstz/deep-into-node)：深入理解 Node.js 的核心思想与源码分析
 
@@ -93,48 +75,40 @@ gcc -g -O2 testSearcher.c ip2region.c
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/rental-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/70337112.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Objective-C 项目
 13、[iTerm2](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gnachman/iTerm2)：Mac 上超好用的终端软件
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/iterm2-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/1580036.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### PHP 项目
 14、[server](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nextcloud/server)：开源云存储平台，功能齐全，可以用于搭建公司内部的云存储平台
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/nextcloud-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/60243197.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
 15、[certbot](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/certbot/certbot)：免费的自动启用和部署 HTTPS 的工具，让你的网站开启 HTTPS 变得简单快捷。在部署教程页面选择服务器的操作系统和 Web 服务器，之后根据给出的步骤一步步的执行命令就行了，[部署教程](https://certbot.eff.org/)
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/cerbot-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/26516210.png' style="max-width:80%; max-height=80%;"></img></p>
 
 16、[explainshell](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/idank/explainshell)：一个可以解析 Linux 命令的网站，它可以给出命令的解释和其参数的解释，例如：`ps -aux|grep python`，[在线演示](https://www.explainshell.com/)
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/explainshell-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/12484808.png' style="max-width:80%; max-height=80%;"></img></p>
 
 17、[pdir2](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/laike9m/pdir2)：Python 程序员需要一个更好的 `dir()` —— 以更加友好的显示 `dir()` 输出的结果
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/pdir2.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/83316119.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift 项目
 18、[EmojiIntelligence](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BilalReffas/EmojiIntelligence)：完全用 Swift 实现神经网络的 Demo
@@ -143,9 +117,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/emoji-intelligence.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/87763802.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
 19、[chinese-copywriting-guidelines](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sparanoid/chinese-copywriting-guidelines)：中文文案排版指南
@@ -163,8 +135,6 @@ gcc -g -O2 testSearcher.c ip2region.c
 23、[security-101-for-saas-startups](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/forter/security-101-for-saas-startups)：归纳总结了一个初创企业在各个阶段所期待的安全建议，初创企业所掌握的资金和数据越多，那么对于安全的投资也要越多，[中文翻译版](https://github.com/forter/security-101-for-saas-startups/blob/chinese/readme.md)
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -173,10 +143,10 @@ gcc -g -O2 testSearcher.c ip2region.c
 
 ---
 <p align="center">
-    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/14/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/14'>这里</a>。
 </p>
 
 ## 声明

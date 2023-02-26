@@ -1,28 +1,19 @@
 # 《HelloGitHub》第 31 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/31/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C++ 项目](#C-项目-1)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Python 项目](#Python-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/31) 换一种浏览方式。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -36,15 +27,11 @@
 2、[obs-studio](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/obsproject/obs-studio)：由 OBS 项目维护的免费开源流媒体和录制程序。该程序支持 Windows 7、macOS 10.10、Ubuntu 14.04 操作系统。可用于直播和屏幕录制，[下载地址](https://github.com/obsproject/obs-studio/releases)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/obs-studio.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/13233158.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C++ 项目
 3、[CppCon2018](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CppCon/CppCon2018)：CppCon 2018 幻灯片和资料
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 4、[gitea](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/go-gitea/gitea)：一个极易安装、运行快速、安装简单、使用体验良好的自建 Git 服务。采用 Go 作为后端语言，支持 Linux、 macOS、Windows 等，[在线Demo](https://try.gitea.io/)。安装步骤如下：
@@ -132,13 +119,11 @@ client.SetSignType(HMACSHA256)
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Java 项目
 8、[AndroidAutoSize](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JessYanCoding/AndroidAutoSize)：学习成本极低的 Android 屏幕适配方案，已被知名 APP 用于线上产品
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/AndroidAutoSize.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/145098146.png' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[MyPerf4J](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LinShunKang/MyPerf4J)：一个针对高并发、低延迟应用设计的高性能 Java 性能监控和统计工具。特性：
 - 高性能: 单线程支持每秒 1000 万次 响应时间的记录，每次记录只花费 73 纳秒
@@ -148,7 +133,7 @@ client.SetSignType(HMACSHA256)
 - 高实时：支持秒级监控，最低 1 秒
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/MyPerf4J.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/124743561.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[XChart](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/knowm/XChart)：用于绘制数据的轻量级 Java 库。示例代码：
 ```java
@@ -165,9 +150,7 @@ BitmapEncoder.saveBitmapWithDPI(chart, "./Sample_Chart_300_DPI", BitmapFormat.PN
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/XChart.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/2078882.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript 项目
 11、[33-js-concepts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/leonardomso/33-js-concepts)：该项目介绍了每个 Javascript 开发者应该知道的 33 个概念。列举了 Javascript 中非常常见的 33 个概念，对于深入了解 Javascript 语言有很大的帮助。[中文阅读](https://github.com/stephentian/33-js-concepts)
@@ -182,13 +165,11 @@ BitmapEncoder.saveBitmapWithDPI(chart, "./Sample_Chart_300_DPI", BitmapFormat.PN
 14、[TypeScript-React-Starter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/TypeScript-React-Starter)：由 Microsoft 创建，该项目详细介绍了如何使用 TS 基于 create-react-app 创建 React 项目模版的步骤。TS 出现使得 JS 具有了强类型语言的严谨性，并且还保留了JS的灵活。React 是目前超火的前端框架，两者的结合非常值得学习
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Python 项目
 15、[awslogs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jorgebastida/awslogs)：一个简单的命令行工具，用于在本地查询 Amazon CloudWatch 日志，强大的支持多实例日志汇总查看。简单的查看命令：`awslogs get /var/logs/syslog ALL -s1d`
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/awslogs.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/29613985.png' style="max-width:80%; max-height=80%;"></img></p>
 
 16、[CUP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/baidu/CUP)：CUP 基础库是百度开源的 Python 语言基础库，致力将 DEV 从涉及底层操作、Util 操作类解放出来，使其更关注构建 service 上层业务逻辑。
 目前已涵盖了构建一个服务的各个方面，大家可以从基础库的代码结构、wiki、doc 中进行简单了解。
@@ -217,15 +198,11 @@ cup
 17、[supervisor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Supervisor/supervisor)：Python 开发的一个 C/S 服务，是 Linux/Unix 系统下的一个进程管理工具，不支持 Windows 系统。它可以很方便的监听、启动、停止、重启一个或多个进程。用 Supervisor 管理的进程，当一个进程意外被杀死，supervisort 监听到进程死后，会自动将它重新启动，很方便的做到进程自动恢复的功能，提高系统、服务的稳定性，多用于生产环境
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Swift 项目
 18、[Gifski](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/Gifski)：Gifski这个开源程序可以将一系列图片或一段视频转化为高质量的gif，高质量是这个程序最大的特色，下面我们将从使用与评价两个方面来介绍这个程序。Gifski实际上适用于windows，mac以及linux三个平台，唯一不同的是，mac平台上的gifski内置了视频分帧工具，因此可以直接把视频拖入程序窗口即可生成gif，而其它平台上则只能使用第三方程序分帧后才能处理，并且要在命令行中运行
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/img/gifski-app.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/119822304.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
 19、[apachecn-algo-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apachecn/apachecn-algo-zh)：Leetcode 题解及经典算法实现，实现语言包含 Python、Java、C++、JS
@@ -243,16 +220,12 @@ cup
 23、[zh-google-styleguide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zh-google-styleguide/zh-google-styleguide)：Google 开源项目风格指南 (中文版)
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 机器学习
 24、[nndl.github.io](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nndl/nndl.github.io)：《神经网络与深度学习》该课程主要介绍神经网络与深度学习中的基础知识、主要模型（卷积神经网络、递归神经网络等）以及在计算机视觉、自然语言处理等领域的应用。[在线阅读](https://nndl.github.io/)
 
 
 25、[pwc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zziz/pwc)：深度学习、机器学习论文集合（英文）
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
@@ -262,10 +235,10 @@ cup
 
 ---
 <p align="center">
-    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/31/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/31'>这里</a>。
 </p>
 
 ## 声明

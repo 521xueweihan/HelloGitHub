@@ -1,28 +1,19 @@
 # 《HelloGitHub》第 13 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/13/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C# 项目](#C-项目-1)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Objective-C 项目](#Objective-C-项目)
-- [Python 项目](#Python-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/13) 换一种浏览方式。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -33,28 +24,22 @@
 1、[awesome-c-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jobbole/awesome-c-cn)：C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### C# 项目
 2、[dopamine-windows](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/digimezzo/dopamine-windows)：基于WPF编写的现代扁平风格轻量级播放器
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/Dopamine-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/63281131.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Go 项目
 3、[dht](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shiyanhui/dht)：DHT 实现了 BitTorrent DHT 协议，它包含两种模式，标准模式和爬虫模式。标准模式遵循 DHT 协议，你可以把它当做一个标准的 DHT 组件。爬虫模式是为了嗅探到更多 torrent 文件信息，它在某些方面不遵循 DHT 协议。 基于爬虫模式，你可以打造你自己的 BTDigg，[演示地址](http://bthub.io/)
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/dnt-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/65117543.png' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[gobyexample](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mmcgrana/gobyexample)：Go 示例代码，[在线浏览](https://gobyexample.com/)
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
 5、[android-discuss](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/android-cn/android-discuss)：Android 问题交流讨论坛，包含 Android 开发中的各种问题讨论
@@ -67,16 +52,14 @@
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/Grav.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/86901323.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript 项目
 8、[cmder](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cmderdev/cmder)：Windows 控制台模拟器，运行效果如下：
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/cmder-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/11276147.png' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[element](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ElemeFE/element)：一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的组件库，提供了配套设计资源，帮助你的网站快速成型。[官网](http://element.eleme.io/#/zh-CN)
 
@@ -85,7 +68,7 @@
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/gifify.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/27015948.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[js-stack-from-scratch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xitu/js-stack-from-scratch)：从零开始构建 JavaScript 技术栈（中文版）
 
@@ -97,9 +80,7 @@
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/vue2.0lol-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/83180406.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Objective-C 项目
 14、[PPRows](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jkpang/PPRows)：在 Mac 上计算你写了多少行代码的工具
@@ -113,15 +94,13 @@
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/PPRows.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/83865944.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 15、[PYSearch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ko1o/PYSearch)：一款综合（QQ 音乐、微信、美团、优酷、虎牙直播等多款 App）风格的搜索控制器
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/PYSearch-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/71687577.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
 16、[algorithms](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/keon/algorithms)：基本算法、数据结构的 Python 实现
@@ -187,8 +166,6 @@ Detailed:
 20、[searx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/searx/searx)：分分钟打造一个聚合的搜索引擎，使用简单，部署方便。拓展方便，基于插件式的管理。[演示地址](https://searx.me/)
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 其它
 21、[alloyteam.github.com](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AlloyTeam/alloyteam.github.com)：腾讯 AlloyTeam 开源项目官网
 
@@ -205,18 +182,16 @@ Detailed:
 25、[SuperTinyIcons](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/edent/SuperTinyIcons)：体积超级小、制作精致的常见网站和 app 的图标库，每个图标均小于 1KB
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/SuperTinyIcons.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/88214511.png' style="max-width:80%; max-height=80%;"></img></p>
 
 26、[SwitchHosts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/oldj/SwitchHosts)：一个用于快速切换 hosts 文件的小程序，基于 Electron 开发
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/SwitchHosts-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/2312977.png' style="max-width:80%; max-height=80%;"></img></p>
 
 27、[uBlock](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gorhill/uBlock)：uBlock Origin 不只是一个广告过滤工具，它是具有一般性用途的过滤工具，屏蔽广告的功能是通过支持 Adblock Plus 过滤规则语法实现的。uBlock 还扩充了语法，一开始就支持自定义过滤规则，[中文文档](https://github.com/fang5566/uBlock/blob/master/README.md#ublock-origin)
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
 28、[free-programming-books-zh_CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/justjavac/free-programming-books-zh_CN)：免费的计算机编程类中文书籍
@@ -224,8 +199,6 @@ Detailed:
 
 29、[growth-ebook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/phodal/growth-ebook)：全栈增长工程师指南，[在线阅读](http://growth.phodal.com/)
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
@@ -235,10 +208,10 @@ Detailed:
 
 ---
 <p align="center">
-    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/13/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/13'>这里</a>。
 </p>
 
 ## 声明

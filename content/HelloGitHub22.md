@@ -1,25 +1,19 @@
 # 《HelloGitHub》第 22 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/22/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C++ 项目](#C-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Python 项目](#Python-项目)
-- [其它](#其它)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/22) 换一种浏览方式。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -30,17 +24,13 @@
 1、[albert](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/albertlauncher/albert)：Linux 平台下类似于 Mac Alfred 效率神器。支持开机自启动、自定义快捷键等功能
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/albert-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/22259044.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Go 项目
 2、[rainbond](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/goodrain/rainbond)：[好雨](http://www.rainbond.com/)开源的生产级无服务器 PaaS。用于为云原生应用的整个交付流程提供生产级支持，包括基础设施管理、容器化改造、微服务架构转型、DevOps 工作流落地、混合云多云管理等
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/rainbond-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/109566657.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java 项目
 3、[anychat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dianbaer/anychat)：纯净的 WebSocket 聊天插件。服务器绝对控制权的推送机制，合理的线程设计，[在线 Demo](https://www.threecss.com/AnyChatClient/third-embed-demo.html)。功能如下：
@@ -52,7 +42,7 @@
 - 等等
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/anychat-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/107945122.png' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[awesome-java-leetcode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Blankj/awesome-java-leetcode)：[LeetCode](https://leetcode.com/) 上面主要收集了各大 IT 公司的笔试面试题。该项目为 LeetCode Java 语言的题解集合
 
@@ -64,14 +54,12 @@
 - 等等
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/FloatWindow.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/110701313.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[GSYVideoPlayer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CarGuo/GSYVideoPlayer)：Android 视频播放器。支持弹幕、滤镜、水印、截图、边播边缓存、重力旋转与手动旋转的同步等多种功能
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/GSYVideoPlayer.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/73614722.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript 项目
 7、[handsontable](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/handsontable/handsontable)：强大的开源 HTML5 表格处理工具，适用于中后台的很多业务场景。API 方便、扩展性好、可操作性强，与Execl 等表格处理程序兼容好。并支持非常丰富的操作，如数据绑定、验证、排序及强大的上下文菜单。示例代码如下：
@@ -100,9 +88,7 @@ var hot = new Handsontable(container, {
 9、[webpack-component-loader](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nicholaslee119/webpack-component-loader)：在不借助框架的情况下，实现 Web component 的标准。该项目对于理解组件化的概念很有帮助
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/webpack-component-loader-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/103499125.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
 10、[shell-functools](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sharkdp/shell-functools)：把函数式的编程带入 shell，从而让很多事情变得简单。通过 Python 的高阶函数和内置模块 os.path 与命令的管道结合，达到了强大、高效的功效。相比于单纯的命令实现更加的直观和容易理解，示例代码如下：
@@ -150,9 +136,7 @@ for i in tqdm(range(10000)):
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/tqdm.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/36804486.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
 12、[API-Security-Checklist](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shieldfy/API-Security-Checklist)：开发安全的 API 所需要核对的清单，[中文](https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md)
@@ -167,8 +151,6 @@ for i in tqdm(range(10000)):
 15、[koa-guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/guo-yu/koa-guide)：Node.js Web 框架，Koa 的中文文档
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 
 
 <p align="center">
@@ -177,10 +159,10 @@ for i in tqdm(range(10000)):
 
 ---
 <p align="center">
-    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/22/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/22'>这里</a>。
 </p>
 
 ## 声明

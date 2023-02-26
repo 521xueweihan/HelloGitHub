@@ -1,31 +1,19 @@
 # 《HelloGitHub》第 26 期
 > 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 目录
 
-**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/26/) 获取更好的阅读体验。
+点击右上角的 **「目录」** 图标打开目录，获得更好的阅读体验。
 
-- [C 项目](#C-项目)
-- [C++ 项目](#C-项目-1)
-- [CSS 项目](#CSS-项目)
-- [Go 项目](#Go-项目)
-- [Java 项目](#Java-项目)
-- [JavaScript 项目](#JavaScript-项目)
-- [Python 项目](#Python-项目)
-- [Rust 项目](#Rust-项目)
-- [Swift 项目](#Swift-项目)
-- [其它](#其它)
-- [开源书籍](#开源书籍)
-- [机器学习](#机器学习)
+![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-
-- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+**Tips**：如果遇到图片刷不出来的情况，[点击](https://hellogithub.com/periodical/volume/26) 换一种浏览方式。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png" style="max-width:30%;"></img><br>
 关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
@@ -36,17 +24,13 @@
 1、[ttygif](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/icholy/ttygif)：录制终端.gif
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/ttygif.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/12060725.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C++ 项目
 2、[TrafficMonitor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhongyang219/TrafficMonitor)：一款用于 Windows 平台的网速监控悬浮窗软件。可以显示当前网速、CPU及内存利用率、任务栏显示、更换皮肤、历史流量统计等功能
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/TrafficMonitor-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/98771110.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### CSS 项目
 3、[CaoMei](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xiangsudian/CaoMei)：一套免费、精致的开源图标库。
@@ -55,12 +39,10 @@
 - 开源免费 丨 个人私用和商用版权开源免费
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/caomei-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/93418722.png' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[You-need-to-know-css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/l-hammer/You-need-to-know-css)：该项目包含了一些常用的 CSS 样式示例和作者阅读《CSS揭秘》的收获分享，适合于想要提高 CSS 技能的同学
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 5、[go-perfbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dgryski/go-perfbook)：《关于 Go 性能优化的思考》概述了编写高性能 Go 代码的最佳实践。[中文](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)
@@ -76,9 +58,7 @@
 7、[lgo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yunabe/lgo)：实现像 python 一样的交互式编程，同时整合了 Jupyter Notebook。效果如下：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/lgo.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/105907218.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java 项目
 8、[AutoEx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BolexLiu/AutoEx)：帮助 Android 开发者，让项目在崩溃时从异常堆栈中，自动寻找 Stack Overflow 的回答。体积只有 9kb 并且没有依赖其他第三方库。当程序出现异常时会有如下输出：
@@ -122,8 +102,6 @@ Double[] myDoubleArray = triplet.getValue2();
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### JavaScript 项目
 10、[BizCharts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/BizCharts)：蚂蚁出品的基于 React 的图表库。图表样式丰富、使用方便、易扩展、文档齐全，[官网](https://antv.alipay.com/zh-cn/g2/3.x/index.html)
 
@@ -131,7 +109,7 @@ Double[] myDoubleArray = triplet.getValue2();
 11、[carbon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/carbon-app/carbon)：以美观、整洁的方式，展示你的代码片段。同时提供 SVG、PNG 多种方式展示
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/carbon-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/94498635.png' style="max-width:80%; max-height=80%;"></img></p>
 
 12、[dayjs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iamkun/dayjs)：一个轻量的 JavaScript 时间日期处理库。保持和 Moment.js 的 API 设计完全一样。如果你曾经用过 Moment.js，那么你已经知道如何使用 Day.js 了。体积仅有 2kb 是 Moment.js 的轻量化方案，示例代码如下：
 ```javascript
@@ -145,9 +123,7 @@ dayjs().startOf('month').add(1, 'day').set('year', 2018).format('YYYY-MM-DD HH:m
 14、[tui.calendar](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nhn/tui.calendar)：功能全面的 JavaScript 日程安排日历。虽然项目依赖了 jQuery，但是对于真实项目来说这样做是可以的。此项目适用于多种场景，炫酷的交互和 UI
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/tui_calendar.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/103071620.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
 15、[marshmallow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/marshmallow-code/marshmallow)：使用类似于 ORM 的语法，序列化、反序列化 Python 对象。可以将序列化的对象呈现为标准格式，适用于例如数据校验、返回 HTTP API 的 JSON。示例代码如下：
@@ -230,18 +206,14 @@ Slowest Calls
 ```
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Rust 项目
 17、[fd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sharkdp/fd)：一个简单、快速、友好的替代 find 命令的方案
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/fd.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/90793418.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 18、[rayon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rayon-rs/rayon)：一个易用、无数据竞争的将顺序迭代器转化成并行迭代器。简单说就是原本你的数组只能一个一个地遍历，使用这个库可以并发同时从几个 index 开始遍历，同时也能遍历 map 等类似的数据结构
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
 19、[CocoaDebug](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CocoaDebug/CocoaDebug)：iOS APP 内置调试工具，支持 log 日志查看、网络抓包、沙盒查看等功能，代码零入侵。示例代码：
@@ -265,9 +237,7 @@ public func print<T>(file: String = #file, function: String = #function, line: I
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/CocoaDebug.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/117513852.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
 20、[a-cartoon-intro-to-redux-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jasonslyvia/a-cartoon-intro-to-redux-cn)：《看漫画学 Redux》
@@ -285,21 +255,15 @@ public func print<T>(file: String = #file, function: String = #function, line: I
 24、[public-apis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/public-apis/public-apis)：（英文）用于 Web 开发的公共 API 集合
 
 
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### 开源书籍
 25、[sicp-py-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wizardforcel/sicp-py-zh)：《SICP Python 描述中文版》[在线阅读](https://wizardforcel.gitbooks.io/sicp-py/content/)
 
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
 26、[AlphaZero_Gomoku](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/junxiaosong/AlphaZero_Gomoku)：使用 TensorFlow/Pytorch/Theano 实现 AlphaZero 算法，通过自我对弈从零训练五子棋 AI。实现简单、清晰，适合学习、了解 AlphaGo Zero 背后的关键思想和技术细节
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/AlphaZero_Gomoku.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/114990078.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -309,10 +273,10 @@ public func print<T>(file: String = #file, function: String = #function, line: I
 
 ---
 <p align="center">
-    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
-    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/26/'>这里</a> 获取更好的阅读体验。
+    不仅能第一时间收到推送，还有回馈粉丝的活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/26'>这里</a>。
 </p>
 
 ## 声明
