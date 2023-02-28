@@ -150,7 +150,7 @@ redisClient.shutdown();
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/136285542.png' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[milkdown](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Saul-Mirone/milkdown)：一款清爽所见即所得的 Markdown 编辑器。不同于大多数 Markdown 编辑器它是插件驱动的，类似开源可自由扩展的 Typora。项目由 prosemirror+remark 构建，入门开发者从中可以学习到如何使用 prosemirror 来开发富文本编辑器，以及如何设计一个针对编辑器的插件系统
+16、[milkdown](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Milkdown/milkdown)：一款清爽所见即所得的 Markdown 编辑器。不同于大多数 Markdown 编辑器它是插件驱动的，类似开源可自由扩展的 Typora。项目由 prosemirror+remark 构建，入门开发者从中可以学习到如何使用 prosemirror 来开发富文本编辑器，以及如何设计一个针对编辑器的插件系统
 ```javascript
 import { Editor } from '@milkdown/core';
 import { commonmark } from '@milkdown/preset-commonmark';

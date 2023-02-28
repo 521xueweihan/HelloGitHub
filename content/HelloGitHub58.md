@@ -21,7 +21,7 @@
 > **以下为本期内容**｜每个月 **28** 号更新
 
 ### C# 项目
-1、[EverythingToolbar](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/stnkl/EverythingToolbar)：把搜索和启动应用等功能整合到 Windows taskbar 的工具。效果如下图：
+1、[EverythingToolbar](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/srwi/EverythingToolbar)：把搜索和启动应用等功能整合到 Windows taskbar 的工具。效果如下图：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/295200728.gif' style="max-width:80%; max-height=80%;"></img></p>

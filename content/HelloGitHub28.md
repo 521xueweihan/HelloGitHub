@@ -80,7 +80,7 @@ int main(){
 
 
 ### Java 项目
-10、[Auto.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hyb1996/Auto.js)：不需要 ROOT 权限的类似按键精灵的自动操作软件，可以实现自动点击、滑动、输入文字、打开应用等。Auto.js 的大部分用户用它来点赞、签到、刷游戏
+10、[Auto.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/clearw5/Auto.js)：不需要 ROOT 权限的类似按键精灵的自动操作软件，可以实现自动点击、滑动、输入文字、打开应用等。Auto.js 的大部分用户用它来点赞、签到、刷游戏
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/28/80171078.png' style="max-width:80%; max-height=80%;"></img></p>

@@ -151,7 +151,7 @@ Hello Google!
 17、[react-naive-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huzidaha/react-naive-book)：开源、免费、专业、简单的 React.js 教程
 
 
-18、[The-Art-Of-Programming-By-July](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/julycoding/The-Art-Of-Programming-By-July)：《编程之法：面试和算法心得》
+18、[The-Art-Of-Programming-By-July-2nd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd)：《编程之法：面试和算法心得》
 
 
 

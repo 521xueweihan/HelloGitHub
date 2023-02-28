@@ -93,7 +93,7 @@ ls *.js | entr -r node app.js
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/94166852.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-14、[zinc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zinclabs/zinc)：轻量级全文搜索引擎。Go 语言下的轻量级搜索引擎，支持中文搜索自带 Web 管理界面
+14、[zincsearch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zinclabs/zincsearch)：轻量级全文搜索引擎。Go 语言下的轻量级搜索引擎，支持中文搜索自带 Web 管理界面
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/434218673.jpeg' style="max-width:80%; max-height=80%;"></img></p>
