@@ -129,7 +129,7 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/124411852.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-19、[star-history](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bytebase/star-history)：展示 GitHub 项目 Star 历史的在线工具。支持多个项目展示在同一个图表上，效果如下图：
+19、[star-history](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/star-history/star-history)：展示 GitHub 项目 Star 历史的在线工具。支持多个项目展示在同一个图表上，效果如下图：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/42976210.gif' style="max-width:80%; max-height=80%;"></img></p>

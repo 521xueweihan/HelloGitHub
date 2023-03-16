@@ -278,7 +278,7 @@ for link in browser.links():
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/8357227.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[pandas-profiling](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ydataai/pandas-profiling)：能够自动生成 pandas DataFrame 分析报告的库。虽然 pandas 自带的 df.describe 函数可以方便地生成统计报告，但是信息较少。该项目能够自动生成一份 df 多维度的 HTML 分析报告，包含列的类型、缺失情况、数值分布、行重复率、占用内存大小等信息，有助于更好地了解数据情况。
+31、[ydata-profiling](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ydataai/ydata-profiling)：能够自动生成 pandas DataFrame 分析报告的库。虽然 pandas 自带的 df.describe 函数可以方便地生成统计报告，但是信息较少。该项目能够自动生成一份 df 多维度的 HTML 分析报告，包含列的类型、缺失情况、数值分布、行重复率、占用内存大小等信息，有助于更好地了解数据情况。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/49346299.png' style="max-width:80%; max-height=80%;"></img></p>
 

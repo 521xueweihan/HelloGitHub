@@ -86,7 +86,7 @@ print(u.get_nns_by_item(0, 1000)) # will find the 1000 nearest neighbors
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/142394932.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Go 项目
-10、[bk-cmdb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/bk-cmdb)：腾讯开源的配置平台。面向资产及应用的企业级配置管理平台，拥有主机管理、组织架构管理、通用权限管理、操作审计等功能。该项目的代码审核很严格，此举不仅保证了项目的代码质量，还提高了代码的可读性，推荐阅读源码。
+10、[bk-cmdb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TencentBlueKing/bk-cmdb)：腾讯开源的配置平台。面向资产及应用的企业级配置管理平台，拥有主机管理、组织架构管理、通用权限管理、操作审计等功能。该项目的代码审核很严格，此举不仅保证了项目的代码质量，还提高了代码的可读性，推荐阅读源码。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/76221943.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -191,7 +191,7 @@ server.list_sessions()
 # [Session($3 foo), Session($1 libtmux)]
 ```
 
-27、[nas-tools](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jxxghp/nas-tools)：NAS 媒体库资源自动整理工具。支持资源检索和订阅、媒体库整理和通知服务的 NAS 媒体库工具，这是一个用爱发电的项目，可以不爱但请不要伤害。
+27、[nas-tools](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NAStool/nas-tools)：NAS 媒体库资源自动整理工具。支持资源检索和订阅、媒体库整理和通知服务的 NAS 媒体库工具，这是一个用爱发电的项目，可以不爱但请不要伤害。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/392603437.png' style="max-width:80%; max-height=80%;"></img></p>
 

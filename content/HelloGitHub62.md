@@ -191,6 +191,8 @@ def test_while_statement():
 26、[IGListKit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Instagram/IGListKit)：Instagram 推出的一套数据驱动的 UICollectionView 框架，用来创建快速且灵活的列表界面。提供了更简单的使用 UICollectionView 方式，并且支持对自己的数据模型进行自定义 diff 操作，提供更好的架构以复用 Cell 和组件
 
 
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/67588512.gif' style="max-width:80%; max-height=80%;"></img></p>
+
 27、[Observable-Swift](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/slazyk/Observable-Swift)：一个在 Swift 上实现 KVO 的轻量级工具。简单易用地解决了 Swift 相对于 Objective-C 缺少 Key Value Observing（KVO）的问题
 ```swift
 // create a Observable<Int> variable

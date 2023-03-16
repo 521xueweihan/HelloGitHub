@@ -113,7 +113,7 @@ promisify(wx.getSystemInfo)().then(console.log)
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/65415630.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### PHP 项目
-13、[clean-code-php](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jupeter/clean-code-php)：PHP 代码的整洁之道，整理了一系列整洁代码实操。小到变量细道 SOLID 都有涉猎，[中文译版](https://github.com/php-cpm/clean-code-php)
+13、[clean-code-php](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/piotrplenik/clean-code-php)：PHP 代码的整洁之道，整理了一系列整洁代码实操。小到变量细道 SOLID 都有涉猎，[中文译版](https://github.com/php-cpm/clean-code-php)
 
 
 ### Python 项目
@@ -168,7 +168,7 @@ print(bond_df)
 22、[devops-exercises](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bregman-arie/devops-exercises)：这个仓库包含了 DevOps（开发运维）常见、流行服务相关的面试问题和回答，推荐给从事运维的同学
 
 
-23、[my-mac-os](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nikitavoloboev/my-mac-os)：该项目罗列了作者自用、收集的 macOS 上实用、炫酷的软件。我从中找到好几个炫酷、实用提高工作的工具，你也赶快来挑挑吧
+23、[my-mac](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nikitavoloboev/my-mac)：该项目罗列了作者自用、收集的 macOS 上实用、炫酷的软件。我从中找到好几个炫酷、实用提高工作的工具，你也赶快来挑挑吧
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/53133861.png' style="max-width:80%; max-height=80%;"></img></p>

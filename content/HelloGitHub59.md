@@ -89,7 +89,7 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/44662669.png' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[fizz-gateway-community](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wehotel/fizz-gateway-community)：一个 Java 微服务网关。支持热服务编排、自动授权选择、在线测试、监控、管理后台等功能，帮助企业治理 API 服务降低重复代码投入，提高服务稳定性
+9、[fizz-gateway-community](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fizzgate/fizz-gateway-community)：一个 Java 微服务网关。支持热服务编排、自动授权选择、在线测试、监控、管理后台等功能，帮助企业治理 API 服务降低重复代码投入，提高服务稳定性
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/291666391.png' style="max-width:80%; max-height=80%;"></img></p>
