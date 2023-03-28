@@ -44,7 +44,7 @@ xdotool selectwindow windowclose
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/108726321.png' style="max-width:80%; max-height=80%;"></img></p>
 
-5、[Flow.Launcher](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Flow-Launcher/Flow.Launcher)：Windows 的快速文件和程序启动器。这是一款可以让你的工作流程更加丝滑的工具，相当于 Windows 上的  Alfred。它能够快速启动应用，方便地搜索文件、书签等内容，支持扩展插件、预览文件、系统命令、游戏模式等功能。
+5、[Flow.Launcher](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Flow-Launcher/Flow.Launcher)：Windows 的快速文件和程序启动器。这是一款可以让你的工作流程更加丝滑的工具，相当于 Mac 上的 Alfred。它能够快速启动应用，方便地搜索文件、书签等内容，支持扩展插件、预览文件、系统命令、游戏模式等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/257526212.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -61,7 +61,7 @@ xdotool selectwindow windowclose
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/131449222.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[oceanbase](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/oceanbase/oceanbase)：一款国产的原生分布式数据库。这是由蚂蚁集团开源的一款基于 Paxos 协议和分布式架构的企业级分布式关系型数据库。它同时支持 OLTP 和 OLAP 的混合负载，具有高可用、高性能、水平扩展、兼容 SQL 语法等特点。
+9、[oceanbase](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/oceanbase/oceanbase)：一款国产的原生分布式数据库。这是源自蚂蚁集团的一款基于 Paxos 协议和分布式架构的企业级分布式关系型数据库。它同时支持 OLTP 和 OLAP 的混合负载，具有高可用、高性能、水平扩展、兼容 SQL 语法等特点。
 
 10、[rr](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rr-debugger/rr)：Linux 上的轻量级 C/C++ 调试工具。这是一款 Linux 上的轻量级调试 C/C++ 代码的工具，支持录制、重放和反向执行等操作，提供了一个可反复调试的环境，大大提升了调试效率。
 
