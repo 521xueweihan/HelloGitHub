@@ -73,7 +73,7 @@ ImGui::SliderFloat("float", &f, 0.0f, 1.0f);
 10、[css-protips](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AllThingsSmitty/css-protips)：CSS 专业技巧。一个帮你提升 CSS 技巧的收藏集。
 
 ### Go 项目
-11、[gitleaks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zricethezav/gitleaks)：一款静态应用程序安全测试(SAST)工具。它可以检测项目中是否包含密码、API Key、token 等信息，还能够轻松整合到 Git Hook 和 GitHub Action，实现提交代码时自动检测，通过告警和阻止 push 等方式，有效地防止敏感信息泄漏。
+11、[gitleaks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gitleaks/gitleaks)：一款静态应用程序安全测试(SAST)工具。它可以检测项目中是否包含密码、API Key、token 等信息，还能够轻松整合到 Git Hook 和 GitHub Action，实现提交代码时自动检测，通过告警和阻止 push 等方式，有效地防止敏感信息泄漏。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/119190187.gif' style="max-width:80%; max-height=80%;"></img></p>
 

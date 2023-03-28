@@ -78,7 +78,7 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/309781884.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[pyroscope](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pyroscope-io/pyroscope)：基于 Go 的开源实时性能分析平台。仅需在源码中添加几行代码，pyroscope 就能帮你找出代码的性能问题、CPU 使用过高的原因，还有丰富的图表和调用树展示。支持 Go、Python、Ruby 编程语言，[中文说明](https://github.com/pyroscope-io/pyroscope/blob/main/translations/README.ch.md)
+7、[pyroscope](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/grafana/pyroscope)：基于 Go 的开源实时性能分析平台。仅需在源码中添加几行代码，pyroscope 就能帮你找出代码的性能问题、CPU 使用过高的原因，还有丰富的图表和调用树展示。支持 Go、Python、Ruby 编程语言，[中文说明](https://github.com/pyroscope-io/pyroscope/blob/main/translations/README.ch.md)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/325724738.gif' style="max-width:80%; max-height=80%;"></img></p>
