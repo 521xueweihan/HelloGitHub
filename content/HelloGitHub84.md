@@ -200,7 +200,7 @@ john = table.find_one(name='John Doe')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/591273534.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[lsd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Peltoche/lsd)：下一代 ls 命令。这个项目是用 Rust 重写的类似 ls 命令的查看目录清单的工具，同时增加了颜色、图标等新功能，更加赏心悦目。
+30、[lsd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lsd-rs/lsd)：下一代 ls 命令。这个项目是用 Rust 重写的类似 ls 命令的查看目录清单的工具，同时增加了颜色、图标等新功能，更加赏心悦目。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/158927812.png' style="max-width:80%; max-height=80%;"></img></p>
 
