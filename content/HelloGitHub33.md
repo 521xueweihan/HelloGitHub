@@ -83,7 +83,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/131522404.png' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[js2image](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/0xYootou/js2image)：将源代码压缩成圣诞树的样子，使用此项目压缩生产环境代码后请注意测试。有兴趣的小伙伴可以尝试扩展出压缩成其它样子，很有意思
+11、[js2image](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aoao-eth/js2image)：将源代码压缩成圣诞树的样子，使用此项目压缩生产环境代码后请注意测试。有兴趣的小伙伴可以尝试扩展出压缩成其它样子，很有意思
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/33/48420530.png' style="max-width:80%; max-height=80%;"></img></p>

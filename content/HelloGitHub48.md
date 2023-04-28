@@ -75,7 +75,7 @@ myscan -p 21,22,23,80,443,8080 -t 256 192.168.1.1 192.168.1.254
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/48/188726142.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Go 项目
-7、[awesome-golang-algorithm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kylesliu/awesome-golang-algorithm)：Go 语言刷 LeetCode。[在线阅读](https://leetcode.gin.sh/)
+7、[awesome-golang-algorithm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/6boris/awesome-golang-algorithm)：Go 语言刷 LeetCode。[在线阅读](https://leetcode.gin.sh/)
 
 
 8、[gops](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/gops)：展示当前系统运行了哪些 Go 程序的工具，同时支持深入分析的参数

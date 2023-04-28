@@ -23,7 +23,7 @@
 ### C 项目
 1、[linked-list-good-taste](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mkirchner/linked-list-good-taste)：Linus Torvalds 解释编码品味的链表论证。在 2016 年的 TED 访谈中，Linus Torvalds 谈到了他认为好的编码品味，并举了一个例子：在单向链表中移除项目的两种实现。为了从链表中删除第一项，其中一个实现需要处理特殊情况，而另一个则不需要，Linus 更喜欢后者。
 
-2、[rpi4-osdev](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/isometimes/rpi4-osdev)：为树莓派 4 编写操作系统的教程。这是一份 RealVNC 的 CTO 在树莓派 4 裸机上，编写操作系统的教程。内容分为 15 个章节，每章完成操作系统的一个部分，并提供了源码和讲解。
+2、[rpi4-osdev](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/isometimes/rpi4-osdev)：为树莓派 4 编写操作系统的教程。这是一份 RealVNC 的 CTO 在树莓派 4 裸机上，编写操作系统的教程。内容分为 15 个章节，每章完成操作系统的一个部分，并提供了源码和讲解。来自 [@刘三非](https://hellogithub.com/user/VhrXCAs7cMxL08W) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/279028703.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -61,12 +61,12 @@ xdotool selectwindow windowclose
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/131449222.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[oceanbase](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/oceanbase/oceanbase)：一款国产的原生分布式数据库。这是源自蚂蚁集团的一款基于 Paxos 协议和分布式架构的企业级分布式关系型数据库。它同时支持 OLTP 和 OLAP 的混合负载，具有高可用、高性能、水平扩展、兼容 SQL 语法等特点。
+9、[oceanbase](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/oceanbase/oceanbase)：一款国产的原生分布式数据库。这是源自蚂蚁集团的一款基于 Paxos 协议和分布式架构的企业级分布式关系型数据库。它同时支持 OLTP 和 OLAP 的混合负载，具有高可用、高性能、水平扩展、兼容 SQL 语法等特点。来自 [@lijiayun123](https://hellogithub.com/user/licrT58f763QMR0) 的分享
 
 10、[rr](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rr-debugger/rr)：Linux 上的轻量级 C/C++ 调试工具。这是一款 Linux 上的轻量级调试 C/C++ 代码的工具，支持录制、重放和反向执行等操作，提供了一个可反复调试的环境，大大提升了调试效率。
 
 ### Go 项目
-11、[alist](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alist-org/alist)：一款支持多种存储的文件列表程序。它支持一键安装，能够方便地聚合散落在各处的文件，轻松实现文件在线查看服务。支持包括本地存储、阿里云盘、百度网盘、OneDrive 、WebDAV 等多种存储方式。
+11、[alist](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alist-org/alist)：一款支持多种存储的文件列表程序。它支持一键安装，能够方便地聚合散落在各处的文件，轻松实现文件在线查看服务。支持包括本地存储、阿里云盘、百度网盘、OneDrive 、WebDAV 等多种存储方式。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/323965659.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -140,7 +140,7 @@ func main() {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/228294148.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript 项目
-18、[koishi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/koishijs/koishi)：一款极易扩展的聊天机器人框架。它提供了便利的控制台和插件市场，让你无需编程基础也可以开箱即用，几分钟内搭建出自己的聊天机器人，支持 QQ、Telegram、Discord、飞书等聊天平台。
+18、[koishi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/koishijs/koishi)：一款极易扩展的聊天机器人框架。它提供了便利的控制台和插件市场，让你无需编程基础也可以开箱即用，几分钟内搭建出自己的聊天机器人，支持 QQ、Telegram、Discord、飞书等聊天平台。来自 [@HBSpy](https://hellogithub.com/user/rIXCy0ZT2L49Ysj) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/225572038.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -148,7 +148,7 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/114938943.png' style="max-width:80%; max-height=80%;"></img></p>
 
-20、[qinglong](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/whyour/qinglong)：支持多种脚本语言的定时任务管理平台。这是一款定时执行脚本的平台，提供了在线管理脚本、环境变量、查看日志、秒级定时任务等功能，支持 Python3、JavaScript、shell 等脚本语言。
+20、[qinglong](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/whyour/qinglong)：支持多种脚本语言的定时任务管理平台。这是一款定时执行脚本的平台，提供了在线管理脚本、环境变量、查看日志、秒级定时任务等功能，支持 Python3、JavaScript、shell 等脚本语言。来自 [@yanyuwangluo](https://hellogithub.com/user/LtSdACHwDTgO2ux) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/347404990.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -156,7 +156,7 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/279995113.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-22、[uptime-kuma](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/louislam/uptime-kuma)：一款极简的 uptime 监控工具。该项目可以用来监控服务正常运行时间，它界面美观、支持 Docker 一键部署，提供了中文界面、通知、多状态页面等实用功能。
+22、[uptime-kuma](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/louislam/uptime-kuma)：一款极简的 uptime 监控工具。该项目可以用来监控服务正常运行时间，它界面美观、支持 Docker 一键部署，提供了中文界面、通知、多状态页面等实用功能。来自 [@浮生若夢](https://hellogithub.com/user/hKmH64UjOdwgCEi) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/382496361.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -166,7 +166,7 @@ func main() {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/129852395.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
-24、[bar_chart_race](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dexplo/bar_chart_race)：基于 Python 的动态条形图。通过该项目可以用 Python 创建条形图比赛动画，显示数据排名的动态条形图，直观地展示数据变化过程。
+24、[bar_chart_race](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dexplo/bar_chart_race)：基于 Python 的动态条形图。通过该项目可以用 Python 创建条形图比赛动画，显示数据排名的动态条形图，直观地展示数据变化过程。来自 [@databook](https://hellogithub.com/user/1qC4w2Ey6bu0fgR) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/259213243.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -187,7 +187,7 @@ john = table.find_one(name='John Doe')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/266941405.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[secretflow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/secretflow/secretflow)：蚂蚁开源的隐私计算框架。隐私计算即通过技术的手段实现数据在参与方可用不可见，让数据在安全和不泄露隐私的情况下流通、开放。该项目采用 Python 语言编写，支持包括 MPC、FL、TEE、HE、DP 在内的多种主流隐私计算技术。
+27、[secretflow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/secretflow/secretflow)：蚂蚁开源的隐私计算框架。隐私计算即通过技术的手段实现数据在参与方可用不可见，让数据在安全和不泄露隐私的情况下流通、开放。该项目采用 Python 语言编写，支持包括 MPC、FL、TEE、HE、DP 在内的多种主流隐私计算技术。来自 [@vector](https://hellogithub.com/user/UBnaedx6ch7KzF4) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/481901631.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -200,11 +200,11 @@ john = table.find_one(name='John Doe')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/591273534.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[lsd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lsd-rs/lsd)：下一代 ls 命令。这个项目是用 Rust 重写的类似 ls 命令的查看目录清单的工具，同时增加了颜色、图标等新功能，更加赏心悦目。
+30、[lsd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lsd-rs/lsd)：下一代 ls 命令。这个项目是用 Rust 重写的类似 ls 命令的查看目录清单的工具，同时增加了颜色、图标等新功能，更加赏心悦目。来自 [@pujianquan](https://hellogithub.com/user/pSBMNFK9ldZLgsa) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/158927812.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[typst](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/typst/typst)：比 LaTex 更好学的标记语言。这是一款新的基于标记语言的排版系统，它比知名的 LaTex 更加简洁、更容易上手，输出的公式也很漂亮，还可以更换各种字体。
+31、[typst](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/typst/typst)：比 LaTex 更好学的标记语言。这是一款新的基于标记语言的排版系统，它比知名的 LaTex 更加简洁、更容易上手，输出的公式也很漂亮，还可以更换各种字体。来自 [@databook](https://hellogithub.com/user/1qC4w2Ey6bu0fgR) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/210702427.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -232,21 +232,21 @@ john = table.find_one(name='John Doe')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/281764334.png' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[GameDevMind](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gonglei007/GameDevMind)：全面的游戏开发技术图谱。该项目用思维导图的方式，展示了游戏开发需要具备的能力，包含技术栈、方法、工具、流程、管理、运营等方面。
+38、[GameDevMind](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gonglei007/GameDevMind)：全面的游戏开发技术图谱。该项目用思维导图的方式，展示了游戏开发需要具备的能力，包含技术栈、方法、工具、流程、管理、运营等方面。来自 [@gonglei007](https://hellogithub.com/user/dl593RYb28vQBki) 的分享
 
-39、[immersive-translate](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/immersive-translate/immersive-translate)：沉浸式双语网页翻译扩展。这是一个免费的翻译插件，可以在保留原文的情况下显示译文，支持接入 10 多种翻译服务，适用于 Chromium、Firefox、Safari 等浏览器。项目处于闭源开发的状态，想要贡献代码的同学需要先申请。
+39、[immersive-translate](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/immersive-translate/immersive-translate)：沉浸式双语网页翻译扩展。这是一个免费的翻译插件，可以在保留原文的情况下显示译文，支持接入 10 多种翻译服务，适用于 Chromium、Firefox、Safari 等浏览器。项目处于闭源开发的状态，想要贡献代码的同学需要先申请。来自 [@浮生若夢](https://hellogithub.com/user/hKmH64UjOdwgCEi) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/575401013.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-40、[PPHC](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/johnlui/PPHC)：《高并发的哲学原理》。这本书讨论的是 Web 服务高并发问题，内容由浅入深地介绍了 Apache、Nginx、epoll、交换机、k8s、数据库、分布式、微服务架构等解决高并发问题的技术和方案。
+40、[PPHC](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/johnlui/PPHC)：《高并发的哲学原理》。这本书讨论的是 Web 服务高并发问题，内容由浅入深地介绍了 Apache、Nginx、epoll、交换机、k8s、数据库、分布式、微服务架构等解决高并发问题的技术和方案。来自 [@吕文翰](https://hellogithub.com/user/QkntmXFwR5yS7pr) 的分享
 
 41、[py_regular_expressions](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/learnbyexample/py_regular_expressions)：《Python 正则表达式从入门到精通》。这本书包含数百个示例和练习，涵盖了 Python 正则表达式从初级到高级的用法。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/165224631.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 机器学习
-42、[Bringing-Old-Photos-Back-to-Life](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)：通过深度学习修复老照片的工具。由微软开源的深度学习项目，可用于修复破损的老照片，修复效果显著。
+42、[Bringing-Old-Photos-Back-to-Life](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)：通过深度学习修复老照片的工具。由微软开源的深度学习项目，可用于修复破损的老照片，修复效果显著。来自 [@lastone](https://hellogithub.com/user/y6WLMKXlxiH1b74) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/274594200.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -274,7 +274,7 @@ john = table.find_one(name='John Doe')
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub83.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub83.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub85.md">『下一期』</a>
 </p>
 
 ---

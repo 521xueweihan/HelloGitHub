@@ -117,8 +117,7 @@ print ifconfig("eth0")
 16、[docker_practice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yeasy/docker_practice)：Docker 从入门到实践
 
 
-17、[explore-flask-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spacewander/explore-flask-zh)：[《explore flask》中文翻译](https://spacewander.github.io/explore-flask-zh/index.html)
-
+17、[explore-flask](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rpicard/explore-flask)：《Explore Flask》。这是一本关于 Python 知名 Web 框架 Flask 的书籍，内容包含基础入门和部署实战。
 
 18、[nginx-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/taobao/nginx-book)：Nginx 开发从入门到精通——本书的作者为淘宝核心系统服务器平台组的成员
 

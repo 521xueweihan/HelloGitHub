@@ -128,7 +128,7 @@ ok  	github.com/allegro/bigcache/v2/caches_bench	256.257s
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/148397397.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[RedisShake](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/RedisShake)：阿里开源的用于 redis 数据同步的工具。原理图如下：
+9、[RedisShake](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tair-opensource/RedisShake)：阿里开源的用于 redis 数据同步的工具。原理图如下：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/173063554.png' style="max-width:80%; max-height=80%;"></img></p>

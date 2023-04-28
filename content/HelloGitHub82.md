@@ -25,7 +25,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/537042935.png' style="max-width:80%; max-height=80%;"></img></p>
 
-2、[sumatrapdf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sumatrapdfreader/sumatrapdf)：免费小巧的开源 PDF 阅读器。这是一款体积小、占用内存少、启动速度快的 Windows PDF 阅读工具，拥有日常所需的所有功能和简约大方的界面，这一切不多不少刚刚好。
+2、[sumatrapdf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sumatrapdfreader/sumatrapdf)：免费小巧的开源 PDF 阅读器。这是一款体积小、占用内存少、启动速度快的 Windows PDF 阅读工具，拥有日常所需的所有功能和简约大方的界面，这一切不多不少刚刚好。来自 [@Tianchi Gao](https://hellogithub.com/user/8rWP9fXUuvRdwSz) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/6041301.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -76,7 +76,7 @@ res->body;
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/108505982.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[SFML](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SFML/SFML)：简单高效的 C++ 多媒体库。这是一个可用来简化游戏和多媒体应用开发的 C++ 库，因其上手门槛低和良好的生态，成为了众多 C++ 新手入门图形化开发的首选。
+9、[SFML](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SFML/SFML)：简单高效的 C++ 多媒体库。这是一个可用来简化游戏和多媒体应用开发的 C++ 库，因其上手门槛低和良好的生态，成为了众多 C++ 新手入门图形化开发的首选。来自 [@1024](https://hellogithub.com/user/yKq0Tx2oCRSzLcH) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/1524684.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -124,7 +124,7 @@ kubectl apply -f pkg/k8s/crd/install/shifu_install.yml
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/499359479.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[HydraLab](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/HydraLab)：开源的智能移动云测平台。这是一个基于 Spring Boot+React 构建的云测服务，它部署简单开箱即用，支持在线管理测试设备、执行测试用例、测试结果可视化等功能。
+17、[HydraLab](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/HydraLab)：开源的智能移动云测平台。这是一个基于 Spring Boot+React 构建的云测服务，它部署简单开箱即用，支持在线管理测试设备、执行测试用例、测试结果可视化等功能。来自 [@Nathan Bu](https://hellogithub.com/user/hsaTiud2BzvNP6g) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/486525050.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -171,7 +171,7 @@ const svg = await satori(
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/452769633.png' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[underscore](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jashkenas/underscore)：强大的 JavaScript 函数库。该库提供了 100 多个实用的函数，包括常用的 map、filter、reduce、invoke 以及更专业的辅助函数，比如函数绑定、JavaScript 模板功能、创建快速索引等，让我们可以更加方便地在 JavaScript 中实现函数式编程。
+23、[underscore](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jashkenas/underscore)：强大的 JavaScript 函数库。该库提供了 100 多个实用的函数，包括常用的 map、filter、reduce、invoke 以及更专业的辅助函数，比如函数绑定、JavaScript 模板功能、创建快速索引等，让我们可以更加方便地在 JavaScript 中实现函数式编程。来自 [@Y. S](https://hellogithub.com/user/nSRYiOjq19vby5B) 的分享
 ```javascript
 // countBy
 _.countBy([1, 2, 3, 4, 5], function(num) {
@@ -249,7 +249,7 @@ h_flow() # "Hello, World! I'm HelloGitHub!"
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/390896426.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[k8s_PaaS](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ben1234560/k8s_PaaS)：教你用 K8s 部署一套完整服务的教程。通过该教程你可以学习到如何部署 Kubernetes 集群，以及在此基础上搭建由 Apollo、Jenkins、Prometheus 等服务组成的完整的软件研发和部署平台。
+35、[k8s_PaaS](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ben1234560/k8s_PaaS)：教你用 K8s 部署一套完整服务的教程。通过该教程你可以学习到如何部署 Kubernetes 集群，以及在此基础上搭建由 Apollo、Jenkins、Prometheus 等服务组成的完整的软件研发和部署平台。来自 [@郭学威](https://hellogithub.com/user/YRakbLESMsm7c9l) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/294880855.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -263,7 +263,7 @@ git clone https://github.com/Botspot/pi-apps
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/297820951.png' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[smiley-sans](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/atelier-anchor/smiley-sans)：一款完全开源、精雕细琢的中文黑体。这款字体名为「得意黑」，整体字身窄而斜，细节融入了取法手绘美术字的特殊造型。支持简体中文常用字、拉丁字母、阿拉伯数字和各种标点符号。
+37、[smiley-sans](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/atelier-anchor/smiley-sans)：一款完全开源、精雕细琢的中文黑体。这款字体名为「得意黑」，整体字身窄而斜，细节融入了取法手绘美术字的特殊造型。支持简体中文常用字、拉丁字母、阿拉伯数字和各种标点符号。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/564785929.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -310,7 +310,7 @@ print("Label probs:", probs)  # 图文匹配概率 [[1.268734e-03 5.436878e-02 6
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/511745849.png' style="max-width:80%; max-height=80%;"></img></p>
 
-42、[KuiperInfer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zjhellofss/KuiperInfer)：从零编写深度学习推理框架的教程。手把手教你用 C++ 写出一个深度学习推理框架，项目整体风格和结构借鉴了Caffe。初学者通过该教程不仅可以了解深度学习框架背后的知识，还能够学会如何上手一个中等规模的 C++ 项目。
+42、[KuiperInfer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zjhellofss/KuiperInfer)：从零编写深度学习推理框架的教程。手把手教你用 C++ 写出一个深度学习推理框架，项目整体风格和结构借鉴了Caffe。初学者通过该教程不仅可以了解深度学习框架背后的知识，还能够学会如何上手一个中等规模的 C++ 项目。来自 [@炸排骨](https://hellogithub.com/user/vIKAZxSG1s2iyDE) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/568649213.png' style="max-width:80%; max-height=80%;"></img></p>
 

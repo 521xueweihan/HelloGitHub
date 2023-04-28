@@ -74,7 +74,7 @@ sudo docker run \
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/20653934.png' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[dsq](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/multiprocessio/dsq)：可直接用 SQL 查询数据文件的命令行工具。通过该项目无需将数据导入数据库，就能用 SQL 查询文件内的数据，可执行模糊查询、计数、排序等命令，支持 JSON、CSV、Excel、Parquet、YAML 等类型的文件。还可以搭配其它命令行工具(jq)，实现更丰富的功能。
+7、[dsq](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/multiprocessio/dsq)：可直接用 SQL 查询数据文件的命令行工具。通过该项目无需将数据导入数据库，就能用 SQL 查询文件内的数据，可执行模糊查询、计数、排序等命令，支持 JSON、CSV、Excel、Parquet、YAML 等类型的文件。还可以搭配其它命令行工具(jq)，实现更丰富的功能。来自 [@总钻风](https://hellogithub.com/user/PDzxTYajWgimyF9) 的分享
 ```shell
 $ dsq testdata/userdata.parquet 'select count(*) from {}' | jq
 [
@@ -134,7 +134,7 @@ $ supervisord -c supervisor.conf
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/35866694.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[slidev](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/slidevjs/slidev)：专为程序员打造的演示文稿工具。该项目是基于 Web 的幻灯片制作和演示工具，让用户可以使用 纯文本+Markdown 语法制作幻灯片，支持导出为 PDF 或 PNG 格式的文件，或以单页面展示幻灯片。对于大多数不擅长做 PPT 的程序员，基于提供的现成主题也可以制作出看起来不错的演示文稿。
+17、[slidev](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/slidevjs/slidev)：专为程序员打造的演示文稿工具。该项目是基于 Web 的幻灯片制作和演示工具，让用户可以使用 纯文本+Markdown 语法制作幻灯片，支持导出为 PDF 或 PNG 格式的文件，或以单页面展示幻灯片。对于大多数不擅长做 PPT 的程序员，基于提供的现成主题也可以制作出看起来不错的演示文稿。来自 [@总钻风](https://hellogithub.com/user/PDzxTYajWgimyF9) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/361044034.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -184,7 +184,7 @@ if __name__ == '__main__':
 ```
 
 ### Rust 项目
-25、[difftastic](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Wilfred/difftastic)：命令行文件对比工具。一种可根据文件的语法，进行结构化比较的工具，支持 30 多种编程语言。
+25、[difftastic](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Wilfred/difftastic)：命令行文件对比工具。一种可根据文件的语法，进行结构化比较的工具，支持 30 多种编程语言。来自 [@SHOWTA](https://hellogithub.com/user/GAeFLr6oWyYcnbp) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/162276894.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -210,11 +210,11 @@ ABC
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/9243402.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
-29、[fonteditor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ecomfe/fonteditor)：在线字体编辑器。在线编辑、转换、预览字体文件，支持多种字体格式。
+29、[fonteditor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ecomfe/fonteditor)：在线字体编辑器。在线编辑、转换、预览字体文件，支持多种字体格式。来自 [@奈何人间](https://hellogithub.com/user/6oGlnBYh9y4XFDC) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/28329935.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[free-for-dev](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ripienaar/free-for-dev)：专为程序员准备的免费服务清单。现在虽然有大量免费的服务，但大多数开发者很难找到它们，这是一份免费服务(SaaS、PaaS、IaaS 等)和产品的列表。
+30、[free-for-dev](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ripienaar/free-for-dev)：专为程序员准备的免费服务清单。现在虽然有大量免费的服务，但大多数开发者很难找到它们，这是一份免费服务(SaaS、PaaS、IaaS 等)和产品的列表。来自 [@westinyang](https://hellogithub.com/user/jTPCSG8Q2MashYf) 的分享
 
 31、[GameShell](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/phyver/GameShell)：玩游戏学习 Shell。这是一款帮助入门 shell 命令的文字游戏。
 
@@ -224,7 +224,7 @@ ABC
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/254832799.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[platformio-core](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/platformio/platformio-core)：专业的嵌入式开发平台。做嵌入式开发时往往会遇到诸多不便，比如硬件厂商的 IDE 绑定和复杂的配置过程。这款 IDE 能让你轻松突破这些限制，PlatformIO IDE 兼容  Arduino、树莓派和 ESP32 在内的 40 多种平台，以及超过 20+ 的框架。它不仅支持 Debug、代码自动补全、单元测试、串口调试等实用的功能，还提供了 VSCode、Vim 等编辑器的插件，把开发工具的选择权彻底地还给开发者。
+33、[platformio-core](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/platformio/platformio-core)：专业的嵌入式开发平台。做嵌入式开发时往往会遇到诸多不便，比如硬件厂商的 IDE 绑定和复杂的配置过程。这款 IDE 能让你轻松突破这些限制，PlatformIO IDE 兼容  Arduino、树莓派和 ESP32 在内的 40 多种平台，以及超过 20+ 的框架。它不仅支持 Debug、代码自动补全、单元测试、串口调试等实用的功能，还提供了 VSCode、Vim 等编辑器的插件，把开发工具的选择权彻底地还给开发者。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/19606299.png' style="max-width:80%; max-height=80%;"></img></p>
 

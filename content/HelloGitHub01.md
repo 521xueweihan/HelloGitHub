@@ -79,6 +79,8 @@
 12、[Learning-SICP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DeathKing/Learning-SICP)：《计算机程序的构造和解释》公开课
 
 
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/6688319.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 开源书籍
 13、[design_patterns](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/me115/design_patterns)：《图说设计模式》，[在线阅读](https://design-patterns.readthedocs.io/zh_CN/latest/index.html#)
 

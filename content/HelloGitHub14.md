@@ -129,6 +129,8 @@ gcc -g -O2 testSearcher.c ip2region.c
 21、[ohmyzsh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ohmyzsh/ohmyzsh)：一个能够让你快速上手，史称 “终极 Shell” zsh 的工具，让你感觉终端前所未有的好用。详细介绍 —— [MacTalk 之终极 Shell](http://macshuo.com/?p=676)
 
 
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/291137.png' style="max-width:80%; max-height=80%;"></img></p>
+
 22、[ResumeSample](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/geekcompany/ResumeSample)：程序员简历模板系列（Markdown）
 
 

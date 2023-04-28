@@ -56,7 +56,7 @@
 9、[tesseract](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tesseract-ocr/tesseract)：一款“老当益壮”的 OCR 引擎。这个项目最早诞生于 1985 年，几经易主在 2005 年的时候 HP 将其开源。目前，Tesseract 已经成为 OCR 领域 Star 数最多的开源项目，它支持包括中文在内的 100 多种语言，具有精准度高、跨平台等特点。
 
 ### CSS 项目
-10、[china_school_badge](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lovefc/china_school_badge)：全国高校校徽字体图标库。该项目包含国内 200 多所高校校徽制作的字体图标。
+10、[china_school_badge](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lovefc/china_school_badge)：全国高校校徽字体图标库。该项目包含国内 200 多所高校校徽制作的字体图标。来自 [@宁静致远](https://hellogithub.com/user/8OZH7rITMmy1PeQ) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/262968659.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -75,7 +75,7 @@
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/316836816.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Go 项目
-12、[answer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/answerdev/answer)：一款开源的问答社区。采用 Go 语言编写的问答社区，支持积分、提问、回答、标签等功能，部署简单。
+12、[answer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/answerdev/answer)：一款开源的问答社区。采用 Go 语言编写的问答社区，支持积分、提问、回答、标签等功能，部署简单。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/542931741.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -172,7 +172,7 @@ def article_stats():
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/132709824.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[FileCodeBox](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vastsa/FileCodeBox)：一款匿名口令分享文本和文件的服务。该项目是基于 FastAPI+SQLite3 开发的文件分享服务，支持分享文件、口令提取文件等功能，无需注册即可完成文件提取。
+30、[FileCodeBox](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vastsa/FileCodeBox)：一款匿名口令分享文本和文件的服务。该项目是基于 FastAPI+SQLite3 开发的文件分享服务，支持分享文件、口令提取文件等功能，无需注册即可完成文件提取。来自 [@神经蛙bAwXs](https://hellogithub.com/user/aBnyJNWvqRc4HXj) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/576247474.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -207,7 +207,7 @@ if __name__ == '__main__':
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/232793032.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
-35、[chinese-independent-blogs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/timqian/chinese-independent-blogs)：中文个人独立博客网站合集。如果说中文独立博客的时代已经过去，那么至少还有这么一块地方，属于热爱自由的博主们。
+35、[chinese-independent-blogs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/timqian/chinese-independent-blogs)：中文个人独立博客网站合集。如果说中文独立博客的时代已经过去，那么至少还有这么一块地方，属于热爱自由的博主们。来自 [@Tianchi Gao](https://hellogithub.com/user/8rWP9fXUuvRdwSz) 的分享
 
 36、[CSrankings](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/emeryberger/CSrankings)：非官方的顶级 CS 学校排名榜单。该项目以高校教师在计算机科学(CS)各领域顶级会议上发表的论文数量，作为重要的衡量标准。
 
@@ -221,7 +221,7 @@ if __name__ == '__main__':
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/519401968.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[relationship](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mumuy/relationship)：中国亲戚关系计算器。该项目实现了中国亲戚关系及称呼之间的换算，可以将中国复杂的亲戚关系及称呼通过计算器的方式简单的运算出来。
+39、[relationship](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mumuy/relationship)：中国亲戚关系计算器。该项目实现了中国亲戚关系及称呼之间的换算，可以将中国复杂的亲戚关系及称呼通过计算器的方式简单的运算出来。来自 [@掉链自行车](https://hellogithub.com/user/EoL2p5w8gSRvXP3) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/54008251.png' style="max-width:80%; max-height=80%;"></img></p>
 

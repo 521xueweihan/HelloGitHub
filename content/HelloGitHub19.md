@@ -88,22 +88,12 @@ $('#btnDemo').selectMenu({
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/106082125.png' style="max-width:80%; max-height=80%;"></img></p>
 
-10、[wxapp-market](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/o2team/wxapp-market)：小程序营销组件，使用简单、方式齐全。包含示例代码，玩法多样
-- 大转盘
-- 刮刮乐
-- 老虎机
-- 水果机
-- ...
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/102470633.gif' style="max-width:80%; max-height=80%;"></img></p>
-
 ### Kotlin 项目
-11、[kotlin-examples](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Kotlin/kotlin-examples)：JetBrains 开源的 Kotlin 语言 Web 示例项目
+10、[kotlin-examples](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Kotlin/kotlin-examples)：JetBrains 开源的 Kotlin 语言 Web 示例项目
 
 
 ### PHP 项目
-12、[Biny](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/Biny)：腾讯开源的一款高性能的超轻量级PHP框架，用于快速开发现代 Web 应用程序。代码简洁优雅，对应用层，数据层，模板渲染层的封装简单易懂，能够快速上手使用，[文档](http://www.billge.cc/)齐全。高性能，框架响应时间在 1ms 以内，单机 qps 轻松上3000。
+11、[Biny](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/Biny)：腾讯开源的一款高性能的超轻量级PHP框架，用于快速开发现代 Web 应用程序。代码简洁优雅，对应用层，数据层，模板渲染层的封装简单易懂，能够快速上手使用，[文档](http://www.billge.cc/)齐全。高性能，框架响应时间在 1ms 以内，单机 qps 轻松上3000。
 - 支持跨库连表，条件复合筛选，查询PK缓存等
 - 同步异步请求分离，类的自动化加载管理
 - 支持Form表单验证，支持事件触发机制
@@ -112,13 +102,13 @@ $('#btnDemo').selectMenu({
 
 
 ### Python 项目
-13、[binlog2sql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/danfengcao/binlog2sql)：从 MySQL binlog 解析出你要的 SQL。根据不同选项，提供如下功能
+12、[binlog2sql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/danfengcao/binlog2sql)：从 MySQL binlog 解析出你要的 SQL。根据不同选项，提供如下功能
 - 数据快速回滚，[闪回原理与实践](https://github.com/danfengcao/binlog2sql/blob/master/example/mysql-flashback-priciple-and-practice.md)
 - 主从切换后新 master 丢数据的修复
 - 从 binlog 生成标准SQL，带来的衍生功能
 
 
-14、[ItChat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/littlecodersh/ItChat)：开源的微信个人号SDK，提供了丰富的功能。从而使得 Python 调用微信、发送消息、传输文件等操作只需要编写极少的代码，示例代码如下：
+13、[ItChat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/littlecodersh/ItChat)：开源的微信个人号SDK，提供了丰富的功能。从而使得 Python 调用微信、发送消息、传输文件等操作只需要编写极少的代码，示例代码如下：
 ```python
 import itchat
 
@@ -128,13 +118,13 @@ itchat.send('Hello, filehelper', toUserName='filehelper')
 ```
 
 
-15、[pandas-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hangsz/pandas-tutorial)：这套 pandas 教程包含从初级到进阶的内容，适合初学者和希望进阶建立知识体系的数据科学从业者阅读。作者还在持续更新高级内容，你值得拥有
+14、[pandas-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hangsz/pandas-tutorial)：这套 pandas 教程包含从初级到进阶的内容，适合初学者和希望进阶建立知识体系的数据科学从业者阅读。作者还在持续更新高级内容，你值得拥有
 
 
-16、[pysheeet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/crazyguitar/pysheeet)：Python 速查表，[在线阅读](https://www.pythonsheets.com/)
+15、[pysheeet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/crazyguitar/pysheeet)：Python 速查表，[在线阅读](https://www.pythonsheets.com/)
 
 
-17、[robobrowser](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jmcarp/robobrowser)：提供多种模拟操作网页的库，比如获得网页内容、访问链接、点击按钮、填充并提交表单、上传文件。使用简单、API 友好。适用于想要通过脚本流程化操作，某些未提供这些操作接口的场景，示例代码如下：
+16、[robobrowser](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jmcarp/robobrowser)：提供多种模拟操作网页的库，比如获得网页内容、访问链接、点击按钮、填充并提交表单、上传文件。使用简单、API 友好。适用于想要通过脚本流程化操作，某些未提供这些操作接口的场景，示例代码如下：
 ```python
 # 上传文件
 from robobrowser import RoboBrowser
@@ -157,26 +147,26 @@ browser.submit(upload_form)
 
 
 ### 其它
-18、[Amazing-Windows-Apps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AmazingApps/Amazing-Windows-Apps)：该项目收录了众多 Windows 绝妙的项目、工具。这些软件都是经过测试，安全、免费、好用，[在线阅读](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/content/zh-CN/)
+17、[Amazing-Windows-Apps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AmazingApps/Amazing-Windows-Apps)：该项目收录了众多 Windows 绝妙的项目、工具。这些软件都是经过测试，安全、免费、好用，[在线阅读](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/content/zh-CN/)
 
 
-19、[chinese-poetry](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chinese-poetry/chinese-poetry)：中华古典文集数据集，包含 5.5 万首唐诗、26 万首宋诗和 2.1 万首宋词。唐宋两朝近 1.4 万古诗人和两宋时期1500 词人。以 json 文件、数据库方式存储，[爬取过程及分析](https://jackeygao.io/words/crawl-ci.html)
+18、[chinese-poetry](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chinese-poetry/chinese-poetry)：中华古典文集数据集，包含 5.5 万首唐诗、26 万首宋诗和 2.1 万首宋词。唐宋两朝近 1.4 万古诗人和两宋时期1500 词人。以 json 文件、数据库方式存储，[爬取过程及分析](https://jackeygao.io/words/crawl-ci.html)
 
 
-20、[ios-dev-flow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/leecade/ios-dev-flow)：iOS 开发流程，记录了 iOS 程序上架需要的方方面面
+19、[ios-dev-flow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/leecade/ios-dev-flow)：iOS 开发流程，记录了 iOS 程序上架需要的方方面面
 
 
-21、[remote-working](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/greatghoul/remote-working)：收集整理国内远程工作相关的项目
+20、[remote-working](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/greatghoul/remote-working)：收集整理国内远程工作相关的项目
 
 
 ### 开源书籍
-22、[kubernetes-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rootsongjc/kubernetes-handbook)：Kubernetes 中文指南／实践手册，[在线阅读](https://jimmysong.io/kubernetes-handbook/)
+21、[kubernetes-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rootsongjc/kubernetes-handbook)：Kubernetes 中文指南／实践手册，[在线阅读](https://jimmysong.io/kubernetes-handbook/)
 
 
-23、[microservices](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DocsHome/microservices)：《微服务：从设计到部署》中文版，[在线阅读](http://oopsguy.com/books/microservices/index.html)
+22、[microservices](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DocsHome/microservices)：《微服务：从设计到部署》中文版，[在线阅读](http://oopsguy.com/books/microservices/index.html)
 
 
-24、[op_practice_book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/meetbill/op_practice_book)：《运维实践指南》
+23、[op_practice_book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/meetbill/op_practice_book)：《运维实践指南》
 
 
 
