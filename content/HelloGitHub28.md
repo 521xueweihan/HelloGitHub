@@ -147,7 +147,7 @@ export default class Index extends Component {
 ```
 
 
-16、[Web-Series](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wx-chevalier/Web-Series)：现代 Web 开发导论，内容大纲如下： 
+16、[Web-Notes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wx-chevalier/Web-Notes)：现代 Web 开发导论，内容大纲如下： 
 - 基础篇
 - 进阶篇
 - 架构优化篇

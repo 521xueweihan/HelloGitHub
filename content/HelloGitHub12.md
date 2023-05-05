@@ -65,36 +65,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/80465011.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-### Java 项目
-5、[fresco](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facebook/fresco)：Facebook 开源的 Android 管理图片的库，[中文文档](https://www.fresco-cn.org/docs/index.html)。包含功能如下：
-- 显示占位图直到加载完成
-- 下载图片
-- 缓存图片
-- 图片不再显示时，从内存中移除
-- 等等
-
-
-### JavaScript 项目
-6、[octotree](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ovity/octotree)：为 GitHub 和 GitLab 网站，提供直观地显示项目目录结构的浏览器插件，效果如下：
-
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/19620844.png' style="max-width:80%; max-height=80%;"></img></p>
-
-7、[screenfull](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/screenfull)：极小、跨平台的 JavaScript 全屏插件，[在线 demo](https://sindresorhus.com/screenfull.js/)
-
-
-8、[standard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/standard/standard)：统一 JavaScript，只需一种样式，[中文](https://github.com/feross/standard/blob/master/docs/README-zhtw.md)
-
-
-9、[vue2-elm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bailicangdu/vue2-elm)：基于 vue2 + vuex 构建一个大型单页面应用，此项目大大小小共 45 个页面，涉及注册、登录、商品展示、购物车、下单等等，是一个完整的流程，
-
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/77189043.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### Objective-C 项目
-10、[xbar](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/matryer/xbar)：Bitbar 是可以将任何（自己或别人写好的）脚本的**输出**到 Mac OS 的状态栏上。同时，支持自定义更新频率。例如：定时获取比特币的价格、HelloGitHub 项目的 star 数量，使用步骤如下：
+5、[xbar](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/matryer/xbar)：Bitbar 是可以将任何（自己或别人写好的）脚本的**输出**到 Mac OS 的状态栏上。同时，支持自定义更新频率。例如：定时获取比特币的价格、HelloGitHub 项目的 star 数量，使用步骤如下：
 
 1. 运行该程序，选择脚本所在目录
 2. 确保脚本的有执行权限，赋予执行权限的命令：`chmod +x script.sh`
@@ -103,6 +74,34 @@
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/14376285.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### Java 项目
+6、[fresco](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facebook/fresco)：Facebook 开源的 Android 管理图片的库，[中文文档](https://www.fresco-cn.org/docs/index.html)。包含功能如下：
+- 显示占位图直到加载完成
+- 下载图片
+- 缓存图片
+- 图片不再显示时，从内存中移除
+- 等等
+
+
+### JavaScript 项目
+7、[octotree](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ovity/octotree)：为 GitHub 和 GitLab 网站，提供直观地显示项目目录结构的浏览器插件，效果如下：
+
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/19620844.png' style="max-width:80%; max-height=80%;"></img></p>
+
+8、[screenfull](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/screenfull)：极小、跨平台的 JavaScript 全屏插件，[在线 demo](https://sindresorhus.com/screenfull.js/)
+
+
+9、[standard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/standard/standard)：统一 JavaScript，只需一种样式，[中文](https://github.com/feross/standard/blob/master/docs/README-zhtw.md)
+
+
+10、[vue2-elm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bailicangdu/vue2-elm)：基于 vue2 + vuex 构建一个大型单页面应用，此项目大大小小共 45 个页面，涉及注册、登录、商品展示、购物车、下单等等，是一个完整的流程，
+
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/77189043.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
 11、[mycli](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dbcli/mycli)：mycli 是一个带语法高亮、自动补全的 MySQL 命令行客户端工具。例如，连接数据库方法：`mycli -h localhost -u 用户名 数据库`
@@ -137,6 +136,8 @@ Hello Google!
 ### 其它
 13、[gophers](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/egonelbre/gophers)：Go 吉祥物的各种图片素材
 
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/36784686.png' style="max-width:80%; max-height=80%;"></img></p>
 
 14、[node-interview](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ElemeFE/node-interview)：如何通过饿了么 Node.js 面试
 

@@ -108,7 +108,7 @@ public class ActivityEdgeEffectColor extends BaseActivity {
 
 
 ### JavaScript 项目
-11、[hotkeys](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jaywcjlove/hotkeys)：一个强健的 Javascript 库用于捕获键盘输入和输入的组合键。它没有依赖，压缩只有 3kb 左右。[在线展示](https://wangchujiang.com/hotkeys/)
+11、[hotkeys-js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jaywcjlove/hotkeys-js)：一个强健的 Javascript 库用于捕获键盘输入和输入的组合键。它没有依赖，压缩只有 3kb 左右。[在线展示](https://wangchujiang.com/hotkeys/)
 
 
 12、[pacman](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mumuy/pacman)：基于 HTML5 的吃豆人游戏。核心代码就两个文件，代码有注释、整洁。对于新手来说是个很好的实践项目。[在线试玩](http://passer-by.com/pacman/)

@@ -34,7 +34,7 @@ masscan -p 0-65535 IP --rate=1000
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/247198136.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-4、[imewlconverter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/studyzy/imewlconverter)：一款开源免费的输入法词库转换程序。输入法会根据用户的输入和选词频率，形成一套符合用户输入习惯的词库，但这个词库无法直接转换到其它输入法，如果你换了输入法就需要重新习惯、养成新的词库。该项目支持 20 多种输入法的用户词库相互导入、导出以及合并词库，能够将你的输入习惯带到全新的输入法。
+4、[imewlconverter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/studyzy/imewlconverter)：一款开源免费的输入法词库转换程序。输入法会根据用户的输入和选词频率，形成一套符合用户输入习惯的词库，但这个词库无法直接转换到其它输入法，如果你换了输入法就需要重新习惯、养成新的词库。该项目支持 20 多种输入法的用户词库相互导入、导出以及合并词库，能够将你的输入习惯带到全新的输入法。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/4001139.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -49,11 +49,11 @@ masscan -p 0-65535 IP --rate=1000
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/311683390.png' style="max-width:80%; max-height=80%;"></img></p>
 
-8、[NotepadNext](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dail8859/NotepadNext)：Notepad++  的替代品。采用 C++ 重写的跨平台文本编辑器，拥有和 Notepad++ 相似的界面和功能。
+8、[NotepadNext](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dail8859/NotepadNext)：Notepad++  的替代品。采用 C++ 重写的跨平台文本编辑器，拥有和 Notepad++ 相似的界面和功能。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/224468265.png' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[srs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ossrs/srs)：一款简单、高效的实时视频服务器。高性能的流媒体服务器，支持 RTMP、WebRTC、HLS 和 HTTP-FLV 等协议，常用来构建直播和视频会议的后端服务。
+9、[srs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ossrs/srs)：一款简单、高效的实时视频服务器。高性能的流媒体服务器，支持 RTMP、WebRTC、HLS 和 HTTP-FLV 等协议，常用来构建直播和视频会议的后端服务。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/34777562.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -130,7 +130,7 @@ trivy image [YOUR_IMAGE_NAME]
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/99183902.png' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[spring-cloud-tencent](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/spring-cloud-tencent)：腾讯开源的一站式微服务解决方案。基于 Spring Cloud 的服务治理框架，提供了微服务领域常见的服务注册与发现、配置中心、服务路由、限流熔断以及元数据链路透传等能力。
+17、[spring-cloud-tencent](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/spring-cloud-tencent)：腾讯开源的一站式微服务解决方案。基于 Spring Cloud 的服务治理框架，提供了微服务领域常见的服务注册与发现、配置中心、服务路由、限流熔断以及元数据链路透传等能力。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/390607649.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -216,12 +216,12 @@ while True:
     time.sleep(1)
 ```
 
-28、[Umi-OCR](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hiroi-sora/Umi-OCR)：基于 PaddleOCR 的 OCR 图片转文字识别软件。完全免费、可离线使用的开源软件，支持截屏识别文字、批量导入图片、横/竖排文字，还可以自动忽略水印区域，适用于 Win10 操作系统。
+28、[Umi-OCR](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hiroi-sora/Umi-OCR)：基于 PaddleOCR 的 OCR 图片转文字识别软件。完全免费、可离线使用的开源软件，支持截屏识别文字、批量导入图片、横/竖排文字，还可以自动忽略水印区域，适用于 Win10 操作系统。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/474839179.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Ruby 项目
-29、[linguist](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/github/linguist)：GitHub 官方开源的识别项目编程语言的库。该项目是 GitHub.com 网站上，用于检测开源项目编程语言占比的库。
+29、[linguist](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/github-linguist/linguist)：GitHub 官方开源的识别项目编程语言的库。该项目是 GitHub.com 网站上，用于检测开源项目编程语言占比的库。
 ```shell
 # 安装
 gem install github-linguist
@@ -318,7 +318,7 @@ code2flow 文件
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/21385916.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-39、[craftinginterpreters](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/munificent/craftinginterpreters)：《Crafting Interpreters》手撸解释器。该书作者在 Google 从事 Dart 语言的相关工作，书中内容是从一门小型自创编程语言 Lox 开始，详细介绍了如何为该语言制作解释器和虚拟机，推荐给想要学习编译原理或自创编程语言的同学。
+39、[craftinginterpreters](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/munificent/craftinginterpreters)：《Crafting Interpreters》手撸解释器。该书作者在 Google 从事 Dart 语言的相关工作，书中内容是从一门小型自创编程语言 Lox 开始，详细介绍了如何为该语言制作解释器和虚拟机，推荐给想要学习编译原理或自创编程语言的同学。来自 [@lastone](https://hellogithub.com/user/y6WLMKXlxiH1b74) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/79055279.png' style="max-width:80%; max-height=80%;"></img></p>
 

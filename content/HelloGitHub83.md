@@ -34,7 +34,7 @@ output> Hello World!
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/370679811.png' style="max-width:80%; max-height=80%;"></img></p>
 
-3、[ttyd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tsl0922/ttyd)：简单的网络共享终端的命令行工具。基于 libuv 和 WebGL2 构建的 Web 共享终端工具，安装简单使用方便，支持 SSL、文件传输、Sixel 图像输出等功能。可运行在 Windows、macOS、Linux、OpenWrt 等操作系统上，适用于远程运维、在线管理设备等场景。
+3、[ttyd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tsl0922/ttyd)：简单的网络共享终端的命令行工具。基于 libuv 和 WebGL2 构建的 Web 共享终端工具，安装简单使用方便，支持 SSL、文件传输、Sixel 图像输出等功能。可运行在 Windows、macOS、Linux、OpenWrt 等操作系统上，适用于远程运维、在线管理设备等场景。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/68063511.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -73,7 +73,7 @@ TEST_CASE("testing the factorial function") {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/22660515.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[pocketpy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/blueloveTH/pocketpy)：为嵌入游戏引擎而设计的 Python 解释器。一个 C++ 实现的轻量级的 Python 解释器，包含一个编译器和基于字节码的虚拟机，以及交互式命令窗的实现。所有功能均集成在单个头文件 pocketpy.h 中，不包含外部依赖项可以很方便地嵌入应用，立刻拥有执行 Python 代码的能力。
+9、[pocketpy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/blueloveTH/pocketpy)：为嵌入游戏引擎而设计的 Python 解释器。一个 C++ 实现的轻量级的 Python 解释器，包含一个编译器和基于字节码的虚拟机，以及交互式命令窗的实现。所有功能均集成在单个头文件 pocketpy.h 中，不包含外部依赖项可以很方便地嵌入应用，立刻拥有执行 Python 代码的能力。来自 [@最大的梦想家](https://hellogithub.com/user/GvV4jfIDhMEUO5x) 的分享
 ```c
 #include "pocketpy.h"
 
@@ -105,11 +105,11 @@ int main(){
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/1690480.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Go 项目
-11、[Dragonfly2](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dragonflyoss/Dragonfly2)：一款基于 P2P 的智能镜像和文件分发工具。它提供了高效、稳定、安全的基于 P2P 技术的文件分发和镜像加速系统，能够提高大规模文件传输的效率和速率，最大限度地利用网络带宽，适用于应用分发、缓存分发、日志分发和镜像分发等领域。
+11、[Dragonfly2](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dragonflyoss/Dragonfly2)：一款基于 P2P 的智能镜像和文件分发工具。它提供了高效、稳定、安全的基于 P2P 技术的文件分发和镜像加速系统，能够提高大规模文件传输的效率和速率，最大限度地利用网络带宽，适用于应用分发、缓存分发、日志分发和镜像分发等领域。来自 [@Gaius](https://hellogithub.com/user/Jn3TOfINLBjmQUS) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/309874357.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[ghz](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bojand/ghz)：简单的 gRPC 压测工具。一款用 Go 开发的专门用来压测 gRPC 服务的命令行工具，它使用简单、高效、支持自定义参数。
+12、[ghz](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bojand/ghz)：简单的 gRPC 压测工具。一款用 Go 开发的专门用来压测 gRPC 服务的命令行工具，它使用简单、高效、支持自定义参数。来自 [@禹过留声](https://hellogithub.com/user/4nvWkqTsd3LhXKm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/125127188.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -195,14 +195,14 @@ public class Basic {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/482719022.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-20、[memos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/usememos/memos)：一款清爽的轻量级备忘录中心。采用 React+Tailwind+TypeScript+Go 开发的备忘录中心，相当于极简的微博。支持私有/公开备忘录、标签、互动式日历等功能，以及 Docker 部署。
+20、[memos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/usememos/memos)：一款清爽的轻量级备忘录中心。采用 React+Tailwind+TypeScript+Go 开发的备忘录中心，相当于极简的微博。支持私有/公开备忘录、标签、互动式日历等功能，以及 Docker 部署。来自 [@Yoshino-s](https://hellogithub.com/user/J6BeoT2SX1CUApN) 的分享
 ```shell
 docker run -d --name memos -p 5230:5230 -v ~/.memos/:/var/opt/memos neosmemo/memos:latest
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/436297812.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-21、[SingleFile](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gildas-lormeau/SingleFile)：用于网页存档的浏览器扩展。可实现一键下载网页，能够将网页上的文字、图片等内容，完整地整合到单个 HTML 文件里，支持 Chrome、Firefox、Safari、Microsoft Edge 等主流浏览器。
+21、[SingleFile](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gildas-lormeau/SingleFile)：用于网页存档的浏览器扩展。可实现一键下载网页，能够将网页上的文字、图片等内容，完整地整合到单个 HTML 文件里，支持 Chrome、Firefox、Safari、Microsoft Edge 等主流浏览器。来自 [@DarkBlue](https://hellogithub.com/user/iZ4HE13VS5c97Ol) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/906022.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -249,7 +249,7 @@ type Movie {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/31691072.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-26、[manim](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ManimCommunity/manim)：用于创建数学动画的 Python 框架。它可以用简单的代码制作出精美的数学动画，通过动画的方式直观地解释一些复杂的数学问题。
+26、[manim](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ManimCommunity/manim)：用于创建数学动画的 Python 框架。它可以用简单的代码制作出精美的数学动画，通过动画的方式直观地解释一些复杂的数学问题。来自 [@databook](https://hellogithub.com/user/1qC4w2Ey6bu0fgR) 的分享
 ```python
 from manim import *
 
@@ -352,7 +352,7 @@ if panGestureRecognizer.state == .ended {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/467381275.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[localsend](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/localsend/localsend)：AirDrop 的开源替代方案。可以通过本地网络与附近的设备，安全地共享文件和消息，此过程不需要互联网，不需要外部服务器，支持 Windows、Linux、macOS、Android、iOS 设备。
+35、[localsend](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/localsend/localsend)：AirDrop 的开源替代方案。可以通过本地网络与附近的设备，安全地共享文件和消息，此过程不需要互联网，不需要外部服务器，支持 Windows、Linux、macOS、Android、iOS 设备。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/578822531.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -389,14 +389,14 @@ $ curl http://localhost:5000/predictions -X POST \
     -d '{"input": {"image": "https://.../input.jpg"}}'
 ```
 
-42、[stable-diffusion-webui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AUTOMATIC1111/stable-diffusion-webui)：Stable Diffusion 模型的 WebUI 界面。这是一个实现在浏览器上使用的 Stable Diffusion 模型的项目，支持通过文本/图片生成图片、嵌入文本、调整图片大小等功能。
+42、[stable-diffusion-webui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AUTOMATIC1111/stable-diffusion-webui)：Stable Diffusion 模型的 WebUI 界面。这是一个实现在浏览器上使用的 Stable Diffusion 模型的项目，支持通过文本/图片生成图片、嵌入文本、调整图片大小等功能。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/527591471.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub82.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub82.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub84.md">『下一期』</a>
 </p>
 
 ---

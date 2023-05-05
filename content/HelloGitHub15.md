@@ -132,32 +132,29 @@ def test():
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/52281283.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
-18、[ch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xnum/ch)：类似 virtualenv，可以在 Linux 下建立虛拟的 home 目录並切换，以管理不同工作或项目的文件
+18、[English-level-up-tips](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/byoungd/English-level-up-tips)：如何提高英语技能
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/90241666.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/92807616.png' style="max-width:80%; max-height=80%;"></img></p>
 
-19、[English-level-up-tips](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/byoungd/English-level-up-tips)：如何提高英语技能
-
-
-20、[Spacemacs-rocks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/emacs-china/Spacemacs-rocks)：用 21 天学习 Emacs 以及 Spacemacs（Emacs 的配置文件）的使用
+19、[Spacemacs-rocks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/emacs-china/Spacemacs-rocks)：用 21 天学习 Emacs 以及 Spacemacs（Emacs 的配置文件）的使用
 
 
-21、[SpaceVim](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SpaceVim/SpaceVim)：一个社区驱动的模块化 vim/neovim 配置集合，其中包含了多种功能模块，并且针对 neovim 做了功能优化。spacevim 有多种功能模块可供选择，支持多种语言。用户只需要选择需要的模块，就可以配置出一个适合自己的开发环境
+20、[SpaceVim](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SpaceVim/SpaceVim)：一个社区驱动的模块化 vim/neovim 配置集合，其中包含了多种功能模块，并且针对 neovim 做了功能优化。spacevim 有多种功能模块可供选择，支持多种语言。用户只需要选择需要的模块，就可以配置出一个适合自己的开发环境
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/77358263.png' style="max-width:80%; max-height=80%;"></img></p>
 
-22、[vim-galore-zh_cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wsdjeg/vim-galore-zh_cn)：Vim 从入门到精通
+21、[vim-galore-zh_cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wsdjeg/vim-galore-zh_cn)：Vim 从入门到精通
 
 
 ### 开源书籍
-23、[es6tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ruanyf/es6tutorial)：阮一峰老师的开源精品，ECMAScript 6 入门书籍，[在线阅读](http://es6.ruanyifeng.com/)
+22、[es6tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ruanyf/es6tutorial)：阮一峰老师的开源精品，ECMAScript 6 入门书籍，[在线阅读](http://es6.ruanyifeng.com/)
 
 
 
 
-24、[redis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangz1990/redis)：《Redis Command Reference》全文的中文翻译版，[在线阅读](http://redisdoc.com/)
+23、[redis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangz1990/redis)：《Redis Command Reference》全文的中文翻译版，[在线阅读](http://redisdoc.com/)
 
 
 

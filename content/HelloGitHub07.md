@@ -107,7 +107,7 @@ ua.random
 
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/07/3544424.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/07/3544424.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[langid.py](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/saffsd/langid.py)：用于识别输入文本数据所属的语种，目前支持 97 种语言识别。示例代码：
 ```python
