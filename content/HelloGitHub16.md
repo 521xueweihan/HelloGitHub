@@ -160,6 +160,8 @@ namespace WeixinSDK.Test.Fake
 20、[feather](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/feathericons/feather)：简洁、清爽、免费的 icon 集合
 
 
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/20270252.png' style="max-width:80%; max-height=80%;"></img></p>
+
 21、[restful-api-design-references](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aisuhua/restful-api-design-references)：RESTful API 设计参考文献列表，可帮助你更加彻底的了解 REST 风格的接口设计
 
 

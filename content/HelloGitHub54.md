@@ -171,7 +171,7 @@ roncoo-pay
 12、[IconPark](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bytedance/IconPark)：该开源库提供了 1200+ 高质量图标，还有一个界面便于定制图标。强大之处是可以通过改变一个 SVG 文件的属性来变换出多种主题，支持导出 SVG、PNG、Vue 和 React 图标组件等。极大的方便了设计师和开发者，让他们有更多时间逛 HG 了
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/282828123.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/282828123.png' style="max-width:80%; max-height=80%;"></img></p>
 
 13、[mind-elixir-core](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ssshooter/mind-elixir-core)：一款免费开源的思维导图 JS 库。[在线尝试](https://mindelixir.ink/#/)
 
@@ -201,15 +201,15 @@ roncoo-pay
 18、[learn-python3](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jerry-git/learn-python3)：一份 Python3 的教程，请查收。该教程采用 Jupyter notebooks 形式，便于运行和阅读。并且还包含了练习题，对新手友好。缺点的话就是英文的教程，但是我都能看懂你肯定也可以
 
 
-19、[readthedocs.org](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/readthedocs/readthedocs.org)：知名文档社区网站（readthedocs.org）的开源源码。该网站上托管了：Scrapy、requests、bootstrap-datepicker 等知名库的文档，我看了下项目是基于 Django 开发的，文件有些多看起来需要点耐心
-
-
-20、[reallive](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/parzulpan/reallive)：一个网络直播聚合平台，能够观看视频直播、高清电视和收听广播电台等。目前支持 30+ 个视频直播、50+ 个高清电视频道和 70+ 个广播电台，比较全面的 Web 项目，用到的技术栈：
+19、[livebox](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/parzulpan/livebox)：一个网络直播聚合平台，能够观看视频直播、高清电视和收听广播电台等。目前支持 30+ 个视频直播、50+ 个高清电视频道和 70+ 个广播电台，比较全面的 Web 项目，用到的技术栈：
 - 前端/客户端：Qt、Vue、Flutter 等
 - 后端：MySQL、Redis、Kafka/RabbitMQ、Elasticsearch 等
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/272427828.png' style="max-width:80%; max-height=80%;"></img></p>
+
+20、[readthedocs.org](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/readthedocs/readthedocs.org)：知名文档社区网站（readthedocs.org）的开源源码。该网站上托管了：Scrapy、requests、bootstrap-datepicker 等知名库的文档，我看了下项目是基于 Django 开发的，文件有些多看起来需要点耐心
+
 
 21、[taichi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/taichi-dev/taichi)：一个高性能图形学编程框架。它可以将你编写的 Python 代码转换成高效的汇编代码，在多 CPU 和 GPU 上运行，相当于是在用 Python 的语法写着色器。Taichi 解决了图形学配环境难，代码移植性差等问题，只需 `pip install taichi` 即可安装，编写的程序在 Windows、Linux、OSX 上均可运行，降低了新手学习图形学的门槛。示例代码：
 ```python
