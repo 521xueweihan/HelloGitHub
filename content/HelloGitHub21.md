@@ -36,7 +36,7 @@
 
 
 ### Go 项目
-3、[mattermost-server](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mattermost/mattermost-server)：采用 Go 语言开发的团队通讯服务项目，可用于自行搭建服务。为团队带来跨 PC 和移动设备的消息收发、文件分享，搜索等功能的通讯服务平台
+3、[mattermost](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mattermost/mattermost)：采用 Go 语言开发的团队通讯服务项目，可用于自行搭建服务。为团队带来跨 PC 和移动设备的消息收发、文件分享，搜索等功能的通讯服务平台
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/37448451.png' style="max-width:80%; max-height=80%;"></img></p>

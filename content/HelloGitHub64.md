@@ -121,7 +121,7 @@ int main(int argc, char *argv[]) {
 - 数据引擎：支持直连模式、本地模式
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/335164964.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/335164964.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 13、[guava](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/guava)：Google 开源的 Java 三方类库。该库提供包括集合、I/O、缓存、并发等开箱即用的工具方法，任何的 Java 应用都可以通过依赖的方式引入该项目。作为 Google 的开源项目，本身的源码也是非常值得开发者学习
 

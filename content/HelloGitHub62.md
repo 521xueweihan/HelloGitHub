@@ -36,7 +36,7 @@
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/262395224.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C++ 项目
-4、[incubator-kvrocks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/incubator-kvrocks)：基于 RocksDB 并兼容 Redis 协议的 NoSQL 数据库。磁盘类型的 Redis 为降低存储成本而生，存储成本可以降到 Redis 的 1/3 以上
+4、[kvrocks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/kvrocks)：基于 RocksDB 并兼容 Redis 协议的 NoSQL 数据库。磁盘类型的 Redis 为降低存储成本而生，存储成本可以降到 Redis 的 1/3 以上
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/202483348.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -76,7 +76,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/297165998.png' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[rosedb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/flower-corp/rosedb)：一个完全用 Go 写的 Key-Value 数据库。rosedb 适合在找 Go 实战项目的小伙伴们，因为项目代码简洁、注释清晰，配上作者录制的讲解视频。你可以从中学到 Go 相关的知识
+11、[rosedb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rosedblabs/rosedb)：一个完全用 Go 写的 Key-Value 数据库。rosedb 适合在找 Go 实战项目的小伙伴们，因为项目代码简洁、注释清晰，配上作者录制的讲解视频。你可以从中学到 Go 相关的知识
 - 实用的高级特性，比如：goroutine、chan、mutex
 - 数据结构及算法相关知识，比如：链表、哈希表、跳表等
 - 操作系统的一些知识，特别是文件系统和内存映射

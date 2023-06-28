@@ -21,7 +21,7 @@
 > **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
-1、[linux-wifi-hotspot](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lakinduakash/linux-wifi-hotspot)：功能丰富的 Linux WiFi 热点工具。这是一款拥有图形化操作界面的 Wi-Fi 创建器，它使用方便、功能丰富，支持命令行、创建 VPN 热点、二维码分享网络、查看已连接设备等功能。
+1、[linux-wifi-hotspot](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lakinduakash/linux-wifi-hotspot)：功能丰富的 Linux WiFi 热点工具。这是一款拥有图形化操作界面的 Wi-Fi 创建器，它使用方便、功能丰富，支持命令行、创建热点、二维码分享网络、查看已连接设备等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/173133912.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -117,7 +117,7 @@ curl http://localhost:8080/v1/chat/completions -H "Content-Type: application/jso
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/56353740.png' style="max-width:80%; max-height=80%;"></img></p>
 
-13、[nexttrace](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sjlleo/nexttrace)：一款可视化路由跟踪工具。该项目默认使用 ICMP 协议发送 TraceRoute 请求，特点是显示经过路由器的 IP、地理位置和耗时，以及在地图上以可视化的方式显示路径。
+13、[Ntrace-core](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nxtrace/Ntrace-core)：一款可视化路由跟踪工具。该项目默认使用 ICMP 协议发送 TraceRoute 请求，特点是显示经过路由器的 IP、地理位置和耗时，以及在地图上以可视化的方式显示路径。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/491101744.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -256,7 +256,7 @@ play(guitar, bpm=100, instrument=25)
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub85.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub85.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub87.md">『下一期』</a>
 </p>
 
 ---
