@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/readme.gif"/>
-  <br><a href="README.md">中文</a> | English 
+  <br><a href="README.md">中文</a> | English | <a href="README_ja.md">日本語</a>
   <br><strong>HelloGitHub</strong> is to share interesting, entry-level open source projects on GitHub.
   <br>Interest is the best teacher, you will find the interests of programming here!
 </p>
