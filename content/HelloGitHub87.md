@@ -201,6 +201,8 @@ panorama = stitcher.stitch(["img?.jpg"])
 1 + x**2/2 + 5*x**4/24 + 61*x**6/720 + 277*x**8/8064 + O(x**10)
 ```
 
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/640534.png' style="max-width:80%; max-height=80%;"></img></p>
+
 ### Rust 项目
 27、[hexyl](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sharkdp/hexyl)：命令行十六进制查看器。这是一款 Rust 写的命令行十六进制查看器，它简单纯粹、彩色输出效果十分舒服。
 
@@ -257,7 +259,7 @@ panorama = stitcher.stitch(["img?.jpg"])
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub86.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub86.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub88.md">『下一期』</a>
 </p>
 
 ---

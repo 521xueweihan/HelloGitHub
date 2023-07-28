@@ -241,7 +241,7 @@ with Diagram("Advanced Web Service with On-Premise", show=False):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/237791077.png' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[labelImg](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/heartexlabs/labelImg)：图形化界面的图像标注工具。用 Python 和 Qt 编写的图像标注桌面应用，简单方便下载就能用，适用于 Windows、Linux、macOS。标注数据支持 PASCAL VOC 格式的 XML 文件和 YOLO 的 txt 文件。
+28、[labelImg](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HumanSignal/labelImg)：图形化界面的图像标注工具。用 Python 和 Qt 编写的图像标注桌面应用，简单方便下载就能用，适用于 Windows、Linux、macOS。标注数据支持 PASCAL VOC 格式的 XML 文件和 YOLO 的 txt 文件。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/42625970.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
