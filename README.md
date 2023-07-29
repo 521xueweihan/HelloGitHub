@@ -54,13 +54,6 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://github.com/yomorun/yomo">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/yomo.jpeg" width="60px"><br>
-          <sub>YoMo</sub><br>
-          <sub>低时延交互编程框架</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
         <a href="https://apifox.cn/a103hello">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
           <sub>Apifox</sub><br>
