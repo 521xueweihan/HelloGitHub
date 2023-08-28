@@ -229,7 +229,7 @@ play(guitar, bpm=100, instrument=25)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/84254035.png' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[wai](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DukeLuo/wai)：一款可以预防颈椎病的项目。这是一个通过非正常的方式，展示历史上的今天和这个季节吃什么果蔬的内容，“强迫”你活动脖子从而实现预防颈椎病的目的。来自 [@Huan](https://hellogithub.com/user/jq8Mimdvob4uWrS) 的分享
+38、[wai](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dukeluo/wai)：一款可以预防颈椎病的项目。这是一个通过非正常的方式，展示历史上的今天和这个季节吃什么果蔬的内容，“强迫”你活动脖子从而实现预防颈椎病的目的。来自 [@Huan](https://hellogithub.com/user/jq8Mimdvob4uWrS) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/489377807.png' style="max-width:80%; max-height=80%;"></img></p>
 

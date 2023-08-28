@@ -239,7 +239,7 @@ github-linguist
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/1725199.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Rust 项目
-30、[atuin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ellie/atuin)：神奇的 shell 历史记录工具。该项目通过 SQLite 数据库存储 shell 历史，能够显示更多的 shell 历史、命令运行时间、执行时间等信息，还支持选择、过滤、统计、同步/备份等操作。
+30、[atuin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/atuinsh/atuin)：神奇的 shell 历史记录工具。该项目通过 SQLite 数据库存储 shell 历史，能够显示更多的 shell 历史、命令运行时间、执行时间等信息，还支持选择、过滤、统计、同步/备份等操作。
 ```
 # 搜索昨天下午3点之后记录的所有成功的 `make` 命令
 atuin search --exit 0 --after "yesterday 3pm" make

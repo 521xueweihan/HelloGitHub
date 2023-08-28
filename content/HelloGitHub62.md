@@ -179,7 +179,7 @@ def test_while_statement():
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/30582779.png' style="max-width:80%; max-height=80%;"></img></p>
 
-24、[recommenders](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/recommenders)：通过 Jupyter Notebook 形式呈现的推荐系统最佳实践。这是微软开源的推荐系统教程，项目中还包含推荐系统常用的 Python 工具箱
+24、[recommenders](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/recommenders-team/recommenders)：通过 Jupyter Notebook 形式呈现的推荐系统最佳实践。这是微软开源的推荐系统教程，项目中还包含推荐系统常用的 Python 工具箱
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/149430917.png' style="max-width:80%; max-height=80%;"></img></p>

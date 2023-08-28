@@ -250,7 +250,7 @@ RestClient.post( url,
 
 
 ### 开源书籍
-24、[OnJava8](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LingCoder/OnJava8)：《On Java 8》中文版又名《Java 编程思想》
+24、[OnJava8](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lingcoder/OnJava8)：《On Java 8》中文版又名《Java 编程思想》
 
 
 ### 机器学习
