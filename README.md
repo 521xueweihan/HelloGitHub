@@ -40,6 +40,13 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
+        <a href="https://www.ucloud.cn/site/active/kuaijiesale.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=github_hellogithub_otherdsp_display">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+          <sub>UCloud</sub><br>
+          <sub>超值的全球云服务</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
         <a href="https://www.upyun.com/">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
