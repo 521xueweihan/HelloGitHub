@@ -72,7 +72,13 @@ int main(int argc, char** argv) {
 
 
 ### Python 项目
-9、[fake-useragent](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fake-useragent/fake-useragent)：伪装浏览器身份，常用于爬虫。这个项目的代码很少，可以阅读一下，看看 `ua.random` 是如何返回随机的浏览器身份的😁，示例代码：
+9、[cli](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/httpie/cli)：非常好用的命令行 HTTP 客户端，cURL 的替代者，返回的结果支持**高亮**，提高了可读性。用于调试接口、查看服务器返回的 HTTP 协议的信息。[在线文档](https://httpie.org/docs#examples)，下面的是 cURL 和 httpie 的返回结果对比图：
+
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/07/3544424.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+10、[fake-useragent](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fake-useragent/fake-useragent)：伪装浏览器身份，常用于爬虫。这个项目的代码很少，可以阅读一下，看看 `ua.random` 是如何返回随机的浏览器身份的😁，示例代码：
 ```python
 from fake_useragent import UserAgent
 ua = UserAgent()
@@ -102,12 +108,6 @@ ua.safari
 ua.random
 ```
 
-
-10、[httpie](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/httpie/httpie)：非常好用的命令行 HTTP 客户端，cURL 的替代者，返回的结果支持**高亮**，提高了可读性。用于调试接口、查看服务器返回的 HTTP 协议的信息。[在线文档](https://httpie.org/docs#examples)，下面的是 cURL 和 httpie 的返回结果对比图：
-
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/07/3544424.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[langid.py](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/saffsd/langid.py)：用于识别输入文本数据所属的语种，目前支持 97 种语言识别。示例代码：
 ```python

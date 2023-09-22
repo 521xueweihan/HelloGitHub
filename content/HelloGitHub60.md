@@ -325,7 +325,7 @@ try {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/21244505.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift 项目
-24、[flappy-fly-bird](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jVirus/flappy-fly-bird)：用 Swift 写的 Flappy Bird 游戏
+24、[flappy-fly-bird](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eleev/flappy-fly-bird)：用 Swift 写的 Flappy Bird 游戏
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/131873713.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -401,7 +401,7 @@ docker run -it \
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/65711522.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[tinygrad](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/geohot/tinygrad)：一款小型的开源深度学习框架。它代码不足 1k 行足够简单，支持深度模型推理与训练。示例代码：
+34、[tinygrad](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tinygrad/tinygrad)：一款小型的开源深度学习框架。它代码不足 1k 行足够简单，支持深度模型推理与训练。示例代码：
 ```python
 from tinygrad.tensor import Tensor
 import tinygrad.optim as optim

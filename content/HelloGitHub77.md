@@ -173,7 +173,7 @@ gr.Interface(fn=sketch_recognition, inputs="sketchpad", outputs="label").launch(
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/162405963.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[label-studio](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/heartexlabs/label-studio)：开源的数据标注工具。支持音频、文本、图像、视频、时间序列等，多种类型数据的标注和注释工具。
+25、[label-studio](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HumanSignal/label-studio)：开源的数据标注工具。支持音频、文本、图像、视频、时间序列等，多种类型数据的标注和注释工具。
 ```
 # 安装
 pip install -U label-studio

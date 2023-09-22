@@ -25,7 +25,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/181894913.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-2、[jq](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/stedolan/jq)：轻快的命令行 JSON 处理器。JSON 作为最常见的序列化格式，日常开发中经常会遇到。这个项目可以通过简单的命令对 JSON 数据进行格式化、过滤等操作，还支持直接解析接口的 JSON 数据，十分灵活和方便。
+2、[jq](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jqlang/jq)：轻快的命令行 JSON 处理器。JSON 作为最常见的序列化格式，日常开发中经常会遇到。这个项目可以通过简单的命令对 JSON 数据进行格式化、过滤等操作，还支持直接解析接口的 JSON 数据，十分灵活和方便。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/5101141.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -66,11 +66,11 @@ ImGui::SliderFloat("float", &f, 0.0f, 1.0f);
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/22067521.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### CSS 项目
-9、[core](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ui-buttons/core)：CSS 按钮样式集合。该项目实现了 100 种不同样式的按钮。
+9、[css-protips](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AllThingsSmitty/css-protips)：CSS 专业技巧。一个帮你提升 CSS 技巧的收藏集。
+
+10、[ui-buttons](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eludadev/ui-buttons)：CSS 按钮样式集合。该项目实现了 100 种不同样式的按钮。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/492267422.png' style="max-width:80%; max-height=80%;"></img></p>
-
-10、[css-protips](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AllThingsSmitty/css-protips)：CSS 专业技巧。一个帮你提升 CSS 技巧的收藏集。
 
 ### Go 项目
 11、[gitleaks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gitleaks/gitleaks)：一款静态应用程序安全测试(SAST)工具。它可以检测项目中是否包含密码、API Key、token 等信息，还能够轻松整合到 Git Hook 和 GitHub Action，实现提交代码时自动检测，通过告警和阻止 push 等方式，有效地防止敏感信息泄漏。
@@ -241,7 +241,7 @@ with Diagram("Advanced Web Service with On-Premise", show=False):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/237791077.png' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[labelImg](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/heartexlabs/labelImg)：图形化界面的图像标注工具。用 Python 和 Qt 编写的图像标注桌面应用，简单方便下载就能用，适用于 Windows、Linux、macOS。标注数据支持 PASCAL VOC 格式的 XML 文件和 YOLO 的 txt 文件。
+28、[labelImg](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HumanSignal/labelImg)：图形化界面的图像标注工具。用 Python 和 Qt 编写的图像标注桌面应用，简单方便下载就能用，适用于 Windows、Linux、macOS。标注数据支持 PASCAL VOC 格式的 XML 文件和 YOLO 的 txt 文件。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/42625970.jpg' style="max-width:80%; max-height=80%;"></img></p>
 

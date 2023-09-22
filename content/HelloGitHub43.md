@@ -273,7 +273,7 @@ import Percent
 25、[curlconverter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/curlconverter/curlconverter)：把 curl 命令转化成各语言的代码的工具，支持 Python、JavaScript、PHP、R、Go 等语言。[在线体验](https://curl.trillworks.com/)
 
 
-26、[hub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/github/hub)：通过命令行的方式来操作 GitHub，支持绝大多数的操作。比如：创建远程仓库、删除远程仓库、提交 PR、管理 issue 等，常用操作：
+26、[hub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mislav/hub)：通过命令行的方式来操作 GitHub，支持绝大多数的操作。比如：创建远程仓库、删除远程仓库、提交 PR、管理 issue 等，常用操作：
 - 创建远程仓库：hub create github-repository
 - 删除远程仓库：hub delete github-repository
 - fork 项目：hub fork

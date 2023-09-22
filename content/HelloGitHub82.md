@@ -120,7 +120,7 @@ kubectl apply -f pkg/k8s/crd/install/shifu_install.yml
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/403559729.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java 项目
-16、[HummerRisk](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HummerRisk/HummerRisk)：云原生安全检测平台。该项目用非侵入的方式，解决云原生环境的安全和治理问题。支持主流公/私有云资源的安全检测、漏洞扫描、一键获取报告等功能。
+16、[HummerRisk](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chaitin/HummerRisk)：云原生安全检测平台。该项目用非侵入的方式，解决云原生环境的安全和治理问题。支持主流公/私有云资源的安全检测、漏洞扫描、一键获取报告等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/499359479.gif' style="max-width:80%; max-height=80%;"></img></p>
 

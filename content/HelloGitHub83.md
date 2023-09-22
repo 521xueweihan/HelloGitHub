@@ -132,7 +132,7 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/83145406.png' style="max-width:80%; max-height=80%;"></img></p>
 
-14、[sqlc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kyleconroy/sqlc)：将 SQL 转成类型安全的 Go 代码的工具。它可以将输入的 SQL 语句，自动转化成类型安全、可读的操作数据库的 Go 代码，支持 MySQL、PostgreSQL 和 SQLite 数据库。
+14、[sqlc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sqlc-dev/sqlc)：将 SQL 转成类型安全的 Go 代码的工具。它可以将输入的 SQL 语句，自动转化成类型安全、可读的操作数据库的 Go 代码，支持 MySQL、PostgreSQL 和 SQLite 数据库。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/193160679.png' style="max-width:80%; max-height=80%;"></img></p>
 

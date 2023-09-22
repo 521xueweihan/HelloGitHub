@@ -330,7 +330,7 @@ struct ContentView: View {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/382680786.png' style="max-width:80%; max-height=80%;"></img></p>
 
-42、[shap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/slundberg/shap)：解释机器学习模型输出的库。它基于博弈论中的 Shapley Value 理论，将所有特征视为贡献者，然后计算每个特征对于模型输出结果的贡献。
+42、[shap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shap/shap)：解释机器学习模型输出的库。它基于博弈论中的 Shapley Value 理论，将所有特征视为贡献者，然后计算每个特征对于模型输出结果的贡献。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/74505259.png' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/readme.gif"/>
-  <br>中文 | <a href="README_en.md">English</a>
+  <br>中文 | <a href="README_en.md">English</a> | <a href="README_ja.md">日本語</a>
   <br>分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
 </p>
 
@@ -20,6 +20,7 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
+| [第 89 期](/content/HelloGitHub89.md) | [第 88 期](/content/HelloGitHub88.md) | [第 87 期](/content/HelloGitHub87.md) | [第 86 期](/content/HelloGitHub86.md) |
 | [第 85 期](/content/HelloGitHub85.md) | [第 84 期](/content/HelloGitHub84.md) | [第 83 期](/content/HelloGitHub83.md) | [第 82 期](/content/HelloGitHub82.md) | [第 81 期](/content/HelloGitHub81.md) |
 | [第 80 期](/content/HelloGitHub80.md) | [第 79 期](/content/HelloGitHub79.md) | [第 78 期](/content/HelloGitHub78.md) | [第 77 期](/content/HelloGitHub77.md) | [第 76 期](/content/HelloGitHub76.md) |
 | [第 75 期](/content/HelloGitHub75.md) | [第 74 期](/content/HelloGitHub74.md) | [第 73 期](/content/HelloGitHub73.md) | [第 72 期](/content/HelloGitHub72.md) | [第 71 期](/content/HelloGitHub71.md) |
@@ -28,7 +29,6 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
 | [第 60 期](/content/HelloGitHub60.md) | [第 59 期](/content/HelloGitHub59.md) | [第 58 期](/content/HelloGitHub58.md) | [第 57 期](/content/HelloGitHub57.md) | [第 56 期](/content/HelloGitHub56.md) |
 | [第 55 期](/content/HelloGitHub55.md) | [第 54 期](/content/HelloGitHub54.md) | [第 53 期](/content/HelloGitHub53.md) | [第 52 期](/content/HelloGitHub52.md) | [第 51 期](/content/HelloGitHub51.md) |
 | [第 50 期](/content/HelloGitHub50.md) | [第 49 期](/content/HelloGitHub49.md) | [第 48 期](/content/HelloGitHub48.md) | [第 47 期](/content/HelloGitHub47.md) | [第 46 期](/content/HelloGitHub46.md) |
-| [第 45 期](/content/HelloGitHub45.md) | [第 44 期](/content/HelloGitHub44.md) | [第 43 期](/content/HelloGitHub43.md) | [第 42 期](/content/HelloGitHub42.md) | [第 41 期](/content/HelloGitHub41.md) |
 | [第 05 期](/content/HelloGitHub05.md) | [第 04 期](/content/HelloGitHub04.md) | [第 03 期](/content/HelloGitHub03.md) | [第 02 期](/content/HelloGitHub02.md) | [第 01 期](/content/HelloGitHub01.md) |
 
 欢迎[推荐或自荐](https://hellogithub.com/periodical)项目成为 **HelloGitHub** 的[贡献者](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md)
@@ -40,6 +40,13 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
+        <a href="https://www.ucloud.cn/site/active/kuaijiesale.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=github_hellogithub_otherdsp_display">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+          <sub>UCloud</sub><br>
+          <sub>超值的全球云服务</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
         <a href="https://www.upyun.com/">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
@@ -47,17 +54,10 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://doc.rentsoft.cn/">
+        <a href="https://github.com/OpenIMSDK/Open-IM-Server">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/im.png" width="60px"><br>
           <sub>OpenIM</sub><br>
           <sub>开源IM力争No.1</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/yomorun/yomo">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/yomo.jpeg" width="60px"><br>
-          <sub>YoMo</sub><br>
-          <sub>低时延交互编程框架</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
@@ -75,10 +75,10 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://rebrand.ly/jina-hg">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/jina_ai.png" width="60px"><br>
-          <sub>Jina AI</sub><br>
-          <sub>5 分钟解锁多模态 AI</sub>
+        <a href="https://promptperfect.jinaai.cn/a/KARRY">
+          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55871322/256815369-7539126d-cbfa-4c66-b607-00f4f9ef0123.jpg" width="60px"><br>
+          <sub>PromptPerfect</sub><br>
+          <sub>大模型提示词开发工具</sub>
         </a>
       </th>
     </tr>

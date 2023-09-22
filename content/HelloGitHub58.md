@@ -220,10 +220,9 @@ lastversion wordpress
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/29620400.png' style="max-width:80%; max-height=80%;"></img></p>
 
-22、[Zappa](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Miserlou/Zappa)：Python 无服务框架，功能即服务（serverless）。你知道 serverless 是什么吗？不懂的老铁扣 1 🤝 我摊牌了我不懂这个玩意儿。直到我看到了 Zappa 这个项目，然后我的脑海里就几个字：甩手掌柜。用它开发完功能，几个命令打包上传到云服务平台，然后就不用管啦！不仅程序员喜欢它，老板也喜欢因为能够降低服务器成本（省钱）。来感受下“知识”的力量吧
+22、[Zappa](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zappa/Zappa)：Python 无服务框架(serverless)。用这个项目开发完功能，只需几个命令就能打包上传到云服务平台，瞬间完成服务发布。不仅程序员喜欢它，老板也喜欢因为能够降低服务器成本省钱。
 
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/50063252.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/279672524.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Ruby 项目
 23、[spree](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spree/spree)：基于 Ruby on Rails 实现的大而全的电子商城开源项目。功能齐全项目结构清晰：

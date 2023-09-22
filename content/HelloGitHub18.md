@@ -124,6 +124,8 @@ const puppeteer = require('puppeteer');
 ```
 
 
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/90796663.png' style="max-width:80%; max-height=80%;"></img></p>
+
 10、[SelectPage](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TerryZ/SelectPage)：简洁优雅而功能强大的选择器，使用简单，适应各种UI环境，功能强大，丰富的参数和回调函数
 。它包含了 autocomplete、ajax 数据源、多选择 Tag、i18n 国际化，结果列表分页展示，键盘快捷操作等
 ```javascript
@@ -168,14 +170,8 @@ $('#selectpage').selectPage({
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/96892030.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### PHP 项目
-13、[wooyun_public](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hanc00l/wooyun_public)：乌云公开漏洞、知识库爬虫和搜索
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/42825774.png' style="max-width:80%; max-height=80%;"></img></p>
-
 ### Python 项目
-14、[faker](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/joke2k/faker)：用于生成假数据的库，支持多种语言，你值得拥有。示例代码：
+13、[faker](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/joke2k/faker)：用于生成假数据的库，支持多种语言，你值得拥有。示例代码：
 ```python
 fake.address()
 # '辽宁省雪市静安廉街b座 998259'
@@ -197,7 +193,7 @@ fake.province()
 ```
 
 
-15、[newspaper](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/codelucas/newspaper)：强大的提取 Web 的内容、文章的库，支持多种语言，安装命令 `pip3 install newspaper3k`。示例代码：
+14、[newspaper](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/codelucas/newspaper)：强大的提取 Web 的内容、文章的库，支持多种语言，安装命令 `pip3 install newspaper3k`。示例代码：
 ```python
 >>> from newspaper import Article
 
@@ -247,7 +243,7 @@ datetime.datetime(2013, 12, 30, 0, 0)
 ```
 
 
-16、[pygorithm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OmkarPathak/pygorithm)：一个帮助学习主要算法的库，可以通过理解这些算法的实现，提高自己的算法水平。冒泡排序示例：
+15、[pygorithm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OmkarPathak/pygorithm)：一个帮助学习主要算法的库，可以通过理解这些算法的实现，提高自己的算法水平。冒泡排序示例：
 ```python
 >>> from pygorithm.sorting import bubble_sort
 >>> my_list = [12, 4, 3, 5, 13, 1, 17, 19, 15]
@@ -258,17 +254,17 @@ datetime.datetime(2013, 12, 30, 0, 0)
 
 
 ### 其它
-17、[china_area_mysql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kakuilan/china_area_mysql)：中国 5 级行政区域 MySQL 库
+16、[china_area_mysql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kakuilan/china_area_mysql)：中国 5 级行政区域 MySQL 库
 
 
-18、[ctf-wiki](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ctf-wiki/ctf-wiki)：一个自由的站点，主要包含了 CTF 的基础知识 、常见题型、解题思路以及常用工具等，希望可以帮助你更快地了解 CTF 竞赛以及网络安全相关知识
+17、[ctf-wiki](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ctf-wiki/ctf-wiki)：一个自由的站点，主要包含了 CTF 的基础知识 、常见题型、解题思路以及常用工具等，希望可以帮助你更快地了解 CTF 竞赛以及网络安全相关知识
 
 
-19、[open_source_team](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/niezhiyang/open_source_team)：国内顶尖团队的开源地址
+18、[open_source_team](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/niezhiyang/open_source_team)：国内顶尖团队的开源地址
 
 
 ### 机器学习
-20、[deeplearningbook-chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/exacity/deeplearningbook-chinese)：Deep Learning 中文版
+19、[deeplearningbook-chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/exacity/deeplearningbook-chinese)：Deep Learning 中文版
 
 
 

@@ -117,24 +117,22 @@ print ifconfig("eth0")
 16、[docker_practice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yeasy/docker_practice)：Docker 从入门到实践
 
 
-17、[explore-flask](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rpicard/explore-flask)：《Explore Flask》。这是一本关于 Python 知名 Web 框架 Flask 的书籍，内容包含基础入门和部署实战。
-
-18、[nginx-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/taobao/nginx-book)：Nginx 开发从入门到精通——本书的作者为淘宝核心系统服务器平台组的成员
+17、[nginx-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/taobao/nginx-book)：Nginx 开发从入门到精通——本书的作者为淘宝核心系统服务器平台组的成员
 
 
-19、[open-shell-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tinyclub/open-shell-book)：《Shell 编程范例》，面向操作对象学 Shell！
+18、[open-shell-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tinyclub/open-shell-book)：《Shell 编程范例》，面向操作对象学 Shell！
 
 
-20、[python-data-structure-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facert/python-data-structure-cn)：《Problem Solving with Algorithms and Data Structures using Python》中文版
+19、[python-data-structure-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facert/python-data-structure-cn)：《Problem Solving with Algorithms and Data Structures using Python》中文版
 
 
-21、[react-cookbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shimohq/react-cookbook)：编写简洁漂亮，可维护的 React 应用
+20、[react-cookbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shimohq/react-cookbook)：编写简洁漂亮，可维护的 React 应用
 
 
-22、[real-world-haskell-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangz1990/real-world-haskell-cn)：《Real World Haskell》中文翻译项目
+21、[real-world-haskell-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangz1990/real-world-haskell-cn)：《Real World Haskell》中文翻译项目
 
 
-23、[rust-book-chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/KaiserY/rust-book-chinese)：Rust 程序设计语言 中文版
+22、[rust-book-chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/KaiserY/rust-book-chinese)：Rust 程序设计语言 中文版
 
 
 
