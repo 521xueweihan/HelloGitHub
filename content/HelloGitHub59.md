@@ -322,7 +322,7 @@ try db.run(users.create { t in
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/192175095.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[qwerty-learner](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Kaiyiwing/qwerty-learner)：好用有趣的打字记单词的在线网站。很多人直观地觉得能扣篮的人打球好，打字快的人编程厉害。如此说来，多用这个项目不仅可以背单词，还有助于提高编程能力呢
+33、[qwerty-learner](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RealKai42/qwerty-learner)：好用有趣的打字记单词的在线网站。很多人直观地觉得能扣篮的人打球好，打字快的人编程厉害。如此说来，多用这个项目不仅可以背单词，还有助于提高编程能力呢
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/331603334.png' style="max-width:80%; max-height=80%;"></img></p>

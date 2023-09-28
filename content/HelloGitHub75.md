@@ -316,7 +316,7 @@ struct ContentView: View {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/140525341.png' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[Ventoy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ventoy/Ventoy)：制作可启动 U 盘的工具。重装系统时不用再格式化 U 盘，该项目支持直接将系统镜像拷贝进 U 盘就能启动，无需其它操作。
+39、[Ventoy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ventoy/Ventoy)：一个制作可启动 U 盘的开源工具。。重装系统时不用再格式化 U 盘，该项目支持直接将系统镜像拷贝进 U 盘就能启动，无需其它操作。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/246335987.png' style="max-width:80%; max-height=80%;"></img></p>
 
