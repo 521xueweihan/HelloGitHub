@@ -53,6 +53,8 @@ i am a container
 
 3、[trurl](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/curl/trurl)：解析和操作 URL 的命令行工具。该项目是 cURL 作者的新作，可用来解析 URL、替换/提取/设置 URL 中的参数。
 
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/89/621725724.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
 ### C# 项目
 4、[GeekDesk](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BookerLiu/GeekDesk)：小巧的 Windows 桌面启动工具。这款名为极客桌面的免费工具，拥有极简的界面，支持搜索全盘文件、一键呼出、自定义壁纸、定时提醒等功能。
 
@@ -270,7 +272,7 @@ for div in divs:
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub88.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub88.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub90.md">『下一期』</a>
 </p>
 
 ---

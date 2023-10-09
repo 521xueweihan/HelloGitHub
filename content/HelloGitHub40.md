@@ -34,7 +34,7 @@
 
 
 ### C# 项目
-3、[Common.Utility](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Jimmey-Jiang/Common.Utility)：项目作者日常工作总结和网上收集、整理的 C# 各式各样的功能类库。类与类之间没有联系，可以单独引用至项目。代码中包含注释，便于使用和学习
+3、[Common.Utility](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/laochiangx/Common.Utility)：项目作者日常工作总结和网上收集、整理的 C# 各式各样的功能类库。类与类之间没有联系，可以单独引用至项目。代码中包含注释，便于使用和学习
 
 
 ### C++ 项目

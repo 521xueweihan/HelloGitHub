@@ -100,7 +100,7 @@ luaenv.Dispose();
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/255823049.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[Open-IM-Server](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OpenIMSDK/Open-IM-Server)：基于 Go 实现的轻量级即时通讯（IM）项目。具有高性能、易扩展、安装简单、私有化部署等特性，同时包含多种客户端 SDK。从服务器到客户端一体的开源即时通讯（IM）解决方案
+11、[open-im-server](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/openimsdk/open-im-server)：基于 Go 实现的轻量级即时通讯（IM）项目。具有高性能、易扩展、安装简单、私有化部署等特性，同时包含多种客户端 SDK。从服务器到客户端一体的开源即时通讯（IM）解决方案
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/370977430.png' style="max-width:80%; max-height=80%;"></img></p>

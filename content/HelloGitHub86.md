@@ -117,7 +117,7 @@ curl http://localhost:8080/v1/chat/completions -H "Content-Type: application/jso
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/56353740.png' style="max-width:80%; max-height=80%;"></img></p>
 
-13、[Ntrace-core](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nxtrace/Ntrace-core)：一款可视化路由跟踪工具。该项目默认使用 ICMP 协议发送 TraceRoute 请求，特点是显示经过路由器的 IP、地理位置和耗时，以及在地图上以可视化的方式显示路径。
+13、[NTrace-core](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nxtrace/NTrace-core)：一款可视化路由跟踪工具。该项目默认使用 ICMP 协议发送 TraceRoute 请求，特点是显示经过路由器的 IP、地理位置和耗时，以及在地图上以可视化的方式显示路径。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/491101744.png' style="max-width:80%; max-height=80%;"></img></p>
 

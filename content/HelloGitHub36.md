@@ -96,18 +96,18 @@ program -> {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/156077183.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[drone](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/harness/drone)：一个基于 Docker 的持续集成平台，使用 Go 语言编写
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/16607898.png' style="max-width:80%; max-height=80%;"></img></p>
-
-7、[etcd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/etcd-io/etcd)：一个高可用的分布式键值数据库，k8s 全家桶标配的注册与发现服务。它采用 raft 一致性算法，基于 Go 语言实现。可以通过该项目了解、学习 raft 的实际应用场景
+6、[etcd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/etcd-io/etcd)：一个高可用的分布式键值数据库，k8s 全家桶标配的注册与发现服务。它采用 raft 一致性算法，基于 Go 语言实现。可以通过该项目了解、学习 raft 的实际应用场景
 ```
 # 使用 etcd 的客户端存取键值对
 $ etcdctl put mykey "this is awesome"
 $ etcdctl get mykey
 ```
 
+
+7、[gitness](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/harness/gitness)：一个基于 Docker 的持续集成平台，使用 Go 语言编写
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/16607898.png' style="max-width:80%; max-height=80%;"></img></p>
 
 8、[learn-go-with-tests](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/quii/learn-go-with-tests)：通过单元测试学习 Go 语言。下载仓库源码后，进入对应目录。每一个小文件夹就是一个对应的 Go 项目，在里面`go test`即可运行单元测试。由于是测试驱动开发，所以需要在你改动代码之后跑通单元测试才算学会通过。每一个对应的文件夹都有相应 Markdown 文字教程，比较浅显易懂。而且还有[中文版](https://studygolang.gitbook.io/learn-go-with-tests)
 
