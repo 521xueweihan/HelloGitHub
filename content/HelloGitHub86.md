@@ -75,7 +75,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/130879558.png' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[LocalAI](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/go-skynet/LocalAI)：OpenAI 的本地替代品。一个实现了在个人电脑上运行 LLM 模型，并集成了服务接口和在线聊天界面的项目。虽然效果无法和 GPT-4 媲美，但它开箱即用且免费，支持 Vicuna、Alpaca、GPT4ALL 等模型。
+11、[LocalAI](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mudler/LocalAI)：OpenAI 的本地替代品。一个实现了在个人电脑上运行 LLM 模型，并集成了服务接口和在线聊天界面的项目。虽然效果无法和 GPT-4 媲美，但它开箱即用且免费，支持 Vicuna、Alpaca、GPT4ALL 等模型。
 ```
 # Clone LocalAI
 git clone https://github.com/go-skynet/LocalAI
@@ -266,6 +266,59 @@ play(guitar, bpm=100, instrument=25)
     不仅能第一时间收到推送，还有回馈粉丝的活动<br>
     如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/86'>这里</a>。
 </p>
+
+## 赞助
+
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" style="width: 80px;">
+        <a href="https://www.ucloud.cn/site/active/kuaijiesale.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=github_hellogithub_otherdsp_display">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+          <sub>UCloud</sub><br>
+          <sub>超值的全球云服务</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://www.upyun.com/">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
+          <sub>CDN</sub><br>
+          <sub>开启全网加速</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/OpenIMSDK/Open-IM-Server">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/im.png" width="60px"><br>
+          <sub>OpenIM</sub><br>
+          <sub>开源IM力争No.1</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://apifox.cn/a103hello">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
+          <sub>Apifox</sub><br>
+          <sub>比 Postman 更强大</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://he3.app?utm_source=hellogithub&utm_medium=github&utm_campaign=hellogithub">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/he3.png" width="60px"><br>
+          <sub>He3</sub><br>
+          <sub>开发者必备工具箱</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://promptperfect.jinaai.cn/a/KARRY">
+          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55871322/256815369-7539126d-cbfa-4c66-b607-00f4f9ef0123.jpg" width="60px"><br>
+          <sub>PromptPerfect</sub><br>
+          <sub>大模型提示词开发工具</sub>
+        </a>
+      </th>
+    </tr>
+  </thead>
+</table>
+
 
 ## 声明
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。
