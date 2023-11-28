@@ -21,7 +21,7 @@
 > **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
-1、[activate-linux](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MrGlockenspiel/activate-linux)：将"Activate Windows"水印移植到 Linux 系统。这是一个可以在桌面系统的右下角，显示“激活 Windows” 字样的小工具，就是图一乐。
+1、[activate-linux](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MrGlockenspiel/activate-linux)：将"Activate Windows"水印移植到 Linux 系统。这是一个可以在桌面系统的右下角，显示“激活 Linux” 字样的小工具，就是图一乐。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/470739558.png' style="max-width:80%; max-height=80%;"></img></p>
 
