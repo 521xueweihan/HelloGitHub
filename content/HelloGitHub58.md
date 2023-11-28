@@ -95,7 +95,7 @@ echo 'GET http://localhost:8080' | \
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/256659361.png' style="max-width:80%; max-height=80%;"></img></p>
 
-13、[hearthstone-battlegrounds-tools](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chenyueban/hearthstone-battlegrounds-tools)：暴雪炉石传说游戏的记牌插件。不懂编程的小伙伴拿去用就好了，支持 Windows 和 macOS 系统。开发者的话，这是一整套完整的 Electronjs 开发流程，从多个渲染进程的管理、不同平台的差异化处理、版本的控制与发布等方面都做了细致的封装，学起来吧。功能上她还具有以下特性：
+13、[hearthstone-battlegrounds-tools](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xinyao27/hearthstone-battlegrounds-tools)：暴雪炉石传说游戏的记牌插件。不懂编程的小伙伴拿去用就好了，支持 Windows 和 macOS 系统。开发者的话，这是一整套完整的 Electronjs 开发流程，从多个渲染进程的管理、不同平台的差异化处理、版本的控制与发布等方面都做了细致的封装，学起来吧。功能上她还具有以下特性：
 - 🌴 当天战绩统计，历史战绩查询
 - 🎉 统计你所使用过的英雄，自动计算每个英雄的平均排名、选择率
 - 🙈 选择英雄时展示可选英雄的大数据选择率、平均排名等

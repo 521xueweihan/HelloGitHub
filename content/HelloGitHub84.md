@@ -63,6 +63,8 @@ xdotool selectwindow windowclose
 
 9、[oceanbase](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/oceanbase/oceanbase)：一款国产的原生分布式数据库。这是源自蚂蚁集团的一款基于 Paxos 协议和分布式架构的企业级分布式关系型数据库。它同时支持 OLTP 和 OLAP 的混合负载，具有高可用、高性能、水平扩展、兼容 SQL 语法等特点。来自 [@lijiayun123](https://hellogithub.com/user/licrT58f763QMR0) 的分享
 
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/372536760.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
 10、[rr](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rr-debugger/rr)：Linux 上的轻量级 C/C++ 调试工具。这是一款 Linux 上的轻量级调试 C/C++ 代码的工具，支持录制、重放和反向执行等操作，提供了一个可反复调试的环境，大大提升了调试效率。
 
 ### Go 项目

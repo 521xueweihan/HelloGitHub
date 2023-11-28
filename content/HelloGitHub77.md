@@ -132,7 +132,7 @@ java -jar plantuml.jar 文本文件
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/1051476.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript 项目
-17、[koodo-reader](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/troyeguo/koodo-reader)：先进的电子书阅读工具。该阅读器支持 EPUB、Kindle、PDF、漫画等多种常见文本格式，界面清爽功能丰富，拥有自定义字体、添加笔记、书签、划词翻译、导入图书、数据同步等功能。提供了 Windows、macOS 和 Linux 客户端，还支持网页版可在线使用。
+17、[koodo-reader](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/koodo-reader/koodo-reader)：先进的电子书阅读工具。该阅读器支持 EPUB、Kindle、PDF、漫画等多种常见文本格式，界面清爽功能丰富，拥有自定义字体、添加笔记、书签、划词翻译、导入图书、数据同步等功能。提供了 Windows、macOS 和 Linux 客户端，还支持网页版可在线使用。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/245049028.png' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -293,7 +293,7 @@ static void take_gil(PyThreadState *tstate)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/287203686.png' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[genshin_auto_fish](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/7eu7d7/genshin_auto_fish)：基于深度学习的原神手游自动钓鱼工具。其中用 YOLOX 搞定鱼的定位和类型的识别以及鱼竿落点的定位，用 DQN 搞定自适应控制钓鱼过程的点击，让力度落在最佳区域内
+38、[genshin_auto_fish](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/IrisRainbowNeko/genshin_auto_fish)：基于深度学习的原神手游自动钓鱼工具。其中用 YOLOX 搞定鱼的定位和类型的识别以及鱼竿落点的定位，用 DQN 搞定自适应控制钓鱼过程的点击，让力度落在最佳区域内
 
 
 39、[invoice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/guanshuicheng/invoice)：增值税发票 OCR 识别项目。包含训练好的模型和微服务，启动后可直接通过接口调用

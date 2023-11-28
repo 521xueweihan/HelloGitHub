@@ -226,7 +226,7 @@ df = q.collect()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/360366759.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[chinese_chatbot_corpus](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/codemayq/chinese_chatbot_corpus)：公开的中文聊天语料库
+27、[chinese-chatbot-corpus](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/codemayq/chinese-chatbot-corpus)：公开的中文聊天语料库
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/156045572.png' style="max-width:80%; max-height=80%;"></img></p>

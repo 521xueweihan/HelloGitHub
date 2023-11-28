@@ -50,7 +50,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/441460974.png' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[PowerRemoteDesktop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DarkCoderSc/PowerRemoteDesktop)：仅用 PowerShell 实现的远程桌面工具。它易于安装和使用、功能齐全，未依赖现有的协议和工具
+6、[PowerRemoteDesktop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PhrozenIO/PowerRemoteDesktop)：仅用 PowerShell 实现的远程桌面工具。它易于安装和使用、功能齐全，未依赖现有的协议和工具
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/445545738.png' style="max-width:80%; max-height=80%;"></img></p>

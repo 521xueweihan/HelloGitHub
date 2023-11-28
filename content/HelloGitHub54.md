@@ -173,7 +173,7 @@ roncoo-pay
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/282828123.png' style="max-width:80%; max-height=80%;"></img></p>
 
-13、[mind-elixir-core](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ssshooter/mind-elixir-core)：一款免费开源的思维导图 JS 库。[在线尝试](https://mindelixir.ink/#/)
+13、[mind-elixir-core](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SSShooter/mind-elixir-core)：一款免费开源的思维导图 JS 库。[在线尝试](https://mindelixir.ink/#/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/199951138.jpg' style="max-width:80%; max-height=80%;"></img></p>

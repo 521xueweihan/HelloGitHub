@@ -320,7 +320,7 @@ try app.run()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/260776764.png' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[teslamate](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/adriankumpf/teslamate)：自建特斯拉的日志平台。该项目可以将车主的特斯拉行驶数据收集、存储、展示，而且方便地支持 Docker 部署
+40、[teslamate](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/teslamate-org/teslamate)：自建特斯拉的日志平台。该项目可以将车主的特斯拉行驶数据收集、存储、展示，而且方便地支持 Docker 部署
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/178738556.png' style="max-width:80%; max-height=80%;"></img></p>
