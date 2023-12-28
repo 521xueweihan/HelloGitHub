@@ -135,7 +135,7 @@ curl http://localhost:8080/v1/chat/completions -H "Content-Type: application/jso
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/605357456.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript 项目
-17、[dub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/steven-tey/dub)：功能丰富的短链接管理平台。采用 Next.js+Tailwind CSS 构建的短链接平台，可用于创建、追踪、分析短链接，支持地理位置统计、自定义域名、生成二维码等功能。
+17、[dub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dubinc/dub)：功能丰富的短链接管理平台。采用 Next.js+Tailwind CSS 构建的短链接平台，可用于创建、追踪、分析短链接，支持地理位置统计、自定义域名、生成二维码等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/529708137.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -299,13 +299,6 @@ play(guitar, bpm=100, instrument=25)
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
           <sub>Apifox</sub><br>
           <sub>比 Postman 更强大</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://he3.app?utm_source=hellogithub&utm_medium=github&utm_campaign=hellogithub">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/he3.png" width="60px"><br>
-          <sub>He3</sub><br>
-          <sub>开发者必备工具箱</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">

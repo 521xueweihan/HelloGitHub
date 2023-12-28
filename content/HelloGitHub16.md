@@ -227,13 +227,6 @@ namespace WeixinSDK.Test.Fake
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://he3.app?utm_source=hellogithub&utm_medium=github&utm_campaign=hellogithub">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/he3.png" width="60px"><br>
-          <sub>He3</sub><br>
-          <sub>开发者必备工具箱</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
         <a href="https://promptperfect.jinaai.cn/a/KARRY">
           <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55871322/256815369-7539126d-cbfa-4c66-b607-00f4f9ef0123.jpg" width="60px"><br>
           <sub>PromptPerfect</sub><br>

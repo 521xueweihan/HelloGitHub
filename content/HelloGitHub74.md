@@ -170,7 +170,7 @@ const App = () => {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/244554606.png' style="max-width:80%; max-height=80%;"></img></p>
 
-22、[WebGAL](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MakinoharaShoko/WebGAL)：易于开发的网页端视觉小说引擎。无需开发基础分分钟就能学会所有语法，立马开始创作自己的 Galgame。[在线尝试](https://demo.msfasr.com/)
+22、[WebGAL](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OpenWebGAL/WebGAL)：易于开发的网页端视觉小说引擎。无需开发基础分分钟就能学会所有语法，立马开始创作自己的 Galgame。[在线尝试](https://demo.msfasr.com/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/407346682.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -370,13 +370,6 @@ xonsh：xxh anyhost +s xonsh
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
           <sub>Apifox</sub><br>
           <sub>比 Postman 更强大</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://he3.app?utm_source=hellogithub&utm_medium=github&utm_campaign=hellogithub">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/he3.png" width="60px"><br>
-          <sub>He3</sub><br>
-          <sub>开发者必备工具箱</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">

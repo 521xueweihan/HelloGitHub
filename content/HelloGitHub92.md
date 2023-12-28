@@ -235,7 +235,7 @@ print(model(img))
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub91.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub91.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub93.md">『下一期』</a>
 </p>
 
 ---
@@ -278,13 +278,6 @@ print(model(img))
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
           <sub>Apifox</sub><br>
           <sub>比 Postman 更强大</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://he3.app?utm_source=hellogithub&utm_medium=github&utm_campaign=hellogithub">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/he3.png" width="60px"><br>
-          <sub>He3</sub><br>
-          <sub>开发者必备工具箱</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
