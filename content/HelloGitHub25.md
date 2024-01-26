@@ -174,10 +174,7 @@ synonyms.seg("能量")
 
 
 ### 机器学习
-22、[ChatBotCourse](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lcdevelop/ChatBotCourse)：该项目介绍了如何自己动手做聊天机器人。全面地介绍了所需要的技术：自然语言识别、分词、语料库、机器学习等，包含所需的 Java 和 Python 代码
-
-
-23、[pytorch-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chenyuntc/pytorch-book)：书籍《深度学习框架 PyTorch：入门与实践》的示例代码，可以作为一个独立的 PyTorch 入门指南和教程。内容结构如下图所示：
+22、[pytorch-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chenyuntc/pytorch-book)：书籍《深度学习框架 PyTorch：入门与实践》的示例代码，可以作为一个独立的 PyTorch 入门指南和教程。内容结构如下图所示：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/92265140.png' style="max-width:80%; max-height=80%;"></img></p>

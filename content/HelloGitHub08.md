@@ -97,7 +97,7 @@ Console.WriteLine(json);
 
 
 ### JavaScript 项目
-6、[atrament.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jakubfiala/atrament.js)：极小的 JavaScript 画板，[在线演示](http://fiala.uk/atrament.js/demo/)
+6、[atrament](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jakubfiala/atrament)：极小的 JavaScript 画板，[在线演示](http://fiala.uk/atrament.js/demo/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/08/55308814.png' style="max-width:80%; max-height=80%;"></img></p>

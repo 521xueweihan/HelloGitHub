@@ -183,7 +183,7 @@ print(solve)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/482782087.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-26、[pdf2docx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dothinking/pdf2docx)：可将 PDF 转换成 docx 文件的 Python 库。该项目通过 PyMuPDF 库提取 PDF 文件中的数据，然后采用 python-docx 库解析内容的布局、段落、图片、表格等，最后自动生成 docx 文件。
+26、[pdf2docx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ArtifexSoftware/pdf2docx)：可将 PDF 转换成 docx 文件的 Python 库。该项目通过 PyMuPDF 库提取 PDF 文件中的数据，然后采用 python-docx 库解析内容的布局、段落、图片、表格等，最后自动生成 docx 文件。
 ```python
 from pdf2docx import parse
 

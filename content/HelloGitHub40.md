@@ -166,7 +166,7 @@ it('filter test', () => {
 ```
 
 
-20、[x-build](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/code-device/x-build)：面向小型项目的脚手架工具，通过终端命令最快在几秒钟初始化项目目录。该库内部集成了 webpack、babel、eslint 等前端常用的工具。通过该项目可以了解脚手架的开发，并且可以熟悉如何在工具中集成 webpack 这对自定义脚手架开发很有帮助
+20、[x-build](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/codexu/x-build)：面向小型项目的脚手架工具，通过终端命令最快在几秒钟初始化项目目录。该库内部集成了 webpack、babel、eslint 等前端常用的工具。通过该项目可以了解脚手架的开发，并且可以熟悉如何在工具中集成 webpack 这对自定义脚手架开发很有帮助
 
 
 21、[zdog](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/metafizzy/zdog)：想在你的 Web 应用上应用 3D 图形吗？想用你熟悉的技术实现炫酷的 3D 效果吗？没错 zdog 就是你的首选。这是一款用于用于 Canvas 和 svg 的 JS 3D 渲染引擎，你可以使用它轻松创建扁平化风格的 3D 模型。这个库只有 2800 行代码，并且最小体积为 28KB。并且它还提供了对开发者十分友好的声明式 API，并没有特别复杂的配置只要你会 JS 你就可以使用它。下图都是使用 zdog 完成的作品

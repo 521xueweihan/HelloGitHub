@@ -102,7 +102,7 @@ c.Now().AddHours(1).Season() // 夏季
 ### Java 项目
 15、[Algorithms](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/williamfiset/Algorithms)：一个用 Java 实现的算法和数据结构的集合。算法和数据结构的重要性无需多言，该项目提供了常见的数据结构和算法最简单、优雅的 Java 代码实现，不管是用于学习还是开发都是不错的选择。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
-16、[Stirling-PDF](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Frooodle/Stirling-PDF)：允许对 PDF 文件做各种操作的 Web 应用。这是一款功能强大、开箱即用的 PDF 工具，支持拆分/合并文件、添加/提取图片、压缩、加水印、添加/删除密码等功能，满足你对 PDF 文件的所有需求。
+16、[Stirling-PDF](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Stirling-Tools/Stirling-PDF)：允许对 PDF 文件做各种操作的 Web 应用。这是一款功能强大、开箱即用的 PDF 工具，支持拆分/合并文件、添加/提取图片、压缩、加水印、添加/删除密码等功能，满足你对 PDF 文件的所有需求。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/594155488.png' style="max-width:80%; max-height=80%;"></img></p>
 
