@@ -225,7 +225,7 @@ print(text_with_wm)
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/737071068.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
-30、[gdb-dashboard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cyrus-and/gdb-dashboard)：GDB 可视化调试界面。这是专为 GUN 调试器（GDB）设计的文本界面，支持模块化显示调试的程序相关信息，更直观和方便地调试代码。该界面采用 Python 编写，具备轻松自定义和扩展的特性。
+30、[gdb-dashboard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cyrus-and/gdb-dashboard)：GDB 可视化调试界面。这是专为 GNU 调试器（GDB）设计的文本界面，支持模块化显示调试的程序相关信息，更直观和方便地调试代码。该界面采用 Python 编写，具备轻松自定义和扩展的特性。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/42191943.png' style="max-width:80%; max-height=80%;"></img></p>
 
