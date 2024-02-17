@@ -237,9 +237,10 @@ Audio(audio_array, rate=SAMPLE_RATE)
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/624994625.png' style="max-width:80%; max-height=80%;"></img></p>
-45、[segment-anything](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facebookresearch/segment-anything)：あらゆるものをセグメント化する画像セグメンテーションモデル。Meta AI 研究所からの画像セグメンテーションモデルで、ワンクリックで画像内の任意のオブジェクトを「切り出す」ことができます。1100万枚の画像と11億のマスク(mask)のデータセットでトレーニングを行い、様々なセグメンテーションタスクで強力なゼロショット(zero-shot)性能を持っています。[@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm)からの共有です。
+45、[segment-anything](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facebookresearch/segment-anything)：あらゆるものをセグメント化する画像分割モデル。Meta AI 研究所から提供されたこの画像分割モデルは、ワンクリックで画像中の任意のオブジェクトを「切り取る」ことができます。1100万枚の画像と11億枚のマスク(mask)によるデータセットでトレーニングされており、様々な分割タスクにおいて顕著なゼロショット(zero-shot)性能を発揮します。[@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm)による共有です。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/618058471.gif' style="max-width:80%; max-height=80%;"></img></p>
+
 
 ## その他の情報
 
