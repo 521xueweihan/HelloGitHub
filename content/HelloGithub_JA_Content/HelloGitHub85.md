@@ -106,8 +106,12 @@ INTO sqlflow_models.my_dnn_model;
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/598343.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-20、[nextui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nextui-org/nextui)：美しく、高速で、モダンな React UI ライブラリ。UI の全体的なスタイルはシンプルで洗練されており、ラウンドコーナーデザインはユーザーエクスペリエンスに優れています。美しいだけでなく、開発者にも非常にフレンドリーで、カスタムデフォルトテーマ、カスタムコンポーネントスタイル、完全タイプ、ダークモードの自動検出などの機能をサポートしています。
-21、[quill](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/quilljs/quill)：強力なリッチテキストエディタ。これは GitHub 上で最も Star を獲得している WYSIWYG Web エディタで、強力な拡張性と互換性を持ち、ほぼ全てのデスクトップ、タブレット、モバイルブラウザでサポートされています。
+20、[nextui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nextui-org/nextui)：美しく、速く、モダンな React UI ライブラリ。UI の全体的なスタイルはシンプルで洗練されており、ラウンドコーナーデザインはユーザーエクスペリエンスに優れています。見た目だけでなく、開発者にも非常にフレンドリーで、カスタムデフォルトテーマ、カスタムコンポーネントスタイル、完全な型定義、ダークモードの自動認識などの機能をサポートしています。[@鸿宇Hov](https://hellogithub.com/user/5kejt8yTpxHwsPK)からの共有です。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/360522116.png' style="max-width:80%; max-height=80%;"></img></p>
+
+21、[quill](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/quilljs/quill)：強力なリッチテキストエディタ。これは GitHub 上で Star 数が最も多い WYSIWYG Web エディタで、強力な拡張性と互換性を持ち、デスクトップ、タブレット、モバイルのほぼ全てのブラウザでサポートされています。
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/5239185.png' style="max-width:80%; max-height=80%;"></img></p>
 
