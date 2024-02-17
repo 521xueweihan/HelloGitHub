@@ -86,6 +86,8 @@ WITH model.hidden_units = [10, 10], model.n_classes = 3, train.epoch= 10
 COLUMN sepal_length, sepal_width, petal_length, petal_width
 LABEL class
 INTO sqlflow_models.my_dnn_model;
+```
+
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/151525500.gif' style="max-width:80%; max-height=80%;"></img></p>
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/151525500.gif' style="max-width:80%; max-height=80%;"></img></p>
 
