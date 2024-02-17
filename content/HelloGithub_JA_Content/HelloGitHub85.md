@@ -89,7 +89,6 @@ INTO sqlflow_models.my_dnn_model;
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/151525500.gif' style="max-width:80%; max-height=80%;"></img></p>
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/151525500.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java プロジェクト
 16、[circuitjs1](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pfalstad/circuitjs1)：ブラウザ上の電子回路シミュレータ。これはブラウザで動作する電子回路シミュレータで、マウスでクリックするとスイッチをオン/オフでき、任意のコンポーネントにマウスを移動するとそのコンポーネントの現在の状態と簡単な説明が表示されます。回路を描画し、回路コンポーネントを追加し、数値を変更し、電圧信号を動的に表示し、インポート/エクスポート/保存などの機能をサポートしており、電子回路に関連する教育や実験に使用できます。
