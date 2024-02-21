@@ -95,7 +95,7 @@ devbox shell
 ```
 
 
-12、[faas](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/openfaas/faas)：一款高星的功能即服务框架。该项目用容器的方式运行 Serverless 函数，让功能即服务（FaaS）变得简单。它可以轻松地将函数和微服务部署到 Kubernetes，支持自动扩缩容、自带 Web 管理平台、Dockerfile 和多种编程语言。
+12、[faas](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/openfaas/faas)：一款高性能的功能即服务框架。该项目用容器的方式运行 Serverless 函数，让功能即服务（FaaS）变得简单。它可以轻松地将函数和微服务部署到 Kubernetes，支持自动扩缩容、自带 Web 管理平台、Dockerfile 和多种编程语言。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/77144337.png' style="max-width:80%; max-height=80%;"></img></p>
 
