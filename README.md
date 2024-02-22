@@ -67,10 +67,10 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://promptperfect.jinaai.cn/a/KARRY">
-          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55871322/256815369-7539126d-cbfa-4c66-b607-00f4f9ef0123.jpg" width="60px"><br>
-          <sub>PromptPerfect</sub><br>
-          <sub>大模型提示词开发工具</sub>
+        <a href="https://go.jina.ai/embeddings">
+          <img src="https://github.com/Nick17t/HelloGitHub/assets/55871322/c494f0f7-874f-4539-91c8-5dd8fe529e4f" width="60px"><br>
+          <sub>Jina Embeddings</sub><br>
+          <sub>全球首个8k开源向量模型</sub>
         </a>
       </th>
     </tr>
