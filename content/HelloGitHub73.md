@@ -84,7 +84,7 @@ void add_user(struct my_struct *s) {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/73/326420723.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Go 项目
-9、[casdoor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/casbin/casdoor)：提供登陆界面的身份访问管理平台。提供中文界面的用户管理后台，支持多种第三方登录、单点登录以及手机/邮箱验证码、找回密码等功能
+9、[casdoor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/casdoor/casdoor)：提供登陆界面的身份访问管理平台。提供中文界面的用户管理后台，支持多种第三方登录、单点登录以及手机/邮箱验证码、找回密码等功能
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/73/306366900.png' style="max-width:80%; max-height=80%;"></img></p>

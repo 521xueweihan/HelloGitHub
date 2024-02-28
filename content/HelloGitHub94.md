@@ -173,7 +173,7 @@ try {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/682370127.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Objective-C 项目
-21、[Itsycal](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sfsam/Itsycal)：可爱的 Mac 菜单栏日历。这是一个迷你的菜单栏，拥有可爱的界面和实用的功能，支持显示/添加系统日历的事件、深色模式、周数、快捷键等功能，适用于 macOS 11+ 系统。
+21、[Itsycal](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sfsam/Itsycal)：可爱的 Mac 菜单栏日历。这是一个迷你的菜单栏日历工具，拥有可爱的界面和实用的功能。支持显示/添加系统日历的事件、深色模式、周数、快捷键等功能，适用于 macOS 11+ 系统。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/50525082.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -203,7 +203,7 @@ try {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/83462592.png' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[text_blind_watermark](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/guofei9987/text_blind_watermark)：给文本加盲水印的 Python 库。通过该项目可以将一段隐秘信息嵌入到明文中，嵌入前后的明文无变化。简单说就是给文本打上隐藏水印，适合在版权保护、数据泄漏溯源、数据安全等场景使用，支持 macOS 的 Chrome 浏览器、苹果备忘录、macOS/iPhone 的微信和钉钉等应用。
+28、[text_blind_watermark](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/guofei9987/text_blind_watermark)：给文本加盲水印的 Python 库。通过该项目可以将一段隐秘信息嵌入到明文中，嵌入前后的明文无变化。简单说就是给文本打上隐藏水印，适合在版权保护、数据泄露溯源、数据安全等场景使用，支持 macOS 的 Chrome 浏览器、苹果备忘录、macOS/iPhone 的微信和钉钉等应用。
 ```python
 from text_blind_watermark import TextBlindWatermark2
 
@@ -272,7 +272,7 @@ print(text_with_wm)
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub93.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub93.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub95.md">『下一期』</a>
 </p>
 
 ---

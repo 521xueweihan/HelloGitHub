@@ -42,7 +42,7 @@ $ nms -v                   // Display version
 4、[opencv-mobile](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nihui/opencv-mobile)：最小化的 OpenCV 库。这是一个比官方版本小 10 多倍的 OpenCV 库，它对模块进行了删减，仅保留了最基本的运算模块和常见的图像处理功能，适用于 Android、iOS、Windows、Linux、macOS 等平台。
 
 ### C# 项目
-5、[FluentHub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FluentHub/FluentHub)：好看的 GitHub 客户端。这是一款 C# 编写的 GitHub 客户端，采用 Fluent Design 设计，界面清爽且时尚，适用于 Windows 系统。
+5、[FluentHub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/0x5bfa/FluentHub)：好看的 GitHub 客户端。这是一款 C# 编写的 GitHub 客户端，采用 Fluent Design 设计，界面清爽且时尚，适用于 Windows 系统。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/443883473.png' style="max-width:80%; max-height=80%;"></img></p>
 

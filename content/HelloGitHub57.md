@@ -151,20 +151,20 @@ go run knnclassifier_iris.go
 
 
 ### Python 项目
-19、[15-minute-apps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pythonguis/15-minute-apps)：基于 PyQt 框架写的小型桌面应用程序的集合。想用 Python 写桌面应用的小伙伴，这个项目应该可以帮到你。比如写个扫雷游戏：
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/120960730.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-20、[pgcli](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dbcli/pgcli)：支持语法高亮和自动补全的 Postgres 数据库客户端命令行工具。它安装简单上手快速，如果你用过 Postgres 数据库自带的命令行工具，就一定能感受到 pgcli 的迷人之处
+19、[pgcli](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dbcli/pgcli)：支持语法高亮和自动补全的 Postgres 数据库客户端命令行工具。它安装简单上手快速，如果你用过 Postgres 数据库自带的命令行工具，就一定能感受到 pgcli 的迷人之处
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/25126616.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-21、[python-patterns](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/faif/python-patterns)：Python 设计模式和使用场景的集合
+20、[python-patterns](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/faif/python-patterns)：Python 设计模式和使用场景的集合
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/4578002.png' style="max-width:80%; max-height=80%;"></img></p>
+
+21、[pythonguis-examples](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pythonguis/pythonguis-examples)：基于 PyQt 框架写的小型桌面应用程序的集合。想用 Python 写桌面应用的小伙伴，这个项目应该可以帮到你。比如写个扫雷游戏：
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/120960730.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Rust 项目
 22、[bat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sharkdp/bat)：替代 cat 的命令行工具。你还在命令行用 cat 查看文件吗？那你就 out 啦！今天推荐的 bat 它不仅支持语法高亮，还能展示 Git 的改动。macOS 下安装命令：`brew install bat` 相信你用过 bat 后就不会再想用回 cat 了

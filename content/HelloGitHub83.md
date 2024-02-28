@@ -195,7 +195,7 @@ public class Basic {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/482719022.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-20、[memos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/usememos/memos)：一款清爽的轻量级备忘录中心。采用 React+Tailwind+TypeScript+Go 开发的备忘录中心，相当于极简的微博。支持私有/公开备忘录、标签、互动式日历等功能，以及 Docker 部署。来自 [@Yoshino-s](https://hellogithub.com/user/J6BeoT2SX1CUApN) 的分享
+20、[memos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/usememos/memos)：一款清爽的轻量级备忘录中心。这是一个采用 React+Tailwind+TypeScript+Go 开发的备忘录中心，相当于极简的微博。支持私有/公开备忘录、标签、互动式日历等功能，以及 Docker 部署。来自 [@Yoshino-s](https://hellogithub.com/user/J6BeoT2SX1CUApN) 的分享
 ```shell
 docker run -d --name memos -p 5230:5230 -v ~/.memos/:/var/opt/memos neosmemo/memos:latest
 ```
