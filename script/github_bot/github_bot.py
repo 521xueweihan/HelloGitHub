@@ -83,7 +83,7 @@ def get_data(page=1):
         resp_json = response.json()
         return resp_json
     else:
-        logging.error('请求 event api 失败：', status_code)
+        logging.error('请求 event api 失败：%s', status_code)
         return []
 
 
