@@ -154,7 +154,7 @@ def test():
 
 
 
-23、[redis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangz1990/redis)：《Redis Command Reference》全文的中文翻译版，[在线阅读](http://redisdoc.com/)
+23、[redis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangzworks/redis)：《Redis Command Reference》全文的中文翻译版，[在线阅读](http://redisdoc.com/)
 
 
 

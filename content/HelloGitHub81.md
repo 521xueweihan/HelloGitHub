@@ -36,7 +36,7 @@
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/226844803.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C# 项目
-5、[DevToys](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/veler/DevToys)：程序员的瑞士军刀。该项目打包了程序员日常开发会用到的小工具，比如时间戳转化、各种解码、输出美化、颜色选择器等，使用方便颜值高。
+5、[DevToys](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DevToys-app/DevToys)：程序员的瑞士军刀。该项目打包了程序员日常开发会用到的小工具，比如时间戳转化、各种解码、输出美化、颜色选择器等，使用方便颜值高。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/411493648.png' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -21,8 +21,7 @@
 > **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
-1、[switch-lan-play](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spacemeowx2/switch-lan-play)：让您和您的朋友像在局域网中一样玩 switch 游戏。[教程](https://www.bilibili.com/read/cv4233983/)
-
+1、[switch-lan-play](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spacemeowx2/switch-lan-play)：在局域网玩 Switch 游戏的工具。让您和您的朋友像在局域网中一样玩 switch 游戏。
 
 ### C# 项目
 2、[excel2json](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/neil3d/excel2json)：C# 写的把 Excel 表转换成 json 的工具

@@ -211,7 +211,7 @@ df = q.collect()
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/263727855.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift 项目
-25、[Charts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/danielgindi/Charts)：支持 iOS/tvOS/OSX 的图表库。功能：
+25、[Charts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ChartsOrg/Charts)：支持 iOS/tvOS/OSX 的图表库。功能：
 - 8 种不同的图表类型
 - 两个轴支持缩放和缩放手势
 - 组合图表、导出图片

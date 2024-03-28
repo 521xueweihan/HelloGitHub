@@ -211,7 +211,7 @@ john = table.find_one(name='John Doe')
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/210702427.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift 项目
-32、[DevToysMac](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ObuchiYuki/DevToysMac)：macOS 上的程序员瑞士军刀。该项目是 DevToys 的 macOS 版本，无需安装下载解压后即可使用。它同样实现了程序员日常开发会用到的功能，比如时间戳转化、Base64 编/解码、JSON 格式化等。
+32、[DevToysMac](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DevToys-app/DevToysMac)：macOS 上的程序员瑞士军刀。该项目是 DevToys 的 macOS 版本，无需安装下载解压后即可使用。它同样实现了程序员日常开发会用到的功能，比如时间戳转化、Base64 编/解码、JSON 格式化等。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/453642201.png' style="max-width:80%; max-height=80%;"></img></p>
 

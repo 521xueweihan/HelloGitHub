@@ -109,7 +109,7 @@ func main() {
 
 
 ### JavaScript 项目
-15、[genal-chat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/genaller/genal-chat)：适合前端新手学习的‘星空’聊天室项目。采用 Vue + socket.io 结合 TypeScript 语法构建，界面炫酷、良好的代码规范、支持群聊和好友搜索等功能
+15、[genal-chat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/genalhuang/genal-chat)：适合前端新手学习的‘星空’聊天室项目。采用 Vue + socket.io 结合 TypeScript 语法构建，界面炫酷、良好的代码规范、支持群聊和好友搜索等功能
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/274610956.gif' style="max-width:80%; max-height=80%;"></img></p>
