@@ -176,7 +176,8 @@ with open('report.xls', 'wb') as f:
 21、[nodebestpractices](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/goldbergyoni/nodebestpractices)：Node.js 最佳实践列表（英文）
 
 
-22、[vim-game-code-break](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/johngrib/vim-game-code-break)：Vim 中的打砖块游戏。在 Vim 实现打砖块游戏的插件。
+22、[vim-game-code-break](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/johngrib/vim-game-code-break)：Vim 中的打砖块游戏
+
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/20/94041124.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -232,13 +233,6 @@ with open('report.xls', 'wb') as f:
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
           <sub>Apifox</sub><br>
           <sub>比 Postman 更强大</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://promptperfect.jinaai.cn/a/KARRY">
-          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55871322/256815369-7539126d-cbfa-4c66-b607-00f4f9ef0123.jpg" width="60px"><br>
-          <sub>PromptPerfect</sub><br>
-          <sub>大模型提示词开发工具</sub>
         </a>
       </th>
     </tr>

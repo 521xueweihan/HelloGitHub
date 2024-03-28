@@ -21,7 +21,8 @@
 > **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
-1、[switch-lan-play](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spacemeowx2/switch-lan-play)：在局域网玩 Switch 游戏的工具。让您和您的朋友像在局域网中一样玩 switch 游戏。
+1、[switch-lan-play](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spacemeowx2/switch-lan-play)：让您和您的朋友像在局域网中一样玩 switch 游戏。[教程](https://www.bilibili.com/read/cv4233983/)
+
 
 ### C# 项目
 2、[excel2json](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/neil3d/excel2json)：C# 写的把 Excel 表转换成 json 的工具
@@ -241,13 +242,6 @@ let _ = "19 Nov 2015 22:20:40 +0100".toRSS(alt: true)
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
           <sub>Apifox</sub><br>
           <sub>比 Postman 更强大</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://promptperfect.jinaai.cn/a/KARRY">
-          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55871322/256815369-7539126d-cbfa-4c66-b607-00f4f9ef0123.jpg" width="60px"><br>
-          <sub>PromptPerfect</sub><br>
-          <sub>大模型提示词开发工具</sub>
         </a>
       </th>
     </tr>

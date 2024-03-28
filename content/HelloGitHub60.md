@@ -215,23 +215,18 @@ const App = () => {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/80276391.png' style="max-width:80%; max-height=80%;"></img></p>
 
-15、[joplin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/laurent22/joplin)：Markdown 友好的开源笔记软件。这是一款免费的开源笔记软件，能够方便地管理待办事项和处理大量笔记。可以直接导入印象笔记（Evernote）的笔记和 Markdown 文件，提供了 Windows、macOS、Linux、Android 和 iOS 等主流操作系统客户端。它不仅支持离线使用，同时也支持自定义网盘同步笔记，从而实现多端无缝创作。
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/79162682.png' style="max-width:80%; max-height=80%;"></img></p>
-
-16、[MarioHTML](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nbarkhina/MarioHTML)：用 TypeScript 写的马里奥网页游戏。[在线试玩](https://www.neilb.net/MarioHTML/)
+15、[MarioHTML](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nbarkhina/MarioHTML)：用 TypeScript 写的马里奥网页游戏。[在线试玩](https://www.neilb.net/MarioHTML/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/203693850.png' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[semaphore](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ansible-semaphore/semaphore)：好看的 Ansible UI 项目。受够了 Ansible 老气的界面了吗？那就试试这个项目吧
+16、[semaphore](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ansible-semaphore/semaphore)：好看的 Ansible UI 项目。受够了 Ansible 老气的界面了吗？那就试试这个项目吧
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/23267883.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### PHP 项目
-18、[dompdf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dompdf/dompdf)：一个 HTML 转 PDF 的 PHP 库。示例代码：
+17、[dompdf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dompdf/dompdf)：一个 HTML 转 PDF 的 PHP 库。示例代码：
 ```php
 // reference the Dompdf namespace
 use Dompdf\Dompdf;
@@ -251,7 +246,7 @@ $dompdf->stream();
 ```
 
 
-19、[PHPMailer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PHPMailer/PHPMailer)：应该是最流行的 PHP 发邮件的开源库。很多知名 PHP 开源项目中都有它的身影，比如：WordPress、Yii 等，支持你对发邮件的所有开发需求。看看示例代码，就知道使用起来有多简单啦：
+18、[PHPMailer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PHPMailer/PHPMailer)：应该是最流行的 PHP 发邮件的开源库。很多知名 PHP 开源项目中都有它的身影，比如：WordPress、Yii 等，支持你对发邮件的所有开发需求。看看示例代码，就知道使用起来有多简单啦：
 ```php
 <?php
 //Import PHPMailer classes into the global namespace
@@ -303,39 +298,39 @@ try {
 ```
 
 
-20、[video_spider](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/5ime/video_spider)：视频去水印工具。原理很简单就是根据输入的视频的地址，返回原平台无水印的视频源地址。目前支持 15 个视频平台，[在线尝试](https://lab.5ime.cn/video/)
+19、[video_spider](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/5ime/video_spider)：视频去水印工具。原理很简单就是根据输入的视频的地址，返回原平台无水印的视频源地址。目前支持 15 个视频平台，[在线尝试](https://lab.5ime.cn/video/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/281640234.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
-21、[Airtest](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AirtestProject/Airtest)：适用于移动端应用的跨平台 UI 自动化框架。基于图像识别定位元素，可能都不需要一行代码就可以很方便地用它来测试 APP 或刷游戏
+20、[Airtest](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AirtestProject/Airtest)：适用于移动端应用的跨平台 UI 自动化框架。基于图像识别定位元素，可能都不需要一行代码就可以很方便地用它来测试 APP 或刷游戏
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/118709540.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-22、[ArchiveBox](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ArchiveBox/ArchiveBox)：基于 Python 实现的网站归档平台。就是可以自动把网页（HTML、PDF、图片等）变成静态页面，下载到本地存储和管理的工具。可以用来做镜像站、档案馆、离线阅读等
+21、[ArchiveBox](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ArchiveBox/ArchiveBox)：基于 Python 实现的网站归档平台。就是可以自动把网页（HTML、PDF、图片等）变成静态页面，下载到本地存储和管理的工具。可以用来做镜像站、档案馆、离线阅读等
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/90356372.png' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[lux](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lux-org/lux)：一个用于数据科学方面的 Python 开源库。这个库适用于实验室分析数据的场景，基于 Jupyter 的数据可视化和操作界面，再加上 pandas 丰富的数据接入方式以及强大的数据处理能力，让数据的分析变得简单从而可以更加直观地找到数据背后藏着的“真理”
+22、[lux](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lux-org/lux)：一个用于数据科学方面的 Python 开源库。这个库适用于实验室分析数据的场景，基于 Jupyter 的数据可视化和操作界面，再加上 pandas 丰富的数据接入方式以及强大的数据处理能力，让数据的分析变得简单从而可以更加直观地找到数据背后藏着的“真理”
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/232480726.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-24、[qutebrowser](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/qutebrowser/qutebrowser)：基于 PyQt5 编写的 Vim 操作方式的浏览器。支持 Linux，Windows 和 macOS 操作系统，可以先[安装](https://github.com/qutebrowser/qutebrowser/releases)体验下。然后再看看源码学习如何用 Python 写浏览器
+23、[qutebrowser](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/qutebrowser/qutebrowser)：基于 PyQt5 编写的 Vim 操作方式的浏览器。支持 Linux，Windows 和 macOS 操作系统，可以先[安装](https://github.com/qutebrowser/qutebrowser/releases)体验下。然后再看看源码学习如何用 Python 写浏览器
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/21244505.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift 项目
-25、[flappy-fly-bird](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eleev/flappy-fly-bird)：用 Swift 写的 Flappy Bird 游戏
+24、[flappy-fly-bird](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eleev/flappy-fly-bird)：用 Swift 写的 Flappy Bird 游戏
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/131873713.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-26、[Hue](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zenangst/Hue)：一个集合多功能于一体的着色工具。在 iOS 开发中非常好用，可以快速简单的进行 UI 的颜色设置、透明度修改、设置渐变颜色、修改图片的颜色等。相比于使用 Swift 原生繁重复杂的 RGBA 颜色 API，Hue 仅需要一行代码，简洁易用。示例代码：
+25、[Hue](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zenangst/Hue)：一个集合多功能于一体的着色工具。在 iOS 开发中非常好用，可以快速简单的进行 UI 的颜色设置、透明度修改、设置渐变颜色、修改图片的颜色等。相比于使用 Swift 原生繁重复杂的 RGBA 颜色 API，Hue 仅需要一行代码，简洁易用。示例代码：
 ```swift
 // 设置 16 进制颜色
 let white = UIColor(hex: "#ffffff")
@@ -355,17 +350,17 @@ let secondGradient = [UIColor.blackColor(), UIColor.orangeColor()].gradient { gr
 
 
 ### 其它
-27、[azuredatastudio](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/azuredatastudio)：微软开源的数据库桌面管理工具。该工具支持 SQL Server、Azure SQL DB 和 SQL DW 数据库，Windows 下的安装包仅不到 100 MB，还支持另外两大操作系统 macOS 和 Linux。如果开发中用到了上面的几种数据库，就试试这款免费的数据库桌面管理工具吧
+26、[azuredatastudio](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/azuredatastudio)：微软开源的数据库桌面管理工具。该工具支持 SQL Server、Azure SQL DB 和 SQL DW 数据库，Windows 下的安装包仅不到 100 MB，还支持另外两大操作系统 macOS 和 Linux。如果开发中用到了上面的几种数据库，就试试这款免费的数据库桌面管理工具吧
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/109200851.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[cats-of-jasnah](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/countable/cats-of-jasnah)：专为 3 岁左右孩子做的网页游戏。游戏很简单就是看图中有几只符合条件的猫，比如：有几只蓝色的猫？问题是通过语音提问，选择正确后会进入下一关。通过该项目不仅可以提高小孩的颜色辨识和识数的能力，还可以锻炼英语听力。[在线试玩](https://countable.github.io/cats-of-jasnah/)
+27、[cats-of-jasnah](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/countable/cats-of-jasnah)：专为 3 岁左右孩子做的网页游戏。游戏很简单就是看图中有几只符合条件的猫，比如：有几只蓝色的猫？问题是通过语音提问，选择正确后会进入下一关。通过该项目不仅可以提高小孩的颜色辨识和识数的能力，还可以锻炼英语听力。[在线试玩](https://countable.github.io/cats-of-jasnah/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/229992640.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[Docker-OSX](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sickcodes/Docker-OSX)：让你用 Docker 跑 macOS 操作系统的项目。仅需 2 条命令分分钟让你起来一个 macOS 操作系统，听着刺激吧！搞起来：
+28、[Docker-OSX](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sickcodes/Docker-OSX)：让你用 Docker 跑 macOS 操作系统的项目。仅需 2 条命令分分钟让你起来一个 macOS 操作系统，听着刺激吧！搞起来：
 ```
 # 拉镜像
 docker pull sickcodes/docker-osx:latest
@@ -381,6 +376,11 @@ docker run -it \
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/269336148.png' style="max-width:80%; max-height=80%;"></img></p>
+
+29、[joplin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/laurent22/joplin)：一款免费的开源笔记和待办事项应用。首先它是一款自由的 Markdown 的笔记软件，支持 Windows、macOS、Linux、Android、iOS 等主流操作系统，再加上支持自定义网盘同步，也就是说你可以无缝在这些平台上自由创作，并且文本加密保证安全。推荐给喜欢写作的小伙伴
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/79162682.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 30、[what-happens-when](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alex/what-happens-when)：该项目详细地解释了当你在浏览器中输入 google.com 按下回车后发生了什么。[中文](https://github.com/skyline75489/what-happens-when-zh_CN)
 
@@ -475,13 +475,6 @@ optim.step()
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
           <sub>Apifox</sub><br>
           <sub>比 Postman 更强大</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://promptperfect.jinaai.cn/a/KARRY">
-          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55871322/256815369-7539126d-cbfa-4c66-b607-00f4f9ef0123.jpg" width="60px"><br>
-          <sub>PromptPerfect</sub><br>
-          <sub>大模型提示词开发工具</sub>
         </a>
       </th>
     </tr>

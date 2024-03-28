@@ -66,13 +66,6 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
           <sub>比 Postman 更强大</sub>
         </a>
       </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://promptperfect.jinaai.cn/a/KARRY">
-          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55871322/256815369-7539126d-cbfa-4c66-b607-00f4f9ef0123.jpg" width="60px"><br>
-          <sub>PromptPerfect</sub><br>
-          <sub>大模型提示词开发工具</sub>
-        </a>
-      </th>
     </tr>
   </thead>
 </table>

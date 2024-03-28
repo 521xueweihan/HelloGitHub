@@ -28,7 +28,7 @@
 - 一千万个协程并发执行仅消耗2.8GB的物理内存
 
 
-2、[redis-3.0-annotated](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangzworks/redis-3.0-annotated)：[黄健宏](https://github.com/huangz1990) 在编写《Redis 设计与实现》期间，阅读 Redis 3.0 源码过程中写的注释。相信对于想要阅读 redis 源码的同学，会有很大的帮助
+2、[redis-3.0-annotated](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangz1990/redis-3.0-annotated)：[黄健宏](https://github.com/huangz1990) 在编写《Redis 设计与实现》期间，阅读 Redis 3.0 源码过程中写的注释。相信对于想要阅读 redis 源码的同学，会有很大的帮助
 
 
 ### C++ 项目
@@ -272,13 +272,6 @@ ReactDOM.render(
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
           <sub>Apifox</sub><br>
           <sub>比 Postman 更强大</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://promptperfect.jinaai.cn/a/KARRY">
-          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55871322/256815369-7539126d-cbfa-4c66-b607-00f4f9ef0123.jpg" width="60px"><br>
-          <sub>PromptPerfect</sub><br>
-          <sub>大模型提示词开发工具</sub>
         </a>
       </th>
     </tr>

@@ -129,7 +129,7 @@ print ifconfig("eth0")
 20、[react-cookbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shimohq/react-cookbook)：编写简洁漂亮，可维护的 React 应用
 
 
-21、[real-world-haskell-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangzworks/real-world-haskell-cn)：《Real World Haskell》中文翻译项目
+21、[real-world-haskell-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangz1990/real-world-haskell-cn)：《Real World Haskell》中文翻译项目
 
 
 22、[rust-book-chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/KaiserY/rust-book-chinese)：Rust 程序设计语言 中文版
@@ -181,13 +181,6 @@ print ifconfig("eth0")
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
           <sub>Apifox</sub><br>
           <sub>比 Postman 更强大</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://promptperfect.jinaai.cn/a/KARRY">
-          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55871322/256815369-7539126d-cbfa-4c66-b607-00f4f9ef0123.jpg" width="60px"><br>
-          <sub>PromptPerfect</sub><br>
-          <sub>大模型提示词开发工具</sub>
         </a>
       </th>
     </tr>

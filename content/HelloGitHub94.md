@@ -124,7 +124,7 @@ java -> v11.0.12
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/736572328.png' style="max-width:80%; max-height=80%;"></img></p>
 
-13、[automq](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AutoMQ/automq)：一款真正的云原生 Kafka 解决方案。该项目是基于云原生重新设计的新一代 Kafka 发行版。在保持和 Apache Kafka 100%兼容前提下，AutoMQ 可以为用户提供高达 10 倍的成本优势以及百倍的弹性优势，同时支持秒级分区迁移和流量自动重平衡，解决运维痛点。
+13、[automq-for-kafka](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AutoMQ/automq-for-kafka)：一款真正的云原生 Kafka 解决方案。该项目是基于云原生重新设计的新一代 Kafka 发行版。在保持和 Apache Kafka 100%兼容前提下，AutoMQ 可以为用户提供高达 10 倍的成本优势以及百倍的弹性优势，同时支持秒级分区迁移和流量自动重平衡，解决运维痛点。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/679601811.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -315,13 +315,6 @@ print(text_with_wm)
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
           <sub>Apifox</sub><br>
           <sub>比 Postman 更强大</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://promptperfect.jinaai.cn/a/KARRY">
-          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55871322/256815369-7539126d-cbfa-4c66-b607-00f4f9ef0123.jpg" width="60px"><br>
-          <sub>PromptPerfect</sub><br>
-          <sub>大模型提示词开发工具</sub>
         </a>
       </th>
     </tr>

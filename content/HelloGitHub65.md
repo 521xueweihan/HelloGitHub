@@ -116,7 +116,7 @@ public void onCreate() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/78756870.png' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[lettuce](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/redis/lettuce)：线程安全的高级 Java Redis 客户端。基于 Netty 实现了非阻塞 I/O，支持同步、异步、集群、哨兵、管道等功能
+11、[lettuce-core](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lettuce-io/lettuce-core)：线程安全的高级 Java Redis 客户端。基于 Netty 实现了非阻塞 I/O，支持同步、异步、集群、哨兵、管道等功能
 ```java
 RedisClient redisClient = RedisClient.create("redis://localhost/0");
 StatefulRedisConnection<String, String> connection = redisClient.connect();
@@ -362,13 +362,6 @@ $ python3 -m weibo_spider
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
           <sub>Apifox</sub><br>
           <sub>比 Postman 更强大</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://promptperfect.jinaai.cn/a/KARRY">
-          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55871322/256815369-7539126d-cbfa-4c66-b607-00f4f9ef0123.jpg" width="60px"><br>
-          <sub>PromptPerfect</sub><br>
-          <sub>大模型提示词开发工具</sub>
         </a>
       </th>
     </tr>

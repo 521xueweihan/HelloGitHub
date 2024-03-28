@@ -186,7 +186,7 @@ def get_weather(place):
     return owm.weather_at_place(place).get_weather()
 ```
 
-22、[Ciphey](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Ciphey/Ciphey)：自动解密/解码各种加密算法的工具。使用该项目时，你只需输入加密的文本，无需提供具体的加密类型，它就可以在 3 秒或更短的时间内自动解密大多数的加密文本。这个项目支持 50 多种常见的加密/编码方式，包括二进制、base64、哈希和凯撒密码等。
+22、[Ciphey](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Ciphey/Ciphey)：自动解密/解码和破解各种加密算法的工具。使用该项目时，你只需输入加密的文本，无需提供具体的加密类型，它就可以在 3 秒或更短的时间内自动解密大多数的加密文本。这个项目支持 30 多种常见的加密方式，包括二进制、base64、哈希等。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/197261780.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -299,7 +299,7 @@ df.chat('Which are the 5 happiest countries?')
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub94.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub96.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub94.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
 </p>
 
 ---
@@ -342,13 +342,6 @@ df.chat('Which are the 5 happiest countries?')
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
           <sub>Apifox</sub><br>
           <sub>比 Postman 更强大</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://promptperfect.jinaai.cn/a/KARRY">
-          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55871322/256815369-7539126d-cbfa-4c66-b607-00f4f9ef0123.jpg" width="60px"><br>
-          <sub>PromptPerfect</sub><br>
-          <sub>大模型提示词开发工具</sub>
         </a>
       </th>
     </tr>

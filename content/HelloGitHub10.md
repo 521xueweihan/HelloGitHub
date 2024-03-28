@@ -135,7 +135,7 @@
 
 
 ### 开源书籍
-19、[redisbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangzworks/redisbook)：Redis 设计与实现（网络版）
+19、[redisbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangz1990/redisbook)：Redis 设计与实现（网络版）
 
 
 ### 机器学习
@@ -194,13 +194,6 @@
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
           <sub>Apifox</sub><br>
           <sub>比 Postman 更强大</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://promptperfect.jinaai.cn/a/KARRY">
-          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55871322/256815369-7539126d-cbfa-4c66-b607-00f4f9ef0123.jpg" width="60px"><br>
-          <sub>PromptPerfect</sub><br>
-          <sub>大模型提示词开发工具</sub>
         </a>
       </th>
     </tr>
