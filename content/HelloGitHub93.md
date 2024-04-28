@@ -21,7 +21,7 @@
 > **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
-1、[rsync](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/WayneD/rsync)：Linux 远程同步文件的工具。该项目提供了一种快速、增量的文件传输方式，即仅传输有变动的部分，可用于远程同步和备份文件。
+1、[rsync](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RsyncProject/rsync)：Linux 远程同步文件的工具。该项目提供了一种快速、增量的文件传输方式，即仅传输有变动的部分，可用于远程同步和备份文件。
 
 ### C# 项目
 2、[Kavita](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Kareadita/Kavita)：一款功能丰富的在线阅读平台。该项目可以在本地架设一个阅读漫画和电子书的 Web 平台，在手机、平板、台式机等设备上都有着出色的访问体验。

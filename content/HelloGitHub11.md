@@ -129,7 +129,7 @@ print ifconfig("eth0")
 20、[react-cookbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shimohq/react-cookbook)：编写简洁漂亮，可维护的 React 应用
 
 
-21、[real-world-haskell-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangz1990/real-world-haskell-cn)：《Real World Haskell》中文翻译项目
+21、[real-world-haskell-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangzworks/real-world-haskell-cn)：《Real World Haskell》中文翻译项目
 
 
 22、[rust-book-chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/KaiserY/rust-book-chinese)：Rust 程序设计语言 中文版

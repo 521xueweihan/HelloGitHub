@@ -135,7 +135,7 @@ func main() {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/42976210.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
-20、[altair](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/altair-viz/altair)：强大的数据可视化 Python 库。支持多种数据展示方式、接口简单、效果炫酷，示例代码和效果如下：
+20、[altair](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vega/altair)：强大的数据可视化 Python 库。支持多种数据展示方式、接口简单、效果炫酷，示例代码和效果如下：
 ```python
 import altair as alt
 from vega_datasets import data

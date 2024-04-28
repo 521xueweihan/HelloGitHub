@@ -135,7 +135,7 @@
 
 
 ### 开源书籍
-19、[redisbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangz1990/redisbook)：Redis 设计与实现（网络版）
+19、[redisbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangzworks/redisbook)：Redis 设计与实现（网络版）
 
 
 ### 机器学习

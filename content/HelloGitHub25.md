@@ -46,7 +46,7 @@
 
 
 ### JavaScript 项目
-6、[battle-city](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shinima/battle-city)：基于 React 的经典坦克大战，[在线试玩](http://shinima.pw/battle-city)。欢迎感兴趣的小伙伴动起手来提交代码加入到这个项目
+6、[battle-city](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/feichao93/battle-city)：基于 React 的经典坦克大战，[在线试玩](http://shinima.pw/battle-city)。欢迎感兴趣的小伙伴动起手来提交代码加入到这个项目
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/83436064.png' style="max-width:80%; max-height=80%;"></img></p>

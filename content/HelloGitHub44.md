@@ -172,7 +172,7 @@ ReactDOM.render(<QierPlayer srcOrigin="你的视频地址"/>, document.getElemen
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/103053825.png' style="max-width:80%; max-height=80%;"></img></p>
 
-24、[SwiftyGif](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kirualex/SwiftyGif)：高性能且上手容易的 Swift GIF 库。示例代码：
+24、[SwiftyGif](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alexiscreuzot/SwiftyGif)：高性能且上手容易的 Swift GIF 库。示例代码：
 ```swift
 import SwiftyGif
 

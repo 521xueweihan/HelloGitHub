@@ -278,13 +278,13 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 39、[Startup-CTO-Handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ZachGoldberg/Startup-CTO-Handbook)：《初创公司 CTO 手册》。这是一本写给初创公司首席技术官的书，内容涵盖技术团队管理、招聘和面试、技术架构等方面。作者先后担任过多家创业公司的 CTO 和 CEO，还曾在腾讯做过驻点企业家(EIR)。
 
 ### 机器学习
-40、[deepface](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/serengil/deepface)：轻量级人脸识别和分析库。该项目是 Python 写的人脸识别和面部属性分析框架，可根据人脸图像智能识别年龄、性别、情绪等信息。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/239201565.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-41、[DeepLearningSystem](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chenzomi12/DeepLearningSystem)：AI 系统 & 深度学习教程。该项目主要是关于人工智能、深度学习系统设计的教程，内容涵盖 AI 基础知识和概述、AI 芯片、AI 编译器原理、AI 框架核心技术等方面。
+40、[AISystem](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chenzomi12/AISystem)：AI 系统 & 深度学习教程。该项目主要是关于人工智能、深度学习系统设计的教程，内容涵盖 AI 基础知识和概述、AI 芯片、AI 编译器原理、AI 框架核心技术等方面。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/539888500.png' style="max-width:80%; max-height=80%;"></img></p>
+
+41、[deepface](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/serengil/deepface)：轻量级人脸识别和分析库。该项目是 Python 写的人脸识别和面部属性分析框架，可根据人脸图像智能识别年龄、性别、情绪等信息。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/239201565.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 42、[guidance](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/guidance-ai/guidance)：微软开源的 LLM 提示编程语言。该项目是微软开源的编写 prompt 的模版语言，用于编写复杂、可复用、易于管理的 prompt，支持 GPT-4、LLaMa 等多种大语言模型。
 

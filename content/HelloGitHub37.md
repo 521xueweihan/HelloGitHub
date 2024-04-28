@@ -210,7 +210,7 @@ pyxel.run(update, draw)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/162380526.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[ICCV2019-LearningToPaint](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/megvii-research/ICCV2019-LearningToPaint)：一个深度强化学习项目，研究如何让机器用画笔画画。也可体验制作自己的绘画或根据一张图片生成一整个绘画过程
+32、[ICCV2019-LearningToPaint](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hzwer/ICCV2019-LearningToPaint)：一个深度强化学习项目，研究如何让机器用画笔画画。也可体验制作自己的绘画或根据一张图片生成一整个绘画过程
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/174922473.gif' style="max-width:80%; max-height=80%;"></img></p>

@@ -161,7 +161,7 @@ ignore:
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/89/34798315.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-20、[WeHalo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/savingrun/WeHalo)：清爽的微信小程序版博客。该项目是基于 Halo 博客后端的微信小程序，可以轻松地将博客内容搬到微信小程序上，支持个人名片、博文展示、评论、搜索文章、自定义导航栏等功能。来自 [@umail.com](https://hellogithub.com/user/a0L3Omilqk8zNQY) 的分享
+20、[WeHalo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sav7ng/WeHalo)：清爽的微信小程序版博客。该项目是基于 Halo 博客后端的微信小程序，可以轻松地将博客内容搬到微信小程序上，支持个人名片、博文展示、评论、搜索文章、自定义导航栏等功能。来自 [@umail.com](https://hellogithub.com/user/a0L3Omilqk8zNQY) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/89/158522838.png' style="max-width:80%; max-height=80%;"></img></p>
 

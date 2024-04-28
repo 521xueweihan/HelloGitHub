@@ -173,7 +173,7 @@ octosql "SELECT customer_id, SUM(amount)
 ```
 
 
-20、[lottery](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/moshang-xc/lottery)：年会抽奖程序。基于 Express + Three.js 的 3D 球体抽奖项目，能够自定义文字、图片和抽奖规则，还支持一键导入抽奖人员和导出抽奖结果
+20、[lottery](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Aras-ax/lottery)：年会抽奖程序。基于 Express + Three.js 的 3D 球体抽奖项目，能够自定义文字、图片和抽奖规则，还支持一键导入抽奖人员和导出抽奖结果
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/168259404.gif' style="max-width:80%; max-height=80%;"></img></p>

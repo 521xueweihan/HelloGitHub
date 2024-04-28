@@ -82,6 +82,8 @@ var hot = new Handsontable(container, {
 ```
 
 
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/1790564.png' style="max-width:80%; max-height=80%;"></img></p>
+
 8、[learnVue](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/answershuto/learnVue)：该项目记录了[染陌](https://github.com/answershuto)学习 Vue.js 源码的过程中的心得、收获。以及对于Vue 框架周边库的个人见解。可以帮助开发人员深入地理解 Vue.js 源码
 
 
@@ -146,9 +148,6 @@ for i in tqdm(range(10000)):
 
 
 14、[http2-explained](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bagder/http2-explained)：这是一篇详细讲解 HTTP/2（[RFC 7540](http://httpwg.org/specs/rfc7540.html)）的文档，主要内容包括该协议的背景、思想、协议本身的内容、对一些现有实现的探讨与对协议未来的展望。[中文](https://bagder.gitbooks.io/http2-explained/zh/)
-
-
-15、[koa-guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/guo-yu/koa-guide)：Node.js Web 框架，Koa 的中文文档
 
 
 

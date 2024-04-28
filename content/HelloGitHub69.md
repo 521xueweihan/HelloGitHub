@@ -309,7 +309,7 @@ if __name__ == "__main__":
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/423541572.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-37、[everything-curl](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bagder/everything-curl)：《关于 curl 的所有东西》。由 curl 项目发起者撰写的书，内容包括 curl 入门、开源、源码、项目等方面。[在线阅读](https://everything.curl.dev/)
+37、[everything-curl](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/curl/everything-curl)：《关于 curl 的所有东西》。由 curl 项目发起者撰写的书，内容包括 curl 入门、开源、源码、项目等方面。[在线阅读](https://everything.curl.dev/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/43095089.jpeg' style="max-width:80%; max-height=80%;"></img></p>

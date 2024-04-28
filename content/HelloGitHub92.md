@@ -82,7 +82,7 @@ tar -cjvf '/path/to/foo.tgz' '/path/to/foo/'
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/11753762.png' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[devbox](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jetpack-io/devbox)：为应用程序创建隔离环境的命令行工具。该项目可以创建一个可移植、隔离、用于开发的独立 shell，无需 Docker 和虚拟机。比如你的项目使用 Python 和 Go 语言，用这个工具仅需一条命令就能初始化一个独立的开发环境。
+11、[devbox](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jetify-com/devbox)：为应用程序创建隔离环境的命令行工具。该项目可以创建一个可移植、隔离、用于开发的独立 shell，无需 Docker 和虚拟机。比如你的项目使用 Python 和 Go 语言，用这个工具仅需一条命令就能初始化一个独立的开发环境。
 ```
 # 安装
 curl -fsSL https://get.jetpack.io/devbox | bash
