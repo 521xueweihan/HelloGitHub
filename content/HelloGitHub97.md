@@ -244,9 +244,9 @@ docker pull bitnami/APP
 docker pull bitnami/APP:[TAG]
 ```
 
-32、[ServiceLogos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SAWARATSUKI/ServiceLogos)：超可爱的 Logo 集合。这里是用来存放 Sawaratsuki 制作的各种 logo 的仓库，这些 logo 制作精美、画风可爱，包括编程语言、框架、工具和各大社交媒体的商标™️。
+32、[KawaiiLogos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SAWARATSUKI/KawaiiLogos)：超可爱的 Logo 集合。这里是用来存放 Sawaratsuki 制作的各种 logo 的仓库，这些 logo 制作精美、画风可爱，包括编程语言、框架、工具和各大社交媒体的商标™️。
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/790295887.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/795003309.png' style="max-width:80%; max-height=80%;"></img></p>
 
 33、[ungoogled-chromium](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ungoogled-software/ungoogled-chromium)：更纯净的 Chrome 浏览器。该项目是一个移除了 Chrome 浏览器中谷歌服务的浏览器，保留了完整的浏览器功能。
 

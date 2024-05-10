@@ -234,7 +234,7 @@ h_flow() # "Hello, World! I'm HelloGitHub!"
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/247725846.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift 项目
-32、[vimac](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dexterleng/vimac)：用键盘代替鼠标的 macOS 应用。它可以让用户实现仅通过键盘操作苹果电脑，支持两种操作模式。
+32、[vimac](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nchudleigh/vimac)：用键盘代替鼠标的 macOS 应用。它可以让用户实现仅通过键盘操作苹果电脑，支持两种操作模式。
 - 激活模式：将屏幕上可点击的位置，映射成键盘按键
 - 滚动模式：使用 HJKL 按键，可完成区域滚动
 
