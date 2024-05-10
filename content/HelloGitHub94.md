@@ -89,17 +89,15 @@ class MyCell : FancyCell<ItemData>
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/318563203.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Go 项目
-7、[copilot-gpt4-service](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aaamoon/copilot-gpt4-service)：将 Github Copilot 转成 ChatGPT 的服务。该项目可以将 GitHub Copilot 转换成 ChatGPT 的服务，为什么要这么做呢？因为如果你在 GitHub 上有一个开源项目，就有机会免费使用 Copilot，除此之外学生和老师在完成认证后也可以免费使用 Copilot，一番操作下来就等于白嫖 GPT-4。一定要按照推荐的方式部署，否则有封号风险，仅限自用。来自 [@exiaOgW1q](https://hellogithub.com/user/LSKxuHby9TsZW64) 的分享
-
-8、[goploy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhenorzz/goploy)：容易上手的代码发布平台。这是一个采用 Go + Vue.js 构建的 Web 部署平台，可一键部署、发布和回滚项目。支持基于角色的访问控制、监控、秒级定时任务、Xterm、LDAP 等功能，提供了完整的安装引导，即使是初学者也能轻松上手。来自 [@zhenorzz](https://hellogithub.com/user/QASc7j3pUxHqgbC) 的分享
+7、[goploy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhenorzz/goploy)：容易上手的代码发布平台。这是一个采用 Go + Vue.js 构建的 Web 部署平台，可一键部署、发布和回滚项目。支持基于角色的访问控制、监控、秒级定时任务、Xterm、LDAP 等功能，提供了完整的安装引导，即使是初学者也能轻松上手。来自 [@zhenorzz](https://hellogithub.com/user/QASc7j3pUxHqgbC) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/161898203.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[listmonk](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/knadh/listmonk)：开源的邮件列表和营销平台。这是一个开箱即用的邮件营销平台，可以帮助你管理邮件订阅者、创建和发送邮件、分析营销数据。可查看邮件阅读率、链接点击率等，支持自托管适用于个人和企业。
+8、[listmonk](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/knadh/listmonk)：开源的邮件列表和营销平台。这是一个开箱即用的邮件营销平台，可以帮助你管理邮件订阅者、创建和发送邮件、分析营销数据。可查看邮件阅读率、链接点击率等，支持自托管适用于个人和企业。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/193833307.png' style="max-width:80%; max-height=80%;"></img></p>
 
-10、[restic](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/restic/restic)：一款强大的开源备份工具。该项目提供了简单、快速、安全的开源备份解决方案。它无需繁琐的配置，即可轻松完成备份和恢复操作。采用增量备份策略，备份数据经过加密和压缩处理，保障数据安全且节省空间，支持灵活的存储选择，包括本地磁盘和云存储。可设置自动备份时间，确保数据得到定期的备份保护。
+9、[restic](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/restic/restic)：一款强大的开源备份工具。该项目提供了简单、快速、安全的开源备份解决方案。它无需繁琐的配置，即可轻松完成备份和恢复操作。采用增量备份策略，备份数据经过加密和压缩处理，保障数据安全且节省空间，支持灵活的存储选择，包括本地磁盘和云存储。可设置自动备份时间，确保数据得到定期的备份保护。
 ```
 $ restic --repo /tmp/backup backup ~/work
 enter password for repository:
@@ -110,7 +108,7 @@ duration: 0:29, 54.47MiB/s
 snapshot 40dc1520 saved
 ```
 
-11、[vfox](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/version-fox/vfox)：无忧应对多编程语言不同版本的工具。这是一款跨平台的通用版本管理工具，通过命令行快速安装、切换编程语言的不同版本，并支持自定义源地址。相比于针对每种语言的独立版本管理工具（如 nvm、fvm、gvm 等），这个项目让开发者摆脱繁琐的学习和记忆过程，只需一个工具、一条命令，轻松搞定多编程语言版本管理。来自 [@Han Li](https://hellogithub.com/user/TV6tBSMzmZUWQqk) 的分享
+10、[vfox](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/version-fox/vfox)：无忧应对多编程语言不同版本的工具。这是一款跨平台的通用版本管理工具，通过命令行快速安装、切换编程语言的不同版本，并支持自定义源地址。相比于针对每种语言的独立版本管理工具（如 nvm、fvm、gvm 等），这个项目让开发者摆脱繁琐的学习和记忆过程，只需一个工具、一条命令，轻松搞定多编程语言版本管理。来自 [@Han Li](https://hellogithub.com/user/TV6tBSMzmZUWQqk) 的分享
 ```
 $ vfox c
 node -> v20.10.0
@@ -120,24 +118,24 @@ java -> v11.0.12
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/729446906.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java 项目
-12、[1brc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gunnarmorling/1brc)：探索 Java 处理 10 亿行文本的最快速度。这是一个有趣的 Java 编程挑战，要求开发者编写一个 Java 程序，读取包含多个气象站温度值的文件（10 亿行），然后计算每个气象站的最小、平均和最大值，最后按照站点名称排序后输出，现在最快速度为 2 秒。
+11、[1brc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gunnarmorling/1brc)：探索 Java 处理 10 亿行文本的最快速度。这是一个有趣的 Java 编程挑战，要求开发者编写一个 Java 程序，读取包含多个气象站温度值的文件（10 亿行），然后计算每个气象站的最小、平均和最大值，最后按照站点名称排序后输出，现在最快速度为 2 秒。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/736572328.png' style="max-width:80%; max-height=80%;"></img></p>
 
-13、[automq](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AutoMQ/automq)：一款真正的云原生 Kafka 解决方案。该项目是基于云原生重新设计的新一代 Kafka 发行版。在保持和 Apache Kafka 100%兼容前提下，AutoMQ 可以为用户提供高达 10 倍的成本优势以及百倍的弹性优势，同时支持秒级分区迁移和流量自动重平衡，解决运维痛点。
+12、[automq](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AutoMQ/automq)：一款真正的云原生 Kafka 解决方案。该项目是基于云原生重新设计的新一代 Kafka 发行版。在保持和 Apache Kafka 100%兼容前提下，AutoMQ 可以为用户提供高达 10 倍的成本优势以及百倍的弹性优势，同时支持秒级分区迁移和流量自动重平衡，解决运维痛点。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/679601811.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-14、[spring-startup-analyzer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/linyimin0812/spring-startup-analyzer)：优化 Spring Boot 应用启动性能的工具。该项目利用采集 Spring 应用启动过程数据，生成交互式分析报告，为开发者提供了分析 Spring 应用启动性能的工具。其主要功能包括分析启动卡点、处理 Spring Bean 异步初始化，以及显示应用未加载的 jar 包、方法调用次数和耗时统计等详细信息。来自 [@linyimin](https://hellogithub.com/user/jfau31oBX46pr8O) 的分享
+13、[spring-startup-analyzer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/linyimin0812/spring-startup-analyzer)：优化 Spring Boot 应用启动性能的工具。该项目利用采集 Spring 应用启动过程数据，生成交互式分析报告，为开发者提供了分析 Spring 应用启动性能的工具。其主要功能包括分析启动卡点、处理 Spring Bean 异步初始化，以及显示应用未加载的 jar 包、方法调用次数和耗时统计等详细信息。来自 [@linyimin](https://hellogithub.com/user/jfau31oBX46pr8O) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/634983681.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript 项目
-15、[awesome-hands-control](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RylanBot/awesome-hands-control)：用手势操控电脑程序的工具。该项目基于手势识别进行自定义操控电脑程序，采用纯前端技术栈实现。它通过训练好的模型（MediaPipe）来识别手势，然后将特定手势与电脑操控绑定，最后，用户可以指定操作的进程，从而实现手势操控电脑程序。来自 [@Rylan](https://hellogithub.com/user/c3A7yEZFnvKMulI) 的分享
+14、[awesome-hands-control](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RylanBot/awesome-hands-control)：用手势操控电脑程序的工具。该项目基于手势识别进行自定义操控电脑程序，采用纯前端技术栈实现。它通过训练好的模型（MediaPipe）来识别手势，然后将特定手势与电脑操控绑定，最后，用户可以指定操作的进程，从而实现手势操控电脑程序。来自 [@Rylan](https://hellogithub.com/user/c3A7yEZFnvKMulI) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/719241997.png' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[bpmn-js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bpmn-io/bpmn-js)：专注于流程图的可视化和编辑组件。该项目提供了直观的拖拽式创建和编辑流程图的功能，可用于构建业务流程管理、决策流可视化和低代码平台。来自 [@塔咖](https://hellogithub.com/user/bzJpGyu0IanC6L7) 的分享
+15、[bpmn-js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bpmn-io/bpmn-js)：专注于流程图的可视化和编辑组件。该项目提供了直观的拖拽式创建和编辑流程图的功能，可用于构建业务流程管理、决策流可视化和低代码平台。来自 [@塔咖](https://hellogithub.com/user/bzJpGyu0IanC6L7) 的分享
 ```javascript
 const xml = '...'; // my BPMN 2.0 xml
 const viewer = new BpmnJS({
@@ -155,55 +153,55 @@ try {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/17592572.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[dockge](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/louislam/dockge)：一个美观、易用的 Docker Compose 管理平台。该项目提供了一个 Web 界面，用于管理 docker-compose.yaml 文件。它开箱即用、界面设计精美，支持交互式编辑 compose.yaml 文件、更新 docker 镜像，以及启动、停止、重启、删除 docker 等操作。来自 [@猎隼丶止戈reNo7](https://hellogithub.com/user/Ew59HqRWjPe0zZO) 的分享
+16、[dockge](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/louislam/dockge)：一个美观、易用的 Docker Compose 管理平台。该项目提供了一个 Web 界面，用于管理 docker-compose.yaml 文件。它开箱即用、界面设计精美，支持交互式编辑 compose.yaml 文件、更新 docker 镜像，以及启动、停止、重启、删除 docker 等操作。来自 [@猎隼丶止戈reNo7](https://hellogithub.com/user/Ew59HqRWjPe0zZO) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/708775091.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[theatre](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/theatre-js/theatre)：一个用于创建 Web 动画的 JavaScript 库。该项目是带图形用户界面的 Web 动画编辑器，能对任何 JavaScript 变量进行动画处理。它不仅支持处理 three.js 或其他 3D 库对象的动画功能，还能利用 React 等库对 HTML/SVG 进行动画处理。
+17、[theatre](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/theatre-js/theatre)：一个用于创建 Web 动画的 JavaScript 库。该项目是带图形用户界面的 Web 动画编辑器，能对任何 JavaScript 变量进行动画处理。它不仅支持处理 three.js 或其他 3D 库对象的动画功能，还能利用 React 等库对 HTML/SVG 进行动画处理。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/15393566.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-19、[tiny-rdm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tiny-craft/tiny-rdm)：一款轻量级的跨平台 Redis 桌面客户端。该项目是基于 WebView2 的 Redis 桌面客户端，拥有小巧的体积和精美的界面，同时支持中文。它提供了多种连接方式、分段加载、慢日志、转码显示等功能，可以在 Windows、Linux 和 macOS 系统上使用。
+18、[tiny-rdm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tiny-craft/tiny-rdm)：一款轻量级的跨平台 Redis 桌面客户端。该项目是基于 WebView2 的 Redis 桌面客户端，拥有小巧的体积和精美的界面，同时支持中文。它提供了多种连接方式、分段加载、慢日志、转码显示等功能，可以在 Windows、Linux 和 macOS 系统上使用。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/659115218.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Kotlin 项目
-20、[jingmo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hefengbao/jingmo)：一款古诗词文和成语应用。它叫「京墨」是一个免费的 Android 阅读应用，内含丰富的中国传统文化内容，包括古诗、歇后语、成语故事、中国传统节日、绕口令等。安装应用第一次进入无内容，需要在设置里手动同步数据。来自 [@贺丰宝](https://hellogithub.com/user/2K7jqBdMvyUrOEs) 的分享
+19、[jingmo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hefengbao/jingmo)：一款古诗词文和成语应用。它叫「京墨」是一个免费的 Android 阅读应用，内含丰富的中国传统文化内容，包括古诗、歇后语、成语故事、中国传统节日、绕口令等。安装应用第一次进入无内容，需要在设置里手动同步数据。来自 [@贺丰宝](https://hellogithub.com/user/2K7jqBdMvyUrOEs) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/682370127.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Objective-C 项目
-21、[Itsycal](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sfsam/Itsycal)：可爱的 Mac 菜单栏日历。这是一个迷你的菜单栏日历工具，拥有可爱的界面和实用的功能。支持显示/添加系统日历的事件、深色模式、周数、快捷键等功能，适用于 macOS 11+ 系统。
+20、[Itsycal](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sfsam/Itsycal)：可爱的 Mac 菜单栏日历。这是一个迷你的菜单栏日历工具，拥有可爱的界面和实用的功能。支持显示/添加系统日历的事件、深色模式、周数、快捷键等功能，适用于 macOS 11+ 系统。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/50525082.png' style="max-width:80%; max-height=80%;"></img></p>
 
-22、[KeepingYouAwake](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/newmarcel/KeepingYouAwake)：防止 Mac 进入睡眠状态的工具。这一个小型的菜单栏实用工具，可以让 Mac 电脑在预设的时间内或永久不进入睡眠模式，适用于 macOS 10.13 或更高版本。
+21、[KeepingYouAwake](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/newmarcel/KeepingYouAwake)：防止 Mac 进入睡眠状态的工具。这一个小型的菜单栏实用工具，可以让 Mac 电脑在预设的时间内或永久不进入睡眠模式，适用于 macOS 10.13 或更高版本。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/25431634.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### PHP 项目
-23、[akaunting](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/akaunting/akaunting)：专为小型企业和个人设计的在线会计软件。该项目是基于 Laravel+Vue.js+Tailwind CSS+MySQL 构建的会计平台，为用户提供全面的会计和财务功能。其中包括费用跟踪、现金流、报告等，并且支持移动端适配和多语言。
+22、[akaunting](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/akaunting/akaunting)：专为小型企业和个人设计的在线会计软件。该项目是基于 Laravel+Vue.js+Tailwind CSS+MySQL 构建的会计平台，为用户提供全面的会计和财务功能。其中包括费用跟踪、现金流、报告等，并且支持移动端适配和多语言。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/95011974.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
-24、[DouyinLiveRecorder](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ihmily/DouyinLiveRecorder)：一款支持多平台的直播录制工具。该项目是基于 FFmpeg 实现的多平台直播源录制工具，支持循环执行直播录制任务（循环值守）、直播状态推送、多人录制、去水印、选择画质等功能。
+23、[DouyinLiveRecorder](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ihmily/DouyinLiveRecorder)：一款支持多平台的直播录制工具。该项目是基于 FFmpeg 实现的多平台直播源录制工具，支持循环执行直播录制任务（循环值守）、直播状态推送、多人录制、去水印、选择画质等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/667354736.png' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[harlequin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tconbeer/harlequin)：一个简单、快速、美观的终端数据库客户端。这是一个带界面的命令行数据库客户端，提供了数据库和表目录、查询编辑器、显示结果、导出数据的功能，支持 DuckDB、SQLite、Postgres、MySQL 等数据库。
+24、[harlequin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tconbeer/harlequin)：一个简单、快速、美观的终端数据库客户端。这是一个带界面的命令行数据库客户端，提供了数据库和表目录、查询编辑器、显示结果、导出数据的功能，支持 DuckDB、SQLite、Postgres、MySQL 等数据库。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/635393461.png' style="max-width:80%; max-height=80%;"></img></p>
 
-26、[khal](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pimutils/khal)：一款简单、美观的终端日历。该项目是用 Python 写的命令行日历工具，支持快速便捷地浏览、添加和编辑事件，以及同步日历数据。
+25、[khal](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pimutils/khal)：一款简单、美观的终端日历。该项目是用 Python 写的命令行日历工具，支持快速便捷地浏览、添加和编辑事件，以及同步日历数据。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/12357974.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[pyupgrade](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/asottile/pyupgrade)：一键升级 Python 代码的工具。这是一个用于自动升级 Python 代码，以适应新版本语法的工具。支持升级到不同的 Python 版本、提供预览模式即查看改动变化等功能。
+26、[pyupgrade](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/asottile/pyupgrade)：一键升级 Python 代码的工具。这是一个用于自动升级 Python 代码，以适应新版本语法的工具。支持升级到不同的 Python 版本、提供预览模式即查看改动变化等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/83462592.png' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[text_blind_watermark](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/guofei9987/text_blind_watermark)：给文本加盲水印的 Python 库。通过该项目可以将一段隐秘信息嵌入到明文中，嵌入前后的明文无变化。简单说就是给文本打上隐藏水印，适合在版权保护、数据泄露溯源、数据安全等场景使用，支持 macOS 的 Chrome 浏览器、苹果备忘录、macOS/iPhone 的微信和钉钉等应用。
+27、[text_blind_watermark](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/guofei9987/text_blind_watermark)：给文本加盲水印的 Python 库。通过该项目可以将一段隐秘信息嵌入到明文中，嵌入前后的明文无变化。简单说就是给文本打上隐藏水印，适合在版权保护、数据泄露溯源、数据安全等场景使用，支持 macOS 的 Chrome 浏览器、苹果备忘录、macOS/iPhone 的微信和钉钉等应用。
 ```python
 from text_blind_watermark import TextBlindWatermark2
 
@@ -220,52 +218,52 @@ print(text_with_wm)
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/437797089.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Rust 项目
-29、[cmd-wrapped](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/YiNNx/cmd-wrapped)：一个 Rust 编写的命令行历史记录分析工具。这是一款命令行工具，它可以读取你的命令行操作历史记录，并生成详细的分析报告。报告包括过去任意一年的命令行活跃时段、常用命令等信息，支持 Zsh、Bash、fish 等。
+28、[cmd-wrapped](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/YiNNx/cmd-wrapped)：一个 Rust 编写的命令行历史记录分析工具。这是一款命令行工具，它可以读取你的命令行操作历史记录，并生成详细的分析报告。报告包括过去任意一年的命令行活跃时段、常用命令等信息，支持 Zsh、Bash、fish 等。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/737071068.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
-30、[gdb-dashboard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cyrus-and/gdb-dashboard)：GDB 可视化调试界面。这是专为 GNU 调试器（GDB）设计的文本界面，支持模块化显示调试的程序相关信息，更直观和方便地调试代码。该界面采用 Python 编写，具备轻松自定义和扩展的特性。
+29、[gdb-dashboard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cyrus-and/gdb-dashboard)：GDB 可视化调试界面。这是专为 GNU 调试器（GDB）设计的文本界面，支持模块化显示调试的程序相关信息，更直观和方便地调试代码。该界面采用 Python 编写，具备轻松自定义和扩展的特性。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/42191943.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[kubernetes-network-policy-recipes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ahmetb/kubernetes-network-policy-recipes)：只需复制粘贴即可解决 K8s 网络问题的配方。该项目包含了 Kubernetes 网络策略的各种用例和示例 YAML 文件，可直接复制使用。
+30、[kubernetes-network-policy-recipes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ahmetb/kubernetes-network-policy-recipes)：只需复制粘贴即可解决 K8s 网络问题的配方。该项目包含了 Kubernetes 网络策略的各种用例和示例 YAML 文件，可直接复制使用。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/98780162.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[network_proxy_flutter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wanghongenpin/network_proxy_flutter)：支持手机端的免费抓包工具。该项目是采用 Flutter 开发的抓包工具，可用于拦截、检查和重写 HTTP(S) 流量。它支持扫码连接、域名过滤、请求重写等功能，适用于 Windows、macOS、Linux、Android 和 iOS 平台。
+31、[network_proxy_flutter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wanghongenpin/network_proxy_flutter)：支持手机端的免费抓包工具。该项目是采用 Flutter 开发的抓包工具，可用于拦截、检查和重写 HTTP(S) 流量。它支持扫码连接、域名过滤、请求重写等功能，适用于 Windows、macOS、Linux、Android 和 iOS 平台。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/649662864.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[particle-life](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hunar4321/particle-life)：粒子生命演化游戏。该项目通过定义粒子之间的相互作用力，从而生成复杂的自组织图案。源码十分简单，用户可以在线试玩，创造出各种有趣的图案。
+32、[particle-life](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hunar4321/particle-life)：粒子生命演化游戏。该项目通过定义粒子之间的相互作用力，从而生成复杂的自组织图案。源码十分简单，用户可以在线试玩，创造出各种有趣的图案。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/523244338.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[vimwiki](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vimwiki/vimwiki)：Vim 中的个人 wiki。这是一个 Vim 插件，通过以 wiki 的方式连接文本，提供更好的组织笔记和想法的功能。
+33、[vimwiki](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vimwiki/vimwiki)：Vim 中的个人 wiki。这是一个 Vim 插件，通过以 wiki 的方式连接文本，提供更好的组织笔记和想法的功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/6698053.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-35、[game-programming-patterns](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/munificent/game-programming-patterns)：《游戏编程模式》。该书收集了经过验证、已发布的 3A 级游戏中的经验和模式，来解决你在游戏开发中遇到的问题。
+34、[game-programming-patterns](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/munificent/game-programming-patterns)：《游戏编程模式》。该书收集了经过验证、已发布的 3A 级游戏中的经验和模式，来解决你在游戏开发中遇到的问题。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/11390832.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[PDF-Explained](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zxyle/PDF-Explained)：《PDF 解析》。该项目是《PDF Explained》一书的非官方中文翻译版，内容由浅入深介绍了如何构建简单的 PDF 文件，以及 PDF 运算符、书签、超链接、注释、加密等高级特性。
+35、[PDF-Explained](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zxyle/PDF-Explained)：《PDF 解析》。该项目是《PDF Explained》一书的非官方中文翻译版，内容由浅入深介绍了如何构建简单的 PDF 文件，以及 PDF 运算符、书签、超链接、注释、加密等高级特性。
 
 ### 机器学习
-37、[AnimateDiff](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/guoyww/AnimateDiff)：让 AI 生成的图动起来。这是一款可以在 Stable Diffusion 中制作动图的库，支持将大多数开源模型转换为动画生成器。让原本通过文字生成的图片，变成 gif 图片动起来。来自 [@adoin](https://hellogithub.com/user/HJZMx5VeRfNDQ8z) 的分享
+36、[AnimateDiff](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/guoyww/AnimateDiff)：让 AI 生成的图动起来。这是一款可以在 Stable Diffusion 中制作动图的库，支持将大多数开源模型转换为动画生成器。让原本通过文字生成的图片，变成 gif 图片动起来。来自 [@adoin](https://hellogithub.com/user/HJZMx5VeRfNDQ8z) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/654930782.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[AnyText](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tyxsspa/AnyText)：轻松 DIY 图片文字，定制你的创意设计。该项目提供了文字生成和文字编辑两种模式，它能够根据提示词生成图文融合的图片，并确保文字的准确性，还支持对上传图片中的文字进行编辑后，重新生成图片。支持中文、英语、日语、韩语等多语言，适用于海报设计、Logo 设计、创意涂鸦、表情包等场景。
+37、[AnyText](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tyxsspa/AnyText)：轻松 DIY 图片文字，定制你的创意设计。该项目提供了文字生成和文字编辑两种模式，它能够根据提示词生成图文融合的图片，并确保文字的准确性，还支持对上传图片中的文字进行编辑后，重新生成图片。支持中文、英语、日语、韩语等多语言，适用于海报设计、Logo 设计、创意涂鸦、表情包等场景。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/692934702.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[pyvideotrans](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jianchang512/pyvideotrans)：开源的视频翻译和配音工具。该项目可以将视频从一种语言翻译成指定语言的视频，并自动生成和添加对应语言的字幕和配音。来自 [@okaymyworld](https://hellogithub.com/user/Gf8J0xolgYIMUT9) 的分享
+38、[pyvideotrans](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jianchang512/pyvideotrans)：开源的视频翻译和配音工具。该项目可以将视频从一种语言翻译成指定语言的视频，并自动生成和添加对应语言的字幕和配音。来自 [@okaymyworld](https://hellogithub.com/user/Gf8J0xolgYIMUT9) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/699432836.png' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[StreamDiffusion](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cumulo-autumn/StreamDiffusion)：实时交互式 AIGC 图片。该项目能以惊人的速度生成 AIGC 图像，单张 RTX4090 显卡可达 100 张/秒。它通过流批处理简化数据处理，采用残差无分类器（RCFG）减少计算冗余，随机相似性过滤器提高 GPU 利用率，并通过优化 IO 队列实现并行处理。同时，利用多种模型加速工具，实现爆炸式地提升 AIGC 图像速度。
+39、[StreamDiffusion](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cumulo-autumn/StreamDiffusion)：实时交互式 AIGC 图片。该项目能以惊人的速度生成 AIGC 图像，单张 RTX4090 显卡可达 100 张/秒。它通过流批处理简化数据处理，采用残差无分类器（RCFG）减少计算冗余，随机相似性过滤器提高 GPU 利用率，并通过优化 IO 队列实现并行处理。同时，利用多种模型加速工具，实现爆炸式地提升 AIGC 图像速度。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/724635656.gif' style="max-width:80%; max-height=80%;"></img></p>
 

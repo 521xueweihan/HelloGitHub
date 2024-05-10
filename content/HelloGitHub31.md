@@ -205,26 +205,23 @@ cup
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/119822304.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
-19、[apachecn-algo-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apachecn/apachecn-algo-zh)：Leetcode 题解及经典算法实现，实现语言包含 Python、Java、C++、JS
+19、[puppeteer-api-zh_CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhaoqize/puppeteer-api-zh_CN)：Puppeteer 中文文档（与官方保持同步）
 
 
-20、[puppeteer-api-zh_CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhaoqize/puppeteer-api-zh_CN)：Puppeteer 中文文档（与官方保持同步）
+20、[quick-SQL-cheatsheet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/enochtangg/quick-SQL-cheatsheet)：SQL 速查表，[中文查阅](https://github.com/enochtangg/quick-SQL-cheatsheet/blob/master/README_zh-hans.md)
 
 
-21、[quick-SQL-cheatsheet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/enochtangg/quick-SQL-cheatsheet)：SQL 速查表，[中文查阅](https://github.com/enochtangg/quick-SQL-cheatsheet/blob/master/README_zh-hans.md)
+21、[README](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/guodongxiaren/README)：该项目介绍了 GFM 的语法和示例展示。GitHub 的 Markdown 语法在标准的语法基础上做了扩充，称之为 GitHub Flavored Markdown，简称 GFM。友好的 README 是项目的第一印象，这点很重要
 
 
-22、[README](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/guodongxiaren/README)：该项目介绍了 GFM 的语法和示例展示。GitHub 的 Markdown 语法在标准的语法基础上做了扩充，称之为 GitHub Flavored Markdown，简称 GFM。友好的 README 是项目的第一印象，这点很重要
-
-
-23、[zh-google-styleguide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zh-google-styleguide/zh-google-styleguide)：Google 开源项目风格指南 (中文版)
+22、[zh-google-styleguide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zh-google-styleguide/zh-google-styleguide)：Google 开源项目风格指南 (中文版)
 
 
 ### 机器学习
-24、[nndl.github.io](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nndl/nndl.github.io)：《神经网络与深度学习》该课程主要介绍神经网络与深度学习中的基础知识、主要模型（卷积神经网络、递归神经网络等）以及在计算机视觉、自然语言处理等领域的应用。[在线阅读](https://nndl.github.io/)
+23、[nndl.github.io](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nndl/nndl.github.io)：《神经网络与深度学习》该课程主要介绍神经网络与深度学习中的基础知识、主要模型（卷积神经网络、递归神经网络等）以及在计算机视觉、自然语言处理等领域的应用。[在线阅读](https://nndl.github.io/)
 
 
-25、[pwc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zziz/pwc)：深度学习、机器学习论文集合（英文）
+24、[pwc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zziz/pwc)：深度学习、机器学习论文集合（英文）
 
 
 

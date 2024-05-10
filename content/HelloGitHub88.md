@@ -248,65 +248,61 @@ async def on_hello_world(msg: HelloWorld):
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/186931111.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Rust 项目
-26、[dm-ticket](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ClassmateLin/dm-ticket)：Rust 写的大麦网自动购票工具。大麦网的抢票工具，仅支持购买 H5 页面上的票，不支持选座。来自 [@Classmate Lin](https://hellogithub.com/user/TDta5YXLVF7Aloj) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/643865240.png' style="max-width:80%; max-height=80%;"></img></p>
-
-27、[gping](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/orf/gping)：Rust 写的 ping 工具。该项目能够以折线图的方式，实时展示 ping 的结果，支持 Windows、Linux 和 macOS 操作系统。
+26、[gping](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/orf/gping)：Rust 写的 ping 工具。该项目能够以折线图的方式，实时展示 ping 的结果，支持 Windows、Linux 和 macOS 操作系统。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/44440501.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[pot-desktop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pot-app/pot-desktop)：一款跨平台的划词翻译软件。支持划词翻译、输入翻译、截图翻译等多种模式的翻译工具，适用于 Windows、macOS 和 Linux。
+27、[pot-desktop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pot-app/pot-desktop)：一款跨平台的划词翻译软件。支持划词翻译、输入翻译、截图翻译等多种模式的翻译工具，适用于 Windows、macOS 和 Linux。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/606762843.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift 项目
-29、[alt-tab-macos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lwouis/alt-tab-macos)：macOS 上的 alt-tab 窗口切换工具。这是一款将 Windows 的 alt-tab 切换窗口功能带到了 macOS 的应用，支持一键关闭、全屏、隐藏应用，自定义 AltTab 外观、快捷键等功能。
+28、[alt-tab-macos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lwouis/alt-tab-macos)：macOS 上的 alt-tab 窗口切换工具。这是一款将 Windows 的 alt-tab 切换窗口功能带到了 macOS 的应用，支持一键关闭、全屏、隐藏应用，自定义 AltTab 外观、快捷键等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/202353432.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
-30、[digital_video_introduction](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/leandromoreira/digital_video_introduction)：一份讲解视频技术的教程。这是一份循序渐进的视频技术教程，从基本概念讲到视频编码器如何工作，内容通俗易懂、图文并茂。
+29、[digital_video_introduction](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/leandromoreira/digital_video_introduction)：一份讲解视频技术的教程。这是一份循序渐进的视频技术教程，从基本概念讲到视频编码器如何工作，内容通俗易懂、图文并茂。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/80256824.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[immich](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/immich-app/immich)：自建手机照片和视频备份服务。这是一个自行备份 iPhone、Android 手机上照片和视频的开源解决方案，支持自动备份、多用户、共享相册、实时查看照片等功能。
+30、[immich](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/immich-app/immich)：自建手机照片和视频备份服务。这是一个自行备份 iPhone、Android 手机上照片和视频的开源解决方案，支持自动备份、多用户、共享相册、实时查看照片等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/455229168.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[og-aws](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/open-guides/og-aws)：一份 AWS 实用指南。这是一份由使用 AWS 的工程师们编写的使用指南，内容涵盖 AWS 基础知识、管理服务器、职业发展等方面。
+31、[og-aws](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/open-guides/og-aws)：一份 AWS 实用指南。这是一份由使用 AWS 的工程师们编写的使用指南，内容涵盖 AWS 基础知识、管理服务器、职业发展等方面。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/63266213.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[OpenCat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PetoiCamp/OpenCat)：开源的四足机器人宠物框架。这是一个基于 Arduino 和 Raspberry Pi 的四足机器人宠物框架，让你可通过 C/C++/Python 编程语言操控四足机器人。该公司生产的迷你机器猫，神似玩具版的波士顿机械狗。
+32、[OpenCat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PetoiCamp/OpenCat)：开源的四足机器人宠物框架。这是一个基于 Arduino 和 Raspberry Pi 的四足机器人宠物框架，让你可通过 C/C++/Python 编程语言操控四足机器人。该公司生产的迷你机器猫，神似玩具版的波士顿机械狗。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/326441188.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[SoftwareArchitect](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/justinamiller/SoftwareArchitect)：通往架构师之路。这是一份教你如何成为架构师的学习指南。
+33、[SoftwareArchitect](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/justinamiller/SoftwareArchitect)：通往架构师之路。这是一份教你如何成为架构师的学习指南。
 
 ### 开源书籍
-35、[Book4_Power-of-Matrix](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Visualize-ML/Book4_Power-of-Matrix)：《矩阵力量》。该书介绍了向量、矩阵、向量空间、矩阵分解、微积分、空间几何等知识，内含全彩图解和 Python 示例代码。
+34、[Book4_Power-of-Matrix](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Visualize-ML/Book4_Power-of-Matrix)：《矩阵力量》。该书介绍了向量、矩阵、向量空间、矩阵分解、微积分、空间几何等知识，内含全彩图解和 Python 示例代码。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/509850056.png' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[SearchEngine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wangshusen/SearchEngine)：《搜索引擎技术》。该书的作者是小红书的算法工程师，内容涵盖了搜索引擎基础、机器学习基础、排序、查询词推荐、决定用户体验的要素等方面，所以不要被它朴实无华的书名所迷惑。
+35、[SearchEngine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wangshusen/SearchEngine)：《搜索引擎技术》。该书的作者是小红书的算法工程师，内容涵盖了搜索引擎基础、机器学习基础、排序、查询词推荐、决定用户体验的要素等方面，所以不要被它朴实无华的书名所迷惑。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/559542205.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 机器学习
-37、[DeepFaceLive](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iperov/DeepFaceLive)：实时直播和视频 AI 换脸程序。该项目可以对摄像头和本地视频文件中的人物，进行实时 AI 换脸，可用于 PC 直播、视频等场景。
+36、[DeepFaceLive](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iperov/DeepFaceLive)：实时直播和视频 AI 换脸程序。该项目可以对摄像头和本地视频文件中的人物，进行实时 AI 换脸，可用于 PC 直播、视频等场景。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/321659062.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[DeepSpeed](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/DeepSpeed)：微软开源的深度学习训练优化库。众所周知训练大模型(LLM)是一件“费时费钱”的事情，该项目通过 ZeRO++ 技术，在训练时将模型状态分割到每个 GPU 上，通过提高吞吐量的方式，降低训练所需的时间和成本。来自 [@zhizhu](https://hellogithub.com/user/8Z0noszd4uOVXyI) 的分享
+37、[DeepSpeed](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/DeepSpeed)：微软开源的深度学习训练优化库。众所周知训练大模型(LLM)是一件“费时费钱”的事情，该项目通过 ZeRO++ 技术，在训练时将模型状态分割到每个 GPU 上，通过提高吞吐量的方式，降低训练所需的时间和成本。来自 [@zhizhu](https://hellogithub.com/user/8Z0noszd4uOVXyI) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/235860204.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[modelscope](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/modelscope/modelscope)：AI 模型即服务共享平台。魔塔是由阿里达摩院开源的 MaaS 平台，它为开发者提供了模型体验、推理、训练、部署和应用的一站式服务，相当于国内版的 Hugging Face。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
+38、[modelscope](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/modelscope/modelscope)：AI 模型即服务共享平台。魔塔是由阿里达摩院开源的 MaaS 平台，它为开发者提供了模型体验、推理、训练、部署和应用的一站式服务，相当于国内版的 Hugging Face。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/517552648.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[PPOxFamily](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/opendilab/PPOxFamily)：决策智能入门级公开课。此课程希望通过深入讲解最经典的深度强化学习算法 Proximal Policy Optimization (PPO)，打开你的决策 AI 探索之旅。内含视频、理论资料、习题、代码和应用样例，能够帮助初学者快速掌握，如何运用 PPO 解决各种各样的决策智能问题。来自 [@Fan](https://hellogithub.com/user/wXR69OTuhGbZ2Vk) 的分享
+39、[PPOxFamily](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/opendilab/PPOxFamily)：决策智能入门级公开课。此课程希望通过深入讲解最经典的深度强化学习算法 Proximal Policy Optimization (PPO)，打开你的决策 AI 探索之旅。内含视频、理论资料、习题、代码和应用样例，能够帮助初学者快速掌握，如何运用 PPO 解决各种各样的决策智能问题。来自 [@Fan](https://hellogithub.com/user/wXR69OTuhGbZ2Vk) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/565692172.png' style="max-width:80%; max-height=80%;"></img></p>
 

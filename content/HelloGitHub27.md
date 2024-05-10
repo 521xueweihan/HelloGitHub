@@ -168,22 +168,19 @@ def get_data(url):
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/120729315.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
-20、[Android_Data](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Freelander/Android_Data)：这个集合主要能够帮助初学者在初学 Android 开发的时候，能够快速、方便地找到适合自己的学习资料
+20、[build-your-own-x](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/codecrafters-io/build-your-own-x)：（英文）费曼：“我不能创造的東西，我就不了解。”该项目收集了不同编程语言造轮子的教程
 
 
-21、[build-your-own-x](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/codecrafters-io/build-your-own-x)：（英文）费曼：“我不能创造的東西，我就不了解。”该项目收集了不同编程语言造轮子的教程
-
-
-22、[Front-End-Checklist](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/thedaviddias/Front-End-Checklist)：一份在网站发布到生产环境之前，前端部分需要测试、检查的详尽清单。[中文版](https://github.com/JohnsenZhou/Front-End-Checklist)
+21、[Front-End-Checklist](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/thedaviddias/Front-End-Checklist)：一份在网站发布到生产环境之前，前端部分需要测试、检查的详尽清单。[中文版](https://github.com/JohnsenZhou/Front-End-Checklist)
 
 
 ### 机器学习
-23、[elasticsearch-spark-recommender](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/IBM/elasticsearch-spark-recommender)：使用 Apache Spark 的机器学习库 (MLlib) 来训练一个协同过滤推荐系统模型 和 Elasticsearch 构建一个推荐系统教程，[中文版阅读](https://github.com/IBM/elasticsearch-spark-recommender/blob/master/README-cn.md)
+22、[elasticsearch-spark-recommender](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/IBM/elasticsearch-spark-recommender)：使用 Apache Spark 的机器学习库 (MLlib) 来训练一个协同过滤推荐系统模型 和 Elasticsearch 构建一个推荐系统教程，[中文版阅读](https://github.com/IBM/elasticsearch-spark-recommender/blob/master/README-cn.md)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/27/86702277.png' style="max-width:80%; max-height=80%;"></img></p>
 
-24、[simplified-deeplearning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/exacity/simplified-deeplearning)：《DeepLearningBook》读书笔记
+23、[simplified-deeplearning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/exacity/simplified-deeplearning)：《DeepLearningBook》读书笔记
 
 
 

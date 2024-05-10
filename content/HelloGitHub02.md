@@ -70,13 +70,7 @@
 8、[algorithm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/qiwsir/algorithm)：老齐的 Python 算法教程
 
 
-9、[luokr.com](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alvan/luokr.com)：Python Tornado 写的开源网站——螺壳网，[访问](http://luokr.com/)，如图：
-
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/16545854.png' style="max-width:80%; max-height=80%;"></img></p>
-
-10、[mincss](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/peterbe/mincss)：Python 写的用来找到 CSS 中没有用到的代码片段，并删除。适用于：想要做一个页面，但是不会写 CSS 人。示例代码如下：
+9、[mincss](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/peterbe/mincss)：Python 写的用来找到 CSS 中没有用到的代码片段，并删除。适用于：想要做一个页面，但是不会写 CSS 人。示例代码如下：
 ```python
 #coding:utf-8
 #!/usr/bin/env python
@@ -119,10 +113,10 @@ if __name__ == '__main__':
 ```
 
 
-11、[python-gems](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RealHacker/python-gems)：有趣的 Pyhton 代码片段集合
+10、[python-gems](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RealHacker/python-gems)：有趣的 Pyhton 代码片段集合
 
 
-12、[python-goose](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/grangier/python-goose)：Goose 用于文章提取器，提取中文内容的示例代码：
+11、[python-goose](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/grangier/python-goose)：Goose 用于文章提取器，提取中文内容的示例代码：
 ```python
 >>> from goose import Goose
 >>> from goose.text import StopWordsChinese
@@ -139,7 +133,7 @@ if __name__ == '__main__':
 
 
 ### 其它
-13、[leetcode-solutions](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RealHacker/leetcode-solutions)：Leetcode OJ 的 Python 算法实现
+12、[leetcode-solutions](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RealHacker/leetcode-solutions)：Leetcode OJ 的 Python 算法实现
 
 
 

@@ -323,12 +323,8 @@ INSTALLED_APPS = (
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/174888045.png' style="max-width:80%; max-height=80%;"></img></p>
 
-43、[patterns-of-distributed-systems](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dreamhead/patterns-of-distributed-systems)：《分布式系统模式》中文版。该书尝试将副本同步、可靠性、网络延迟等分布式系统共性问题归纳总结，并参考像 Kafka、Zookeeper 等分布式系统的实现过程，给出分布式系统中同类问题的通用解决方法/模式。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/345944794.png' style="max-width:80%; max-height=80%;"></img></p>
-
 ### 机器学习
-44、[stable-diffusion](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CompVis/stable-diffusion)：可以根据文字生成图片的模型。只要输入一段文字描述，就能得到一张由 AI 生成的图片，除此之外该项目还支持将粗糙的草图转化成精致的艺术图片。
+43、[stable-diffusion](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CompVis/stable-diffusion)：可以根据文字生成图片的模型。只要输入一段文字描述，就能得到一张由 AI 生成的图片，除此之外该项目还支持将粗糙的草图转化成精致的艺术图片。
 ```python
 # make sure you're logged in with `huggingface-cli login`
 from torch import autocast
@@ -348,7 +344,7 @@ image.save("astronaut_rides_horse.png")
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/523379232.png' style="max-width:80%; max-height=80%;"></img></p>
 
-45、[style2paints](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lllyasviel/style2paints)：一款给线稿上色的 AI 辅助工具。能够帮助用户给没有上色的图片，快速完成上色的 AI 工具，上色效果广受好评，完全免费开箱即用。
+44、[style2paints](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lllyasviel/style2paints)：一款给线稿上色的 AI 辅助工具。能够帮助用户给没有上色的图片，快速完成上色的 AI 工具，上色效果广受好评，完全免费开箱即用。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/93354260.png' style="max-width:80%; max-height=80%;"></img></p>
 

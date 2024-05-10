@@ -114,35 +114,25 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/126505563.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-### Kotlin 项目
-18、[tachiyomi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tachiyomiorg/tachiyomi)：一款免费、开源的安卓漫画阅读器。支持：
-- 多种漫画源
-- 阅读本地漫画
-- 更新漫画章节
-- 等等
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/43807251.png' style="max-width:80%; max-height=80%;"></img></p>
-
 ### Objective-C 项目
-19、[UTM](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/utmapp/UTM)：运行在 iOS 和 macOS 系统上的虚拟机。通过 UTM 你可以在无需“越狱”的情况下，在 iPhone 和 iPad 上运行 Windows、Linux 等操作系统
+18、[UTM](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/utmapp/UTM)：运行在 iOS 和 macOS 系统上的虚拟机。通过 UTM 你可以在无需“越狱”的情况下，在 iPhone 和 iPad 上运行 Windows、Linux 等操作系统
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/181042062.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### PHP 项目
-20、[github-profile-views-counter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/antonkomarev/github-profile-views-counter)：用来展示 GitHub 个人首页被访问次数的项目。使用方法：`![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)`
+19、[github-profile-views-counter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/antonkomarev/github-profile-views-counter)：用来展示 GitHub 个人首页被访问次数的项目。使用方法：`![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)`
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/278929867.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
-21、[BaoTa](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aaPanel/BaoTa)：宝塔 Linux 服务器运维管理平台。简单好用的服务器运维平台，支持一键 LNMP 安装、管理集群、网站、数据库等功能，可以有效的提高操作的规范性和安全性，降低出错概率。这个开源项目是免费版，还有付费的[专业版](https://www.bt.cn/?invite_code=MV90dXphcW0=)
+20、[BaoTa](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aaPanel/BaoTa)：宝塔 Linux 服务器运维管理平台。简单好用的服务器运维平台，支持一键 LNMP 安装、管理集群、网站、数据库等功能，可以有效的提高操作的规范性和安全性，降低出错概率。这个开源项目是免费版，还有付费的[专业版](https://www.bt.cn/?invite_code=MV90dXphcW0=)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/192329526.png' style="max-width:80%; max-height=80%;"></img></p>
 
-22、[learn-python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/trekhleb/learn-python)：一份以代码和注释方式讲解 Python 的免费教程。每个 Python 基础语法和知识点都采用可以运行的代码为例讲解，再配上适当的注释和参考资料，让你快速上手 Python。此项目不仅可以当做学习 Python 的资料，还可以留着做为速查表
+21、[learn-python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/trekhleb/learn-python)：一份以代码和注释方式讲解 Python 的免费教程。每个 Python 基础语法和知识点都采用可以运行的代码为例讲解，再配上适当的注释和参考资料，让你快速上手 Python。此项目不仅可以当做学习 Python 的资料，还可以留着做为速查表
 ```python
 """WHILE statement
 @see: https://docs.python.org/3/tutorial/controlflow.html
@@ -174,26 +164,26 @@ def test_while_statement():
 ```
 
 
-23、[magic-wormhole](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/magic-wormhole/magic-wormhole)：一条命令就能将文件安全地传送到另外一台电脑上的工具。基于 PAKE（Password-Authenticated Key Exchange）协议实现文件在公网的加密传输，发送和接收均仅需一条命令
+22、[magic-wormhole](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/magic-wormhole/magic-wormhole)：一条命令就能将文件安全地传送到另外一台电脑上的工具。基于 PAKE（Password-Authenticated Key Exchange）协议实现文件在公网的加密传输，发送和接收均仅需一条命令
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/30582779.png' style="max-width:80%; max-height=80%;"></img></p>
 
-24、[recommenders](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/recommenders-team/recommenders)：通过 Jupyter Notebook 形式呈现的推荐系统最佳实践。这是微软开源的推荐系统教程，项目中还包含推荐系统常用的 Python 工具箱
+23、[recommenders](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/recommenders-team/recommenders)：通过 Jupyter Notebook 形式呈现的推荐系统最佳实践。这是微软开源的推荐系统教程，项目中还包含推荐系统常用的 Python 工具箱
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/149430917.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift 项目
-25、[Design-Patterns-In-Swift](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ochococo/Design-Patterns-In-Swift)：设计模式 Swift 5.0 实现。[中文版](https://github.com/ochococo/Design-Patterns-In-Swift/blob/master/README-CN.md)
+24、[Design-Patterns-In-Swift](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ochococo/Design-Patterns-In-Swift)：设计模式 Swift 5.0 实现。[中文版](https://github.com/ochococo/Design-Patterns-In-Swift/blob/master/README-CN.md)
 
 
-26、[IGListKit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Instagram/IGListKit)：Instagram 推出的一套数据驱动的 UICollectionView 框架，用来创建快速且灵活的列表界面。提供了更简单的使用 UICollectionView 方式，并且支持对自己的数据模型进行自定义 diff 操作，提供更好的架构以复用 Cell 和组件
+25、[IGListKit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Instagram/IGListKit)：Instagram 推出的一套数据驱动的 UICollectionView 框架，用来创建快速且灵活的列表界面。提供了更简单的使用 UICollectionView 方式，并且支持对自己的数据模型进行自定义 diff 操作，提供更好的架构以复用 Cell 和组件
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/67588512.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[Observable-Swift](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/slazyk/Observable-Swift)：一个在 Swift 上实现 KVO 的轻量级工具。简单易用地解决了 Swift 相对于 Objective-C 缺少 Key Value Observing（KVO）的问题
+26、[Observable-Swift](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/slazyk/Observable-Swift)：一个在 Swift 上实现 KVO 的轻量级工具。简单易用地解决了 Swift 相对于 Objective-C 缺少 Key Value Observing（KVO）的问题
 ```swift
 // create a Observable<Int> variable
 var x = Observable(0)
@@ -209,45 +199,45 @@ x <- 42
 
 
 ### 其它
-28、[AntennaPod](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AntennaPod/AntennaPod)：一款免费、开源、没有广告的播客应用（Android 和 iOS）。由播客爱好者用爱开发和维护，支持在线播放和音频下载等功能，同时内置数以百万计的免费和付费播客源，从独立播主到大型新闻机构出版社，如 BBC、NPR 和 CNN 应有尽有，也可自行导入播客源
+27、[AntennaPod](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AntennaPod/AntennaPod)：一款免费、开源、没有广告的播客应用（Android 和 iOS）。由播客爱好者用爱开发和维护，支持在线播放和音频下载等功能，同时内置数以百万计的免费和付费播客源，从独立播主到大型新闻机构出版社，如 BBC、NPR 和 CNN 应有尽有，也可自行导入播客源
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/5244445.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[awesome-compose](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/docker/awesome-compose)：丰富且实用的 Docker Compose 示例集合。该项目中的例子可以作为参考和模板，从而快速完成 Docker Compose 的编写
+28、[awesome-compose](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/docker/awesome-compose)：丰富且实用的 Docker Compose 示例集合。该项目中的例子可以作为参考和模板，从而快速完成 Docker Compose 的编写
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/240215314.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[overleaf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/overleaf/overleaf)：一款支持在线协作的 LaTeX 编辑器
+29、[overleaf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/overleaf/overleaf)：一款支持在线协作的 LaTeX 编辑器
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/16652218.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[react-resume-site](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hua1995116/react-resume-site)：一款免费的简历在线制作工具。用写 Markdown 的方式制作出好看的简历，[在线尝试](https://resume.mdedit.online/editor/#/)
+30、[react-resume-site](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hua1995116/react-resume-site)：一款免费的简历在线制作工具。用写 Markdown 的方式制作出好看的简历，[在线尝试](https://resume.mdedit.online/editor/#/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/340313670.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[tabix](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tabixio/tabix)：一款 ClickHouse 的 Web 可视化查询和分析工具。通过它可以在浏览器上轻松查询 CH 的数据，还有丰富的图表帮助分析数据，最后还可选择内网搭建或者直接[在线使用](http://ui.tabix.io/#!/login)
+31、[tabix](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tabixio/tabix)：一款 ClickHouse 的 Web 可视化查询和分析工具。通过它可以在浏览器上轻松查询 CH 的数据，还有丰富的图表帮助分析数据，最后还可选择内网搭建或者直接[在线使用](http://ui.tabix.io/#!/login)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/84213938.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[vulhub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vulhub/vulhub)：一个面向大众的开源漏洞环境集合。Vulhub 中包含了 180 余个丰富且真实的漏洞与其相应的环境，无需 Docker 知识即可通过一条简单的命令，跑起来一个存在某个漏洞的完整应用。安全研究人员能够方便地复现与研究漏洞，省去了学习复杂的部署知识、寻找有漏洞的旧版本应用、搭建依赖的服务等麻烦，从而可以快速验证修复方案
+32、[vulhub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vulhub/vulhub)：一个面向大众的开源漏洞环境集合。Vulhub 中包含了 180 余个丰富且真实的漏洞与其相应的环境，无需 Docker 知识即可通过一条简单的命令，跑起来一个存在某个漏洞的完整应用。安全研究人员能够方便地复现与研究漏洞，省去了学习复杂的部署知识、寻找有漏洞的旧版本应用、搭建依赖的服务等麻烦，从而可以快速验证修复方案
 
 
 ### 开源书籍
-34、[bitcoinbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bitcoinbook/bitcoinbook)：《Mastering Bitcoin  2nd Edition》精通比特币第 2 版
+33、[bitcoinbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bitcoinbook/bitcoinbook)：《Mastering Bitcoin  2nd Edition》精通比特币第 2 版
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/12044132.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[python-parallel-programming-cookbook-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/laixintao/python-parallel-programming-cookbook-cn)：《Python Parallel Programming Cookbook》Python 并行编程。[在线阅读](https://python-parallel-programmning-cookbook.readthedocs.io/zh_CN/latest/)
+34、[python-parallel-programming-cookbook-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/laixintao/python-parallel-programming-cookbook-cn)：《Python Parallel Programming Cookbook》Python 并行编程。[在线阅读](https://python-parallel-programmning-cookbook.readthedocs.io/zh_CN/latest/)
 
 
 ### 机器学习
-36、[imgaug](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aleju/imgaug)：这是个图像数据增强 Python 库。数据集的数量和质量对于机器学习很重要，而数据增强就是让有限的数据集产生更多的数据，增加训练样本的数量以及多样性。imgaug 就是专为机器学习准备的图像数据增强库
+35、[imgaug](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aleju/imgaug)：这是个图像数据增强 Python 库。数据集的数量和质量对于机器学习很重要，而数据增强就是让有限的数据集产生更多的数据，增加训练样本的数量以及多样性。imgaug 就是专为机器学习准备的图像数据增强库
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/38900806.png' style="max-width:80%; max-height=80%;"></img></p>
