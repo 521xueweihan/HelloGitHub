@@ -248,7 +248,7 @@ panorama = stitcher.stitch(["img?.jpg"])
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/642323624.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[mediapipe](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/mediapipe)：谷歌开源的跨平台机器学习框架。它是一个能够轻松部署到移动端、Web、PC 和物联网设备的机器学习工具库，包含了物体检测、图像分类、人脸识别、手势识别、文本分类、语言检测、音频分类等模型。
+39、[mediapipe](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google-ai-edge/mediapipe)：谷歌开源的跨平台机器学习框架。它是一个能够轻松部署到移动端、Web、PC 和物联网设备的机器学习工具库，包含了物体检测、图像分类、人脸识别、手势识别、文本分类、语言检测、音频分类等模型。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/191820100.png' style="max-width:80%; max-height=80%;"></img></p>
 
