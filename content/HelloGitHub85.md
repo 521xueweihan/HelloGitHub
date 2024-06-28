@@ -110,7 +110,7 @@ INTO sqlflow_models.my_dnn_model;
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/360522116.png' style="max-width:80%; max-height=80%;"></img></p>
 
-21、[quill](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/quilljs/quill)：一款强大的富文本编辑器。它是目前 GitHub 上 Star 数最多的所见即所得 Web 编辑器，具有强大的可扩展性和兼容性，支持台式机、平板电脑和手机上几乎所有的浏览器。
+21、[quill](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/slab/quill)：一款强大的富文本编辑器。它是目前 GitHub 上 Star 数最多的所见即所得 Web 编辑器，具有强大的可扩展性和兼容性，支持台式机、平板电脑和手机上几乎所有的浏览器。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/5239185.png' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -23,7 +23,7 @@ Will be released on the **28th of each month**| [Contributors](https://github.co
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [NO.98](/content/HelloGitHub98.md) | [NO.97](/content/HelloGitHub97.md) | [NO.96](/content/HelloGitHub96.md) |
+| [NO.99](/content/HelloGitHub99.md) | [NO.98](/content/HelloGitHub98.md) | [NO.97](/content/HelloGitHub97.md) | [NO.96](/content/HelloGitHub96.md) |
 | [NO.95](/content/HelloGitHub95.md) | [NO.94](/content/HelloGitHub94.md) | [NO.93](/content/HelloGitHub93.md) | [NO.92](/content/HelloGitHub92.md) | [NO.91](/content/HelloGitHub91.md) |
 | [NO.90](/content/HelloGitHub90.md) | [NO.89](/content/HelloGitHub89.md) | [NO.88](/content/HelloGitHub88.md) | [NO.87](/content/HelloGitHub87.md) | [NO.86](/content/HelloGitHub86.md) |
 | [NO.85](/content/HelloGitHub85.md) | [NO.84](/content/HelloGitHub84.md) | [NO.83](/content/HelloGitHub83.md) | [NO.82](/content/HelloGitHub82.md) | [NO.81](/content/HelloGitHub81.md) |

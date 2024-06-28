@@ -41,7 +41,7 @@
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/53977537.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
-4、[flask-admin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/flask-admin/flask-admin)：我工作中需要写一个微型的管理系统，用的就是这个框架。简直快餐型，页面都写好了，只要设置好相关配置就可以跑起来了。唯一缺点就是文档中的例子少，开发一些特定的需求需要自己看源码，才能知道如何改。[文档](https://flask-admin.readthedocs.io/en/latest/)，下面是我跑起来之后的样子：
+4、[flask-admin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pallets-eco/flask-admin)：我工作中需要写一个微型的管理系统，用的就是这个框架。简直快餐型，页面都写好了，只要设置好相关配置就可以跑起来了。唯一缺点就是文档中的例子少，开发一些特定的需求需要自己看源码，才能知道如何改。[文档](https://flask-admin.readthedocs.io/en/latest/)，下面是我跑起来之后的样子：
 
 
 

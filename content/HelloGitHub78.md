@@ -151,7 +151,7 @@ public Executor sendMessageConsumeDynamicThreadPool() {
 }
 ```
 
-20、[solon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/noear/solon)：一款 Java 轻量级应用开发框架。可用来快速开发 Java Web 项目，主框架仅 0.1 MB。类似 Python Flask 的微型框架，提倡按需组合插件。
+20、[solon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/opensolon/solon)：一款 Java 轻量级应用开发框架。可用来快速开发 Java Web 项目，主框架仅 0.1 MB。类似 Python Flask 的微型框架，提倡按需组合插件。
 ```java
 @Controller
 public class App {

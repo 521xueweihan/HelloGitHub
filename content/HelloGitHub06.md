@@ -74,41 +74,24 @@ java -jar moco-runner-<version>-standalone.jar http -p 12306 -c foo.json
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/06/66557478.png' style="max-width:80%; max-height=80%;"></img></p>
 
-8、[textfilter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/observerss/textfilter)：基于某 1w 词敏感词库，用 Python 实现几种不同的过滤方式。**用于过滤敏感词的实用模块**，示例代码：
-```python
-from filter import DFAFilter
-
-gfw = DFAFilter()
-gfw.parse("keywords")
-print "待过滤：售假人民币 我操操操"
-print "过滤后：", gfw.filter("售假人民币 我操操操", "*")
-
-test_first_character()
-
-# 运行结果
-# 待过滤：售假人民币 我操操操
-# 过滤后： 售假**币 ****
-```
-
-
-9、[Young](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shiyanhui/Young)：基于 Tornado 框架、MongoDB 数据库，写的功能丰富的社区项目。详细的[安装步骤](https://github.com/shiyanhui/Young/blob/master/README_CN.md)，适合学习如何创建社区类 Web App。[在线预览](http://beyoung.io/)，项目运行效果图：
+8、[Young](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shiyanhui/Young)：基于 Tornado 框架、MongoDB 数据库，写的功能丰富的社区项目。详细的[安装步骤](https://github.com/shiyanhui/Young/blob/master/README_CN.md)，适合学习如何创建社区类 Web App。[在线预览](http://beyoung.io/)，项目运行效果图：
 
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/06/67109930.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift 项目
-10、[12306ForMac](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fancymax/12306ForMac)：非官方的 12306 购票，Mac OS 客户端
+9、[12306ForMac](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fancymax/12306ForMac)：非官方的 12306 购票，Mac OS 客户端
 
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/06/50915433.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
-11、[Apollo-11](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chrislgarry/Apollo-11)：阿波罗 11 号代码，[中文介绍](https://github.com/chrislgarry/Apollo-11/blob/master/README.zh_cn.md)
+10、[Apollo-11](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chrislgarry/Apollo-11)：阿波罗 11 号代码，[中文介绍](https://github.com/chrislgarry/Apollo-11/blob/master/README.zh_cn.md)
 
 
-12、[gvm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/moovweb/gvm)：Go 版本管理工具，可以通过命令，无痛切换不同的 Go 版本，示例指令：
+11、[gvm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/moovweb/gvm)：Go 版本管理工具，可以通过命令，无痛切换不同的 Go 版本，示例指令：
 ```
 1. 安装gvm：bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)
 
@@ -128,10 +111,10 @@ brew install mercurial
 ```
 
 
-13、[LearningNotes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/francistao/LearningNotes)：很全面的学习笔记，偏向 Android 和 Java
+12、[LearningNotes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/francistao/LearningNotes)：很全面的学习笔记，偏向 Android 和 Java
 
 
-14、[weapp-ide-crack](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gavinkwoe/weapp-ide-crack)：【应用号】IDE + 破解 + Demo
+13、[weapp-ide-crack](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gavinkwoe/weapp-ide-crack)：【应用号】IDE + 破解 + Demo
 
 
 

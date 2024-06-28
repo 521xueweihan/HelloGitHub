@@ -79,7 +79,7 @@
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/239760033.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Go 项目
-9、[air](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cosmtrek/air)：有代码变动就会自动重启服务的 Go 工具。在开发 Go Web 项目时，每次修改后都需要手动编译、重启服务，这个工具会在文件和目录发生变动后，自动编译并重启服务，大大提高了开发效率
+9、[air](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/air-verse/air)：有代码变动就会自动重启服务的 Go 工具。在开发 Go Web 项目时，每次修改后都需要手动编译、重启服务，这个工具会在文件和目录发生变动后，自动编译并重启服务，大大提高了开发效率
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/106704041.png' style="max-width:80%; max-height=80%;"></img></p>
