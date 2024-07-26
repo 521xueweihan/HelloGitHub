@@ -305,7 +305,7 @@ with pikepdf.open('input.pdf') as pdf:
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/73/391005419.png' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[SmartIDE](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SmartIDE/SmartIDE)：快速搭建云开发环境的工具。不需要手动安装任何工具、SDK、编辑器和设置环境变量等繁琐操作，一条命令即可获得所需的开发环境和 IDE，轻松实现云端开发
+38、[SmartIDE](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OpenAtomFoundation/SmartIDE)：快速搭建云开发环境的工具。不需要手动安装任何工具、SDK、编辑器和设置环境变量等繁琐操作，一条命令即可获得所需的开发环境和 IDE，轻松实现云端开发
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/73/408816156.png' style="max-width:80%; max-height=80%;"></img></p>

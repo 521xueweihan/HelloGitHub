@@ -36,7 +36,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/600246354.png' style="max-width:80%; max-height=80%;"></img></p>
 
-5、[WingetUI](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/marticliment/WingetUI)：带界面的 Windows 包管理器。该项目是一个为 Windows 常用的命令行包管理工具设计的用户界面，如 Winget、Scoop、Pip、NPM、.NET Tool 等。它的界面友好、设计美观、支持中文，通过它你可以轻松下载、安装、更新和卸载包管理器上发布的任何软件以及其它日常应用，如浏览器、PDF 阅读器等。
+5、[UniGetUI](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/marticliment/UniGetUI)：带界面的 Windows 包管理器。该项目是一个为 Windows 常用的命令行包管理工具设计的用户界面，如 Winget、Scoop、Pip、NPM、.NET Tool 等。它的界面友好、设计美观、支持中文，通过它你可以轻松下载、安装、更新和卸载包管理器上发布的任何软件以及其它日常应用，如浏览器、PDF 阅读器等。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/377163326.png' style="max-width:80%; max-height=80%;"></img></p>
 

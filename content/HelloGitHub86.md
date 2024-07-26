@@ -186,7 +186,7 @@ guitar = (C('CM7', 3, 1/4, 1/8)^2 |
 play(guitar, bpm=100, instrument=25)
 ```
 
-27、[OpenBBTerminal](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OpenBB-finance/OpenBBTerminal)：高颜值的命令行投资分析工具。一个有着高颜值的金融市场行情查看和分析工具，实现了在终端偷偷看股市的功能。同时，它开放了对 Pandas、Numpy、Jupyter、Pytorch、Tensorflow 等等框架的支持，帮助深入加工和分析数据辅助投资。
+27、[OpenBB](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OpenBB-finance/OpenBB)：高颜值的命令行投资分析工具。一个有着高颜值的金融市场行情查看和分析工具，实现了在终端偷偷看股市的功能。同时，它开放了对 Pandas、Numpy、Jupyter、Pytorch、Tensorflow 等等框架的支持，帮助深入加工和分析数据辅助投资。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/323048702.gif' style="max-width:80%; max-height=80%;"></img></p>
 

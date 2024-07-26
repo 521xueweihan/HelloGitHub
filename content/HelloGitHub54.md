@@ -88,7 +88,7 @@ int main()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/247032621.png' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[go-micro](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/go-micro/go-micro)：一款 Go 插件化的基础框架。我只知道它是个 Go 微服务框架，基于它可以快速构建微服务。示例代码如图所示：
+7、[go-micro](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/micro/go-micro)：一款 Go 插件化的基础框架。我只知道它是个 Go 微服务框架，基于它可以快速构建微服务。示例代码如图所示：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/29217054.png' style="max-width:80%; max-height=80%;"></img></p>

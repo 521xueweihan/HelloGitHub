@@ -210,6 +210,8 @@ panorama = stitcher.stitch(["img?.jpg"])
 
 28、[ruffle](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ruffle-rs/ruffle)：Rust 写的 Flash Player 替代品。这是一个用 Rust 语言开发的 Adobe Flash Player 模拟器，它不仅可以通过 WebAssembly 嵌入网站，还支持浏览器插件的方式使用以及在本地通过命令行播放 Flash 文件。来自 [@浮生若夢](https://hellogithub.com/user/hKmH64UjOdwgCEi) 的分享
 
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/183483988.gif' style="max-width:80%; max-height=80%;"></img></p>
+
 ### Swift 项目
 29、[LocationSimulator](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Schlaubischlump/LocationSimulator)：iOS 设备的定位模拟器。这是一个能够轻松修改 iOS 和 iPadOS 位置信息的 macOS 应用，使用时手机端无需越狱和安装应用，只需通过 USB 或 WiFi 将设备连接上电脑，即可轻松完成位置修改。
 

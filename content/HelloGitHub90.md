@@ -245,7 +245,7 @@ driver = webdriver.Chrome(ChromeDriverManager().install())
 ### 开源书籍
 39、[css-animation-101](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cssanimation/css-animation-101)：《CSS 动画入门秘籍》。这本书主要是介绍 CSS 中的动画（CSS animation），内容包含什么是 CSS animation、transition 属性、如何制作复杂的动效以及丰富的示例，教会你如何将 CSS 动画应用到你的项目中。
 
-40、[how-to-write-makefile](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/seisman/how-to-write-makefile)：《跟我一起写 Makefile》。该项目是陈皓整理自《GUN Make Manual 》的系列文章 PDF 重制版，作者对其进行了排版优化、代码高亮等操作，阅读起来更加舒服，可作为初学者上手 Makefile 的教程。
+40、[how-to-write-makefile](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/seisman/how-to-write-makefile)：《跟我一起写 Makefile》。该项目是陈皓整理自《GNU Make Manual 》的系列文章 PDF 重制版，作者对其进行了排版优化、代码高亮等操作，阅读起来更加舒服，可作为初学者上手 Makefile 的教程。
 
 ### 机器学习
 41、[hcaptcha-challenger](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/QIN2DIM/hcaptcha-challenger)：优雅地处理 hCaptcha 验证码的库。该项目不依赖浏览器插件和第三方反验证码服务，通过机器学习的方式处理 hCaptcha 验证码。它采用 ResNet 和 YOLOv8 处理分类和检测问题，通过 ONNX 打包模型降低使用门槛，让用户可在没有 GPU 的设备上运行代码，且无需安装 PyTorch 等依赖，优雅地面对 hCaptcha 验证码。来自 [@QIN2DIM](https://hellogithub.com/user/Gm0AckPjzrhTHae) 的分享

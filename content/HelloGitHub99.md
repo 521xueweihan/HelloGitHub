@@ -278,7 +278,7 @@ print(lengths)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/99/807619678.png' style="max-width:80%; max-height=80%;"></img></p>
 
-42、[Scrapegraph-ai](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/VinciGit00/Scrapegraph-ai)：基于 AI 的 Python 爬虫。这是一个由 AI 驱动的 Python 爬虫库，它借助 LLM 的能力，可以根据提示词自动抓取目标网站的数据。
+42、[Scrapegraph-ai](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ScrapeGraphAI/Scrapegraph-ai)：基于 AI 的 Python 爬虫。这是一个由 AI 驱动的 Python 爬虫库，它借助 LLM 的能力，可以根据提示词自动抓取目标网站的数据。
 ```python
 smart_scraper_graph = SmartScraperGraph(
     prompt="List me all the projects with their descriptions",
@@ -293,7 +293,7 @@ print(result)
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub98.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub98.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub100.md">『下一期』</a>
 </p>
 
 ---
