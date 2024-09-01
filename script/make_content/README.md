@@ -15,3 +15,4 @@ python make_content.py 期数/all（重新生成所有期）
 
 ## TODO
 - 自动生成 README
+Here is a simple footnote[^1]. A footnote can also have multiple lines[^2]. [^1]: My reference. [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces. This is a second line.
