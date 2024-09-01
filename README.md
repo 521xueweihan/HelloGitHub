@@ -1,4 +1,4 @@
-<p align="center">
+Here is a simple footnote[^1]. A footnote can also have multiple lines[^2]. [^1]: My reference. [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces. This is a second line.<p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/readme.gif"/>
   <br>中文 | <a href="README_en.md">English</a> | <a href="README_ja.md">日本語</a>
   <br>分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
