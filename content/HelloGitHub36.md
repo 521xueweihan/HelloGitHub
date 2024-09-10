@@ -321,10 +321,10 @@ render(<Player sources={sources} />)
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/kuaijiesale.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=github_hellogithub_otherdsp_display">
+        <a href="https://www.ucloud.cn/site/active/gpu.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
-          <sub>超值的全球云服务</sub>
+          <sub>超值的GPU云服务</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
