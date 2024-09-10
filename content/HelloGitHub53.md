@@ -180,49 +180,49 @@ points & bars
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/70198664.gif' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+24、[cnn-convoluter](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pwwang/cnn-convoluter)：一个支持交互的展示卷积过程的可视化工具
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/282327806.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+25、[Never-Blink](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ByronHsu/Never-Blink)：谁先眨眼谁就输了的游戏。使用 React + Flask + Dlib 技术实现的“眨眼就输了”在线游戏，虽然是个 demo 级别的项目，但是很有意思可以在本地运行起来找朋友一起玩一下
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/190750590.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+26、[waifu2x](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nagadomi/waifu2x)：基于机器学习把图片、照片变得高清。该项目使用卷积神经网络对图片进行 1-2 倍的无损放大操作，支持降噪保证图片质量。[在线尝试](http://waifu2x.udp.jp/)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/35756351.png' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-24、[Algorithm-Guide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Xunzhuo/Algorithm-Guide)：系统性学习算法与数据结构的资料集合
+27、[Algorithm-Guide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Xunzhuo/Algorithm-Guide)：系统性学习算法与数据结构的资料集合
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/259780361.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[first-contributions](https://hellogithub.com/periodical/statistics/click?target=https://github.com/firstcontributions/first-contributions)：手把手教你如何在 GitHub 第一次贡献代码的教程。支持多种语言，[中文](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.chs.md)
+28、[first-contributions](https://hellogithub.com/periodical/statistics/click?target=https://github.com/firstcontributions/first-contributions)：手把手教你如何在 GitHub 第一次贡献代码的教程。支持多种语言，[中文](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.chs.md)
 
 
-26、[leek-fund](https://hellogithub.com/periodical/statistics/click?target=https://github.com/LeekHub/leek-fund)：在 VSCode 中看股票和基金实时数据的插件
+29、[leek-fund](https://hellogithub.com/periodical/statistics/click?target=https://github.com/LeekHub/leek-fund)：在 VSCode 中看股票和基金实时数据的插件
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/284397976.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[math-as-code](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Experience-Monks/math-as-code)：这是一份通过对比数学符号和 JavaScript 代码来帮助开发者更容易了解数学符号的项目
+30、[math-as-code](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Experience-Monks/math-as-code)：这是一份通过对比数学符号和 JavaScript 代码来帮助开发者更容易了解数学符号的项目
 
 
-28、[PowerToys](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/PowerToys)：微软开源的 Windows 系统下强大的辅助工具。比如：窗口管理、批量图片处理、改键工具等，下图是屏幕颜色选择工具
+31、[PowerToys](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/PowerToys)：微软开源的 Windows 系统下强大的辅助工具。比如：窗口管理、批量图片处理、改键工具等，下图是屏幕颜色选择工具
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/184456251.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-29、[BuildYourOwnLisp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/orangeduck/BuildYourOwnLisp)：该书教你用 C 语言实现自己的 Lisp 语言。用 1000 多行实现一个小但功能齐全的 Lisp 语言，这里有份中文翻译版本，但是没有翻译完[点击阅读](https://ksco.gitbooks.io/build-your-own-lisp/content/)
+32、[BuildYourOwnLisp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/orangeduck/BuildYourOwnLisp)：该书教你用 C 语言实现自己的 Lisp 语言。用 1000 多行实现一个小但功能齐全的 Lisp 语言，这里有份中文翻译版本，但是没有翻译完[点击阅读](https://ksco.gitbooks.io/build-your-own-lisp/content/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/18437816.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-30、[cnn-convoluter](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pwwang/cnn-convoluter)：一个支持交互的展示卷积过程的可视化工具
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/282327806.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-31、[Never-Blink](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ByronHsu/Never-Blink)：谁先眨眼谁就输了的游戏。使用 React + Flask + Dlib 技术实现的“眨眼就输了”在线游戏，虽然是个 demo 级别的项目，但是很有意思可以在本地运行起来找朋友一起玩一下
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/190750590.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-32、[waifu2x](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nagadomi/waifu2x)：基于机器学习把图片、照片变得高清。该项目使用卷积神经网络对图片进行 1-2 倍的无损放大操作，支持降噪保证图片质量。[在线尝试](http://waifu2x.udp.jp/)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/35756351.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -252,7 +252,7 @@ points & bars
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

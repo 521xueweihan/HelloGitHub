@@ -166,25 +166,25 @@ with open('report.xls', 'wb') as f:
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/20/34254274.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-19、[github-cheat-sheet](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tiimgreen/github-cheat-sheet)：GitHub 和 Git 的秘籍，[中文](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
-
-
-20、[hangzhouYunQi2017ppt](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Alibaba-Technology/hangzhouYunQi2017ppt)：2017 杭州云栖大会精华 PPT，[移步到阿里云下载与浏览](https://yq.aliyun.com/articles/231065)
-
-
-21、[nodebestpractices](https://hellogithub.com/periodical/statistics/click?target=https://github.com/goldbergyoni/nodebestpractices)：Node.js 最佳实践列表（英文）
-
-
-22、[vim-game-code-break](https://hellogithub.com/periodical/statistics/click?target=https://github.com/johngrib/vim-game-code-break)：Vim 中的打砖块游戏。在 Vim 实现打砖块游戏的插件。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/20/94041124.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-23、[angel](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Angel-ML/angel)：腾讯开源的高性能分布式机器学习平台，具有广泛的适用性和稳定性，模型维度越高。它将高维度的大模型合理切分到多个参数服务器节点，并通过高效的模型更新接口和运算函数，以及灵活的同步协议，可以实现各种高效的机器学习算法
+### 人工智能
+19、[angel](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Angel-ML/angel)：腾讯开源的高性能分布式机器学习平台，具有广泛的适用性和稳定性，模型维度越高。它将高维度的大模型合理切分到多个参数服务器节点，并通过高效的模型更新接口和运算函数，以及灵活的同步协议，可以实现各种高效的机器学习算法
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/20/89322848.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+20、[github-cheat-sheet](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tiimgreen/github-cheat-sheet)：GitHub 和 Git 的秘籍，[中文](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
+
+
+21、[hangzhouYunQi2017ppt](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Alibaba-Technology/hangzhouYunQi2017ppt)：2017 杭州云栖大会精华 PPT，[移步到阿里云下载与浏览](https://yq.aliyun.com/articles/231065)
+
+
+22、[nodebestpractices](https://hellogithub.com/periodical/statistics/click?target=https://github.com/goldbergyoni/nodebestpractices)：Node.js 最佳实践列表（英文）
+
+
+23、[vim-game-code-break](https://hellogithub.com/periodical/statistics/click?target=https://github.com/johngrib/vim-game-code-break)：Vim 中的打砖块游戏。在 Vim 实现打砖块游戏的插件。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/20/94041124.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -214,7 +214,7 @@ with open('report.xls', 'wb') as f:
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

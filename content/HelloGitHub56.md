@@ -297,38 +297,11 @@ Processing: 100%|████████████████████| 3
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/275095333.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-23、[CopyTranslator](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CopyTranslator/CopyTranslator)：支持网页和 PDF 的划词翻译工具。有了它就可以解决阅读 PDF 文件时，要翻译大段内容情况下的乱码、换行、翻译不准的问题
+### 人工智能
+23、[DeepLearningProject](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Spandan-Madan/DeepLearningProject)：哈佛大学开源的深度学习教程
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/134030857.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-24、[Front-End-Interview-Notebook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CavsZhouyou/Front-End-Interview-Notebook)：一份非拼凑、优秀的前端面试复习笔记。以提问方式发出问题，并给出了作者的答案，内容涵盖：HTML、CSS、JS、算法、计算机网络等方面。作者拿到了很多大厂 offer，然后把这些东西总结整理下来送给准备面试、换工作的前端小伙伴
-
-
-25、[pi-hole](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pi-hole/pi-hole)：一个免费开源、部署简单的 DNS sinkhole 项目。没关系，我也不明白 DNS sinkhole 是个啥，就知道用它可实现路由器层屏蔽广告的功能。需要先在树莓派安装这个项目，然后配合支持自定义 DNS 的路由器，就可以实现该网络下的全设备广告自动屏蔽。[详细步骤](https://sspai.com/post/58183)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/20619036.png' style="max-width:80%; max-height=80%;"></img></p>
-
-26、[styleguide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/google/styleguide)：谷歌的代码风格指南。每个大型项目都有自己的代码风格，当代码的风格统一时将更容易被理解。本项目是谷歌项目的代码风格说明，包含：C++、C#、Swift、Python、Java 等语言
-
-
-27、[upptime](https://hellogithub.com/periodical/statistics/click?target=https://github.com/upptime/upptime)：一个免费开源的网站正常运行时间（uptime）监控服务。之所没有任何费用是因为实现方法都是完全基于 GitHub 提供的免费服务，比如：使用 GitHub 的 Action 每隔 5 分钟访问一次目标网站，获取网站最新的状态。然后通过 GitHub Issues 记录和报告异常，最后在 GitHub Pages 上可视化展示网站的运行状态。就很“绿色无公害”，我特别喜欢
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/286080143.png' style="max-width:80%; max-height=80%;"></img></p>
-
-28、[winapps](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Fmstrat/winapps)：一个让你在 Linux (Ubuntu/Fedora) 系统里使用 Windows 办公软件的项目。支持 Microsoft Excel、Word、PowerPoint、Adobe Photoshop 等
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/310933773.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-29、[DeepLearningProject](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Spandan-Madan/DeepLearningProject)：哈佛大学开源的深度学习教程
-
-
-30、[EasyOCR](https://hellogithub.com/periodical/statistics/click?target=https://github.com/JaidedAI/EasyOCR)：支持多种语言的即用型的 Python OCR 库，包括中文、日文、韩文等。示例代码：
+24、[EasyOCR](https://hellogithub.com/periodical/statistics/click?target=https://github.com/JaidedAI/EasyOCR)：支持多种语言的即用型的 Python OCR 库，包括中文、日文、韩文等。示例代码：
 ```python
 import easyocr
 reader = easyocr.Reader(['ch_sim','en']) # need to run only once to load model into memory
@@ -345,8 +318,35 @@ result = reader.readtext('chinese.jpg')
 ```
 
 
-31、[examples](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pytorch/examples)：关于视觉、本文等方面的 PyTorch 的示例集合。包含：使用 Convnets 的图像分类（MNIST）、生成对抗网络（DCGAN）等
+25、[examples](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pytorch/examples)：关于视觉、本文等方面的 PyTorch 的示例集合。包含：使用 Convnets 的图像分类（MNIST）、生成对抗网络（DCGAN）等
 
+
+### 其它
+26、[CopyTranslator](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CopyTranslator/CopyTranslator)：支持网页和 PDF 的划词翻译工具。有了它就可以解决阅读 PDF 文件时，要翻译大段内容情况下的乱码、换行、翻译不准的问题
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/134030857.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+27、[Front-End-Interview-Notebook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CavsZhouyou/Front-End-Interview-Notebook)：一份非拼凑、优秀的前端面试复习笔记。以提问方式发出问题，并给出了作者的答案，内容涵盖：HTML、CSS、JS、算法、计算机网络等方面。作者拿到了很多大厂 offer，然后把这些东西总结整理下来送给准备面试、换工作的前端小伙伴
+
+
+28、[pi-hole](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pi-hole/pi-hole)：一个免费开源、部署简单的 DNS sinkhole 项目。没关系，我也不明白 DNS sinkhole 是个啥，就知道用它可实现路由器层屏蔽广告的功能。需要先在树莓派安装这个项目，然后配合支持自定义 DNS 的路由器，就可以实现该网络下的全设备广告自动屏蔽。[详细步骤](https://sspai.com/post/58183)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/20619036.png' style="max-width:80%; max-height=80%;"></img></p>
+
+29、[styleguide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/google/styleguide)：谷歌的代码风格指南。每个大型项目都有自己的代码风格，当代码的风格统一时将更容易被理解。本项目是谷歌项目的代码风格说明，包含：C++、C#、Swift、Python、Java 等语言
+
+
+30、[upptime](https://hellogithub.com/periodical/statistics/click?target=https://github.com/upptime/upptime)：一个免费开源的网站正常运行时间（uptime）监控服务。之所没有任何费用是因为实现方法都是完全基于 GitHub 提供的免费服务，比如：使用 GitHub 的 Action 每隔 5 分钟访问一次目标网站，获取网站最新的状态。然后通过 GitHub Issues 记录和报告异常，最后在 GitHub Pages 上可视化展示网站的运行状态。就很“绿色无公害”，我特别喜欢
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/286080143.png' style="max-width:80%; max-height=80%;"></img></p>
+
+31、[winapps](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Fmstrat/winapps)：一个让你在 Linux (Ubuntu/Fedora) 系统里使用 Windows 办公软件的项目。支持 Microsoft Excel、Word、PowerPoint、Adobe Photoshop 等
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/310933773.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -376,7 +376,7 @@ result = reader.readtext('chinese.jpg')
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

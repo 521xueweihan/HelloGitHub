@@ -85,7 +85,7 @@ XXH32_hash_t hash_string(const char* string, XXH32_hash_t seed)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/723189658.png' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[focalboard](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mattermost/focalboard)：开源的项目管理和团队协作工具。这是一款开源、多语言、自托管的项目管理工具，兼容了 Trello 和 Notion 的特点。它支持看板、表格和日历等视图管理任务，并提供评论同步、文件共享、用户权限等功能。该工具还提供了适用于 Windows、macOS、Linux 系统的客户端。
+12、[focalboard](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mattermost-community/focalboard)：开源的项目管理和团队协作工具。这是一款开源、多语言、自托管的项目管理工具，兼容了 Trello 和 Notion 的特点。它支持看板、表格和日历等视图管理任务，并提供评论同步、文件共享、用户权限等功能。该工具还提供了适用于 Windows、macOS、Linux 系统的客户端。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/301793434.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -162,12 +162,27 @@ XXH32_hash_t hash_string(const char* string, XXH32_hash_t seed)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/183878515.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+32、[FastChat](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lm-sys/FastChat)：用于训练和评估大型语言模型的开放平台。这是一个用于训练、部署和评估大型语言模型的平台，你可以用它在本地部署和评估各种大模型。除此之外，它还提供了一个在线评估大模型的平台，用户可以向两个不同的大模型，问同一个问题，然后根据回答选出你认为更好用的大模型。在此过程中，你可以免费使用 Claude、ChatGPT 等对话机器人。来自 [@浮生若夢](https://hellogithub.com/user/hKmH64UjOdwgCEi) 的分享
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/615882673.png' style="max-width:80%; max-height=80%;"></img></p>
+
+33、[generative-ai-for-beginners](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/generative-ai-for-beginners)：面向初学者的生成式人工智能教程。这是由微软开源的面向初学者的生成式 AI 免费课程，课程共 18 节，涵盖了创建生成式 AI 应用所需要了解的一切，包括生成式 AI 和 LLMs 的简介、提示词、构建文本生成应用、聊天应用、图像生成应用、向量数据库等方面的内容。
+
+34、[jan](https://hellogithub.com/periodical/statistics/click?target=https://github.com/janhq/jan)：一站式体验 LLMs 的桌面应用。这是一个支持在本地运行开源 LLMs 和连接 ChatGPT 服务的 AI 对话桌面应用，它开箱即用、界面清爽、不挑硬件，支持设置代理、接入 ChatGPT、一键下载/接入适配当前电脑配置的大模型、离线运行等功能，适用于 Windows、Linux、macOS 操作系统。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/679506386.png' style="max-width:80%; max-height=80%;"></img></p>
+
+35、[open-interpreter](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OpenInterpreter/open-interpreter)：让 LLM 在你的计算机上运行代码。该项目可以让大语言模型在本地运行代码，支持 Python、JavaScript、Shell 等编程语言。相当于大语言模型是一个解释器，它会理解你的意图，将自然语言转化成相应的代码脚本并运行。安装后，用户就可以在终端通过聊天的方式操作计算机，比如创建和编辑图片、视频和文件，控制 Chrome 浏览器进行搜索等。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/666299222.gif' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-32、[candle](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mitxela/candle)：自制 3D 电子蜡烛。该项目作者使用简单的 LED 板和小型电路板，制作了一个微型电子蜡烛，并通过旋转底座和流体模拟算法，模拟出 3D 的烛光效果。
+36、[candle](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mitxela/candle)：自制 3D 电子蜡烛。该项目作者使用简单的 LED 板和小型电路板，制作了一个微型电子蜡烛，并通过旋转底座和流体模拟算法，模拟出 3D 的烛光效果。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/726135770.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[docker-android](https://hellogithub.com/periodical/statistics/click?target=https://github.com/budtmo/docker-android)：运行在 Docker 容器里的 Android。这是一个 Android 模拟器的 Docker 镜像，支持 Android 9-14 版本、VNC（远程桌面）、ADB（Android 调试桥）、日志查看等功能，适用于 Android 客户端测试和调试等场景。
+37、[docker-android](https://hellogithub.com/periodical/statistics/click?target=https://github.com/budtmo/docker-android)：运行在 Docker 容器里的 Android。这是一个 Android 模拟器的 Docker 镜像，支持 Android 9-14 版本、VNC（远程桌面）、ADB（Android 调试桥）、日志查看等功能，适用于 Android 客户端测试和调试等场景。
 ```
 docker run -d -p 6080:6080 \
 -e EMULATOR_DEVICE="Samsung Galaxy S10" \
@@ -179,11 +194,11 @@ budtmo/docker-android:emulator_11.0
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/77145066.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[excelCPU](https://hellogithub.com/periodical/statistics/click?target=https://github.com/InkboxSoftware/excelCPU)：仅用 Excel 构建出一颗 CPU 。该项目是一颗运行在 Excel 文件中的 16 位 CPU 处理器，它具有 3Hz 主频、128KB RAM 和一块 128x128 像素的显示屏，为此作者还创建了一门汇编语言。
+38、[excelCPU](https://hellogithub.com/periodical/statistics/click?target=https://github.com/InkboxSoftware/excelCPU)：仅用 Excel 构建出一颗 CPU 。该项目是一颗运行在 Excel 文件中的 16 位 CPU 处理器，它具有 3Hz 主频、128KB RAM 和一块 128x128 像素的显示屏，为此作者还创建了一门汇编语言。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/748991484.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[Mr.-Ranedeer-AI-Tutor](https://hellogithub.com/periodical/statistics/click?target=https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)：打造你的个性化 AI 老师。该项目通过提示词让 AI 对话机器人充当老师和学习助手的角色，为你生成学习计划、授课解惑、出练习题等，还可以选择不同的授课风格和深度。它可搭配任意大模型，作者推荐 GPT-4 效果最佳。
+39、[Mr.-Ranedeer-AI-Tutor](https://hellogithub.com/periodical/statistics/click?target=https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)：打造你的个性化 AI 老师。该项目通过提示词让 AI 对话机器人充当老师和学习助手的角色，为你生成学习计划、授课解惑、出练习题等，还可以选择不同的授课风格和深度。它可搭配任意大模型，作者推荐 GPT-4 效果最佳。
 ```
 ===
 Author: JushBJJ
@@ -210,29 +225,14 @@ Version: 2.7
 ...
 ```
 
-36、[ugly-avatar](https://hellogithub.com/periodical/statistics/click?target=https://github.com/txstc55/ugly-avatar)：丑头像生成器。该项目可以用来随机生成一个很丑的手绘头像，不要怀疑真的很丑、很抽象，仅供娱乐。来自 [@puz_zle](https://hellogithub.com/user/hpUacD34bC7zAgw) 的分享
+40、[ugly-avatar](https://hellogithub.com/periodical/statistics/click?target=https://github.com/txstc55/ugly-avatar)：丑头像生成器。该项目可以用来随机生成一个很丑的手绘头像，不要怀疑真的很丑、很抽象，仅供娱乐。来自 [@puz_zle](https://hellogithub.com/user/hpUacD34bC7zAgw) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/777080032.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-37、[Real-Time-Rendering-4th-CN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Morakito/Real-Time-Rendering-4th-CN)：《Real-Time Rendering 4th》中文翻译版。这是《Real-Time Rendering》第四版的中文翻译项目，该书是实时渲染领域的经典之作，非常适合从事游戏开发、3D 图形、VR/AR 等领域的开发者学习。
+41、[Real-Time-Rendering-4th-CN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Morakito/Real-Time-Rendering-4th-CN)：《Real-Time Rendering 4th》中文翻译版。这是《Real-Time Rendering》第四版的中文翻译项目，该书是实时渲染领域的经典之作，非常适合从事游戏开发、3D 图形、VR/AR 等领域的开发者学习。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/721135559.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-38、[FastChat](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lm-sys/FastChat)：用于训练和评估大型语言模型的开放平台。这是一个用于训练、部署和评估大型语言模型的平台，你可以用它在本地部署和评估各种大模型。除此之外，它还提供了一个在线评估大模型的平台，用户可以向两个不同的大模型，问同一个问题，然后根据回答选出你认为更好用的大模型。在此过程中，你可以免费使用 Claude、ChatGPT 等对话机器人。来自 [@浮生若夢](https://hellogithub.com/user/hKmH64UjOdwgCEi) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/615882673.png' style="max-width:80%; max-height=80%;"></img></p>
-
-39、[generative-ai-for-beginners](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/generative-ai-for-beginners)：面向初学者的生成式人工智能教程。这是由微软开源的面向初学者的生成式 AI 免费课程，课程共 18 节，涵盖了创建生成式 AI 应用所需要了解的一切，包括生成式 AI 和 LLMs 的简介、提示词、构建文本生成应用、聊天应用、图像生成应用、向量数据库等方面的内容。
-
-40、[jan](https://hellogithub.com/periodical/statistics/click?target=https://github.com/janhq/jan)：一站式体验 LLMs 的桌面应用。这是一个支持在本地运行开源 LLMs 和连接 ChatGPT 服务的 AI 对话桌面应用，它开箱即用、界面清爽、不挑硬件，支持设置代理、接入 ChatGPT、一键下载/接入适配当前电脑配置的大模型、离线运行等功能，适用于 Windows、Linux、macOS 操作系统。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/679506386.png' style="max-width:80%; max-height=80%;"></img></p>
-
-41、[open-interpreter](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OpenInterpreter/open-interpreter)：让 LLM 在你的计算机上运行代码。该项目可以让大语言模型在本地运行代码，支持 Python、JavaScript、Shell 等编程语言。相当于大语言模型是一个解释器，它会理解你的意图，将自然语言转化成相应的代码脚本并运行。安装后，用户就可以在终端通过聊天的方式操作计算机，比如创建和编辑图片、视频和文件，控制 Chrome 浏览器进行搜索等。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/666299222.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -262,7 +262,7 @@ Version: 2.7
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

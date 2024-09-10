@@ -180,18 +180,24 @@ DATABASE_PASSWORD = os.getenv("DATABASE_PASSWORD")
 ```
 
 
+### 人工智能
+23、[3d-photo-inpainting](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vt-vl-lab/3d-photo-inpainting)：一个把单张静态照片转化成 3D 图片的项目。快来尝鲜啦，不要等朋友圈 3D 照片刷屏后才“后知后觉”
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/254127753.gif' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-23、[analytics](https://hellogithub.com/periodical/statistics/click?target=https://github.com/plausible/analytics)：一个开源的轻量级 Web 访问分析工具。如果你不想侵犯用户的隐私，只获取自己网站访问的基本数据，可以试试这个项目，用来代替谷歌分析
+24、[analytics](https://hellogithub.com/periodical/statistics/click?target=https://github.com/plausible/analytics)：一个开源的轻量级 Web 访问分析工具。如果你不想侵犯用户的隐私，只获取自己网站访问的基本数据，可以试试这个项目，用来代替谷歌分析
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/160427405.png' style="max-width:80%; max-height=80%;"></img></p>
 
-24、[data-scientist-roadmap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/MrMimic/data-scientist-roadmap)：数据科学技能路线图
+25、[data-scientist-roadmap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/MrMimic/data-scientist-roadmap)：数据科学技能路线图
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/93372410.png' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[git-history](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pomber/git-history)：在线查看 GitHub 开源项目中文件的改动历史的工具。使用方法：
+26、[git-history](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pomber/git-history)：在线查看 GitHub 开源项目中文件的改动历史的工具。使用方法：
 ```
 1. 打开 GitHub 上任意一个项目的文件
 2. 把地址中的 github.com 替换成 githistory.xyz
@@ -201,7 +207,7 @@ DATABASE_PASSWORD = os.getenv("DATABASE_PASSWORD")
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/169149127.png' style="max-width:80%; max-height=80%;"></img></p>
 
-26、[github-readme-stats](https://hellogithub.com/periodical/statistics/click?target=https://github.com/anuraghazra/github-readme-stats)：在你的 README 中展示动态生成的 GitHub 统计信息。使用简单、样式多样，使用方法：
+27、[github-readme-stats](https://hellogithub.com/periodical/statistics/click?target=https://github.com/anuraghazra/github-readme-stats)：在你的 README 中展示动态生成的 GitHub 统计信息。使用简单、样式多样，使用方法：
 ```
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=521xueweihan)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -211,22 +217,16 @@ DATABASE_PASSWORD = os.getenv("DATABASE_PASSWORD")
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/278335273.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[LeetcodeTop](https://hellogithub.com/periodical/statistics/click?target=https://github.com/afatcoder/LeetcodeTop)：国内各大互联网公司常考的 LeetCode 题目
+28、[LeetcodeTop](https://hellogithub.com/periodical/statistics/click?target=https://github.com/afatcoder/LeetcodeTop)：国内各大互联网公司常考的 LeetCode 题目
 
 
-28、[nvda](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nvaccess/nvda)：一个微软开源的免费 Windows 操作系统的无视觉桌面访问阅读器。通过合成器语音或者盲文点字的反馈，方便盲人和低视力人群使用运行在 Windows 操作系统下运作的电脑。也能够让开发者了解微软的常见的辅助功能接口，如微软 Active Accessibility、Java Access Bridge、IAccessible2 和 UI automation。希望有更多的人了解无障碍，[NVDA 中文站](https://www.nvdacn.com/)
+29、[nvda](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nvaccess/nvda)：一个微软开源的免费 Windows 操作系统的无视觉桌面访问阅读器。通过合成器语音或者盲文点字的反馈，方便盲人和低视力人群使用运行在 Windows 操作系统下运作的电脑。也能够让开发者了解微软的常见的辅助功能接口，如微软 Active Accessibility、Java Access Bridge、IAccessible2 和 UI automation。希望有更多的人了解无障碍，[NVDA 中文站](https://www.nvdacn.com/)
 
 
-29、[papirus-icon-theme](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)：适用于 Linux 系统的免费开源 SVG 图标主题
+30、[papirus-icon-theme](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)：适用于 Linux 系统的免费开源 SVG 图标主题
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/60187911.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-30、[3d-photo-inpainting](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vt-vl-lab/3d-photo-inpainting)：一个把单张静态照片转化成 3D 图片的项目。快来尝鲜啦，不要等朋友圈 3D 照片刷屏后才“后知后觉”
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/52/254127753.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -256,7 +256,7 @@ DATABASE_PASSWORD = os.getenv("DATABASE_PASSWORD")
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

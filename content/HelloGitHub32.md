@@ -228,33 +228,8 @@ SpiderMan.init(this)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/51078774.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-19、[Best-websites-a-programmer-should-visit](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sdmg15/Best-websites-a-programmer-should-visit)：程序员应该放到收藏夹的网站。[中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
-
-
-20、[lemonade-stand](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nayafia/lemonade-stand)：《开源项目挣钱实用手册》[中文版](https://github.com/wizicer/FinancialSupportForOpenSource)
-
-
-21、[Linux-Tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/judasn/Linux-Tutorial)：Java 程序员眼中的 Linux
-
-
-22、[ProgrammingFonts](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ProgrammingFonts/ProgrammingFonts)：适合程序员的编程字体的集合，现在有 30 多种奇妙的字体
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/40389983.png' style="max-width:80%; max-height=80%;"></img></p>
-
-23、[search-engine-optimization](https://hellogithub.com/periodical/statistics/click?target=https://github.com/marcobiedermann/search-engine-optimization)：（英文）这个项目收集了很多 SEO 优化的建议
-
-
-### 开源书籍
-24、[sdn-handbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/feiskyer/sdn-handbook)：有关 SDN 的资料和书籍非常丰富，但入门和学习 SDN 依然是非常困难。该项目整理了 SDN 实践中的一些基本理论和实践案例心得，希望大家看完后有所收获
-
-
-25、[write-you-a-haskell](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sdiehl/write-you-a-haskell)：（英文）《Write You a Haskell》
-
-
-### 机器学习
-26、[AIAlpha](https://hellogithub.com/periodical/statistics/click?target=https://github.com/VivekPa/AIAlpha)：使用无监督学习和监督学习来预测股票，有趣的项目。运行步骤如下：
+### 人工智能
+19、[AIAlpha](https://hellogithub.com/periodical/statistics/click?target=https://github.com/VivekPa/AIAlpha)：使用无监督学习和监督学习来预测股票，有趣的项目。运行步骤如下：
 ```
 git clone https://github.com/VivekPa/AlphaAI.git
 cd AlphaAI
@@ -265,20 +240,20 @@ python run.py
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/151904296.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[awesome-machine-learning](https://hellogithub.com/periodical/statistics/click?target=https://github.com/josephmisiti/awesome-machine-learning)：一个精选的机器学习框架、库、软件的集合项目
+20、[awesome-machine-learning](https://hellogithub.com/periodical/statistics/click?target=https://github.com/josephmisiti/awesome-machine-learning)：一个精选的机器学习框架、库、软件的集合项目
 
 
-28、[bert](https://hellogithub.com/periodical/statistics/click?target=https://github.com/google-research/bert)：一种新的语言表征模型，来自 Transformer 的双向编码器表征。目前最强 NLP 预训练模型，横扫 11 项 NLP 任务记录
+21、[bert](https://hellogithub.com/periodical/statistics/click?target=https://github.com/google-research/bert)：一种新的语言表征模型，来自 Transformer 的双向编码器表征。目前最强 NLP 预训练模型，横扫 11 项 NLP 任务记录
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/154747577.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[deepvariant](https://hellogithub.com/periodical/statistics/click?target=https://github.com/google/deepvariant)：一个数据分析工作流。能够使用深度神经网络从下一代 DNA 序列数据中调用遗传变异体，联想到了最近的基因编辑人类事件。关于如何工作的技术细节，如下图：
+22、[deepvariant](https://hellogithub.com/periodical/statistics/click?target=https://github.com/google/deepvariant)：一个数据分析工作流。能够使用深度神经网络从下一代 DNA 序列数据中调用遗传变异体，联想到了最近的基因编辑人类事件。关于如何工作的技术细节，如下图：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/111751293.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[fastai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fastai/fastai)：利用当前最好的深度学习算法简化训练神经网络的过程。包含了很多“开箱即用”的工具，支持 Vision、Collab 等模型。示例代码：
+23、[fastai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fastai/fastai)：利用当前最好的深度学习算法简化训练神经网络的过程。包含了很多“开箱即用”的工具，支持 Vision、Collab 等模型。示例代码：
 ```python
 # here's how to train an MNIST model using resnet18
 untar_data(MNIST_PATH)
@@ -286,6 +261,31 @@ data = image_data_from_folder(MNIST_PATH)
 learn = create_cnn(data, tvm.resnet18, metrics=accuracy)
 learn.fit(1)
 ```
+
+
+### 其它
+24、[Best-websites-a-programmer-should-visit](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sdmg15/Best-websites-a-programmer-should-visit)：程序员应该放到收藏夹的网站。[中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
+
+
+25、[lemonade-stand](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nayafia/lemonade-stand)：《开源项目挣钱实用手册》[中文版](https://github.com/wizicer/FinancialSupportForOpenSource)
+
+
+26、[Linux-Tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/judasn/Linux-Tutorial)：Java 程序员眼中的 Linux
+
+
+27、[ProgrammingFonts](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ProgrammingFonts/ProgrammingFonts)：适合程序员的编程字体的集合，现在有 30 多种奇妙的字体
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/40389983.png' style="max-width:80%; max-height=80%;"></img></p>
+
+28、[search-engine-optimization](https://hellogithub.com/periodical/statistics/click?target=https://github.com/marcobiedermann/search-engine-optimization)：（英文）这个项目收集了很多 SEO 优化的建议
+
+
+### 开源书籍
+29、[sdn-handbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/feiskyer/sdn-handbook)：有关 SDN 的资料和书籍非常丰富，但入门和学习 SDN 依然是非常困难。该项目整理了 SDN 实践中的一些基本理论和实践案例心得，希望大家看完后有所收获
+
+
+30、[write-you-a-haskell](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sdiehl/write-you-a-haskell)：（英文）《Write You a Haskell》
 
 
 
@@ -316,7 +316,7 @@ learn.fit(1)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

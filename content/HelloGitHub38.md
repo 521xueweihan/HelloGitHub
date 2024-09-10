@@ -210,39 +210,8 @@ Modified var:.. number = 3
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/129322624.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-25、[3d-game-shaders-for-beginners](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lettier/3d-game-shaders-for-beginners)：有关如何为 3D 游戏实施 SSAO、景深、照明、法线贴图等效果的教程。包含示例代码（C++）与 Demo，更便于理解和学习
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/186309296.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-26、[algo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wangzheng0822/algo)：必知必会的数据结构和算法代码答案（多种编程语言）
-
-
-27、[commit-messages-guide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/RomuloOliveira/commit-messages-guide)：Git 提交描述（commit）的编写指南，[中文](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README_zh-CN.md)
-
-
-28、[hacker-laws](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dwmkerr/hacker-laws)：程序员工作中可能使用到的定律、原则的讲解，这些原则多应用于我们的开发和设计中，开卷有益
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/118858739.png' style="max-width:80%; max-height=80%;"></img></p>
-
-29、[vim-bootstrap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/editor-bootstrap/vim-bootstrap)：一个简单、易用的 `.vimrc` 配置文件生成工具，也可通过[网站](https://vim-bootstrap.com/)点选生成。支持 Vim、NeoVim、NeoVim-Qt、MacVim 和 GVim。特点：
-- 轻量：包含少且必要的插件
-- 易用：适合在vim中成功存活的入门者
-- 易于定制：只需选择使用的语言,即可获得对应配置
-- 先进的插件管理器：使用 Vim-Plug 管理插件，简单易用、速度快
-- 支持多种编程语言
-
-
-30、[vscode-extension-samples](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/vscode-extension-samples)：官方 VS Code 开发扩展插件的代码实例集合
-
-
-31、[weekly](https://hellogithub.com/periodical/statistics/click?target=https://github.com/aliyunfe/weekly)：《阿里云前端技术周刊》
-
-
-### 机器学习
-32、[BentoML](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bentoml/BentoML)：一个机器学习工具用来打包和发布模型。帮助数据科学家用不到 5 分钟把在 ipython notebook 里的模型发布到生产环境
+### 人工智能
+25、[BentoML](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bentoml/BentoML)：一个机器学习工具用来打包和发布模型。帮助数据科学家用不到 5 分钟把在 ipython notebook 里的模型发布到生产环境
 ```python
 %%writefile iris_classifier.py
 from bentoml import BentoService, api, env, artifacts
@@ -263,18 +232,49 @@ class IrisClassifier(BentoService):
 ```
 
 
-33、[lihang-code](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fengdu78/lihang-code)：机器学习领域经典书籍《统计学习方法》的课件和代码。这个项目提供了课件、代码资源，叙述从具体问题或实例入手，由浅入深，阐明思路，给出必要的数学推导，便于读者掌握统计学习方法的实质，学会运用
+26、[lihang-code](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fengdu78/lihang-code)：机器学习领域经典书籍《统计学习方法》的课件和代码。这个项目提供了课件、代码资源，叙述从具体问题或实例入手，由浅入深，阐明思路，给出必要的数学推导，便于读者掌握统计学习方法的实质，学会运用
 
 
-34、[maskrcnn-benchmark](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facebookresearch/maskrcnn-benchmark)：Facebook 开源的 PyTorch 版本的 Mask-RCNN。研究人员可以按照教程、示例代码逐步进行实现
+27、[maskrcnn-benchmark](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facebookresearch/maskrcnn-benchmark)：Facebook 开源的 PyTorch 版本的 Mask-RCNN。研究人员可以按照教程、示例代码逐步进行实现
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/154542095.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[mlcourse.ai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Yorko/mlcourse.ai)：一套机器学习课程。课程全面细致，同时带有 demo 以及进阶的 Kaggle 比赛的样例，非常适合初学者逐步的深入学习
+28、[mlcourse.ai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Yorko/mlcourse.ai)：一套机器学习课程。课程全面细致，同时带有 demo 以及进阶的 Kaggle 比赛的样例，非常适合初学者逐步的深入学习
 
 
-36、[stanford-cs-229-machine-learning](https://hellogithub.com/periodical/statistics/click?target=https://github.com/afshinea/stanford-cs-229-machine-learning)：斯坦福 CS229 教程讲义文档，该文档内容细致、条理清晰，方便入门者作为读书笔记学习。[中文版](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/zh)
+29、[stanford-cs-229-machine-learning](https://hellogithub.com/periodical/statistics/click?target=https://github.com/afshinea/stanford-cs-229-machine-learning)：斯坦福 CS229 教程讲义文档，该文档内容细致、条理清晰，方便入门者作为读书笔记学习。[中文版](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/zh)
+
+
+### 其它
+30、[3d-game-shaders-for-beginners](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lettier/3d-game-shaders-for-beginners)：有关如何为 3D 游戏实施 SSAO、景深、照明、法线贴图等效果的教程。包含示例代码（C++）与 Demo，更便于理解和学习
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/186309296.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+31、[algo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wangzheng0822/algo)：必知必会的数据结构和算法代码答案（多种编程语言）
+
+
+32、[commit-messages-guide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/RomuloOliveira/commit-messages-guide)：Git 提交描述（commit）的编写指南，[中文](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README_zh-CN.md)
+
+
+33、[hacker-laws](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dwmkerr/hacker-laws)：程序员工作中可能使用到的定律、原则的讲解，这些原则多应用于我们的开发和设计中，开卷有益
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/118858739.png' style="max-width:80%; max-height=80%;"></img></p>
+
+34、[vim-bootstrap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/editor-bootstrap/vim-bootstrap)：一个简单、易用的 `.vimrc` 配置文件生成工具，也可通过[网站](https://vim-bootstrap.com/)点选生成。支持 Vim、NeoVim、NeoVim-Qt、MacVim 和 GVim。特点：
+- 轻量：包含少且必要的插件
+- 易用：适合在vim中成功存活的入门者
+- 易于定制：只需选择使用的语言,即可获得对应配置
+- 先进的插件管理器：使用 Vim-Plug 管理插件，简单易用、速度快
+- 支持多种编程语言
+
+
+35、[vscode-extension-samples](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/vscode-extension-samples)：官方 VS Code 开发扩展插件的代码实例集合
+
+
+36、[weekly](https://hellogithub.com/periodical/statistics/click?target=https://github.com/aliyunfe/weekly)：《阿里云前端技术周刊》
 
 
 
@@ -305,7 +305,7 @@ class IrisClassifier(BentoService):
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

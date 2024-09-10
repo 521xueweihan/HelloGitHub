@@ -282,13 +282,29 @@ ac.showPhotoLibrary(sender: self)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/47162528.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+24、[computervision-recipes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/computervision-recipes)：计算机视觉系统最佳实践，包含各种 CV 示例项目。示例使用 PytTorch 深度学习库+ Jupyter 文件，涵盖：图像分类、相似、识别、追踪等方面，适合对图像方面感兴趣的小伙伴阅读和学习
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/170161374.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+25、[nsfw-filter](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nsfw-filter/nsfw-filter)：基于 tensefow.js 实现的过滤 NSFW（裸露、暴力等）图片的浏览器插件
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/278011746.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+26、[seq2seq-couplet](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wb14123/seq2seq-couplet)：基于深度学习的对对联项目，你出上联它自动生成下联。我尝试了下，对得三观很正，还挺有意思。[在线尝试](https://ai.binwang.me/couplet/)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/122696125.png' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-24、[Halfrost-Field](https://hellogithub.com/periodical/statistics/click?target=https://github.com/halfrost/Halfrost-Field)：前阿里巴巴资深后端工程师“霜神”的技术博客，分享前、后端的技术干货。作者日常工作语言是 Go，在进入阿里巴巴之前，做了几年前端工作。文章内容包含：机器学习、Go、JS、iOS、网络协议等系列
+27、[Halfrost-Field](https://hellogithub.com/periodical/statistics/click?target=https://github.com/halfrost/Halfrost-Field)：前阿里巴巴资深后端工程师“霜神”的技术博客，分享前、后端的技术干货。作者日常工作语言是 Go，在进入阿里巴巴之前，做了几年前端工作。文章内容包含：机器学习、Go、JS、iOS、网络协议等系列
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/86981606.png' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[hexo-theme-matery](https://hellogithub.com/periodical/statistics/click?target=https://github.com/blinkfox/hexo-theme-matery)：一款采用 Material Design 和响应式设计的 Hexo 博客主题。特点：
+28、[hexo-theme-matery](https://hellogithub.com/periodical/statistics/click?target=https://github.com/blinkfox/hexo-theme-matery)：一款采用 Material Design 和响应式设计的 Hexo 博客主题。特点：
 - 响应式设计，博客在桌面端、平板、手机等设备上均能很好的展现
 - 首页轮播文章及每天动态切换 Banner 图片
 - 时间轴式的归档页
@@ -300,7 +316,7 @@ ac.showPhotoLibrary(sender: self)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/146325535.png' style="max-width:80%; max-height=80%;"></img></p>
 
-26、[highlight.js](https://hellogithub.com/periodical/statistics/click?target=https://github.com/highlightjs/highlight.js)：让网页上的代码实现高亮的 JS 库，给代码点颜色瞧瞧。支持多种编程语言和样式，使用简单。示例代码：
+29、[highlight.js](https://hellogithub.com/periodical/statistics/click?target=https://github.com/highlightjs/highlight.js)：让网页上的代码实现高亮的 JS 库，给代码点颜色瞧瞧。支持多种编程语言和样式，使用简单。示例代码：
 ```html
 <link rel="stylesheet" href="/path/to/styles/default.css">
 <script src="/path/to/highlight.min.js"></script>
@@ -311,47 +327,31 @@ ac.showPhotoLibrary(sender: self)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/1213225.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[L-ink_Card](https://hellogithub.com/periodical/statistics/click?target=https://github.com/peng-zhihui/L-ink_Card)：该项目包含了制作一个迷你 NFC 智能卡的代码和教程。野生钢铁侠稚晖出品的[演示视频](https://www.bilibili.com/video/BV1Cf4y1y7KT/)，他还制作了很多别的有趣的东西，大家可以去看看很有意思
+30、[L-ink_Card](https://hellogithub.com/periodical/statistics/click?target=https://github.com/peng-zhihui/L-ink_Card)：该项目包含了制作一个迷你 NFC 智能卡的代码和教程。野生钢铁侠稚晖出品的[演示视频](https://www.bilibili.com/video/BV1Cf4y1y7KT/)，他还制作了很多别的有趣的东西，大家可以去看看很有意思
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/273689548.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[lite](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rxi/lite)：一款用 Lua 编写的超级轻量级的文本编辑器。在 Windows 下的 exe 文件虽然只有 300KB 左右，但颜值、功能和速度却一点都不差，甚至还支持使用自定义插件、配色主题等功能。小而美的文本编辑器
+31、[lite](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rxi/lite)：一款用 Lua 编写的超级轻量级的文本编辑器。在 Windows 下的 exe 文件虽然只有 300KB 左右，但颜值、功能和速度却一点都不差，甚至还支持使用自定义插件、配色主题等功能。小而美的文本编辑器
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/230599151.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[ntfstool](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ntfstool/ntfstool)：一款为苹果电脑提供 NTFS 读写支持的免费工具。有了它就可以很方便的在苹果电脑上读写，从 Windows 系统拷贝数据的 U 盘和移动硬盘等。[安装说明](https://github.com/ntfstool/ntfstool/blob/master/README-CN.md)
+32、[ntfstool](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ntfstool/ntfstool)：一款为苹果电脑提供 NTFS 读写支持的免费工具。有了它就可以很方便的在苹果电脑上读写，从 Windows 系统拷贝数据的 U 盘和移动硬盘等。[安装说明](https://github.com/ntfstool/ntfstool/blob/master/README-CN.md)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/242364937.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-30、[jshistory-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/doodlewind/jshistory-cn)：《JavaScript 20 年》中文版。[在线阅读](https://cn.history.js.org/)
+33、[jshistory-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/doodlewind/jshistory-cn)：《JavaScript 20 年》中文版。[在线阅读](https://cn.history.js.org/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/255242703.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[trpl-zh-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/KaiserY/trpl-zh-cn)：《Rust 程序设计语言（第二版）》中文翻译。[在线阅读](https://kaisery.github.io/trpl-zh-cn/)
+34、[trpl-zh-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/KaiserY/trpl-zh-cn)：《Rust 程序设计语言（第二版）》中文翻译。[在线阅读](https://kaisery.github.io/trpl-zh-cn/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/80980931.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-32、[computervision-recipes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/computervision-recipes)：计算机视觉系统最佳实践，包含各种 CV 示例项目。示例使用 PytTorch 深度学习库+ Jupyter 文件，涵盖：图像分类、相似、识别、追踪等方面，适合对图像方面感兴趣的小伙伴阅读和学习
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/170161374.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-33、[nsfw-filter](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nsfw-filter/nsfw-filter)：基于 tensefow.js 实现的过滤 NSFW（裸露、暴力等）图片的浏览器插件
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/278011746.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-34、[seq2seq-couplet](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wb14123/seq2seq-couplet)：基于深度学习的对对联项目，你出上联它自动生成下联。我尝试了下，对得三观很正，还挺有意思。[在线尝试](https://ai.binwang.me/couplet/)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/54/122696125.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -381,7 +381,7 @@ ac.showPhotoLibrary(sender: self)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

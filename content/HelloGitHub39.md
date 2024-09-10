@@ -237,36 +237,19 @@ Downloading 完整版第五期：陈晓卿 中国有俩行当门槛极低——�
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/55126195.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-27、[ChineseBQB](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zhaoolee/ChineseBQB)：表情包资源库，我悄悄的下了好几张，终于可以在群里挺起腰板了
+### 人工智能
+27、[awesome-bert](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Jiakui/awesome-bert)：与 bert 相关的 nlp 论文、应用、资源集合。紧跟自然语言处理发展前沿，便于加速开展相关研究工作
 
 
-28、[fe-necessary-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ddzy/fe-necessary-book)：该项目主要是分享一些技术书籍，也会不定期分享一些开发者必备的软件、工具包、社区、相亲等程序员相关的资源。放松的时候来看看挺不错的✌️
+28、[deeplearning-models](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rasbt/deeplearning-models)：各种深度学习架构、模型和技巧的集合。TensorFlow 和 PyTorch 的各种深度学习架构、模型和技巧的 Jupyter 集合，非常适合学习
 
 
-29、[most-frequent-technology-english-words](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Wei-Xia/most-frequent-technology-english-words)：程序员工作中常见、应知应会的英语词汇列表。该列表中的单词是英语类计算机书籍、文档、文章中高频常见的技术词汇。最终目的是希望程序员结合自身的英语基础，在掌握列表中的词汇后，可以无障碍阅读英语技术文章和文档
-
-
-30、[papers-notebook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dyweb/papers-notebook)：论文阅读笔记，包含：分布式、虚拟化、容器、机器学习等方面。可以作为学习计算机部分专业论文的入门资料
-
-
-### 开源书籍
-31、[The-Hacker-Playbook-3-Translation](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Snowming04/The-Hacker-Playbook-3-Translation)：《The Hacker Playbook 3》中文翻译版（渗透测试实战红队第三版）
-
-
-### 机器学习
-32、[awesome-bert](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Jiakui/awesome-bert)：与 bert 相关的 nlp 论文、应用、资源集合。紧跟自然语言处理发展前沿，便于加速开展相关研究工作
-
-
-33、[deeplearning-models](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rasbt/deeplearning-models)：各种深度学习架构、模型和技巧的集合。TensorFlow 和 PyTorch 的各种深度学习架构、模型和技巧的 Jupyter 集合，非常适合学习
-
-
-34、[ImageMiniLab](https://hellogithub.com/periodical/statistics/click?target=https://github.com/itisyang/ImageMiniLab)：图像迷你实验室，可进行图像实验、处理、分析。使用 PyQt5 结合 opencv-python 实现代码简洁易读，通过该工具可以快速演示图像算法效果，便于 cv 入门学习
+29、[ImageMiniLab](https://hellogithub.com/periodical/statistics/click?target=https://github.com/itisyang/ImageMiniLab)：图像迷你实验室，可进行图像实验、处理、分析。使用 PyQt5 结合 opencv-python 实现代码简洁易读，通过该工具可以快速演示图像算法效果，便于 cv 入门学习
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/39/92602736.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[PyTorch-NLP](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PetrochukM/PyTorch-NLP)：简称 torchnlp 是一个支持快速原型设计（包括数据集和神经网络层）的 PyTorch-NLP 工具包。该库封装好了神经网络层、文本处理模块和数据集库，有利于加速自然语言处理研究和实践。示例代码：
+30、[PyTorch-NLP](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PetrochukM/PyTorch-NLP)：简称 torchnlp 是一个支持快速原型设计（包括数据集和神经网络层）的 PyTorch-NLP 工具包。该库封装好了神经网络层、文本处理模块和数据集库，有利于加速自然语言处理研究和实践。示例代码：
 ```python
 # Load a Dataset
 from torchnlp.datasets import imdb_dataset
@@ -287,7 +270,24 @@ dropout(input_) # RETURNS: torch.FloatTensor (6x3x10)
 ```
 
 
-36、[xlnet](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zihangdai/xlnet)：CMU 全新 XLNet 预训练模型。BERT 带来的影响还未平复，CMU 与谷歌大脑提出的 XLNet 在 20 个任务上的表现超过了 BERT，并在 18 个任务上取得了当前最佳效果。令人激动的是目前 XLNet 已经开放了训练代码和大型预训练模型，这回又有的玩了
+31、[xlnet](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zihangdai/xlnet)：CMU 全新 XLNet 预训练模型。BERT 带来的影响还未平复，CMU 与谷歌大脑提出的 XLNet 在 20 个任务上的表现超过了 BERT，并在 18 个任务上取得了当前最佳效果。令人激动的是目前 XLNet 已经开放了训练代码和大型预训练模型，这回又有的玩了
+
+
+### 其它
+32、[ChineseBQB](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zhaoolee/ChineseBQB)：表情包资源库，我悄悄的下了好几张，终于可以在群里挺起腰板了
+
+
+33、[fe-necessary-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ddzy/fe-necessary-book)：该项目主要是分享一些技术书籍，也会不定期分享一些开发者必备的软件、工具包、社区、相亲等程序员相关的资源。放松的时候来看看挺不错的✌️
+
+
+34、[most-frequent-technology-english-words](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Wei-Xia/most-frequent-technology-english-words)：程序员工作中常见、应知应会的英语词汇列表。该列表中的单词是英语类计算机书籍、文档、文章中高频常见的技术词汇。最终目的是希望程序员结合自身的英语基础，在掌握列表中的词汇后，可以无障碍阅读英语技术文章和文档
+
+
+35、[papers-notebook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dyweb/papers-notebook)：论文阅读笔记，包含：分布式、虚拟化、容器、机器学习等方面。可以作为学习计算机部分专业论文的入门资料
+
+
+### 开源书籍
+36、[The-Hacker-Playbook-3-Translation](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Snowming04/The-Hacker-Playbook-3-Translation)：《The Hacker Playbook 3》中文翻译版（渗透测试实战红队第三版）
 
 
 
@@ -318,7 +318,7 @@ dropout(input_) # RETURNS: torch.FloatTensor (6x3x10)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

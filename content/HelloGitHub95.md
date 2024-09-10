@@ -239,40 +239,14 @@ client.index('movies').add_documents([
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/193162629.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-32、[CorsixTH](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CorsixTH/CorsixTH)：主题医院游戏开源复刻版。该项目是采用 Lua 和 C++ 重新制作的经典模拟经营游戏《主题医院》，它在保留了原游戏经典玩法的基础上，增加了对现代操作系统（Windows、Linux 和 macOS）、中文语言以及高分辨率的支持。需要注意的是安装游戏后，无法立即运行，因为游戏的数据需要单独下载。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/12363387.png' style="max-width:80%; max-height=80%;"></img></p>
-
-33、[foc-wheel-legged-robot](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Skythinker616/foc-wheel-legged-robot)：一个新型结构的双轮腿机器人。该项目包含了制作这款机器人所需的全部资料，包括机械结构设计、电子硬件、算法仿真和源码等，制作的物料成本在 700 元左右。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/666305969.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-34、[h5player](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xxxily/h5player)：网页播放器增强插件。这是一款浏览器插件，支持网页视频倍速/加速播放、截图、画中画、直播同步和下载等功能，适用于国外各大主流视频网站。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/180923631.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-35、[system-design-101](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ByteByteGoHq/system-design-101)：图文并茂的系统设计入门教程。该项目通过通俗易懂的文字和简洁明了的示意图，讲解系统设计的基础知识以及深层的工作原理的入门级教程。无论你是初学者还是准备面试的程序员，在这里都能有所收获。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/693342566.png' style="max-width:80%; max-height=80%;"></img></p>
-
-36、[wsl2-distro-manager](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bostrot/wsl2-distro-manager)：WSL 发行版图形管理工具。该项目是一个基于 Flutter 开发的 WSL 管理小工具，它提供了一个友好的图形化界面，让用户可以轻松配置、复制或转换 WSL 实例，免去了繁琐的命令操作。特别适合新手使用，不用再担心把 WSL 折腾坏了。来自 [@mtig](https://hellogithub.com/user/tuFM0egcAO3Gamo) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/407645904.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 开源书籍
-37、[Hypervisor-From-Scratch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/SinaKarvandi/Hypervisor-From-Scratch)：《从零创建虚拟机管理程序》。该项目提供了一个从头开始构建虚拟机监控程序的教程，内容涵盖基本概念、硬件虚拟化的技术细节以及源码等方面。帮助开发者了解虚拟机的工作原理，并一步步构建自己的虚拟机监控程序。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/147253230.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-38、[llm-viz](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bbycroft/llm-viz)：3D 可视化 GPT 大语言模型。该项目通过 3D 可视化的方式，演示了类似 GPT 的大语言模型的工作原理和推理过程。
+### 人工智能
+32、[llm-viz](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bbycroft/llm-viz)：3D 可视化 GPT 大语言模型。该项目通过 3D 可视化的方式，演示了类似 GPT 的大语言模型的工作原理和推理过程。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/608057177.png' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[nn-zero-to-hero](https://hellogithub.com/periodical/statistics/click?target=https://github.com/karpathy/nn-zero-to-hero)：从零到神经网络高手。这是一门从基础开始的神经网络课程，包含视频、练习和配套源码，帮助初学者初逐步掌握神经网络的基本概念，并通过实例代码来加深理解。
+33、[nn-zero-to-hero](https://hellogithub.com/periodical/statistics/click?target=https://github.com/karpathy/nn-zero-to-hero)：从零到神经网络高手。这是一门从基础开始的神经网络课程，包含视频、练习和配套源码，帮助初学者初逐步掌握神经网络的基本概念，并通过实例代码来加深理解。
 
-40、[pandas-ai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Sinaptik-AI/pandas-ai)：数据分析对话化的开源库。该项目将 AIGC 和数据分析相结合，让用户可以通过自然语言向自己的数据进行提问，并获得相应的回答。首先，需要将数据以 pandas 的方式进行导入，然后配置好 OpenAI TOKEN 就可以开始通过对话和绘制图表等方式与数据进行交互，而无需编写代码。
+34、[pandas-ai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Sinaptik-AI/pandas-ai)：数据分析对话化的开源库。该项目将 AIGC 和数据分析相结合，让用户可以通过自然语言向自己的数据进行提问，并获得相应的回答。首先，需要将数据以 pandas 的方式进行导入，然后配置好 OpenAI TOKEN 就可以开始通过对话和绘制图表等方式与数据进行交互，而无需编写代码。
 ```python
 import pandas as pd
 from pandasai import SmartDataframe
@@ -292,9 +266,35 @@ df = SmartDataframe(df, config={"llm": llm})
 df.chat('Which are the 5 happiest countries?')
 ```
 
-41、[PhotoMaker](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TencentARC/PhotoMaker)：AI 生成各种风格人类照片的工具。该项目可以通过上传的人物照片，生成任意风格的人物图像，如写实、卡通、艺术等风格，可用于生成别具一格的头像。
+35、[PhotoMaker](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TencentARC/PhotoMaker)：AI 生成各种风格人类照片的工具。该项目可以通过上传的人物照片，生成任意风格的人物图像，如写实、卡通、艺术等风格，可用于生成别具一格的头像。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/728086859.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+36、[CorsixTH](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CorsixTH/CorsixTH)：主题医院游戏开源复刻版。该项目是采用 Lua 和 C++ 重新制作的经典模拟经营游戏《主题医院》，它在保留了原游戏经典玩法的基础上，增加了对现代操作系统（Windows、Linux 和 macOS）、中文语言以及高分辨率的支持。需要注意的是安装游戏后，无法立即运行，因为游戏的数据需要单独下载。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/12363387.png' style="max-width:80%; max-height=80%;"></img></p>
+
+37、[foc-wheel-legged-robot](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Skythinker616/foc-wheel-legged-robot)：一个新型结构的双轮腿机器人。该项目包含了制作这款机器人所需的全部资料，包括机械结构设计、电子硬件、算法仿真和源码等，制作的物料成本在 700 元左右。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/666305969.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+38、[h5player](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xxxily/h5player)：网页播放器增强插件。这是一款浏览器插件，支持网页视频倍速/加速播放、截图、画中画、直播同步和下载等功能，适用于国外各大主流视频网站。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/180923631.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+39、[system-design-101](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ByteByteGoHq/system-design-101)：图文并茂的系统设计入门教程。该项目通过通俗易懂的文字和简洁明了的示意图，讲解系统设计的基础知识以及深层的工作原理的入门级教程。无论你是初学者还是准备面试的程序员，在这里都能有所收获。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/693342566.png' style="max-width:80%; max-height=80%;"></img></p>
+
+40、[wsl2-distro-manager](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bostrot/wsl2-distro-manager)：WSL 发行版图形管理工具。该项目是一个基于 Flutter 开发的 WSL 管理小工具，它提供了一个友好的图形化界面，让用户可以轻松配置、复制或转换 WSL 实例，免去了繁琐的命令操作。特别适合新手使用，不用再担心把 WSL 折腾坏了。来自 [@mtig](https://hellogithub.com/user/tuFM0egcAO3Gamo) 的分享
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/407645904.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 开源书籍
+41、[Hypervisor-From-Scratch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/SinaKarvandi/Hypervisor-From-Scratch)：《从零创建虚拟机管理程序》。该项目提供了一个从头开始构建虚拟机监控程序的教程，内容涵盖基本概念、硬件虚拟化的技术细节以及源码等方面。帮助开发者了解虚拟机的工作原理，并一步步构建自己的虚拟机监控程序。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/147253230.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -324,7 +324,7 @@ df.chat('Which are the 5 happiest countries?')
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

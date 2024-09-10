@@ -225,50 +225,12 @@ Average complexity: F (61.0)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/511961615.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-31、[dart_simple_live](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xiaoyaocz/dart_simple_live)：简单易用的看直播工具。该项目可以让你在一个 APP 上看各种主流直播平台，并提供了 Android、iOS、macOS 和 Android TV 等客户端。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/607042713.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-32、[github-readme-terminal](https://hellogithub.com/periodical/statistics/click?target=https://github.com/x0rzavi/github-readme-terminal)：用复古终端 GIF 展示 GitHub 个人资料。该项目可以根据你的 GitHub 个人数据，生成复古风格的电脑启动 GIF 动画，展示你的 GitHub 个人资料。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/719900617.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-33、[hugo-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alex-shpak/hugo-book)：书籍风格的 Hugo 主题。这是一个开源的 Hugo 主题，能够帮助用户轻松创建类似书籍的文档网站。它拥有简洁的设计、适配移动端、支持多语言，适用于技术文档、在线教程和书籍等场景。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/147530276.png' style="max-width:80%; max-height=80%;"></img></p>
-
-34、[OMOTE](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CoretechR/OMOTE)：开源的通用遥控器。该项目是用 ESP32 制作的通用遥控器，它拥有 2.8 英寸电容触摸屏、2000 毫安电池和实体按键，支持红外、WiFi 和蓝牙连接方式，能够控制各种家电。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/655304519.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-35、[pintree](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Pintree-io/pintree)：Chrome 书签变成导航站。该项目可以通过简单的几步，将 Chrome 浏览器的书签，转换成一个美观且易用的导航页面。由于生成的是静态网站，因此无法自动同步新增的书签。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/815891082.png' style="max-width:80%; max-height=80%;"></img></p>
-
-36、[Scoop](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ScoopInstaller/Scoop)：Windows 命令行安装软件的利器。该项目是类似于 Homebrew 的 Windows 命令行安装工具。它可以从命令行安装应用程序，具有消除权限弹窗、隐藏 GUI 向导、自动处理依赖和防止污染 PATH 环境变量等特点。
-```
-scoop install sudo
-sudo scoop install 7zip git openssh --global
-scoop install aria2 curl grep sed less touch
-scoop install python ruby go perl
-```
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/9994688.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-### 开源书籍
-37、[introduction-to-git-and-github-ebook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)：《Git 和 GitHub 入门指南》。这是一本介绍 Git 和 GitHub 基础知识的开源书籍，内容包括安装 Git、GitHub CLI、分支管理和工作流程等实用知识。
-
-38、[machine-learning-for-trading](https://hellogithub.com/periodical/statistics/click?target=https://github.com/stefan-jansen/machine-learning-for-trading)：《Machine Learning for Algorithmic Trading》配套代码。这是一本关于如何将机器学习应用于交易策略的书籍，该项目是书籍的配套代码和资源，包含 150 多个代码示例，涵盖了数据采集、模型训练和策略评估等方面。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/132754148.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-39、[gpt-computer-assistant](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Upsonic/gpt-computer-assistant)：极简的 GPT-4o 客户端。该项目是适用于 Windows、macOS 和 Ubuntu 的 GPT-4o 客户端，它拥有极简的用户界面，支持执行多种任务，包括读取屏幕、打开应用、系统音频和文本输入等。
+### 人工智能
+31、[gpt-computer-assistant](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Upsonic/gpt-computer-assistant)：极简的 GPT-4o 客户端。该项目是适用于 Windows、macOS 和 Ubuntu 的 GPT-4o 客户端，它拥有极简的用户界面，支持执行多种任务，包括读取屏幕、打开应用、系统音频和文本输入等。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/806192576.png' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[mem0](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mem0ai/mem0)：增强 LLM 上下文连续性的 Python 库。该项目能为多种主流的大型语言模型提供记忆层，它支持保存用户与 LLM 交互时的会话和上下文，并能实时动态更新和调整，从而增强 AI 的个性化，适用于学习助手、医疗助理和虚拟伴侣等需要长期记忆的个性化 LLM 应用。
+32、[mem0](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mem0ai/mem0)：增强 LLM 上下文连续性的 Python 库。该项目能为多种主流的大型语言模型提供记忆层，它支持保存用户与 LLM 交互时的会话和上下文，并能实时动态更新和调整，从而增强 AI 的个性化，适用于学习助手、医疗助理和虚拟伴侣等需要长期记忆的个性化 LLM 应用。
 ```python
 from mem0 import Memory
 m = Memory()
@@ -280,9 +242,47 @@ related_memories = m.search(query="What are Alice's hobbies?", user_id="alice")
 result = m.update(memory_id="m1", data="Likes to play tennis on weekends")
 ```
 
-41、[Retrieval-based-Voice-Conversion-WebUI](https://hellogithub.com/periodical/statistics/click?target=https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)：开箱即用的 AI 变声器。该项目是基于 VITS 的变声框架，仅需少量语音数据和普通的显卡，就能快速训练出高质量的语音转换模型。它提供了简单易用的 Web 和 GUI 界面，支持实时变声、人声和伴奏分离等功能。
+33、[Retrieval-based-Voice-Conversion-WebUI](https://hellogithub.com/periodical/statistics/click?target=https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)：开箱即用的 AI 变声器。该项目是基于 VITS 的变声框架，仅需少量语音数据和普通的显卡，就能快速训练出高质量的语音转换模型。它提供了简单易用的 Web 和 GUI 界面，支持实时变声、人声和伴奏分离等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/619521008.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+34、[dart_simple_live](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xiaoyaocz/dart_simple_live)：简单易用的看直播工具。该项目可以让你在一个 APP 上看各种主流直播平台，并提供了 Android、iOS、macOS 和 Android TV 等客户端。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/607042713.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+35、[github-readme-terminal](https://hellogithub.com/periodical/statistics/click?target=https://github.com/x0rzavi/github-readme-terminal)：用复古终端 GIF 展示 GitHub 个人资料。该项目可以根据你的 GitHub 个人数据，生成复古风格的电脑启动 GIF 动画，展示你的 GitHub 个人资料。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/719900617.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+36、[hugo-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alex-shpak/hugo-book)：书籍风格的 Hugo 主题。这是一个开源的 Hugo 主题，能够帮助用户轻松创建类似书籍的文档网站。它拥有简洁的设计、适配移动端、支持多语言，适用于技术文档、在线教程和书籍等场景。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/147530276.png' style="max-width:80%; max-height=80%;"></img></p>
+
+37、[OMOTE](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CoretechR/OMOTE)：开源的通用遥控器。该项目是用 ESP32 制作的通用遥控器，它拥有 2.8 英寸电容触摸屏、2000 毫安电池和实体按键，支持红外、WiFi 和蓝牙连接方式，能够控制各种家电。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/655304519.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+38、[pintree](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Pintree-io/pintree)：Chrome 书签变成导航站。该项目可以通过简单的几步，将 Chrome 浏览器的书签，转换成一个美观且易用的导航页面。由于生成的是静态网站，因此无法自动同步新增的书签。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/815891082.png' style="max-width:80%; max-height=80%;"></img></p>
+
+39、[Scoop](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ScoopInstaller/Scoop)：Windows 命令行安装软件的利器。该项目是类似于 Homebrew 的 Windows 命令行安装工具。它可以从命令行安装应用程序，具有消除权限弹窗、隐藏 GUI 向导、自动处理依赖和防止污染 PATH 环境变量等特点。
+```
+scoop install sudo
+sudo scoop install 7zip git openssh --global
+scoop install aria2 curl grep sed less touch
+scoop install python ruby go perl
+```
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/9994688.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+### 开源书籍
+40、[introduction-to-git-and-github-ebook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)：《Git 和 GitHub 入门指南》。这是一本介绍 Git 和 GitHub 基础知识的开源书籍，内容包括安装 Git、GitHub CLI、分支管理和工作流程等实用知识。
+
+41、[machine-learning-for-trading](https://hellogithub.com/periodical/statistics/click?target=https://github.com/stefan-jansen/machine-learning-for-trading)：《Machine Learning for Algorithmic Trading》配套代码。这是一本关于如何将机器学习应用于交易策略的书籍，该项目是书籍的配套代码和资源，包含 150 多个代码示例，涵盖了数据采集、模型训练和策略评估等方面。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/132754148.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -312,7 +312,7 @@ result = m.update(memory_id="m1", data="Likes to play tennis on weekends")
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

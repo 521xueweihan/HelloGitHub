@@ -219,40 +219,12 @@ john = table.find_one(name='John Doe')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/13863130.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-34、[.tmux](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gpakosz/.tmux)：一份好看且通用的 tmux 配置文件。Tmux 是一个终端复用器，该项目包含了一份可以让 tmux 更漂亮、更好用的配置文件，以及详细的安装步骤。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/5526729.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-35、[ark-pixel-font](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TakWolf/ark-pixel-font)：开源的泛中日韩像素字体。为游戏开发提供了一套可用于正文的像素字体，目前完成了 1 万个左右的汉字(12px)。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/366474401.png' style="max-width:80%; max-height=80%;"></img></p>
-
-36、[bpf-developer-tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/eunomia-bpf/bpf-developer-tutorial)：从入门到进阶的 eBPF 开发者教程。这是一个基于 libbpf 和 CO-RE(一次编译，到处运行) 的 eBPF 教程，包括 eBPF 基本概念、代码实例、实际应用等内容，通过 20 个 eBPF 的小工具，来帮助开发者快速上手 eBPF。
-
-37、[ENGAGE](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TUDSSL/ENGAGE)：自制无电池的 GameBoy。该项目实现了没有电池、仅通过太阳能和游戏操作供电的 GameBoy。它可正常运行俄罗斯方块游戏，遇到电量耗尽时能保存游戏的当前进度，即重新启动游戏后，下落的方块会处于同一位置。是不是听起来很酷？这里包含制作该设备所需的一切，感兴趣的同学可以试一试。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/281764334.png' style="max-width:80%; max-height=80%;"></img></p>
-
-38、[GameDevMind](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gonglei007/GameDevMind)：全面的游戏开发技术图谱。该项目用思维导图的方式，展示了游戏开发需要具备的能力，包含技术栈、方法、工具、流程、管理、运营等方面。来自 [@gonglei007](https://hellogithub.com/user/dl593RYb28vQBki) 的分享
-
-39、[immersive-translate](https://hellogithub.com/periodical/statistics/click?target=https://github.com/immersive-translate/immersive-translate)：沉浸式双语网页翻译扩展。这是一个免费的翻译插件，可以在保留原文的情况下显示译文，支持接入 10 多种翻译服务，适用于 Chromium、Firefox、Safari 等浏览器。项目处于闭源开发的状态，想要贡献代码的同学需要先申请。来自 [@浮生若夢](https://hellogithub.com/user/hKmH64UjOdwgCEi) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/575401013.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-### 开源书籍
-40、[PPHC](https://hellogithub.com/periodical/statistics/click?target=https://github.com/johnlui/PPHC)：《高并发的哲学原理》。这本书讨论的是 Web 服务高并发问题，内容由浅入深地介绍了 Apache、Nginx、epoll、交换机、k8s、数据库、分布式、微服务架构等解决高并发问题的技术和方案。来自 [@吕文翰](https://hellogithub.com/user/QkntmXFwR5yS7pr) 的分享
-
-41、[py_regular_expressions](https://hellogithub.com/periodical/statistics/click?target=https://github.com/learnbyexample/py_regular_expressions)：《Python 正则表达式从入门到精通》。这本书包含数百个示例和练习，涵盖了 Python 正则表达式从初级到高级的用法。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/165224631.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-42、[Bringing-Old-Photos-Back-to-Life](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)：通过深度学习修复老照片的工具。由微软开源的深度学习项目，可用于修复破损的老照片，修复效果显著。来自 [@lastone](https://hellogithub.com/user/y6WLMKXlxiH1b74) 的分享
+### 人工智能
+34、[Bringing-Old-Photos-Back-to-Life](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)：通过深度学习修复老照片的工具。由微软开源的深度学习项目，可用于修复破损的老照片，修复效果显著。来自 [@lastone](https://hellogithub.com/user/y6WLMKXlxiH1b74) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/274594200.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-43、[ChatGLM-6B](https://hellogithub.com/periodical/statistics/click?target=https://github.com/THUDM/ChatGLM-6B)：清华 KEG 开源的双语对话语言模型。这是一个基于 GLM 架构、具有 62 亿参数的中英双语对话语言模型，支持在单张 2080Ti 上进行推理使用。
+35、[ChatGLM-6B](https://hellogithub.com/periodical/statistics/click?target=https://github.com/THUDM/ChatGLM-6B)：清华 KEG 开源的双语对话语言模型。这是一个基于 GLM 架构、具有 62 亿参数的中英双语对话语言模型，支持在单张 2080Ti 上进行推理使用。
 ```python
 >>> from transformers import AutoTokenizer, AutoModel
 >>> tokenizer = AutoTokenizer.from_pretrained("THUDM/chatglm-6b", trust_remote_code=True)
@@ -265,13 +237,41 @@ john = table.find_one(name='John Doe')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/613349035.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-44、[DI-engine](https://hellogithub.com/periodical/statistics/click?target=https://github.com/opendilab/DI-engine)：OpenDILab 开源的决策 AI 平台。这是一个基于 PyTorch 的通用决策智能引擎，为开发者提供了 60+ 种算法、40+ 类型环境。支持各类定制化的训练和实际决策智能应用，比如游戏 AI、自动驾驶和生物序列预测等。
+36、[DI-engine](https://hellogithub.com/periodical/statistics/click?target=https://github.com/opendilab/DI-engine)：OpenDILab 开源的决策 AI 平台。这是一个基于 PyTorch 的通用决策智能引擎，为开发者提供了 60+ 种算法、40+ 类型环境。支持各类定制化的训练和实际决策智能应用，比如游戏 AI、自动驾驶和生物序列预测等。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/382787545.png' style="max-width:80%; max-height=80%;"></img></p>
 
-45、[llama.cpp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ggerganov/llama.cpp)：在笔记本上运行 LLaMA 大模型。该项目实现了在 CPU 上流畅运行 LLaMA 模型，支持 macOS、Linux、Windows 操作系统。
+37、[llama.cpp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ggerganov/llama.cpp)：在笔记本上运行 LLaMA 大模型。该项目实现了在 CPU 上流畅运行 LLaMA 模型，支持 macOS、Linux、Windows 操作系统。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/612354784.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+38、[.tmux](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gpakosz/.tmux)：一份好看且通用的 tmux 配置文件。Tmux 是一个终端复用器，该项目包含了一份可以让 tmux 更漂亮、更好用的配置文件，以及详细的安装步骤。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/5526729.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+39、[ark-pixel-font](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TakWolf/ark-pixel-font)：开源的泛中日韩像素字体。为游戏开发提供了一套可用于正文的像素字体，目前完成了 1 万个左右的汉字(12px)。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/366474401.png' style="max-width:80%; max-height=80%;"></img></p>
+
+40、[bpf-developer-tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/eunomia-bpf/bpf-developer-tutorial)：从入门到进阶的 eBPF 开发者教程。这是一个基于 libbpf 和 CO-RE(一次编译，到处运行) 的 eBPF 教程，包括 eBPF 基本概念、代码实例、实际应用等内容，通过 20 个 eBPF 的小工具，来帮助开发者快速上手 eBPF。
+
+41、[ENGAGE](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TUDSSL/ENGAGE)：自制无电池的 GameBoy。该项目实现了没有电池、仅通过太阳能和游戏操作供电的 GameBoy。它可正常运行俄罗斯方块游戏，遇到电量耗尽时能保存游戏的当前进度，即重新启动游戏后，下落的方块会处于同一位置。是不是听起来很酷？这里包含制作该设备所需的一切，感兴趣的同学可以试一试。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/281764334.png' style="max-width:80%; max-height=80%;"></img></p>
+
+42、[GameDevMind](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gonglei007/GameDevMind)：全面的游戏开发技术图谱。该项目用思维导图的方式，展示了游戏开发需要具备的能力，包含技术栈、方法、工具、流程、管理、运营等方面。来自 [@gonglei007](https://hellogithub.com/user/dl593RYb28vQBki) 的分享
+
+43、[immersive-translate](https://hellogithub.com/periodical/statistics/click?target=https://github.com/immersive-translate/immersive-translate)：沉浸式双语网页翻译扩展。这是一个免费的翻译插件，可以在保留原文的情况下显示译文，支持接入 10 多种翻译服务，适用于 Chromium、Firefox、Safari 等浏览器。项目处于闭源开发的状态，想要贡献代码的同学需要先申请。来自 [@浮生若夢](https://hellogithub.com/user/hKmH64UjOdwgCEi) 的分享
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/575401013.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+### 开源书籍
+44、[PPHC](https://hellogithub.com/periodical/statistics/click?target=https://github.com/johnlui/PPHC)：《高并发的哲学原理》。这本书讨论的是 Web 服务高并发问题，内容由浅入深地介绍了 Apache、Nginx、epoll、交换机、k8s、数据库、分布式、微服务架构等解决高并发问题的技术和方案。来自 [@吕文翰](https://hellogithub.com/user/QkntmXFwR5yS7pr) 的分享
+
+45、[py_regular_expressions](https://hellogithub.com/periodical/statistics/click?target=https://github.com/learnbyexample/py_regular_expressions)：《Python 正则表达式从入门到精通》。这本书包含数百个示例和练习，涵盖了 Python 正则表达式从初级到高级的用法。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/165224631.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -301,7 +301,7 @@ john = table.find_one(name='John Doe')
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

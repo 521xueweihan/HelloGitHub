@@ -262,70 +262,13 @@ if __name__ == "__main__":
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/206990697.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-29、[AppFlowy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AppFlowy-IO/AppFlowy)：开源笔记工具。基于 Flutter 开发适用于各种操作系统，目标是成为 Notion 的代替品
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/377496562.png' style="max-width:80%; max-height=80%;"></img></p>
-
-30、[design-resources-for-developers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bradtraversy/design-resources-for-developers)：设计资源集合。项目包含了图片、网站模版、CSS 框架、UI 等资源
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/261787758.png' style="max-width:80%; max-height=80%;"></img></p>
-
-31、[doomcaptcha](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vivirenremoto/doomcaptcha)：毁灭战士射击游戏形式的验证码。[在线尝试](https://vivirenremoto.github.io/doomcaptcha/)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/369767929.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-32、[koreader](https://hellogithub.com/periodical/statistics/click?target=https://github.com/koreader/koreader)：电子墨水（E-Ink）设备的开源阅读软件。适用于 Kindle、Kobo、PocketBook、Android 和 Linux 等设备，拥有设置字体、行距、文本样式等功能，最厉害的是适应水墨屏设备的 PDF 文件排版优化功能，极大的提高了 PDF 文件在 Kindle 等设备的阅读体验
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/8986217.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
-33、[penpot](https://hellogithub.com/periodical/statistics/click?target=https://github.com/penpot/penpot)：开源的设计和原型在线平台。它不仅完全免费还提供 Docker 自建和在线使用，而且支持中文和团队共享。缺点是平台提供的组件太少了，第一次上手需要自己从形状开始搞，不过可以自定义组件做到一劳永逸。如果你在寻找开源、免费的原型设计平台，不妨试试它。[在线尝试](https://penpot.app/)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/48769241.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-34、[Simula](https://hellogithub.com/periodical/statistics/click?target=https://github.com/SimulaVR/Simula)：Linux 上的 VR 窗口管理工具。通过该工具+VR 设备可轻松实现“目光所及皆桌面”的效果，它基于 Godot 开发安装简单实用方便，支持 HTC Vive Pro、Valve Index 等 VR 设备
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/88158457.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-35、[tabby](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Eugeny/tabby)：高颜值的终端工具。功能强大高度可配置，适用于 Windows、macOS、Linux 操作系统
-- 支持自定义主题和配色
-- 可配置快捷键和组合键
-- 集成了 SSH、Telnet 等连接
-- 分割窗口
-- 等等
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/77213120.png' style="max-width:80%; max-height=80%;"></img></p>
-
-36、[wsa_pacman](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alesimula/wsa_pacman)：轻松地在 Windows11 安装 Android 应用的桌面工具。使用该工具可以实现双击安装 Android 应用，基于系统自带的 WSA 实现，不需要安装第三方模拟器
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/423541572.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 开源书籍
-37、[everything-curl](https://hellogithub.com/periodical/statistics/click?target=https://github.com/curl/everything-curl)：《关于 curl 的所有东西》。由 curl 项目发起者撰写的书，内容包括 curl 入门、开源、源码、项目等方面。[在线阅读](https://everything.curl.dev/)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/43095089.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
-38、[school-of-sre](https://hellogithub.com/periodical/statistics/click?target=https://github.com/linkedin/school-of-sre)：领英开源的成为 SRE（网站可靠性工程师）的入门级教程。内容涵盖 Web、Linux、Git、计算机网络、数据库、安全等方面
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/307536107.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-39、[ML-For-Beginners](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/ML-For-Beginners)：微软开源的入门级机器学习教程
+### 人工智能
+29、[ML-For-Beginners](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/ML-For-Beginners)：微软开源的入门级机器学习教程
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/343965132.png' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[spleeter](https://hellogithub.com/periodical/statistics/click?target=https://github.com/deezer/spleeter)：基于 Tensorflow 实现的音轨分离工具。可以用于提取音乐中的人声、鼓、钢琴等乐器
+30、[spleeter](https://hellogithub.com/periodical/statistics/click?target=https://github.com/deezer/spleeter)：基于 Tensorflow 实现的音轨分离工具。可以用于提取音乐中的人声、鼓、钢琴等乐器
 ```
 # 用 conda 安装依赖
 conda install -c conda-forge ffmpeg libsndfile
@@ -335,6 +278,63 @@ pip install spleeter
 spleeter separate -p spleeter:2stems -o output 音频.mp3
 ```
 
+
+### 其它
+31、[AppFlowy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AppFlowy-IO/AppFlowy)：开源笔记工具。基于 Flutter 开发适用于各种操作系统，目标是成为 Notion 的代替品
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/377496562.png' style="max-width:80%; max-height=80%;"></img></p>
+
+32、[design-resources-for-developers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bradtraversy/design-resources-for-developers)：设计资源集合。项目包含了图片、网站模版、CSS 框架、UI 等资源
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/261787758.png' style="max-width:80%; max-height=80%;"></img></p>
+
+33、[doomcaptcha](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vivirenremoto/doomcaptcha)：毁灭战士射击游戏形式的验证码。[在线尝试](https://vivirenremoto.github.io/doomcaptcha/)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/369767929.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+34、[koreader](https://hellogithub.com/periodical/statistics/click?target=https://github.com/koreader/koreader)：电子墨水（E-Ink）设备的开源阅读软件。适用于 Kindle、Kobo、PocketBook、Android 和 Linux 等设备，拥有设置字体、行距、文本样式等功能，最厉害的是适应水墨屏设备的 PDF 文件排版优化功能，极大的提高了 PDF 文件在 Kindle 等设备的阅读体验
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/8986217.jpeg' style="max-width:80%; max-height=80%;"></img></p>
+
+35、[penpot](https://hellogithub.com/periodical/statistics/click?target=https://github.com/penpot/penpot)：开源的设计和原型在线平台。它不仅完全免费还提供 Docker 自建和在线使用，而且支持中文和团队共享。缺点是平台提供的组件太少了，第一次上手需要自己从形状开始搞，不过可以自定义组件做到一劳永逸。如果你在寻找开源、免费的原型设计平台，不妨试试它。[在线尝试](https://penpot.app/)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/48769241.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+36、[Simula](https://hellogithub.com/periodical/statistics/click?target=https://github.com/SimulaVR/Simula)：Linux 上的 VR 窗口管理工具。通过该工具+VR 设备可轻松实现“目光所及皆桌面”的效果，它基于 Godot 开发安装简单实用方便，支持 HTC Vive Pro、Valve Index 等 VR 设备
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/88158457.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+37、[tabby](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Eugeny/tabby)：高颜值的终端工具。功能强大高度可配置，适用于 Windows、macOS、Linux 操作系统
+- 支持自定义主题和配色
+- 可配置快捷键和组合键
+- 集成了 SSH、Telnet 等连接
+- 分割窗口
+- 等等
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/77213120.png' style="max-width:80%; max-height=80%;"></img></p>
+
+38、[wsa_pacman](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alesimula/wsa_pacman)：轻松地在 Windows11 安装 Android 应用的桌面工具。使用该工具可以实现双击安装 Android 应用，基于系统自带的 WSA 实现，不需要安装第三方模拟器
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/423541572.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 开源书籍
+39、[everything-curl](https://hellogithub.com/periodical/statistics/click?target=https://github.com/curl/everything-curl)：《关于 curl 的所有东西》。由 curl 项目发起者撰写的书，内容包括 curl 入门、开源、源码、项目等方面。[在线阅读](https://everything.curl.dev/)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/43095089.jpeg' style="max-width:80%; max-height=80%;"></img></p>
+
+40、[school-of-sre](https://hellogithub.com/periodical/statistics/click?target=https://github.com/linkedin/school-of-sre)：领英开源的成为 SRE（网站可靠性工程师）的入门级教程。内容涵盖 Web、Linux、Git、计算机网络、数据库、安全等方面
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/307536107.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -364,7 +364,7 @@ spleeter separate -p spleeter:2stems -o output 音频.mp3
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

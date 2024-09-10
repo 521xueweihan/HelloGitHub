@@ -200,40 +200,21 @@ async def read_item(item_id: int, q: str = None):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/50/17300388.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-22、[fullstackopen](https://hellogithub.com/periodical/statistics/click?target=https://github.com/villeheikkila/fullstackopen)：免费开源的 Web 全栈编程课程。一站式学习 React、Redux、Node.js、MongoDB、GraphQL 以及 TypeScript，这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。让你可以利用 ReactJS 搭配 Node.js 开发的 REST API，来搭建单页面应用程序
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/50/166814830.png' style="max-width:80%; max-height=80%;"></img></p>
-
-23、[GitHub520](https://hellogithub.com/periodical/statistics/click?target=https://github.com/521xueweihan/GitHub520)：通过修改 hosts 解决 GitHub 访问慢、图裂问题的项目。基于 GitHub Action 定时访问 ipaddress 自动获取、输出 GitHub 相关域名对应的最新 IP 保证长期有效，用户不需要安装和运行代码，直接复制项目首页的内容便可生效
-
-
-24、[vim](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vim/vim)：Vim 官方仓库
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/50/40997482.png' style="max-width:80%; max-height=80%;"></img></p>
-
-25、[winget-cli](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/winget-cli)：微软开源的 Windows 程序包管理器，帮助开发者快速的安装工具（预览版）。 目前有搜索、显示和安装软件包等功能，命令简单 `winget install <tool>`
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/50/197275130.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-26、[photo2cartoon](https://hellogithub.com/periodical/statistics/click?target=https://github.com/minivision-ai/photo2cartoon)：将真实照片转换为卡通风格的开源项目。效果如下：
+### 人工智能
+22、[photo2cartoon](https://hellogithub.com/periodical/statistics/click?target=https://github.com/minivision-ai/photo2cartoon)：将真实照片转换为卡通风格的开源项目。效果如下：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/50/256445099.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[pose-animator](https://hellogithub.com/periodical/statistics/click?target=https://github.com/yemount/pose-animator)：一个基于 PoseNet 和 FaceMesh 可将你的 Pose 变成 2D 动画的工具。生成的动画人物会根据你的表情和肢体动作做出相应动作，来试试制作你专属的 2D 镜像人吧
+23、[pose-animator](https://hellogithub.com/periodical/statistics/click?target=https://github.com/yemount/pose-animator)：一个基于 PoseNet 和 FaceMesh 可将你的 Pose 变成 2D 动画的工具。生成的动画人物会根据你的表情和肢体动作做出相应动作，来试试制作你专属的 2D 镜像人吧
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/50/251262566.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[Real-World-Masked-Face-Dataset](https://hellogithub.com/periodical/statistics/click?target=https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset)：口罩人脸数据集
+24、[Real-World-Masked-Face-Dataset](https://hellogithub.com/periodical/statistics/click?target=https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset)：口罩人脸数据集
 
 
-29、[scikit-opt](https://hellogithub.com/periodical/statistics/click?target=https://github.com/guofei9987/scikit-opt)：一个封装了 7 种启发式算法的 Python 代码库。分别是：差分进化算法、遗传算法、粒子群算法、模拟退火算法、蚁群算法、鱼群算法、免疫优化算法，示例代码：
+25、[scikit-opt](https://hellogithub.com/periodical/statistics/click?target=https://github.com/guofei9987/scikit-opt)：一个封装了 7 种启发式算法的 Python 代码库。分别是：差分进化算法、遗传算法、粒子群算法、模拟退火算法、蚁群算法、鱼群算法、免疫优化算法，示例代码：
 ```python
 from sko.GA import GA_TSP
 
@@ -243,6 +224,25 @@ best_points, best_distance = ga_tsp.run()
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/50/113166974.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+26、[fullstackopen](https://hellogithub.com/periodical/statistics/click?target=https://github.com/villeheikkila/fullstackopen)：免费开源的 Web 全栈编程课程。一站式学习 React、Redux、Node.js、MongoDB、GraphQL 以及 TypeScript，这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。让你可以利用 ReactJS 搭配 Node.js 开发的 REST API，来搭建单页面应用程序
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/50/166814830.png' style="max-width:80%; max-height=80%;"></img></p>
+
+27、[GitHub520](https://hellogithub.com/periodical/statistics/click?target=https://github.com/521xueweihan/GitHub520)：通过修改 hosts 解决 GitHub 访问慢、图裂问题的项目。基于 GitHub Action 定时访问 ipaddress 自动获取、输出 GitHub 相关域名对应的最新 IP 保证长期有效，用户不需要安装和运行代码，直接复制项目首页的内容便可生效
+
+
+28、[vim](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vim/vim)：Vim 官方仓库
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/50/40997482.png' style="max-width:80%; max-height=80%;"></img></p>
+
+29、[winget-cli](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/winget-cli)：微软开源的 Windows 程序包管理器，帮助开发者快速的安装工具（预览版）。 目前有搜索、显示和安装软件包等功能，命令简单 `winget install <tool>`
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/50/197275130.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -272,7 +272,7 @@ best_points, best_distance = ga_tsp.run()
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

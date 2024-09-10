@@ -262,14 +262,21 @@ SwiftMessages.show(view: view)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/65219683.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+34、[fauxpilot](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fauxpilot/fauxpilot)：自建 GitHub Copilot 服务。它采用 NVIDIA 的 Triton Inference Server 的 SalesForce CodeGen 模型，自建 AI 编码辅助服务。支持接入 VSCode Copilot 插件，使用起来十分方便。
+
+35、[mmdetection](https://hellogithub.com/periodical/statistics/click?target=https://github.com/open-mmlab/mmdetection)：OpenMMLab 开源的目标检测工具箱。基于 PyTorch 的目标检测开源工具箱，支持 Faster R-CNN、Mask R-CNN、RetinaNet 等主流算法。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/145670234.png' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-34、[all-contributors](https://hellogithub.com/periodical/statistics/click?target=https://github.com/all-contributors/all-contributors)：表彰非代码贡献者的工具。这是一个 GitHub 机器人，可以在 issues 使用指令，将贡献者增添到项目首页，进行展示和表彰。
+36、[all-contributors](https://hellogithub.com/periodical/statistics/click?target=https://github.com/all-contributors/all-contributors)：表彰非代码贡献者的工具。这是一个 GitHub 机器人，可以在 issues 使用指令，将贡献者增添到项目首页，进行展示和表彰。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/52710065.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[gibMacOS](https://hellogithub.com/periodical/statistics/click?target=https://github.com/corpnewt/gibMacOS)：macOS 系统下载工具。通过 Python 脚本直接下载 macOS 系统文件，可用来制作 macOS 安装镜像。
+37、[gibMacOS](https://hellogithub.com/periodical/statistics/click?target=https://github.com/corpnewt/gibMacOS)：macOS 系统下载工具。通过 Python 脚本直接下载 macOS 系统文件，可用来制作 macOS 安装镜像。
 
-36、[mackup](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lra/mackup)：自动同步应用程序设置的工具。能够帮你快速备份、同步 macOS 和 Linux 上应用配置文件的工具，包括 Zsh、Vim、iTerm2、MySQL 在内的多种开发相关应用，还支持 Dropbox、iCloud、Git 等丰富的同步方式。
+38、[mackup](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lra/mackup)：自动同步应用程序设置的工具。能够帮你快速备份、同步 macOS 和 Linux 上应用配置文件的工具，包括 Zsh、Vim、iTerm2、MySQL 在内的多种开发相关应用，还支持 Dropbox、iCloud、Git 等丰富的同步方式。
 ```shell
 # 安装
 brew install mackup
@@ -279,27 +286,20 @@ mackup backup
 mackup restore
 ```
 
-37、[sql-injection-payload-list](https://hellogithub.com/periodical/statistics/click?target=https://github.com/payloadbox/sql-injection-payload-list)：关于 SQL 注入知识的集合。该项目解释了什么是 SQL 注入和一些常见的例子，以及如何发现、利用、防范各种 SQL 注入漏洞。
+39、[sql-injection-payload-list](https://hellogithub.com/periodical/statistics/click?target=https://github.com/payloadbox/sql-injection-payload-list)：关于 SQL 注入知识的集合。该项目解释了什么是 SQL 注入和一些常见的例子，以及如何发现、利用、防范各种 SQL 注入漏洞。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/218447149.png' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[system-design](https://hellogithub.com/periodical/statistics/click?target=https://github.com/karanpratapsingh/system-design)：系统设计从入门到面试。该教程从基础协议讲起，然后介绍常见的数据库、消息队列等服务，最后是面试和实际的案例分析。内容循序渐进、图文并茂，强烈推荐大家学习。
+40、[system-design](https://hellogithub.com/periodical/statistics/click?target=https://github.com/karanpratapsingh/system-design)：系统设计从入门到面试。该教程从基础协议讲起，然后介绍常见的数据库、消息队列等服务，最后是面试和实际的案例分析。内容循序渐进、图文并茂，强烈推荐大家学习。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/525105056.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-39、[babel-handbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jamiebuilds/babel-handbook)：Babel 使用手册。内容分为「用户手册」如何安装和配置 Babel 和「插件手册」如何为 Babel 创建插件 两部分。
+41、[babel-handbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jamiebuilds/babel-handbook)：Babel 使用手册。内容分为「用户手册」如何安装和配置 Babel 和「插件手册」如何为 Babel 创建插件 两部分。
 
-40、[EffectiveModernCppChinese](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CnTransGroup/EffectiveModernCppChinese)：《Effective Modern C++》中文翻译版。教你如何写出正确、高效、可维护的 C++ 代码的书，该项目为中文翻译版本(已完成)。
+42、[EffectiveModernCppChinese](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CnTransGroup/EffectiveModernCppChinese)：《Effective Modern C++》中文翻译版。教你如何写出正确、高效、可维护的 C++ 代码的书，该项目为中文翻译版本(已完成)。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/74014284.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-41、[fauxpilot](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fauxpilot/fauxpilot)：自建 GitHub Copilot 服务。它采用 NVIDIA 的 Triton Inference Server 的 SalesForce CodeGen 模型，自建 AI 编码辅助服务。支持接入 VSCode Copilot 插件，使用起来十分方便。
-
-42、[mmdetection](https://hellogithub.com/periodical/statistics/click?target=https://github.com/open-mmlab/mmdetection)：OpenMMLab 开源的目标检测工具箱。基于 PyTorch 的目标检测开源工具箱，支持 Faster R-CNN、Mask R-CNN、RetinaNet 等主流算法。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/145670234.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -329,7 +329,7 @@ mackup restore
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

@@ -207,40 +207,12 @@ umap.plot(mapper, labels=digits.target)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/31854735.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-31、[cloudflare_temp_email](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dreamhunter2333/cloudflare_temp_email)：免费搭建临时邮箱服务。该项目通过 CloudFlare 的免费服务，提供一个功能完备的临时邮箱服务，支持收发邮件、访问密码、自动回复、查看附件等功能。来自 [@Dream Hunter](https://hellogithub.com/user/FxNypXK7UQ9OECT) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/678900558.png' style="max-width:80%; max-height=80%;"></img></p>
-
-32、[docs-linux-kernel-labs-zh-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/linux-kernel-labs-zh/docs-linux-kernel-labs-zh-cn)：Linux 内核实验。该项目是布加勒斯特理工大学的《Linux 内核教学》课程的中文翻译版，适合对 Linux 内核感兴趣的程序员学习。课程内容分为课程和实验两部分，其中实验是在基于 QEMU 的虚拟机中进行，亲身体验 Linux 内核的开发、构建、部署及执行过程。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/720977650.png' style="max-width:80%; max-height=80%;"></img></p>
-
-33、[LapisCV](https://hellogithub.com/periodical/statistics/click?target=https://github.com/BingyanStudio/LapisCV)：开箱即用的简历模板。该项目提供了适用于 Obsidian 和 Typora 的简历模板，它基于 Markdown 格式、编辑方便、所见即所得，设计简洁且正式，借助编辑器可直接导出 PDF 格式的简历。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/767730706.png' style="max-width:80%; max-height=80%;"></img></p>
-
-34、[OV-Watch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/No-Chicken/OV-Watch)：低成本的开源智能手表。这是一个制作成本仅需 80 元的智能手表项目，它不仅提供了基本的手表功能，还支持睡眠模式、蓝牙、计步、卡包、指南针和心率测量等功能。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/637258361.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-35、[phonedata](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xluohome/phonedata)：手机号码归属地信息库。该项目整理了超过 40 多万条中国手机号段和归属地信息，数据均来自网上的公开数据。
-
-### 开源书籍
-36、[LLMBook-zh.github.io](https://hellogithub.com/periodical/statistics/click?target=https://github.com/LLMBook-zh/LLMBook-zh.github.io)：《大语言模型》。这是一本为想入门大模型技术的程序员/学生准备的开源书籍，内容不仅涵盖了大模型的基础原理和关键技术，还提供了配套的代码工具库和大模型，帮助读者快速入门并实践。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/786642156.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-37、[raytracing.github.io](https://hellogithub.com/periodical/statistics/click?target=https://github.com/RayTracing/raytracing.github.io)：《Ray Tracing in One Weekend》系列书籍。这是一套光线追踪技术的入门书籍，教你用 C++ 实现一个光线追踪器。光线追踪（Ray Tracing）是一种计算机图形学中的渲染技术，能够通过模拟光线在虚拟场景中的传播，生成出栩栩如生的真实感图像。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/197663980.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-38、[facefusion](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facefusion/facefusion)：开源的 AI 换脸和增强工具。这是一款功能强大的人脸交换和增强工具，支持将图片/视频中的人脸替换成另一个人的脸、改善人脸和背景清晰度等功能，还提供了友好的 Web 界面（WebUI）和低门槛的 CPU 处理选项。
+### 人工智能
+31、[facefusion](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facefusion/facefusion)：开源的 AI 换脸和增强工具。这是一款功能强大的人脸交换和增强工具，支持将图片/视频中的人脸替换成另一个人的脸、改善人脸和背景清晰度等功能，还提供了友好的 Web 界面（WebUI）和低门槛的 CPU 处理选项。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/679869950.png' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[litellm](https://hellogithub.com/periodical/statistics/click?target=https://github.com/BerriAI/litellm)：简化大模型 API 调用的工具。该项目能够将各种 AI 大模型和服务的接口，统一转换成 OpenAI 的格式，简化了在不同 AI 服务/大模型切换和管理的工作。此外，它还支持设置预算、限制请求频率、管理 API Key 和配置 OpenAI 代理服务器等功能。
+32、[litellm](https://hellogithub.com/periodical/statistics/click?target=https://github.com/BerriAI/litellm)：简化大模型 API 调用的工具。该项目能够将各种 AI 大模型和服务的接口，统一转换成 OpenAI 的格式，简化了在不同 AI 服务/大模型切换和管理的工作。此外，它还支持设置预算、限制请求频率、管理 API Key 和配置 OpenAI 代理服务器等功能。
 ```python
 from litellm import completion
 import os
@@ -261,9 +233,37 @@ print(response)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/671269505.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[llama3-from-scratch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/naklecha/llama3-from-scratch)：从头开始实现 Llama 3 的教程。该项目通过逐层构建 Llama 3 的方式，帮助人们深入理解 LLM 是如何工作的。作者使用 PyTorch 框架，实现了加载模型权重、文本的分词处理、模型配置以及逐层实现 Transformer 模型中的关键组件。
+33、[llama3-from-scratch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/naklecha/llama3-from-scratch)：从头开始实现 Llama 3 的教程。该项目通过逐层构建 Llama 3 的方式，帮助人们深入理解 LLM 是如何工作的。作者使用 PyTorch 框架，实现了加载模型权重、文本的分词处理、模型配置以及逐层实现 Transformer 模型中的关键组件。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/802916901.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+34、[cloudflare_temp_email](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dreamhunter2333/cloudflare_temp_email)：免费搭建临时邮箱服务。该项目通过 CloudFlare 的免费服务，提供一个功能完备的临时邮箱服务，支持收发邮件、访问密码、自动回复、查看附件等功能。来自 [@Dream Hunter](https://hellogithub.com/user/FxNypXK7UQ9OECT) 的分享
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/678900558.png' style="max-width:80%; max-height=80%;"></img></p>
+
+35、[docs-linux-kernel-labs-zh-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/linux-kernel-labs-zh/docs-linux-kernel-labs-zh-cn)：Linux 内核实验。该项目是布加勒斯特理工大学的《Linux 内核教学》课程的中文翻译版，适合对 Linux 内核感兴趣的程序员学习。课程内容分为课程和实验两部分，其中实验是在基于 QEMU 的虚拟机中进行，亲身体验 Linux 内核的开发、构建、部署及执行过程。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/720977650.png' style="max-width:80%; max-height=80%;"></img></p>
+
+36、[LapisCV](https://hellogithub.com/periodical/statistics/click?target=https://github.com/BingyanStudio/LapisCV)：开箱即用的简历模板。该项目提供了适用于 Obsidian 和 Typora 的简历模板，它基于 Markdown 格式、编辑方便、所见即所得，设计简洁且正式，借助编辑器可直接导出 PDF 格式的简历。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/767730706.png' style="max-width:80%; max-height=80%;"></img></p>
+
+37、[OV-Watch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/No-Chicken/OV-Watch)：低成本的开源智能手表。这是一个制作成本仅需 80 元的智能手表项目，它不仅提供了基本的手表功能，还支持睡眠模式、蓝牙、计步、卡包、指南针和心率测量等功能。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/637258361.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+38、[phonedata](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xluohome/phonedata)：手机号码归属地信息库。该项目整理了超过 40 多万条中国手机号段和归属地信息，数据均来自网上的公开数据。
+
+### 开源书籍
+39、[LLMBook-zh.github.io](https://hellogithub.com/periodical/statistics/click?target=https://github.com/LLMBook-zh/LLMBook-zh.github.io)：《大语言模型》。这是一本为想入门大模型技术的程序员/学生准备的开源书籍，内容不仅涵盖了大模型的基础原理和关键技术，还提供了配套的代码工具库和大模型，帮助读者快速入门并实践。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/786642156.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+40、[raytracing.github.io](https://hellogithub.com/periodical/statistics/click?target=https://github.com/RayTracing/raytracing.github.io)：《Ray Tracing in One Weekend》系列书籍。这是一套光线追踪技术的入门书籍，教你用 C++ 实现一个光线追踪器。光线追踪（Ray Tracing）是一种计算机图形学中的渲染技术，能够通过模拟光线在虚拟场景中的传播，生成出栩栩如生的真实感图像。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/197663980.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -293,7 +293,7 @@ print(response)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

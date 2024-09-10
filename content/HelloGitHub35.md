@@ -204,43 +204,11 @@ if __name__ == '__main__':
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/119708446.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-19、[devhub](https://hellogithub.com/periodical/statistics/click?target=https://github.com/devhubapp/devhub)：支持 Android、iOS、Web、Desktop 的 GitHub 管理通知客户端。能够帮你方便地接收、查看、管理 GitHub 消息、动态等
+### 人工智能
+19、[deep-learning-drizzle](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kmario23/deep-learning-drizzle)：世界计算机名校的深度学习、强化学习、机器学习、计算机视觉、自然语言处理等方面的公开课
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/75236196.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-20、[Micro8](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Micropoor/Micro8)：浸淫渗透攻击的老鸟所写，内容一线深入浅出，主要是 Windows 系统场景。对于初中级安全从业人员、乙方安全测试、甲方安全自检、网络安全爱好者等提高都有很大的帮助
-
-
-21、[neovim](https://hellogithub.com/periodical/statistics/click?target=https://github.com/neovim/neovim)：致力于改善 Vim 的维护、可扩展性等方面的编辑器。它功能强大、项目开发活跃、社区活跃，“新一代”的 Vim
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/16408992.png' style="max-width:80%; max-height=80%;"></img></p>
-
-22、[OI-wiki](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OI-wiki/OI-wiki)：免费、开放、持续更新的编程竞赛相关知识教程。包含竞赛的基础知识、常见题型、解题思路以及常用工具等内容，帮助大家更快速、深入地学习编程竞赛相关知识
-
-
-23、[USTC-Course](https://hellogithub.com/periodical/statistics/click?target=https://github.com/USTC-Resource/USTC-Course)：该仓库收录中国科学技术大学众多课程资源。包括电子版教材、参考书、讲义、试卷、学习心得、习题解答等。以计算机学院课程为主，也包含公选课、自由选修等其他课程。
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/164782828.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 开源书籍
-24、[cppwasm-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/3dgen/cppwasm-book)：《C/C++ 面向 WebAssembly 编程》，[在线阅读](https://3dgen.cn/cppwasm-book/)
-
-
-25、[d2l-zh](https://hellogithub.com/periodical/statistics/click?target=https://github.com/d2l-ai/d2l-zh)：《Dive into Deep Learning 》翻译版，即《动手学深度学习》。[在线阅读](http://zh.d2l.ai/)
-
-
-26、[You-Dont-Know-JS](https://hellogithub.com/periodical/statistics/click?target=https://github.com/getify/You-Dont-Know-JS)：（英文）深入探讨 JavaScript 语言核心机制的书籍，适用于深入学习 JS。该书已出版，但在线阅读免费
-
-
-### 机器学习
-27、[deep-learning-drizzle](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kmario23/deep-learning-drizzle)：世界计算机名校的深度学习、强化学习、机器学习、计算机视觉、自然语言处理等方面的公开课
-
-
-28、[gpt-2](https://hellogithub.com/periodical/statistics/click?target=https://github.com/openai/gpt-2)：OpenAI 发布的 15 亿参数量通用语言模型 GPT-2，迄今最大模型！展示了一种构建语言处理系统的潜在方式，即根据自然发生的演示学习执行任务。实例代码：
+20、[gpt-2](https://hellogithub.com/periodical/statistics/click?target=https://github.com/openai/gpt-2)：OpenAI 发布的 15 亿参数量通用语言模型 GPT-2，迄今最大模型！展示了一种构建语言处理系统的潜在方式，即根据自然发生的演示学习执行任务。实例代码：
 ```python
 export PYTHONIOENCODING=UTF-8
 python3 src/generate_unconditional_samples.py | tee samples
@@ -249,7 +217,7 @@ python3 src/interactive_conditional_samples.py --top_k 40
 ```
 
 
-29、[stanza](https://hellogithub.com/periodical/statistics/click?target=https://github.com/stanfordnlp/stanza)：适用于多种人类语言的 Stanford NLP 官方 Python 库。包含用于运行 CoNLL 2018 共享任务的最新完全神经管道以及访问 Java Stanford CoreNLP 服务器的软件包。实例代码：
+21、[stanza](https://hellogithub.com/periodical/statistics/click?target=https://github.com/stanfordnlp/stanza)：适用于多种人类语言的 Stanford NLP 官方 Python 库。包含用于运行 CoNLL 2018 共享任务的最新完全神经管道以及访问 Java Stanford CoreNLP 服务器的软件包。实例代码：
 ```python
 import stanfordnlp
 stanfordnlp.download('en')   # This downloads the English models for the neural pipeline
@@ -259,7 +227,39 @@ doc.sentences[0].print_dependencies()
 ```
 
 
-30、[Tensorflow-Cookbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/taki0112/Tensorflow-Cookbook)：易学易用的 Tensorflow 教程
+22、[Tensorflow-Cookbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/taki0112/Tensorflow-Cookbook)：易学易用的 Tensorflow 教程
+
+
+### 其它
+23、[devhub](https://hellogithub.com/periodical/statistics/click?target=https://github.com/devhubapp/devhub)：支持 Android、iOS、Web、Desktop 的 GitHub 管理通知客户端。能够帮你方便地接收、查看、管理 GitHub 消息、动态等
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/75236196.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+24、[Micro8](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Micropoor/Micro8)：浸淫渗透攻击的老鸟所写，内容一线深入浅出，主要是 Windows 系统场景。对于初中级安全从业人员、乙方安全测试、甲方安全自检、网络安全爱好者等提高都有很大的帮助
+
+
+25、[neovim](https://hellogithub.com/periodical/statistics/click?target=https://github.com/neovim/neovim)：致力于改善 Vim 的维护、可扩展性等方面的编辑器。它功能强大、项目开发活跃、社区活跃，“新一代”的 Vim
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/16408992.png' style="max-width:80%; max-height=80%;"></img></p>
+
+26、[OI-wiki](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OI-wiki/OI-wiki)：免费、开放、持续更新的编程竞赛相关知识教程。包含竞赛的基础知识、常见题型、解题思路以及常用工具等内容，帮助大家更快速、深入地学习编程竞赛相关知识
+
+
+27、[USTC-Course](https://hellogithub.com/periodical/statistics/click?target=https://github.com/USTC-Resource/USTC-Course)：该仓库收录中国科学技术大学众多课程资源。包括电子版教材、参考书、讲义、试卷、学习心得、习题解答等。以计算机学院课程为主，也包含公选课、自由选修等其他课程。
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/164782828.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 开源书籍
+28、[cppwasm-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/3dgen/cppwasm-book)：《C/C++ 面向 WebAssembly 编程》，[在线阅读](https://3dgen.cn/cppwasm-book/)
+
+
+29、[d2l-zh](https://hellogithub.com/periodical/statistics/click?target=https://github.com/d2l-ai/d2l-zh)：《Dive into Deep Learning 》翻译版，即《动手学深度学习》。[在线阅读](http://zh.d2l.ai/)
+
+
+30、[You-Dont-Know-JS](https://hellogithub.com/periodical/statistics/click?target=https://github.com/getify/You-Dont-Know-JS)：（英文）深入探讨 JavaScript 语言核心机制的书籍，适用于深入学习 JS。该书已出版，但在线阅读免费
 
 
 
@@ -290,7 +290,7 @@ doc.sentences[0].print_dependencies()
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

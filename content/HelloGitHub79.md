@@ -271,8 +271,28 @@ Benchmark.main()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/262342606.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+34、[motion-diffusion-model](https://hellogithub.com/periodical/statistics/click?target=https://github.com/GuyTevet/motion-diffusion-model)：根据文本生成 3D 人体运动的模型。论文《Human Motion Diffusion Model》第一作者开源的 PyTorch 实现。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/543082997.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+35、[whisper](https://hellogithub.com/periodical/statistics/click?target=https://github.com/openai/whisper)：OpenAI 开源的多语言识别系统。该项目是强大的自动语音识别系统，支持包括中文在内的多种语言识别。尤其是在快语速、口音、背景噪音等场景，依旧表现出色，能够达到极高的准确率。
+```python
+import whisper
+
+model = whisper.load_model("base")
+result = model.transcribe("audio.mp3")
+print(result["text"])
+
+# 命令行使用
+# $ whisper --language Chinese --model large audio.wav
+# [00:00.000 --> 00:08.000] 如果他们使用航空的方式运输货物在某些航线上可能要花几天的时间才能卸货和通关
+```
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/537603333.png' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-34、[code2flow](https://hellogithub.com/periodical/statistics/click?target=https://github.com/scottrogowski/code2flow)：为动态语言生成调用图的工具。可根据源码文件生成漂亮的调用图的命令行工具，支持 Python、JavaScript、Ruby 等动态语言。
+36、[code2flow](https://hellogithub.com/periodical/statistics/click?target=https://github.com/scottrogowski/code2flow)：为动态语言生成调用图的工具。可根据源码文件生成漂亮的调用图的命令行工具，支持 Python、JavaScript、Ruby 等动态语言。
 ```shell
 # 安装
 pip3 install code2flow
@@ -282,15 +302,15 @@ code2flow 文件
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/10259118.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[Codex-CLI](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/Codex-CLI)：让终端理解自然语言命令的工具。该项目使用 GPT-3 Codex 可将自然语言命令，转换为 PowerShell、Zsh 和 Bash 中的命令，比如输入 what‘s my IP？就能得到本机 IP。
+37、[Codex-CLI](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/Codex-CLI)：让终端理解自然语言命令的工具。该项目使用 GPT-3 Codex 可将自然语言命令，转换为 PowerShell、Zsh 和 Bash 中的命令，比如输入 what‘s my IP？就能得到本机 IP。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/459340082.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[collisions](https://hellogithub.com/periodical/statistics/click?target=https://github.com/corkami/collisions)：讲解和演示哈希冲突的项目。包含了攻击介绍、演示文件和示例代码，快速理解 MD5 消息摘要算法的弱点，比如两个不同内容的文件生成相同 MD5 值。
+38、[collisions](https://hellogithub.com/periodical/statistics/click?target=https://github.com/corkami/collisions)：讲解和演示哈希冲突的项目。包含了攻击介绍、演示文件和示例代码，快速理解 MD5 消息摘要算法的弱点，比如两个不同内容的文件生成相同 MD5 值。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/167916892.png' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[rally](https://hellogithub.com/periodical/statistics/click?target=https://github.com/elastic/rally)：ES 官方开源的压力测试工具。基于 Python3 的 ES 压力测试命令行工具，功能丰富支持自动创建、运行、销毁 ES 集群，以及不同数据集的测试结果比较。
+39、[rally](https://hellogithub.com/periodical/statistics/click?target=https://github.com/elastic/rally)：ES 官方开源的压力测试工具。基于 Python3 的 ES 压力测试命令行工具，功能丰富支持自动创建、运行、销毁 ES 集群，以及不同数据集的测试结果比较。
 ```shell
 安装：
     pip3 install esrally
@@ -313,38 +333,18 @@ code2flow 文件
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/47140131.png' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[testssl.sh](https://hellogithub.com/periodical/statistics/click?target=https://github.com/drwetter/testssl.sh)：测试 TLS/SSL 加密的工具。它可以用来检查 Web 服务是否支持 TLS/SSL 加密和协议，以及存在的缺陷。
+40、[testssl.sh](https://hellogithub.com/periodical/statistics/click?target=https://github.com/drwetter/testssl.sh)：测试 TLS/SSL 加密的工具。它可以用来检查 Web 服务是否支持 TLS/SSL 加密和协议，以及存在的缺陷。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/21385916.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-39、[craftinginterpreters](https://hellogithub.com/periodical/statistics/click?target=https://github.com/munificent/craftinginterpreters)：《Crafting Interpreters》手撸解释器。该书作者在 Google 从事 Dart 语言的相关工作，书中内容是从一门小型自创编程语言 Lox 开始，详细介绍了如何为该语言制作解释器和虚拟机，推荐给想要学习编译原理或自创编程语言的同学。来自 [@lastone](https://hellogithub.com/user/y6WLMKXlxiH1b74) 的分享
+41、[craftinginterpreters](https://hellogithub.com/periodical/statistics/click?target=https://github.com/munificent/craftinginterpreters)：《Crafting Interpreters》手撸解释器。该书作者在 Google 从事 Dart 语言的相关工作，书中内容是从一门小型自创编程语言 Lox 开始，详细介绍了如何为该语言制作解释器和虚拟机，推荐给想要学习编译原理或自创编程语言的同学。来自 [@lastone](https://hellogithub.com/user/y6WLMKXlxiH1b74) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/79055279.png' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[ThinkDSP](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AllenDowney/ThinkDSP)：《Think DSP》Python 数字信号处理。本书内容是将 Python 代码和数字信号处理结合，相较于干巴巴的文字，通过代码示例更容易理解相关概念，该书作者还著有《Think Python》等图书。
+42、[ThinkDSP](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AllenDowney/ThinkDSP)：《Think DSP》Python 数字信号处理。本书内容是将 Python 代码和数字信号处理结合，相较于干巴巴的文字，通过代码示例更容易理解相关概念，该书作者还著有《Think Python》等图书。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/12089444.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-41、[motion-diffusion-model](https://hellogithub.com/periodical/statistics/click?target=https://github.com/GuyTevet/motion-diffusion-model)：根据文本生成 3D 人体运动的模型。论文《Human Motion Diffusion Model》第一作者开源的 PyTorch 实现。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/543082997.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-42、[whisper](https://hellogithub.com/periodical/statistics/click?target=https://github.com/openai/whisper)：OpenAI 开源的多语言识别系统。该项目是强大的自动语音识别系统，支持包括中文在内的多种语言识别。尤其是在快语速、口音、背景噪音等场景，依旧表现出色，能够达到极高的准确率。
-```python
-import whisper
-
-model = whisper.load_model("base")
-result = model.transcribe("audio.mp3")
-print(result["text"])
-
-# 命令行使用
-# $ whisper --language Chinese --model large audio.wav
-# [00:00.000 --> 00:08.000] 如果他们使用航空的方式运输货物在某些航线上可能要花几天的时间才能卸货和通关
-```
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/537603333.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -374,7 +374,7 @@ print(result["text"])
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

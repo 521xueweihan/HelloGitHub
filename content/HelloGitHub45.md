@@ -351,39 +351,13 @@ window.close()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/22059578.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-26、[clean-code-javascript](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ryanmcdermott/clean-code-javascript)：《Clean Code JavaScript》（JavaScript 代码整洁之道），这是根据《代码整洁之道》作者多年经验整理的 JS 代码优化建议，但也仅仅只是一份建议。[中文](https://github.com/alivebao/clean-code-js)
-
-
-27、[pytest-chinese-doc](https://hellogithub.com/periodical/statistics/click?target=https://github.com/luizyao/pytest-chinese-doc)：pytest 自动化测试框架的官方文档（5.1.3 版本）的中文翻译。但不仅仅是简单的翻译：
-- 更多的示例：所有的示例代码都在 docs 目录下，以章节划分，尽量覆盖每个知识点
-- 更多的拓展阅读：添加了学习时所查阅的资料、阅读的源码等，也是作者学习和思考的历程
-
-
-28、[short_url](https://hellogithub.com/periodical/statistics/click?target=https://github.com/imfycc/short_url)：Elixir 语言开发的支持自定义短码的短链接服务。新手可以参考该项目源码和[原理解析](https://hufangyun.com/2017/short-url/)，理解、实现短链接服务的同时，体验用 Elixir 语言开发一个 Web 服务。[在线尝试](https://fearless-trustworthy-aidi.gigalixirapp.com/)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/119340470.png' style="max-width:80%; max-height=80%;"></img></p>
-
-29、[wenyan](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wenyan-lang/wenyan)：文言文编程语言。文言文语法，可以编译成 JavaScript、Python 或者 Ruby，你见过用文言文编写程序吗？快来试试吧。[在线尝试](http://wenyan-lang.lingdong.works/ide.html)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/226726247.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 开源书籍
-30、[front-end-handbook-2019](https://hellogithub.com/periodical/statistics/click?target=https://github.com/FrontendMasters/front-end-handbook-2019)：《Front-End Developer Handbook 2019》（前端开发者手册 2019 版）。该书适合任何阶段的人用来了解前端开发实践的指南，它概述和讨论了前端工程的实践：如何学习前端、在 2019 年进行前端实践时应该使用哪些工具。[在线阅读](https://frontendmasters.com/books/front-end-handbook/2019/)
-
-
-31、[machine-learning-systems-design](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chiphuyen/machine-learning-systems-design)：一本关于机器学习系统设计的小册子附有练习题
-
-
-### 机器学习
-32、[AIDungeon](https://hellogithub.com/periodical/statistics/click?target=https://github.com/latitudegames/AIDungeon)：一个基于机器学习的地下城文字游戏。此项目介绍了如何使用机器学习构建一个游戏，代码简单清晰适合 AI 爱好者深入研究
+### 人工智能
+26、[AIDungeon](https://hellogithub.com/periodical/statistics/click?target=https://github.com/latitudegames/AIDungeon)：一个基于机器学习的地下城文字游戏。此项目介绍了如何使用机器学习构建一个游戏，代码简单清晰适合 AI 爱好者深入研究
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/179196443.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[face_recognition](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ageitgey/face_recognition)：上手快速、简单易用的人脸识别库。该库使用 dlib 顶尖的深度学习人脸识别技术构建，在户外脸部检测数据库基准（Labeled Faces in the Wild benchmark）上的准确率高达 99.38%。同时提供了一个简单的面部识别命令行工具，允许您对来自命令行的图像文件夹进行面部识别。完整的开发文档和应用案例，并且兼容树莓派系统（对配置要求低），对于初学者来说可以通过这个项目感受人脸识别或机器学习带来的乐趣。示例代码：
+27、[face_recognition](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ageitgey/face_recognition)：上手快速、简单易用的人脸识别库。该库使用 dlib 顶尖的深度学习人脸识别技术构建，在户外脸部检测数据库基准（Labeled Faces in the Wild benchmark）上的准确率高达 99.38%。同时提供了一个简单的面部识别命令行工具，允许您对来自命令行的图像文件夹进行面部识别。完整的开发文档和应用案例，并且兼容树莓派系统（对配置要求低），对于初学者来说可以通过这个项目感受人脸识别或机器学习带来的乐趣。示例代码：
 ```python
 # 定位图片中的所有人脸：
 import face_recognition
@@ -399,7 +373,7 @@ face_landmarks_list = face_recognition.face_landmarks(image)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/83844720.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[SSD-Pytorch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/yatengLG/SSD-Pytorch)：完整的目标检测项目。结构简洁明了，中文注释。适宜新手入门、目标检测任务参考，甚至直接基于本项目实现目标检测任务。示例代码：
+28、[SSD-Pytorch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/yatengLG/SSD-Pytorch)：完整的目标检测项目。结构简洁明了，中文注释。适宜新手入门、目标检测任务参考，甚至直接基于本项目实现目标检测任务。示例代码：
 ```python
 # 实例化模型：模型的具体各种参数在 Config 文件中进行配置
 net = SSD(cfg)
@@ -414,6 +388,32 @@ trainer = Trainer(cfg, max_iter=None, batch_size=None,
 # 训练器开始：在数据集上训练模型
 trainer(net, train_dataset)
 ```
+
+
+### 其它
+29、[clean-code-javascript](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ryanmcdermott/clean-code-javascript)：《Clean Code JavaScript》（JavaScript 代码整洁之道），这是根据《代码整洁之道》作者多年经验整理的 JS 代码优化建议，但也仅仅只是一份建议。[中文](https://github.com/alivebao/clean-code-js)
+
+
+30、[pytest-chinese-doc](https://hellogithub.com/periodical/statistics/click?target=https://github.com/luizyao/pytest-chinese-doc)：pytest 自动化测试框架的官方文档（5.1.3 版本）的中文翻译。但不仅仅是简单的翻译：
+- 更多的示例：所有的示例代码都在 docs 目录下，以章节划分，尽量覆盖每个知识点
+- 更多的拓展阅读：添加了学习时所查阅的资料、阅读的源码等，也是作者学习和思考的历程
+
+
+31、[short_url](https://hellogithub.com/periodical/statistics/click?target=https://github.com/imfycc/short_url)：Elixir 语言开发的支持自定义短码的短链接服务。新手可以参考该项目源码和[原理解析](https://hufangyun.com/2017/short-url/)，理解、实现短链接服务的同时，体验用 Elixir 语言开发一个 Web 服务。[在线尝试](https://fearless-trustworthy-aidi.gigalixirapp.com/)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/119340470.png' style="max-width:80%; max-height=80%;"></img></p>
+
+32、[wenyan](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wenyan-lang/wenyan)：文言文编程语言。文言文语法，可以编译成 JavaScript、Python 或者 Ruby，你见过用文言文编写程序吗？快来试试吧。[在线尝试](http://wenyan-lang.lingdong.works/ide.html)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/226726247.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 开源书籍
+33、[front-end-handbook-2019](https://hellogithub.com/periodical/statistics/click?target=https://github.com/FrontendMasters/front-end-handbook-2019)：《Front-End Developer Handbook 2019》（前端开发者手册 2019 版）。该书适合任何阶段的人用来了解前端开发实践的指南，它概述和讨论了前端工程的实践：如何学习前端、在 2019 年进行前端实践时应该使用哪些工具。[在线阅读](https://frontendmasters.com/books/front-end-handbook/2019/)
+
+
+34、[machine-learning-systems-design](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chiphuyen/machine-learning-systems-design)：一本关于机器学习系统设计的小册子附有练习题
 
 
 
@@ -444,7 +444,7 @@ trainer(net, train_dataset)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

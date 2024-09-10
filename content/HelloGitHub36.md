@@ -254,50 +254,50 @@ render(<Player sources={sources} />)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/91084289.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+29、[BigGAN-PyTorch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ajbrock/BigGAN-PyTorch)：“Bye Bye TPU”，4 个 GPU 就能训练“史上最强” BigGAN！只需 4-8 个 GPU 即可训练，摆脱了算力束缚
+
+
+30、[faceswap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/deepfakes/faceswap)：这个工具可以对图片和视频进行换脸。可以很方便地处理图片和视频，搞些有意思的事情
+
+
+31、[GNNPapers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/thunlp/GNNPapers)：自从卷积神级网络面世以来，大部分人将其应用在规则的空间结构数据当中，比如图像。但是现实中存在更多的并不具备规则的空间结构的数据，因此研究人员提出了处理这部分数据的网络模型-GNN。该项目列举了 GNN 方面的论文，较为全面，适合有一定基础的人阅读
+
+
+32、[QuickDraw](https://hellogithub.com/periodical/statistics/click?target=https://github.com/uvipen/QuickDraw)：谷歌开发的一个流行的在线游戏，神经网络会猜测你在画什么。神经网络从每幅图画中学习，提高正确猜测涂鸦内容的能力。现在你可以基于这个仓库，用 Python 构建自己的 Quick Draw 游戏
+
+
+33、[Virgilio](https://hellogithub.com/periodical/statistics/click?target=https://github.com/virgili0/Virgilio)：本资源库旨在为以下领域提供三种有机完整的学习路径：机器学习、商业智能、云计算。在此你将能够了解相关原理并且在项目实践中予以运用。如果仔细遵循这些学习路径，则可以从零开始构建完整的认识和获得始终可用的技能。事实上，这些学习路径不需要之前有相关知识，但基础编程和简单数学是理解和实践大多数相关概念的必要条件
+
+
 ### 其它
-29、[ChinaMobilePhoneNumberRegex](https://hellogithub.com/periodical/statistics/click?target=https://github.com/VincentSit/ChinaMobilePhoneNumberRegex)：一组匹配中国大陆手机号码的正则表达式
+34、[ChinaMobilePhoneNumberRegex](https://hellogithub.com/periodical/statistics/click?target=https://github.com/VincentSit/ChinaMobilePhoneNumberRegex)：一组匹配中国大陆手机号码的正则表达式
 
 
-30、[ChromeAppHeroes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zhaoolee/ChromeAppHeroes)：优秀、实用的 Chrome 插件集合。该项目还包含插件的中文的使用介绍，为的是让好的插件被更多人发现和使用
+35、[ChromeAppHeroes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zhaoolee/ChromeAppHeroes)：优秀、实用的 Chrome 插件集合。该项目还包含插件的中文的使用介绍，为的是让好的插件被更多人发现和使用
 
 
-31、[FiraCode](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tonsky/FiraCode)：高逼格的具有编程连字的等宽字体，最适合在编程编辑器、IDE、终端中使用。十分酷的字体，可以增加写代码的欲望
+36、[FiraCode](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tonsky/FiraCode)：高逼格的具有编程连字的等宽字体，最适合在编程编辑器、IDE、终端中使用。十分酷的字体，可以增加写代码的欲望
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/26500787.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[howto-make-more-money](https://hellogithub.com/periodical/statistics/click?target=https://github.com/easychen/howto-make-more-money)：该项目介绍了程序员如何挣零花钱的姿势
+37、[howto-make-more-money](https://hellogithub.com/periodical/statistics/click?target=https://github.com/easychen/howto-make-more-money)：该项目介绍了程序员如何挣零花钱的姿势
 
 
-33、[translations](https://hellogithub.com/periodical/statistics/click?target=https://github.com/oldratlee/translations)：一些不错的英文资料、文章翻译项目
+38、[translations](https://hellogithub.com/periodical/statistics/click?target=https://github.com/oldratlee/translations)：一些不错的英文资料、文章翻译项目
 
 
-34、[web-frameworks](https://hellogithub.com/periodical/statistics/click?target=https://github.com/the-benchmarker/web-frameworks)：该项目展示了不同编程语言的 Web 框架性能对比，持续更新。可以作为挑选 Web 框架的参照信息
+39、[web-frameworks](https://hellogithub.com/periodical/statistics/click?target=https://github.com/the-benchmarker/web-frameworks)：该项目展示了不同编程语言的 Web 框架性能对比，持续更新。可以作为挑选 Web 框架的参照信息
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/86350964.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-35、[Go42](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ffhelicopter/Go42)：《Go语言四十二章经》Golang 入门书籍。书中作者总结了自己踩坑的经验总结和思考，[在线阅读](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+40、[Go42](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ffhelicopter/Go42)：《Go语言四十二章经》Golang 入门书籍。书中作者总结了自己踩坑的经验总结和思考，[在线阅读](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
 
 
-36、[PythonDataScienceHandbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jakevdp/PythonDataScienceHandbook)：英文原版《Python Data Science Handbook》，该书对于希望或已经从事数据科学相关工作的 Python 工程师而言是重要的学习手册。[在线阅读](https://jakevdp.github.io/PythonDataScienceHandbook/)
-
-
-### 机器学习
-37、[BigGAN-PyTorch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ajbrock/BigGAN-PyTorch)：“Bye Bye TPU”，4 个 GPU 就能训练“史上最强” BigGAN！只需 4-8 个 GPU 即可训练，摆脱了算力束缚
-
-
-38、[faceswap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/deepfakes/faceswap)：这个工具可以对图片和视频进行换脸。可以很方便地处理图片和视频，搞些有意思的事情
-
-
-39、[GNNPapers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/thunlp/GNNPapers)：自从卷积神级网络面世以来，大部分人将其应用在规则的空间结构数据当中，比如图像。但是现实中存在更多的并不具备规则的空间结构的数据，因此研究人员提出了处理这部分数据的网络模型-GNN。该项目列举了 GNN 方面的论文，较为全面，适合有一定基础的人阅读
-
-
-40、[QuickDraw](https://hellogithub.com/periodical/statistics/click?target=https://github.com/uvipen/QuickDraw)：谷歌开发的一个流行的在线游戏，神经网络会猜测你在画什么。神经网络从每幅图画中学习，提高正确猜测涂鸦内容的能力。现在你可以基于这个仓库，用 Python 构建自己的 Quick Draw 游戏
-
-
-41、[Virgilio](https://hellogithub.com/periodical/statistics/click?target=https://github.com/virgili0/Virgilio)：本资源库旨在为以下领域提供三种有机完整的学习路径：机器学习、商业智能、云计算。在此你将能够了解相关原理并且在项目实践中予以运用。如果仔细遵循这些学习路径，则可以从零开始构建完整的认识和获得始终可用的技能。事实上，这些学习路径不需要之前有相关知识，但基础编程和简单数学是理解和实践大多数相关概念的必要条件
+41、[PythonDataScienceHandbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jakevdp/PythonDataScienceHandbook)：英文原版《Python Data Science Handbook》，该书对于希望或已经从事数据科学相关工作的 Python 工程师而言是重要的学习手册。[在线阅读](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 
 
@@ -328,7 +328,7 @@ render(<Player sources={sources} />)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

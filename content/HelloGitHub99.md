@@ -239,46 +239,20 @@ print(lengths)
 
 30、[noTunes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tombonez/noTunes)：禁用 iTunes 的工具。这是一款 macOS 应用，它可以阻止 iTunes 或 Apple Music 自动启动和弹出，还支持设置 iTunes 的替代品。
 
-### 其它
-31、[anx-reader](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Anxcye/anx-reader)：免费的 Android 电子书阅读器。这是一款用 Flutter 编写的电子书阅读软件，它免费且没广告，支持 WebDAV 同步电子书、笔记和阅读进度，适用于 Android 手机和平板电脑。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/99/778774319.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-32、[etcher](https://hellogithub.com/periodical/statistics/click?target=https://github.com/balena-io/etcher)：简单易用的 USB/SD 启动盘制作工具。该项目可以将操作系统镜像烧录进 SD 卡或 USB 设备，可用于制作可启动、便携式的操作系统。它拥有友好的操作界面，仅需 3 步就能完成 USB 启动盘制作，适用于 Linux、macOS 和 Windows 10 及更高版本。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/99/45055693.png' style="max-width:80%; max-height=80%;"></img></p>
-
-33、[GmsCore](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microg/GmsCore)：谷歌服务框架的开源替代品。该项目是一个开源的替代 Google Play 服务的解决方案，它可以让无法安装或不想用 Google 服务的用户，运行依赖谷歌服务的 Android 应用。
-
-34、[OpenGlass](https://hellogithub.com/periodical/statistics/click?target=https://github.com/BasedHardware/OpenGlass)：低成本的 AI 智能眼镜。该项目仅需 25 美元，就可以将普通的眼镜升级成 AI 智能眼镜。它支持录制视频、识别物体和翻译文本等功能，但需要与电脑配合使用，不支持在镜片上显示内容。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/99/799645136.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-35、[scribe](https://hellogithub.com/periodical/statistics/click?target=https://github.com/stephband/scribe)：用 HTML 的方式展示乐谱。该项目通过 CSS+SVG+HTML 代码，实现了在网页上显示音乐符号和乐谱。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/99/14271569.png' style="max-width:80%; max-height=80%;"></img></p>
-
-36、[WTF-zk](https://hellogithub.com/periodical/statistics/click?target=https://github.com/WTFAcademy/WTF-zk)：零知识证明入门教程。这是一份入门级的零知识证明教程，零知识证明是一种技术，允许一方在不泄露任何具体信息的情况下向另一方证明某件事为真，多用于密码学、隐私计算和 Web3 等领域。
-
-### 开源书籍
-37、[introduction-to-bash-scripting](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bobbyiliev/introduction-to-bash-scripting)：《Bash 脚本入门指南》。这是一本教你如何编写出色的 Bash 脚本的开源书籍。
-
-38、[PyTorch-Tutorial-2nd](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TingsongYu/PyTorch-Tutorial-2nd)：《Pytorch 实用教程》。这本书不仅全面介绍了 PyTorch 的基础知识，还包含丰富的 PyTorch 实战案例和大型语言模型部署实例，能帮你快速上手 PyTorch，并具备出色的开发能力。来自 [@TingsongYu](https://hellogithub.com/user/vYkuK6UpxDah9mL) 的分享
-
-### 机器学习
-39、[gateway](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Portkey-AI/gateway)：大型语言模型 API 聚合网关。该项通过提供统一且快速的 API，让开发者能够轻松访问超过 200 个 LLMs，还支持多模态、自动重试和负载均衡等功能。
+### 人工智能
+31、[gateway](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Portkey-AI/gateway)：大型语言模型 API 聚合网关。该项通过提供统一且快速的 API，让开发者能够轻松访问超过 200 个 LLMs，还支持多模态、自动重试和负载均衡等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/99/682080300.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[MoneyPrinterTurbo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/harry0703/MoneyPrinterTurbo)：一键生成短视频的 AI 工具。该项目是基于大模型服务的 AI 视频生成工具，只需要提供一个主题或关键字，就可以自动生成高清的短视频。它拥有简单易用的 Web 界面，支持批量生成、设置视频时长和横/竖屏尺寸等功能。来自 [@jolahua](https://hellogithub.com/user/8zvgylhiA5ds49u) 的分享
+32、[MoneyPrinterTurbo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/harry0703/MoneyPrinterTurbo)：一键生成短视频的 AI 工具。该项目是基于大模型服务的 AI 视频生成工具，只需要提供一个主题或关键字，就可以自动生成高清的短视频。它拥有简单易用的 Web 界面，支持批量生成、设置视频时长和横/竖屏尺寸等功能。来自 [@jolahua](https://hellogithub.com/user/8zvgylhiA5ds49u) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/99/770153867.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-41、[Omost](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lllyasviel/Omost)：极简提示词的文生图工具。该项目基于 LLM 的编程能力帮用户自动完善文生图的提示词，可以根据用户输入的简短提示词生成高质量的图片，还支持图片局部修改等功能，比如将图片中的龙变成恐龙，极大地降低了编写文生图的门槛，无需复杂的提示词即可生成满意的图片。
+33、[Omost](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lllyasviel/Omost)：极简提示词的文生图工具。该项目基于 LLM 的编程能力帮用户自动完善文生图的提示词，可以根据用户输入的简短提示词生成高质量的图片，还支持图片局部修改等功能，比如将图片中的龙变成恐龙，极大地降低了编写文生图的门槛，无需复杂的提示词即可生成满意的图片。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/99/807619678.png' style="max-width:80%; max-height=80%;"></img></p>
 
-42、[Scrapegraph-ai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ScrapeGraphAI/Scrapegraph-ai)：基于 AI 的 Python 爬虫。这是一个由 AI 驱动的 Python 爬虫库，它借助 LLM 的能力，可以根据提示词自动抓取目标网站的数据。
+34、[Scrapegraph-ai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ScrapeGraphAI/Scrapegraph-ai)：基于 AI 的 Python 爬虫。这是一个由 AI 驱动的 Python 爬虫库，它借助 LLM 的能力，可以根据提示词自动抓取目标网站的数据。
 ```python
 smart_scraper_graph = SmartScraperGraph(
     prompt="List me all the projects with their descriptions",
@@ -289,6 +263,32 @@ smart_scraper_graph = SmartScraperGraph(
 result = smart_scraper_graph.run()
 print(result)
 ```
+
+### 其它
+35、[anx-reader](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Anxcye/anx-reader)：免费的 Android 电子书阅读器。这是一款用 Flutter 编写的电子书阅读软件，它免费且没广告，支持 WebDAV 同步电子书、笔记和阅读进度，适用于 Android 手机和平板电脑。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/99/778774319.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+36、[etcher](https://hellogithub.com/periodical/statistics/click?target=https://github.com/balena-io/etcher)：简单易用的 USB/SD 启动盘制作工具。该项目可以将操作系统镜像烧录进 SD 卡或 USB 设备，可用于制作可启动、便携式的操作系统。它拥有友好的操作界面，仅需 3 步就能完成 USB 启动盘制作，适用于 Linux、macOS 和 Windows 10 及更高版本。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/99/45055693.png' style="max-width:80%; max-height=80%;"></img></p>
+
+37、[GmsCore](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microg/GmsCore)：谷歌服务框架的开源替代品。该项目是一个开源的替代 Google Play 服务的解决方案，它可以让无法安装或不想用 Google 服务的用户，运行依赖谷歌服务的 Android 应用。
+
+38、[OpenGlass](https://hellogithub.com/periodical/statistics/click?target=https://github.com/BasedHardware/OpenGlass)：低成本的 AI 智能眼镜。该项目仅需 25 美元，就可以将普通的眼镜升级成 AI 智能眼镜。它支持录制视频、识别物体和翻译文本等功能，但需要与电脑配合使用，不支持在镜片上显示内容。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/99/799645136.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+39、[scribe](https://hellogithub.com/periodical/statistics/click?target=https://github.com/stephband/scribe)：用 HTML 的方式展示乐谱。该项目通过 CSS+SVG+HTML 代码，实现了在网页上显示音乐符号和乐谱。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/99/14271569.png' style="max-width:80%; max-height=80%;"></img></p>
+
+40、[WTF-zk](https://hellogithub.com/periodical/statistics/click?target=https://github.com/WTFAcademy/WTF-zk)：零知识证明入门教程。这是一份入门级的零知识证明教程，零知识证明是一种技术，允许一方在不泄露任何具体信息的情况下向另一方证明某件事为真，多用于密码学、隐私计算和 Web3 等领域。
+
+### 开源书籍
+41、[introduction-to-bash-scripting](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bobbyiliev/introduction-to-bash-scripting)：《Bash 脚本入门指南》。这是一本教你如何编写出色的 Bash 脚本的开源书籍。
+
+42、[PyTorch-Tutorial-2nd](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TingsongYu/PyTorch-Tutorial-2nd)：《Pytorch 实用教程》。这本书不仅全面介绍了 PyTorch 的基础知识，还包含丰富的 PyTorch 实战案例和大型语言模型部署实例，能帮你快速上手 PyTorch，并具备出色的开发能力。来自 [@TingsongYu](https://hellogithub.com/user/vYkuK6UpxDah9mL) 的分享
 
 
 
@@ -318,7 +318,7 @@ print(result)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

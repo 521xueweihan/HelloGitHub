@@ -108,28 +108,28 @@ foo(
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/23/81710355.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+14、[captcha_break](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ypwhs/captcha_break)：使用深度学习来破解 captcha（python 生成验证码的库）验证码。该项目会通过 Keras 搭建一个深度卷积神经网络来识别 captcha 生成的图片验证码，建议使用显卡来运行该项目。可视化代码都是在 jupyter notebook 中完成的，如果你希望写成 python 脚本，稍加修改即可正常运行
+
+
 ### 其它
-14、[awesome-blockchain-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chaozh/awesome-blockchain-cn)：区块链技术开发相关资料
+15、[awesome-blockchain-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chaozh/awesome-blockchain-cn)：区块链技术开发相关资料
 
 
-15、[Back-End-Developer-Interview-Questions](https://hellogithub.com/periodical/statistics/click?target=https://github.com/monklof/Back-End-Developer-Interview-Questions)：后端面试问题集合
+16、[Back-End-Developer-Interview-Questions](https://hellogithub.com/periodical/statistics/click?target=https://github.com/monklof/Back-End-Developer-Interview-Questions)：后端面试问题集合
 
 
-16、[hangzhou_house_knowledge](https://hellogithub.com/periodical/statistics/click?target=https://github.com/houshanren/hangzhou_house_knowledge)：《杭州房产知识扫盲》，作者 2017 年总结出来的买房购房知识，希望可以帮助到要在杭州买房的朋友
+17、[hangzhou_house_knowledge](https://hellogithub.com/periodical/statistics/click?target=https://github.com/houshanren/hangzhou_house_knowledge)：《杭州房产知识扫盲》，作者 2017 年总结出来的买房购房知识，希望可以帮助到要在杭州买房的朋友
 
 
-17、[http-api-design](https://hellogithub.com/periodical/statistics/click?target=https://github.com/interagent/http-api-design)：HTTP API 设计指南。这篇指南介绍描述了 HTTP+JSON API 的一种设计模式，最初摘录整理自 Heroku 平台的 API 设计指南。[中文翻译版](https://github.com/ZhangBohan/http-api-design-ZH_CN)
+18、[http-api-design](https://hellogithub.com/periodical/statistics/click?target=https://github.com/interagent/http-api-design)：HTTP API 设计指南。这篇指南介绍描述了 HTTP+JSON API 的一种设计模式，最初摘录整理自 Heroku 平台的 API 设计指南。[中文翻译版](https://github.com/ZhangBohan/http-api-design-ZH_CN)
 
 
-18、[vim-galore](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mhinz/vim-galore)：Vim 从入门到精通，[中文](https://github.com/wsdjeg/vim-galore-zh_cn)
+19、[vim-galore](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mhinz/vim-galore)：Vim 从入门到精通，[中文](https://github.com/wsdjeg/vim-galore-zh_cn)
 
 
 ### 开源书籍
-19、[yast-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/DeathKing/yast-cn)：《Scheme入门教程》中译版，[在线阅读](http://deathking.github.io/yast-cn/)
-
-
-### 机器学习
-20、[captcha_break](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ypwhs/captcha_break)：使用深度学习来破解 captcha（python 生成验证码的库）验证码。该项目会通过 Keras 搭建一个深度卷积神经网络来识别 captcha 生成的图片验证码，建议使用显卡来运行该项目。可视化代码都是在 jupyter notebook 中完成的，如果你希望写成 python 脚本，稍加修改即可正常运行
+20、[yast-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/DeathKing/yast-cn)：《Scheme入门教程》中译版，[在线阅读](http://deathking.github.io/yast-cn/)
 
 
 
@@ -160,7 +160,7 @@ foo(
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

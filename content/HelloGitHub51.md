@@ -177,47 +177,47 @@ python py2sec.py -d example/ -m test1.py,bbb/
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/44998092.gif' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+24、[data-science-ipython-notebooks](https://hellogithub.com/periodical/statistics/click?target=https://github.com/donnemartin/data-science-ipython-notebooks)：数据科学的 IPython 集合。包含：TensorFlow、Theano、Caffe、scikit-learn、Spark、Hadoop、MapReduce、matplotlib、pandas、SciPy 等方方面面
+
+
+25、[djl](https://hellogithub.com/periodical/statistics/click?target=https://github.com/deepjavalibrary/djl)：亚马逊开源的一款基于 Java 语言的深度学习框架。对于 Java 开发者而言，可以在 Java 中开发及应用原生的机器学习和深度学习模型，同时简化了深度学习开发的难度。通过 DJL 提供直观的、高级的 API，Java 开发人员可以训练自己的模型，或者利用数据科学家用 Python 预先训练好的模型来进行推理。如果您恰好是对学习深度学习感兴趣的 Java 开发者，那么这个项目完全对口。运行效果如下：
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/218396611.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+26、[Surprise](https://hellogithub.com/periodical/statistics/click?target=https://github.com/NicolasHug/Surprise)：一款简单易用基于 Python scikit 的推荐系统。如果你想用 Python 上手做一套推荐系统，那你可以试试它
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/71709976.png' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-24、[flink-training-course](https://hellogithub.com/periodical/statistics/click?target=https://github.com/flink-china/flink-training-course)：Flink 视频直播教程回放集合
+27、[flink-training-course](https://hellogithub.com/periodical/statistics/click?target=https://github.com/flink-china/flink-training-course)：Flink 视频直播教程回放集合
 
 
-25、[kuboard-press](https://hellogithub.com/periodical/statistics/click?target=https://github.com/eip-work/kuboard-press)：一款基于 Kubernetes 的微服务管理界面。包含文档、教程、管理界面和实战分享
+28、[kuboard-press](https://hellogithub.com/periodical/statistics/click?target=https://github.com/eip-work/kuboard-press)：一款基于 Kubernetes 的微服务管理界面。包含文档、教程、管理界面和实战分享
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/198674674.png' style="max-width:80%; max-height=80%;"></img></p>
 
-26、[raft-zh_cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/maemual/raft-zh_cn)：《分布式 Raft 一致性算法论文》中文翻译
+29、[raft-zh_cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/maemual/raft-zh_cn)：《分布式 Raft 一致性算法论文》中文翻译
 
 
-27、[shan-shui-inf](https://hellogithub.com/periodical/statistics/click?target=https://github.com/LingDong-/shan-shui-inf)：自动生成一副山水画
+30、[shan-shui-inf](https://hellogithub.com/periodical/statistics/click?target=https://github.com/LingDong-/shan-shui-inf)：自动生成一副山水画
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/119463163.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[vscode-rainbow-fart](https://hellogithub.com/periodical/statistics/click?target=https://github.com/SaekiRaku/vscode-rainbow-fart)：一款在你编程时花式夸你的 VSCode 扩展插件。可以根据代码关键字，播放贴近代码意义的真人语音，并且有一个醒目的项目名字“彩虹屁”
+31、[vscode-rainbow-fart](https://hellogithub.com/periodical/statistics/click?target=https://github.com/SaekiRaku/vscode-rainbow-fart)：一款在你编程时花式夸你的 VSCode 扩展插件。可以根据代码关键字，播放贴近代码意义的真人语音，并且有一个醒目的项目名字“彩虹屁”
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/267863774.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-29、[go-ast-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chai2010/go-ast-book)：《Go语法树入门：开启自制编程语言和编译器之旅》
+32、[go-ast-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chai2010/go-ast-book)：《Go语法树入门：开启自制编程语言和编译器之旅》
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/160272948.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-30、[data-science-ipython-notebooks](https://hellogithub.com/periodical/statistics/click?target=https://github.com/donnemartin/data-science-ipython-notebooks)：数据科学的 IPython 集合。包含：TensorFlow、Theano、Caffe、scikit-learn、Spark、Hadoop、MapReduce、matplotlib、pandas、SciPy 等方方面面
-
-
-31、[djl](https://hellogithub.com/periodical/statistics/click?target=https://github.com/deepjavalibrary/djl)：亚马逊开源的一款基于 Java 语言的深度学习框架。对于 Java 开发者而言，可以在 Java 中开发及应用原生的机器学习和深度学习模型，同时简化了深度学习开发的难度。通过 DJL 提供直观的、高级的 API，Java 开发人员可以训练自己的模型，或者利用数据科学家用 Python 预先训练好的模型来进行推理。如果您恰好是对学习深度学习感兴趣的 Java 开发者，那么这个项目完全对口。运行效果如下：
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/218396611.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-32、[Surprise](https://hellogithub.com/periodical/statistics/click?target=https://github.com/NicolasHug/Surprise)：一款简单易用基于 Python scikit 的推荐系统。如果你想用 Python 上手做一套推荐系统，那你可以试试它
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/71709976.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -247,7 +247,7 @@ python py2sec.py -d example/ -m test1.py,bbb/
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

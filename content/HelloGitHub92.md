@@ -187,50 +187,50 @@ print(model(img))
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/241524703.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+30、[cleanlab](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cleanlab/cleanlab)：自动检测数据集中错误数据和标注的框架。该项目基于置信学习（confident learning，CL）算法，实现了自动检测出机器学习数据集中的各种问题，提高数据集质量训练出更好的模型，支持图像、文本、音频类型的数据。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/132975485.png' style="max-width:80%; max-height=80%;"></img></p>
+
+31、[ComfyUI](https://hellogithub.com/periodical/statistics/click?target=https://github.com/comfyanonymous/ComfyUI)：一个基于节点流程的 AI 绘图操作界面。该项目将 Stable Diffusion 流程分成多个节点，通过拖拽各种节点构成图像生成到处理的工作流，支持 Stable Diffusion 1.x 和 2.x 版本、组合各种模型、根据 PNG 图片生成完整的工作流等功能。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/589831718.png' style="max-width:80%; max-height=80%;"></img></p>
+
+32、[dvc](https://hellogithub.com/periodical/statistics/click?target=https://github.com/iterative/dvc)：一款针对 AI 项目的数据版本管理工具。基于 Git 的数据版本管理工具，版本化机器学习项目的数据和模型。可用于比较代码、数据、参数、模型或性能图，共享机器学习项目的数据或重现结果。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/83878269.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+33、[ml-engineering](https://hellogithub.com/periodical/statistics/click?target=https://github.com/stas00/ml-engineering)：机器学习：LLM/VLM 训练与工程。该项目是作者训练开源 BLOOM-176B 大模型和 IDEFICS-80B 多模态模型的经验总结，还提供了大量可以直接拿来用的代码和脚本，希望能够帮助你成功训练大型语言模型和多模态模型。
+
+34、[screenshot-to-code](https://hellogithub.com/periodical/statistics/click?target=https://github.com/abi/screenshot-to-code)：将截图转化为 HTML 代码的工具。该项目可以将屏幕截图转化为 HTML/JS/Tailwind CSS 代码，它使用 GPT-4 Vision 生成代码、DALL-E 3 生成相似的图片。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/718741813.gif' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-30、[Awesome-Love-Code](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sun0225SUN/Awesome-Love-Code)：表白代码收藏馆。该项目收集了 50+ 个用于表白的代码和程序，涵盖 Web、Python、C/C++、C# 等编程语言。
+35、[Awesome-Love-Code](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sun0225SUN/Awesome-Love-Code)：表白代码收藏馆。该项目收集了 50+ 个用于表白的代码和程序，涵盖 Web、Python、C/C++、C# 等编程语言。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/452528394.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[dpoint](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Jcparkyn/dpoint)：一款开源数字手写笔。该项目通过摄像头跟踪和惯性测量，实现了 6DoF 输入。触控笔可用于任何平面，仅需消费级的摄像头配合使用。
+36、[dpoint](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Jcparkyn/dpoint)：一款开源数字手写笔。该项目通过摄像头跟踪和惯性测量，实现了 6DoF 输入。触控笔可用于任何平面，仅需消费级的摄像头配合使用。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/640127889.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[linux-router](https://hellogithub.com/periodical/statistics/click?target=https://github.com/garywill/linux-router)：将 Linux 作为路由器的脚本。这是一个 Linux 软路由器的 shell 脚本，它可以通过一条命令将 Linux 设备作为路由器，提供互联网共享、DNS 服务器、WiFi 热点等功能。来自 [@GunVeda](https://hellogithub.com/user/Sh5pcgoqDCZFl1E) 的分享
+37、[linux-router](https://hellogithub.com/periodical/statistics/click?target=https://github.com/garywill/linux-router)：将 Linux 作为路由器的脚本。这是一个 Linux 软路由器的 shell 脚本，它可以通过一条命令将 Linux 设备作为路由器，提供互联网共享、DNS 服务器、WiFi 热点等功能。来自 [@GunVeda](https://hellogithub.com/user/Sh5pcgoqDCZFl1E) 的分享
 
-33、[nerd-fonts](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ryanoasis/nerd-fonts)：解决字体缺失问题的项目。这是一个收集了 3600+ 图标的字体集合和补丁工具，该项目不是一个字体，而是一个可以将多种字体中的图标，作为补丁添加到目标字体中的工具。
+38、[nerd-fonts](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ryanoasis/nerd-fonts)：解决字体缺失问题的项目。这是一个收集了 3600+ 图标的字体集合和补丁工具，该项目不是一个字体，而是一个可以将多种字体中的图标，作为补丁添加到目标字体中的工具。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/27574418.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[RehabilitationGuide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AnsonZnl/RehabilitationGuide)：程序员颈椎病腰突康复指南。该项目是作者从确诊颈椎病、腰椎间盘突出到康复的经验和方法分享。来自 [@九旬UKDhO](https://hellogithub.com/user/eubG3QpEL5rw4ng) 的分享
+39、[RehabilitationGuide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AnsonZnl/RehabilitationGuide)：程序员颈椎病腰突康复指南。该项目是作者从确诊颈椎病、腰椎间盘突出到康复的经验和方法分享。来自 [@九旬UKDhO](https://hellogithub.com/user/eubG3QpEL5rw4ng) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/709155828.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[smhasher](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rurban/smhasher)：测试 Hash 函数质量和速度的项目。该项目展示了 200+ 种非加密哈希函数，在分布、冲突和性能等方面的测试结果。
+40、[smhasher](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rurban/smhasher)：测试 Hash 函数质量和速度的项目。该项目展示了 200+ 种非加密哈希函数，在分布、冲突和性能等方面的测试结果。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/18192493.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-36、[typescript-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gibbok/typescript-book)：《简明的 TypeScript 书》。该书全面、精练地介绍了 TypeScript 语言，涵盖了 TypeScript 语言的入门、类型系统、基础语法和高级用法等知识。
-
-### 机器学习
-37、[cleanlab](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cleanlab/cleanlab)：自动检测数据集中错误数据和标注的框架。该项目基于置信学习（confident learning，CL）算法，实现了自动检测出机器学习数据集中的各种问题，提高数据集质量训练出更好的模型，支持图像、文本、音频类型的数据。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/132975485.png' style="max-width:80%; max-height=80%;"></img></p>
-
-38、[ComfyUI](https://hellogithub.com/periodical/statistics/click?target=https://github.com/comfyanonymous/ComfyUI)：一个基于节点流程的 AI 绘图操作界面。该项目将 Stable Diffusion 流程分成多个节点，通过拖拽各种节点构成图像生成到处理的工作流，支持 Stable Diffusion 1.x 和 2.x 版本、组合各种模型、根据 PNG 图片生成完整的工作流等功能。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/589831718.png' style="max-width:80%; max-height=80%;"></img></p>
-
-39、[dvc](https://hellogithub.com/periodical/statistics/click?target=https://github.com/iterative/dvc)：一款针对 AI 项目的数据版本管理工具。基于 Git 的数据版本管理工具，版本化机器学习项目的数据和模型。可用于比较代码、数据、参数、模型或性能图，共享机器学习项目的数据或重现结果。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/83878269.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-40、[ml-engineering](https://hellogithub.com/periodical/statistics/click?target=https://github.com/stas00/ml-engineering)：机器学习：LLM/VLM 训练与工程。该项目是作者训练开源 BLOOM-176B 大模型和 IDEFICS-80B 多模态模型的经验总结，还提供了大量可以直接拿来用的代码和脚本，希望能够帮助你成功训练大型语言模型和多模态模型。
-
-41、[screenshot-to-code](https://hellogithub.com/periodical/statistics/click?target=https://github.com/abi/screenshot-to-code)：将截图转化为 HTML 代码的工具。该项目可以将屏幕截图转化为 HTML/JS/Tailwind CSS 代码，它使用 GPT-4 Vision 生成代码、DALL-E 3 生成相似的图片。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/718741813.gif' style="max-width:80%; max-height=80%;"></img></p>
+41、[typescript-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gibbok/typescript-book)：《简明的 TypeScript 书》。该书全面、精练地介绍了 TypeScript 语言，涵盖了 TypeScript 语言的入门、类型系统、基础语法和高级用法等知识。
 
 
 
@@ -260,7 +260,7 @@ print(model(img))
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

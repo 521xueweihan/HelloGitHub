@@ -251,69 +251,69 @@ alert.show()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/64705781.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+28、[DouZero_For_HappyDouDiZhu](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu)：基于快手开源的斗地主强化学习框架，实现的欢乐斗地主 AI 助手
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/384885506.png' style="max-width:80%; max-height=80%;"></img></p>
+
+29、[HyperLPR](https://hellogithub.com/periodical/statistics/click?target=https://github.com/szad670401/HyperLPR)：中文车牌识别开源框架。支持 Python、Android、C++ 等编程语言调用，接入简单准确度较高。推荐给有车牌识别需求的小伙伴
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/104621881.png' style="max-width:80%; max-height=80%;"></img></p>
+
+30、[insightface](https://hellogithub.com/periodical/statistics/click?target=https://github.com/deepinsight/insightface)：支持 2D&3D 人脸分析的 Python 库。基于 PyTorch 和 MXNet 实现，采用先进的 ArcFace 人脸识别方法，高效地实现了人脸检测、识别等功能
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/102057483.png' style="max-width:80%; max-height=80%;"></img></p>
+
+31、[Statistical-Learning-Method_Code](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Dod-o/Statistical-Learning-Method_Code)：用 Python 实现《统计学习方法》书中的算法
+
+
 ### 其它
-28、[adarkroom](https://hellogithub.com/periodical/statistics/click?target=https://github.com/doublespeakgames/adarkroom)：《小黑屋》是一款有趣的文字冒险类游戏。支持中文能够运行在浏览器、iOS 和 Android 设备，浏览器上默认会保存游戏进度到本地，另外还支持存档导入/导出防止丢失。友情提示：没玩过的同学刚开始容易摸不着头脑，因为事件触发需要时间，看滚动的文字+点击“添柴”耐心等 30 秒，就会触发新的事件了。如果你喜欢养成类游戏，那它一定会是你的菜。[在线试玩](http://adarkroom.doublespeakgames.com/?lang=zh_cn)
+32、[adarkroom](https://hellogithub.com/periodical/statistics/click?target=https://github.com/doublespeakgames/adarkroom)：《小黑屋》是一款有趣的文字冒险类游戏。支持中文能够运行在浏览器、iOS 和 Android 设备，浏览器上默认会保存游戏进度到本地，另外还支持存档导入/导出防止丢失。友情提示：没玩过的同学刚开始容易摸不着头脑，因为事件触发需要时间，看滚动的文字+点击“添柴”耐心等 30 秒，就会触发新的事件了。如果你喜欢养成类游戏，那它一定会是你的菜。[在线试玩](http://adarkroom.doublespeakgames.com/?lang=zh_cn)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/11152831.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[developer-roadmap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kamranahmedse/developer-roadmap)：开发者学习路线图。这是一份包含后端、前端、运维部署等方向的学习路径图，帮你指明前进的方向。[中文](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
+33、[developer-roadmap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kamranahmedse/developer-roadmap)：开发者学习路线图。这是一份包含后端、前端、运维部署等方向的学习路径图，帮你指明前进的方向。[中文](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/85077558.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[elasticsearch-dump](https://hellogithub.com/periodical/statistics/click?target=https://github.com/elasticsearch-dump/elasticsearch-dump)：Elasticsearch 数据导入/导出工具，可以用于 ES 的数据备份和迁移
+34、[elasticsearch-dump](https://hellogithub.com/periodical/statistics/click?target=https://github.com/elasticsearch-dump/elasticsearch-dump)：Elasticsearch 数据导入/导出工具，可以用于 ES 的数据备份和迁移
 
 
-31、[freeCodeCamp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/freeCodeCamp/freeCodeCamp)：免费学习编程的开源社区。它创立于 2014 年，期间帮助了无数编程爱好者学习编程，[中文站点](https://chinese.freecodecamp.org/)于 2021 年上线。freeCodeCamp 采用在线编程闯关的学习形式，遇到问题还可以通过活跃的社区答疑解惑。平台鼓励新手多动手写代码、运行代码，提倡 RSA 即：遇到问题先阅读文档资料，然后求助于搜索引擎，最后实在没招了再提问，这样有助于培养良好的提问习惯终身受益。同时作为非盈利组织，freeCodeCamp 不仅提供了免费学习的课程还开源了网站代码
+35、[freeCodeCamp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/freeCodeCamp/freeCodeCamp)：免费学习编程的开源社区。它创立于 2014 年，期间帮助了无数编程爱好者学习编程，[中文站点](https://chinese.freecodecamp.org/)于 2021 年上线。freeCodeCamp 采用在线编程闯关的学习形式，遇到问题还可以通过活跃的社区答疑解惑。平台鼓励新手多动手写代码、运行代码，提倡 RSA 即：遇到问题先阅读文档资料，然后求助于搜索引擎，最后实在没招了再提问，这样有助于培养良好的提问习惯终身受益。同时作为非盈利组织，freeCodeCamp 不仅提供了免费学习的课程还开源了网站代码
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/28457823.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[git-split-diffs](https://hellogithub.com/periodical/statistics/click?target=https://github.com/banga/git-split-diffs)：更加直观展示代码改动的命令行工具。在终端上使用 `git diff` 查看修改时，默认的展示效果并不直观，该项目将代码的改动以类似 GitHub 网站的风格展示方便查看，还有多种主题可供选择
+36、[git-split-diffs](https://hellogithub.com/periodical/statistics/click?target=https://github.com/banga/git-split-diffs)：更加直观展示代码改动的命令行工具。在终端上使用 `git diff` 查看修改时，默认的展示效果并不直观，该项目将代码的改动以类似 GitHub 网站的风格展示方便查看，还有多种主题可供选择
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/356674026.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[hyper](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vercel/hyper)：基于 Electron 的超高颜值终端工具。颜值即正义不仅在找对象时有用，挑工具时也同样奏效。它支持包括 Windows、Linux、macOS 等主流操作系统快下载试试，让你的终端漂亮得不像实力派
+37、[hyper](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vercel/hyper)：基于 Electron 的超高颜值终端工具。颜值即正义不仅在找对象时有用，挑工具时也同样奏效。它支持包括 Windows、Linux、macOS 等主流操作系统快下载试试，让你的终端漂亮得不像实力派
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/62367558.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[nocodb](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nocodb/nocodb)：开源的智能表格制作工具。我最初以为 nocodb 只是数据库桌面管理工具，后来我发现自己狭隘了。它不仅可以把数据库和图片等数据转化成表格的方式展现，还提供了团队协作、工作流接入以及更加开放 API 服务。让团队在数据上工作，数据就在手边“即视即用”。知名电子表格-数据库混合体 Airtable 产品的开源替代品
+38、[nocodb](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nocodb/nocodb)：开源的智能表格制作工具。我最初以为 nocodb 只是数据库桌面管理工具，后来我发现自己狭隘了。它不仅可以把数据库和图片等数据转化成表格的方式展现，还提供了团队协作、工作流接入以及更加开放 API 服务。让团队在数据上工作，数据就在手边“即视即用”。知名电子表格-数据库混合体 Airtable 产品的开源替代品
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/108761645.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-35、[CheatSheetSeries](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OWASP/CheatSheetSeries)：OWASP（开放式 Web 应用程序安全项目）速查表。项目由 OWASP 社区的安全专家编写，列举了多种安全问题和解决方案，从而更好地保护你的 Web 应用。[在线阅读](https://cheatsheetseries.owasp.org/)
+39、[CheatSheetSeries](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OWASP/CheatSheetSeries)：OWASP（开放式 Web 应用程序安全项目）速查表。项目由 OWASP 社区的安全专家编写，列举了多种安全问题和解决方案，从而更好地保护你的 Web 应用。[在线阅读](https://cheatsheetseries.owasp.org/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/162723104.png' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[http-api-guide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bolasblack/http-api-guide)：《HTTP 接口设计指北》内容为设计 Web API 的一些建议
+40、[http-api-guide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bolasblack/http-api-guide)：《HTTP 接口设计指北》内容为设计 Web API 的一些建议
 
 
-37、[understand_linux_process](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tobegit3hub/understand_linux_process)：《理解 Linux 进程》
-
-
-### 机器学习
-38、[DouZero_For_HappyDouDiZhu](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu)：基于快手开源的斗地主强化学习框架，实现的欢乐斗地主 AI 助手
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/384885506.png' style="max-width:80%; max-height=80%;"></img></p>
-
-39、[HyperLPR](https://hellogithub.com/periodical/statistics/click?target=https://github.com/szad670401/HyperLPR)：中文车牌识别开源框架。支持 Python、Android、C++ 等编程语言调用，接入简单准确度较高。推荐给有车牌识别需求的小伙伴
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/104621881.png' style="max-width:80%; max-height=80%;"></img></p>
-
-40、[insightface](https://hellogithub.com/periodical/statistics/click?target=https://github.com/deepinsight/insightface)：支持 2D&3D 人脸分析的 Python 库。基于 PyTorch 和 MXNet 实现，采用先进的 ArcFace 人脸识别方法，高效地实现了人脸检测、识别等功能
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/102057483.png' style="max-width:80%; max-height=80%;"></img></p>
-
-41、[Statistical-Learning-Method_Code](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Dod-o/Statistical-Learning-Method_Code)：用 Python 实现《统计学习方法》书中的算法
+41、[understand_linux_process](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tobegit3hub/understand_linux_process)：《理解 Linux 进程》
 
 
 
@@ -344,7 +344,7 @@ alert.show()
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

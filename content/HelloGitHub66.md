@@ -245,31 +245,45 @@ static void take_gil(PyThreadState *tstate)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/37778564.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+29、[GameAISDK](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Tencent/GameAISDK)：基于图像识别的 AI 自动化框架，支持吃鸡类、射击类、MOBA 类等游戏类型。内置多种图像识别算法和 AI 算法，不用抠图完全基于图像识别的 AI 训练和框架
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/287203686.png' style="max-width:80%; max-height=80%;"></img></p>
+
+30、[genshin_auto_fish](https://hellogithub.com/periodical/statistics/click?target=https://github.com/IrisRainbowNeko/genshin_auto_fish)：基于深度学习的原神手游自动钓鱼工具。其中用 YOLOX 搞定鱼的定位和类型的识别以及鱼竿落点的定位，用 DQN 搞定自适应控制钓鱼过程的点击，让力度落在最佳区域内
+
+
+31、[invoice](https://hellogithub.com/periodical/statistics/click?target=https://github.com/guanshuicheng/invoice)：增值税发票 OCR 识别项目。包含训练好的模型和微服务，启动后可直接通过接口调用
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/200155602.png' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-29、[awesome-for-beginners](https://hellogithub.com/periodical/statistics/click?target=https://github.com/MunGell/awesome-for-beginners)：对初学者友好的开源项目集合。如果你想参与到开源项目的建设，可以在这个集合中寻找项目，祝你早日完成第一个贡献（PR）
+32、[awesome-for-beginners](https://hellogithub.com/periodical/statistics/click?target=https://github.com/MunGell/awesome-for-beginners)：对初学者友好的开源项目集合。如果你想参与到开源项目的建设，可以在这个集合中寻找项目，祝你早日完成第一个贡献（PR）
 
 
-30、[chinese-dos-games](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rwv/chinese-dos-games)：中文 DOS 游戏集合。[在线试玩](https://dos.zczc.cz/)
+33、[chinese-dos-games](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rwv/chinese-dos-games)：中文 DOS 游戏集合。[在线试玩](https://dos.zczc.cz/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/146759572.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[lifeRestart](https://hellogithub.com/periodical/statistics/click?target=https://github.com/VickScarlet/lifeRestart)：在线文字游戏《人生重开模拟器》。纯文字游戏只需开局选天赋分配初始属性，后面就是看岁月如白驹过隙，转眼就过完了这一生，不满意的话可以轻松重开新的人生。游戏凭借诙谐幽默的文案和出乎意料的结尾，广受好评。[在线试玩](https://liferestart.syaro.io/view/)
+34、[lifeRestart](https://hellogithub.com/periodical/statistics/click?target=https://github.com/VickScarlet/lifeRestart)：在线文字游戏《人生重开模拟器》。纯文字游戏只需开局选天赋分配初始属性，后面就是看岁月如白驹过隙，转眼就过完了这一生，不满意的话可以轻松重开新的人生。游戏凭借诙谐幽默的文案和出乎意料的结尾，广受好评。[在线试玩](https://liferestart.syaro.io/view/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/396193750.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[QWidgetDemo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/feiyangqingyun/QWidgetDemo)：Qt 编写的示例集合。每个示例都可独立运行、代码简洁易懂，适合初学者学习
+35、[QWidgetDemo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/feiyangqingyun/QWidgetDemo)：Qt 编写的示例集合。每个示例都可独立运行、代码简洁易懂，适合初学者学习
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/212790745.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[xemu](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xemu-project/xemu)：免费开源的 Xbox 模拟器，支持 Windows、Linux、macOS 系统
+36、[xemu](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xemu-project/xemu)：免费开源的 Xbox 模拟器，支持 Windows、Linux、macOS 系统
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/241270996.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[yabai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/koekeishiya/yabai)：适用于 macOS 的平铺式窗口管理器。该工具可以轻松实现窗口平铺不重叠，不用鼠标仅通过键盘移动、调整、切换、全屏、自动布局等管理窗口的操作
+37、[yabai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/koekeishiya/yabai)：适用于 macOS 的平铺式窗口管理器。该工具可以轻松实现窗口平铺不重叠，不用鼠标仅通过键盘移动、调整、切换、全屏、自动布局等管理窗口的操作
 - `Control+Option+A/D`：激活 平铺/浮动 模式
 - `Option+h/j/k/l`：使 左/下/上/右 侧窗口成为活动窗口
 - `Shift+Option+h/j/k/l`：向 左/下/上/右 移动当前活动窗口
@@ -279,27 +293,13 @@ static void take_gil(PyThreadState *tstate)
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/184909163.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-35、[introduction-to-front-end-engineering](https://hellogithub.com/periodical/statistics/click?target=https://github.com/woai3c/introduction-to-front-end-engineering)：一本小书《带你入门前端工程》。该书是作者对过去两年前端工程化实践的经验和心得总结，[在线阅读](https://woai3c.github.io/introduction-to-front-end-engineering/)
+38、[introduction-to-front-end-engineering](https://hellogithub.com/periodical/statistics/click?target=https://github.com/woai3c/introduction-to-front-end-engineering)：一本小书《带你入门前端工程》。该书是作者对过去两年前端工程化实践的经验和心得总结，[在线阅读](https://woai3c.github.io/introduction-to-front-end-engineering/)
 
 
-36、[pumpkin-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/datawhalechina/pumpkin-book)：《机器学习公式详解》西瓜书公式推导解析。[在线阅读](https://datawhalechina.github.io/pumpkin-book/)
+39、[pumpkin-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/datawhalechina/pumpkin-book)：《机器学习公式详解》西瓜书公式推导解析。[在线阅读](https://datawhalechina.github.io/pumpkin-book/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/162783195.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-37、[GameAISDK](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Tencent/GameAISDK)：基于图像识别的 AI 自动化框架，支持吃鸡类、射击类、MOBA 类等游戏类型。内置多种图像识别算法和 AI 算法，不用抠图完全基于图像识别的 AI 训练和框架
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/287203686.png' style="max-width:80%; max-height=80%;"></img></p>
-
-38、[genshin_auto_fish](https://hellogithub.com/periodical/statistics/click?target=https://github.com/IrisRainbowNeko/genshin_auto_fish)：基于深度学习的原神手游自动钓鱼工具。其中用 YOLOX 搞定鱼的定位和类型的识别以及鱼竿落点的定位，用 DQN 搞定自适应控制钓鱼过程的点击，让力度落在最佳区域内
-
-
-39、[invoice](https://hellogithub.com/periodical/statistics/click?target=https://github.com/guanshuicheng/invoice)：增值税发票 OCR 识别项目。包含训练好的模型和微服务，启动后可直接通过接口调用
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/200155602.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -329,7 +329,7 @@ static void take_gil(PyThreadState *tstate)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

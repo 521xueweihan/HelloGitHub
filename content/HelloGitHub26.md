@@ -239,31 +239,31 @@ public func print<T>(file: String = #file, function: String = #function, line: I
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/117513852.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-20、[a-cartoon-intro-to-redux-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jasonslyvia/a-cartoon-intro-to-redux-cn)：《看漫画学 Redux》
-
-
-21、[architect-awesome](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xingshaocheng/architect-awesome)：《后端架构师技术图谱》
-
-
-22、[architecture.of.internet-product](https://hellogithub.com/periodical/statistics/click?target=https://github.com/davideuler/architecture.of.internet-product)：知名互联网公司的架构文档
-
-
-23、[practical-programming-books](https://hellogithub.com/periodical/statistics/click?target=https://github.com/EZLippi/practical-programming-books)：实用的计算机相关技术书籍、入门的实用教程、技术网站、博文集合
-
-
-24、[public-apis](https://hellogithub.com/periodical/statistics/click?target=https://github.com/public-apis/public-apis)：（英文）用于 Web 开发的公共 API 集合
-
-
-### 开源书籍
-25、[sicp-py-zh](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wizardforcel/sicp-py-zh)：《SICP Python 描述中文版》[在线阅读](https://wizardforcel.gitbooks.io/sicp-py/content/)
-
-
-### 机器学习
-26、[AlphaZero_Gomoku](https://hellogithub.com/periodical/statistics/click?target=https://github.com/junxiaosong/AlphaZero_Gomoku)：使用 TensorFlow/Pytorch/Theano 实现 AlphaZero 算法，通过自我对弈从零训练五子棋 AI。实现简单、清晰，适合学习、了解 AlphaGo Zero 背后的关键思想和技术细节
+### 人工智能
+20、[AlphaZero_Gomoku](https://hellogithub.com/periodical/statistics/click?target=https://github.com/junxiaosong/AlphaZero_Gomoku)：使用 TensorFlow/Pytorch/Theano 实现 AlphaZero 算法，通过自我对弈从零训练五子棋 AI。实现简单、清晰，适合学习、了解 AlphaGo Zero 背后的关键思想和技术细节
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/114990078.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+21、[a-cartoon-intro-to-redux-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jasonslyvia/a-cartoon-intro-to-redux-cn)：《看漫画学 Redux》
+
+
+22、[architect-awesome](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xingshaocheng/architect-awesome)：《后端架构师技术图谱》
+
+
+23、[architecture.of.internet-product](https://hellogithub.com/periodical/statistics/click?target=https://github.com/davideuler/architecture.of.internet-product)：知名互联网公司的架构文档
+
+
+24、[practical-programming-books](https://hellogithub.com/periodical/statistics/click?target=https://github.com/EZLippi/practical-programming-books)：实用的计算机相关技术书籍、入门的实用教程、技术网站、博文集合
+
+
+25、[public-apis](https://hellogithub.com/periodical/statistics/click?target=https://github.com/public-apis/public-apis)：（英文）用于 Web 开发的公共 API 集合
+
+
+### 开源书籍
+26、[sicp-py-zh](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wizardforcel/sicp-py-zh)：《SICP Python 描述中文版》[在线阅读](https://wizardforcel.gitbooks.io/sicp-py/content/)
+
 
 
 
@@ -293,7 +293,7 @@ public func print<T>(file: String = #file, function: String = #function, line: I
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

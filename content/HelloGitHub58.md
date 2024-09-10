@@ -267,24 +267,35 @@ provider.request(.zen) { result in
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/125547624.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+27、[DeepMoji](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bfelbo/DeepMoji)：通过深度学习把自然语言转化成 emoji 表情的项目。用机器学习来了解文字表达的情感，最后返回几个感情相近的 emoji 表情。该项目有趣且易于学习，包含机器学习项目该有的所有内容：示例、模型、数据、测试、源码等
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/97591379.png' style="max-width:80%; max-height=80%;"></img></p>
+
+28、[nanodet](https://hellogithub.com/periodical/statistics/click?target=https://github.com/RangiLyu/nanodet)：移动端的轻量级 Anchor-Free 目标检测模型。具有体积小（1.8 MB）、速度快（10.23 ms）、便于训练（硬件要求低）、部署简单（安卓示例）等优点
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/305316768.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-27、[Ad-papers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wzhe06/Ad-papers)：计算广告相关论文、学习资料和业界分享集合
+29、[Ad-papers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wzhe06/Ad-papers)：计算广告相关论文、学习资料和业界分享集合
 
 
-28、[awesome-seo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/madawei2699/awesome-seo)：有关 Google SEO 和流量变现资料的项目。该项目是作者学习 SEO 过程中整理的权威资料，推荐给有个人网站的小伙伴们
+30、[awesome-seo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/madawei2699/awesome-seo)：有关 Google SEO 和流量变现资料的项目。该项目是作者学习 SEO 过程中整理的权威资料，推荐给有个人网站的小伙伴们
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/327323917.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[free-font](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wordshub/free-font)：免费可商用的字体集合。这个项目收录的都是免费可商用的字体，并且仔细地标记出了商用时是否需要获取授权等细节
+31、[free-font](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wordshub/free-font)：免费可商用的字体集合。这个项目收录的都是免费可商用的字体，并且仔细地标记出了商用时是否需要获取授权等细节
 
 
-30、[game-programmer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/miloyip/game-programmer)：游戏程序员的学习路径图。一位游戏开发大神开源的项目，希望能够帮助向往游戏开发的你 or 你的孩子，走上游戏开发这条“不归路”。[中文](https://miloyip.github.io/game-programmer/game-programmer-zh-cn.svg)
+32、[game-programmer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/miloyip/game-programmer)：游戏程序员的学习路径图。一位游戏开发大神开源的项目，希望能够帮助向往游戏开发的你 or 你的孩子，走上游戏开发这条“不归路”。[中文](https://miloyip.github.io/game-programmer/game-programmer-zh-cn.svg)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/75701562.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[luarocks](https://hellogithub.com/periodical/statistics/click?target=https://github.com/luarocks/luarocks)：Lua 包管理工具。支持三大平台，安装和使用如下：
+33、[luarocks](https://hellogithub.com/periodical/statistics/click?target=https://github.com/luarocks/luarocks)：Lua 包管理工具。支持三大平台，安装和使用如下：
 ```
 $ wget https://luarocks.org/releases/luarocks-3.5.0.tar.gz
 $ tar zxpf luarocks-3.5.0.tar.gz
@@ -297,30 +308,19 @@ Lua 5.3.5 Copyright (C) 1994-2018 Lua.org, PUC-Rio
 ```
 
 
-32、[makeaplan_public](https://hellogithub.com/periodical/statistics/click?target=https://github.com/DuanJiaNing/makeaplan_public)：使用 Flutter 和 Go 开发的「制定计划 APP」。帮助用户记录和追踪自己的计划，辅助用户完成自己的目标。手机端用的是 Flutter 后端用 Go 实现，服务器和客户端通过 ProtoBuffer+grpc 进行通信。可作为学习 Flutter 和 Go 的实战项目
+34、[makeaplan_public](https://hellogithub.com/periodical/statistics/click?target=https://github.com/DuanJiaNing/makeaplan_public)：使用 Flutter 和 Go 开发的「制定计划 APP」。帮助用户记录和追踪自己的计划，辅助用户完成自己的目标。手机端用的是 Flutter 后端用 Go 实现，服务器和客户端通过 ProtoBuffer+grpc 进行通信。可作为学习 Flutter 和 Go 的实战项目
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/316890509.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[theia](https://hellogithub.com/periodical/statistics/click?target=https://github.com/eclipse-theia/theia)：Eclipse 开源的 IDE 工具。我岁数大了，用惯了一个 IDE 就不想换了，喜欢尝鲜的小伙伴可以去把玩一下。看介绍像是一个拥抱开源，与 VS Code 功能相近的开发工具
+35、[theia](https://hellogithub.com/periodical/statistics/click?target=https://github.com/eclipse-theia/theia)：Eclipse 开源的 IDE 工具。我岁数大了，用惯了一个 IDE 就不想换了，喜欢尝鲜的小伙伴可以去把玩一下。看介绍像是一个拥抱开源，与 VS Code 功能相近的开发工具
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/83050680.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-34、[DeepLearning-500-questions](https://hellogithub.com/periodical/statistics/click?target=https://github.com/scutan90/DeepLearning-500-questions)：《深度学习 500 问》AI 工程师面试知识点的书籍。内容涵盖深度学习的知识点及各大公司常见的笔试题
+36、[DeepLearning-500-questions](https://hellogithub.com/periodical/statistics/click?target=https://github.com/scutan90/DeepLearning-500-questions)：《深度学习 500 问》AI 工程师面试知识点的书籍。内容涵盖深度学习的知识点及各大公司常见的笔试题
 
-
-### 机器学习
-35、[DeepMoji](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bfelbo/DeepMoji)：通过深度学习把自然语言转化成 emoji 表情的项目。用机器学习来了解文字表达的情感，最后返回几个感情相近的 emoji 表情。该项目有趣且易于学习，包含机器学习项目该有的所有内容：示例、模型、数据、测试、源码等
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/97591379.png' style="max-width:80%; max-height=80%;"></img></p>
-
-36、[nanodet](https://hellogithub.com/periodical/statistics/click?target=https://github.com/RangiLyu/nanodet)：移动端的轻量级 Anchor-Free 目标检测模型。具有体积小（1.8 MB）、速度快（10.23 ms）、便于训练（硬件要求低）、部署简单（安卓示例）等优点
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/305316768.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -350,7 +350,7 @@ Lua 5.3.5 Copyright (C) 1994-2018 Lua.org, PUC-Rio
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

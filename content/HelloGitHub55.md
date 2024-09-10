@@ -227,38 +227,8 @@ beeplay()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/189285554.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-23、[keysim](https://hellogithub.com/periodical/statistics/click?target=https://github.com/crsnbrt/keysim)：键盘配色预览工具。“定制”这个操作一听就很贵，下单之前先这个工具先看看效果吧，避免浪费钱。[在线尝试](https://keyboardsimulator.xyz/)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/294258257.png' style="max-width:80%; max-height=80%;"></img></p>
-
-24、[socialify](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wei/socialify)：一键自动生成 GitHub 仓库头图。很多 GitHub 开源项目的作者不会用 PS，想要制作一张项目推广图就很困难，Socialify 就是帮你解决这个头疼的问题。[在线尝试](https://socialify.git.ci/)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/297803332.png' style="max-width:80%; max-height=80%;"></img></p>
-
-25、[tabler-icons](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tabler/tabler-icons)：一组免费开源的图标。目前共有 850+ 个图标，我觉得都挺好看的，您觉得呢？
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/243546335.png' style="max-width:80%; max-height=80%;"></img></p>
-
-26、[ZY-Player](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Hunlongyu/ZY-Player)：免费无广告、高颜值+多平台的桌面视频资源播放器。功能如下：
-- 全平台支持 Windows、Mac、Linux
-- 视频源支持自定义, 支持导入/导出
-- 播放历史, 自动跳转历史进度
-- 支持精简模式, 摸鱼划水
-- 显示豆瓣评分
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/224362151.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 开源书籍
-27、[Mastering_Go_ZH_CN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hantmac/Mastering_Go_ZH_CN)：《Mastering Go》的中文翻译版《玩转 Go》。[在线阅读](https://wskdsgcf.gitbook.io/mastering-go-zh-cn/)
-
-
-### 机器学习
-28、[mlflow](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mlflow/mlflow)：一个简化机器学习开发的平台，支持跟踪实验、代码打包、部署模型等。它提供了一套轻量级的 API，可与目前主流机器学习 TensorFlow、PyTorch、XGBoost 等库轻松整合
+### 人工智能
+23、[mlflow](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mlflow/mlflow)：一个简化机器学习开发的平台，支持跟踪实验、代码打包、部署模型等。它提供了一套轻量级的 API，可与目前主流机器学习 TensorFlow、PyTorch、XGBoost 等库轻松整合
 ```python
 # 安装：$ pip install mlflow
 # 启动：$ mlflow ui
@@ -272,7 +242,7 @@ mlflow.keras.autolog()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/136202695.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[snownlp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/isnowfy/snownlp)：一个 Python 写的自然语言处理库。使用简单、功能强大，支持中文分词、词性标注、情感分析等
+24、[snownlp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/isnowfy/snownlp)：一个 Python 写的自然语言处理库。使用简单、功能强大，支持中文分词、词性标注、情感分析等
 ```python
 from snownlp import SnowNLP
 
@@ -286,10 +256,40 @@ s.sentiments    # 0.9769663402895832 positive的概率
 ```
 
 
-30、[video-object-removal](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zllrunning/video-object-removal)：通过 Pytorch 实现绘制一个边界框，即可删除视频中要删除的对象。下图是演示操作，框中红色是抹掉的部分，删除前后的效果对比图可进到项目首页查看
+25、[video-object-removal](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zllrunning/video-object-removal)：通过 Pytorch 实现绘制一个边界框，即可删除视频中要删除的对象。下图是演示操作，框中红色是抹掉的部分，删除前后的效果对比图可进到项目首页查看
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/194876821.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+26、[keysim](https://hellogithub.com/periodical/statistics/click?target=https://github.com/crsnbrt/keysim)：键盘配色预览工具。“定制”这个操作一听就很贵，下单之前先这个工具先看看效果吧，避免浪费钱。[在线尝试](https://keyboardsimulator.xyz/)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/294258257.png' style="max-width:80%; max-height=80%;"></img></p>
+
+27、[socialify](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wei/socialify)：一键自动生成 GitHub 仓库头图。很多 GitHub 开源项目的作者不会用 PS，想要制作一张项目推广图就很困难，Socialify 就是帮你解决这个头疼的问题。[在线尝试](https://socialify.git.ci/)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/297803332.png' style="max-width:80%; max-height=80%;"></img></p>
+
+28、[tabler-icons](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tabler/tabler-icons)：一组免费开源的图标。目前共有 850+ 个图标，我觉得都挺好看的，您觉得呢？
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/243546335.png' style="max-width:80%; max-height=80%;"></img></p>
+
+29、[ZY-Player](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Hunlongyu/ZY-Player)：免费无广告、高颜值+多平台的桌面视频资源播放器。功能如下：
+- 全平台支持 Windows、Mac、Linux
+- 视频源支持自定义, 支持导入/导出
+- 播放历史, 自动跳转历史进度
+- 支持精简模式, 摸鱼划水
+- 显示豆瓣评分
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/55/224362151.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 开源书籍
+30、[Mastering_Go_ZH_CN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hantmac/Mastering_Go_ZH_CN)：《Mastering Go》的中文翻译版《玩转 Go》。[在线阅读](https://wskdsgcf.gitbook.io/mastering-go-zh-cn/)
+
 
 
 
@@ -319,7 +319,7 @@ s.sentiments    # 0.9769663402895832 positive的概率
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

@@ -161,7 +161,7 @@ curl http://localhost:8080/v1/chat/completions -H "Content-Type: application/jso
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/9193949.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
-24、[domain-admin](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mouday/domain-admin)：域名和 SSL 证书监测平台。采用 Flask+peewee+Vue3 构建的域名和 SSL 证书到期监测平台，支持批量导入域名、多域名管理、到期通知等功能。
+24、[domain-admin](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dromara/domain-admin)：域名和 SSL 证书监测平台。采用 Flask+peewee+Vue3 构建的域名和 SSL 证书到期监测平台，支持批量导入域名、多域名管理、到期通知等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/540356571.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -212,46 +212,46 @@ play(guitar, bpm=100, instrument=25)
 
 33、[swift-foundation](https://hellogithub.com/periodical/statistics/click?target=https://github.com/apple/swift-foundation)：用 Swift 重写后的 Foundation 框架。Foundation 框架是 macOS 和 iOS 的基础组件(标准库)，该项目是 Apple 用 Swift 重写后的 Foundation 源码，它更快、更安全。
 
+### 人工智能
+34、[AI4Animation](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sebastianstarke/AI4Animation)：AI 生成游戏角色动画。该项目可以基于原始的动作捕捉数据，生成更加自然、可控的角色动画，解决两足、四足动物的动画生成问题，比如无需人为干涉就能生成坐下、跳跃、开门、武术等复杂动作的动画。来自 [@松果](https://hellogithub.com/user/EFn7Z3e6r0cIpLS) 的分享
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/98470332.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+35、[GFPGAN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TencentARC/GFPGAN)：腾讯开源的人脸修复算法。它可以用于修复像素低、模糊、破损的人脸图像，尤其是在脸部细节和清晰度方面，修复效果尤为出色。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/349321229.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+36、[ImageBind](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facebookresearch/ImageBind)：连接多种感官数据的 AI 模型。这是一个由 Meta AI 开源的新型多模态 AI 模型，支持在图像、文本、音频等六种不同模态之间任意转换。比如它可以根据一段火车的音频，自动生成火车的照片、视频和一段文本。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/618029110.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+37、[tuning_playbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/google-research/tuning_playbook)：深度学习调优指南。该指南出自几位谷歌大脑研究员的深度学习模型调参经验总结，内容包括如何开始新项目、提高模型性能的方法和训练过程中的经验，适合已掌握机器学习基本知识、对优化深度学习模型性能感兴趣的工程师和研究员阅读。
+
 ### 其它
-34、[ESP32-Paxcounter](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cyberman54/ESP32-Paxcounter)：基于 WiFi 和蓝牙的客流计数器。一款基于廉价的 ESP32 开发板的实时客流量计数器，它通过监测附近的 WiFi 和蓝牙信号，在不侵犯隐私的情况下实现计数。来自 [@松果](https://hellogithub.com/user/EFn7Z3e6r0cIpLS) 的分享
+38、[ESP32-Paxcounter](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cyberman54/ESP32-Paxcounter)：基于 WiFi 和蓝牙的客流计数器。一款基于廉价的 ESP32 开发板的实时客流量计数器，它通过监测附近的 WiFi 和蓝牙信号，在不侵犯隐私的情况下实现计数。来自 [@松果](https://hellogithub.com/user/EFn7Z3e6r0cIpLS) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/125756247.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[Hacki](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Livinglist/Hacki)：用 Flutter 开发的 Hacker News 客户端。一款用 Flutter 写的 Hacker News 客户端，它界面清爽功能齐全，支持离线阅读、账户登录、提交内容、评论折叠等功能，已上架 App Store 和 Google Play 应用商店。来自 [@Jiaqi Feng](https://hellogithub.com/user/ml6IzSgCVMfJYLr) 的分享
+39、[Hacki](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Livinglist/Hacki)：用 Flutter 开发的 Hacker News 客户端。一款用 Flutter 写的 Hacker News 客户端，它界面清爽功能齐全，支持离线阅读、账户登录、提交内容、评论折叠等功能，已上架 App Store 和 Google Play 应用商店。来自 [@Jiaqi Feng](https://hellogithub.com/user/ml6IzSgCVMfJYLr) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/441600120.png' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[OURS-project](https://hellogithub.com/periodical/statistics/click?target=https://github.com/evanman83/OURS-project)：教你如何制作一个智能手机。这里介绍了如何用树莓派制作一个 Linux 系统的智能手机，该设备拥有 1GB 运行内存、4 英寸 480*800 的触摸屏和 500 万像素的摄像头，支持 4G 网络、通话、短信、浏览器、GPS 等功能。
+40、[OURS-project](https://hellogithub.com/periodical/statistics/click?target=https://github.com/evanman83/OURS-project)：教你如何制作一个智能手机。这里介绍了如何用树莓派制作一个 Linux 系统的智能手机，该设备拥有 1GB 运行内存、4 英寸 480*800 的触摸屏和 500 万像素的摄像头，支持 4G 网络、通话、短信、浏览器、GPS 等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/633831251.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[source-han-serif](https://hellogithub.com/periodical/statistics/click?target=https://github.com/adobe-fonts/source-han-serif)：思源宋体一套泛中日韩字体。思源宋体是 Adobe 开源的泛中日韩字体，这个开源项目不仅提供了思源宋体可用的 OpenType 字体，还提供了利用 AFDKO 工具创建这些 OpenType 字体时的所有源文件。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
+41、[source-han-serif](https://hellogithub.com/periodical/statistics/click?target=https://github.com/adobe-fonts/source-han-serif)：思源宋体一套泛中日韩字体。思源宋体是 Adobe 开源的泛中日韩字体，这个开源项目不仅提供了思源宋体可用的 OpenType 字体，还提供了利用 AFDKO 工具创建这些 OpenType 字体时的所有源文件。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/84254035.png' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[wai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dukeluo/wai)：一款可以预防颈椎病的项目。这是一个通过非正常的方式，展示历史上的今天和这个季节吃什么果蔬的内容，“强迫”你活动脖子从而实现预防颈椎病的目的。来自 [@Huan](https://hellogithub.com/user/jq8Mimdvob4uWrS) 的分享
+42、[wai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dukeluo/wai)：一款可以预防颈椎病的项目。这是一个通过非正常的方式，展示历史上的今天和这个季节吃什么果蔬的内容，“强迫”你活动脖子从而实现预防颈椎病的目的。来自 [@Huan](https://hellogithub.com/user/jq8Mimdvob4uWrS) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/489377807.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-39、[bgnet](https://hellogithub.com/periodical/statistics/click?target=https://github.com/beejjorgensen/bgnet)：《Beej 的网络编程指南》。如果你想弄清楚什么是 socket 以及关于 C 语言网络编程的知识，就可以看看这本书，内含中文翻译版。
+43、[bgnet](https://hellogithub.com/periodical/statistics/click?target=https://github.com/beejjorgensen/bgnet)：《Beej 的网络编程指南》。如果你想弄清楚什么是 socket 以及关于 C 语言网络编程的知识，就可以看看这本书，内含中文翻译版。
 
-40、[explore-flask](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rpicard/explore-flask)：《Explore Flask》探索 Flask。这是一本关于 Python 知名 Web 框架 Flask 的书籍，内容包含基础入门和部署实战。
-
-### 机器学习
-41、[AI4Animation](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sebastianstarke/AI4Animation)：AI 生成游戏角色动画。该项目可以基于原始的动作捕捉数据，生成更加自然、可控的角色动画，解决两足、四足动物的动画生成问题，比如无需人为干涉就能生成坐下、跳跃、开门、武术等复杂动作的动画。来自 [@松果](https://hellogithub.com/user/EFn7Z3e6r0cIpLS) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/98470332.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-42、[GFPGAN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TencentARC/GFPGAN)：腾讯开源的人脸修复算法。它可以用于修复像素低、模糊、破损的人脸图像，尤其是在脸部细节和清晰度方面，修复效果尤为出色。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/349321229.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-43、[ImageBind](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facebookresearch/ImageBind)：连接多种感官数据的 AI 模型。这是一个由 Meta AI 开源的新型多模态 AI 模型，支持在图像、文本、音频等六种不同模态之间任意转换。比如它可以根据一段火车的音频，自动生成火车的照片、视频和一段文本。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/618029110.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-44、[tuning_playbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/google-research/tuning_playbook)：深度学习调优指南。该指南出自几位谷歌大脑研究员的深度学习模型调参经验总结，内容包括如何开始新项目、提高模型性能的方法和训练过程中的经验，适合已掌握机器学习基本知识、对优化深度学习模型性能感兴趣的工程师和研究员阅读。
+44、[explore-flask](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rpicard/explore-flask)：《Explore Flask》探索 Flask。这是一本关于 Python 知名 Web 框架 Flask 的书籍，内容包含基础入门和部署实战。
 
 
 
@@ -281,7 +281,7 @@ play(guitar, bpm=100, instrument=25)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

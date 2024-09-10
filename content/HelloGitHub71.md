@@ -286,50 +286,50 @@ try app.run()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/49910095.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+33、[ColossalAI](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hpcaitech/ColossalAI)：高效的分布式人工智能训练系统。它能帮助用户在提升人工智能训练效率的同时降低训练成本，从而适应快速迭代的算法和模型，将 AI 大模型以低成本便捷推广到更多应用场景
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/422274596.png' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-33、[Arduino](https://hellogithub.com/periodical/statistics/click?target=https://github.com/arduino/Arduino)：开源电子平台，可用来制作嵌入式项目。Arduino 提供的电路板安装简单、价格便宜，而且电路图完全开源。官方还提供了配套的开发工具，加上交互式的开发模式使得上手变得极为简单。软硬件的完全开源让开发者社区十分活跃，为社区提供了丰富的教程、实战项目、三方资源。如果你想动手做个机器人，就从 Arduino 开始吧！[官网](https://www.arduino.cc/)
+34、[Arduino](https://hellogithub.com/periodical/statistics/click?target=https://github.com/arduino/Arduino)：开源电子平台，可用来制作嵌入式项目。Arduino 提供的电路板安装简单、价格便宜，而且电路图完全开源。官方还提供了配套的开发工具，加上交互式的开发模式使得上手变得极为简单。软硬件的完全开源让开发者社区十分活跃，为社区提供了丰富的教程、实战项目、三方资源。如果你想动手做个机器人，就从 Arduino 开始吧！[官网](https://www.arduino.cc/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/919161.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[db-tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dunwu/db-tutorial)：一份关于数据库的教程。内容涵盖了 MySQL、Redis、ES、MongoDB 从入门到面试等多方面的知识
+35、[db-tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dunwu/db-tutorial)：一份关于数据库的教程。内容涵盖了 MySQL、Redis、ES、MongoDB 从入门到面试等多方面的知识
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/99658622.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[HowToCook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Anduin2017/HowToCook)：程序员做饭指南。一份极其详尽的菜谱，里面没有模糊的量词和看不懂的操作，菜品从主食到甜品应有尽有
+36、[HowToCook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Anduin2017/HowToCook)：程序员做饭指南。一份极其详尽的菜谱，里面没有模糊的量词和看不懂的操作，菜品从主食到甜品应有尽有
 
 
-36、[macos-web](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PuruVJ/macos-web)：在线体验 macOS 系统。该项目使用 Svelte 复刻了 macOS 操作系统的部分操作体验，虽然已实现的功能较少，但更新积极未来可期。[在线查看](https://macos-web.app/)
+37、[macos-web](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PuruVJ/macos-web)：在线体验 macOS 系统。该项目使用 Svelte 复刻了 macOS 操作系统的部分操作体验，虽然已实现的功能较少，但更新积极未来可期。[在线查看](https://macos-web.app/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/395248907.png' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[pushdeer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/easychen/pushdeer)：无 APP 推送服务。该项目可以实现不安装庞大的应用，就可以收到自定义的及时推送、告警和通知。还可以选择自行搭建服务（免费）或使用已有的在线服务（收费），支持快应用、iOS、macOS、Android 等客户端
+38、[pushdeer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/easychen/pushdeer)：无 APP 推送服务。该项目可以实现不安装庞大的应用，就可以收到自定义的及时推送、告警和通知。还可以选择自行搭建服务（免费）或使用已有的在线服务（收费），支持快应用、iOS、macOS、Android 等客户端
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/438857216.png' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[resume](https://hellogithub.com/periodical/statistics/click?target=https://github.com/billryan/resume)：简历模板。不需要懂 LaTeX 语法就可以用，适合用来做一页纸简历
+39、[resume](https://hellogithub.com/periodical/statistics/click?target=https://github.com/billryan/resume)：简历模板。不需要懂 LaTeX 语法就可以用，适合用来做一页纸简历
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/36554772.png' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[svg-path-editor](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Yqnn/svg-path-editor)：在线 SVG 编辑器。[在线体验](https://yqnn.github.io/svg-path-editor/)
+40、[svg-path-editor](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Yqnn/svg-path-editor)：在线 SVG 编辑器。[在线体验](https://yqnn.github.io/svg-path-editor/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/260776764.png' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[teslamate](https://hellogithub.com/periodical/statistics/click?target=https://github.com/teslamate-org/teslamate)：自建特斯拉的日志平台。该项目可以将车主的特斯拉行驶数据收集、存储、展示，而且方便地支持 Docker 部署
+41、[teslamate](https://hellogithub.com/periodical/statistics/click?target=https://github.com/teslamate-org/teslamate)：自建特斯拉的日志平台。该项目可以将车主的特斯拉行驶数据收集、存储、展示，而且方便地支持 Docker 部署
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/178738556.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-41、[ColossalAI](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hpcaitech/ColossalAI)：高效的分布式人工智能训练系统。它能帮助用户在提升人工智能训练效率的同时降低训练成本，从而适应快速迭代的算法和模型，将 AI 大模型以低成本便捷推广到更多应用场景
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/422274596.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -359,7 +359,7 @@ try app.run()
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

@@ -113,25 +113,25 @@ ngrok http 8000
 13、[Kingfisher](https://hellogithub.com/periodical/statistics/click?target=https://github.com/onevcat/Kingfisher)：Kingfisher 是一个异步下载和缓存图片的库，你可以把它看做 SDWebImage 的纯 Swift 实现和替代。它可以帮助简单地实现像是用户头像或者 table view 里面的图片的下载和缓存这样的工作，以提高 app 速度和帮助开发者节省时间，[作者的中文博客](http://project.onevcat.com/)
 
 
+### 人工智能
+14、[machine-learning-for-software-engineers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ZuzooVn/machine-learning-for-software-engineers)：自上而下的学习路线，软件工程师的机器学习，[中文版](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)
+
+
 ### 其它
-14、[best-chinese-front-end-blogs](https://hellogithub.com/periodical/statistics/click?target=https://github.com/FrankFang/best-chinese-front-end-blogs)：该项目是收集优质的中文前端博客
+15、[best-chinese-front-end-blogs](https://hellogithub.com/periodical/statistics/click?target=https://github.com/FrankFang/best-chinese-front-end-blogs)：该项目是收集优质的中文前端博客
 
 
-15、[freecodecamp.cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/FreeCodeCampChina/freecodecamp.cn)：freecodecamp 是一个自由的开源编程社区，[freecodecamp 中文社区](https://freecodecamp.cn)
+16、[freecodecamp.cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/FreeCodeCampChina/freecodecamp.cn)：freecodecamp 是一个自由的开源编程社区，[freecodecamp 中文社区](https://freecodecamp.cn)
 
 
-16、[golang-open-source-projects](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hackstoic/golang-open-source-projects)：中文版 awesome-go
+17、[golang-open-source-projects](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hackstoic/golang-open-source-projects)：中文版 awesome-go
 
 
-17、[Learn-Algorithms](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nonstriater/Learn-Algorithms)：算法数据结构学习，C 语言实现
+18、[Learn-Algorithms](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nonstriater/Learn-Algorithms)：算法数据结构学习，C 语言实现
 
 
 ### 开源书籍
-18、[the-way-to-go_ZH_CN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/unknwon/the-way-to-go_ZH_CN)：《The Way to Go》中文译本，中文正式名《Go 入门指南》
-
-
-### 机器学习
-19、[machine-learning-for-software-engineers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ZuzooVn/machine-learning-for-software-engineers)：自上而下的学习路线，软件工程师的机器学习，[中文版](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)
+19、[the-way-to-go_ZH_CN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/unknwon/the-way-to-go_ZH_CN)：《The Way to Go》中文译本，中文正式名《Go 入门指南》
 
 
 
@@ -162,7 +162,7 @@ ngrok http 8000
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

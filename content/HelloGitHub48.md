@@ -197,23 +197,8 @@ liquid().render('./img/liquid.html')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/48/3842593.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-22、[browser-2020](https://hellogithub.com/periodical/statistics/click?target=https://github.com/luruke/browser-2020)：该项目汇集了浏览器鲜为人知的一些功能
-
-
-23、[fucking-algorithm](https://hellogithub.com/periodical/statistics/click?target=https://github.com/labuladong/fucking-algorithm)：解 LeetCode 题目集合。号称“手撕 LeetCode 题目”，虽然之前推荐过不少解题集合，但是这次我还是没忍住。该项目讲究思路指南，解题思路描述清晰，真香啊
-
-
-24、[learnGitBranching](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pcottle/learnGitBranching)：一个 Git 命令可视化学习项目。能够生动形象的帮助开发人员理解、学习 Git 命令，通过一系列刺激的关卡挑战，逐步深入的学习 Git 的强大功能。[在线尝试](https://learngitbranching.js.org/)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/48/5405654.png' style="max-width:80%; max-height=80%;"></img></p>
-
-25、[Waking-Up](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wolverinn/Waking-Up)：采用追问形式的后端面试问题总结。提问然后追问是面试常见模式，更加贴近真实面试
-
-
-### 机器学习
-26、[autokeras](https://hellogithub.com/periodical/statistics/click?target=https://github.com/keras-team/autokeras)：Keras 官方出品基于 Keras 的 AutoML 系统。支持 CPU 和 GPU 训练，傻瓜式 API，3 行代码就能训练一个模型。目前支持的任务：图像分类、图像回归、文本分类、结构化数据分类等。将人从手工选择超参数中解放出来，快速开发原型，官方口号“所有人都能使用机器学习”，[官网](https://autokeras.com/)
+### 人工智能
+22、[autokeras](https://hellogithub.com/periodical/statistics/click?target=https://github.com/keras-team/autokeras)：Keras 官方出品基于 Keras 的 AutoML 系统。支持 CPU 和 GPU 训练，傻瓜式 API，3 行代码就能训练一个模型。目前支持的任务：图像分类、图像回归、文本分类、结构化数据分类等。将人从手工选择超参数中解放出来，快速开发原型，官方口号“所有人都能使用机器学习”，[官网](https://autokeras.com/)
 ```python
 # 安装命令 pip install autokeras
 import autokeras as ak
@@ -222,6 +207,21 @@ clf = ak.ImageClassifier()
 clf.fit(x_train, y_train)
 results = clf.predict(x_test)
 ```
+
+
+### 其它
+23、[browser-2020](https://hellogithub.com/periodical/statistics/click?target=https://github.com/luruke/browser-2020)：该项目汇集了浏览器鲜为人知的一些功能
+
+
+24、[fucking-algorithm](https://hellogithub.com/periodical/statistics/click?target=https://github.com/labuladong/fucking-algorithm)：解 LeetCode 题目集合。号称“手撕 LeetCode 题目”，虽然之前推荐过不少解题集合，但是这次我还是没忍住。该项目讲究思路指南，解题思路描述清晰，真香啊
+
+
+25、[learnGitBranching](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pcottle/learnGitBranching)：一个 Git 命令可视化学习项目。能够生动形象的帮助开发人员理解、学习 Git 命令，通过一系列刺激的关卡挑战，逐步深入的学习 Git 的强大功能。[在线尝试](https://learngitbranching.js.org/)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/48/5405654.png' style="max-width:80%; max-height=80%;"></img></p>
+
+26、[Waking-Up](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wolverinn/Waking-Up)：采用追问形式的后端面试问题总结。提问然后追问是面试常见模式，更加贴近真实面试
 
 
 
@@ -252,7 +252,7 @@ results = clf.predict(x_test)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

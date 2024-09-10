@@ -343,40 +343,8 @@ if panGestureRecognizer.state == .ended {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/498385616.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-33、[blurhash](https://hellogithub.com/periodical/statistics/click?target=https://github.com/woltapp/blurhash)：开源的图片占位符算法和实现。该算法可将图片编码成一段仅 20-30 个字符的短字符串，解码后可展示一张基于原图的占位图，从而提升用户的访问体验。官方提供了 C、Swift、TypeScript 等编程语言的实现，除此之外还有丰富的第三方库。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/193885464.png' style="max-width:80%; max-height=80%;"></img></p>
-
-34、[esp32-weather-epd](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lmarzen/esp32-weather-epd)：自制电子墨水屏的天气显示器。这是由一块支持 WiFi 的 ESP32 单片机和一个 7.5 英寸电子墨水屏组成的天气显示器。它能够展示通过 API 获得的天气实况和预报，以及传感器提供的室内温度和湿度。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/467381275.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-35、[localsend](https://hellogithub.com/periodical/statistics/click?target=https://github.com/localsend/localsend)：AirDrop 的开源替代方案。可以通过本地网络与附近的设备，安全地共享文件和消息，此过程不需要互联网，不需要外部服务器，支持 Windows、Linux、macOS、Android、iOS 设备。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/578822531.png' style="max-width:80%; max-height=80%;"></img></p>
-
-36、[mactype](https://hellogithub.com/periodical/statistics/click?target=https://github.com/snowie2000/mactype)：美化 Windows 字体的工具。一款 Windows 字体美体工具，可以解决 Windows 字体虚化的问题，实现类似苹果 macOS 系统的字体渲染效果，安装简单效果惊人。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/33294473.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-37、[raft.github.io](https://hellogithub.com/periodical/statistics/click?target=https://github.com/raft/raft.github.io)：一个关于 Raft 共识算法的网站。该网站收录了关于 Raft 的论文、课程、书籍等资料，以及相关开源项目和 Raft 的运行情况可视化，帮你彻底搞懂 Raft。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/13816796.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-### 开源书籍
-38、[algorithmica](https://hellogithub.com/periodical/statistics/click?target=https://github.com/algorithmica-org/algorithmica)：《现代硬件的算法》。该书来自俄罗斯非营利性的教育组织 Tinkoff Generation，它培养了大约一半的俄罗斯奥林匹克信息学决赛选手。不管你是算法研究员还是学生，这本书都可以让你学到更多提升程序性能的实用方法。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/333536823.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-39、[comprehensive-rust](https://hellogithub.com/periodical/statistics/click?target=https://github.com/google/comprehensive-rust)：《Comprehensive Rust》为期四天的 Rust 课程。这是谷歌 Android 团队使用的 Rust 课程，它涵盖了 Rust 的基本语法到高级主题，如泛型和错误处理，还包括最后一天的 Android 特定内容。
-
-40、[scientific-visualization-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rougier/scientific-visualization-book)：《科学可视化：Python+Matplotlib》。这是一本关于使用 Python 和 Matplotlib 进行科学可视化的开源书籍。该书分为四个部分：第一部分 Matplotlib 库的基本原理，第二部分致力于实战开发，第三部分是更高级的概念，即 3D 图形、优化和动画，第四部分是展示集合。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/202693400.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-41、[cog](https://hellogithub.com/periodical/statistics/click?target=https://github.com/replicate/cog)：将机器学习模型打包到容器的工具。可通过配置将机器学习模型所需的环境和依赖，自动打包到容器里方便部署，让你不再为编写 Docker 文件和 CUDA 而痛苦，还能自动启动 HTTP 接口服务方便调用。
+### 人工智能
+33、[cog](https://hellogithub.com/periodical/statistics/click?target=https://github.com/replicate/cog)：将机器学习模型打包到容器的工具。可通过配置将机器学习模型所需的环境和依赖，自动打包到容器里方便部署，让你不再为编写 Docker 文件和 CUDA 而痛苦，还能自动启动 HTTP 接口服务方便调用。
 ```shell
 $ cog build -t my-colorization-model
 --> Building Docker image...
@@ -389,9 +357,41 @@ $ curl http://localhost:5000/predictions -X POST \
     -d '{"input": {"image": "https://.../input.jpg"}}'
 ```
 
-42、[stable-diffusion-webui](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AUTOMATIC1111/stable-diffusion-webui)：Stable Diffusion 模型的 WebUI 界面。这是一个实现在浏览器上使用的 Stable Diffusion 模型的项目，支持通过文本/图片生成图片、嵌入文本、调整图片大小等功能。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
+34、[stable-diffusion-webui](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AUTOMATIC1111/stable-diffusion-webui)：Stable Diffusion 模型的 WebUI 界面。这是一个实现在浏览器上使用的 Stable Diffusion 模型的项目，支持通过文本/图片生成图片、嵌入文本、调整图片大小等功能。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/527591471.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+35、[blurhash](https://hellogithub.com/periodical/statistics/click?target=https://github.com/woltapp/blurhash)：开源的图片占位符算法和实现。该算法可将图片编码成一段仅 20-30 个字符的短字符串，解码后可展示一张基于原图的占位图，从而提升用户的访问体验。官方提供了 C、Swift、TypeScript 等编程语言的实现，除此之外还有丰富的第三方库。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/193885464.png' style="max-width:80%; max-height=80%;"></img></p>
+
+36、[esp32-weather-epd](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lmarzen/esp32-weather-epd)：自制电子墨水屏的天气显示器。这是由一块支持 WiFi 的 ESP32 单片机和一个 7.5 英寸电子墨水屏组成的天气显示器。它能够展示通过 API 获得的天气实况和预报，以及传感器提供的室内温度和湿度。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/467381275.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+37、[localsend](https://hellogithub.com/periodical/statistics/click?target=https://github.com/localsend/localsend)：AirDrop 的开源替代方案。可以通过本地网络与附近的设备，安全地共享文件和消息，此过程不需要互联网，不需要外部服务器，支持 Windows、Linux、macOS、Android、iOS 设备。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/578822531.png' style="max-width:80%; max-height=80%;"></img></p>
+
+38、[mactype](https://hellogithub.com/periodical/statistics/click?target=https://github.com/snowie2000/mactype)：美化 Windows 字体的工具。一款 Windows 字体美体工具，可以解决 Windows 字体虚化的问题，实现类似苹果 macOS 系统的字体渲染效果，安装简单效果惊人。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/33294473.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+39、[raft.github.io](https://hellogithub.com/periodical/statistics/click?target=https://github.com/raft/raft.github.io)：一个关于 Raft 共识算法的网站。该网站收录了关于 Raft 的论文、课程、书籍等资料，以及相关开源项目和 Raft 的运行情况可视化，帮你彻底搞懂 Raft。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/13816796.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+### 开源书籍
+40、[algorithmica](https://hellogithub.com/periodical/statistics/click?target=https://github.com/algorithmica-org/algorithmica)：《现代硬件的算法》。该书来自俄罗斯非营利性的教育组织 Tinkoff Generation，它培养了大约一半的俄罗斯奥林匹克信息学决赛选手。不管你是算法研究员还是学生，这本书都可以让你学到更多提升程序性能的实用方法。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/333536823.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+41、[comprehensive-rust](https://hellogithub.com/periodical/statistics/click?target=https://github.com/google/comprehensive-rust)：《Comprehensive Rust》为期四天的 Rust 课程。这是谷歌 Android 团队使用的 Rust 课程，它涵盖了 Rust 的基本语法到高级主题，如泛型和错误处理，还包括最后一天的 Android 特定内容。
+
+42、[scientific-visualization-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rougier/scientific-visualization-book)：《科学可视化：Python+Matplotlib》。这是一本关于使用 Python 和 Matplotlib 进行科学可视化的开源书籍。该书分为四个部分：第一部分 Matplotlib 库的基本原理，第二部分致力于实战开发，第三部分是更高级的概念，即 3D 图形、优化和动画，第四部分是展示集合。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/202693400.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -421,7 +421,7 @@ $ curl http://localhost:5000/predictions -X POST \
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

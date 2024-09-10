@@ -153,44 +153,44 @@ print(bond_df)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/80204710.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+19、[google-research](https://hellogithub.com/periodical/statistics/click?target=https://github.com/google-research/google-research)：非官方整理的 Google AI Research 集合项目
+
+
+20、[Retinanet-Pytorch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/yatengLG/Retinanet-Pytorch)：一个以 Pytorch 深度学习库实现的 retinanet 目标检测模型。项目拥有清晰的结构、完善的注释以及详细的使用说明。适用于有些许深度学习基础的初学者进行学习或在实际的目标检测项目中使用
+
+
 ### 其它
-19、[apisix](https://hellogithub.com/periodical/statistics/click?target=https://github.com/apache/apisix)：一个云原生、高性能、可扩展的微服务 API 网关。它是基于 Nginx 和 etcd 来实现，和传统 API 网关相比，APISIX 具备动态路由和插件热加载，适合微服务体系下的 API 管理
+21、[apisix](https://hellogithub.com/periodical/statistics/click?target=https://github.com/apache/apisix)：一个云原生、高性能、可扩展的微服务 API 网关。它是基于 Nginx 和 etcd 来实现，和传统 API 网关相比，APISIX 具备动态路由和插件热加载，适合微服务体系下的 API 管理
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/180481986.png' style="max-width:80%; max-height=80%;"></img></p>
 
-20、[app-ideas](https://hellogithub.com/periodical/statistics/click?target=https://github.com/florinpop17/app-ideas)：该收集了各类应用的想法，并按照易学程度把应用进行划分。你可以通过这个项目提高编程技术、学习新技术
+22、[app-ideas](https://hellogithub.com/periodical/statistics/click?target=https://github.com/florinpop17/app-ideas)：该收集了各类应用的想法，并按照易学程度把应用进行划分。你可以通过这个项目提高编程技术、学习新技术
 
 
-21、[book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rust-lang/book)：《Rust 编程语言》这是官方出品的关于 Rust 的入门书籍
+23、[book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rust-lang/book)：《Rust 编程语言》这是官方出品的关于 Rust 的入门书籍
 
 
-22、[config](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nikitavoloboev/config)：该项目罗列了作者自用、收集的 macOS 上实用、炫酷的软件。我从中找到好几个炫酷、实用提高工作的工具，你也赶快来挑挑吧
+24、[config](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nikitavoloboev/config)：该项目罗列了作者自用、收集的 macOS 上实用、炫酷的软件。我从中找到好几个炫酷、实用提高工作的工具，你也赶快来挑挑吧
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/53133861.png' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[devops-exercises](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bregman-arie/devops-exercises)：这个仓库包含了 DevOps（开发运维）常见、流行服务相关的面试问题和回答，推荐给从事运维的同学
+25、[devops-exercises](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bregman-arie/devops-exercises)：这个仓库包含了 DevOps（开发运维）常见、流行服务相关的面试问题和回答，推荐给从事运维的同学
 
 
-24、[OnlineToolsBook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zhaoolee/OnlineToolsBook)：该项目收集了一些有趣、实用的在线工具网站，点开即用
+26、[OnlineToolsBook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zhaoolee/OnlineToolsBook)：该项目收集了一些有趣、实用的在线工具网站，点开即用
 
 
-25、[structured-text-tools](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dbohdan/structured-text-tools)：用于处理结构化文本数据（日志、JSON、YAML 等）的命令行工具列表
+27、[structured-text-tools](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dbohdan/structured-text-tools)：用于处理结构化文本数据（日志、JSON、YAML 等）的命令行工具列表
 
 
 ### 开源书籍
-26、[cookbook-2nd](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ipython-books/cookbook-2nd)：《IPython Cookbook 第二版》
+28、[cookbook-2nd](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ipython-books/cookbook-2nd)：《IPython Cookbook 第二版》
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/90548944.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-27、[google-research](https://hellogithub.com/periodical/statistics/click?target=https://github.com/google-research/google-research)：非官方整理的 Google AI Research 集合项目
-
-
-28、[Retinanet-Pytorch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/yatengLG/Retinanet-Pytorch)：一个以 Pytorch 深度学习库实现的 retinanet 目标检测模型。项目拥有清晰的结构、完善的注释以及详细的使用说明。适用于有些许深度学习基础的初学者进行学习或在实际的目标检测项目中使用
-
 
 
 
@@ -220,7 +220,7 @@ print(bond_df)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

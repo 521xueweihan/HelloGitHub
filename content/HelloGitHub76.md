@@ -292,38 +292,8 @@ for link in browser.links():
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/253461233.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-34、[functional-programming-jargon](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hemanth/functional-programming-jargon)：函数式编程世界的行话。该项目希望通过介绍函数编程中的术语，让学习函数式编程变得容易些，示例代码均采用 JavaScript 编写。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/31168578.png' style="max-width:80%; max-height=80%;"></img></p>
-
-35、[LxgwWenKai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lxgw/LxgwWenKai)：适合正文阅读的开源中文字体。它是基于 FONTWORKS 出品的 Klee One 字体衍生品，并且针对简体中文做了增补和优化，字体效果惊艳、完全免费且支持商用。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/334448316.png' style="max-width:80%; max-height=80%;"></img></p>
-
-36、[MaaAssistantArknights](https://hellogithub.com/periodical/statistics/click?target=https://github.com/MaaAssistantArknights/MaaAssistantArknights)：明日方舟游戏助手。基于图像识别技术，实现一键完成明日方舟游戏的全部日常任务。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/384520418.png' style="max-width:80%; max-height=80%;"></img></p>
-
-37、[opensnitch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/evilsocket/opensnitch)：一个 Linux 应用防火墙。它能够监视和控制应用的网络活动，相当于 Linux 版的 Little Snitch。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/88417028.png' style="max-width:80%; max-height=80%;"></img></p>
-
-38、[Publii](https://hellogithub.com/periodical/statistics/click?target=https://github.com/GetPublii/Publii)：带 GUI 的静态网站生成工具。一款本地的静态网站 CMS 工具，有了它无需编程基础，即可通过图形化界面，轻松地创建个人博客、企业官网等，还支持一键发布到 GitHub Page、GitLab、Netlify 等网站。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/137733266.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 开源书籍
-39、[dive-into-webpack](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gwuhaolin/dive-into-webpack)：《深入浅出 Webpack》。一本系统讲解 Webpack 的书，内容涵盖了 Webpack 的入门、配置、实战、优化以及原理。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/110203554.png' style="max-width:80%; max-height=80%;"></img></p>
-
-40、[interviews.ai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/BoltzmannEntropy/interviews.ai)：《深度学习面试》。书中包含了数百个人工智能领域面试时会遇到的问题(PRB)和解答(SOL)，作者希望可以借此帮助研究生/求职者，通过机器学习方面的面试。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/412151953.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-41、[flair](https://hellogithub.com/periodical/statistics/click?target=https://github.com/flairNLP/flair)：简单易用的 NLP 框架。基于 PyTorch 的 NLP 框架，支持文本命名实体识别(NER)、词性标注(PoS)、词义消歧和分类。项目中包含详细的使用教程，介绍了如何标记文本、训练语言模型等。
+### 人工智能
+34、[flair](https://hellogithub.com/periodical/statistics/click?target=https://github.com/flairNLP/flair)：简单易用的 NLP 框架。基于 PyTorch 的 NLP 框架，支持文本命名实体识别(NER)、词性标注(PoS)、词义消歧和分类。项目中包含详细的使用教程，介绍了如何标记文本、训练语言模型等。
 ```python
 from flair.data import Sentence
 from flair.models import SequenceTagger
@@ -340,13 +310,43 @@ tagger.predict(sentence)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/136914524.png' style="max-width:80%; max-height=80%;"></img></p>
 
-42、[paper-reading](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mli/paper-reading)：深度学习论文精读集合。李沐发起的深度学习领域经典、最新论文精读视频集合。
+35、[paper-reading](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mli/paper-reading)：深度学习论文精读集合。李沐发起的深度学习领域经典、最新论文精读视频集合。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/419991646.png' style="max-width:80%; max-height=80%;"></img></p>
 
-43、[paper2gui](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Baiyuetribe/paper2gui)：面向非编程人员的 AI 应用工具箱。该项目提供了多款免安装下载即用的 AI 工具，功能涵盖语音合成、视频补帧、图像风格转化、目标检测、OCR 识别等方面，让编程小白也能轻松拥有 AI “魔法”。
+36、[paper2gui](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Baiyuetribe/paper2gui)：面向非编程人员的 AI 应用工具箱。该项目提供了多款免安装下载即用的 AI 工具，功能涵盖语音合成、视频补帧、图像风格转化、目标检测、OCR 识别等方面，让编程小白也能轻松拥有 AI “魔法”。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/415489170.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+37、[functional-programming-jargon](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hemanth/functional-programming-jargon)：函数式编程世界的行话。该项目希望通过介绍函数编程中的术语，让学习函数式编程变得容易些，示例代码均采用 JavaScript 编写。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/31168578.png' style="max-width:80%; max-height=80%;"></img></p>
+
+38、[LxgwWenKai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lxgw/LxgwWenKai)：适合正文阅读的开源中文字体。它是基于 FONTWORKS 出品的 Klee One 字体衍生品，并且针对简体中文做了增补和优化，字体效果惊艳、完全免费且支持商用。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/334448316.png' style="max-width:80%; max-height=80%;"></img></p>
+
+39、[MaaAssistantArknights](https://hellogithub.com/periodical/statistics/click?target=https://github.com/MaaAssistantArknights/MaaAssistantArknights)：明日方舟游戏助手。基于图像识别技术，实现一键完成明日方舟游戏的全部日常任务。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/384520418.png' style="max-width:80%; max-height=80%;"></img></p>
+
+40、[opensnitch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/evilsocket/opensnitch)：一个 Linux 应用防火墙。它能够监视和控制应用的网络活动，相当于 Linux 版的 Little Snitch。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/88417028.png' style="max-width:80%; max-height=80%;"></img></p>
+
+41、[Publii](https://hellogithub.com/periodical/statistics/click?target=https://github.com/GetPublii/Publii)：带 GUI 的静态网站生成工具。一款本地的静态网站 CMS 工具，有了它无需编程基础，即可通过图形化界面，轻松地创建个人博客、企业官网等，还支持一键发布到 GitHub Page、GitLab、Netlify 等网站。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/137733266.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 开源书籍
+42、[dive-into-webpack](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gwuhaolin/dive-into-webpack)：《深入浅出 Webpack》。一本系统讲解 Webpack 的书，内容涵盖了 Webpack 的入门、配置、实战、优化以及原理。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/110203554.png' style="max-width:80%; max-height=80%;"></img></p>
+
+43、[interviews.ai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/BoltzmannEntropy/interviews.ai)：《深度学习面试》。书中包含了数百个人工智能领域面试时会遇到的问题(PRB)和解答(SOL)，作者希望可以借此帮助研究生/求职者，通过机器学习方面的面试。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/412151953.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -376,7 +376,7 @@ tagger.predict(sentence)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

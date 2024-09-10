@@ -233,48 +233,48 @@ async fn main() -> Result<(), sqlx::Error> {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/279961807.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+30、[langchain](https://hellogithub.com/periodical/statistics/click?target=https://github.com/langchain-ai/langchain)：构建基于 LLM 应用的框架。LLM 是基于大数据预先训练好的大型深度学习模型，该项目可让 LLM 无需再训练就能访问新的数据集。它提供了开发 LLM 应用所需的各种模块，包括连接上下文来源和基于 LLM 进行推理的功能，从而轻松开发由 LLMs 支持的各种应用，比如聊天机器人、知识库和信息提取等。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/552661142.png' style="max-width:80%; max-height=80%;"></img></p>
+
+31、[LLaMA-Factory](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hiyouga/LLaMA-Factory)：专门针对 LLM 做微调的框架。这是一个让微调大型语言模型变得轻松的开源项目，它支持 LLaMA、Mistral、ChatGLM 等多种模型，以及增量预训练、奖励模型训练和精度等级等功能。引入了先进的算法和实用的微调技巧，同时提供了便捷的监控工具，方便用户追踪实验进度。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/646410686.png' style="max-width:80%; max-height=80%;"></img></p>
+
+32、[ollama](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ollama/ollama)：本地运行各种 LLM 的工具。这是一个用 Go 语言写的工具，用于在本地一条命令安装、启动和管理大型语言模型，支持 Llama 3、Gemma、Mistral 等大模型，适用于 Windows、macOS、Linux 操作系统。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/658928958.png' style="max-width:80%; max-height=80%;"></img></p>
+
+33、[vanna](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vanna-ai/vanna)：与你的 SQL 数据库聊天。该项目使用 LLM+RAG+数据库技术，让用户能够通过自然语言查询 SQL 数据库，用生成的 SQL 回答你的问题。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/640317662.png' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-30、[cat-catch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xifangczy/cat-catch)：开源的媒体嗅探浏览器插件。这个名为「猫爪」的浏览器插件，可以帮你列出当前页面的音乐和视频资源的下载地址。
+34、[cat-catch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xifangczy/cat-catch)：开源的媒体嗅探浏览器插件。这个名为「猫爪」的浏览器插件，可以帮你列出当前页面的音乐和视频资源的下载地址。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/48576134.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[containers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bitnami/containers)：各种开源软件的容器镜像集合。这个项目是由 BitNami 维护和开源的 Docker 容器集合，包含各种开源软件、系统和 Web 应用。它们都经过了优化和漏洞扫描，可实现 Docker 一键部署，轻松部署应用，无需繁琐的安装和配置过程。
+35、[containers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bitnami/containers)：各种开源软件的容器镜像集合。这个项目是由 BitNami 维护和开源的 Docker 容器集合，包含各种开源软件、系统和 Web 应用。它们都经过了优化和漏洞扫描，可实现 Docker 一键部署，轻松部署应用，无需繁琐的安装和配置过程。
 ```
 docker pull bitnami/APP
 docker pull bitnami/APP:[TAG]
 ```
 
-32、[KawaiiLogos](https://hellogithub.com/periodical/statistics/click?target=https://github.com/SAWARATSUKI/KawaiiLogos)：超可爱的 Logo 集合。这里是用来存放 Sawaratsuki 制作的各种 logo 的仓库，这些 logo 制作精美、画风可爱，包括编程语言、框架、工具和各大社交媒体的商标™️。
+36、[KawaiiLogos](https://hellogithub.com/periodical/statistics/click?target=https://github.com/SAWARATSUKI/KawaiiLogos)：超可爱的 Logo 集合。这里是用来存放 Sawaratsuki 制作的各种 logo 的仓库，这些 logo 制作精美、画风可爱，包括编程语言、框架、工具和各大社交媒体的商标™️。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/795003309.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[ungoogled-chromium](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ungoogled-software/ungoogled-chromium)：更纯净的 Chrome 浏览器。该项目是一个移除了 Chrome 浏览器中谷歌服务的浏览器，保留了完整的浏览器功能。
+37、[ungoogled-chromium](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ungoogled-software/ungoogled-chromium)：更纯净的 Chrome 浏览器。该项目是一个移除了 Chrome 浏览器中谷歌服务的浏览器，保留了完整的浏览器功能。
 
-34、[web-activity-time-tracker](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Stigmatoz/web-activity-time-tracker)：追踪你的上网活动时间的浏览器插件。这是一款无广告、开源的浏览器插件，能记录你在不同网站上的浏览时间，并提供直观的统计数据。它支持按天和小时统计浏览时间、过滤干扰网站、导出数据等功能。
+38、[web-activity-time-tracker](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Stigmatoz/web-activity-time-tracker)：追踪你的上网活动时间的浏览器插件。这是一款无广告、开源的浏览器插件，能记录你在不同网站上的浏览时间，并提供直观的统计数据。它支持按天和小时统计浏览时间、过滤干扰网站、导出数据等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/202352209.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-35、[how-to-learn-robotics](https://hellogithub.com/periodical/statistics/click?target=https://github.com/qqfly/how-to-learn-robotics)：机器人学自学指南。这本指南专为非科班的小伙伴而设计，旨在指导他们如何学习机器人学。它包含了必备知识、入门教材推荐、实践项目以及进阶方法等内容，帮助读者逐步成长为一名优秀的机器人工程师。
+39、[how-to-learn-robotics](https://hellogithub.com/periodical/statistics/click?target=https://github.com/qqfly/how-to-learn-robotics)：机器人学自学指南。这本指南专为非科班的小伙伴而设计，旨在指导他们如何学习机器人学。它包含了必备知识、入门教材推荐、实践项目以及进阶方法等内容，帮助读者逐步成长为一名优秀的机器人工程师。
 
-36、[llm-universe](https://hellogithub.com/periodical/statistics/click?target=https://github.com/datawhalechina/llm-universe)：《动手学大模型应用开发》。该项目是专为小白开发者设计的大模型应用开发教程。内容涵盖了大模型的概念介绍、如何调用大模型API、知识库的搭建、构建 RAG（Retrieval-Augmented Generation）应用以及评估方法等内容。
-
-### 机器学习
-37、[langchain](https://hellogithub.com/periodical/statistics/click?target=https://github.com/langchain-ai/langchain)：构建基于 LLM 应用的框架。LLM 是基于大数据预先训练好的大型深度学习模型，该项目可让 LLM 无需再训练就能访问新的数据集。它提供了开发 LLM 应用所需的各种模块，包括连接上下文来源和基于 LLM 进行推理的功能，从而轻松开发由 LLMs 支持的各种应用，比如聊天机器人、知识库和信息提取等。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/552661142.png' style="max-width:80%; max-height=80%;"></img></p>
-
-38、[LLaMA-Factory](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hiyouga/LLaMA-Factory)：专门针对 LLM 做微调的框架。这是一个让微调大型语言模型变得轻松的开源项目，它支持 LLaMA、Mistral、ChatGLM 等多种模型，以及增量预训练、奖励模型训练和精度等级等功能。引入了先进的算法和实用的微调技巧，同时提供了便捷的监控工具，方便用户追踪实验进度。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/646410686.png' style="max-width:80%; max-height=80%;"></img></p>
-
-39、[ollama](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ollama/ollama)：本地运行各种 LLM 的工具。这是一个用 Go 语言写的工具，用于在本地一条命令安装、启动和管理大型语言模型，支持 Llama 3、Gemma、Mistral 等大模型，适用于 Windows、macOS、Linux 操作系统。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/658928958.png' style="max-width:80%; max-height=80%;"></img></p>
-
-40、[vanna](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vanna-ai/vanna)：与你的 SQL 数据库聊天。该项目使用 LLM+RAG+数据库技术，让用户能够通过自然语言查询 SQL 数据库，用生成的 SQL 回答你的问题。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/640317662.png' style="max-width:80%; max-height=80%;"></img></p>
+40、[llm-universe](https://hellogithub.com/periodical/statistics/click?target=https://github.com/datawhalechina/llm-universe)：《动手学大模型应用开发》。该项目是专为小白开发者设计的大模型应用开发教程。内容涵盖了大模型的概念介绍、如何调用大模型API、知识库的搭建、构建 RAG（Retrieval-Augmented Generation）应用以及评估方法等内容。
 
 
 
@@ -304,7 +304,7 @@ docker pull bitnami/APP:[TAG]
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

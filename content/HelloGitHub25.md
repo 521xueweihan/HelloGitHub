@@ -144,33 +144,33 @@ synonyms.seg("能量")
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/101684374.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-14、[awesome-spider](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facert/awesome-spider)：爬虫集合，大多为 Python 语言项目
-
-
-15、[javascript-lessons](https://hellogithub.com/periodical/statistics/click?target=https://github.com/stone0090/javascript-lessons)：《JavaScript 闯关记》该教程部分章节精心设计了挑战关卡
-
-
-16、[linux-insides](https://hellogithub.com/periodical/statistics/click?target=https://github.com/0xAX/linux-insides)：Linux 内核揭密。[中文](https://github.com/MintCN/linux-insides-zh)
-
-
-17、[open-source-mac-os-apps](https://hellogithub.com/periodical/statistics/click?target=https://github.com/serhii-londar/open-source-mac-os-apps)：（英文）macOS 系统上的开源应用集合，并标注了应用通过那种编程语言实现
-
-
-### 开源书籍
-18、[advanced-go-programming-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chai2010/advanced-go-programming-book)：《Go语言高级编程》该书针对 Go 语言有一定经验，想更加深入了解 Go 语言各种高级用法的开发人员
-
-
-19、[modern-cpp-tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/changkun/modern-cpp-tutorial)：《高速上手 C++ 11/14/17》阅读须知：
-1. 本书假定读者已经熟悉了传统 C++ ，至少在阅读传统 C++ 代码上不具备任何困难。换句话说，那些长期使用传统 C++ 进行编码的人、渴望在短时间内迅速了解现代 C++ 特性的人非常适合阅读本书；
-2. 本书一定程度上介绍了一些现代 C++ 的黑魔法，但这些魔法毕竟有限，不适合希望进阶学习现代 C++ 的读者，本书的定位系现代 C++ 的快速上手。当然，希望进阶学习的读者可以使用本书来回顾并检验自己对现代 C++ 的熟悉度。
-
-
-### 机器学习
-20、[pytorch-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chenyuntc/pytorch-book)：书籍《深度学习框架 PyTorch：入门与实践》的示例代码，可以作为一个独立的 PyTorch 入门指南和教程。内容结构如下图所示：
+### 人工智能
+14、[pytorch-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chenyuntc/pytorch-book)：书籍《深度学习框架 PyTorch：入门与实践》的示例代码，可以作为一个独立的 PyTorch 入门指南和教程。内容结构如下图所示：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/92265140.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+15、[awesome-spider](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facert/awesome-spider)：爬虫集合，大多为 Python 语言项目
+
+
+16、[javascript-lessons](https://hellogithub.com/periodical/statistics/click?target=https://github.com/stone0090/javascript-lessons)：《JavaScript 闯关记》该教程部分章节精心设计了挑战关卡
+
+
+17、[linux-insides](https://hellogithub.com/periodical/statistics/click?target=https://github.com/0xAX/linux-insides)：Linux 内核揭密。[中文](https://github.com/MintCN/linux-insides-zh)
+
+
+18、[open-source-mac-os-apps](https://hellogithub.com/periodical/statistics/click?target=https://github.com/serhii-londar/open-source-mac-os-apps)：（英文）macOS 系统上的开源应用集合，并标注了应用通过那种编程语言实现
+
+
+### 开源书籍
+19、[advanced-go-programming-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chai2010/advanced-go-programming-book)：《Go语言高级编程》该书针对 Go 语言有一定经验，想更加深入了解 Go 语言各种高级用法的开发人员
+
+
+20、[modern-cpp-tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/changkun/modern-cpp-tutorial)：《高速上手 C++ 11/14/17》阅读须知：
+1. 本书假定读者已经熟悉了传统 C++ ，至少在阅读传统 C++ 代码上不具备任何困难。换句话说，那些长期使用传统 C++ 进行编码的人、渴望在短时间内迅速了解现代 C++ 特性的人非常适合阅读本书；
+2. 本书一定程度上介绍了一些现代 C++ 的黑魔法，但这些魔法毕竟有限，不适合希望进阶学习现代 C++ 的读者，本书的定位系现代 C++ 的快速上手。当然，希望进阶学习的读者可以使用本书来回顾并检验自己对现代 C++ 的熟悉度。
+
 
 
 
@@ -200,7 +200,7 @@ synonyms.seg("能量")
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

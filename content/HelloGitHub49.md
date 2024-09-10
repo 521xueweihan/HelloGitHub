@@ -163,37 +163,37 @@ let _ = "19 Nov 2015 22:20:40 +0100".toRSS(alt: true)
 ```
 
 
+### 人工智能
+25、[pycorrector](https://hellogithub.com/periodical/statistics/click?target=https://github.com/shibing624/pycorrector)：中文文本纠错工具。音似、形似错字（或变体字）纠正，可用于中文拼音、笔画输入法的错误纠正。依据语言模型检测错别字位置，通过拼音音似特征、笔画五笔编辑距离特征及语言模型困惑度特征纠正错别字。解决了在文本识别模型处理后，对识别结果中个别词汇错误进行纠错
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/123424015.png' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-25、[bash-tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wangdoc/bash-tutorial)：Bash 教程。[在线阅读](https://wangdoc.com/bash/)
+26、[bash-tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wangdoc/bash-tutorial)：Bash 教程。[在线阅读](https://wangdoc.com/bash/)
 
 
-26、[glow-sans](https://hellogithub.com/periodical/statistics/click?target=https://github.com/welai/glow-sans)：一个基于思源黑体、Fira Sans 和 Raleway 的开源字体项目。支持简体中文、繁体中文与日文；思源黑体的 7 字重被扩展为 9 字重，并提供了宽度系列，全家族共 44 款字体。相比于思源黑体，未来荧黑的造型更加简明现代，版面效果清新轻快。中宫与字面更加收敛，重心在字重之间经过了重新配置；笔画细节处理得更干练。[在线设计](https://welai.github.io/glow-sans/)
+27、[glow-sans](https://hellogithub.com/periodical/statistics/click?target=https://github.com/welai/glow-sans)：一个基于思源黑体、Fira Sans 和 Raleway 的开源字体项目。支持简体中文、繁体中文与日文；思源黑体的 7 字重被扩展为 9 字重，并提供了宽度系列，全家族共 44 款字体。相比于思源黑体，未来荧黑的造型更加简明现代，版面效果清新轻快。中宫与字面更加收敛，重心在字重之间经过了重新配置；笔画细节处理得更干练。[在线设计](https://welai.github.io/glow-sans/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/236870662.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[nbnhhsh](https://hellogithub.com/periodical/statistics/click?target=https://github.com/itorr/nbnhhsh)：社交平台上通过拼音首字母缩写指代特定词句的情况越来越多（看不懂的流行语），该项目就是为了让常人勉强能理解这一门另类沟通方式。[在线尝试](https://lab.magiconch.com/nbnhhsh/)
+28、[nbnhhsh](https://hellogithub.com/periodical/statistics/click?target=https://github.com/itorr/nbnhhsh)：社交平台上通过拼音首字母缩写指代特定词句的情况越来越多（看不懂的流行语），该项目就是为了让常人勉强能理解这一门另类沟通方式。[在线尝试](https://lab.magiconch.com/nbnhhsh/)
 
 
-28、[vimium](https://hellogithub.com/periodical/statistics/click?target=https://github.com/philc/vimium)：让你像用 Vim 一样在浏览器浏览网页的插件
+29、[vimium](https://hellogithub.com/periodical/statistics/click?target=https://github.com/philc/vimium)：让你像用 Vim 一样在浏览器浏览网页的插件
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/312262.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-29、[istio-handbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/servicemesher/istio-handbook)：ServiceMesher 社区出品的《Istio 服务网格进阶实战》。Istio 是由 Google、IBM、Lyft 等共同开源的 Service Mesh（服务网格）框架，作为云原生时代下承 Kubernetes、上接 Serverless 架构的重要基础设施层
+30、[istio-handbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/servicemesher/istio-handbook)：ServiceMesher 社区出品的《Istio 服务网格进阶实战》。Istio 是由 Google、IBM、Lyft 等共同开源的 Service Mesh（服务网格）框架，作为云原生时代下承 Kubernetes、上接 Serverless 架构的重要基础设施层
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/173740904.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[webrtc-book-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/a-wing/webrtc-book-cn)：《Real-Time Communication with WebRTC》中文翻译版，WebRTC 实时通信。在浏览器中提供丰富的音频和视频实时通信和点对点数据交换，不需要私有插件。这本书向您展示了如何使用新兴的 Web 实时通信（WebRTC）技术来构建一个浏览器到浏览器通信的应用程序
+31、[webrtc-book-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/a-wing/webrtc-book-cn)：《Real-Time Communication with WebRTC》中文翻译版，WebRTC 实时通信。在浏览器中提供丰富的音频和视频实时通信和点对点数据交换，不需要私有插件。这本书向您展示了如何使用新兴的 Web 实时通信（WebRTC）技术来构建一个浏览器到浏览器通信的应用程序
 
-
-### 机器学习
-31、[pycorrector](https://hellogithub.com/periodical/statistics/click?target=https://github.com/shibing624/pycorrector)：中文文本纠错工具。音似、形似错字（或变体字）纠正，可用于中文拼音、笔画输入法的错误纠正。依据语言模型检测错别字位置，通过拼音音似特征、笔画五笔编辑距离特征及语言模型困惑度特征纠正错别字。解决了在文本识别模型处理后，对识别结果中个别词汇错误进行纠错
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/123424015.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -223,7 +223,7 @@ let _ = "19 Nov 2015 22:20:40 +0100".toRSS(alt: true)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

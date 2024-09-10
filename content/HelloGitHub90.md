@@ -223,32 +223,8 @@ driver = webdriver.Chrome(ChromeDriverManager().install())
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/315822591.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-33、[catppuccin](https://hellogithub.com/periodical/statistics/click?target=https://github.com/catppuccin/catppuccin)：超看好的主题配色方案。该项目是由社区驱动的配色方案，内含以暖色调为主、色彩丰富的主题，可用于 VSCode、JetBrains、Vim 等编辑器和 IDE，同样适用于各种编程语言的开发库、终端、操作系统、浏览器等应用。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/425134686.png' style="max-width:80%; max-height=80%;"></img></p>
-
-34、[keyviz](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mulaRahul/keyviz)：一款免费的实时键鼠输入可视化软件。该项目可以将鼠标和键盘的操作展示到屏幕上，让观众可以看到你的键鼠操作。适用于截图、录制视频、演示和协作等场景，支持 Windows、Linux 和 macOS 操作系统。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/516753000.png' style="max-width:80%; max-height=80%;"></img></p>
-
-35、[LearnPrompt](https://hellogithub.com/periodical/statistics/click?target=https://github.com/LearnPrompt/LearnPrompt)：免费开源的 AIGC 课程。该项目对新手友好、无需 AI 知识也可轻松学习，它不仅会传授如何用好 AIGC，还会深入讨论 AI 相关的知识，内容包括 ChatGPT、Runway、Midjourney、Stable Diffusion、AI 数字人等方面。
-
-36、[python-weekly](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chinesehuazhou/python-weekly)：Python 潮流周刊。这是一份由「豌豆花下猫」制作的每周更新的 Python 周刊，内容包括 Python 的精品文章、教程、开源项目、工具、视频和热门话题等。
-
-37、[TechStack](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Get-Tech-Stack/TechStack)：显示 GitHub 项目所用技术栈的浏览器插件。该项目可以展示用户正在访问的 GitHub 仓库的技术栈，帮助用户快速了解项目的更多信息。来自 [@CorrectRoadH](https://hellogithub.com/user/LlcmQNh12ZgD6sW) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/677000403.png' style="max-width:80%; max-height=80%;"></img></p>
-
-38、[webgl-fundamentals](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gfxfundamentals/webgl-fundamentals)：从基础理论讲起的 WebGL 教程。这是一份从基础的数学知识讲起的 WebGL 系列教程，内含中文翻译版本。
-
-### 开源书籍
-39、[css-animation-101](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cssanimation/css-animation-101)：《CSS 动画入门秘籍》。这本书主要是介绍 CSS 中的动画（CSS animation），内容包含什么是 CSS animation、transition 属性、如何制作复杂的动效以及丰富的示例，教会你如何将 CSS 动画应用到你的项目中。
-
-40、[how-to-write-makefile](https://hellogithub.com/periodical/statistics/click?target=https://github.com/seisman/how-to-write-makefile)：《跟我一起写 Makefile》。该项目是陈皓整理自《GNU Make Manual 》的系列文章 PDF 重制版，作者对其进行了排版优化、代码高亮等操作，阅读起来更加舒服，可作为初学者上手 Makefile 的教程。
-
-### 机器学习
-41、[hcaptcha-challenger](https://hellogithub.com/periodical/statistics/click?target=https://github.com/QIN2DIM/hcaptcha-challenger)：优雅地处理 hCaptcha 验证码的库。该项目不依赖浏览器插件和第三方反验证码服务，通过机器学习的方式处理 hCaptcha 验证码。它采用 ResNet 和 YOLOv8 处理分类和检测问题，通过 ONNX 打包模型降低使用门槛，让用户可在没有 GPU 的设备上运行代码，且无需安装 PyTorch 等依赖，优雅地面对 hCaptcha 验证码。来自 [@QIN2DIM](https://hellogithub.com/user/Gm0AckPjzrhTHae) 的分享
+### 人工智能
+33、[hcaptcha-challenger](https://hellogithub.com/periodical/statistics/click?target=https://github.com/QIN2DIM/hcaptcha-challenger)：优雅地处理 hCaptcha 验证码的库。该项目不依赖浏览器插件和第三方反验证码服务，通过机器学习的方式处理 hCaptcha 验证码。它采用 ResNet 和 YOLOv8 处理分类和检测问题，通过 ONNX 打包模型降低使用门槛，让用户可在没有 GPU 的设备上运行代码，且无需安装 PyTorch 等依赖，优雅地面对 hCaptcha 验证码。来自 [@QIN2DIM](https://hellogithub.com/user/Gm0AckPjzrhTHae) 的分享
 ```python
 import os
 from pathlib import Path
@@ -281,7 +257,7 @@ if __name__ == "__main__":
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/459466436.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-42、[jax](https://hellogithub.com/periodical/statistics/click?target=https://github.com/google/jax)：谷歌开源的高性能科学计算库。这是一个结合了即时编译(JIT)、自动求导(Autograd)、线性代数编译器(XLA) 的数值计算 Python 库，用法和 NumPy 差不多。但 JAX 更快、更省内存，支持自动微分、自动向量化、并行计算等功能。
+34、[jax](https://hellogithub.com/periodical/statistics/click?target=https://github.com/google/jax)：谷歌开源的高性能科学计算库。这是一个结合了即时编译(JIT)、自动求导(Autograd)、线性代数编译器(XLA) 的数值计算 Python 库，用法和 NumPy 差不多。但 JAX 更快、更省内存，支持自动微分、自动向量化、并行计算等功能。
 ```python
 from jax import grad
 import jax.numpy as jnp
@@ -298,9 +274,33 @@ print(grad(grad(grad(tanh)))(1.0))
 # prints 0.62162673
 ```
 
-43、[sd-webui-EasyPhoto](https://hellogithub.com/periodical/statistics/click?target=https://github.com/aigc-apps/sd-webui-EasyPhoto)：你的智能 AI 照片生成工具。这是一款用于生成 AI 肖像画的 WebUI 插件，可用于生成专业质感的照片，相当于免费、可本地部署的妙鸭相机。
+35、[sd-webui-EasyPhoto](https://hellogithub.com/periodical/statistics/click?target=https://github.com/aigc-apps/sd-webui-EasyPhoto)：你的智能 AI 照片生成工具。这是一款用于生成 AI 肖像画的 WebUI 插件，可用于生成专业质感的照片，相当于免费、可本地部署的妙鸭相机。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/684046942.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+36、[catppuccin](https://hellogithub.com/periodical/statistics/click?target=https://github.com/catppuccin/catppuccin)：超看好的主题配色方案。该项目是由社区驱动的配色方案，内含以暖色调为主、色彩丰富的主题，可用于 VSCode、JetBrains、Vim 等编辑器和 IDE，同样适用于各种编程语言的开发库、终端、操作系统、浏览器等应用。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/425134686.png' style="max-width:80%; max-height=80%;"></img></p>
+
+37、[keyviz](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mulaRahul/keyviz)：一款免费的实时键鼠输入可视化软件。该项目可以将鼠标和键盘的操作展示到屏幕上，让观众可以看到你的键鼠操作。适用于截图、录制视频、演示和协作等场景，支持 Windows、Linux 和 macOS 操作系统。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/516753000.png' style="max-width:80%; max-height=80%;"></img></p>
+
+38、[LearnPrompt](https://hellogithub.com/periodical/statistics/click?target=https://github.com/LearnPrompt/LearnPrompt)：免费开源的 AIGC 课程。该项目对新手友好、无需 AI 知识也可轻松学习，它不仅会传授如何用好 AIGC，还会深入讨论 AI 相关的知识，内容包括 ChatGPT、Runway、Midjourney、Stable Diffusion、AI 数字人等方面。
+
+39、[python-weekly](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chinesehuazhou/python-weekly)：Python 潮流周刊。这是一份由「豌豆花下猫」制作的每周更新的 Python 周刊，内容包括 Python 的精品文章、教程、开源项目、工具、视频和热门话题等。
+
+40、[TechStack](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Get-Tech-Stack/TechStack)：显示 GitHub 项目所用技术栈的浏览器插件。该项目可以展示用户正在访问的 GitHub 仓库的技术栈，帮助用户快速了解项目的更多信息。来自 [@CorrectRoadH](https://hellogithub.com/user/LlcmQNh12ZgD6sW) 的分享
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/677000403.png' style="max-width:80%; max-height=80%;"></img></p>
+
+41、[webgl-fundamentals](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gfxfundamentals/webgl-fundamentals)：从基础理论讲起的 WebGL 教程。这是一份从基础的数学知识讲起的 WebGL 系列教程，内含中文翻译版本。
+
+### 开源书籍
+42、[css-animation-101](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cssanimation/css-animation-101)：《CSS 动画入门秘籍》。这本书主要是介绍 CSS 中的动画（CSS animation），内容包含什么是 CSS animation、transition 属性、如何制作复杂的动效以及丰富的示例，教会你如何将 CSS 动画应用到你的项目中。
+
+43、[how-to-write-makefile](https://hellogithub.com/periodical/statistics/click?target=https://github.com/seisman/how-to-write-makefile)：《跟我一起写 Makefile》。该项目是陈皓整理自《GNU Make Manual 》的系列文章 PDF 重制版，作者对其进行了排版优化、代码高亮等操作，阅读起来更加舒服，可作为初学者上手 Makefile 的教程。
 
 
 
@@ -330,7 +330,7 @@ print(grad(grad(grad(tanh)))(1.0))
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

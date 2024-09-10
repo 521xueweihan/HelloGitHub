@@ -210,35 +210,8 @@ $ rubocop
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/190874674.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-28、[from_coder_to_expert](https://hellogithub.com/periodical/statistics/click?target=https://github.com/0voice/from_coder_to_expert)：2019 年各互联网大厂最新内部技术分享的文档、PDF、PPT 集合。从程序员到 CTO，从专业走向卓越
-
-
-29、[getAwayBSG](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Jinnrry/getAwayBSG)：项目名为“逃离北上广”，该项目通过爬取的招聘和房价数据。给准备逃离北上广等一线城市，却又找不到去处的 IT 人士提供了一些可视化数据作为建议
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/165990457.png' style="max-width:80%; max-height=80%;"></img></p>
-
-30、[git-open](https://hellogithub.com/periodical/statistics/click?target=https://github.com/paulirish/git-open)：用 git 命令 push 完代码，想看仓库网页内容是否更新成功还需要再去打开网页查看。有了这个项目，直接输入 git open 命令浏览器就能自动打开对应的仓库的网页，支持 GitHub、GitLab、Bitbucket。是不是很方便？还等什么快去试试
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/29791986.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-31、[sqli-labs](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Audi-1/sqli-labs)：非常详细的 SQL 注入教程。值得想要入门安全行业的同学阅读和学习（英文）
-
-
-32、[Student-resources](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ivmm/Student-resources)：这个世界对学生总是非常友好，尤其是大学生。学生们总能获得各种各样的优惠，本文介绍的就是利用学生身份可以享受到的相关学生优惠权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠资格，使得其他同学无法受益。像 GitHub、Microsoft、AWS、JetBrains 以及最近开始的苹果学生优惠大促销，大学生（中学生也可以，小学生比较难）们都可以尽情享用啦！最后祝各位学生学业进步，让自己的生活更精彩
-
-
-### 开源书籍
-33、[flutter-in-action](https://hellogithub.com/periodical/statistics/click?target=https://github.com/flutterchina/flutter-in-action)：《Flutter 实战》，[在线阅读](https://book.flutterchina.club/)
-
-
-34、[go101](https://hellogithub.com/periodical/statistics/click?target=https://github.com/go101/go101)：《Go语言101》是一本着重介绍 Go 语法和语义的编程指导书，[中文版在线阅读](https://gfw.go101.org/article/101.html)
-
-
-### 机器学习
-35、[DG-Net](https://hellogithub.com/periodical/statistics/click?target=https://github.com/NVlabs/DG-Net)：深度学习模型训练时往往需要大量的标注数据，但收集和标注大量的数据往往比较困难。作者在行人重识别这个任务上探索了，利用生成数据来辅助训练的方法。通过生成高质量的行人图像（行人两两换衣），将其与行人重识别模型融合，同时提升行人生成的质量和行人重识别的精度
+### 人工智能
+28、[DG-Net](https://hellogithub.com/periodical/statistics/click?target=https://github.com/NVlabs/DG-Net)：深度学习模型训练时往往需要大量的标注数据，但收集和标注大量的数据往往比较困难。作者在行人重识别这个任务上探索了，利用生成数据来辅助训练的方法。通过生成高质量的行人图像（行人两两换衣），将其与行人重识别模型融合，同时提升行人生成的质量和行人重识别的精度
 1. 不需要额外标注（如姿态 pose、属性 attribute、关键点 keypoints 等），就能生成高质量行人图像。通过交换提取出的特征，来实现两张行人图像的外表互换。这些外表都是训练集中真实存在的变化，而不是随机噪声。
 2. 不需要部件匹配来提升行人重识别的结果。仅仅是让模型看更多训练样本就可以提升模型的效果。给定N张图像，我们首先生成了 NxN 的训练图像，用这些图像来训练行人重识别模型。(下图第一行和第一列为真实图像输入，其余都为生成图像)
 3. 训练中存在一个循环。生成图像喂给行人重识别模型来学习好的行人特征，而行人重识别模型提取出来的特征也会再喂给生成模型来提升生成图像的质量。
@@ -246,7 +219,7 @@ $ rubocop
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/194320424.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[hub](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pytorch/hub)：一个包含计算机视觉、自然语言处理领域的诸多经典模型的聚合中心。这年头有很多 Hub，什么 GitHub、SciHub、xxxxHub 等等，但是最近图灵奖得主 Yann LeCun 强推的 PyTorch-Hub。无论是 ResNet、BERT、GPT、VGG、PGAN 还是 MobileNet 等经典模型，只需输入一行代码，都能实现一键调用！妈妈再也不用担心你的模型啦！示例代码：
+29、[hub](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pytorch/hub)：一个包含计算机视觉、自然语言处理领域的诸多经典模型的聚合中心。这年头有很多 Hub，什么 GitHub、SciHub、xxxxHub 等等，但是最近图灵奖得主 Yann LeCun 强推的 PyTorch-Hub。无论是 ResNet、BERT、GPT、VGG、PGAN 还是 MobileNet 等经典模型，只需输入一行代码，都能实现一键调用！妈妈再也不用担心你的模型啦！示例代码：
 ```
 1、查询可用的模型
 
@@ -305,10 +278,37 @@ forward(input_ids, token_type_ids=None, attention_mask=None, masked_lm_labels=No
 ```
 
 
-37、[LIS-YNP](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Eurus-Holmes/LIS-YNP)：一个包含基础教程、提高参考资料、有趣实践项目的 PyTorch 教程。人生苦短，我用 PyTorch
+30、[LIS-YNP](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Eurus-Holmes/LIS-YNP)：一个包含基础教程、提高参考资料、有趣实践项目的 PyTorch 教程。人生苦短，我用 PyTorch
 
 
-38、[TabNine](https://hellogithub.com/periodical/statistics/click?target=https://github.com/codota/TabNine)：基于 OpenAI 的语言模型的代码补全工具。支持 23 种编程语言、5 种编辑器（VS Code、Sublime Text、Atom、Emacs、Vim）、使用简单，效果惊艳
+31、[TabNine](https://hellogithub.com/periodical/statistics/click?target=https://github.com/codota/TabNine)：基于 OpenAI 的语言模型的代码补全工具。支持 23 种编程语言、5 种编辑器（VS Code、Sublime Text、Atom、Emacs、Vim）、使用简单，效果惊艳
+
+
+### 其它
+32、[from_coder_to_expert](https://hellogithub.com/periodical/statistics/click?target=https://github.com/0voice/from_coder_to_expert)：2019 年各互联网大厂最新内部技术分享的文档、PDF、PPT 集合。从程序员到 CTO，从专业走向卓越
+
+
+33、[getAwayBSG](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Jinnrry/getAwayBSG)：项目名为“逃离北上广”，该项目通过爬取的招聘和房价数据。给准备逃离北上广等一线城市，却又找不到去处的 IT 人士提供了一些可视化数据作为建议
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/165990457.png' style="max-width:80%; max-height=80%;"></img></p>
+
+34、[git-open](https://hellogithub.com/periodical/statistics/click?target=https://github.com/paulirish/git-open)：用 git 命令 push 完代码，想看仓库网页内容是否更新成功还需要再去打开网页查看。有了这个项目，直接输入 git open 命令浏览器就能自动打开对应的仓库的网页，支持 GitHub、GitLab、Bitbucket。是不是很方便？还等什么快去试试
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/29791986.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+35、[sqli-labs](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Audi-1/sqli-labs)：非常详细的 SQL 注入教程。值得想要入门安全行业的同学阅读和学习（英文）
+
+
+36、[Student-resources](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ivmm/Student-resources)：这个世界对学生总是非常友好，尤其是大学生。学生们总能获得各种各样的优惠，本文介绍的就是利用学生身份可以享受到的相关学生优惠权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠资格，使得其他同学无法受益。像 GitHub、Microsoft、AWS、JetBrains 以及最近开始的苹果学生优惠大促销，大学生（中学生也可以，小学生比较难）们都可以尽情享用啦！最后祝各位学生学业进步，让自己的生活更精彩
+
+
+### 开源书籍
+37、[flutter-in-action](https://hellogithub.com/periodical/statistics/click?target=https://github.com/flutterchina/flutter-in-action)：《Flutter 实战》，[在线阅读](https://book.flutterchina.club/)
+
+
+38、[go101](https://hellogithub.com/periodical/statistics/click?target=https://github.com/go101/go101)：《Go语言101》是一本着重介绍 Go 语法和语义的编程指导书，[中文版在线阅读](https://gfw.go101.org/article/101.html)
 
 
 
@@ -339,7 +339,7 @@ forward(input_ids, token_type_ids=None, attention_mask=None, masked_lm_labels=No
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

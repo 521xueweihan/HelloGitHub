@@ -354,54 +354,23 @@ let secondGradient = [UIColor.blackColor(), UIColor.orangeColor()].gradient { gr
 ```
 
 
-### 其它
-27、[azuredatastudio](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/azuredatastudio)：微软开源的数据库桌面管理工具。该工具支持 SQL Server、Azure SQL DB 和 SQL DW 数据库，Windows 下的安装包仅不到 100 MB，还支持另外两大操作系统 macOS 和 Linux。如果开发中用到了上面的几种数据库，就试试这款免费的数据库桌面管理工具吧
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/109200851.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
-28、[cats-of-jasnah](https://hellogithub.com/periodical/statistics/click?target=https://github.com/countable/cats-of-jasnah)：专为 3 岁左右孩子做的网页游戏。游戏很简单就是看图中有几只符合条件的猫，比如：有几只蓝色的猫？问题是通过语音提问，选择正确后会进入下一关。通过该项目不仅可以提高小孩的颜色辨识和识数的能力，还可以锻炼英语听力。[在线试玩](https://countable.github.io/cats-of-jasnah/)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/229992640.png' style="max-width:80%; max-height=80%;"></img></p>
-
-29、[Docker-OSX](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sickcodes/Docker-OSX)：让你用 Docker 跑 macOS 操作系统的项目。仅需 2 条命令分分钟让你起来一个 macOS 操作系统，听着刺激吧！搞起来：
-```
-# 拉镜像
-docker pull sickcodes/docker-osx:latest
-
-# 运行
-docker run -it \
-    --device /dev/kvm \
-    -p 50922:10022 \
-    -v /tmp/.X11-unix:/tmp/.X11-unix \
-    -e "DISPLAY=${DISPLAY:-:0.0}" \
-    sickcodes/docker-osx:latest
-```
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/269336148.png' style="max-width:80%; max-height=80%;"></img></p>
-
-30、[what-happens-when](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alex/what-happens-when)：该项目详细地解释了当你在浏览器中输入 google.com 按下回车后发生了什么。[中文](https://github.com/skyline75489/what-happens-when-zh_CN)
-
-
-### 机器学习
-31、[best-of-ml-python](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ml-tooling/best-of-ml-python)：优秀的 Python 机器学习相关开源库集合。该项目会根据收录的开源项目各项指标计算得出一个评分，并定期更新
+### 人工智能
+27、[best-of-ml-python](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ml-tooling/best-of-ml-python)：优秀的 Python 机器学习相关开源库集合。该项目会根据收录的开源项目各项指标计算得出一个评分，并定期更新
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/317029148.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[fawkes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Shawn-Shan/fawkes)：通过 AI 技术保护个人照片隐私的开源项目。芝加哥大学 Sand Lab 团队发起的项目，通过 AI 技术对图片的像素进行一些微调，人眼很难看出修改前后的区别，但对于人脸识别系统来说微调前后是天壤之别的，从而达到保护你照片隐私的效果
+28、[fawkes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Shawn-Shan/fawkes)：通过 AI 技术保护个人照片隐私的开源项目。芝加哥大学 Sand Lab 团队发起的项目，通过 AI 技术对图片的像素进行一些微调，人眼很难看出修改前后的区别，但对于人脸识别系统来说微调前后是天壤之别的，从而达到保护你照片隐私的效果
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/264782257.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[Paddle](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PaddlePaddle/Paddle)：百度开源的深度学习框架。开发便捷的产业级深度学习框架，支持千亿特征、万亿参数、数百节点的大规模训练。官方还为用户提供了免费的算力可用于学习和训练，社区活跃教程齐全对新手友好
+29、[Paddle](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PaddlePaddle/Paddle)：百度开源的深度学习框架。开发便捷的产业级深度学习框架，支持千亿特征、万亿参数、数百节点的大规模训练。官方还为用户提供了免费的算力可用于学习和训练，社区活跃教程齐全对新手友好
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/65711522.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[tinygrad](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tinygrad/tinygrad)：一款小型的开源深度学习框架。它代码不足 1k 行足够简单，支持深度模型推理与训练。示例代码：
+30、[tinygrad](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tinygrad/tinygrad)：一款小型的开源深度学习框架。它代码不足 1k 行足够简单，支持深度模型推理与训练。示例代码：
 ```python
 from tinygrad.tensor import Tensor
 import tinygrad.optim as optim
@@ -428,6 +397,37 @@ optim.step()
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/305144746.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+31、[azuredatastudio](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/azuredatastudio)：微软开源的数据库桌面管理工具。该工具支持 SQL Server、Azure SQL DB 和 SQL DW 数据库，Windows 下的安装包仅不到 100 MB，还支持另外两大操作系统 macOS 和 Linux。如果开发中用到了上面的几种数据库，就试试这款免费的数据库桌面管理工具吧
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/109200851.jpeg' style="max-width:80%; max-height=80%;"></img></p>
+
+32、[cats-of-jasnah](https://hellogithub.com/periodical/statistics/click?target=https://github.com/countable/cats-of-jasnah)：专为 3 岁左右孩子做的网页游戏。游戏很简单就是看图中有几只符合条件的猫，比如：有几只蓝色的猫？问题是通过语音提问，选择正确后会进入下一关。通过该项目不仅可以提高小孩的颜色辨识和识数的能力，还可以锻炼英语听力。[在线试玩](https://countable.github.io/cats-of-jasnah/)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/229992640.png' style="max-width:80%; max-height=80%;"></img></p>
+
+33、[Docker-OSX](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sickcodes/Docker-OSX)：让你用 Docker 跑 macOS 操作系统的项目。仅需 2 条命令分分钟让你起来一个 macOS 操作系统，听着刺激吧！搞起来：
+```
+# 拉镜像
+docker pull sickcodes/docker-osx:latest
+
+# 运行
+docker run -it \
+    --device /dev/kvm \
+    -p 50922:10022 \
+    -v /tmp/.X11-unix:/tmp/.X11-unix \
+    -e "DISPLAY=${DISPLAY:-:0.0}" \
+    sickcodes/docker-osx:latest
+```
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/60/269336148.png' style="max-width:80%; max-height=80%;"></img></p>
+
+34、[what-happens-when](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alex/what-happens-when)：该项目详细地解释了当你在浏览器中输入 google.com 按下回车后发生了什么。[中文](https://github.com/skyline75489/what-happens-when-zh_CN)
+
 
 
 
@@ -457,7 +457,7 @@ optim.step()
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

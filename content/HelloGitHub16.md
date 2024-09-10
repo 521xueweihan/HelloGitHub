@@ -153,29 +153,29 @@ namespace WeixinSDK.Test.Fake
 18、[syncPlaylist](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Denon/syncPlaylist)：在网易云音乐与 QQ 音乐之间同步歌单。易于使用、配置方便、代码简单，用到的技术：`requests` + `beautifulsoup` 以及 `selenium` + `phantomjs`
 
 
+### 人工智能
+19、[ncnn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Tencent/ncnn)：腾讯开源的一个为手机端极致优化的高性能神经网络前向计算框架
+
+
+20、[tutorials](https://hellogithub.com/periodical/statistics/click?target=https://github.com/MorvanZhou/tutorials)：机器学习入门教程，十分详细包含视频教程、文字教程
+
+
 ### 其它
-19、[Bash-Snippets](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alexanderepstein/Bash-Snippets)：实用、有趣的 shell 脚本集合
+21、[Bash-Snippets](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alexanderepstein/Bash-Snippets)：实用、有趣的 shell 脚本集合
 
 
-20、[feather](https://hellogithub.com/periodical/statistics/click?target=https://github.com/feathericons/feather)：简洁、清爽、免费的 icon 集合
+22、[feather](https://hellogithub.com/periodical/statistics/click?target=https://github.com/feathericons/feather)：简洁、清爽、免费的 icon 集合
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/20270252.png' style="max-width:80%; max-height=80%;"></img></p>
 
-21、[restful-api-design-references](https://hellogithub.com/periodical/statistics/click?target=https://github.com/aisuhua/restful-api-design-references)：RESTful API 设计参考文献列表，可帮助你更加彻底的了解 REST 风格的接口设计
+23、[restful-api-design-references](https://hellogithub.com/periodical/statistics/click?target=https://github.com/aisuhua/restful-api-design-references)：RESTful API 设计参考文献列表，可帮助你更加彻底的了解 REST 风格的接口设计
 
 
-22、[useful-scripts](https://hellogithub.com/periodical/statistics/click?target=https://github.com/oldratlee/useful-scripts)：一些平时实用的脚本
+24、[useful-scripts](https://hellogithub.com/periodical/statistics/click?target=https://github.com/oldratlee/useful-scripts)：一些平时实用的脚本
 
 
-23、[You-Dont-Need-jQuery](https://hellogithub.com/periodical/statistics/click?target=https://github.com/camsong/You-Dont-Need-jQuery)：前端发展很快，现代浏览器原生 API 已经足够好用。有些场景下我们并不需要为了操作 DOM、Event 等再学习一下 jQuery 的 API，该项目总结了大部分 jQuery API 替代的方法，[中文](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
-
-
-### 机器学习
-24、[ncnn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Tencent/ncnn)：腾讯开源的一个为手机端极致优化的高性能神经网络前向计算框架
-
-
-25、[tutorials](https://hellogithub.com/periodical/statistics/click?target=https://github.com/MorvanZhou/tutorials)：机器学习入门教程，十分详细包含视频教程、文字教程
+25、[You-Dont-Need-jQuery](https://hellogithub.com/periodical/statistics/click?target=https://github.com/camsong/You-Dont-Need-jQuery)：前端发展很快，现代浏览器原生 API 已经足够好用。有些场景下我们并不需要为了操作 DOM、Event 等再学习一下 jQuery 的 API，该项目总结了大部分 jQuery API 替代的方法，[中文](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
 
 
 
@@ -206,7 +206,7 @@ namespace WeixinSDK.Test.Fake
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

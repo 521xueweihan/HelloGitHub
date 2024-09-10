@@ -206,36 +206,12 @@ if __name__ == '__main__':
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/232793032.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-35、[chinese-independent-blogs](https://hellogithub.com/periodical/statistics/click?target=https://github.com/timqian/chinese-independent-blogs)：中文个人独立博客网站合集。如果说中文独立博客的时代已经过去，那么至少还有这么一块地方，属于热爱自由的博主们。来自 [@Tianchi Gao](https://hellogithub.com/user/8rWP9fXUuvRdwSz) 的分享
-
-36、[CSrankings](https://hellogithub.com/periodical/statistics/click?target=https://github.com/emeryberger/CSrankings)：非官方的顶级 CS 学校排名榜单。该项目以高校教师在计算机科学(CS)各领域顶级会议上发表的论文数量，作为重要的衡量标准。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/57929326.png' style="max-width:80%; max-height=80%;"></img></p>
-
-37、[FlutterDouBan](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kaina404/FlutterDouBan)：一款用 Flutter 写的豆瓣客户端。该项目用 Flutter 还原了豆瓣客户端的首页、书影音、小组、市集及个人中心等功能。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/166813643.png' style="max-width:80%; max-height=80%;"></img></p>
-
-38、[portal_calendar](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wuspy/portal_calendar)：自制电子墨水屏的日历。基于 ESP32 的电子墨水屏日历，使用 4 节 7 号电池可运行多年，支持通过 OpenWeatherMap 实现天气显示等功能。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/519401968.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-39、[relationship](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mumuy/relationship)：中国亲戚关系计算器。该项目实现了中国亲戚关系及称呼之间的换算，可以将中国复杂的亲戚关系及称呼通过计算器的方式简单的运算出来。来自 [@掉链自行车](https://hellogithub.com/user/EoL2p5w8gSRvXP3) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/54008251.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 开源书籍
-40、[hello-algo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/krahets/hello-algo)：一本动画图解数据结构与算法的入门书。《Hello，算法》一书通过动画和代码诠释数据结构和经典算法，学习曲线平滑，支持电脑、手机等多种终端在线阅读。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/561730219.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-41、[DeOldify](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jantic/DeOldify)：一款可以给老旧照片上色的项目。该项目基于深度学习实现了对黑白图像和视频进行着色的功能。
+### 人工智能
+35、[DeOldify](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jantic/DeOldify)：一款可以给老旧照片上色的项目。该项目基于深度学习实现了对黑白图像和视频进行着色的功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/155636246.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-42、[wandb](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wandb/wandb)：一款轻量级的机器学习可视化工具。该项目是用于可视化和跟踪机器学习实验的工具，通过几行代码就可以实现跟踪、比较和可视化机器学习实验。
+36、[wandb](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wandb/wandb)：一款轻量级的机器学习可视化工具。该项目是用于可视化和跟踪机器学习实验的工具，通过几行代码就可以实现跟踪、比较和可视化机器学习实验。
 ```python
 import wandb
 
@@ -254,6 +230,30 @@ for i in range(10):
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/86031674.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+37、[chinese-independent-blogs](https://hellogithub.com/periodical/statistics/click?target=https://github.com/timqian/chinese-independent-blogs)：中文个人独立博客网站合集。如果说中文独立博客的时代已经过去，那么至少还有这么一块地方，属于热爱自由的博主们。来自 [@Tianchi Gao](https://hellogithub.com/user/8rWP9fXUuvRdwSz) 的分享
+
+38、[CSrankings](https://hellogithub.com/periodical/statistics/click?target=https://github.com/emeryberger/CSrankings)：非官方的顶级 CS 学校排名榜单。该项目以高校教师在计算机科学(CS)各领域顶级会议上发表的论文数量，作为重要的衡量标准。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/57929326.png' style="max-width:80%; max-height=80%;"></img></p>
+
+39、[FlutterDouBan](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kaina404/FlutterDouBan)：一款用 Flutter 写的豆瓣客户端。该项目用 Flutter 还原了豆瓣客户端的首页、书影音、小组、市集及个人中心等功能。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/166813643.png' style="max-width:80%; max-height=80%;"></img></p>
+
+40、[portal_calendar](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wuspy/portal_calendar)：自制电子墨水屏的日历。基于 ESP32 的电子墨水屏日历，使用 4 节 7 号电池可运行多年，支持通过 OpenWeatherMap 实现天气显示等功能。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/519401968.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+41、[relationship](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mumuy/relationship)：中国亲戚关系计算器。该项目实现了中国亲戚关系及称呼之间的换算，可以将中国复杂的亲戚关系及称呼通过计算器的方式简单的运算出来。来自 [@掉链自行车](https://hellogithub.com/user/EoL2p5w8gSRvXP3) 的分享
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/54008251.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 开源书籍
+42、[hello-algo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/krahets/hello-algo)：一本动画图解数据结构与算法的入门书。《Hello，算法》一书通过动画和代码诠释数据结构和经典算法，学习曲线平滑，支持电脑、手机等多种终端在线阅读。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/561730219.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -283,7 +283,7 @@ for i in range(10):
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

@@ -240,46 +240,12 @@ h_flow() # "Hello, World! I'm HelloGitHub!"
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/206583780.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-33、[cdn-up-and-running](https://hellogithub.com/periodical/statistics/click?target=https://github.com/leandromoreira/cdn-up-and-running)：从零开始构建 CDN 的教程。为了让你在实战中学习 CDN 的工作原理，这里会从创建一个单一的后端服务开始，逐渐扩展到多个节点、模拟延迟、可视化、可测试的 CDN 服务。因为设计 CDN 会涉及 Nginx、Lua、Docker、Grafana 等知识点，所以学习该教程需要有一定的编程基础。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/441214263.png' style="max-width:80%; max-height=80%;"></img></p>
-
-34、[fluentui-emoji](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/fluentui-emoji)：一套可爱的 emoji 表情。该项目是微软开源的一套精致、可爱的 emoji 表情包。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/390896426.png' style="max-width:80%; max-height=80%;"></img></p>
-
-35、[k8s_PaaS](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ben1234560/k8s_PaaS)：教你用 K8s 部署一套完整服务的教程。通过该教程你可以学习到如何部署 Kubernetes 集群，以及在此基础上搭建由 Apollo、Jenkins、Prometheus 等服务组成的完整的软件研发和部署平台。来自 [@郭学威](https://hellogithub.com/user/YRakbLESMsm7c9l) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/294880855.png' style="max-width:80%; max-height=80%;"></img></p>
-
-36、[pi-apps](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Botspot/pi-apps)：最受欢迎的树莓派应用商店。这是一款完全免费、开源的树莓派应用商店，它安装简单使用方便，内置了 200 多个应用程序，支持 32 位和 64 位的 Raspberry Pi OS。
-```shell
-# 下载
-git clone https://github.com/Botspot/pi-apps
-# 安装
-~/pi-apps/install
-```
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/297820951.png' style="max-width:80%; max-height=80%;"></img></p>
-
-37、[smiley-sans](https://hellogithub.com/periodical/statistics/click?target=https://github.com/atelier-anchor/smiley-sans)：一款完全开源、精雕细琢的中文黑体。这款字体名为「得意黑」，整体字身窄而斜，细节融入了取法手绘美术字的特殊造型。支持简体中文常用字、拉丁字母、阿拉伯数字和各种标点符号。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/564785929.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 开源书籍
-38、[essential-netty-in-action](https://hellogithub.com/periodical/statistics/click?target=https://github.com/waylau/essential-netty-in-action)：《Netty 实战》精简版。该书是《Netty in Action》的中文精简版，带你快速掌握 Netty。
-
-39、[time-as-a-friend](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xiaolai/time-as-a-friend)：《把时间当作朋友》。做事不一定要图快，马跑起来比骆驼快，但骆驼一生走过的路却是马的两倍。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/175853072.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-40、[annotated_deep_learning_paper_implementations](https://hellogithub.com/periodical/statistics/click?target=https://github.com/labmlai/annotated_deep_learning_paper_implementations)：深度学习论文的实现集合。这是一个关于神经网络和相关算法 PyTorch 实现的集合，代码里还包含逐行的注释。
+### 人工智能
+33、[annotated_deep_learning_paper_implementations](https://hellogithub.com/periodical/statistics/click?target=https://github.com/labmlai/annotated_deep_learning_paper_implementations)：深度学习论文的实现集合。这是一个关于神经网络和相关算法 PyTorch 实现的集合，代码里还包含逐行的注释。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/290091948.png' style="max-width:80%; max-height=80%;"></img></p>
 
-41、[Chinese-CLIP](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OFA-Sys/Chinese-CLIP)：OpenAI CLIP 模型中文预训练版本。该项目使用了大规模的中文数据进行训练（~2亿图文数据），提供了多个规模的预训练模型和技术报告，让使用者仅通过几行代码就能完成中文图文特征提取和图文检索。
+34、[Chinese-CLIP](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OFA-Sys/Chinese-CLIP)：OpenAI CLIP 模型中文预训练版本。该项目使用了大规模的中文数据进行训练（~2亿图文数据），提供了多个规模的预训练模型和技术报告，让使用者仅通过几行代码就能完成中文图文特征提取和图文检索。
 ```python
 import torch 
 from PIL import Image
@@ -310,9 +276,43 @@ print("Label probs:", probs)  # 图文匹配概率 [[1.268734e-03 5.436878e-02 6
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/511745849.png' style="max-width:80%; max-height=80%;"></img></p>
 
-42、[KuiperInfer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zjhellofss/KuiperInfer)：从零编写深度学习推理框架的教程。手把手教你用 C++ 写出一个深度学习推理框架，项目整体风格和结构借鉴了Caffe。初学者通过该教程不仅可以了解深度学习框架背后的知识，还能够学会如何上手一个中等规模的 C++ 项目。来自 [@炸排骨](https://hellogithub.com/user/vIKAZxSG1s2iyDE) 的分享
+35、[KuiperInfer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zjhellofss/KuiperInfer)：从零编写深度学习推理框架的教程。手把手教你用 C++ 写出一个深度学习推理框架，项目整体风格和结构借鉴了Caffe。初学者通过该教程不仅可以了解深度学习框架背后的知识，还能够学会如何上手一个中等规模的 C++ 项目。来自 [@炸排骨](https://hellogithub.com/user/vIKAZxSG1s2iyDE) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/568649213.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+36、[cdn-up-and-running](https://hellogithub.com/periodical/statistics/click?target=https://github.com/leandromoreira/cdn-up-and-running)：从零开始构建 CDN 的教程。为了让你在实战中学习 CDN 的工作原理，这里会从创建一个单一的后端服务开始，逐渐扩展到多个节点、模拟延迟、可视化、可测试的 CDN 服务。因为设计 CDN 会涉及 Nginx、Lua、Docker、Grafana 等知识点，所以学习该教程需要有一定的编程基础。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/441214263.png' style="max-width:80%; max-height=80%;"></img></p>
+
+37、[fluentui-emoji](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/fluentui-emoji)：一套可爱的 emoji 表情。该项目是微软开源的一套精致、可爱的 emoji 表情包。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/390896426.png' style="max-width:80%; max-height=80%;"></img></p>
+
+38、[k8s_PaaS](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ben1234560/k8s_PaaS)：教你用 K8s 部署一套完整服务的教程。通过该教程你可以学习到如何部署 Kubernetes 集群，以及在此基础上搭建由 Apollo、Jenkins、Prometheus 等服务组成的完整的软件研发和部署平台。来自 [@郭学威](https://hellogithub.com/user/YRakbLESMsm7c9l) 的分享
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/294880855.png' style="max-width:80%; max-height=80%;"></img></p>
+
+39、[pi-apps](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Botspot/pi-apps)：最受欢迎的树莓派应用商店。这是一款完全免费、开源的树莓派应用商店，它安装简单使用方便，内置了 200 多个应用程序，支持 32 位和 64 位的 Raspberry Pi OS。
+```shell
+# 下载
+git clone https://github.com/Botspot/pi-apps
+# 安装
+~/pi-apps/install
+```
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/297820951.png' style="max-width:80%; max-height=80%;"></img></p>
+
+40、[smiley-sans](https://hellogithub.com/periodical/statistics/click?target=https://github.com/atelier-anchor/smiley-sans)：一款完全开源、精雕细琢的中文黑体。这款字体名为「得意黑」，整体字身窄而斜，细节融入了取法手绘美术字的特殊造型。支持简体中文常用字、拉丁字母、阿拉伯数字和各种标点符号。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/564785929.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 开源书籍
+41、[essential-netty-in-action](https://hellogithub.com/periodical/statistics/click?target=https://github.com/waylau/essential-netty-in-action)：《Netty 实战》精简版。该书是《Netty in Action》的中文精简版，带你快速掌握 Netty。
+
+42、[time-as-a-friend](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xiaolai/time-as-a-friend)：《把时间当作朋友》。做事不一定要图快，马跑起来比骆驼快，但骆驼一生走过的路却是马的两倍。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/175853072.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -342,7 +342,7 @@ print("Label probs:", probs)  # 图文匹配概率 [[1.268734e-03 5.436878e-02 6
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

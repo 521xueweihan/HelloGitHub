@@ -249,44 +249,44 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/31883122.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+32、[AISystem](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chenzomi12/AISystem)：AI 系统 & 深度学习教程。该项目主要是关于人工智能、深度学习系统设计的教程，内容涵盖 AI 基础知识和概述、AI 芯片、AI 编译器原理、AI 框架核心技术等方面。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/539888500.png' style="max-width:80%; max-height=80%;"></img></p>
+
+33、[deepface](https://hellogithub.com/periodical/statistics/click?target=https://github.com/serengil/deepface)：轻量级人脸识别和分析库。该项目是 Python 写的人脸识别和面部属性分析框架，可根据人脸图像智能识别年龄、性别、情绪等信息。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/239201565.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+34、[guidance](https://hellogithub.com/periodical/statistics/click?target=https://github.com/guidance-ai/guidance)：微软开源的 LLM 提示编程语言。该项目是微软开源的编写 prompt 的模版语言，用于编写复杂、可复用、易于管理的 prompt，支持 GPT-4、LLaMa 等多种大语言模型。
+
 ### 其它
-32、[AnuPpuccin](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AnubisNekhet/AnuPpuccin)：一款精美的 Obsidian 主题。这款 Obsidian 主题支持各种调色板、内置主流配色方案、彩虹文件夹、自定义背景等功能。
+35、[AnuPpuccin](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AnubisNekhet/AnuPpuccin)：一款精美的 Obsidian 主题。这款 Obsidian 主题支持各种调色板、内置主流配色方案、彩虹文件夹、自定义背景等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/568695736.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[fluentui-system-icons](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/fluentui-system-icons)：微软开源的图标集合。这是一套微软 Fluent UI 设计风格的图标，它丰富、精致、统一。
+36、[fluentui-system-icons](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/fluentui-system-icons)：微软开源的图标集合。这是一套微软 Fluent UI 设计风格的图标，它丰富、精致、统一。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/263452252.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[leetcode](https://hellogithub.com/periodical/statistics/click?target=https://github.com/doocs/leetcode)：全面的 Leetcode 算法解题指南。该项目包含 LeetCode、《剑指 Offer》、《程序员面试金典》等题目的相关题解，题解有 Java、Python、C++、Go、TypeScript、Rust 等多种编程语言实现。来自 [@Libin YANG](https://hellogithub.com/user/S4pJLklBWN7VYg0) 的分享
+37、[leetcode](https://hellogithub.com/periodical/statistics/click?target=https://github.com/doocs/leetcode)：全面的 Leetcode 算法解题指南。该项目包含 LeetCode、《剑指 Offer》、《程序员面试金典》等题目的相关题解，题解有 Java、Python、C++、Go、TypeScript、Rust 等多种编程语言实现。来自 [@Libin YANG](https://hellogithub.com/user/S4pJLklBWN7VYg0) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/149001365.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[Smart_Plant](https://hellogithub.com/periodical/statistics/click?target=https://github.com/JGAguado/Smart_Plant)：自制智能植物监控设备。这是一款可直接插入土壤的环境监控设备，支持测量土壤湿度、温度和光照，项目仅包含电路板，需自行组装电子墨水屏、太阳能电池板等。
+38、[Smart_Plant](https://hellogithub.com/periodical/statistics/click?target=https://github.com/JGAguado/Smart_Plant)：自制智能植物监控设备。这是一款可直接插入土壤的环境监控设备，支持测量土壤湿度、温度和光照，项目仅包含电路板，需自行组装电子墨水屏、太阳能电池板等。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/481248355.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[TNT-Weekly](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tnfe/TNT-Weekly)：TNT 前端周刊。该项目是由腾讯新闻前端团队(TNT)发起的周刊，每周会发布国内外前端领域最新的优秀文章和行业动态。
+39、[TNT-Weekly](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tnfe/TNT-Weekly)：TNT 前端周刊。该项目是由腾讯新闻前端团队(TNT)发起的周刊，每周会发布国内外前端领域最新的优秀文章和行业动态。
 
-37、[try](https://hellogithub.com/periodical/statistics/click?target=https://github.com/binpash/try)：在命令执行前先试一试。该项目可以让你在命令真正执行前，查看命令执行结果，需要注意的是它并不是一个完全独立的空间(sandbox)，因为所有的网络请求都是被允许的。
+40、[try](https://hellogithub.com/periodical/statistics/click?target=https://github.com/binpash/try)：在命令执行前先试一试。该项目可以让你在命令真正执行前，查看命令执行结果，需要注意的是它并不是一个完全独立的空间(sandbox)，因为所有的网络请求都是被允许的。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/642077719.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-38、[latex-cookbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xinychen/latex-cookbook)：《LaTeX 论文写作教程》。该书是教你如何用 LaTeX 写论文，内容涵盖了 LaTeX 基础、文本编辑、公式、图表设计、文献引用等方面。
+41、[latex-cookbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xinychen/latex-cookbook)：《LaTeX 论文写作教程》。该书是教你如何用 LaTeX 写论文，内容涵盖了 LaTeX 基础、文本编辑、公式、图表设计、文献引用等方面。
 
-39、[Startup-CTO-Handbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ZachGoldberg/Startup-CTO-Handbook)：《初创公司 CTO 手册》。这是一本写给初创公司首席技术官的书，内容涵盖技术团队管理、招聘和面试、技术架构等方面。作者先后担任过多家创业公司的 CTO 和 CEO，还曾在腾讯做过驻点企业家(EIR)。
-
-### 机器学习
-40、[AISystem](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chenzomi12/AISystem)：AI 系统 & 深度学习教程。该项目主要是关于人工智能、深度学习系统设计的教程，内容涵盖 AI 基础知识和概述、AI 芯片、AI 编译器原理、AI 框架核心技术等方面。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/539888500.png' style="max-width:80%; max-height=80%;"></img></p>
-
-41、[deepface](https://hellogithub.com/periodical/statistics/click?target=https://github.com/serengil/deepface)：轻量级人脸识别和分析库。该项目是 Python 写的人脸识别和面部属性分析框架，可根据人脸图像智能识别年龄、性别、情绪等信息。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/239201565.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-42、[guidance](https://hellogithub.com/periodical/statistics/click?target=https://github.com/guidance-ai/guidance)：微软开源的 LLM 提示编程语言。该项目是微软开源的编写 prompt 的模版语言，用于编写复杂、可复用、易于管理的 prompt，支持 GPT-4、LLaMa 等多种大语言模型。
+42、[Startup-CTO-Handbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ZachGoldberg/Startup-CTO-Handbook)：《初创公司 CTO 手册》。这是一本写给初创公司首席技术官的书，内容涵盖技术团队管理、招聘和面试、技术架构等方面。作者先后担任过多家创业公司的 CTO 和 CEO，还曾在腾讯做过驻点企业家(EIR)。
 
 
 
@@ -316,7 +316,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

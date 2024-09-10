@@ -165,30 +165,30 @@ ws_api.get_gzh_info('微信名称')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/76838017.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-17、[blog](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ProtoTeam/blog)：蚂蚁数据体验技术团队的博客
-
-
-18、[CS-Notes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CyC2018/CS-Notes)：该项目整理了技术面试中需要掌握的基础知识，包含了网络、操作系统、算法、数据库、Java、分布式等
-
-
-19、[front-end-interview-handbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/yangshun/front-end-interview-handbook)：与典型的软件工程师面试不同，前端面试对算法的重视比较低。面试会更多考查错综复杂的前端知识，像 HTML、CSS、JavaScript 等等。这个项目整理了这些问题，并给出了答案以及参考连接。[中文版](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
-
-
-20、[work-in-australia](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wahyd4/work-in-australia)：介绍程序员如何申请到澳洲工作
-
-
-### 机器学习
-21、[ailearning](https://hellogithub.com/periodical/statistics/click?target=https://github.com/apachecn/ailearning)：ApacheCN 制作的《机器学习实战》。配套视频：编码能力强，建议观看[《机器学习实战 - 教学版》](https://space.bilibili.com/97678687/#/channel/detail?cid=22486)。
+### 人工智能
+17、[ailearning](https://hellogithub.com/periodical/statistics/click?target=https://github.com/apachecn/ailearning)：ApacheCN 制作的《机器学习实战》。配套视频：编码能力强，建议观看[《机器学习实战 - 教学版》](https://space.bilibili.com/97678687/#/channel/detail?cid=22486)。
 编码能力弱，建议观看[《机器学习实战 - 讨论版》](https://space.bilibili.com/97678687/#/channel/detail?cid=13045)
 
 
-22、[DeepLeague](https://hellogithub.com/periodical/statistics/click?target=https://github.com/farzaa/DeepLeague)：英雄联盟的机器学习项目，规模不大，适合研究一些 CV 和 ML 的算法应用
+18、[DeepLeague](https://hellogithub.com/periodical/statistics/click?target=https://github.com/farzaa/DeepLeague)：英雄联盟的机器学习项目，规模不大，适合研究一些 CV 和 ML 的算法应用
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/24/118192626.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[tensorflow-docs](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xitu/tensorflow-docs)：TensorFlow Docs 是由掘金翻译计划实时维护的 TensorFlow 官方文档中文版，维护者为全球各大公司开发人员和各著名高校研究者及学生
+19、[tensorflow-docs](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xitu/tensorflow-docs)：TensorFlow Docs 是由掘金翻译计划实时维护的 TensorFlow 官方文档中文版，维护者为全球各大公司开发人员和各著名高校研究者及学生
+
+
+### 其它
+20、[blog](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ProtoTeam/blog)：蚂蚁数据体验技术团队的博客
+
+
+21、[CS-Notes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CyC2018/CS-Notes)：该项目整理了技术面试中需要掌握的基础知识，包含了网络、操作系统、算法、数据库、Java、分布式等
+
+
+22、[front-end-interview-handbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/yangshun/front-end-interview-handbook)：与典型的软件工程师面试不同，前端面试对算法的重视比较低。面试会更多考查错综复杂的前端知识，像 HTML、CSS、JavaScript 等等。这个项目整理了这些问题，并给出了答案以及参考连接。[中文版](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
+
+
+23、[work-in-australia](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wahyd4/work-in-australia)：介绍程序员如何申请到澳洲工作
 
 
 
@@ -219,7 +219,7 @@ ws_api.get_gzh_info('微信名称')
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

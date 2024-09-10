@@ -226,54 +226,54 @@ RedisList[1, 4, 9, 16, 25]
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/132659513.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+26、[AnimeGANv2](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TachibanaYoshino/AnimeGANv2)：可以将图片和视频转换成漫画风格的工具。采用的是神经风格迁移+生成对抗网络（GAN）的组合，转换速度快。[在线尝试](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/285840886.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+27、[best_AI_papers_2021](https://hellogithub.com/periodical/statistics/click?target=https://github.com/louisfb01/best_AI_papers_2021)：2021 年必看的人工智能论文列表。该项目不是简单的罗列论文，它不仅包含相关论文的代码、效果展示，还有深入的文章和讲解视频。通过学习这些前沿的人工智能论文，提前了解 AI 在未来更多可能性
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/425298533.png' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-26、[fl_chart](https://hellogithub.com/periodical/statistics/click?target=https://github.com/imaNNeo/fl_chart)：Flutter 图表库。它支持折线图、条形图、饼图、散点图和雷达图
+28、[fl_chart](https://hellogithub.com/periodical/statistics/click?target=https://github.com/imaNNeo/fl_chart)：Flutter 图表库。它支持折线图、条形图、饼图、散点图和雷达图
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/186255460.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[howdy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/boltgolt/howdy)：为 Linux 系统提供人脸识别解锁电脑的工具。通过电脑内置的摄像头和红外设备，实现了类似 Windows Hello™ 风格的身份认证，可用于登陆、锁屏、sudo 等任何需要输入密码的地方
+29、[howdy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/boltgolt/howdy)：为 Linux 系统提供人脸识别解锁电脑的工具。通过电脑内置的摄像头和红外设备，实现了类似 Windows Hello™ 风格的身份认证，可用于登陆、锁屏、sudo 等任何需要输入密码的地方
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/116322814.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[PathPlanning](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zhm-real/PathPlanning)：常见的路径规划算法集合。项目包含了 Python 代码实现、运行过程动画以及相关论文
+30、[PathPlanning](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zhm-real/PathPlanning)：常见的路径规划算法集合。项目包含了 Python 代码实现、运行过程动画以及相关论文
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/272811260.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[The-Open-Book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/joeycastillo/The-Open-Book)：开源的电子水墨屏阅读设备。动手能力强的同学可跟着这个项目，从焊电路板开始亲手制作出一个类 Kindle 的 4.2 英寸阅读设备
+31、[The-Open-Book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/joeycastillo/The-Open-Book)：开源的电子水墨屏阅读设备。动手能力强的同学可跟着这个项目，从焊电路板开始亲手制作出一个类 Kindle 的 4.2 英寸阅读设备
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/202078170.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[toml](https://hellogithub.com/periodical/statistics/click?target=https://github.com/toml-lang/toml)：更易读和易于维护的配置文件格式。如果你厌倦了 INI 的局限性、层层嵌套的 JSON 和 YAML 令人心惊胆战的缩进语法，不妨给 TOML 一个机会，它支持多种数据类型、抛弃了缩进和嵌套，而且众多流行编程语言都有对应的库。TOML 已经足够成熟，绝对值得一试。[查看文档](https://toml.io/cn/v1.0.0)
+32、[toml](https://hellogithub.com/periodical/statistics/click?target=https://github.com/toml-lang/toml)：更易读和易于维护的配置文件格式。如果你厌倦了 INI 的局限性、层层嵌套的 JSON 和 YAML 令人心惊胆战的缩进语法，不妨给 TOML 一个机会，它支持多种数据类型、抛弃了缩进和嵌套，而且众多流行编程语言都有对应的库。TOML 已经足够成熟，绝对值得一试。[查看文档](https://toml.io/cn/v1.0.0)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/8385616.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[waka-readme-stats](https://hellogithub.com/periodical/statistics/click?target=https://github.com/anmol098/waka-readme-stats)：自动在 GitHub 个人首页展示编程时长的工具。该项目通过 WakaTime 记录用户在 IDE 的使用时间，统计编程时长和数据，然后采用 GitHub Action 自动获取并动态更新到 GitHub 个人首页。轻而易举地展示自己的编程时长
+33、[waka-readme-stats](https://hellogithub.com/periodical/statistics/click?target=https://github.com/anmol098/waka-readme-stats)：自动在 GitHub 个人首页展示编程时长的工具。该项目通过 WakaTime 记录用户在 IDE 的使用时间，统计编程时长和数据，然后采用 GitHub Action 自动获取并动态更新到 GitHub 个人首页。轻而易举地展示自己的编程时长
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/280882811.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-32、[archbase](https://hellogithub.com/periodical/statistics/click?target=https://github.com/foxsen/archbase)：教科书《计算机体系结构基础》第三版。[在线阅读](https://foxsen.github.io/archbase/)
+34、[archbase](https://hellogithub.com/periodical/statistics/click?target=https://github.com/foxsen/archbase)：教科书《计算机体系结构基础》第三版。[在线阅读](https://foxsen.github.io/archbase/)
 
 
-33、[ugo-compiler-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wa-lang/ugo-compiler-book)：《从头开发一个迷你 Go 语言》该书教你从头实现迷你 Go 语言，内容包含了词法解析、语法树构建、函数闭包、接口、CGO 的实现等内容。[在线阅读](https://chai2010.cn/ugo-compiler-book/ch1-basic/index.html)
+35、[ugo-compiler-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wa-lang/ugo-compiler-book)：《从头开发一个迷你 Go 语言》该书教你从头实现迷你 Go 语言，内容包含了词法解析、语法树构建、函数闭包、接口、CGO 的实现等内容。[在线阅读](https://chai2010.cn/ugo-compiler-book/ch1-basic/index.html)
 
-
-### 机器学习
-34、[AnimeGANv2](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TachibanaYoshino/AnimeGANv2)：可以将图片和视频转换成漫画风格的工具。采用的是神经风格迁移+生成对抗网络（GAN）的组合，转换速度快。[在线尝试](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/285840886.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-35、[best_AI_papers_2021](https://hellogithub.com/periodical/statistics/click?target=https://github.com/louisfb01/best_AI_papers_2021)：2021 年必看的人工智能论文列表。该项目不是简单的罗列论文，它不仅包含相关论文的代码、效果展示，还有深入的文章和讲解视频。通过学习这些前沿的人工智能论文，提前了解 AI 在未来更多可能性
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/425298533.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -303,7 +303,7 @@ RedisList[1, 4, 9, 16, 25]
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

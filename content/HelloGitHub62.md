@@ -198,49 +198,49 @@ x <- 42
 ```
 
 
+### 人工智能
+27、[imgaug](https://hellogithub.com/periodical/statistics/click?target=https://github.com/aleju/imgaug)：这是个图像数据增强 Python 库。数据集的数量和质量对于机器学习很重要，而数据增强就是让有限的数据集产生更多的数据，增加训练样本的数量以及多样性。imgaug 就是专为机器学习准备的图像数据增强库
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/38900806.png' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-27、[AntennaPod](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AntennaPod/AntennaPod)：一款免费、开源、没有广告的播客应用（Android 和 iOS）。由播客爱好者用爱开发和维护，支持在线播放和音频下载等功能，同时内置数以百万计的免费和付费播客源，从独立播主到大型新闻机构出版社，如 BBC、NPR 和 CNN 应有尽有，也可自行导入播客源
+28、[AntennaPod](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AntennaPod/AntennaPod)：一款免费、开源、没有广告的播客应用（Android 和 iOS）。由播客爱好者用爱开发和维护，支持在线播放和音频下载等功能，同时内置数以百万计的免费和付费播客源，从独立播主到大型新闻机构出版社，如 BBC、NPR 和 CNN 应有尽有，也可自行导入播客源
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/5244445.png' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[awesome-compose](https://hellogithub.com/periodical/statistics/click?target=https://github.com/docker/awesome-compose)：丰富且实用的 Docker Compose 示例集合。该项目中的例子可以作为参考和模板，从而快速完成 Docker Compose 的编写
+29、[awesome-compose](https://hellogithub.com/periodical/statistics/click?target=https://github.com/docker/awesome-compose)：丰富且实用的 Docker Compose 示例集合。该项目中的例子可以作为参考和模板，从而快速完成 Docker Compose 的编写
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/240215314.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[overleaf](https://hellogithub.com/periodical/statistics/click?target=https://github.com/overleaf/overleaf)：一款支持在线协作的 LaTeX 编辑器
+30、[overleaf](https://hellogithub.com/periodical/statistics/click?target=https://github.com/overleaf/overleaf)：一款支持在线协作的 LaTeX 编辑器
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/16652218.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[react-resume-site](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hua1995116/react-resume-site)：一款免费的简历在线制作工具。用写 Markdown 的方式制作出好看的简历，[在线尝试](https://resume.mdedit.online/editor/#/)
+31、[react-resume-site](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hua1995116/react-resume-site)：一款免费的简历在线制作工具。用写 Markdown 的方式制作出好看的简历，[在线尝试](https://resume.mdedit.online/editor/#/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/340313670.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[tabix](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tabixio/tabix)：一款 ClickHouse 的 Web 可视化查询和分析工具。通过它可以在浏览器上轻松查询 CH 的数据，还有丰富的图表帮助分析数据，最后还可选择内网搭建或者直接[在线使用](http://ui.tabix.io/#!/login)
+32、[tabix](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tabixio/tabix)：一款 ClickHouse 的 Web 可视化查询和分析工具。通过它可以在浏览器上轻松查询 CH 的数据，还有丰富的图表帮助分析数据，最后还可选择内网搭建或者直接[在线使用](http://ui.tabix.io/#!/login)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/84213938.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[vulhub](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vulhub/vulhub)：一个面向大众的开源漏洞环境集合。Vulhub 中包含了 180 余个丰富且真实的漏洞与其相应的环境，无需 Docker 知识即可通过一条简单的命令，跑起来一个存在某个漏洞的完整应用。安全研究人员能够方便地复现与研究漏洞，省去了学习复杂的部署知识、寻找有漏洞的旧版本应用、搭建依赖的服务等麻烦，从而可以快速验证修复方案
+33、[vulhub](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vulhub/vulhub)：一个面向大众的开源漏洞环境集合。Vulhub 中包含了 180 余个丰富且真实的漏洞与其相应的环境，无需 Docker 知识即可通过一条简单的命令，跑起来一个存在某个漏洞的完整应用。安全研究人员能够方便地复现与研究漏洞，省去了学习复杂的部署知识、寻找有漏洞的旧版本应用、搭建依赖的服务等麻烦，从而可以快速验证修复方案
 
 
 ### 开源书籍
-33、[bitcoinbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bitcoinbook/bitcoinbook)：《Mastering Bitcoin  2nd Edition》精通比特币第 2 版
+34、[bitcoinbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bitcoinbook/bitcoinbook)：《Mastering Bitcoin  2nd Edition》精通比特币第 2 版
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/12044132.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[python-parallel-programming-cookbook-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/laixintao/python-parallel-programming-cookbook-cn)：《Python Parallel Programming Cookbook》Python 并行编程。[在线阅读](https://python-parallel-programmning-cookbook.readthedocs.io/zh_CN/latest/)
+35、[python-parallel-programming-cookbook-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/laixintao/python-parallel-programming-cookbook-cn)：《Python Parallel Programming Cookbook》Python 并行编程。[在线阅读](https://python-parallel-programmning-cookbook.readthedocs.io/zh_CN/latest/)
 
-
-### 机器学习
-35、[imgaug](https://hellogithub.com/periodical/statistics/click?target=https://github.com/aleju/imgaug)：这是个图像数据增强 Python 库。数据集的数量和质量对于机器学习很重要，而数据增强就是让有限的数据集产生更多的数据，增加训练样本的数量以及多样性。imgaug 就是专为机器学习准备的图像数据增强库
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/38900806.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -270,7 +270,7 @@ x <- 42
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

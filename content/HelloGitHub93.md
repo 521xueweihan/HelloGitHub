@@ -169,42 +169,20 @@ data.export('df')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/93/658031344.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-28、[dbgate](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dbgate/dbgate)：(no)SQL 数据库桌面管理工具。该项目支持包括 MySQL、PostgreSQL、SQL Server、MongoDB、SQLite、Redis 等多种数据库，适用于 Windows、Linux、macOS 系统。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/93/229959677.png' style="max-width:80%; max-height=80%;"></img></p>
-
-29、[Detect-It-Easy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/horsicq/Detect-It-Easy)：用于查看文件类型的工具。该项目可以快速检测二进制文件的文件类型、体系结构和编译器信息，支持识别多种文件格式，有助于进行逆向工程和安全分析，适用于 Windows、Linux、macOS 系统。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/93/20387062.png' style="max-width:80%; max-height=80%;"></img></p>
-
-30、[github-chinese](https://hellogithub.com/periodical/statistics/click?target=https://github.com/maboloshi/github-chinese)：GitHub 网站汉化插件。该项目可以将 GitHub 网站的菜单栏、标题、按钮等公共组件，自动翻译成中文，适合刚接触 GitHub 的小白使用。来自 [@wuyuncheng-26](https://hellogithub.com/user/zepvSg6Vwl4EqMr) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/93/410808715.png' style="max-width:80%; max-height=80%;"></img></p>
-
-31、[HumanSystemOptimization](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zijie0/HumanSystemOptimization)：人体系统调优不完全指南。这是一份帮助改善人体健康状态的指南，篇幅较长。尽量做到保持睡眠时长与质量、不要吸烟、每天做点运动、减少糖分的摄入，就能拥有不错的健康状态。
-
-32、[wondershaper](https://hellogithub.com/periodical/statistics/click?target=https://github.com/magnific0/wondershaper)：Linux 限制网络带宽的工具。该项目通过使用 iproute 的 tc 命令，实现了对 Linux 网络带宽限速的功能，支持多网卡、限制最大上传/下载速率。
-
-### 开源书籍
-33、[Node.js-Troubleshooting-Guide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/aliyun-node/Node.js-Troubleshooting-Guide)：Node.js 应用故障排查手册。该手册主要是帮助 Node.js 开发者，应对开发和线上部署中遇到的问题，比如定位故障、压测和性能调优等。
-
-34、[pml-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/probml/pml-book)：《概率机器学习》。该项目包含凯文·墨菲的三本书籍，分别为《机器学习：概率视角》、《概率机器学习：简介》、《概率机器学习：高级》，内容涵盖了基础理论和前沿研究，图文并茂并配有示例和练习。来自 [@Xuefeng Xu](https://hellogithub.com/user/k4oyT8wSU5Qfx6H) 的分享
-
-### 机器学习
-35、[backgroundremover](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nadermx/backgroundremover)：一条命令自动移除图像背景。该项目通过 AI 技术，可自动移除图片和视频中的背景。
+### 人工智能
+28、[backgroundremover](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nadermx/backgroundremover)：一条命令自动移除图像背景。该项目通过 AI 技术，可自动移除图片和视频中的背景。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/93/370209029.png' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[machine-learning-roadmap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mrdbourke/machine-learning-roadmap)：机器学习路线图。这份机器学习思维导图，包含了机器学习相关的问题、学习步骤、工具、底层数学知识、教程资源等，为如何学习机器学习指出方向。
+29、[machine-learning-roadmap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mrdbourke/machine-learning-roadmap)：机器学习路线图。这份机器学习思维导图，包含了机器学习相关的问题、学习步骤、工具、底层数学知识、教程资源等，为如何学习机器学习指出方向。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/93/278289913.png' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[PokemonRedExperiments](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PWhiddy/PokemonRedExperiments)：通过强化学习训练 AI 玩 Pokemon。该项目使用 Python + RL 从零训练了一个玩「宝可梦红」的 AI，同时作者还提供了配套的讲解视频，以及如何在本地运行和自定义训练的教程，快来上手试试吧！来自 [@老荀](https://hellogithub.com/user/r1KZOR46nwgYVxI) 的分享
+30、[PokemonRedExperiments](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PWhiddy/PokemonRedExperiments)：通过强化学习训练 AI 玩 Pokemon。该项目使用 Python + RL 从零训练了一个玩「宝可梦红」的 AI，同时作者还提供了配套的讲解视频，以及如何在本地运行和自定义训练的教程，快来上手试试吧！来自 [@老荀](https://hellogithub.com/user/r1KZOR46nwgYVxI) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/93/230064796.png' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[supervision](https://hellogithub.com/periodical/statistics/click?target=https://github.com/roboflow/supervision)：计算机视觉 AI 工具库。该项目简化了对象检测、分类、标注、跟踪等计算机视觉的开发流程。开发者仅需加载数据集和模型，就能轻松实现对图像和视频进行检测、统计某区域的被检测数量等操作。
+31、[supervision](https://hellogithub.com/periodical/statistics/click?target=https://github.com/roboflow/supervision)：计算机视觉 AI 工具库。该项目简化了对象检测、分类、标注、跟踪等计算机视觉的开发流程。开发者仅需加载数据集和模型，就能轻松实现对图像和视频进行检测、统计某区域的被检测数量等操作。
 ```python
 import cv2
 import supervision as sv
@@ -220,6 +198,28 @@ print(len(detections))
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/93/571613891.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+32、[dbgate](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dbgate/dbgate)：(no)SQL 数据库桌面管理工具。该项目支持包括 MySQL、PostgreSQL、SQL Server、MongoDB、SQLite、Redis 等多种数据库，适用于 Windows、Linux、macOS 系统。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/93/229959677.png' style="max-width:80%; max-height=80%;"></img></p>
+
+33、[Detect-It-Easy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/horsicq/Detect-It-Easy)：用于查看文件类型的工具。该项目可以快速检测二进制文件的文件类型、体系结构和编译器信息，支持识别多种文件格式，有助于进行逆向工程和安全分析，适用于 Windows、Linux、macOS 系统。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/93/20387062.png' style="max-width:80%; max-height=80%;"></img></p>
+
+34、[github-chinese](https://hellogithub.com/periodical/statistics/click?target=https://github.com/maboloshi/github-chinese)：GitHub 网站汉化插件。该项目可以将 GitHub 网站的菜单栏、标题、按钮等公共组件，自动翻译成中文，适合刚接触 GitHub 的小白使用。来自 [@wuyuncheng-26](https://hellogithub.com/user/zepvSg6Vwl4EqMr) 的分享
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/93/410808715.png' style="max-width:80%; max-height=80%;"></img></p>
+
+35、[HumanSystemOptimization](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zijie0/HumanSystemOptimization)：人体系统调优不完全指南。这是一份帮助改善人体健康状态的指南，篇幅较长。尽量做到保持睡眠时长与质量、不要吸烟、每天做点运动、减少糖分的摄入，就能拥有不错的健康状态。
+
+36、[wondershaper](https://hellogithub.com/periodical/statistics/click?target=https://github.com/magnific0/wondershaper)：Linux 限制网络带宽的工具。该项目通过使用 iproute 的 tc 命令，实现了对 Linux 网络带宽限速的功能，支持多网卡、限制最大上传/下载速率。
+
+### 开源书籍
+37、[Node.js-Troubleshooting-Guide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/aliyun-node/Node.js-Troubleshooting-Guide)：Node.js 应用故障排查手册。该手册主要是帮助 Node.js 开发者，应对开发和线上部署中遇到的问题，比如定位故障、压测和性能调优等。
+
+38、[pml-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/probml/pml-book)：《概率机器学习》。该项目包含凯文·墨菲的三本书籍，分别为《机器学习：概率视角》、《概率机器学习：简介》、《概率机器学习：高级》，内容涵盖了基础理论和前沿研究，图文并茂并配有示例和练习。来自 [@Xuefeng Xu](https://hellogithub.com/user/k4oyT8wSU5Qfx6H) 的分享
 
 
 
@@ -249,7 +249,7 @@ print(len(detections))
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

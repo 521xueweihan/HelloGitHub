@@ -257,64 +257,64 @@ $ python3 -m weibo_spider
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/91977145.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+26、[ASRT_SpeechRecognition](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nl8590687/ASRT_SpeechRecognition)：基于深度学习的中文语音识别系统
+
+
+27、[chineseocr_lite](https://hellogithub.com/periodical/statistics/click?target=https://github.com/DayBreak-u/chineseocr_lite)：轻量级中文 OCR 项目，提供将图片上的中文转成字符串的功能
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/243487250.png' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-26、[authpass](https://hellogithub.com/periodical/statistics/click?target=https://github.com/authpass/authpass)：基于 Flutter 开发的适用于所有平台的密码管理器。可通过 Dropbox 等云服务同步数据，支持自动填充密码
+28、[authpass](https://hellogithub.com/periodical/statistics/click?target=https://github.com/authpass/authpass)：基于 Flutter 开发的适用于所有平台的密码管理器。可通过 Dropbox 等云服务同步数据，支持自动填充密码
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/203756716.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[brave-browser](https://hellogithub.com/periodical/statistics/click?target=https://github.com/brave/brave-browser)：快速、干净、开源的网页浏览器。由 JavaScript 的创造者布兰登·艾克基于 Chromium 网页浏览器和 Blink 排版引擎构建，拥有阻止网站追踪的特点并且内置了广告拦截器。支持 Android、Linux、macOS、iOS、Windows 操作系统，可一键导入书签、浏览记录、密码、插件等，无负担享受这片“净土”
+29、[brave-browser](https://hellogithub.com/periodical/statistics/click?target=https://github.com/brave/brave-browser)：快速、干净、开源的网页浏览器。由 JavaScript 的创造者布兰登·艾克基于 Chromium 网页浏览器和 Blink 排版引擎构建，拥有阻止网站追踪的特点并且内置了广告拦截器。支持 Android、Linux、macOS、iOS、Windows 操作系统，可一键导入书签、浏览记录、密码、插件等，无负担享受这片“净土”
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/110178895.png' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[canvas-special](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bxm0927/canvas-special)：经典的 Canvas 实例集合。包括五子棋、坦克大战、动态背景、动画粒子特效等
+30、[canvas-special](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bxm0927/canvas-special)：经典的 Canvas 实例集合。包括五子棋、坦克大战、动态背景、动画粒子特效等
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/100162381.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[insomnia](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Kong/insomnia)：基于 Electron 支持 GraphQL、REST、gRPC 的调试工具，请求网络接口的桌面应用。不仅有简约漂亮的界面，还支持 Windows、Linux、macOS 主流操作系统
+31、[insomnia](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Kong/insomnia)：基于 Electron 支持 GraphQL、REST、gRPC 的调试工具，请求网络接口的桌面应用。不仅有简约漂亮的界面，还支持 Windows、Linux、macOS 主流操作系统
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/56899284.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[keframe](https://hellogithub.com/periodical/statistics/click?target=https://github.com/LianjiaTech/keframe)：Flutter 流畅度优化组件。通过分帧渲染解决由于构建导致的卡顿问题，适用于复杂列表或者页面切换的场景
+32、[keframe](https://hellogithub.com/periodical/statistics/click?target=https://github.com/LianjiaTech/keframe)：Flutter 流畅度优化组件。通过分帧渲染解决由于构建导致的卡顿问题，适用于复杂列表或者页面切换的场景
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/381559560.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[macos-virtualbox](https://hellogithub.com/periodical/statistics/click?target=https://github.com/myspaghetti/macos-virtualbox)：帮你在 VirtualBox 上安装 macOS 操作系统的工具。这个工具是一个 Bash 脚本，运行后只需要按回车即可完成安装。目前已支持 Linux 、Windows、macOS 多个主流操作系统，可安装 Catalina (10.15)、Mojave (10.14) 和 High Sierra (10.13) 等多个不同版本的苹果系统
+33、[macos-virtualbox](https://hellogithub.com/periodical/statistics/click?target=https://github.com/myspaghetti/macos-virtualbox)：帮你在 VirtualBox 上安装 macOS 操作系统的工具。这个工具是一个 Bash 脚本，运行后只需要按回车即可完成安装。目前已支持 Linux 、Windows、macOS 多个主流操作系统，可安装 Catalina (10.15)、Mojave (10.14) 和 High Sierra (10.13) 等多个不同版本的苹果系统
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/156108442.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[QASystemOnMedicalKG](https://hellogithub.com/periodical/statistics/click?target=https://github.com/liuhuanyong/QASystemOnMedicalKG)：从无到有搭建一个医药知识图谱的开源项目。包含信息采集、清理、图谱设计等，并基于图谱实现了自动回答医药相关问题的服务
+34、[QASystemOnMedicalKG](https://hellogithub.com/periodical/statistics/click?target=https://github.com/liuhuanyong/QASystemOnMedicalKG)：从无到有搭建一个医药知识图谱的开源项目。包含信息采集、清理、图谱设计等，并基于图谱实现了自动回答医药相关问题的服务
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/151528653.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[Unity3DTraining](https://hellogithub.com/periodical/statistics/click?target=https://github.com/XINCGer/Unity3DTraining)：Unity 游戏开发练习项目集合。包含仿写泡泡龙、跑酷、切水果等游戏的源码，还有作者收集的游戏效果源码和相关文章
+35、[Unity3DTraining](https://hellogithub.com/periodical/statistics/click?target=https://github.com/XINCGer/Unity3DTraining)：Unity 游戏开发练习项目集合。包含仿写泡泡龙、跑酷、切水果等游戏的源码，还有作者收集的游戏效果源码和相关文章
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/57049212.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-34、[Learn-Web-Hacking](https://hellogithub.com/periodical/statistics/click?target=https://github.com/LyleMi/Learn-Web-Hacking)：Web 安全学习笔记，[在线阅读](https://websec.readthedocs.io/zh/latest/)
+36、[Learn-Web-Hacking](https://hellogithub.com/periodical/statistics/click?target=https://github.com/LyleMi/Learn-Web-Hacking)：Web 安全学习笔记，[在线阅读](https://websec.readthedocs.io/zh/latest/)
 
 
-35、[LearnOpenGL-CN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)：LearnOpenGL 教程的中文翻译。OpenGL 是一个图形 API，包含了一系列可以操作图形、图像的函数。它需要一个编程语言来工作，教程的示例代码采用 C++ 编程语言。[在线阅读](https://learnopengl-cn.github.io/)
+37、[LearnOpenGL-CN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)：LearnOpenGL 教程的中文翻译。OpenGL 是一个图形 API，包含了一系列可以操作图形、图像的函数。它需要一个编程语言来工作，教程的示例代码采用 C++ 编程语言。[在线阅读](https://learnopengl-cn.github.io/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/37411426.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-36、[ASRT_SpeechRecognition](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nl8590687/ASRT_SpeechRecognition)：基于深度学习的中文语音识别系统
-
-
-37、[chineseocr_lite](https://hellogithub.com/periodical/statistics/click?target=https://github.com/DayBreak-u/chineseocr_lite)：轻量级中文 OCR 项目，提供将图片上的中文转成字符串的功能
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/65/243487250.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -344,7 +344,7 @@ $ python3 -m weibo_spider
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

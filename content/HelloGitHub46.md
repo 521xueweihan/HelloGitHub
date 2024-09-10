@@ -222,8 +222,23 @@ image.show()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/203002681.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+26、[faceai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vipstone/faceai)：一款优秀入门级 AI 项目以及教程，内容涵盖：人脸、视频、文字的检测和识别。他不仅包含最基本的人脸检测、识别（图片、视频）、轮廓标识、头像合成（给人戴帽子），还有表情识别（生气、厌恶、恐惧等）、视频对象提取、图片修复（可用于水印去除）、图片自动上色等等。推荐这个开源项目不是因为它的内容强大，而是它的教程写的实在太好了，真 · 入门级。手把手教你如何使用这个项目，做出上述功能来。在每篇功能文章的教程里，不仅仅写了每个功能的技术实现方案，还有具体重点关键代码的注释和解释以及具体实现，让你非常轻松的能够看懂、学习和使用。对于想要入门或者了解机器学习的初学者不能再友好了。示例代码：
+```python
+# Tesseract Ocr文字识别
+from PIL import Image
+import pytesseract
+
+path = "img\\text-img.png"
+text = pytesseract.image_to_string(Image.open(path), lang='chi_sim')
+print(text)
+```
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/129874045.png' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-26、[Hippy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Tencent/Hippy)：一个新生的跨端开发框架，目标是使开发者可以只写一套代码就直接运行于三个平台（iOS、Android 和 Web）。Hippy 的设计是面向传统 Web 开发者的，特别是之前有过 React Native 和 Vue 的开发者用起来会更为顺手，Hippy 致力于让前端开发跨端 App 更加容易。鹅厂提供的跨端开发框架，内部多款 APP 在用，还不快来试试！项目目录说明如下：
+27、[Hippy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Tencent/Hippy)：一个新生的跨端开发框架，目标是使开发者可以只写一套代码就直接运行于三个平台（iOS、Android 和 Web）。Hippy 的设计是面向传统 Web 开发者的，特别是之前有过 React Native 和 Vue 的开发者用起来会更为顺手，Hippy 致力于让前端开发跨端 App 更加容易。鹅厂提供的跨端开发框架，内部多款 APP 在用，还不快来试试！项目目录说明如下：
 ```
 Hippy
 ├── examples                          # 前终端范例代码。
@@ -251,12 +266,12 @@ Hippy
 ```
 
 
-27、[powerlevel9k](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Powerlevel9k/powerlevel9k)：一款 ZSH 系的 Powerline 主题。效果如下图：
+28、[powerlevel9k](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Powerlevel9k/powerlevel9k)：一款 ZSH 系的 Powerline 主题。效果如下图：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/30003816.png' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[valval](https://hellogithub.com/periodical/statistics/click?target=https://github.com/valvalio/valval)：一个基于 V 语言的 web 框架。V 语言是一门还在开发和完善过程中的语言，还不怎么成熟但却十分适合用于 web 开发，不仅官方的标准库中提供了 vweb 以及 orm 的支持，不少开发者也都推出了各自的 web 开发框架，valval 就是其中之一。示例代码如下：
+29、[valval](https://hellogithub.com/periodical/statistics/click?target=https://github.com/valvalio/valval)：一个基于 V 语言的 web 框架。V 语言是一门还在开发和完善过程中的语言，还不怎么成熟但却十分适合用于 web 开发，不仅官方的标准库中提供了 vweb 以及 orm 的支持，不少开发者也都推出了各自的 web 开发框架，valval 就是其中之一。示例代码如下：
 ```v
 // demo.v
 import valval
@@ -275,28 +290,13 @@ fn main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/226818047.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[wuhan2020](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wuhan2020/wuhan2020)：武汉新型冠状病毒防疫信息收集平台。[在线浏览](https://wuhan2020.github.io/)
+30、[wuhan2020](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wuhan2020/wuhan2020)：武汉新型冠状病毒防疫信息收集平台。[在线浏览](https://wuhan2020.github.io/)
 
 
-30、[zotero](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zotero/zotero)：一款开源文献管理工具。可以方便的管理、收集、组织、引用和共享文献的工具，经常进行学术研究和文献阅读的小伙伴请收好
+31、[zotero](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zotero/zotero)：一款开源文献管理工具。可以方便的管理、收集、组织、引用和共享文献的工具，经常进行学术研究和文献阅读的小伙伴请收好
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/2656556.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-31、[faceai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vipstone/faceai)：一款优秀入门级 AI 项目以及教程，内容涵盖：人脸、视频、文字的检测和识别。他不仅包含最基本的人脸检测、识别（图片、视频）、轮廓标识、头像合成（给人戴帽子），还有表情识别（生气、厌恶、恐惧等）、视频对象提取、图片修复（可用于水印去除）、图片自动上色等等。推荐这个开源项目不是因为它的内容强大，而是它的教程写的实在太好了，真 · 入门级。手把手教你如何使用这个项目，做出上述功能来。在每篇功能文章的教程里，不仅仅写了每个功能的技术实现方案，还有具体重点关键代码的注释和解释以及具体实现，让你非常轻松的能够看懂、学习和使用。对于想要入门或者了解机器学习的初学者不能再友好了。示例代码：
-```python
-# Tesseract Ocr文字识别
-from PIL import Image
-import pytesseract
-
-path = "img\\text-img.png"
-text = pytesseract.image_to_string(Image.open(path), lang='chi_sim')
-print(text)
-```
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/46/129874045.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -326,7 +326,7 @@ print(text)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

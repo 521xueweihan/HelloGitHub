@@ -253,18 +253,18 @@ datetime.datetime(2013, 12, 30, 0, 0)
 ```
 
 
+### 人工智能
+16、[deeplearningbook-chinese](https://hellogithub.com/periodical/statistics/click?target=https://github.com/exacity/deeplearningbook-chinese)：Deep Learning 中文版
+
+
 ### 其它
-16、[china_area_mysql](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kakuilan/china_area_mysql)：中国 5 级行政区域 MySQL 库
+17、[china_area_mysql](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kakuilan/china_area_mysql)：中国 5 级行政区域 MySQL 库
 
 
-17、[ctf-wiki](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ctf-wiki/ctf-wiki)：一个自由的站点，主要包含了 CTF 的基础知识 、常见题型、解题思路以及常用工具等，希望可以帮助你更快地了解 CTF 竞赛以及网络安全相关知识
+18、[ctf-wiki](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ctf-wiki/ctf-wiki)：一个自由的站点，主要包含了 CTF 的基础知识 、常见题型、解题思路以及常用工具等，希望可以帮助你更快地了解 CTF 竞赛以及网络安全相关知识
 
 
-18、[open_source_team](https://hellogithub.com/periodical/statistics/click?target=https://github.com/niezhiyang/open_source_team)：国内顶尖团队的开源地址
-
-
-### 机器学习
-19、[deeplearningbook-chinese](https://hellogithub.com/periodical/statistics/click?target=https://github.com/exacity/deeplearningbook-chinese)：Deep Learning 中文版
+19、[open_source_team](https://hellogithub.com/periodical/statistics/click?target=https://github.com/niezhiyang/open_source_team)：国内顶尖团队的开源地址
 
 
 
@@ -295,7 +295,7 @@ datetime.datetime(2013, 12, 30, 0, 0)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

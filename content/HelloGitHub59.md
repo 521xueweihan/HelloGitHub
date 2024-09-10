@@ -288,50 +288,50 @@ try db.run(users.create { t in
 ```
 
 
+### 人工智能
+26、[avatarify-python](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alievk/avatarify-python)：视频会议实时换脸工具。利用机器学习训练的模型，通过捕捉人脸动作并与图片相结合进行实时渲染的方式，达到实时换脸的效果。支持 OBS、Zoom、Skype、Teams、Slack 等直播和会议软件
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/253601257.gif' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-26、[AndroidSDK](https://hellogithub.com/periodical/statistics/click?target=https://github.com/thyrlian/AndroidSDK)：包含完整 Android SDK 运行环境的 Docker 镜像。适用于各种 Android 持续集成场景，甚至包括模拟器运行应用、界面自动化测试，也可以连接云端进行自动化测试。Android 构建的容器镜像解决方案之一（不违法许可协议的方案），并在 Docker 官方的 DockerCon EU 2017 进行过宣讲
+27、[AndroidSDK](https://hellogithub.com/periodical/statistics/click?target=https://github.com/thyrlian/AndroidSDK)：包含完整 Android SDK 运行环境的 Docker 镜像。适用于各种 Android 持续集成场景，甚至包括模拟器运行应用、界面自动化测试，也可以连接云端进行自动化测试。Android 构建的容器镜像解决方案之一（不违法许可协议的方案），并在 Docker 官方的 DockerCon EU 2017 进行过宣讲
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/64508433.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[awesome-macos-command-line](https://hellogithub.com/periodical/statistics/click?target=https://github.com/herrbischoff/awesome-macos-command-line)：针对 macOS 系统做一些“酷”事情的 shell 命令集合。有些一条命令能解决的问题，就不需要点来点去，找来找去了
+28、[awesome-macos-command-line](https://hellogithub.com/periodical/statistics/click?target=https://github.com/herrbischoff/awesome-macos-command-line)：针对 macOS 系统做一些“酷”事情的 shell 命令集合。有些一条命令能解决的问题，就不需要点来点去，找来找去了
 
 
-28、[coding-fonts](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CSS-Tricks/coding-fonts)：极简的编程字体介绍和展示网站。[在线尝试](https://coding-fonts.css-tricks.com/)
+29、[coding-fonts](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CSS-Tricks/coding-fonts)：极简的编程字体介绍和展示网站。[在线尝试](https://coding-fonts.css-tricks.com/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/298681464.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[computer-science](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ossu/computer-science)：开源社区大学，计算机科学自学的免费材料集合仓库。该项目不仅包含了学习的视频，还有学习计划和时间安排，同时这些课程大多来自国际知名大学。唯一不足的点是材料都是英文的，我想了想还是决定推荐给大家，毕竟学好英语也是编程路上必经之路
+30、[computer-science](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ossu/computer-science)：开源社区大学，计算机科学自学的免费材料集合仓库。该项目不仅包含了学习的视频，还有学习计划和时间安排，同时这些课程大多来自国际知名大学。唯一不足的点是材料都是英文的，我想了想还是决定推荐给大家，毕竟学好英语也是编程路上必经之路
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/19415064.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[data-engineer-roadmap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/datastacktv/data-engineer-roadmap)：数据工程师学习路径图
+31、[data-engineer-roadmap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/datastacktv/data-engineer-roadmap)：数据工程师学习路径图
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/292293462.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[docker-curriculum](https://hellogithub.com/periodical/statistics/click?target=https://github.com/prakhar1989/docker-curriculum)：专为新手准备的 Docker 教程。[在线阅读](https://docker-curriculum.com/)
+32、[docker-curriculum](https://hellogithub.com/periodical/statistics/click?target=https://github.com/prakhar1989/docker-curriculum)：专为新手准备的 Docker 教程。[在线阅读](https://docker-curriculum.com/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/47304932.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[github1s](https://hellogithub.com/periodical/statistics/click?target=https://github.com/conwnet/github1s)：通过 VS Code 在线快速阅读 GitHub 项目代码的工具。你是否烦心过 GitHub 的访问速度和项目 clone 速度，在项目地址 github 后面加上 1s，即可在线阅读代码无需等待
+33、[github1s](https://hellogithub.com/periodical/statistics/click?target=https://github.com/conwnet/github1s)：通过 VS Code 在线快速阅读 GitHub 项目代码的工具。你是否烦心过 GitHub 的访问速度和项目 clone 速度，在项目地址 github 后面加上 1s，即可在线阅读代码无需等待
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/192175095.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[qwerty-learner](https://hellogithub.com/periodical/statistics/click?target=https://github.com/RealKai42/qwerty-learner)：好用有趣的打字记单词的在线网站。很多人直观地觉得能扣篮的人打球好，打字快的人编程厉害。如此说来，多用这个项目不仅可以背单词，还有助于提高编程能力呢
+34、[qwerty-learner](https://hellogithub.com/periodical/statistics/click?target=https://github.com/RealKai42/qwerty-learner)：好用有趣的打字记单词的在线网站。很多人直观地觉得能扣篮的人打球好，打字快的人编程厉害。如此说来，多用这个项目不仅可以背单词，还有助于提高编程能力呢
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/331603334.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-34、[avatarify-python](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alievk/avatarify-python)：视频会议实时换脸工具。利用机器学习训练的模型，通过捕捉人脸动作并与图片相结合进行实时渲染的方式，达到实时换脸的效果。支持 OBS、Zoom、Skype、Teams、Slack 等直播和会议软件
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/253601257.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -361,7 +361,7 @@ try db.run(users.create { t in
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

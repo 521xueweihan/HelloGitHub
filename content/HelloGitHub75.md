@@ -295,44 +295,44 @@ struct ContentView: View {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/134316697.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+34、[dalle-mini](https://hellogithub.com/periodical/statistics/click?target=https://github.com/borisdayma/dalle-mini)：根据文字生成图片的 AI 模型。可以按照文字提示自动生成图片，我试了下感觉生成的图片有些“抽象”。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/382680786.png' style="max-width:80%; max-height=80%;"></img></p>
+
+35、[shap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/shap/shap)：解释机器学习模型输出的库。它基于博弈论中的 Shapley Value 理论，将所有特征视为贡献者，然后计算每个特征对于模型输出结果的贡献。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/74505259.png' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-34、[checkchan-dist](https://hellogithub.com/periodical/statistics/click?target=https://github.com/easychen/checkchan-dist)：网页内容监控工具。能监测网页内容变化，并发送异动通知，可用来跟踪网站内容、追番剧和小说。
+36、[checkchan-dist](https://hellogithub.com/periodical/statistics/click?target=https://github.com/easychen/checkchan-dist)：网页内容监控工具。能监测网页内容变化，并发送异动通知，可用来跟踪网站内容、追番剧和小说。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/494715749.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[codi.vim](https://hellogithub.com/periodical/statistics/click?target=https://github.com/metakirby5/codi.vim)：显示每一行代码结果的 Vim 插件。在 Vim 编辑器里交互式展示，输入的每一行代码的运行结果，支持如 Python、Ruby、PHP、JavaScript 等多种编程语言。
+37、[codi.vim](https://hellogithub.com/periodical/statistics/click?target=https://github.com/metakirby5/codi.vim)：显示每一行代码结果的 Vim 插件。在 Vim 编辑器里交互式展示，输入的每一行代码的运行结果，支持如 Python、Ruby、PHP、JavaScript 等多种编程语言。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/65144724.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[IoT-For-Beginners](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/IoT-For-Beginners)：微软开源的物联网入门教程。如果你想学习物联网但不知道如何开始，这有一份微软制作和开源的物联网教程，课程循序渐进制作精良，包含文字、插图、视频、课后练习和边学边做的项目，非常适合初学者。
+38、[IoT-For-Beginners](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/IoT-For-Beginners)：微软开源的物联网入门教程。如果你想学习物联网但不知道如何开始，这有一份微软制作和开源的物联网教程，课程循序渐进制作精良，包含文字、插图、视频、课后练习和边学边做的项目，非常适合初学者。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/344192338.png' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[jiffyreader.com](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ansh/jiffyreader.com)：仿生阅读英文的浏览器插件。通过加粗单词的首字母部分提高阅读效率，实现更轻松、快速地浏览英文网站、文章等内容的功能。
+39、[jiffyreader.com](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ansh/jiffyreader.com)：仿生阅读英文的浏览器插件。通过加粗单词的首字母部分提高阅读效率，实现更轻松、快速地浏览英文网站、文章等内容的功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/494567206.png' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[live2d-widget](https://hellogithub.com/periodical/statistics/click?target=https://github.com/stevenjoezhang/live2d-widget)：网页的 Live2D 看板娘。通过该项目可以轻松地在网页上，添加可爱的“看板娘”。
+40、[live2d-widget](https://hellogithub.com/periodical/statistics/click?target=https://github.com/stevenjoezhang/live2d-widget)：网页的 Live2D 看板娘。通过该项目可以轻松地在网页上，添加可爱的“看板娘”。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/140525341.png' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[Ventoy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ventoy/Ventoy)：一个制作可启动 U 盘的开源工具。。重装系统时不用再格式化 U 盘，该项目支持直接将系统镜像拷贝进 U 盘就能启动，无需其它操作。
+41、[Ventoy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ventoy/Ventoy)：一个制作可启动 U 盘的开源工具。。重装系统时不用再格式化 U 盘，该项目支持直接将系统镜像拷贝进 U 盘就能启动，无需其它操作。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/246335987.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-40、[cpp-game-engine-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ThisisGame/cpp-game-engine-book)：《游戏引擎浅入浅出》。该书介绍了如何从零制作一个完整的游戏引擎，内容包含从基础的环境搭建，到后面的骨骼动画、多线程渲染、阴影实现等方面。
+42、[cpp-game-engine-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ThisisGame/cpp-game-engine-book)：《游戏引擎浅入浅出》。该书介绍了如何从零制作一个完整的游戏引擎，内容包含从基础的环境搭建，到后面的骨骼动画、多线程渲染、阴影实现等方面。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/345923708.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-41、[dalle-mini](https://hellogithub.com/periodical/statistics/click?target=https://github.com/borisdayma/dalle-mini)：根据文字生成图片的 AI 模型。可以按照文字提示自动生成图片，我试了下感觉生成的图片有些“抽象”。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/382680786.png' style="max-width:80%; max-height=80%;"></img></p>
-
-42、[shap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/shap/shap)：解释机器学习模型输出的库。它基于博弈论中的 Shapley Value 理论，将所有特征视为贡献者，然后计算每个特征对于模型输出结果的贡献。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/74505259.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -362,7 +362,7 @@ struct ContentView: View {
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

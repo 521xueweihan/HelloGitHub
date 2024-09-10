@@ -264,8 +264,19 @@ if let userName = json[0]["user"]["name"].string {
 ```
 
 
+### 人工智能
+27、[AugLy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facebookresearch/AugLy)：Facebook 开源的一个数据增强 Python 库。该库目前支持音频、图像、文本和视频四种模式，一方面可以用现实数据对数据进行增强，另一方面还可以检测出相似内容，消除重复数据带来的干扰
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/63/375445655.png' style="max-width:80%; max-height=80%;"></img></p>
+
+28、[Real-Time-Voice-Cloning](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CorentinJ/Real-Time-Voice-Cloning)：克隆某个人说话声音的 AI 项目。仅需几秒音频，就能模仿出原音频的人声
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/63/188660663.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-27、[aind](https://hellogithub.com/periodical/statistics/click?target=https://github.com/aind-containers/aind)：实现在 Docker 中启动安卓应用的项目
+29、[aind](https://hellogithub.com/periodical/statistics/click?target=https://github.com/aind-containers/aind)：实现在 Docker 中启动安卓应用的项目
 ```
 docker run -td --name aind --privileged -p 5900:5900 -v /lib/modules:/lib/modules:ro ghcr.io/aind-containers/aind
 docker exec aind cat /home/user/.vnc/passwdfile
@@ -274,51 +285,40 @@ docker exec aind cat /home/user/.vnc/passwdfile
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/63/254071342.png' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[android-foss](https://hellogithub.com/periodical/statistics/click?target=https://github.com/offa/android-foss)：开源的安卓客户端应用集合
+30、[android-foss](https://hellogithub.com/periodical/statistics/click?target=https://github.com/offa/android-foss)：开源的安卓客户端应用集合
 
 
-29、[hello-world](https://hellogithub.com/periodical/statistics/click?target=https://github.com/leachim6/hello-world)：汇集了 800 多种编程语言 Hello World 的项目
+31、[hello-world](https://hellogithub.com/periodical/statistics/click?target=https://github.com/leachim6/hello-world)：汇集了 800 多种编程语言 Hello World 的项目
 
 
-30、[Kanmail](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Oxygem/Kanmail)：以看板的方式管理邮件的客户端应用。适用于 Mac/Windows 操作系统，支持 Gmail、Outlook 等邮箱
+32、[Kanmail](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Oxygem/Kanmail)：以看板的方式管理邮件的客户端应用。适用于 Mac/Windows 操作系统，支持 Gmail、Outlook 等邮箱
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/63/141852287.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[librime](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rime/librime)：一款开源的中文输入法。市面上的输入法有很多，但你找到让自己称心如意的那款了吗？或许通过今天的开源项目你就能找到它。RIME 这款开源的输入法，它不追踪输入的内容源码完全开放，可自由切换繁/简中文，选择/设计输入方案和主题，对繁体字输入尤为优秀。作为输入法给予用户无限的自由和个性化，作为输入法框架让开发者有更多的发挥空间。比如支持不同操作系统的版本：Linux（中州韵）、Windows（小狼毫）、macOS（鼠须管）、Android（同文）由于自由度较高上手需要一些时间，这大概就是获得自由的代价吧
+33、[librime](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rime/librime)：一款开源的中文输入法。市面上的输入法有很多，但你找到让自己称心如意的那款了吗？或许通过今天的开源项目你就能找到它。RIME 这款开源的输入法，它不追踪输入的内容源码完全开放，可自由切换繁/简中文，选择/设计输入方案和主题，对繁体字输入尤为优秀。作为输入法给予用户无限的自由和个性化，作为输入法框架让开发者有更多的发挥空间。比如支持不同操作系统的版本：Linux（中州韵）、Windows（小狼毫）、macOS（鼠须管）、Android（同文）由于自由度较高上手需要一些时间，这大概就是获得自由的代价吧
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/63/3776878.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[material-theme-jetbrains](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ChrisRM/material-theme-jetbrains)：一款 JetBrains IDE 的 Material 风格主题
+34、[material-theme-jetbrains](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ChrisRM/material-theme-jetbrains)：一款 JetBrains IDE 的 Material 风格主题
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/63/42984727.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[secguide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Tencent/secguide)：腾讯开源的代码安全指南。该项目包含：C/C++、Python、JavaScript、Java、Go 等语言的安全编码指南，内容简单易懂能够帮助开发者，在代码源头规避安全风险减少漏洞
+35、[secguide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Tencent/secguide)：腾讯开源的代码安全指南。该项目包含：C/C++、Python、JavaScript、Java、Go 等语言的安全编码指南，内容简单易懂能够帮助开发者，在代码源头规避安全风险减少漏洞
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/63/368525749.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-34、[awesome-fenix](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fenixsoft/awesome-fenix)：讲述“如何构建大型且可靠的分布式系统”的开源书籍。推荐给想成为架构师的你，[在线阅读](https://icyfenix.cn/) 
+36、[awesome-fenix](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fenixsoft/awesome-fenix)：讲述“如何构建大型且可靠的分布式系统”的开源书籍。推荐给想成为架构师的你，[在线阅读](https://icyfenix.cn/) 
 
 
-35、[google-sre-ebook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/captn3m0/google-sre-ebook)：Google SRE 相关的书籍。Google SRE 是谷歌的专业运维团队的工程师，他们有一个共同的名字：Site Reliability Engineer，而这本书由 Google SRE 们撰写，分享了谷歌运维相关的一些技术和知识
+37、[google-sre-ebook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/captn3m0/google-sre-ebook)：Google SRE 相关的书籍。Google SRE 是谷歌的专业运维团队的工程师，他们有一个共同的名字：Site Reliability Engineer，而这本书由 Google SRE 们撰写，分享了谷歌运维相关的一些技术和知识
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/63/82082721.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-36、[AugLy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facebookresearch/AugLy)：Facebook 开源的一个数据增强 Python 库。该库目前支持音频、图像、文本和视频四种模式，一方面可以用现实数据对数据进行增强，另一方面还可以检测出相似内容，消除重复数据带来的干扰
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/63/375445655.png' style="max-width:80%; max-height=80%;"></img></p>
-
-37、[Real-Time-Voice-Cloning](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CorentinJ/Real-Time-Voice-Cloning)：克隆某个人说话声音的 AI 项目。仅需几秒音频，就能模仿出原音频的人声
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/63/188660663.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -348,7 +348,7 @@ docker exec aind cat /home/user/.vnc/passwdfile
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

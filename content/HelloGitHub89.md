@@ -224,46 +224,46 @@ for div in divs:
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/89/109878485.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-30、[beepy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/beeper/beepy)：一款全键盘便携式的 Linux 计算机。这是一个结合了黑莓键盘、400*200 LCD 显示屏、2000mAh 电池的板子，售价 79 美元。插上树莓派 Zero W，立马变成了一个黑莓版的 Linux 游乐场。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/89/532730834.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-31、[cloc](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AlDanial/cloc)：计算代码行数的工具。这是一款可以统计源码中空白行、注释、不同编程语言代码行数的工具。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/89/42029482.png' style="max-width:80%; max-height=80%;"></img></p>
-
-32、[How-To-Secure-A-Linux-Server](https://hellogithub.com/periodical/statistics/click?target=https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)：一份 Linux 服务器安全指南。这是一份专注于保护非企业场景下的 Linux 服务器安全的操作指南，它虽然不够专业但对于个人来说足够了。
-
-33、[linux-tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dunwu/linux-tutorial)：一份实用的 Linux 教程。不同于大而全的 Linux 教程，该项目的内容主要侧重于实用性，内容包括 Linux 常用命令、Linux 系统运维、软件运维、常用 shell 脚本等。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
-
-34、[weekly](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ljinkai/weekly)：独立开发产品变现周刊。关于独立开发者、产品变现相关内容的周刊。
-
-### 开源书籍
-35、[lean-side-bussiness](https://hellogithub.com/periodical/statistics/click?target=https://github.com/easychen/lean-side-bussiness)：《精益副业：程序员如何优雅地做副业》。该书扩展了《程序员如何优雅地挣零花钱》的内容，引入了精益创业流程，将其优化为副业专用精益副业流程，并增添了独立开发变现和网课变现实践的内容。
-
-36、[putting-the-you-in-cpu](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hackclub/putting-the-you-in-cpu)：当你运行程序时发生了什么？这是一份关于程序是如何跑起来的迷你书，内容涉及计算机基础、操作系统、Linux 如何加载可执行文件等。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/89/648351143.png' style="max-width:80%; max-height=80%;"></img></p>
-
-37、[theByteBook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/isno/theByteBook)：《深入架构原理与实践》。随着云计算的兴起，技术架构的关注点也从集群可用性治理，发展到云原生和 FinOps 成本管理。该书涵盖了网络、容器、网关、微服务与分布式、云原生、质量监测和成本管理方面的内容，帮助读者快速理清云时代下的技术架构体系。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/89/547677901.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-38、[typescript-tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wangdoc/typescript-tutorial)：阮一峰的 TypeScript 教程。这是一份面向初学者的 TypeScript 开源教程，内容涵盖 TypeScript 的基本概念和用法。
-
-### 机器学习
-39、[audiocraft](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facebookresearch/audiocraft)：Meta 开源的文本生成音乐的库。该项目可根据文本提示词生成高质量、高保真的音频和音乐，比如吹着风吹口哨、一段适合海滩场景的流行舞曲，生成效果十分惊艳。
+### 人工智能
+30、[audiocraft](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facebookresearch/audiocraft)：Meta 开源的文本生成音乐的库。该项目可根据文本提示词生成高质量、高保真的音频和音乐，比如吹着风吹口哨、一段适合海滩场景的流行舞曲，生成效果十分惊艳。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/89/650945129.png' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[Fooocus](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lllyasviel/Fooocus)：一款开箱即用的图片生成软件。该项目在设计时吸收了 Stable Diffusion 和 Midjourney 的优点，它安装简单、操作方便，省去了复杂的参数调节步骤。用户只需要输入提示词，就可以生成与 Midjourney 水平相当的图片。支持本地部署、离线使用，最低配置要求 8GB 内存和 4GB 的 Nvidia 显卡。来自 [@刘三非](https://hellogithub.com/user/VhrXCAs7cMxL08W) 的分享
+31、[Fooocus](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lllyasviel/Fooocus)：一款开箱即用的图片生成软件。该项目在设计时吸收了 Stable Diffusion 和 Midjourney 的优点，它安装简单、操作方便，省去了复杂的参数调节步骤。用户只需要输入提示词，就可以生成与 Midjourney 水平相当的图片。支持本地部署、离线使用，最低配置要求 8GB 内存和 4GB 的 Nvidia 显卡。来自 [@刘三非](https://hellogithub.com/user/VhrXCAs7cMxL08W) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/89/676676006.png' style="max-width:80%; max-height=80%;"></img></p>
 
-41、[machine-learning-notes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/roboticcam/machine-learning-notes)：徐亦达的机器学习课程。该项目是香港浸会大学（HKBU）徐亦达教授开源的关于机器学习、概率模型、深度学习的讲义和视频课程链接。
+32、[machine-learning-notes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/roboticcam/machine-learning-notes)：徐亦达的机器学习课程。该项目是香港浸会大学（HKBU）徐亦达教授开源的关于机器学习、概率模型、深度学习的讲义和视频课程链接。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/89/121647248.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+33、[beepy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/beeper/beepy)：一款全键盘便携式的 Linux 计算机。这是一个结合了黑莓键盘、400*200 LCD 显示屏、2000mAh 电池的板子，售价 79 美元。插上树莓派 Zero W，立马变成了一个黑莓版的 Linux 游乐场。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/89/532730834.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+34、[cloc](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AlDanial/cloc)：计算代码行数的工具。这是一款可以统计源码中空白行、注释、不同编程语言代码行数的工具。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/89/42029482.png' style="max-width:80%; max-height=80%;"></img></p>
+
+35、[How-To-Secure-A-Linux-Server](https://hellogithub.com/periodical/statistics/click?target=https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)：一份 Linux 服务器安全指南。这是一份专注于保护非企业场景下的 Linux 服务器安全的操作指南，它虽然不够专业但对于个人来说足够了。
+
+36、[linux-tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dunwu/linux-tutorial)：一份实用的 Linux 教程。不同于大而全的 Linux 教程，该项目的内容主要侧重于实用性，内容包括 Linux 常用命令、Linux 系统运维、软件运维、常用 shell 脚本等。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
+
+37、[weekly](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ljinkai/weekly)：独立开发产品变现周刊。关于独立开发者、产品变现相关内容的周刊。
+
+### 开源书籍
+38、[lean-side-bussiness](https://hellogithub.com/periodical/statistics/click?target=https://github.com/easychen/lean-side-bussiness)：《精益副业：程序员如何优雅地做副业》。该书扩展了《程序员如何优雅地挣零花钱》的内容，引入了精益创业流程，将其优化为副业专用精益副业流程，并增添了独立开发变现和网课变现实践的内容。
+
+39、[putting-the-you-in-cpu](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hackclub/putting-the-you-in-cpu)：当你运行程序时发生了什么？这是一份关于程序是如何跑起来的迷你书，内容涉及计算机基础、操作系统、Linux 如何加载可执行文件等。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/89/648351143.png' style="max-width:80%; max-height=80%;"></img></p>
+
+40、[theByteBook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/isno/theByteBook)：《深入架构原理与实践》。随着云计算的兴起，技术架构的关注点也从集群可用性治理，发展到云原生和 FinOps 成本管理。该书涵盖了网络、容器、网关、微服务与分布式、云原生、质量监测和成本管理方面的内容，帮助读者快速理清云时代下的技术架构体系。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/89/547677901.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+41、[typescript-tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wangdoc/typescript-tutorial)：阮一峰的 TypeScript 教程。这是一份面向初学者的 TypeScript 开源教程，内容涵盖 TypeScript 的基本概念和用法。
 
 
 
@@ -293,7 +293,7 @@ for div in divs:
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

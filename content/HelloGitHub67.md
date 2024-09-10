@@ -220,63 +220,63 @@ df = q.collect()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/32578467.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+26、[optuna](https://hellogithub.com/periodical/statistics/click?target=https://github.com/optuna/optuna)：专为机器学习准备的超参数优化框架。采用高效的采样和剪枝策略，支持简单的 Python 语法，仅需少量代码便可进行分布式计算加速优化，除此之外还有更为直观的可视化页面。全方位帮你调参，自动找到最优参数
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/122299416.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+27、[qlib](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/qlib)：微软开源的 AI 量化交易平台。它包含了数据处理、模型训练、回测等模块，涵盖了 Alpha 挖掘、风险建模、组合优化等功能
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/287463830.png' style="max-width:80%; max-height=80%;"></img></p>
+
+28、[Real-ESRGAN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xinntao/Real-ESRGAN)：图像超分辨率模型，修复漫画图像的效果惊艳。通过 AI 技术将低分辨率、模糊的图像修复成高清图像，可用于图像放大和提升质量。基于它实现的[桌面工具](https://github.com/X-Lucifer/AI-Lossless-Zoomer)，还有可以直接使用的 Python 脚本，快去试试效果吧
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/387326890.gif' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-26、[aliyunpan](https://hellogithub.com/periodical/statistics/click?target=https://github.com/liupan1890/aliyunpan)：基于网页版阿里云盘开发的 PC 客户端。能够同时登陆和管理多个账号、显示文件体积、文件夹树，还可以在线播放网盘中的视频并外挂字幕。支持 Windows、Linux、macOS 操作系统
+29、[aliyunpan](https://hellogithub.com/periodical/statistics/click?target=https://github.com/liupan1890/aliyunpan)：基于网页版阿里云盘开发的 PC 客户端。能够同时登陆和管理多个账号、显示文件体积、文件夹树，还可以在线播放网盘中的视频并外挂字幕。支持 Windows、Linux、macOS 操作系统
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/360366759.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[chinese-chatbot-corpus](https://hellogithub.com/periodical/statistics/click?target=https://github.com/codemayq/chinese-chatbot-corpus)：公开的中文聊天语料库
+30、[chinese-chatbot-corpus](https://hellogithub.com/periodical/statistics/click?target=https://github.com/codemayq/chinese-chatbot-corpus)：公开的中文聊天语料库
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/156045572.png' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[flutter_deer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/simplezhli/flutter_deer)：Flutter 练习项目。包含代码、UI 设计图、集成测试、相关文章等
+31、[flutter_deer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/simplezhli/flutter_deer)：Flutter 练习项目。包含代码、UI 设计图、集成测试、相关文章等
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/191573367.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[git-cheat-sheet](https://hellogithub.com/periodical/statistics/click?target=https://github.com/arslanbilal/git-cheat-sheet)：Git 备忘录。该项目不仅对 Git 常用命令做了分类展示，还有 Git 工作流的讲解，能够帮助新手快速上手 Git。[中文版](https://github.com/flyhigher139/Git-Cheat-Sheet)
+32、[git-cheat-sheet](https://hellogithub.com/periodical/statistics/click?target=https://github.com/arslanbilal/git-cheat-sheet)：Git 备忘录。该项目不仅对 Git 常用命令做了分类展示，还有 Git 工作流的讲解，能够帮助新手快速上手 Git。[中文版](https://github.com/flyhigher139/Git-Cheat-Sheet)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/22106110.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[n](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tj/n)：简单易用的 Node.js 版本管理工具
+33、[n](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tj/n)：简单易用的 Node.js 版本管理工具
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/1223029.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[shellcheck](https://hellogithub.com/periodical/statistics/click?target=https://github.com/koalaman/shellcheck)：Shell 静态分析工具。写过 shell 脚本的人，应该都经历过运行调试脚本的情况。有了 shellcheck 无需运行就能发现 sh/bash 的语法、类型等错误
+34、[shellcheck](https://hellogithub.com/periodical/statistics/click?target=https://github.com/koalaman/shellcheck)：Shell 静态分析工具。写过 shell 脚本的人，应该都经历过运行调试脚本的情况。有了 shellcheck 无需运行就能发现 sh/bash 的语法、类型等错误
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/6731432.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[supercookie](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jonasstrehle/supercookie)：讲解并实现如何通过 favicon.ico 跟踪用户。supercookie 的跟踪方式不需要 cookie，原理是浏览器访问网站时都会请求 favicon.ico 文件，服务器通过该请求为每个用户分配一个 ID 从而实现跟踪效果
+35、[supercookie](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jonasstrehle/supercookie)：讲解并实现如何通过 favicon.ico 跟踪用户。supercookie 的跟踪方式不需要 cookie，原理是浏览器访问网站时都会请求 favicon.ico 文件，服务器通过该请求为每个用户分配一个 ID 从而实现跟踪效果
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/332757634.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-33、[AlgoXY](https://hellogithub.com/periodical/statistics/click?target=https://github.com/liuxinyu95/AlgoXY)：作者正在重写《算法新解》，开源仓库同步更新。[下载地址](https://github.com/liuxinyu95/AlgoXY/files/6862229/algoxy-zh-cn.pdf)
+36、[AlgoXY](https://hellogithub.com/periodical/statistics/click?target=https://github.com/liuxinyu95/AlgoXY)：作者正在重写《算法新解》，开源仓库同步更新。[下载地址](https://github.com/liuxinyu95/AlgoXY/files/6862229/algoxy-zh-cn.pdf)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/1638524.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-34、[optuna](https://hellogithub.com/periodical/statistics/click?target=https://github.com/optuna/optuna)：专为机器学习准备的超参数优化框架。采用高效的采样和剪枝策略，支持简单的 Python 语法，仅需少量代码便可进行分布式计算加速优化，除此之外还有更为直观的可视化页面。全方位帮你调参，自动找到最优参数
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/122299416.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-35、[qlib](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/qlib)：微软开源的 AI 量化交易平台。它包含了数据处理、模型训练、回测等模块，涵盖了 Alpha 挖掘、风险建模、组合优化等功能
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/287463830.png' style="max-width:80%; max-height=80%;"></img></p>
-
-36、[Real-ESRGAN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xinntao/Real-ESRGAN)：图像超分辨率模型，修复漫画图像的效果惊艳。通过 AI 技术将低分辨率、模糊的图像修复成高清图像，可用于图像放大和提升质量。基于它实现的[桌面工具](https://github.com/X-Lucifer/AI-Lossless-Zoomer)，还有可以直接使用的 Python 脚本，快去试试效果吧
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/67/387326890.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -306,7 +306,7 @@ df = q.collect()
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

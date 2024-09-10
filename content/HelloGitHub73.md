@@ -291,52 +291,52 @@ with pikepdf.open('input.pdf') as pdf:
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/73/8859285.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+35、[instant-ngp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/NVlabs/instant-ngp)：加速训练 NeRF 模型的项目。英伟达开源的最快只需 5 秒，训练出一只狐狸 NeRF 模型的技术。即根据静态的 2D 图片通过神经网络建模，快速训练出可以放大且从任何角度观察都清晰的图片
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/73/444886996.gif' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-35、[getwidget](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ionicfirebaseapp/getwidget)：免费开源的 Flutter UI 库。包含 1000 多种常用组件，帮你快速、轻松地构建 Flutter 应用
+36、[getwidget](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ionicfirebaseapp/getwidget)：免费开源的 Flutter UI 库。包含 1000 多种常用组件，帮你快速、轻松地构建 Flutter 应用
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/73/227270948.png' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[iRedMail](https://hellogithub.com/periodical/statistics/click?target=https://github.com/iredmail/iRedMail)：开箱即用的免费邮件服务器。通过该项目可以快速在 Linux/BSD 上部署邮件服务，除此之外还拥有 Web 管理平台，数据均存储在服务器上，即保证了数据隐私还易于迁移和备份
+37、[iRedMail](https://hellogithub.com/periodical/statistics/click?target=https://github.com/iredmail/iRedMail)：开箱即用的免费邮件服务器。通过该项目可以快速在 Linux/BSD 上部署邮件服务，除此之外还拥有 Web 管理平台，数据均存储在服务器上，即保证了数据隐私还易于迁移和备份
 
 
-37、[RedisInsight](https://hellogithub.com/periodical/statistics/click?target=https://github.com/RedisInsight/RedisInsight)：官方开源的 Redis 桌面管理工具。提供了可视化操作界面、监控、内存分析、管理 Redis 集群等功能
+38、[RedisInsight](https://hellogithub.com/periodical/statistics/click?target=https://github.com/RedisInsight/RedisInsight)：官方开源的 Redis 桌面管理工具。提供了可视化操作界面、监控、内存分析、管理 Redis 集群等功能
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/73/391005419.png' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[SmartIDE](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OpenAtomFoundation/SmartIDE)：快速搭建云开发环境的工具。不需要手动安装任何工具、SDK、编辑器和设置环境变量等繁琐操作，一条命令即可获得所需的开发环境和 IDE，轻松实现云端开发
+39、[SmartIDE](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OpenAtomFoundation/SmartIDE)：快速搭建云开发环境的工具。不需要手动安装任何工具、SDK、编辑器和设置环境变量等繁琐操作，一条命令即可获得所需的开发环境和 IDE，轻松实现云端开发
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/73/408816156.png' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[vcard-personal-portfolio](https://hellogithub.com/periodical/statistics/click?target=https://github.com/codewithsadee/vcard-personal-portfolio)：用来展示个人信息的网站
+40、[vcard-personal-portfolio](https://hellogithub.com/periodical/statistics/click?target=https://github.com/codewithsadee/vcard-personal-portfolio)：用来展示个人信息的网站
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/73/471780567.png' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[WechatMomentScreenshot](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TransparentLC/WechatMomentScreenshot)：朋友圈截图生成工具
+41、[WechatMomentScreenshot](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TransparentLC/WechatMomentScreenshot)：朋友圈截图生成工具
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/73/167690435.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-41、[awk](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wuzhouhui/awk)：《AWK 程序设计语言》中文翻译
+42、[awk](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wuzhouhui/awk)：《AWK 程序设计语言》中文翻译
 
 
-42、[rCore-Tutorial-Book-v3](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rcore-os/rCore-Tutorial-Book-v3)：用 Rust 语言从零开始写一个基于 RISC-V 架构的类 Unix 内核。清华大学开源的中文教程，从计算机发展历史开始科普，一步步说到为何操作系统会诞生，以及现代操作系统必须具备的特性。实践方面也是从空文件夹开始，像搭乐高积木一样，慢慢将操作系统的核心开发出来，教程读起来简直像看小说一样让人欲罢不能。[在线阅读](https://rcore-os.github.io/rCore-Tutorial-Book-v3/)
+43、[rCore-Tutorial-Book-v3](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rcore-os/rCore-Tutorial-Book-v3)：用 Rust 语言从零开始写一个基于 RISC-V 架构的类 Unix 内核。清华大学开源的中文教程，从计算机发展历史开始科普，一步步说到为何操作系统会诞生，以及现代操作系统必须具备的特性。实践方面也是从空文件夹开始，像搭乐高积木一样，慢慢将操作系统的核心开发出来，教程读起来简直像看小说一样让人欲罢不能。[在线阅读](https://rcore-os.github.io/rCore-Tutorial-Book-v3/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/73/308346100.png' style="max-width:80%; max-height=80%;"></img></p>
 
-43、[tensorflow-internals](https://hellogithub.com/periodical/statistics/click?target=https://github.com/horance-liu/tensorflow-internals)：《TensorFlow 内核剖析》通过剖析 TF 源码的方式，介绍它的架构、领域模型、工作原理等知识。虽然讲解的 1.2 版本已经过时，但仍然可以用来了解知名机器学习框架的内部原理
+44、[tensorflow-internals](https://hellogithub.com/periodical/statistics/click?target=https://github.com/horance-liu/tensorflow-internals)：《TensorFlow 内核剖析》通过剖析 TF 源码的方式，介绍它的架构、领域模型、工作原理等知识。虽然讲解的 1.2 版本已经过时，但仍然可以用来了解知名机器学习框架的内部原理
 
-
-### 机器学习
-44、[instant-ngp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/NVlabs/instant-ngp)：加速训练 NeRF 模型的项目。英伟达开源的最快只需 5 秒，训练出一只狐狸 NeRF 模型的技术。即根据静态的 2D 图片通过神经网络建模，快速训练出可以放大且从任何角度观察都清晰的图片
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/73/444886996.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -366,7 +366,7 @@ with pikepdf.open('input.pdf') as pdf:
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

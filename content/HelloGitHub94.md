@@ -222,50 +222,50 @@ print(text_with_wm)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/737071068.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+29、[AnimateDiff](https://hellogithub.com/periodical/statistics/click?target=https://github.com/guoyww/AnimateDiff)：让 AI 生成的图动起来。这是一款可以在 Stable Diffusion 中制作动图的库，支持将大多数开源模型转换为动画生成器。让原本通过文字生成的图片，变成 gif 图片动起来。来自 [@adoin](https://hellogithub.com/user/HJZMx5VeRfNDQ8z) 的分享
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/654930782.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+30、[AnyText](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tyxsspa/AnyText)：轻松 DIY 图片文字，定制你的创意设计。该项目提供了文字生成和文字编辑两种模式，它能够根据提示词生成图文融合的图片，并确保文字的准确性，还支持对上传图片中的文字进行编辑后，重新生成图片。支持中文、英语、日语、韩语等多语言，适用于海报设计、Logo 设计、创意涂鸦、表情包等场景。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/692934702.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+31、[pyvideotrans](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jianchang512/pyvideotrans)：开源的视频翻译和配音工具。该项目可以将视频从一种语言翻译成指定语言的视频，并自动生成和添加对应语言的字幕和配音。来自 [@okaymyworld](https://hellogithub.com/user/Gf8J0xolgYIMUT9) 的分享
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/699432836.png' style="max-width:80%; max-height=80%;"></img></p>
+
+32、[StreamDiffusion](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cumulo-autumn/StreamDiffusion)：实时交互式 AIGC 图片。该项目能以惊人的速度生成 AIGC 图像，单张 RTX4090 显卡可达 100 张/秒。它通过流批处理简化数据处理，采用残差无分类器（RCFG）减少计算冗余，随机相似性过滤器提高 GPU 利用率，并通过优化 IO 队列实现并行处理。同时，利用多种模型加速工具，实现爆炸式地提升 AIGC 图像速度。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/724635656.gif' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-29、[gdb-dashboard](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cyrus-and/gdb-dashboard)：GDB 可视化调试界面。这是专为 GNU 调试器（GDB）设计的文本界面，支持模块化显示调试的程序相关信息，更直观和方便地调试代码。该界面采用 Python 编写，具备轻松自定义和扩展的特性。
+33、[gdb-dashboard](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cyrus-and/gdb-dashboard)：GDB 可视化调试界面。这是专为 GNU 调试器（GDB）设计的文本界面，支持模块化显示调试的程序相关信息，更直观和方便地调试代码。该界面采用 Python 编写，具备轻松自定义和扩展的特性。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/42191943.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[kubernetes-network-policy-recipes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ahmetb/kubernetes-network-policy-recipes)：只需复制粘贴即可解决 K8s 网络问题的配方。该项目包含了 Kubernetes 网络策略的各种用例和示例 YAML 文件，可直接复制使用。
+34、[kubernetes-network-policy-recipes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ahmetb/kubernetes-network-policy-recipes)：只需复制粘贴即可解决 K8s 网络问题的配方。该项目包含了 Kubernetes 网络策略的各种用例和示例 YAML 文件，可直接复制使用。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/98780162.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[network_proxy_flutter](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wanghongenpin/network_proxy_flutter)：支持手机端的免费抓包工具。该项目是采用 Flutter 开发的抓包工具，可用于拦截、检查和重写 HTTP(S) 流量。它支持扫码连接、域名过滤、请求重写等功能，适用于 Windows、macOS、Linux、Android 和 iOS 平台。
+35、[network_proxy_flutter](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wanghongenpin/network_proxy_flutter)：支持手机端的免费抓包工具。该项目是采用 Flutter 开发的抓包工具，可用于拦截、检查和重写 HTTP(S) 流量。它支持扫码连接、域名过滤、请求重写等功能，适用于 Windows、macOS、Linux、Android 和 iOS 平台。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/649662864.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[particle-life](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hunar4321/particle-life)：粒子生命演化游戏。该项目通过定义粒子之间的相互作用力，从而生成复杂的自组织图案。源码十分简单，用户可以在线试玩，创造出各种有趣的图案。
+36、[particle-life](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hunar4321/particle-life)：粒子生命演化游戏。该项目通过定义粒子之间的相互作用力，从而生成复杂的自组织图案。源码十分简单，用户可以在线试玩，创造出各种有趣的图案。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/523244338.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[vimwiki](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vimwiki/vimwiki)：Vim 中的个人 wiki。这是一个 Vim 插件，通过以 wiki 的方式连接文本，提供更好的组织笔记和想法的功能。
+37、[vimwiki](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vimwiki/vimwiki)：Vim 中的个人 wiki。这是一个 Vim 插件，通过以 wiki 的方式连接文本，提供更好的组织笔记和想法的功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/6698053.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-34、[game-programming-patterns](https://hellogithub.com/periodical/statistics/click?target=https://github.com/munificent/game-programming-patterns)：《游戏编程模式》。该书收集了经过验证、已发布的 3A 级游戏中的经验和模式，来解决你在游戏开发中遇到的问题。
+38、[game-programming-patterns](https://hellogithub.com/periodical/statistics/click?target=https://github.com/munificent/game-programming-patterns)：《游戏编程模式》。该书收集了经过验证、已发布的 3A 级游戏中的经验和模式，来解决你在游戏开发中遇到的问题。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/11390832.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[PDF-Explained](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zxyle/PDF-Explained)：《PDF 解析》。该项目是《PDF Explained》一书的非官方中文翻译版，内容由浅入深介绍了如何构建简单的 PDF 文件，以及 PDF 运算符、书签、超链接、注释、加密等高级特性。
-
-### 机器学习
-36、[AnimateDiff](https://hellogithub.com/periodical/statistics/click?target=https://github.com/guoyww/AnimateDiff)：让 AI 生成的图动起来。这是一款可以在 Stable Diffusion 中制作动图的库，支持将大多数开源模型转换为动画生成器。让原本通过文字生成的图片，变成 gif 图片动起来。来自 [@adoin](https://hellogithub.com/user/HJZMx5VeRfNDQ8z) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/654930782.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-37、[AnyText](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tyxsspa/AnyText)：轻松 DIY 图片文字，定制你的创意设计。该项目提供了文字生成和文字编辑两种模式，它能够根据提示词生成图文融合的图片，并确保文字的准确性，还支持对上传图片中的文字进行编辑后，重新生成图片。支持中文、英语、日语、韩语等多语言，适用于海报设计、Logo 设计、创意涂鸦、表情包等场景。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/692934702.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-38、[pyvideotrans](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jianchang512/pyvideotrans)：开源的视频翻译和配音工具。该项目可以将视频从一种语言翻译成指定语言的视频，并自动生成和添加对应语言的字幕和配音。来自 [@okaymyworld](https://hellogithub.com/user/Gf8J0xolgYIMUT9) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/699432836.png' style="max-width:80%; max-height=80%;"></img></p>
-
-39、[StreamDiffusion](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cumulo-autumn/StreamDiffusion)：实时交互式 AIGC 图片。该项目能以惊人的速度生成 AIGC 图像，单张 RTX4090 显卡可达 100 张/秒。它通过流批处理简化数据处理，采用残差无分类器（RCFG）减少计算冗余，随机相似性过滤器提高 GPU 利用率，并通过优化 IO 队列实现并行处理。同时，利用多种模型加速工具，实现爆炸式地提升 AIGC 图像速度。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/94/724635656.gif' style="max-width:80%; max-height=80%;"></img></p>
+39、[PDF-Explained](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zxyle/PDF-Explained)：《PDF 解析》。该项目是《PDF Explained》一书的非官方中文翻译版，内容由浅入深介绍了如何构建简单的 PDF 文件，以及 PDF 运算符、书签、超链接、注释、加密等高级特性。
 
 
 
@@ -295,7 +295,7 @@ print(text_with_wm)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

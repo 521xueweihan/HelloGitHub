@@ -319,52 +319,16 @@ textdistance.hamming.normalized_similarity('test', 'text')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/433619938.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-26、[blog_os](https://hellogithub.com/periodical/statistics/click?target=https://github.com/phil-opp/blog_os)：用 Rust 从零开发一个操作系统的教程。保姆级教程！从空文件夹开始，一步步搭建开发环境，通过原理描述、代码示例讲解操作系统背后的原理。硬要说缺点的话就是教程是英文的，但是配上代码示例读起来不是很费劲。[中文](https://os.phil-opp.com/zh-CN/)
-
-
-27、[design-patterns-for-humans](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kamranahmedse/design-patterns-for-humans)：人人都能看懂的设计模式教程。[中文](https://github.com/guanguans/design-patterns-for-humans-cn)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/82227585.png' style="max-width:80%; max-height=80%;"></img></p>
-
-28、[electerm](https://hellogithub.com/periodical/statistics/click?target=https://github.com/electerm/electerm)：一款支持 SSH/SFTP 的终端工具。支持中文和 Windows、Linux、macOS 操作系统
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/106087444.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-29、[ElectronBot](https://hellogithub.com/periodical/statistics/click?target=https://github.com/peng-zhihui/ElectronBot)：自制桌面级小机器人。它具备 USB 通信显示画面功能以及 6 个自由度，支持手势识别和人体关键点检测。这里有配套的全部开发资料和 SDK，让你也可以制作出一个这样有趣的机器人
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/468685658.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-30、[english-words](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dwyl/english-words)：大型英语单词文本。它是基于 WordNet 英语词汇数据库整理的文本文件，可用于英语自动提示、自动搜索等功能
-
-
-31、[Learn-Vim](https://hellogithub.com/periodical/statistics/click?target=https://github.com/iggredible/Learn-Vim)：学习 Vim 的指南。该教程不是“大而全的百科全书”，它着重介绍了 Vim 中最常用的功能，让你可以快速熟悉和使用 Vim。[中文](https://github.com/wsdjeg/Learn-Vim_zh_cn)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/279310322.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 开源书籍
-32、[Deep-Learning-with-TensorFlow-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)：《TensorFlow 深度学习》
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/192155460.png' style="max-width:80%; max-height=80%;"></img></p>
-
-33、[microfrontends](https://hellogithub.com/periodical/statistics/click?target=https://github.com/phodal/microfrontends)：《微前端的那些事儿》 将 Web 应用由单一的单体应用，转变为多个小型前端应用聚合为一的应用
-
-
-### 机器学习
-34、[awesome-automl-papers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hibayesian/awesome-automl-papers)：汇集了自动机器学习（AutoML）相关的论文、文章、教程等资源的项目
+### 人工智能
+26、[awesome-automl-papers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hibayesian/awesome-automl-papers)：汇集了自动机器学习（AutoML）相关的论文、文章、教程等资源的项目
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/111381431.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[deep-learning-for-image-processing](https://hellogithub.com/periodical/statistics/click?target=https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)：深度学习在图像处理方面的教程。该项目配以视频的方式介绍知识点和搭建方法，对应的 PTT 在 course_ppt 目录下
+27、[deep-learning-for-image-processing](https://hellogithub.com/periodical/statistics/click?target=https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)：深度学习在图像处理方面的教程。该项目配以视频的方式介绍知识点和搭建方法，对应的 PTT 在 course_ppt 目录下
 
 
-36、[jina](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jina-ai/jina)：一款易用的神经搜索框架。神经搜索是指用非结构化数据，搜索非结构化数据。Jina 简化了神经搜索系统的搭建流程，使开发者可以快速构建以图搜图、以文字搜图、问答机器人、照片去重、海量标签分类等应用
+28、[jina](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jina-ai/jina)：一款易用的神经搜索框架。神经搜索是指用非结构化数据，搜索非结构化数据。Jina 简化了神经搜索系统的搭建流程，使开发者可以快速构建以图搜图、以文字搜图、问答机器人、照片去重、海量标签分类等应用
 ```python
 from docarray import Document, DocumentArray
 from jina import Executor, Flow, requests
@@ -383,6 +347,42 @@ class PreprocImg(Executor):
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/240315046.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+29、[blog_os](https://hellogithub.com/periodical/statistics/click?target=https://github.com/phil-opp/blog_os)：用 Rust 从零开发一个操作系统的教程。保姆级教程！从空文件夹开始，一步步搭建开发环境，通过原理描述、代码示例讲解操作系统背后的原理。硬要说缺点的话就是教程是英文的，但是配上代码示例读起来不是很费劲。[中文](https://os.phil-opp.com/zh-CN/)
+
+
+30、[design-patterns-for-humans](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kamranahmedse/design-patterns-for-humans)：人人都能看懂的设计模式教程。[中文](https://github.com/guanguans/design-patterns-for-humans-cn)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/82227585.png' style="max-width:80%; max-height=80%;"></img></p>
+
+31、[electerm](https://hellogithub.com/periodical/statistics/click?target=https://github.com/electerm/electerm)：一款支持 SSH/SFTP 的终端工具。支持中文和 Windows、Linux、macOS 操作系统
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/106087444.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+32、[ElectronBot](https://hellogithub.com/periodical/statistics/click?target=https://github.com/peng-zhihui/ElectronBot)：自制桌面级小机器人。它具备 USB 通信显示画面功能以及 6 个自由度，支持手势识别和人体关键点检测。这里有配套的全部开发资料和 SDK，让你也可以制作出一个这样有趣的机器人
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/468685658.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+33、[english-words](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dwyl/english-words)：大型英语单词文本。它是基于 WordNet 英语词汇数据库整理的文本文件，可用于英语自动提示、自动搜索等功能
+
+
+34、[Learn-Vim](https://hellogithub.com/periodical/statistics/click?target=https://github.com/iggredible/Learn-Vim)：学习 Vim 的指南。该教程不是“大而全的百科全书”，它着重介绍了 Vim 中最常用的功能，让你可以快速熟悉和使用 Vim。[中文](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/279310322.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 开源书籍
+35、[Deep-Learning-with-TensorFlow-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)：《TensorFlow 深度学习》
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/192155460.png' style="max-width:80%; max-height=80%;"></img></p>
+
+36、[microfrontends](https://hellogithub.com/periodical/statistics/click?target=https://github.com/phodal/microfrontends)：《微前端的那些事儿》 将 Web 应用由单一的单体应用，转变为多个小型前端应用聚合为一的应用
+
 
 
 
@@ -412,7 +412,7 @@ class PreprocImg(Executor):
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

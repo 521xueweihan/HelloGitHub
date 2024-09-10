@@ -262,67 +262,67 @@ xonsh：xxh anyhost +s xonsh
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/161073102.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+34、[machine_learning_complete](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Nyandwi/machine_learning_complete)：全面的机器学习教程库。一份包含 30 多个 Jupyter Notebook 的集合库，内容涵盖机器学习所需的 Python 基础，数据操作、清洗、分析、可视化常用的库和工具，以及经典机器学习、NLP、计算机视觉等算法，一份面面俱到的机器学习入门教程
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/410249461.png' style="max-width:80%; max-height=80%;"></img></p>
+
+35、[mindsdb](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mindsdb/mindsdb)：用 SQL 开启机器学习的数据库。把机器学习引入 SQL 数据库将模型作为虚拟表（AI-table），从而省去了数据准备、预处理等步骤，可以直接用 SQL 查询时间序列、回归、分类预测的结果，实现简化机器学习开发流程的效果
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/143328315.png' style="max-width:80%; max-height=80%;"></img></p>
+
+36、[WantWords](https://hellogithub.com/periodical/statistics/click?target=https://github.com/thunlp/WantWords)：拯救词穷的字典。由清华大学 NLP 实验室开源，可以根据你的意思返回相关词汇，有效解决词穷、话到嘴边说不出来的窘境。[在线尝试](https://wantwords.net/)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/301421364.png' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-34、[A-Programmers-Guide-to-English](https://hellogithub.com/periodical/statistics/click?target=https://github.com/yujiangshui/A-Programmers-Guide-to-English)：专为程序员编写的英语学习指南。一位程序员提升英语水平的实践经验分享，还有相关训练方法和用到的工具，[点击查看](https://a-programmers-guide-to-english.harryyu.me/)
+37、[A-Programmers-Guide-to-English](https://hellogithub.com/periodical/statistics/click?target=https://github.com/yujiangshui/A-Programmers-Guide-to-English)：专为程序员编写的英语学习指南。一位程序员提升英语水平的实践经验分享，还有相关训练方法和用到的工具，[点击查看](https://a-programmers-guide-to-english.harryyu.me/)
 
 
-35、[code996](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hellodigua/code996)：根据 git 的提交时间推断工作强度的工具。通过分析 git 提交记录，得出是否加班、工作强度的可视化图表的工具
+38、[code996](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hellodigua/code996)：根据 git 的提交时间推断工作强度的工具。通过分析 git 提交记录，得出是否加班、工作强度的可视化图表的工具
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/429520684.png' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[flutter_floatwing](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jiusanzhou/flutter_floatwing)：Flutter 的 Android 浮动窗口插件。该插件能够让开发者使用 Flutter 完成浮动窗口的功能开发，同时无需任何原生 Android 开发的背景
+39、[flutter_floatwing](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jiusanzhou/flutter_floatwing)：Flutter 的 Android 浮动窗口插件。该插件能够让开发者使用 Flutter 完成浮动窗口的功能开发，同时无需任何原生 Android 开发的背景
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/490972345.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[opensource.guide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/github/opensource.guide)：GitHub 官方的开源指南。为想学习如何创建和贡献开源项目的个人、社区和公司提供的资源集合，[中文](https://opensource.guide/zh-hans/)
+40、[opensource.guide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/github/opensource.guide)：GitHub 官方的开源指南。为想学习如何创建和贡献开源项目的个人、社区和公司提供的资源集合，[中文](https://opensource.guide/zh-hans/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/61204818.png' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[pinball](https://hellogithub.com/periodical/statistics/click?target=https://github.com/flutter/pinball)：谷歌开源的弹珠台游戏。使用 Flutter 和  Firebase 平台开发的弹珠台游戏，可运行在 Android、iOS、Windows、macOS、Linux 操作系统。[在线试玩](https://pinball.flutter.dev/#/)
+41、[pinball](https://hellogithub.com/periodical/statistics/click?target=https://github.com/flutter/pinball)：谷歌开源的弹珠台游戏。使用 Flutter 和  Firebase 平台开发的弹珠台游戏，可运行在 Android、iOS、Windows、macOS、Linux 操作系统。[在线试玩](https://pinball.flutter.dev/#/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/462900266.png' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[Thanks-Mirror](https://hellogithub.com/periodical/statistics/click?target=https://github.com/eryajf/Thanks-Mirror)：国内公共仓库镜像的集合。该项目包含开发常用的库、软件、系统镜像地址以及使用的方法
+42、[Thanks-Mirror](https://hellogithub.com/periodical/statistics/click?target=https://github.com/eryajf/Thanks-Mirror)：国内公共仓库镜像的集合。该项目包含开发常用的库、软件、系统镜像地址以及使用的方法
 
 
-40、[wechat-report](https://hellogithub.com/periodical/statistics/click?target=https://github.com/myth984/wechat-report)：自制微信聊天年度报告。教你如何生成和女朋友微信聊天记录的年度报告项目
+43、[wechat-report](https://hellogithub.com/periodical/statistics/click?target=https://github.com/myth984/wechat-report)：自制微信聊天年度报告。教你如何生成和女朋友微信聊天记录的年度报告项目
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/443021832.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-41、[machine-learning-yearning-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/deeplearning-ai/machine-learning-yearning-cn)：《Machine Learning Yearning》中文版。《机器学习训练秘籍》样稿吴恩达著，[在线阅读](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
+44、[machine-learning-yearning-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/deeplearning-ai/machine-learning-yearning-cn)：《Machine Learning Yearning》中文版。《机器学习训练秘籍》样稿吴恩达著，[在线阅读](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/137935980.png' style="max-width:80%; max-height=80%;"></img></p>
 
-42、[TCP-IP-NetworkNote](https://hellogithub.com/periodical/statistics/click?target=https://github.com/riba2534/TCP-IP-NetworkNote)：《TCP/IP 网络编程》学习笔记。除了笔记还包含书中的代码实现和课后习题回答
+45、[TCP-IP-NetworkNote](https://hellogithub.com/periodical/statistics/click?target=https://github.com/riba2534/TCP-IP-NetworkNote)：《TCP/IP 网络编程》学习笔记。除了笔记还包含书中的代码实现和课后习题回答
 
 
-43、[the-unix-workbench](https://hellogithub.com/periodical/statistics/click?target=https://github.com/seankross/the-unix-workbench)：《The Unix Workbench》该书面向刚接触编程和类 Unix（如 macOS）和 Linux 操作系统的开发者，帮你快速上手命令行以及搞懂相关知识。[在线阅读](https://seankross.com/the-unix-workbench/)
+46、[the-unix-workbench](https://hellogithub.com/periodical/statistics/click?target=https://github.com/seankross/the-unix-workbench)：《The Unix Workbench》该书面向刚接触编程和类 Unix（如 macOS）和 Linux 操作系统的开发者，帮你快速上手命令行以及搞懂相关知识。[在线阅读](https://seankross.com/the-unix-workbench/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/70629065.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-44、[machine_learning_complete](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Nyandwi/machine_learning_complete)：全面的机器学习教程库。一份包含 30 多个 Jupyter Notebook 的集合库，内容涵盖机器学习所需的 Python 基础，数据操作、清洗、分析、可视化常用的库和工具，以及经典机器学习、NLP、计算机视觉等算法，一份面面俱到的机器学习入门教程
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/410249461.png' style="max-width:80%; max-height=80%;"></img></p>
-
-45、[mindsdb](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mindsdb/mindsdb)：用 SQL 开启机器学习的数据库。把机器学习引入 SQL 数据库将模型作为虚拟表（AI-table），从而省去了数据准备、预处理等步骤，可以直接用 SQL 查询时间序列、回归、分类预测的结果，实现简化机器学习开发流程的效果
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/143328315.png' style="max-width:80%; max-height=80%;"></img></p>
-
-46、[WantWords](https://hellogithub.com/periodical/statistics/click?target=https://github.com/thunlp/WantWords)：拯救词穷的字典。由清华大学 NLP 实验室开源，可以根据你的意思返回相关词汇，有效解决词穷、话到嘴边说不出来的窘境。[在线尝试](https://wantwords.net/)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/301421364.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -352,7 +352,7 @@ xonsh：xxh anyhost +s xonsh
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

@@ -213,41 +213,13 @@ return ["nán", "jīng", "shì", "cháng", "jiāng", "dà", "qiáo"]
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/79902465.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-23、[advanced-java](https://hellogithub.com/periodical/statistics/click?target=https://github.com/doocs/advanced-java)：一份 Java 工程师进阶知识点集合，内容涵盖：高并发、分布式、高可用、微服务等领域知识。这些知识点不局限于 Java 语言，后端的同学也可以从中收获很多，[在线阅读](https://doocs.github.io/advanced-java)
-
-
-24、[c9-python-getting-started](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/c9-python-getting-started)：微软出品的零基础 Python 入门教程，内容浅显易懂。包含示例代码、演示的 PPT、[配套的 Youtube 视频](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
-
-
-25、[chinese-colors](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zerosoul/chinese-colors)：中国传统颜色在线手册，[在线体验](https://colors.ichuantong.cn/)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/204681206.png' style="max-width:80%; max-height=80%;"></img></p>
-
-26、[navi](https://hellogithub.com/periodical/statistics/click?target=https://github.com/denisidoro/navi)：命令行辅助工具，有了它再也不用担心找不到历史输入过的命令、忘记命令等诸多烦恼
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/209799228.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-27、[Nodejs-Roadmap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/qufei1993/Nodejs-Roadmap)：Node.js 技术栈学习指南。内容侧重于 Node.js 服务端，包含：Node.js 基础知识、Node.js 核心模块、主流框架实践、缓存、数据库、消息中间件、DevOps、HTTP 协议以及 Node.js 在微服务等，[在线阅读](https://www.nodejs.red/)
-
-
-28、[pull](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wei/pull)：一个 GitHub App，它可以让 fork 的仓库自动同步，保持和原仓库同步的神器。很多同学参与开源时会 fork 项目，但无法取得原项目的最新更新。此 Github App 可以很好的解决这个问题，截至目前已有几万仓库使用，截至目前已经自动生成了 70 万个 PR，该数字还在持续增加。注意：如果 master 有更改需要备份后使用，具体见[英文文档](https://github.com/wei/pull#readme)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/134992035.png' style="max-width:80%; max-height=80%;"></img></p>
-
-29、[reverse-interview](https://hellogithub.com/periodical/statistics/click?target=https://github.com/viraptor/reverse-interview)：如果当面试官问“你还有什么要问我的吗？”的时候你毫无头绪，那这个项目正是你所需要的。[中文](https://github.com/yifeikong/reverse-interview-zh)
-
-
-### 机器学习
-30、[albert_zh](https://hellogithub.com/periodical/statistics/click?target=https://github.com/brightmart/albert_zh)：海量中文预训练 ALBERT 模型
+### 人工智能
+23、[albert_zh](https://hellogithub.com/periodical/statistics/click?target=https://github.com/brightmart/albert_zh)：海量中文预训练 ALBERT 模型
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/211137351.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[cherry](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Windsooon/cherry)：简单易用的文本分类器。适用多种语言，自带两个预训练模型，使用预训练模型进行分类只需一行代码。使用自己的数据集进行定制训练也只需要十行代码。轻松达到高精确率，召回率。同时该库支持自定义分词算法、分类算法等。示例代码：
+24、[cherry](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Windsooon/cherry)：简单易用的文本分类器。适用多种语言，自带两个预训练模型，使用预训练模型进行分类只需一行代码。使用自己的数据集进行定制训练也只需要十行代码。轻松达到高精确率，召回率。同时该库支持自定义分词算法、分类算法等。示例代码：
 ```bash
 >>> res = cherry.classify(model='harmful', text=['她们对计算机很有热情，也希望学习到数据分析，网络爬虫，人工智能等方面的知识，从而运用在她们工作上'])
 >>> res.word_list
@@ -258,7 +230,35 @@ array([[4.43336608e-03, 9.95215198e-01, 3.51419231e-04, 1.68657851e-08]])
 ```
 
 
-32、[ChineseNLPCorpus](https://hellogithub.com/periodical/statistics/click?target=https://github.com/InsaneLife/ChineseNLPCorpus)：中文自然语言处理数据集
+25、[ChineseNLPCorpus](https://hellogithub.com/periodical/statistics/click?target=https://github.com/InsaneLife/ChineseNLPCorpus)：中文自然语言处理数据集
+
+
+### 其它
+26、[advanced-java](https://hellogithub.com/periodical/statistics/click?target=https://github.com/doocs/advanced-java)：一份 Java 工程师进阶知识点集合，内容涵盖：高并发、分布式、高可用、微服务等领域知识。这些知识点不局限于 Java 语言，后端的同学也可以从中收获很多，[在线阅读](https://doocs.github.io/advanced-java)
+
+
+27、[c9-python-getting-started](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/c9-python-getting-started)：微软出品的零基础 Python 入门教程，内容浅显易懂。包含示例代码、演示的 PPT、[配套的 Youtube 视频](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+
+
+28、[chinese-colors](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zerosoul/chinese-colors)：中国传统颜色在线手册，[在线体验](https://colors.ichuantong.cn/)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/204681206.png' style="max-width:80%; max-height=80%;"></img></p>
+
+29、[navi](https://hellogithub.com/periodical/statistics/click?target=https://github.com/denisidoro/navi)：命令行辅助工具，有了它再也不用担心找不到历史输入过的命令、忘记命令等诸多烦恼
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/209799228.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+30、[Nodejs-Roadmap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/qufei1993/Nodejs-Roadmap)：Node.js 技术栈学习指南。内容侧重于 Node.js 服务端，包含：Node.js 基础知识、Node.js 核心模块、主流框架实践、缓存、数据库、消息中间件、DevOps、HTTP 协议以及 Node.js 在微服务等，[在线阅读](https://www.nodejs.red/)
+
+
+31、[pull](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wei/pull)：一个 GitHub App，它可以让 fork 的仓库自动同步，保持和原仓库同步的神器。很多同学参与开源时会 fork 项目，但无法取得原项目的最新更新。此 Github App 可以很好的解决这个问题，截至目前已有几万仓库使用，截至目前已经自动生成了 70 万个 PR，该数字还在持续增加。注意：如果 master 有更改需要备份后使用，具体见[英文文档](https://github.com/wei/pull#readme)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/134992035.png' style="max-width:80%; max-height=80%;"></img></p>
+
+32、[reverse-interview](https://hellogithub.com/periodical/statistics/click?target=https://github.com/viraptor/reverse-interview)：如果当面试官问“你还有什么要问我的吗？”的时候你毫无头绪，那这个项目正是你所需要的。[中文](https://github.com/yifeikong/reverse-interview-zh)
 
 
 
@@ -289,7 +289,7 @@ array([[4.43336608e-03, 9.95215198e-01, 3.51419231e-04, 1.68657851e-08]])
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

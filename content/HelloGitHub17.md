@@ -119,34 +119,34 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/17/62032720.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+20、[EffectiveTensorflow](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vahidk/EffectiveTensorflow)：TensorFlow 最佳实践
+
+
+21、[TensorFlow-World](https://hellogithub.com/periodical/statistics/click?target=https://github.com/astorfi/TensorFlow-World)：简单易用的 TensorFlow 教程
+
+
 ### 其它
-20、[games](https://hellogithub.com/periodical/statistics/click?target=https://github.com/leereilly/games)：GitHub 上游戏项目的合集
+22、[games](https://hellogithub.com/periodical/statistics/click?target=https://github.com/leereilly/games)：GitHub 上游戏项目的合集
 
 
-21、[learn-regex](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ziishaned/learn-regex)：易学的正则表达式教程，[中文](https://github.com/zeeshanu/learn-regex/blob/master/README-cn.md)
+23、[learn-regex](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ziishaned/learn-regex)：易学的正则表达式教程，[中文](https://github.com/zeeshanu/learn-regex/blob/master/README-cn.md)
 
 
-22、[Material-Design-Chinese](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zdhxiong/Material-Design-Chinese)：Material Design 官方文档的中文翻译，保留了原版网站的样式，并保持和官方文档同步更新
+24、[Material-Design-Chinese](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zdhxiong/Material-Design-Chinese)：Material Design 官方文档的中文翻译，保留了原版网站的样式，并保持和官方文档同步更新
 
 
-23、[PythonSpiderNotes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lining0806/PythonSpiderNotes)：Python 爬虫入门教程
+25、[PythonSpiderNotes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lining0806/PythonSpiderNotes)：Python 爬虫入门教程
 
 
-24、[sec-chart](https://hellogithub.com/periodical/statistics/click?target=https://github.com/SecWiki/sec-chart)：安全思维导图集合
+26、[sec-chart](https://hellogithub.com/periodical/statistics/click?target=https://github.com/SecWiki/sec-chart)：安全思维导图集合
 
 
 ### 开源书籍
-25、[pandas-cookbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jvns/pandas-cookbook)：pandas cookbook（英文）
+27、[pandas-cookbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jvns/pandas-cookbook)：pandas cookbook（英文）
 
 
-26、[tensorflow_cookbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nfmcclure/tensorflow_cookbook)：Tensorflow cookbook（英文）
-
-
-### 机器学习
-27、[EffectiveTensorflow](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vahidk/EffectiveTensorflow)：TensorFlow 最佳实践
-
-
-28、[TensorFlow-World](https://hellogithub.com/periodical/statistics/click?target=https://github.com/astorfi/TensorFlow-World)：简单易用的 TensorFlow 教程
+28、[tensorflow_cookbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nfmcclure/tensorflow_cookbook)：Tensorflow cookbook（英文）
 
 
 
@@ -177,7 +177,7 @@
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

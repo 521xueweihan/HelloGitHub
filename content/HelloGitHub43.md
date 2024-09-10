@@ -258,22 +258,33 @@ import Percent
 ```
 
 
+### 人工智能
+22、[dimensionality_reduction_alo_codes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/heucoder/dimensionality_reduction_alo_codes)：该项目使用 Python 实现了 11 种经典的数据抽取（数据降维）算法。同时附有相关资料、展示效果，适用于机器学习初学者和刚刚入坑数据挖掘的小伙伴
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/191011404.png' style="max-width:80%; max-height=80%;"></img></p>
+
+23、[Ultra-Light-Fast-Generic-Face-Detector-1MB](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)：1MB 大小的轻量级人脸检测模型。该模型是针对边缘计算设备，基于 libfacedetection 替换压缩网络设计实现
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/214118425.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-22、[Administrative-divisions-of-China](https://hellogithub.com/periodical/statistics/click?target=https://github.com/modood/Administrative-divisions-of-China)：中国行政区划（五级）：省级、地级、县级、乡级和村级的数据集和爬虫程序
+24、[Administrative-divisions-of-China](https://hellogithub.com/periodical/statistics/click?target=https://github.com/modood/Administrative-divisions-of-China)：中国行政区划（五级）：省级、地级、县级、乡级和村级的数据集和爬虫程序
 
 
-23、[BigData-Notes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/heibaiying/BigData-Notes)：大数据入门教程，该教程介绍了大数据常用技术栈的基础和核心知识。内容涵盖：Hadoop、Spark、Storm、HBase、Hive、ZooKeeper、Kafka 等
+25、[BigData-Notes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/heibaiying/BigData-Notes)：大数据入门教程，该教程介绍了大数据常用技术栈的基础和核心知识。内容涵盖：Hadoop、Spark、Storm、HBase、Hive、ZooKeeper、Kafka 等
 
 
-24、[cascadia-code](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/cascadia-code)：微软开源的一套等宽字体，有趣的是可以组合字符创建新的字形。组合效果如下：
+26、[cascadia-code](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/cascadia-code)：微软开源的一套等宽字体，有趣的是可以组合字符创建新的字形。组合效果如下：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/196284711.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[curlconverter](https://hellogithub.com/periodical/statistics/click?target=https://github.com/curlconverter/curlconverter)：把 curl 命令转化成各语言的代码的工具，支持 Python、JavaScript、PHP、R、Go 等语言。[在线体验](https://curl.trillworks.com/)
+27、[curlconverter](https://hellogithub.com/periodical/statistics/click?target=https://github.com/curlconverter/curlconverter)：把 curl 命令转化成各语言的代码的工具，支持 Python、JavaScript、PHP、R、Go 等语言。[在线体验](https://curl.trillworks.com/)
 
 
-26、[hub](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mislav/hub)：通过命令行的方式来操作 GitHub，支持绝大多数的操作。比如：创建远程仓库、删除远程仓库、提交 PR、管理 issue 等，常用操作：
+28、[hub](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mislav/hub)：通过命令行的方式来操作 GitHub，支持绝大多数的操作。比如：创建远程仓库、删除远程仓库、提交 PR、管理 issue 等，常用操作：
 - 创建远程仓库：hub create github-repository
 - 删除远程仓库：hub delete github-repository
 - fork 项目：hub fork
@@ -281,25 +292,14 @@ import Percent
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/401025.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[vim-airline](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vim-airline/vim-airline)：一个让每个 Vim 窗口的底部，都有一个漂亮状态行的插件。展示信息和效果如下图：
+29、[vim-airline](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vim-airline/vim-airline)：一个让每个 Vim 窗口的底部，都有一个漂亮状态行的插件。展示信息和效果如下图：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/11075527.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-28、[book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cosmicpython/book)：（英文）《Cosmic Python》讲述如何管理复杂性的 Pythonic 应用程序结构的书籍
+30、[book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cosmicpython/book)：（英文）《Cosmic Python》讲述如何管理复杂性的 Pythonic 应用程序结构的书籍
 
-
-### 机器学习
-29、[dimensionality_reduction_alo_codes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/heucoder/dimensionality_reduction_alo_codes)：该项目使用 Python 实现了 11 种经典的数据抽取（数据降维）算法。同时附有相关资料、展示效果，适用于机器学习初学者和刚刚入坑数据挖掘的小伙伴
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/191011404.png' style="max-width:80%; max-height=80%;"></img></p>
-
-30、[Ultra-Light-Fast-Generic-Face-Detector-1MB](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)：1MB 大小的轻量级人脸检测模型。该模型是针对边缘计算设备，基于 libfacedetection 替换压缩网络设计实现
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/214118425.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -329,7 +329,7 @@ import Percent
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

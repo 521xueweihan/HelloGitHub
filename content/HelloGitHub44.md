@@ -189,47 +189,47 @@ do {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/54882337.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-25、[CoolplaySpark](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lw-lin/CoolplaySpark)：Spark 源代码分析、类库解读等
+### 人工智能
+25、[ML-NLP](https://hellogithub.com/periodical/statistics/click?target=https://github.com/NLP-LOVE/ML-NLP)：该项目总结了机器学习、NLP 面试中常考到的知识点和代码实现
 
 
-26、[funNLP](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fighting41love/funNLP)：中文词库的集合。可用于：敏感词、语言检测、拆字词典等
-
-
-27、[git-quick-stats](https://hellogithub.com/periodical/statistics/click?target=https://github.com/arzzen/git-quick-stats)：项目的 git 提交记录展示和统计的工具。支持：不同时间维度和用户名的统计、近期提交的概览等
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/79046698.png' style="max-width:80%; max-height=80%;"></img></p>
-
-28、[github-cards](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lepture/github-cards)：非官方的 GitHub 卡片
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/13540116.png' style="max-width:80%; max-height=80%;"></img></p>
-
-29、[infer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facebook/infer)：Facebook 开源的一个支持 Objective-C、Java 和 C 语言的静态分析工具，用它可以检测 Android、iOS 代码中的资源泄漏、内存泄漏、空指针等问题。建议集成到客户端发布的流程环节中，它能够将客户端应用的一些严重 Bug 扼杀在发布应用之前，同时减少应用崩溃和性能低下的情况
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/29857799.png' style="max-width:80%; max-height=80%;"></img></p>
-
-30、[TeachYourselfCS-CN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/izackwu/TeachYourselfCS-CN)：《TeachYourselfCS》自学计算科学的一份书单（中文翻译版）
-
-
-31、[zh.javascript.info](https://hellogithub.com/periodical/statistics/click?target=https://github.com/javascript-tutorial/zh.javascript.info)：《现代 JavaScript 教程》是以最新的 JavaScript 标准为基准的教程。通过简单但详细的内容，讲解从基础到高阶的 JavaScript 相关知识，能够帮助初中级前端提升 JavaScript 等前端技术水平。[在线阅读](https://zh.javascript.info/)
-
-
-### 机器学习
-32、[ML-NLP](https://hellogithub.com/periodical/statistics/click?target=https://github.com/NLP-LOVE/ML-NLP)：该项目总结了机器学习、NLP 面试中常考到的知识点和代码实现
-
-
-33、[MNN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alibaba/MNN)：一个轻量级的深度神经网络推理引擎，在端侧加载深度神经网络模型进行推理预测。架构设计如下：
+26、[MNN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alibaba/MNN)：一个轻量级的深度神经网络推理引擎，在端侧加载深度神经网络模型进行推理预测。架构设计如下：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/181436799.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[openpilot](https://hellogithub.com/periodical/statistics/click?target=https://github.com/commaai/openpilot)：comma.ai 开源的自动驾驶系统
+27、[openpilot](https://hellogithub.com/periodical/statistics/click?target=https://github.com/commaai/openpilot)：comma.ai 开源的自动驾驶系统
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/74627617.jpeg' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+28、[CoolplaySpark](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lw-lin/CoolplaySpark)：Spark 源代码分析、类库解读等
+
+
+29、[funNLP](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fighting41love/funNLP)：中文词库的集合。可用于：敏感词、语言检测、拆字词典等
+
+
+30、[git-quick-stats](https://hellogithub.com/periodical/statistics/click?target=https://github.com/arzzen/git-quick-stats)：项目的 git 提交记录展示和统计的工具。支持：不同时间维度和用户名的统计、近期提交的概览等
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/79046698.png' style="max-width:80%; max-height=80%;"></img></p>
+
+31、[github-cards](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lepture/github-cards)：非官方的 GitHub 卡片
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/13540116.png' style="max-width:80%; max-height=80%;"></img></p>
+
+32、[infer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facebook/infer)：Facebook 开源的一个支持 Objective-C、Java 和 C 语言的静态分析工具，用它可以检测 Android、iOS 代码中的资源泄漏、内存泄漏、空指针等问题。建议集成到客户端发布的流程环节中，它能够将客户端应用的一些严重 Bug 扼杀在发布应用之前，同时减少应用崩溃和性能低下的情况
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/29857799.png' style="max-width:80%; max-height=80%;"></img></p>
+
+33、[TeachYourselfCS-CN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/izackwu/TeachYourselfCS-CN)：《TeachYourselfCS》自学计算科学的一份书单（中文翻译版）
+
+
+34、[zh.javascript.info](https://hellogithub.com/periodical/statistics/click?target=https://github.com/javascript-tutorial/zh.javascript.info)：《现代 JavaScript 教程》是以最新的 JavaScript 标准为基准的教程。通过简单但详细的内容，讲解从基础到高阶的 JavaScript 相关知识，能够帮助初中级前端提升 JavaScript 等前端技术水平。[在线阅读](https://zh.javascript.info/)
+
 
 
 
@@ -259,7 +259,7 @@ do {
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

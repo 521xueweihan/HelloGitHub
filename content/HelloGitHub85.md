@@ -177,46 +177,12 @@ admin.add_view(UserAdmin)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/170244456.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-34、[distrochooser](https://hellogithub.com/periodical/statistics/click?target=https://github.com/distrochooser/distrochooser)：帮你找到适合自己的 Linux 发行版。该网站通过询问一些问题，为你推荐符合你要求的 Linux 发行版，支持中文。来自 [@酸去羟基醇去氢](https://hellogithub.com/user/s1lbgnTSL5XHrof) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/20834297.png' style="max-width:80%; max-height=80%;"></img></p>
-
-35、[dockerlabs](https://hellogithub.com/periodical/statistics/click?target=https://github.com/collabnix/dockerlabs)：适合所有阶段开发者的 Docker 教程。该教程的内容分为初、中、高三个级别，适合所有阶段的 Docker。内含 500 个动手实验，以及 Docker 和 Docker Compose 小抄，这一切全部开源且分文不取。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/153069455.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-36、[flutter_twitter_clone](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TheAlphamerc/flutter_twitter_clone)：Flutter 写的推特客户端。这是一款用 Flutter 写的第三方 Twitter 客户端，实现了登录/注册、信息流、回复、通知、个人主页等功能。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/230049455.png' style="max-width:80%; max-height=80%;"></img></p>
-
-37、[galagino](https://hellogithub.com/periodical/statistics/click?target=https://github.com/harbaum/galagino)：自制迷你的 80 年代街机。基于 ESP32 开发板的街机模拟器，可以运行吃豆人(Pac-Man)、小蜜蜂(Galaga) 和大金刚(Donkey Kong) 三款经典的街机游戏。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/589179397.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-38、[my-re0-k8s-security](https://hellogithub.com/periodical/statistics/click?target=https://github.com/neargle/my-re0-k8s-security)：从零开始的 Kubernetes 攻防。该项目包含了作者在多处攻防场景，所遇到的云原生相关的漏洞挖掘和漏洞利用实例。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/341772600.png' style="max-width:80%; max-height=80%;"></img></p>
-
-39、[static-marks](https://hellogithub.com/periodical/statistics/click?target=https://github.com/darekkay/static-marks)：将浏览器书签转换为静态网站的工具。该项目能够将本地的浏览器书签，生成一个方便部署的独立 HTML 文件，轻松实现在线分享浏览器书签的功能。来自 [@摸鱼的小灰栗。](https://hellogithub.com/user/s7MVRyIfE1Gq59P) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/127005654.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-### 开源书籍
-40、[build-lua-in-rust](https://hellogithub.com/periodical/statistics/click?target=https://github.com/WuBingzheng/build-lua-in-rust)：《用 Rust 写个 Lua 解释器》。这本书介绍了如何用 Rust 语言从零实现一个 Lua 解释器。
-
-41、[learn-javascript](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sumn2u/learn-javascript)：一本教授 JavaScript 语言的电子书。这是一本从零开始教授 JavaScript 编程语言基础的书，内含丰富的在线练习。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/584145946.png' style="max-width:80%; max-height=80%;"></img></p>
-
-42、[vimllearn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lymslive/vimllearn)：《VimL 语言编程指北路》。一本关于 VimL(Vim Language) 脚本语言的书，VimL 是 Vim 内置的脚本语言。
-
-### 机器学习
-43、[AnimatedDrawings](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facebookresearch/AnimatedDrawings)：让画作动起来的 AI 项目。这是 Meta AI 研究院开源的动画库，它能让你的画作动起来。无论是小朋友画的小人，还是高水平的卡通人物，该项目都能让它们跟着你一起做动作。
+### 人工智能
+34、[AnimatedDrawings](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facebookresearch/AnimatedDrawings)：让画作动起来的 AI 项目。这是 Meta AI 研究院开源的动画库，它能让你的画作动起来。无论是小朋友画的小人，还是高水平的卡通人物，该项目都能让它们跟着你一起做动作。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/572668924.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-44、[bark](https://hellogithub.com/periodical/statistics/click?target=https://github.com/suno-ai/bark)：Text-Prompted 生成音频的模型。该项目可以根据你输入的文本提示生成音频，甚至可以指定背景声音，比如我爱 HG (大笑)，生成的语音会包含爽朗的笑声。它还可以模拟音乐、声效，比传统的文本转语音更智能。
+35、[bark](https://hellogithub.com/periodical/statistics/click?target=https://github.com/suno-ai/bark)：Text-Prompted 生成音频的模型。该项目可以根据你输入的文本提示生成音频，甚至可以指定背景声音，比如我爱 HG (大笑)，生成的语音会包含爽朗的笑声。它还可以模拟音乐、声效，比传统的文本转语音更智能。
 ```python
 from bark import SAMPLE_RATE, generate_audio, preload_models
 from IPython.display import Audio
@@ -237,9 +203,43 @@ Audio(audio_array, rate=SAMPLE_RATE)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/624994625.png' style="max-width:80%; max-height=80%;"></img></p>
 
-45、[segment-anything](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facebookresearch/segment-anything)：分割一切的图像分割模型。它是来自 Meta AI 研究院的图像分割模型，只需一键就可以“切出”图像中的任何对象。它在 1100 万张图像和 11 亿个掩码(mask) 的数据集上完成了训练，能够在各种分割任务上具有很强的零样本(zero-shot) 性能。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
+36、[segment-anything](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facebookresearch/segment-anything)：分割一切的图像分割模型。它是来自 Meta AI 研究院的图像分割模型，只需一键就可以“切出”图像中的任何对象。它在 1100 万张图像和 11 亿个掩码(mask) 的数据集上完成了训练，能够在各种分割任务上具有很强的零样本(zero-shot) 性能。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/618058471.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+37、[distrochooser](https://hellogithub.com/periodical/statistics/click?target=https://github.com/distrochooser/distrochooser)：帮你找到适合自己的 Linux 发行版。该网站通过询问一些问题，为你推荐符合你要求的 Linux 发行版，支持中文。来自 [@酸去羟基醇去氢](https://hellogithub.com/user/s1lbgnTSL5XHrof) 的分享
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/20834297.png' style="max-width:80%; max-height=80%;"></img></p>
+
+38、[dockerlabs](https://hellogithub.com/periodical/statistics/click?target=https://github.com/collabnix/dockerlabs)：适合所有阶段开发者的 Docker 教程。该教程的内容分为初、中、高三个级别，适合所有阶段的 Docker。内含 500 个动手实验，以及 Docker 和 Docker Compose 小抄，这一切全部开源且分文不取。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/153069455.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+39、[flutter_twitter_clone](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TheAlphamerc/flutter_twitter_clone)：Flutter 写的推特客户端。这是一款用 Flutter 写的第三方 Twitter 客户端，实现了登录/注册、信息流、回复、通知、个人主页等功能。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/230049455.png' style="max-width:80%; max-height=80%;"></img></p>
+
+40、[galagino](https://hellogithub.com/periodical/statistics/click?target=https://github.com/harbaum/galagino)：自制迷你的 80 年代街机。基于 ESP32 开发板的街机模拟器，可以运行吃豆人(Pac-Man)、小蜜蜂(Galaga) 和大金刚(Donkey Kong) 三款经典的街机游戏。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/589179397.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+41、[my-re0-k8s-security](https://hellogithub.com/periodical/statistics/click?target=https://github.com/neargle/my-re0-k8s-security)：从零开始的 Kubernetes 攻防。该项目包含了作者在多处攻防场景，所遇到的云原生相关的漏洞挖掘和漏洞利用实例。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/341772600.png' style="max-width:80%; max-height=80%;"></img></p>
+
+42、[static-marks](https://hellogithub.com/periodical/statistics/click?target=https://github.com/darekkay/static-marks)：将浏览器书签转换为静态网站的工具。该项目能够将本地的浏览器书签，生成一个方便部署的独立 HTML 文件，轻松实现在线分享浏览器书签的功能。来自 [@摸鱼的小灰栗。](https://hellogithub.com/user/s7MVRyIfE1Gq59P) 的分享
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/127005654.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+### 开源书籍
+43、[build-lua-in-rust](https://hellogithub.com/periodical/statistics/click?target=https://github.com/WuBingzheng/build-lua-in-rust)：《用 Rust 写个 Lua 解释器》。这本书介绍了如何用 Rust 语言从零实现一个 Lua 解释器。
+
+44、[learn-javascript](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sumn2u/learn-javascript)：一本教授 JavaScript 语言的电子书。这是一本从零开始教授 JavaScript 编程语言基础的书，内含丰富的在线练习。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/584145946.png' style="max-width:80%; max-height=80%;"></img></p>
+
+45、[vimllearn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lymslive/vimllearn)：《VimL 语言编程指北路》。一本关于 VimL(Vim Language) 脚本语言的书，VimL 是 Vim 内置的脚本语言。
 
 
 
@@ -269,7 +269,7 @@ Audio(audio_array, rate=SAMPLE_RATE)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

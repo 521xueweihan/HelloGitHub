@@ -200,18 +200,29 @@ $ publish new
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/230532062.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+26、[pulse](https://hellogithub.com/periodical/statistics/click?target=https://github.com/adamian98/pulse)：根据包含马赛克的人脸图像，生成一张相似容貌的结果。注意不是复原哦，仅可用于人脸
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/265645902.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+27、[Surface-Defect-Detection](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Charmve/Surface-Defect-Detection)：该项目整理了目前大量靠谱的表面缺陷检测数据集，还有最新的顶会论文以及作者的解读笔记。从事视觉方向的小伙伴，心动了吗？
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/298980599.png' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-26、[neofetch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dylanaraps/neofetch)：展示操作系统信息的命令行工具，支持将近 150 种操作系统
+28、[neofetch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dylanaraps/neofetch)：展示操作系统信息的命令行工具，支持将近 150 种操作系统
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/48795298.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[open-source-rover](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nasa-jpl/open-source-rover)：NASA 面向科技爱好者开源的火星漫游车设计方案和代码。通过该项目你可以使用便宜的树莓派做出自己的火星漫游车，所需的零件很容易就可以买到，遥控部分是使用现成的 Xbox 手柄或者手机，减少花销。喜欢动手和硬件的小伙伴们，这个东西够酷吗？
+29、[open-source-rover](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nasa-jpl/open-source-rover)：NASA 面向科技爱好者开源的火星漫游车设计方案和代码。通过该项目你可以使用便宜的树莓派做出自己的火星漫游车，所需的零件很容易就可以买到，遥控部分是使用现成的 Xbox 手柄或者手机，减少花销。喜欢动手和硬件的小伙伴们，这个东西够酷吗？
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/139205847.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[sql-style-guide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mattm/sql-style-guide)：一份 SQL 语句编写风格建议。比如：
+30、[sql-style-guide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mattm/sql-style-guide)：一份 SQL 语句编写风格建议。比如：
 ```
 -- Good
 select *
@@ -225,13 +236,13 @@ where email = "example@domain.com"
 ```
 
 
-29、[Web-Dev-For-Beginners](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/Web-Dev-For-Beginners)：微软开源的 Web 开发教程。该教程共有 24 节课，但目前只有英文版
+31、[Web-Dev-For-Beginners](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/Web-Dev-For-Beginners)：微软开源的 Web 开发教程。该教程共有 24 节课，但目前只有英文版
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/311525798.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-30、[pure-bash-bible](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dylanaraps/pure-bash-bible)：该书有好多复制就能用的 bash 函数，我愿称其为 bash 的“奇技淫巧”。比如把字母转为大写的函数：
+32、[pure-bash-bible](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dylanaraps/pure-bash-bible)：该书有好多复制就能用的 bash 函数，我愿称其为 bash 的“奇技淫巧”。比如把字母转为大写的函数：
 ```
 upper() {
     # Usage: upper "string"
@@ -244,17 +255,6 @@ HELLO
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/137147386.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-31、[pulse](https://hellogithub.com/periodical/statistics/click?target=https://github.com/adamian98/pulse)：根据包含马赛克的人脸图像，生成一张相似容貌的结果。注意不是复原哦，仅可用于人脸
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/265645902.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-32、[Surface-Defect-Detection](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Charmve/Surface-Defect-Detection)：该项目整理了目前大量靠谱的表面缺陷检测数据集，还有最新的顶会论文以及作者的解读笔记。从事视觉方向的小伙伴，心动了吗？
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/298980599.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -284,7 +284,7 @@ HELLO
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

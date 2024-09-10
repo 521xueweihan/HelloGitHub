@@ -282,34 +282,24 @@ Hello, Click!
 25、[iOS-Developer-Roadmap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/BohdanOrlov/iOS-Developer-Roadmap)：（英文） iOS 开发者学习路线图
 
 
-### 其它
-26、[algorithm-visualizer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/algorithm-visualizer/algorithm-visualizer)：一个交互式算法可视化网站。你可以自由选择自己想学习的算法，每个算法它都清晰描绘了其原理和运作过程
+### 人工智能
+26、[RecommenderSystem-Paper](https://hellogithub.com/periodical/statistics/click?target=https://github.com/daicoolb/RecommenderSystem-Paper)：推荐系统论文整理列表，包括了行业顶尖会议 AAAI、NIPS 等发表的论文，以及 KDD 一些获奖论文。方便推荐系统方向以及文本表示方向等研究人员，跟踪阅读行业内经典论文和最新研究方向
 
 
-27、[html](https://hellogithub.com/periodical/statistics/click?target=https://github.com/whatwg/html)：《HTML 标准》[中文版](https://whatwg-cn.github.io/html/)
-
-
-28、[Visual-Studio-Code-Keymap-CN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OrvilleQ/Visual-Studio-Code-Keymap-CN)：VS Code 编辑器官方快捷键查图汉化版
-
-
-### 机器学习
-29、[RecommenderSystem-Paper](https://hellogithub.com/periodical/statistics/click?target=https://github.com/daicoolb/RecommenderSystem-Paper)：推荐系统论文整理列表，包括了行业顶尖会议 AAAI、NIPS 等发表的论文，以及 KDD 一些获奖论文。方便推荐系统方向以及文本表示方向等研究人员，跟踪阅读行业内经典论文和最新研究方向
-
-
-30、[Semantic-Segmentation-Suite](https://hellogithub.com/periodical/statistics/click?target=https://github.com/GeorgeSeif/Semantic-Segmentation-Suite)：图像语义分割模型组件整理，包含了模型、数据增广、准确率评价等模块。方便研究者快速搭建和试验一个图像语义分割模型，同时集成了一些 state-of-the-art 的模型
+27、[Semantic-Segmentation-Suite](https://hellogithub.com/periodical/statistics/click?target=https://github.com/GeorgeSeif/Semantic-Segmentation-Suite)：图像语义分割模型组件整理，包含了模型、数据增广、准确率评价等模块。方便研究者快速搭建和试验一个图像语义分割模型，同时集成了一些 state-of-the-art 的模型
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/113707110.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[spinningup](https://hellogithub.com/periodical/statistics/click?target=https://github.com/openai/spinningup)：（英文）OpenAI 制作的教育资源，可以更容易地学习深层强化学习。官方项目，浅显易懂，提供练手的例子，方便初学者或对深层强化学习感兴趣的人群学习和入门
+28、[spinningup](https://hellogithub.com/periodical/statistics/click?target=https://github.com/openai/spinningup)：（英文）OpenAI 制作的教育资源，可以更容易地学习深层强化学习。官方项目，浅显易懂，提供练手的例子，方便初学者或对深层强化学习感兴趣的人群学习和入门
 
 
-32、[the-gan-zoo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hindupuravinash/the-gan-zoo)：生成对抗网络（Generative Adversarial Networks，简称GAN）的一个大集合，作者列举了生成对抗网络领域各式各样的应用集合，大部分为论文，包含少数的 GitHub 项目。该项目对于 GAN 领域覆盖面全面，论文列表整理清晰，GAN 方向的研究者可以从这个项目中查询到想看的经典的论文或者扩充自己的知识储备
+29、[the-gan-zoo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hindupuravinash/the-gan-zoo)：生成对抗网络（Generative Adversarial Networks，简称GAN）的一个大集合，作者列举了生成对抗网络领域各式各样的应用集合，大部分为论文，包含少数的 GitHub 项目。该项目对于 GAN 领域覆盖面全面，论文列表整理清晰，GAN 方向的研究者可以从这个项目中查询到想看的经典的论文或者扩充自己的知识储备
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/88285322.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[transformers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/huggingface/transformers)：Google 神级语言表示模型的 PyTorch 预训练模型和 PyTorch 框架结合，使得更加容易上手。PyTorch 版本更方便小白上手实验。示例代码：
+30、[transformers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/huggingface/transformers)：Google 神级语言表示模型的 PyTorch 预训练模型和 PyTorch 框架结合，使得更加容易上手。PyTorch 版本更方便小白上手实验。示例代码：
 ```python
 import torch
 from pytorch_pretrained_bert import BertTokenizer, BertModel, BertForMaskedLM
@@ -335,6 +325,16 @@ segments_ids = [0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
 tokens_tensor = torch.tensor([indexed_tokens])
 segments_tensors = torch.tensor([segments_ids])
 ```
+
+
+### 其它
+31、[algorithm-visualizer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/algorithm-visualizer/algorithm-visualizer)：一个交互式算法可视化网站。你可以自由选择自己想学习的算法，每个算法它都清晰描绘了其原理和运作过程
+
+
+32、[html](https://hellogithub.com/periodical/statistics/click?target=https://github.com/whatwg/html)：《HTML 标准》[中文版](https://whatwg-cn.github.io/html/)
+
+
+33、[Visual-Studio-Code-Keymap-CN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OrvilleQ/Visual-Studio-Code-Keymap-CN)：VS Code 编辑器官方快捷键查图汉化版
 
 
 
@@ -365,7 +365,7 @@ segments_tensors = torch.tensor([segments_ids])
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

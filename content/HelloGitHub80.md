@@ -209,46 +209,46 @@ ABC
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/9243402.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+29、[AiLearning-Theory-Applying](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ben1234560/AiLearning-Theory-Applying)：快速上手 AI 理论及应用实战。该教程包含学习 AI 必备的数学基础，机器学习实战小项目、深度学习入门、自然语言通用框架 BERT 实战，以及大量数据集。
+
+30、[vmaf](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Netflix/vmaf)：Netflix 开源的视频质量评估算法。一种将人类视觉模型与机器学习结合的评估视频质量的方法，目的是改善观众们的观看体验。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/51317975.png' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-29、[fonteditor](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ecomfe/fonteditor)：在线字体编辑器。在线编辑、转换、预览字体文件，支持多种字体格式。来自 [@奈何人间](https://hellogithub.com/user/6oGlnBYh9y4XFDC) 的分享
+31、[fonteditor](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ecomfe/fonteditor)：在线字体编辑器。在线编辑、转换、预览字体文件，支持多种字体格式。来自 [@奈何人间](https://hellogithub.com/user/6oGlnBYh9y4XFDC) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/28329935.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[free-for-dev](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ripienaar/free-for-dev)：专为程序员准备的免费服务清单。现在虽然有大量免费的服务，但大多数开发者很难找到它们，这是一份免费服务(SaaS、PaaS、IaaS 等)和产品的列表。来自 [@westinyang](https://hellogithub.com/user/jTPCSG8Q2MashYf) 的分享
+32、[free-for-dev](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ripienaar/free-for-dev)：专为程序员准备的免费服务清单。现在虽然有大量免费的服务，但大多数开发者很难找到它们，这是一份免费服务(SaaS、PaaS、IaaS 等)和产品的列表。来自 [@westinyang](https://hellogithub.com/user/jTPCSG8Q2MashYf) 的分享
 
-31、[GameShell](https://hellogithub.com/periodical/statistics/click?target=https://github.com/phyver/GameShell)：玩游戏学习 Shell。这是一款帮助入门 shell 命令的文字游戏。
+33、[GameShell](https://hellogithub.com/periodical/statistics/click?target=https://github.com/phyver/GameShell)：玩游戏学习 Shell。这是一款帮助入门 shell 命令的文字游戏。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/94422621.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[hackingtool](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Z4nzu/hackingtool)：黑客工具全家桶。该项目收录了各种黑客工具，包括破解密码、SQL 注入、钓鱼攻击、XSS、DDos 等。
+34、[hackingtool](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Z4nzu/hackingtool)：黑客工具全家桶。该项目收录了各种黑客工具，包括破解密码、SQL 注入、钓鱼攻击、XSS、DDos 等。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/254832799.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[platformio-core](https://hellogithub.com/periodical/statistics/click?target=https://github.com/platformio/platformio-core)：专业的嵌入式开发平台。做嵌入式开发时往往会遇到诸多不便，比如硬件厂商的 IDE 绑定和复杂的配置过程。这款 IDE 能让你轻松突破这些限制，PlatformIO IDE 兼容  Arduino、树莓派和 ESP32 在内的 40 多种平台，以及超过 20+ 的框架。它不仅支持 Debug、代码自动补全、单元测试、串口调试等实用的功能，还提供了 VSCode、Vim 等编辑器的插件，把开发工具的选择权彻底地还给开发者。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
+35、[platformio-core](https://hellogithub.com/periodical/statistics/click?target=https://github.com/platformio/platformio-core)：专业的嵌入式开发平台。做嵌入式开发时往往会遇到诸多不便，比如硬件厂商的 IDE 绑定和复杂的配置过程。这款 IDE 能让你轻松突破这些限制，PlatformIO IDE 兼容  Arduino、树莓派和 ESP32 在内的 40 多种平台，以及超过 20+ 的框架。它不仅支持 Debug、代码自动补全、单元测试、串口调试等实用的功能，还提供了 VSCode、Vim 等编辑器的插件，把开发工具的选择权彻底地还给开发者。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/19606299.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[sms_forwarding](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chenxuuu/sms_forwarding)：超低成本的短信转发器。通过该项目仅需 50 元就可以制作出一个短信转发器，实现不用手机接收验证码。
+36、[sms_forwarding](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chenxuuu/sms_forwarding)：超低成本的短信转发器。通过该项目仅需 50 元就可以制作出一个短信转发器，实现不用手机接收验证码。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/558275471.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-35、[Book3_Elements-of-Mathematics](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Visualize-ML/Book3_Elements-of-Mathematics)：《数学要素》从加减乘除到机器学习。全彩多图的一本科普书，内容以图解+数学+编程为主。
+37、[Book3_Elements-of-Mathematics](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Visualize-ML/Book3_Elements-of-Mathematics)：《数学要素》从加减乘除到机器学习。全彩多图的一本科普书，内容以图解+数学+编程为主。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/497668360.png' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[parsing-techniques](https://hellogithub.com/periodical/statistics/click?target=https://github.com/duguying/parsing-techniques)：《Parsing Techniques》解析技术。该书是编译器前端的经典书籍。
+38、[parsing-techniques](https://hellogithub.com/periodical/statistics/click?target=https://github.com/duguying/parsing-techniques)：《Parsing Techniques》解析技术。该书是编译器前端的经典书籍。
 
-37、[py4e](https://hellogithub.com/periodical/statistics/click?target=https://github.com/csev/py4e)：《Python for Everybody》适合所有人的 Python。不管你有没有编程基础，只要对编程感兴趣，都可以通过这本书学会 Python，进入有趣的编程世界。
+39、[py4e](https://hellogithub.com/periodical/statistics/click?target=https://github.com/csev/py4e)：《Python for Everybody》适合所有人的 Python。不管你有没有编程基础，只要对编程感兴趣，都可以通过这本书学会 Python，进入有趣的编程世界。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/34169414.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-38、[AiLearning-Theory-Applying](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ben1234560/AiLearning-Theory-Applying)：快速上手 AI 理论及应用实战。该教程包含学习 AI 必备的数学基础，机器学习实战小项目、深度学习入门、自然语言通用框架 BERT 实战，以及大量数据集。
-
-39、[vmaf](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Netflix/vmaf)：Netflix 开源的视频质量评估算法。一种将人类视觉模型与机器学习结合的评估视频质量的方法，目的是改善观众们的观看体验。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/80/51317975.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -278,7 +278,7 @@ ABC
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

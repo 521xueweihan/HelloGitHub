@@ -284,47 +284,8 @@ INSTALLED_APPS = (
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/62392794.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-36、[bats-core](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bats-core/bats-core)：Bash 自动化测试系统。它通过测试用例验证 Bash 脚本的运行结果是否符合预期，原理是基于 Bash 的 errexit(set -e) 选项判断测试用例的执行成功与否。
-```shell
-#!/usr/bin/env bats
-
-@test "addition using bc" {
-  result="$(echo 2+2 | bc)"
-  [ "$result" -eq 4 ]
-}
-
-@test "addition using dc" {
-  result="$(echo 2 2+p | dc)"
-  [ "$result" -eq 4 ]
-}
-```
-
-37、[Crash-Course-Computer-Science-Chinese](https://hellogithub.com/periodical/statistics/click?target=https://github.com/1c7/Crash-Course-Computer-Science-Chinese)：计算机科学速成课[40集全/精校] 。油管上的计算机科学速成课(Crash Course Computer Science)中文字幕翻译版，视频从晶体管讲到了操作系统和人工智能，但并不会教你如何编程属于科普类视频。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/104323045.png' style="max-width:80%; max-height=80%;"></img></p>
-
-38、[missing-semester](https://hellogithub.com/periodical/statistics/click?target=https://github.com/missing-semester/missing-semester)：大学计算机教育中缺失的一课。大学里的计算机课程往往只专注于讲授数据结构、操作系统这些知识，对于编程开发中常用的工具则留给学生自行学习。在 MIT 这个课程中，你可以了解和掌握命令行(shell)、文本编辑器(Vim)、版本控制系统(Git)等强大的工具，越早接触越能更加熟练地使用它们，有助于未来的职业生涯。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/225267585.png' style="max-width:80%; max-height=80%;"></img></p>
-
-39、[nginx-tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dunwu/nginx-tutorial)：免费的 Nginx 极简教程。这是一套简单的 Nginx 教程，包含 Nginx 的安装、常用命令、反向代理、负载均衡等知识点，能够帮助新手快速入门 Nginx。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/139662142.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-40、[The-Art-of-Linear-Algebra](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)：图解线性代数。《Linear Algebra for Everyone》是一门广受好评的线性代数公开课，该项目是基于这门公开课，编写整理而成的图文并茂的学习笔记。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/402267605.png' style="max-width:80%; max-height=80%;"></img></p>
-
-41、[WebKit](https://hellogithub.com/periodical/statistics/click?target=https://github.com/WebKit/WebKit)：苹果开源的 Web 浏览器引擎。它被用于开发 macOS 和 iOS 上的 Safari、App Store、Mail 等应用。WebKit 不仅出现在苹果的生态中，其分支 Blink 项目也是 Chromium 的重要组成部分，它又是各大主流浏览器的核心。
-
-### 开源书籍
-42、[Cookbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/andkret/Cookbook)：《数据工程师 Cookbook》。这本书会告诉你，如果想要成为一名出色的数据工程师，到底需要学习哪些知识。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/174888045.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-43、[stable-diffusion](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CompVis/stable-diffusion)：可以根据文字生成图片的模型。只要输入一段文字描述，就能得到一张由 AI 生成的图片，除此之外该项目还支持将粗糙的草图转化成精致的艺术图片。
+### 人工智能
+36、[stable-diffusion](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CompVis/stable-diffusion)：可以根据文字生成图片的模型。只要输入一段文字描述，就能得到一张由 AI 生成的图片，除此之外该项目还支持将粗糙的草图转化成精致的艺术图片。
 ```python
 # make sure you're logged in with `huggingface-cli login`
 from torch import autocast
@@ -344,9 +305,48 @@ image.save("astronaut_rides_horse.png")
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/523379232.png' style="max-width:80%; max-height=80%;"></img></p>
 
-44、[style2paints](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lllyasviel/style2paints)：一款给线稿上色的 AI 辅助工具。能够帮助用户给没有上色的图片，快速完成上色的 AI 工具，上色效果广受好评，完全免费开箱即用。
+37、[style2paints](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lllyasviel/style2paints)：一款给线稿上色的 AI 辅助工具。能够帮助用户给没有上色的图片，快速完成上色的 AI 工具，上色效果广受好评，完全免费开箱即用。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/93354260.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+38、[bats-core](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bats-core/bats-core)：Bash 自动化测试系统。它通过测试用例验证 Bash 脚本的运行结果是否符合预期，原理是基于 Bash 的 errexit(set -e) 选项判断测试用例的执行成功与否。
+```shell
+#!/usr/bin/env bats
+
+@test "addition using bc" {
+  result="$(echo 2+2 | bc)"
+  [ "$result" -eq 4 ]
+}
+
+@test "addition using dc" {
+  result="$(echo 2 2+p | dc)"
+  [ "$result" -eq 4 ]
+}
+```
+
+39、[Crash-Course-Computer-Science-Chinese](https://hellogithub.com/periodical/statistics/click?target=https://github.com/1c7/Crash-Course-Computer-Science-Chinese)：计算机科学速成课[40集全/精校] 。油管上的计算机科学速成课(Crash Course Computer Science)中文字幕翻译版，视频从晶体管讲到了操作系统和人工智能，但并不会教你如何编程属于科普类视频。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/104323045.png' style="max-width:80%; max-height=80%;"></img></p>
+
+40、[missing-semester](https://hellogithub.com/periodical/statistics/click?target=https://github.com/missing-semester/missing-semester)：大学计算机教育中缺失的一课。大学里的计算机课程往往只专注于讲授数据结构、操作系统这些知识，对于编程开发中常用的工具则留给学生自行学习。在 MIT 这个课程中，你可以了解和掌握命令行(shell)、文本编辑器(Vim)、版本控制系统(Git)等强大的工具，越早接触越能更加熟练地使用它们，有助于未来的职业生涯。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/225267585.png' style="max-width:80%; max-height=80%;"></img></p>
+
+41、[nginx-tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dunwu/nginx-tutorial)：免费的 Nginx 极简教程。这是一套简单的 Nginx 教程，包含 Nginx 的安装、常用命令、反向代理、负载均衡等知识点，能够帮助新手快速入门 Nginx。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/139662142.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+42、[The-Art-of-Linear-Algebra](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)：图解线性代数。《Linear Algebra for Everyone》是一门广受好评的线性代数公开课，该项目是基于这门公开课，编写整理而成的图文并茂的学习笔记。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/402267605.png' style="max-width:80%; max-height=80%;"></img></p>
+
+43、[WebKit](https://hellogithub.com/periodical/statistics/click?target=https://github.com/WebKit/WebKit)：苹果开源的 Web 浏览器引擎。它被用于开发 macOS 和 iOS 上的 Safari、App Store、Mail 等应用。WebKit 不仅出现在苹果的生态中，其分支 Blink 项目也是 Chromium 的重要组成部分，它又是各大主流浏览器的核心。
+
+### 开源书籍
+44、[Cookbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/andkret/Cookbook)：《数据工程师 Cookbook》。这本书会告诉你，如果想要成为一名出色的数据工程师，到底需要学习哪些知识。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/174888045.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -376,7 +376,7 @@ image.save("astronaut_rides_horse.png")
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

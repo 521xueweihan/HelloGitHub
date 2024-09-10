@@ -222,8 +222,19 @@ fselect hsize, abspath from ./tmp where size lt 8k
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/190091793.png' style="max-width:80%; max-height=80%;"></img></p>
 
+### 人工智能
+28、[AI-Expert-Roadmap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AMAI-GmbH/AI-Expert-Roadmap)：人工智能学习路线图
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/306977633.png' style="max-width:80%; max-height=80%;"></img></p>
+
+29、[Real-Time-Person-Removal](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jasonmayes/Real-Time-Person-Removal)：在 Web 浏览器中实时移除人像。该项目采用 JavaScript+TensorFlow.js 实现“凭空消失”
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/241217584.png' style="max-width:80%; max-height=80%;"></img></p>
+
 ### 其它
-28、[cloudmusic-vscode](https://hellogithub.com/periodical/statistics/click?target=https://github.com/YXL76/cloudmusic-vscode)：网易云音乐 VS Code 插件。基于网易云网页 API 实现，支持：
+30、[cloudmusic-vscode](https://hellogithub.com/periodical/statistics/click?target=https://github.com/YXL76/cloudmusic-vscode)：网易云音乐 VS Code 插件。基于网易云网页 API 实现，支持：
 - 歌曲播放、收藏、喜欢
 - 心动模式、私人 FM
 - 评论（单曲、歌单...）
@@ -234,38 +245,27 @@ fselect hsize, abspath from ./tmp where size lt 8k
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/275492724.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[LIII](https://hellogithub.com/periodical/statistics/click?target=https://github.com/aliakseis/LIII)：免费开源的 BT 下载工具。如果你厌倦了广告、购买 VIP 才能提速，只想要一个简单好用的下载工具，那你可以试试这个开源项目
+31、[LIII](https://hellogithub.com/periodical/statistics/click?target=https://github.com/aliakseis/LIII)：免费开源的 BT 下载工具。如果你厌倦了广告、购买 VIP 才能提速，只想要一个简单好用的下载工具，那你可以试试这个开源项目
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/97960048.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[shapez.io](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tobspr-games/shapez.io)：一款 Steam 上的模拟建造游戏《异形工厂》的源码。游戏是在无边的地图上开采资源、放置设施、组合图形、相互搭配，扩建自己的异形工厂。游戏轻松但也很有挑战性，快去试一试吧
+32、[shapez.io](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tobspr-games/shapez.io)：一款 Steam 上的模拟建造游戏《异形工厂》的源码。游戏是在无边的地图上开采资源、放置设施、组合图形、相互搭配，扩建自己的异形工厂。游戏轻松但也很有挑战性，快去试一试吧
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/255365829.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-31、[Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)：《黑客的贝叶斯方法：以 Python 为例》
+33、[Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)：《黑客的贝叶斯方法：以 Python 为例》
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/7607075.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[tensorflow-handbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/snowkylin/tensorflow-handbook)：《简明的 TensorFlow 2》，[在线阅读](https://tf.wiki/zh_hans/)
+34、[tensorflow-handbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/snowkylin/tensorflow-handbook)：《简明的 TensorFlow 2》，[在线阅读](https://tf.wiki/zh_hans/)
 
 
-33、[The-design-and-implementation-of-a-64-bit-os](https://hellogithub.com/periodical/statistics/click?target=https://github.com/yifengyou/The-design-and-implementation-of-a-64-bit-os)：《一个 64 位操作系统的设计与实现》
+35、[The-design-and-implementation-of-a-64-bit-os](https://hellogithub.com/periodical/statistics/click?target=https://github.com/yifengyou/The-design-and-implementation-of-a-64-bit-os)：《一个 64 位操作系统的设计与实现》
 
-
-### 机器学习
-34、[AI-Expert-Roadmap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AMAI-GmbH/AI-Expert-Roadmap)：人工智能学习路线图
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/306977633.png' style="max-width:80%; max-height=80%;"></img></p>
-
-35、[Real-Time-Person-Removal](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jasonmayes/Real-Time-Person-Removal)：在 Web 浏览器中实时移除人像。该项目采用 JavaScript+TensorFlow.js 实现“凭空消失”
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/241217584.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -295,7 +295,7 @@ fselect hsize, abspath from ./tmp where size lt 8k
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

@@ -172,37 +172,8 @@ pyxel.run(update, draw)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/83022668.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-22、[awesome-scalability](https://hellogithub.com/periodical/statistics/click?target=https://github.com/binhnguyennus/awesome-scalability)：一个系统的阅读列表，描述了可扩展、高可用、高性能的大型系统背后的东西。每部分都是基于真实案例，讲述了如何搭建一个可扩展、高可用、高性能的大型系统，案例都是来自于经过数百万甚至数十亿用户实战检验的系统。对于所有工程师而言都是一个很好的学习资料，开卷有益
-
-
-23、[awesome-wechat-weapp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/justjavac/awesome-wechat-weapp)：该项目收集了微信小程序开发过程中会使用到的资料、问题以及第三方组件库。随着微信小程序的市场越来越大，很多公司也专门以制作小程序为业，不论对感兴趣的人还是想自己动手做小程序的人而言，这份合集省去了不少查找资料的时间
-
-
-24、[libpku](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lib-pku/libpku)：由第三方整理的北京大学课程资料，涵盖了专业课、公选课、通选课等
-
-
-25、[nginx-admins-handbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/trimstray/nginx-admins-handbook)：该项目描述了如何提高 Nginx 的性能、安全性等方面的步骤，让你的网站在 SSL Labs 的评级到达 A+
-
-
-26、[REKCARC-TSC-UHT](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PKUanonym/REKCARC-TSC-UHT)：清华大学计算机系课程相关资源集合。内容丰富，包含从大一到大四，跟着清华学子一起学习传说中高校的课程吧
-
-
-27、[SJTU-Courses](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kxxwz/SJTU-Courses)：上海交通大学课程资料分享
-
-
-28、[zju-icicles](https://hellogithub.com/periodical/statistics/click?target=https://github.com/QSCTech/zju-icicles)：浙江大学各种课程相关资源集合。包含：课程、作业、答案、复习资料、选课攻略等，是浙大在校生的必备资源，对于有考研想法的小伙伴而言也是很好的资源
-
-
-### 开源书籍
-29、[prometheus-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/yunlzheng/prometheus-book)：《Prometheus 操作指南》，[在线阅读](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart/why-monitor)
-
-
-30、[the-craft-of-selfteaching](https://hellogithub.com/periodical/statistics/click?target=https://github.com/selfteaching/the-craft-of-selfteaching)：《自学是门手艺》一个编程入门者的自学心得。如今学习资源很多，对于初学者入门而言，最难的是如何自学，阅读本书打开编程自学大门吧
-
-
-### 机器学习
-31、[FaceDetection-DSFD](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Tencent/FaceDetection-DSFD)：腾讯优图的双分支人脸检测器全新算法，该算法已经被计算机视觉顶级会议 CVPR 2019 接收。优图此次提出的 DSFD 人脸检测算法，主要有 3 点创新：
+### 人工智能
+22、[FaceDetection-DSFD](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Tencent/FaceDetection-DSFD)：腾讯优图的双分支人脸检测器全新算法，该算法已经被计算机视觉顶级会议 CVPR 2019 接收。优图此次提出的 DSFD 人脸检测算法，主要有 3 点创新：
 1. 新的特征增强模块（FEM：Feature Enhance Module）
 2. 分层锚点渐进式的代价函数监督（PLA：Progressive Anchor Loss）
 3. 改进的锚点匹配策略（Improved Anchor Matching Strategy）
@@ -210,20 +181,49 @@ pyxel.run(update, draw)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/162380526.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[ICCV2019-LearningToPaint](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hzwer/ICCV2019-LearningToPaint)：一个深度强化学习项目，研究如何让机器用画笔画画。也可体验制作自己的绘画或根据一张图片生成一整个绘画过程
+23、[ICCV2019-LearningToPaint](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hzwer/ICCV2019-LearningToPaint)：一个深度强化学习项目，研究如何让机器用画笔画画。也可体验制作自己的绘画或根据一张图片生成一整个绘画过程
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/174922473.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[openpose](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CMU-Perceptual-Computing-Lab/openpose)：基于卷积神经网络和监督学习的开源库，可以实现人的面部、躯干和四肢甚至手指的跟踪。适用于多人，且标记准确，同时具有较好的鲁棒性
+24、[openpose](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CMU-Perceptual-Computing-Lab/openpose)：基于卷积神经网络和监督学习的开源库，可以实现人的面部、躯干和四肢甚至手指的跟踪。适用于多人，且标记准确，同时具有较好的鲁棒性
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/89247811.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[SPADE](https://hellogithub.com/periodical/statistics/click?target=https://github.com/NVlabs/SPADE)：英伟达（NVIDIA）新开源的绘图工具。利用生成对抗网络，根据几根简单的线条就能生成栩栩如生的图像
+25、[SPADE](https://hellogithub.com/periodical/statistics/click?target=https://github.com/NVlabs/SPADE)：英伟达（NVIDIA）新开源的绘图工具。利用生成对抗网络，根据几根简单的线条就能生成栩栩如生的图像
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/175539152.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+26、[awesome-scalability](https://hellogithub.com/periodical/statistics/click?target=https://github.com/binhnguyennus/awesome-scalability)：一个系统的阅读列表，描述了可扩展、高可用、高性能的大型系统背后的东西。每部分都是基于真实案例，讲述了如何搭建一个可扩展、高可用、高性能的大型系统，案例都是来自于经过数百万甚至数十亿用户实战检验的系统。对于所有工程师而言都是一个很好的学习资料，开卷有益
+
+
+27、[awesome-wechat-weapp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/justjavac/awesome-wechat-weapp)：该项目收集了微信小程序开发过程中会使用到的资料、问题以及第三方组件库。随着微信小程序的市场越来越大，很多公司也专门以制作小程序为业，不论对感兴趣的人还是想自己动手做小程序的人而言，这份合集省去了不少查找资料的时间
+
+
+28、[libpku](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lib-pku/libpku)：由第三方整理的北京大学课程资料，涵盖了专业课、公选课、通选课等
+
+
+29、[nginx-admins-handbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/trimstray/nginx-admins-handbook)：该项目描述了如何提高 Nginx 的性能、安全性等方面的步骤，让你的网站在 SSL Labs 的评级到达 A+
+
+
+30、[REKCARC-TSC-UHT](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PKUanonym/REKCARC-TSC-UHT)：清华大学计算机系课程相关资源集合。内容丰富，包含从大一到大四，跟着清华学子一起学习传说中高校的课程吧
+
+
+31、[SJTU-Courses](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kxxwz/SJTU-Courses)：上海交通大学课程资料分享
+
+
+32、[zju-icicles](https://hellogithub.com/periodical/statistics/click?target=https://github.com/QSCTech/zju-icicles)：浙江大学各种课程相关资源集合。包含：课程、作业、答案、复习资料、选课攻略等，是浙大在校生的必备资源，对于有考研想法的小伙伴而言也是很好的资源
+
+
+### 开源书籍
+33、[prometheus-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/yunlzheng/prometheus-book)：《Prometheus 操作指南》，[在线阅读](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart/why-monitor)
+
+
+34、[the-craft-of-selfteaching](https://hellogithub.com/periodical/statistics/click?target=https://github.com/selfteaching/the-craft-of-selfteaching)：《自学是门手艺》一个编程入门者的自学心得。如今学习资源很多，对于初学者入门而言，最难的是如何自学，阅读本书打开编程自学大门吧
+
 
 
 
@@ -253,7 +253,7 @@ pyxel.run(update, draw)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

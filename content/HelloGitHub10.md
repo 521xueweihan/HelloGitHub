@@ -121,31 +121,31 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/10/73524850.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-15、[500lines](https://hellogithub.com/periodical/statistics/click?target=https://github.com/aosabook/500lines)：（英文）用少于 500 行的 Python 代码，你可以写出什么东西？相信你看完这个项目，会学到很多（每个项目的作者都是业内大神写的）。[中文翻译版（未翻译完）](https://github.com/HT524/500LineorLess_CN)
-
-
-16、[Awesome_APIs](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TonnyL/Awesome_APIs)：第三方 API 集合
-
-
-17、[IntelliJ-IDEA-Tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/judasn/IntelliJ-IDEA-Tutorial)：IntelliJ IDEA 简体中文专题教程
-
-
-18、[Lee-VR-Source](https://hellogithub.com/periodical/statistics/click?target=https://github.com/GeekLiB/Lee-VR-Source)：VR 开发者必备资源汇总
-
-
-### 开源书籍
-19、[redisbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/huangzworks/redisbook)：Redis 设计与实现（网络版）
-
-
-### 机器学习
-20、[MLAlgorithms](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rushter/MLAlgorithms)：常见的机器学习算法，Python 实现：
+### 人工智能
+15、[MLAlgorithms](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rushter/MLAlgorithms)：常见的机器学习算法，Python 实现：
 - [Deep learning (MLP, CNN, RNN, LSTM)](https://github.com/rushter/MLAlgorithms/tree/master/mla/neuralnet)
 - [Linear regression, logistic regression](https://github.com/rushter/MLAlgorithms/blob/master/mla/linear_models.py)
 - [Random Forests](https://github.com/rushter/MLAlgorithms/blob/master/mla/ensemble/random_forest.py)
 - [Support vector machine (SVM) with kernels (Linear, Poly, RBF)](https://github.com/rushter/MLAlgorithms/tree/master/mla/svm)
 - [K-Means](https://github.com/rushter/MLAlgorithms/blob/master/mla/kmeans.py)
 - 等等
+
+
+### 其它
+16、[500lines](https://hellogithub.com/periodical/statistics/click?target=https://github.com/aosabook/500lines)：（英文）用少于 500 行的 Python 代码，你可以写出什么东西？相信你看完这个项目，会学到很多（每个项目的作者都是业内大神写的）。[中文翻译版（未翻译完）](https://github.com/HT524/500LineorLess_CN)
+
+
+17、[Awesome_APIs](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TonnyL/Awesome_APIs)：第三方 API 集合
+
+
+18、[IntelliJ-IDEA-Tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/judasn/IntelliJ-IDEA-Tutorial)：IntelliJ IDEA 简体中文专题教程
+
+
+19、[Lee-VR-Source](https://hellogithub.com/periodical/statistics/click?target=https://github.com/GeekLiB/Lee-VR-Source)：VR 开发者必备资源汇总
+
+
+### 开源书籍
+20、[redisbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/huangzworks/redisbook)：Redis 设计与实现（网络版）
 
 
 
@@ -176,7 +176,7 @@
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

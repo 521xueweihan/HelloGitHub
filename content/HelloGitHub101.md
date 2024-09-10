@@ -260,40 +260,12 @@ class TestSimpleLogin(BaseCase):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/717960955.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-34、[deskreen](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pavlobu/deskreen)：能将任何设备变为电脑第二屏幕的工具。该项目利用 WebRTC 技术将电脑屏幕，通过 WiFi 镜像到具有 Web 浏览器的设备屏幕上，实现屏幕共享功能，使其成为电脑的辅助显示器。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/286047827.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-35、[Kazumi](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Predidit/Kazumi)：跨平台的追番神器。这是一款采用 Flutter 开发的番剧采集应用，用户可以通过自定义 Xpath 规则，实现采集、追踪、搜索和在线观看动漫，支持字幕、弹幕、时间表、硬件加速和无线投屏等功能，适用于 Android、Windows 和 macOS 等平台。来自 [@Micro·J](https://hellogithub.com/user/L2Xx0OfvPzpYt4u) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/798049841.png' style="max-width:80%; max-height=80%;"></img></p>
-
-36、[open-and-shut](https://hellogithub.com/periodical/statistics/click?target=https://github.com/veggiedefender/open-and-shut)：笔记本盖的新玩法。这是一个通过反复合上和打开笔记本电脑的盖子，输入莫斯科电码的工具。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/251081242.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-37、[rime-ice](https://hellogithub.com/periodical/statistics/click?target=https://github.com/iDvel/rime-ice)：开箱即用的 RIME 输入法配置。这是一份 RIME 输入法的配置文件，需要配合 RIME 客户端使用。它提供了高质量、长期维护的简体中文词库，并优化了英文输入体验。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/334110599.png' style="max-width:80%; max-height=80%;"></img></p>
-
-38、[vCards](https://hellogithub.com/periodical/statistics/click?target=https://github.com/metowolf/vCards)：开源的电子名片文件。该项目收集并整理了常用联系人的号码和头像，优化了手机来电和通讯录信息界面的体验，支持订阅（自动更新）和手动导入 vcf 文件两种使用方式。来自 [@Mingo](https://hellogithub.com/user/auVvsjDMeyQW7nc) 的分享
-
-39、[Watchy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sqfmi/Watchy)：开源电子墨水屏智能手表。该项目是采用 ESP32-PICO-D4 和电子墨水屏制作的一款智能手表，支持日历、闹钟、步数、手势检测，以及 WiFi 和蓝牙等功能。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/220497210.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 开源书籍
-40、[grammar-club](https://hellogithub.com/periodical/statistics/click?target=https://github.com/llwslc/grammar-club)：《语法俱乐部》。这是旋元佑老师写的一本英语语法书籍，旨在帮助读者建立扎实的语法基础，适合各个水平的英语学习者。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/190264619.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 机器学习
-41、[k8sgpt](https://hellogithub.com/periodical/statistics/click?target=https://github.com/k8sgpt-ai/k8sgpt)：Kubernetes 故障诊断 AI 助手。该项目利用 LLM 自动分析 Kubernetes 集群问题，并给出故障诊断和优化建议。它通过读取集群的状态数据和配置，生成靠谱的诊断报告。
+### 人工智能
+34、[k8sgpt](https://hellogithub.com/periodical/statistics/click?target=https://github.com/k8sgpt-ai/k8sgpt)：Kubernetes 故障诊断 AI 助手。该项目利用 LLM 自动分析 Kubernetes 集群问题，并给出故障诊断和优化建议。它通过读取集群的状态数据和配置，生成靠谱的诊断报告。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/617152691.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-42、[llama_index](https://hellogithub.com/periodical/statistics/click?target=https://github.com/run-llama/llama_index)：大型语言模型的数据框架。该项目是专为 LLM 应用设计的数据框架，帮助开发者将私有数据与 LLM 轻松结合。它提供了数据连接器，支持从 API、PDF、文档、SQL 等多种数据源构建索引，并简化数据导入和查询操作，让初学者也能用几行代码完成 LLMs 上下文增强。
+35、[llama_index](https://hellogithub.com/periodical/statistics/click?target=https://github.com/run-llama/llama_index)：大型语言模型的数据框架。该项目是专为 LLM 应用设计的数据框架，帮助开发者将私有数据与 LLM 轻松结合。它提供了数据连接器，支持从 API、PDF、文档、SQL 等多种数据源构建索引，并简化数据导入和查询操作，让初学者也能用几行代码完成 LLMs 上下文增强。
 ```python
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
 
@@ -304,11 +276,39 @@ response = query_engine.query("Some question about the data should go here")
 print(response)
 ```
 
-43、[RAG_Techniques](https://hellogithub.com/periodical/statistics/click?target=https://github.com/NirDiamant/RAG_Techniques)：检索增强生成（RAG）教程集合。该项目提供了 20 多种先进的 RAG 技术教程，包含实现指南和示例代码，并定期更新。内容涵盖检索查询、上下文增强、融合检索（Fusion Retrieval）、分层索引、上下文压缩、知识图谱整合等多种 RAG 技术。
+36、[RAG_Techniques](https://hellogithub.com/periodical/statistics/click?target=https://github.com/NirDiamant/RAG_Techniques)：检索增强生成（RAG）教程集合。该项目提供了 20 多种先进的 RAG 技术教程，包含实现指南和示例代码，并定期更新。内容涵盖检索查询、上下文增强、融合检索（Fusion Retrieval）、分层索引、上下文压缩、知识图谱整合等多种 RAG 技术。
 
-44、[video2x](https://hellogithub.com/periodical/statistics/click?target=https://github.com/k4yt3x/video2x)：视频和图像无损放大工具。该项目集成了多种超分辨率算法（如 Waifu2x、Anime4K、Real-ESRGAN），能够有效提高视频和图像的分辨率，并提供了图形界面（GUI）、Docker 和命令行界面（CLI）的使用方式。
+37、[video2x](https://hellogithub.com/periodical/statistics/click?target=https://github.com/k4yt3x/video2x)：视频和图像无损放大工具。该项目集成了多种超分辨率算法（如 Waifu2x、Anime4K、Real-ESRGAN），能够有效提高视频和图像的分辨率，并提供了图形界面（GUI）、Docker 和命令行界面（CLI）的使用方式。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/122758193.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+38、[deskreen](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pavlobu/deskreen)：能将任何设备变为电脑第二屏幕的工具。该项目利用 WebRTC 技术将电脑屏幕，通过 WiFi 镜像到具有 Web 浏览器的设备屏幕上，实现屏幕共享功能，使其成为电脑的辅助显示器。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/286047827.jpg' style="max-width:80%; max-height=80%;"></img></p>
+
+39、[Kazumi](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Predidit/Kazumi)：跨平台的追番神器。这是一款采用 Flutter 开发的番剧采集应用，用户可以通过自定义 Xpath 规则，实现采集、追踪、搜索和在线观看动漫，支持字幕、弹幕、时间表、硬件加速和无线投屏等功能，适用于 Android、Windows 和 macOS 等平台。来自 [@Micro·J](https://hellogithub.com/user/L2Xx0OfvPzpYt4u) 的分享
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/798049841.png' style="max-width:80%; max-height=80%;"></img></p>
+
+40、[open-and-shut](https://hellogithub.com/periodical/statistics/click?target=https://github.com/veggiedefender/open-and-shut)：笔记本盖的新玩法。这是一个通过反复合上和打开笔记本电脑的盖子，输入摩斯电码的工具。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/251081242.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+41、[rime-ice](https://hellogithub.com/periodical/statistics/click?target=https://github.com/iDvel/rime-ice)：开箱即用的 RIME 输入法配置。这是一份 RIME 输入法的配置文件，需要配合 RIME 客户端使用。它提供了高质量、长期维护的简体中文词库，并优化了英文输入体验。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/334110599.png' style="max-width:80%; max-height=80%;"></img></p>
+
+42、[vCards](https://hellogithub.com/periodical/statistics/click?target=https://github.com/metowolf/vCards)：开源的电子名片文件。该项目收集并整理了常用联系人的号码和头像，优化了手机来电和通讯录信息界面的体验，支持订阅（自动更新）和手动导入 vcf 文件两种使用方式。来自 [@Mingo](https://hellogithub.com/user/auVvsjDMeyQW7nc) 的分享
+
+43、[Watchy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sqfmi/Watchy)：开源电子墨水屏智能手表。该项目是采用 ESP32-PICO-D4 和电子墨水屏制作的一款智能手表，支持日历、闹钟、步数、手势检测，以及 WiFi 和蓝牙等功能。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/220497210.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 开源书籍
+44、[grammar-club](https://hellogithub.com/periodical/statistics/click?target=https://github.com/llwslc/grammar-club)：《语法俱乐部》。这是旋元佑老师写的一本英语语法书籍，旨在帮助读者建立扎实的语法基础，适合各个水平的英语学习者。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/190264619.png' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -338,7 +338,7 @@ print(response)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

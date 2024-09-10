@@ -221,38 +221,38 @@ panorama = stitcher.stitch(["img?.jpg"])
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/190864373.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-31、[awesome-macos-screensavers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/agarrharr/awesome-macos-screensavers)：令人惊艳的 macOS 屏保集合。这里有不同风格、样式、趣味性十足的 macOS 屏保，相信总有一款适合你。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/30559599.png' style="max-width:80%; max-height=80%;"></img></p>
-
-32、[personal-security-checklist](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Lissy93/personal-security-checklist)：保护你的数字安全和隐私的清单。这是一份教你如何保护个人信息的列表，包括密码、浏览网页、电子邮件、社交网络、手机、电脑等方面。
-
-33、[radian](https://hellogithub.com/periodical/statistics/click?target=https://github.com/randy3k/radian)：更先进的 R 语言控制台。该项目可作为 R 语言自带控制台的替代品，它支持自动补全、多行编辑和语法高亮，更方便、更好用。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/86867223.png' style="max-width:80%; max-height=80%;"></img></p>
-
-34、[web-vitals](https://hellogithub.com/periodical/statistics/click?target=https://github.com/GoogleChrome/web-vitals)：Google 开源的核心页面指标。该指标可以帮助站长提升网站的用户体验，它分为 LCP(加载性能)、FID(交互性)、CLS(视觉稳定性) 三个方面。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/249512698.png' style="max-width:80%; max-height=80%;"></img></p>
-
-35、[XiangShan](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OpenXiangShan/XiangShan)：一款国产的开源 RISC-V 处理器。“香山”是由中国科学院计算技术研究所牵头发起的开源 RISC-V 处理器项目。
-
-### 开源书籍
-36、[Clean-Code-Notes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/JuanCrg90/Clean-Code-Notes)：一本关于如何写出 Clean Code 的书。该书从什么是 Clean Code 讲起，一步步教你如何写出简洁、容易理解和维护的代码，帮助你养成良好的编码习惯。
-
-### 机器学习
-37、[AI-For-Beginners](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/AI-For-Beginners)：微软开源的入门级人工智能教程。这是一份完全免费、面向零基础人群的 AI 课程，为期 12 周共计 24 节课。你将学习到关于 AI 的历史、基本知识、主流框架、CV 和 NLP 等知识。
+### 人工智能
+31、[AI-For-Beginners](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/AI-For-Beginners)：微软开源的入门级人工智能教程。这是一份完全免费、面向零基础人群的 AI 课程，为期 12 周共计 24 节课。你将学习到关于 AI 的历史、基本知识、主流框架、CV 和 NLP 等知识。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/344190478.png' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[DragGAN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/XingangPan/DragGAN)：拖动 GAN 完成 P 图。这是 DragGAN 的官方源码，它支持通过鼠标拖拽的方式对图像进行编辑。任何人都可以通过精确控制像素去向，轻松修改图像中物体的姿态、表情、形状、布局等。例如，可以让图片上原本站着的小狗坐下。
+32、[DragGAN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/XingangPan/DragGAN)：拖动 GAN 完成 P 图。这是 DragGAN 的官方源码，它支持通过鼠标拖拽的方式对图像进行编辑。任何人都可以通过精确控制像素去向，轻松修改图像中物体的姿态、表情、形状、布局等。例如，可以让图片上原本站着的小狗坐下。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/642323624.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[mediapipe](https://hellogithub.com/periodical/statistics/click?target=https://github.com/google-ai-edge/mediapipe)：谷歌开源的跨平台机器学习框架。它是一个能够轻松部署到移动端、Web、PC 和物联网设备的机器学习工具库，包含了物体检测、图像分类、人脸识别、手势识别、文本分类、语言检测、音频分类等模型。
+33、[mediapipe](https://hellogithub.com/periodical/statistics/click?target=https://github.com/google-ai-edge/mediapipe)：谷歌开源的跨平台机器学习框架。它是一个能够轻松部署到移动端、Web、PC 和物联网设备的机器学习工具库，包含了物体检测、图像分类、人脸识别、手势识别、文本分类、语言检测、音频分类等模型。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/191820100.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 其它
+34、[awesome-macos-screensavers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/agarrharr/awesome-macos-screensavers)：令人惊艳的 macOS 屏保集合。这里有不同风格、样式、趣味性十足的 macOS 屏保，相信总有一款适合你。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/30559599.png' style="max-width:80%; max-height=80%;"></img></p>
+
+35、[personal-security-checklist](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Lissy93/personal-security-checklist)：保护你的数字安全和隐私的清单。这是一份教你如何保护个人信息的列表，包括密码、浏览网页、电子邮件、社交网络、手机、电脑等方面。
+
+36、[radian](https://hellogithub.com/periodical/statistics/click?target=https://github.com/randy3k/radian)：更先进的 R 语言控制台。该项目可作为 R 语言自带控制台的替代品，它支持自动补全、多行编辑和语法高亮，更方便、更好用。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/86867223.png' style="max-width:80%; max-height=80%;"></img></p>
+
+37、[web-vitals](https://hellogithub.com/periodical/statistics/click?target=https://github.com/GoogleChrome/web-vitals)：Google 开源的核心页面指标。该指标可以帮助站长提升网站的用户体验，它分为 LCP(加载性能)、FID(交互性)、CLS(视觉稳定性) 三个方面。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/249512698.png' style="max-width:80%; max-height=80%;"></img></p>
+
+38、[XiangShan](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OpenXiangShan/XiangShan)：一款国产的开源 RISC-V 处理器。“香山”是由中国科学院计算技术研究所牵头发起的开源 RISC-V 处理器项目。
+
+### 开源书籍
+39、[Clean-Code-Notes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/JuanCrg90/Clean-Code-Notes)：一本关于如何写出 Clean Code 的书。该书从什么是 Clean Code 讲起，一步步教你如何写出简洁、容易理解和维护的代码，帮助你养成良好的编码习惯。
 
 
 
@@ -282,7 +282,7 @@ panorama = stitcher.stitch(["img?.jpg"])
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>
