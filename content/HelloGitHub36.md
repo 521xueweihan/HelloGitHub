@@ -104,7 +104,7 @@ $ etcdctl get mykey
 ```
 
 
-7、[gitness](https://hellogithub.com/periodical/statistics/click?target=https://github.com/harness/gitness)：一个基于 Docker 的持续集成平台，使用 Go 语言编写
+7、[harness](https://hellogithub.com/periodical/statistics/click?target=https://github.com/harness/harness)：一个基于 Docker 的持续集成平台，使用 Go 语言编写
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/16607898.png' style="max-width:80%; max-height=80%;"></img></p>

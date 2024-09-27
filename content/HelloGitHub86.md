@@ -210,7 +210,7 @@ play(guitar, bpm=100, instrument=25)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/97860533.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[swift-foundation](https://hellogithub.com/periodical/statistics/click?target=https://github.com/apple/swift-foundation)：用 Swift 重写后的 Foundation 框架。Foundation 框架是 macOS 和 iOS 的基础组件(标准库)，该项目是 Apple 用 Swift 重写后的 Foundation 源码，它更快、更安全。
+33、[swift-foundation](https://hellogithub.com/periodical/statistics/click?target=https://github.com/swiftlang/swift-foundation)：用 Swift 重写后的 Foundation 框架。Foundation 框架是 macOS 和 iOS 的基础组件(标准库)，该项目是 Apple 用 Swift 重写后的 Foundation 源码，它更快、更安全。
 
 ### 人工智能
 34、[AI4Animation](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sebastianstarke/AI4Animation)：AI 生成游戏角色动画。该项目可以基于原始的动作捕捉数据，生成更加自然、可控的角色动画，解决两足、四足动物的动画生成问题，比如无需人为干涉就能生成坐下、跳跃、开门、武术等复杂动作的动画。来自 [@松果](https://hellogithub.com/user/EFn7Z3e6r0cIpLS) 的分享

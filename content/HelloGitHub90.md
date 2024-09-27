@@ -257,7 +257,7 @@ if __name__ == "__main__":
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/459466436.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[jax](https://hellogithub.com/periodical/statistics/click?target=https://github.com/google/jax)：谷歌开源的高性能科学计算库。这是一个结合了即时编译(JIT)、自动求导(Autograd)、线性代数编译器(XLA) 的数值计算 Python 库，用法和 NumPy 差不多。但 JAX 更快、更省内存，支持自动微分、自动向量化、并行计算等功能。
+34、[jax](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jax-ml/jax)：谷歌开源的高性能科学计算库。这是一个结合了即时编译(JIT)、自动求导(Autograd)、线性代数编译器(XLA) 的数值计算 Python 库，用法和 NumPy 差不多。但 JAX 更快、更省内存，支持自动微分、自动向量化、并行计算等功能。
 ```python
 from jax import grad
 import jax.numpy as jnp
