@@ -1,3 +1,4 @@
+cd /ruta/a/tu/repositorio
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/readme.gif"/>
   <br><a href="README.md">中文</a> | <a href="README_en.md">English</a> | 日本語
