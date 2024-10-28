@@ -264,7 +264,7 @@ render(<Player sources={sources} />)
 31、[GNNPapers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/thunlp/GNNPapers)：自从卷积神级网络面世以来，大部分人将其应用在规则的空间结构数据当中，比如图像。但是现实中存在更多的并不具备规则的空间结构的数据，因此研究人员提出了处理这部分数据的网络模型-GNN。该项目列举了 GNN 方面的论文，较为全面，适合有一定基础的人阅读
 
 
-32、[QuickDraw](https://hellogithub.com/periodical/statistics/click?target=https://github.com/uvipen/QuickDraw)：谷歌开发的一个流行的在线游戏，神经网络会猜测你在画什么。神经网络从每幅图画中学习，提高正确猜测涂鸦内容的能力。现在你可以基于这个仓库，用 Python 构建自己的 Quick Draw 游戏
+32、[QuickDraw](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vietnh1009/QuickDraw)：谷歌开发的一个流行的在线游戏，神经网络会猜测你在画什么。神经网络从每幅图画中学习，提高正确猜测涂鸦内容的能力。现在你可以基于这个仓库，用 Python 构建自己的 Quick Draw 游戏
 
 
 33、[Virgilio](https://hellogithub.com/periodical/statistics/click?target=https://github.com/virgili0/Virgilio)：本资源库旨在为以下领域提供三种有机完整的学习路径：机器学习、商业智能、云计算。在此你将能够了解相关原理并且在项目实践中予以运用。如果仔细遵循这些学习路径，则可以从零开始构建完整的认识和获得始终可用的技能。事实上，这些学习路径不需要之前有相关知识，但基础编程和简单数学是理解和实践大多数相关概念的必要条件

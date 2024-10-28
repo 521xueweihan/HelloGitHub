@@ -71,7 +71,7 @@ SELECT * FROM 'HelloGitHub.parquet';
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/221849341.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[carbon](https://hellogithub.com/periodical/statistics/click?target=https://github.com/golang-module/carbon)：一个对开发者友好的 Go 时间处理库。这是一个功能丰富、容易上手的 Go 时间库，支持时间转换、时间差、时间旅行、星座、季节、农历、多语言等功能。
+12、[carbon](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dromara/carbon)：一个对开发者友好的 Go 时间处理库。这是一个功能丰富、容易上手的 Go 时间库，支持时间转换、时间差、时间旅行、星座、季节、农历、多语言等功能。
 ```go
 lang := carbon.NewLanguage()
 lang.SetLocale("zh-CN")

@@ -268,7 +268,7 @@ class SquareToCircle(Scene):
 # 运行：manim -p -ql example.py SquareToCircle
 ```
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/265122478.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/265122478.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 27、[sunfish](https://hellogithub.com/periodical/statistics/click?target=https://github.com/thomasahle/sunfish)：100 多行代码的 Python 国际象棋引擎。一个仅用 Python 标准库和 131 行代码实现的命令行国际象棋游戏。它注释丰富结构清晰，核心代码由国际象棋逻辑、策略搜索和用户界面三个部分组成。
 

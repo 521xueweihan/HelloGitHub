@@ -143,7 +143,7 @@ public class GlobalMouseWheelListenerExample implements NativeMouseWheelListener
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/68/417768406.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
-19、[django-debug-toolbar](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jazzband/django-debug-toolbar)：Django 的调试工具栏。可显示当前请求和响应有关的各种调试信息，包括耗时、SQL、配置、性能等信息
+19、[django-debug-toolbar](https://hellogithub.com/periodical/statistics/click?target=https://github.com/django-commons/django-debug-toolbar)：Django 的调试工具栏。可显示当前请求和响应有关的各种调试信息，包括耗时、SQL、配置、性能等信息
 ```
 1. 安装：pip install django-debug-toolbar
 2. TEMPLATES = [

@@ -328,7 +328,7 @@ textdistance.hamming.normalized_similarity('test', 'text')
 27、[deep-learning-for-image-processing](https://hellogithub.com/periodical/statistics/click?target=https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)：深度学习在图像处理方面的教程。该项目配以视频的方式介绍知识点和搭建方法，对应的 PTT 在 course_ppt 目录下
 
 
-28、[jina](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jina-ai/jina)：一款易用的神经搜索框架。神经搜索是指用非结构化数据，搜索非结构化数据。Jina 简化了神经搜索系统的搭建流程，使开发者可以快速构建以图搜图、以文字搜图、问答机器人、照片去重、海量标签分类等应用
+28、[serve](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jina-ai/serve)：一款易用的神经搜索框架。神经搜索是指用非结构化数据，搜索非结构化数据。Jina 简化了神经搜索系统的搭建流程，使开发者可以快速构建以图搜图、以文字搜图、问答机器人、照片去重、海量标签分类等应用
 ```python
 from docarray import Document, DocumentArray
 from jina import Executor, Flow, requests

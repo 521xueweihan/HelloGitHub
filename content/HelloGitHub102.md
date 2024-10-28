@@ -25,7 +25,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/102/312430210.png' style="max-width:80%; max-height=80%;"></img></p>
 
-2、[FlappyBird](https://hellogithub.com/periodical/statistics/click?target=https://github.com/VadimBoev/FlappyBird)：仅 100KB 的愤怒小鸟游戏。该项目是用 C 语言编写的愤怒小鸟游戏（Flappy Bird），它运行流畅、安装包不到 100KB，适用于 Android 5.1 及以上系统。
+2、[FlappyBird](https://hellogithub.com/periodical/statistics/click?target=https://github.com/VadimBoev/FlappyBird)：仅 100KB 的像素鸟游戏。该项目是用 C 语言编写的飞翔的小鸟游戏（Flappy Bird），它运行流畅、安装包不到 100KB，适用于 Android 5.1 及以上系统。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/102/857252347.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -275,7 +275,7 @@ output = compiled_model({0: example.numpy()})
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub101.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub101.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub103.md">『下一期』</a>
 </p>
 
 ---

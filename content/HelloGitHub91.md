@@ -167,7 +167,18 @@ codespell some_file some_dir/ *.ext  # 检查目录下 ext 后缀文件
 codespell -w, --write-changes  # 显示修改建议
 ```
 
-24、[pwntools](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Gallopsled/pwntools)：知名的 CTF 框架和漏洞利用开发库。该项目是用 Python 编写的 CTF 框架，开箱即用地提供了远程连接、网络、汇编/反汇编、ELF 模块、生成 shellcode 等功能，让 CTF 选手可以专注于编写 EXP（利用漏洞的攻击逻辑）。
+24、[holidays](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vacanza/holidays)：处理假期的 Python 库。该项目支持动态生成国家/地区和省份公布的法定节假日，可以快速地判断指定日期是否为节假日。
+```python
+from datetime import date
+import holidays
+
+cn_holidays = holidays.CN()
+date(2021, 10, 1) in cn_holidays  # True
+date(2023, 10, 8) in cn_holidays  # False
+date(2024, 2, 9) in cn_holidays  # True 我看了下源码还未更新 2024 年的假期
+```
+
+25、[pwntools](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Gallopsled/pwntools)：知名的 CTF 框架和漏洞利用开发库。该项目是用 Python 编写的 CTF 框架，开箱即用地提供了远程连接、网络、汇编/反汇编、ELF 模块、生成 shellcode 等功能，让 CTF 选手可以专注于编写 EXP（利用漏洞的攻击逻辑）。
 ```python
 from pwn import *
 context(arch = 'i386', os = 'linux')
@@ -179,17 +190,6 @@ r.interactive()
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/9750233.png' style="max-width:80%; max-height=80%;"></img></p>
-
-25、[python-holidays](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vacanza/python-holidays)：处理假期的 Python 库。该项目支持动态生成国家/地区和省份公布的法定节假日，可以快速地判断指定日期是否为节假日。
-```python
-from datetime import date
-import holidays
-
-cn_holidays = holidays.CN()
-date(2021, 10, 1) in cn_holidays  # True
-date(2023, 10, 8) in cn_holidays  # False
-date(2024, 2, 9) in cn_holidays  # True 我看了下源码还未更新 2024 年的假期
-```
 
 26、[Qexo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Qexo/Qexo)：漂亮的 Hexo 静态博客编辑器。该项目是基于 Django 的 Hexo 静态博客管理后台，支持文章管理、多种图床、自动更新、友情链接、站点统计等功能。
 

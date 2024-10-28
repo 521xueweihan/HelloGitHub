@@ -68,7 +68,7 @@ xdotool selectwindow windowclose
 10、[rr](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rr-debugger/rr)：Linux 上的轻量级 C/C++ 调试工具。这是一款 Linux 上的轻量级调试 C/C++ 代码的工具，支持录制、重放和反向执行等操作，提供了一个可反复调试的环境，大大提升了调试效率。
 
 ### Go 项目
-11、[alist](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alist-org/alist)：一款支持多种存储的文件列表程序。它支持一键安装，能够方便地聚合散落在各处的文件，轻松实现文件在线查看服务。支持包括本地存储、阿里云盘、百度网盘、OneDrive 、WebDAV 等多种存储方式。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
+11、[alist](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AlistGo/alist)：一款支持多种存储的文件列表程序。它支持一键安装，能够方便地聚合散落在各处的文件，轻松实现文件在线查看服务。支持包括本地存储、阿里云盘、百度网盘、OneDrive 、WebDAV 等多种存储方式。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/323965659.png' style="max-width:80%; max-height=80%;"></img></p>
 

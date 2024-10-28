@@ -210,7 +210,7 @@ do {
 29、[funNLP](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fighting41love/funNLP)：中文词库的集合。可用于：敏感词、语言检测、拆字词典等
 
 
-30、[git-quick-stats](https://hellogithub.com/periodical/statistics/click?target=https://github.com/arzzen/git-quick-stats)：项目的 git 提交记录展示和统计的工具。支持：不同时间维度和用户名的统计、近期提交的概览等
+30、[git-quick-stats](https://hellogithub.com/periodical/statistics/click?target=https://github.com/git-quick-stats/git-quick-stats)：项目的 git 提交记录展示和统计的工具。支持：不同时间维度和用户名的统计、近期提交的概览等
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/79046698.png' style="max-width:80%; max-height=80%;"></img></p>
