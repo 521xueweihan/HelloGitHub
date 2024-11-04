@@ -1,4 +1,4 @@
-<cd /ruta/a/tu/repositorio
+ķ<cd /ruta/a/tu/repositorio
 a href="https://hellogithub.com/repository/462ede5011714854bb2779efad2aff7c" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=462ede5011714854bb2779efad2aff7c&claim_uid=udz7yZHjYsBVw4x" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>Here is a simple footnote[^1]. A footnote can also have multiple lines[^2]. [^1]: My reference. [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces. This is a second line.<p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/readme.gif"/>
   <br>中文 | <a href="README_en.md">English</a> | <a href="README_ja.md">日本語</a>
@@ -75,3 +75,61 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
 ## 声明
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。<a href="mailto:595666367@qq.com">联系我</a>
+{
+  "proyecto": "Marketing de Hormigas-ai",
+  "empresa": "Hormigasai S.A",
+  "aplicaciones": [
+    "Hormigasai App",
+    "Hormigasai Web",
+    "HormigasAIS"
+  ],
+  "integraciones": [
+    "GitHub",
+    "Slack",
+    "Trello",
+    "HubSpot",
+    "WordPress",
+    "Asana",
+    "Family Safety",
+    "Bitdefender",
+    "VPN"
+  ],
+  "correos_vinculados": [
+    "chrisquionez@hotmail.com",
+    "chrisquionez@outlook.com",
+    "chrisquionezartista@outlook.com",
+    "chrisquionez354@gmail.com",
+    "juanlopez59803@gmail.com"
+  ],
+  "detalles": {
+    "repositorios": [
+      {
+        "nombre": "heroku-wp",
+        "descripcion": "Configuración inicial de despliegue en Heroku",
+        "instrucciones": [
+          "Clona el repositorio",
+          "Inicia sesión en Heroku",
+          "Crea una nueva aplicación en Heroku",
+          "Añade Heroku como remoto",
+          "Despliega la aplicación",
+          "Abre la aplicación en tu navegador"
+        ]
+      },
+      {
+        "nombre": "Hormigasai",
+        "descripcion": "Proyecto principal de Hormigasai S.A",
+        "estado": "Activo"
+      }
+    ],
+    "bots": [
+      {
+        "nombre": "Bot de Atención al Cliente",
+        "funcion": "Automatización de respuestas a clientes"
+      },
+      {
+        "nombre": "Bot de Redes Sociales",
+        "funcion": "Gestión y análisis de redes sociales"
+      }
+    ]
+  }
+}
