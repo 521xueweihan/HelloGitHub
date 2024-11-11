@@ -1,0 +1,21 @@
+import Anthropic from "@anthropic-ai/sdk";
+
+const anthropic = new Anthropic({
+  apiKey: "<api key>",
+  baseURL: "https://api.x.ai/",
+});
+
+const msg = await anthropic.messages.create({
+  model: "grok-beta",
+  max_tokens: 128,
+  system:
+    "You are Grok, a chatbot inspired by the Hitchhiker's Guide to the Galaxy.",
+  messages: [
+    {
+      role: "user",
+      content: "What is the meaning of life, the universe, and everything?",
+    },
+  ],
+});
+
+console.log(msg);
