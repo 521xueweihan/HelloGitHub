@@ -21,34 +21,34 @@
 > **以下为本期内容**｜每个月 **28** 号更新
 
 ### CSS 项目
-1、[github-markdown-css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/github-markdown-css)：仿 GitHub 的 Markdown 的样式，就是使用了这个 CSS 后，Markdown 展示效果和 GitHub 的大致一样。[示例](https://sindresorhus.com/github-markdown-css/)
+1、[github-markdown-css](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sindresorhus/github-markdown-css)：仿 GitHub 的 Markdown 的样式，就是使用了这个 CSS 后，Markdown 展示效果和 GitHub 的大致一样。[示例](https://sindresorhus.com/github-markdown-css/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/19544711.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript 项目
-2、[ant-motion](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ant-design/ant-motion)：阿里开源的项目，一套 React 框架动效解决方案，可以帮助开发者，更容易的在项目中使用动效。同时可以方便快捷地制作一个公司的介绍页，[在线演示](https://motion.ant.design/)
+2、[ant-motion](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ant-design/ant-motion)：阿里开源的项目，一套 React 框架动效解决方案，可以帮助开发者，更容易的在项目中使用动效。同时可以方便快捷地制作一个公司的介绍页，[在线演示](https://motion.ant.design/)
 
 
-3、[jquery-weui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lihongxun945/jquery-weui)：可能是最好用 WeUI 版本，展示效果如下：
+3、[jquery-weui](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lihongxun945/jquery-weui)：可能是最好用 WeUI 版本，展示效果如下：
 
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/48972492.png' style="max-width:80%; max-height=80%;"></img></p>
 
-4、[listen1_desktop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/listen1/listen1_desktop)：Listen 1 让你用一个网页就能听到多个网站的在线音乐，支持各种平台。如图：
+4、[listen1_desktop](https://hellogithub.com/periodical/statistics/click?target=https://github.com/listen1/listen1_desktop)：Listen 1 让你用一个网页就能听到多个网站的在线音乐，支持各种平台。如图：
 
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/59187489.png' style="max-width:80%; max-height=80%;"></img></p>
 
-5、[ssbc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/78/ssbc)：Python Django 写的种子搜索网站——手撕包菜，如图：
+5、[ssbc](https://hellogithub.com/periodical/statistics/click?target=https://github.com/78/ssbc)：Python Django 写的种子搜索网站——手撕包菜，如图：
 
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/35296157.png' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[waitForImages](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alexanderdickson/waitForImages)：背景加载完事件，示例代码：
+6、[waitForImages](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alexanderdickson/waitForImages)：背景加载完事件，示例代码：
 ```html
 <script type="text/javascript" src="http://catmull.uk/downloads/bg-loaded/bg-loaded.js"></script>
 <script type="text/javascript">
@@ -61,22 +61,16 @@
 ```
 
 
-7、[wechat-h5-boilerplate](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/panteng/wechat-h5-boilerplate)：为腾讯微信优化的 HTML5 动效模板，帮助你快速构建全屏滚动型 HTML5 页面，[示例](https://panteng.github.io/wechat-h5-boilerplate/)
+7、[wechat-h5-boilerplate](https://hellogithub.com/periodical/statistics/click?target=https://github.com/panteng/wechat-h5-boilerplate)：为腾讯微信优化的 HTML5 动效模板，帮助你快速构建全屏滚动型 HTML5 页面，[示例](https://panteng.github.io/wechat-h5-boilerplate/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/48837302.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
-8、[algorithm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/qiwsir/algorithm)：老齐的 Python 算法教程
+8、[algorithm](https://hellogithub.com/periodical/statistics/click?target=https://github.com/qiwsir/algorithm)：老齐的 Python 算法教程
 
 
-9、[luokr.com](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alvan/luokr.com)：Python Tornado 写的开源网站——螺壳网，[访问](http://luokr.com/)，如图：
-
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/02/16545854.png' style="max-width:80%; max-height=80%;"></img></p>
-
-10、[mincss](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/peterbe/mincss)：Python 写的用来找到 CSS 中没有用到的代码片段，并删除。适用于：想要做一个页面，但是不会写 CSS 人。示例代码如下：
+9、[mincss](https://hellogithub.com/periodical/statistics/click?target=https://github.com/peterbe/mincss)：Python 写的用来找到 CSS 中没有用到的代码片段，并删除。适用于：想要做一个页面，但是不会写 CSS 人。示例代码如下：
 ```python
 #coding:utf-8
 #!/usr/bin/env python
@@ -119,10 +113,10 @@ if __name__ == '__main__':
 ```
 
 
-11、[python-gems](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RealHacker/python-gems)：有趣的 Pyhton 代码片段集合
+10、[python-gems](https://hellogithub.com/periodical/statistics/click?target=https://github.com/RealHacker/python-gems)：有趣的 Pyhton 代码片段集合
 
 
-12、[python-goose](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/grangier/python-goose)：Goose 用于文章提取器，提取中文内容的示例代码：
+11、[python-goose](https://hellogithub.com/periodical/statistics/click?target=https://github.com/grangier/python-goose)：Goose 用于文章提取器，提取中文内容的示例代码：
 ```python
 >>> from goose import Goose
 >>> from goose.text import StopWordsChinese
@@ -139,7 +133,7 @@ if __name__ == '__main__':
 
 
 ### 其它
-13、[leetcode-solutions](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RealHacker/leetcode-solutions)：Leetcode OJ 的 Python 算法实现
+12、[leetcode-solutions](https://hellogithub.com/periodical/statistics/click?target=https://github.com/RealHacker/leetcode-solutions)：Leetcode OJ 的 Python 算法实现
 
 
 
@@ -155,6 +149,45 @@ if __name__ == '__main__':
     不仅能第一时间收到推送，还有回馈粉丝的活动<br>
     如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/02'>这里</a>。
 </p>
+
+## 赞助
+
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" style="width: 80px;">
+        <a href="https://www.ucloud.cn/site/active/gpu.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+          <sub>UCloud</sub><br>
+          <sub>超值的GPU云服务</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://www.upyun.com/?from=hellogithub">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
+          <sub>CDN</sub><br>
+          <sub>开启全网加速</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/OpenIMSDK/Open-IM-Server">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/im.png" width="60px"><br>
+          <sub>OpenIM</sub><br>
+          <sub>开源IM力争No.1</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://apifox.cn/a103hello">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
+          <sub>Apifox</sub><br>
+          <sub>比 Postman 更强大</sub>
+        </a>
+      </th>
+    </tr>
+  </thead>
+</table>
+
 
 ## 声明
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。
