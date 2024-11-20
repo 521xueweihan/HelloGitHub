@@ -259,10 +259,29 @@ buildscript {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/444267396.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Rust 项目
-30、[tui-rs](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fdehau/tui-rs)：用来构建丰富的终端用户界面的库
+30、[ratatui](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ratatui/ratatui)：用 Rust 打造终端界面的框架。这是一个用于构建终端用户界面（TUI） 的 Rust 库，源自 tui-rs 项目的分支。它提供了一组小部件和工具，支持跨平台、即时渲染、灵活布局和自定义样式，能够帮助开发者创建复杂的终端界面。来自 [@1plus](https://hellogithub.com/user/4qd5GYFf2LORkiz) 的分享
+```rust
+use crossterm::event::{self, Event};
+use ratatui::{text::Text, Frame};
 
+fn main() {
+    let mut terminal = ratatui::init();
+    loop {
+        terminal.draw(draw).expect("failed to draw frame");
+        if matches!(event::read().expect("failed to read event"), Event::Key(_)) {
+            break;
+        }
+    }
+    ratatui::restore();
+}
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/73169350.gif' style="max-width:80%; max-height=80%;"></img></p>
+fn draw(frame: &mut Frame) {
+    let text = Text::raw("Hello World!");
+    frame.render_widget(text, frame.area());
+}
+```
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/600886023.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift 项目
 31、[DevUtils-app](https://hellogithub.com/periodical/statistics/click?target=https://github.com/DevUtilsApp/DevUtils-app)：macOS 上的开发者实用工具箱。单机应用无需联网，内含开发者开发时经常用到的 30 多种工具，比如：URL 解码、JSON 格式化、正则匹配、时间戳转化等，而且还会根据剪贴板的内容，自动推荐对应的处理工具，实用且高效
@@ -352,7 +371,7 @@ try app.run()
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/gpu.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>

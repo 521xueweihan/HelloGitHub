@@ -158,7 +158,7 @@ java -jar plantuml.jar 文本文件
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/111605778.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
-23、[dooit](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kraanzu/dooit)：命令行待办事项工具。用 Python 写的交互式命令行 todo 工具，操作简单支持快捷键和鼠标，界面精致可自定义主题和图标。
+23、[dooit](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dooit-org/dooit)：命令行待办事项工具。用 Python 写的交互式命令行 todo 工具，操作简单支持快捷键和鼠标，界面精致可自定义主题和图标。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/483289068.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -322,7 +322,7 @@ mackup restore
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/gpu.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>
