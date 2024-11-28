@@ -91,7 +91,7 @@ c.Now().AddHours(1).Constellation() // 狮子座
 c.Now().AddHours(1).Season() // 夏季
 ```
 
-13、[nezha](https://hellogithub.com/periodical/statistics/click?target=https://github.com/naiba/nezha)：国产的轻量级服务器监控工具。这是一款名为“哪吒”的服务器监控面板，它安装简单、开箱即用，支持监控多个服务器的系统状态、SSL 证书状态、报警通知、流量监控、设置定时任务等功能，适用于 Linux、Windows、macOS、OpenWRT 等主流系统。来自 [@两双筷子sqldc](https://hellogithub.com/user/5dGtvaZ6H3L4QMY) 的分享
+13、[nezha](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nezhahq/nezha)：国产的轻量级服务器监控工具。这是一款名为“哪吒”的服务器监控面板，它安装简单、开箱即用，支持监控多个服务器的系统状态、SSL 证书状态、报警通知、流量监控、设置定时任务等功能，适用于 Linux、Windows、macOS、OpenWRT 等主流系统。来自 [@两双筷子sqldc](https://hellogithub.com/user/5dGtvaZ6H3L4QMY) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/220588935.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
