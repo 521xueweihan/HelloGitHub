@@ -1,3 +1,13 @@
+## Implementación del Acordeón
+
+### Descripción
+El acordeón es un componente de interfaz de usuario que permite organizar y mostrar información de manera compacta y accesible. Este componente fue desarrollado utilizando configuraciones y código del repositorio **Thrumanshow** en GitHub, y fue analizado por una inteligencia artificial antes de ser compartido en la aplicación Droipscrip.
+
+### Función Principal
+```javascript
+acc = ui.addAccordion(parent, titles, options?, width?, height?) → ui object: Accordion
+
+
 ķ<cd /ruta/a/tu/repositorio
 a href="https://hellogithub.com/repository/462ede5011714854bb2779efad2aff7c" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=462ede5011714854bb2779efad2aff7c&claim_uid=udz7yZHjYsBVw4x" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>Here is a simple footnote[^1]. A footnote can also have multiple lines[^2]. [^1]: My reference. [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces. This is a second line.<p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/readme.gif"/>
