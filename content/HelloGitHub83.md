@@ -105,7 +105,7 @@ int main(){
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/1690480.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Go 项目
-11、[Dragonfly2](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dragonflyoss/Dragonfly2)：一款基于 P2P 的智能镜像和文件分发工具。它提供了高效、稳定、安全的基于 P2P 技术的文件分发和镜像加速系统，能够提高大规模文件传输的效率和速率，最大限度地利用网络带宽，适用于应用分发、缓存分发、日志分发和镜像分发等领域。来自 [@Gaius](https://hellogithub.com/user/Jn3TOfINLBjmQUS) 的分享
+11、[dragonfly](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dragonflyoss/dragonfly)：一款基于 P2P 的智能镜像和文件分发工具。它提供了高效、稳定、安全的基于 P2P 技术的文件分发和镜像加速系统，能够提高大规模文件传输的效率和速率，最大限度地利用网络带宽，适用于应用分发、缓存分发、日志分发和镜像分发等领域。来自 [@Gaius](https://hellogithub.com/user/Jn3TOfINLBjmQUS) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/309874357.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -414,8 +414,7 @@ $ curl http://localhost:5000/predictions -X POST \
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>
         </a>

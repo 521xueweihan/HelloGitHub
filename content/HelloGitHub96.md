@@ -113,7 +113,7 @@ XXH32_hash_t hash_string(const char* string, XXH32_hash_t seed)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/722152303.png' style="max-width:80%; max-height=80%;"></img></p>
 
-20、[nutui](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jdf2e/nutui)：京东风格的移动端 Vue 组件库。该项目是由京东开源的移动端 Vue 组件库，专为移动端 H5 和小程序开发场景而设计。它内含 80 多个高质量组件，支持按需引用、TypeScript、国际化等特性。
+20、[nutui](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jd-opensource/nutui)：京东风格的移动端 Vue 组件库。该项目是由京东开源的移动端 Vue 组件库，专为移动端 H5 和小程序开发场景而设计。它内含 80 多个高质量组件，支持按需引用、TypeScript、国际化等特性。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/118392397.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -255,8 +255,7 @@ Version: 2.7
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>
         </a>

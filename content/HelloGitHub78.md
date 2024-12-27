@@ -241,7 +241,7 @@ INSTALLED_APPS = (
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/78/15333471.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[pendulum](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sdispater/pendulum)：让 Python 处理时间更简单的库。该项目不仅提供了更加简单易用的 API，而且还兼容 datetime 标准库，可以直接替代码中的 datetime 对象。它提供了很多人性化的时间处理方式，比如时间加减、多长时间的描述以及时区的处理等等。
+30、[pendulum](https://hellogithub.com/periodical/statistics/click?target=https://github.com/python-pendulum/pendulum)：让 Python 处理时间更简单的库。该项目不仅提供了更加简单易用的 API，而且还兼容 datetime 标准库，可以直接替代码中的 datetime 对象。它提供了很多人性化的时间处理方式，比如时间加减、多长时间的描述以及时区的处理等等。
 ```python
 >>> import pendulum
 
@@ -369,8 +369,7 @@ image.save("astronaut_rides_horse.png")
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>
         </a>

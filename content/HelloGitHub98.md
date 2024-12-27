@@ -79,7 +79,7 @@ fmt.Printf("This was touched %s.", humanize.Time(someTimeInstance)) // This was 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/774468912.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java 项目
-12、[Acode](https://hellogithub.com/periodical/statistics/click?target=https://github.com/deadlyjack/Acode)：Android 手机上的代码编辑器。这是一款专为 Android 设备设计的代码编辑工具，它是轻量级的 Web IDE，具有即时预览、控制台和丰富的插件等特点，支持 HTML、Python、Java、JavaScript 等多种编程语言。来自 [@虾华](https://hellogithub.com/user/ckl6eKxwCuRyVJI) 的分享
+12、[Acode](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Acode-Foundation/Acode)：Android 手机上的代码编辑器。这是一款专为 Android 设备设计的代码编辑工具，它是轻量级的 Web IDE，具有即时预览、控制台和丰富的插件等特点，支持 HTML、Python、Java、JavaScript 等多种编程语言。来自 [@虾华](https://hellogithub.com/user/ckl6eKxwCuRyVJI) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/217150613.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -286,8 +286,7 @@ print(response)
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>
         </a>
