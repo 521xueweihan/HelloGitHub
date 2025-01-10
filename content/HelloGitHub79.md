@@ -333,7 +333,7 @@ code2flow 文件
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/47140131.png' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[testssl.sh](https://hellogithub.com/periodical/statistics/click?target=https://github.com/drwetter/testssl.sh)：测试 TLS/SSL 加密的工具。它可以用来检查 Web 服务是否支持 TLS/SSL 加密和协议，以及存在的缺陷。
+40、[testssl.sh](https://hellogithub.com/periodical/statistics/click?target=https://github.com/testssl/testssl.sh)：测试 TLS/SSL 加密的工具。它可以用来检查 Web 服务是否支持 TLS/SSL 加密和协议，以及存在的缺陷。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/21385916.png' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -91,7 +91,7 @@ $pinyin->convert('带着希望去旅行，比到达终点更美好', PINYIN_ASCI
 11、[security-guide-for-developers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/FallibleInc/security-guide-for-developers)：这是一个实际工作中会用到的安全 checklist。作为一个 real world web developer 你应该在实际工作中不断地谨慎使用这套列表，减少安全隐患。[中文翻译版](https://github.com/FallibleInc/security-guide-for-developers/blob/master/README-zh.md)
 
 
-12、[Solve-App-Store-Review-Problem](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wg689/Solve-App-Store-Review-Problem)：App Store 审核未通过的解决方案。
+12、[Solve-App-Store-Review-Problem](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zhichengfalv/Solve-App-Store-Review-Problem)：App Store 审核未通过的解决方案。
 
 
 

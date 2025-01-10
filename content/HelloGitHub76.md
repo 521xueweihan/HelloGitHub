@@ -68,7 +68,7 @@ ImGui::SliderFloat("float", &f, 0.0f, 1.0f);
 ### CSS 项目
 9、[css-protips](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AllThingsSmitty/css-protips)：CSS 专业技巧。一个帮你提升 CSS 技巧的收藏集。
 
-10、[ui-buttons](https://hellogithub.com/periodical/statistics/click?target=https://github.com/eludadev/ui-buttons)：CSS 按钮样式集合。该项目实现了 100 种不同样式的按钮。
+10、[ui-buttons](https://hellogithub.com/periodical/statistics/click?target=https://github.com/youneslaaroussi/ui-buttons)：CSS 按钮样式集合。该项目实现了 100 种不同样式的按钮。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/492267422.png' style="max-width:80%; max-height=80%;"></img></p>
 

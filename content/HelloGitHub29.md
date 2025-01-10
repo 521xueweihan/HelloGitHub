@@ -36,7 +36,7 @@
 
 
 ### Go 项目
-4、[dgraph](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dgraph-io/dgraph)：开源、免费的分布式图数据库。如果你在构建用户关系系统，图数据库绝对是比关系型数据库更好的选择。通过 SPARQL 查询一个用户相关的其他用户会比 SQL 快百倍。自带图形界面、RDF 导入工具等必备工具。安装：`curl https://get.dgraph.io -sSf | bash`
+4、[dgraph](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hypermodeinc/dgraph)：开源、免费的分布式图数据库。如果你在构建用户关系系统，图数据库绝对是比关系型数据库更好的选择。通过 SPARQL 查询一个用户相关的其他用户会比 SQL 快百倍。自带图形界面、RDF 导入工具等必备工具。安装：`curl https://get.dgraph.io -sSf | bash`
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/29/41349039.png' style="max-width:80%; max-height=80%;"></img></p>

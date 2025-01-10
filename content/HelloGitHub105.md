@@ -111,7 +111,7 @@ sugar.Infof("Failed to fetch URL: %s", url)
 
 14、[javaparser](https://hellogithub.com/periodical/statistics/click?target=https://github.com/javaparser/javaparser)：强大的 Java 代码解析库。这是一个纯 Java 实现的解析库，专为解析、分析和生成 Java 代码而设计。它能够将 Java 代码解析为抽象语法树（AST），支持从 Java 1.0 到 Java 21 版本。可用于开发代码分析工具、重构工具、编译器等。
 
-15、[kestra](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kestra-io/kestra)：事件驱动的声明式编排平台。这是一个基于 Java 开发的事件驱动编排平台，旨在简化计划性和事件驱动工作流。它提供直观的 Web 界面，内置代码编辑器和数百个插件，用户可以通过 YAML 代码轻松构建可靠的工作流，支持编排微服务、批处理任务、临时脚本、SQL 查询、数据同步等多种任务。来自 [@啊gBAfV](https://hellogithub.com/user/eK0Bv1dmJPxnrwy) 的分享
+15、[kestra](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kestra-io/kestra)：事件驱动的声明式编排平台。这是一个基于 Java 开发的事件驱动编排平台，旨在简化计划性和事件驱动工作流。它提供直观的 Web 界面，内置代码编辑器和数百个插件，用户可以通过 YAML 代码轻松构建可靠的工作流，支持编排微服务、批处理任务、临时脚本、SQL 查询、数据同步等多种任务。来自 [@IZRINO](https://hellogithub.com/user/eK0Bv1dmJPxnrwy) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/105/204164353.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -178,7 +178,7 @@ INFO:     Uvicorn running on http://127.0.0.1:8888 (Press CTRL+C to quit)
 INFO:     Finished server process [2014]
 ```
 
-25、[runlike](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lavie/runlike)：快速获取 Docker 容器启动命令的工具。这是一个用于解析运行中容器的工具，可自动生成对应的 docker run 启动命令。它能够提取容器的配置信息，包括包括端口绑定、映射卷、环境变量、网络设置等，适用于复制、调试或迁移容器的场景。来自 [@猎隼丶止戈reNo7](https://hellogithub.com/user/Ew59HqRWjPe0zZO) 的分享
+25、[runlike](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lavie/runlike)：快速获取 Docker 容器启动命令的工具。这是一个用于解析运行中容器的工具，可自动生成对应的 docker run 启动命令。它能够提取容器的配置信息，包括端口绑定、映射卷、环境变量、网络设置等，适用于复制、调试或迁移容器的场景。来自 [@猎隼丶止戈reNo7](https://hellogithub.com/user/Ew59HqRWjPe0zZO) 的分享
 ```
 $ runlike -p redis
 
@@ -211,7 +211,7 @@ vizviewer result.json
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/105/324025361.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[zoxide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ajeetdsouza/zoxide)：更智能的 cd 命令。这是一个用 Rust 编写的高效 cd 命令工具，灵感来自 z 和 autojump。它能够根据用户访问频率自动排序目录，快速定位最可能的目标目录，并支持模糊匹配和交互选择。来自 [@啊gBAfV](https://hellogithub.com/user/eK0Bv1dmJPxnrwy) 的分享
+28、[zoxide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ajeetdsouza/zoxide)：更智能的 cd 命令。这是一个用 Rust 编写的高效 cd 命令工具，灵感来自 z 和 autojump。它能够根据用户访问频率自动排序目录，快速定位最可能的目标目录，并支持模糊匹配和交互选择。来自 [@IZRINO](https://hellogithub.com/user/eK0Bv1dmJPxnrwy) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/105/245166720.gif' style="max-width:80%; max-height=80%;"></img></p>
 
