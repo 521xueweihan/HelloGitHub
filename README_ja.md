@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://hellogithub.com/repository/d4aae58ddbf34f0799bf3e8f965e0d70" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=d4aae58ddbf34f0799bf3e8f965e0d70&claim_uid=8MKvZoxaWt" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a><br>
   <a href="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png"><img src="https://img.shields.io/badge/Talk-WeChat-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
   <a href="https://github.com/521xueweihan/HelloGitHub/stargazers"><img src="https://img.shields.io/github/stars/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub stars"></a>
   <a href="https://github.com/521xueweihan/HelloGitHub/issues"><img src="https://img.shields.io/github/issues/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub issues"></a>
@@ -24,6 +23,7 @@
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
+| [第 106 号](/content/HelloGitHub106.md) |
 | [第 105 号](/content/HelloGitHub105.md) | [第 104 号](/content/HelloGitHub104.md) | [第 103 号](/content/HelloGitHub103.md) | [第 102 号](/content/HelloGitHub102.md) | [第 101 号](/content/HelloGitHub101.md) |
 | [第 100 号](/content/HelloGitHub100.md) | [第 99 号](/content/HelloGitHub99.md) | [第 98 号](/content/HelloGitHub98.md) | [第 97 号](/content/HelloGitHub97.md) | [第 96 号](/content/HelloGitHub96.md) |
 | [第 95 号](/content/HelloGitHub95.md) | [第 94 号](/content/HelloGitHub94.md) | [第 93 号](/content/HelloGitHub93.md) | [第 92 号](/content/HelloGitHub92.md) | [第 91 号](/content/HelloGitHub91.md) |
@@ -31,7 +31,6 @@
 | [第 85 号](/content/HelloGitHub85.md) | [第 84 号](/content/HelloGitHub84.md) | [第 83 号](/content/HelloGitHub83.md) | [第 82 号](/content/HelloGitHub82.md) | [第 81 号](/content/HelloGitHub81.md) |
 | [第 80 号](/content/HelloGitHub80.md) | [第 79 号](/content/HelloGitHub79.md) | [第 78 号](/content/HelloGitHub78.md) | [第 77 号](/content/HelloGitHub77.md) | [第 76 号](/content/HelloGitHub76.md) |
 | [第 75 号](/content/HelloGitHub75.md) | [第 74 号](/content/HelloGitHub74.md) | [第 73 号](/content/HelloGitHub73.md) | [第 72 号](/content/HelloGitHub72.md) | [第 71 号](/content/HelloGitHub71.md) |
-| [第 70 号](/content/HelloGitHub70.md) | [第 69 号](/content/HelloGitHub69.md) | [第 68 号](/content/HelloGitHub68.md) | [第 67 号](/content/HelloGitHub67.md) | [第 66 号](/content/HelloGitHub66.md) |
 
 
 ## ライセンス

@@ -107,7 +107,6 @@ Column a = (Column) equalsTo.getLeftExpression();
 Column b = (Column) equalsTo.getRightExpression();
 Assertions.assertEquals("a", a.getColumnName());
 Assertions.assertEquals("b", b.getColumnName());
-}
 ```
 
 15、[odc](https://hellogithub.com/periodical/statistics/click?target=https://github.com/oceanbase/odc)：企业级数据库协同开发平台。该项目是提供数据库协同开发和数据管理的平台，专为提升 SQL 开发效率而设计。它基于 Spring Boot 和 Electron 构建，提供了 Web 和桌面客户端，支持 SQL 规范检查、变更回滚、数据生命周期管理、数据脱敏和操作审计等功能，兼容 OceanBase、Oracle、MySQL 和 Doris 等多种数据源。来自 [@XiaoYangGzeyP](https://hellogithub.com/user/QfYG9d5Kt2nqWPJ) 的分享

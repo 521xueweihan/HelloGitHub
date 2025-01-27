@@ -100,7 +100,6 @@ Column a = (Column) equalsTo.getLeftExpression();
 Column b = (Column) equalsTo.getRightExpression();
 Assertions.assertEquals("a", a.getColumnName());
 Assertions.assertEquals("b", b.getColumnName());
-}
 ```
 
 15、[odc](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/oceanbase/odc)：Enterprise-Level Database Collaborative Development Platform. This project is a platform designed for collaborative database development and data management, specifically to enhance the efficiency of SQL development. It is built on Spring Boot and Electron, providing both web and desktop clients, with features such as SQL specification checking, change rollback, data lifecycle management, data desensitization, and operational auditing, compatible with various data sources including OceanBase, Oracle, MySQL, and Doris.Shared by [@XiaoYangGzeyP](https://hellogithub.com/en/user/QfYG9d5Kt2nqWPJ)

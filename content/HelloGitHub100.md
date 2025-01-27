@@ -226,11 +226,7 @@ Average complexity: F (61.0)
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/511961615.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 人工智能
-31、[gpt-computer-assistant](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Upsonic/gpt-computer-assistant)：极简的 GPT-4o 客户端。该项目是适用于 Windows、macOS 和 Ubuntu 的 GPT-4o 客户端，它拥有极简的用户界面，支持执行多种任务，包括读取屏幕、打开应用、系统音频和文本输入等。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/806192576.png' style="max-width:80%; max-height=80%;"></img></p>
-
-32、[mem0](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mem0ai/mem0)：增强 LLM 上下文连续性的 Python 库。该项目能为多种主流的大型语言模型提供记忆层，它支持保存用户与 LLM 交互时的会话和上下文，并能实时动态更新和调整，从而增强 AI 的个性化，适用于学习助手、医疗助理和虚拟伴侣等需要长期记忆的个性化 LLM 应用。
+31、[mem0](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mem0ai/mem0)：增强 LLM 上下文连续性的 Python 库。该项目能为多种主流的大型语言模型提供记忆层，它支持保存用户与 LLM 交互时的会话和上下文，并能实时动态更新和调整，从而增强 AI 的个性化，适用于学习助手、医疗助理和虚拟伴侣等需要长期记忆的个性化 LLM 应用。
 ```python
 from mem0 import Memory
 m = Memory()
@@ -242,9 +238,13 @@ related_memories = m.search(query="What are Alice's hobbies?", user_id="alice")
 result = m.update(memory_id="m1", data="Likes to play tennis on weekends")
 ```
 
-33、[Retrieval-based-Voice-Conversion-WebUI](https://hellogithub.com/periodical/statistics/click?target=https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)：开箱即用的 AI 变声器。该项目是基于 VITS 的变声框架，仅需少量语音数据和普通的显卡，就能快速训练出高质量的语音转换模型。它提供了简单易用的 Web 和 GUI 界面，支持实时变声、人声和伴奏分离等功能。
+32、[Retrieval-based-Voice-Conversion-WebUI](https://hellogithub.com/periodical/statistics/click?target=https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)：开箱即用的 AI 变声器。该项目是基于 VITS 的变声框架，仅需少量语音数据和普通的显卡，就能快速训练出高质量的语音转换模型。它提供了简单易用的 Web 和 GUI 界面，支持实时变声、人声和伴奏分离等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/619521008.png' style="max-width:80%; max-height=80%;"></img></p>
+
+33、[Upsonic](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Upsonic/Upsonic)：极简的 GPT-4o 客户端。该项目是适用于 Windows、macOS 和 Ubuntu 的 GPT-4o 客户端，它拥有极简的用户界面，支持执行多种任务，包括读取屏幕、打开应用、系统音频和文本输入等。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/806192576.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
 34、[dart_simple_live](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xiaoyaocz/dart_simple_live)：简单易用的看直播工具。该项目可以让你在一个 APP 上看各种主流直播平台，并提供了 Android、iOS、macOS 和 Android TV 等客户端。

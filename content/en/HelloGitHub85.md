@@ -95,13 +95,13 @@ INTO sqlflow_models.my_dnn_model;
 18、[oshi](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/oshi/oshi)：Java Library for Retrieving Operating System and Hardware Information. This is a library for retrieving operating system and hardware information of the local machine, based on JNA. It supports information such as operating system version, processes, memory usage, CPU utilization, disk and partition details, devices, sensors, etc.
 
 ### JavaScript
-19、[mathquill](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mathquill/mathquill)：Online Mathematical Formula Editor. This is a formula editor written in JavaScript, which makes the input of mathematical formulas simple and aesthetically pleasing.Shared by [@松果](https://hellogithub.com/en/user/EFn7Z3e6r0cIpLS)
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/598343.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-20、[nextui](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/nextui-org/nextui)：Stylish, Fast, and Modern React UI Library. The project features a clean and sophisticated overall UI style with rounded corners that offer a friendly user experience. It not only has an impressive appearance but is also very developer-friendly, supporting features such as customizable default themes, custom component styles, fully-typed development, and automatic dark mode detection.Shared by [@鸿宇Hov](https://hellogithub.com/en/user/5kejt8yTpxHwsPK)
+19、[heroui](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/heroui-inc/heroui)：Stylish, Fast, and Modern React UI Library. The project features a clean and sophisticated overall UI style with rounded corners that offer a friendly user experience. It not only has an impressive appearance but is also very developer-friendly, supporting features such as customizable default themes, custom component styles, fully-typed development, and automatic dark mode detection.Shared by [@鸿宇Hov](https://hellogithub.com/en/user/5kejt8yTpxHwsPK)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/360522116.png' style="max-width:80%; max-height=80%;"></img></p>
+
+20、[mathquill](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mathquill/mathquill)：Online Mathematical Formula Editor. This is a formula editor written in JavaScript, which makes the input of mathematical formulas simple and aesthetically pleasing.Shared by [@松果](https://hellogithub.com/en/user/EFn7Z3e6r0cIpLS)
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/598343.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 21、[quill](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/slab/quill)：A Powerful Rich Text Editor. It is currently the most starred WYSIWYG web editor on GitHub, featuring strong extensibility and compatibility, and supports almost all browsers on desktops, tablets, and mobile phones.
 

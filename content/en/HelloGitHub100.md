@@ -219,11 +219,7 @@ Average complexity: F (61.0)
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/511961615.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### AI
-31、[gpt-computer-assistant](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Upsonic/gpt-computer-assistant)：Minimalist GPT-4o Client. This project is a client for GPT-4o that is compatible with Windows, macOS, and Ubuntu. It features a minimalist user interface and supports various tasks, including reading the screen, opening applications, system audio, and text input.
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/806192576.png' style="max-width:80%; max-height=80%;"></img></p>
-
-32、[mem0](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mem0ai/mem0)：Python Library for Enhancing Context Continuity in Large Language Models. This project provides a memory layer for various mainstream large language models, supporting the saving of user interactions and context during conversations with LLMs, and is capable of dynamic real-time updates and adjustments, thereby enhancing the personalization of AI. It is suitable for personalized LLM applications that require long-term memory, such as learning assistants, medical assistants, and virtual companions.
+31、[mem0](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mem0ai/mem0)：Python Library for Enhancing Context Continuity in Large Language Models. This project provides a memory layer for various mainstream large language models, supporting the saving of user interactions and context during conversations with LLMs, and is capable of dynamic real-time updates and adjustments, thereby enhancing the personalization of AI. It is suitable for personalized LLM applications that require long-term memory, such as learning assistants, medical assistants, and virtual companions.
 ```python
 from mem0 import Memory
 m = Memory()
@@ -235,9 +231,13 @@ related_memories = m.search(query="What are Alice's hobbies?", user_id="alice")
 result = m.update(memory_id="m1", data="Likes to play tennis on weekends")
 ```
 
-33、[Retrieval-based-Voice-Conversion-WebUI](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)：Plug-and-Play AI Voice Changer. This project is a voice conversion framework based on VITS, which requires only a small amount of voice data and a regular graphics card to quickly train a high-quality voice conversion model. It offers a simple and user-friendly web and GUI interface, supporting real-time voice change, voice and accompaniment separation, and other features.
+32、[Retrieval-based-Voice-Conversion-WebUI](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)：Plug-and-Play AI Voice Changer. This project is a voice conversion framework based on VITS, which requires only a small amount of voice data and a regular graphics card to quickly train a high-quality voice conversion model. It offers a simple and user-friendly web and GUI interface, supporting real-time voice change, voice and accompaniment separation, and other features.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/619521008.png' style="max-width:80%; max-height=80%;"></img></p>
+
+33、[Upsonic](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Upsonic/Upsonic)：Minimalist GPT-4o Client. This project is a client for GPT-4o that is compatible with Windows, macOS, and Ubuntu. It features a minimalist user interface and supports various tasks, including reading the screen, opening applications, system audio, and text input.
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/806192576.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Other
 34、[dart_simple_live](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/xiaoyaocz/dart_simple_live)：Easy-to-Use Live Streaming Tool. This project allows you to watch various mainstream live broadcasting platforms within a single APP and provides clients for Android, iOS, macOS, and Android TV.

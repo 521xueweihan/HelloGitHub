@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://hellogithub.com/repository/d4aae58ddbf34f0799bf3e8f965e0d70" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=d4aae58ddbf34f0799bf3e8f965e0d70&claim_uid=8MKvZoxaWt" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a><br>
   <a href="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png"><img src="https://img.shields.io/badge/Talk-WeChat-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
   <a href="https://github.com/521xueweihan/HelloGitHub/stargazers"><img src="https://img.shields.io/github/stars/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub stars"></a>
   <a href="https://github.com/521xueweihan/HelloGitHub/issues"><img src="https://img.shields.io/github/issues/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub issues"></a>
@@ -24,6 +23,7 @@ Will be released on the **28th of each month**. [Website](https://hellogithub.co
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
+| [NO.106](/content/en/HelloGitHub106.md) |
 | [NO.105](/content/en/HelloGitHub105.md) | [NO.104](/content/en/HelloGitHub104.md) | [NO.103](/content/en/HelloGitHub103.md) | [NO.102](/content/en/HelloGitHub102.md) | [NO.101](/content/en/HelloGitHub101.md) |
 | [NO.100](/content/en/HelloGitHub100.md) | [NO.99](/content/en/HelloGitHub99.md) | [NO.98](/content/en/HelloGitHub98.md) | [NO.97](/content/en/HelloGitHub97.md) | [NO.96](/content/en/HelloGitHub96.md) |
 | [NO.95](/content/en/HelloGitHub95.md) | [NO.94](/content/en/HelloGitHub94.md) | [NO.93](/content/en/HelloGitHub93.md) | [NO.92](/content/en/HelloGitHub92.md) | [NO.91](/content/en/HelloGitHub91.md) |
@@ -31,7 +31,6 @@ Will be released on the **28th of each month**. [Website](https://hellogithub.co
 | [NO.85](/content/en/HelloGitHub85.md) | [NO.84](/content/en/HelloGitHub84.md) | [NO.83](/content/en/HelloGitHub83.md) | [NO.82](/content/en/HelloGitHub82.md) | [NO.81](/content/en/HelloGitHub81.md) |
 | [NO.80](/content/en/HelloGitHub80.md) | [NO.79](/content/en/HelloGitHub79.md) | [NO.78](/content/en/HelloGitHub78.md) | [NO.77](/content/en/HelloGitHub77.md) | [NO.76](/content/en/HelloGitHub76.md) |
 | [NO.75](/content/en/HelloGitHub75.md) | [NO.74](/content/en/HelloGitHub74.md) | [NO.73](/content/en/HelloGitHub73.md) | [NO.72](/content/en/HelloGitHub72.md) | [NO.71](/content/en/HelloGitHub71.md) |
-| [NO.70](/content/en/HelloGitHub70.md) | [NO.69](/content/en/HelloGitHub69.md) | [NO.68](/content/en/HelloGitHub68.md) | [NO.67](/content/en/HelloGitHub67.md) | [NO.66](/content/en/HelloGitHub66.md) |
 
 
 ## Licence

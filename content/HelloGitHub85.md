@@ -102,13 +102,13 @@ INTO sqlflow_models.my_dnn_model;
 18、[oshi](https://hellogithub.com/periodical/statistics/click?target=https://github.com/oshi/oshi)：获取操作系统和硬件信息的 Java 库。这是一个基于 JNA 实现的获取本机操作系统和硬件信息的库，支持操作系统版本、进程、内存、 CPU 使用率、磁盘和分区、设备、传感器等信息。
 
 ### JavaScript 项目
-19、[mathquill](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mathquill/mathquill)：数学公式在线编辑器。这是一个 JavaScript 写的公式编辑器，它可以让数学公式输入变得简单和美观。来自 [@松果](https://hellogithub.com/user/EFn7Z3e6r0cIpLS) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/598343.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-20、[nextui](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nextui-org/nextui)：漂亮、快速、新式的 React UI 库。UI 的整体风格简洁大方，圆角设计用户体验友好。它不仅颜值能打，而且对开发者也十分友好，支持自定义默认主题、自定义组件样式、fully-typed、自动识别深色模式等功能。来自 [@鸿宇Hov](https://hellogithub.com/user/5kejt8yTpxHwsPK) 的分享
+19、[heroui](https://hellogithub.com/periodical/statistics/click?target=https://github.com/heroui-inc/heroui)：漂亮、快速、新式的 React UI 库。UI 的整体风格简洁大方，圆角设计用户体验友好。它不仅颜值能打，而且对开发者也十分友好，支持自定义默认主题、自定义组件样式、fully-typed、自动识别深色模式等功能。来自 [@鸿宇Hov](https://hellogithub.com/user/5kejt8yTpxHwsPK) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/360522116.png' style="max-width:80%; max-height=80%;"></img></p>
+
+20、[mathquill](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mathquill/mathquill)：数学公式在线编辑器。这是一个 JavaScript 写的公式编辑器，它可以让数学公式输入变得简单和美观。来自 [@松果](https://hellogithub.com/user/EFn7Z3e6r0cIpLS) 的分享
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/598343.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 21、[quill](https://hellogithub.com/periodical/statistics/click?target=https://github.com/slab/quill)：一款强大的富文本编辑器。它是目前 GitHub 上 Star 数最多的所见即所得 Web 编辑器，具有强大的可扩展性和兼容性，支持台式机、平板电脑和手机上几乎所有的浏览器。
 

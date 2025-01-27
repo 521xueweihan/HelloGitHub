@@ -138,13 +138,13 @@ public class BasicGameApp extends GameApplication {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/519859998.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[ChatGPT-Next-Web](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)：Deploy Your Personal ChatGPT Web Application for Free. This project offers not only a more user-friendly chat interface for ChatGPT, but also supports one-click deployment to Vercel. All you need to do is provide an OpenAI API Key to have your own private ChatGPT service for free.
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/612344730.png' style="max-width:80%; max-height=80%;"></img></p>
-
-18、[giscus](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/giscus/giscus)：Comment System Based on GitHub Discussions. This project is a comment system implemented using the GitHub Discussions API. It is free, ad-free, and database-free, supporting features like custom themes and multi-language.
+17、[giscus](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/giscus/giscus)：Comment System Based on GitHub Discussions. This project is a comment system implemented using the GitHub Discussions API. It is free, ad-free, and database-free, supporting features like custom themes and multi-language.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/351958053.png' style="max-width:80%; max-height=80%;"></img></p>
+
+18、[NextChat](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ChatGPTNextWeb/NextChat)：Deploy Your Personal ChatGPT Web Application for Free. This project offers not only a more user-friendly chat interface for ChatGPT, but also supports one-click deployment to Vercel. All you need to do is provide an OpenAI API Key to have your own private ChatGPT service for free.
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/612344730.png' style="max-width:80%; max-height=80%;"></img></p>
 
 19、[Painter](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Kujiale-Mobile/Painter)：Mini Program Image Library Generator. This project allows developers of mini programs to create images through JSON, supporting the drawing of text, images, QR codes, various layouts, custom fonts, rounded corners, and more.
 
