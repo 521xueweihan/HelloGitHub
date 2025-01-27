@@ -20,8 +20,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/12060725.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C++
-2、[TrafficMonitor](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/zhongyang219/TrafficMonitor)：一款用于 Windows 平台的网速监控悬浮窗软件。可以显示当前网速、CPU及内存利用率、任务栏显示、更换皮肤、历史流量统计等功能
-
+2、[TrafficMonitor](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/zhongyang219/TrafficMonitor)：Network Speed Monitoring Floating Window Tool for Windows. This is a network speed monitoring floating window software for the Windows platform. It can display current network speed, CPU and memory utilization, and supports features such as taskbar display, skin changing, and historical traffic statistics.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/98771110.png' style="max-width:80%; max-height=80%;"></img></p>
 

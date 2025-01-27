@@ -303,13 +303,7 @@ spleeter separate -p spleeter:2stems -o output 音频.mp3
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/88158457.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[tabby](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Eugeny/tabby)：高颜值的终端工具。功能强大高度可配置，适用于 Windows、macOS、Linux 操作系统
-- 支持自定义主题和配色
-- 可配置快捷键和组合键
-- 集成了 SSH、Telnet 等连接
-- 分割窗口
-- 等等
-
+37、[tabby](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Eugeny/tabby)：All-in-One Modern Terminal Tool. This is a visually appealing, cross-platform terminal emulator that can serve as an alternative to terminal tools like PuTTY on Windows and iTerm on macOS. With a sleek interface and powerful features, it includes built-in SSH and Telnet clients for easy remote server connections. It supports connection saving, auto-reconnect, multi-window splitting, custom color schemes, shortcuts, and a rich plugin system. It is compatible with Windows, macOS, and Linux operating systems.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/77213120.png' style="max-width:80%; max-height=80%;"></img></p>
 

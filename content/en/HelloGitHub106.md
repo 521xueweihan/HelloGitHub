@@ -14,7 +14,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 > **The content of this issue is as follows**｜Updated on the **28th** of each month
 
 ### C
-1、[sshfs](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/libfuse/sshfs)：通过 SSH 挂载远程文件系统的工具。这是一个基于 SFTP 协议的文件系统工具，可通过 SSH 协议将远程文件系统挂载到本地。它操作简单，仅需一条命令，即可像访问本地文件系统一样管理远程文件和目录，兼容 Linux、BSD 和 macOS 系统。
+1、[sshfs](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/libfuse/sshfs)：A tool for mounting remote file systems via SSH. This is a file system tool based on the SFTP protocol, which allows you to mount remote file systems to the local machine via the SSH protocol. It is easy to operate and only requires a single command to manage remote files and directories as if accessing a local file system, compatible with Linux, BSD, and macOS systems.
 ```
 挂载文件系统
 sshfs [user@]hostname:[directory] mountpoint
@@ -23,24 +23,24 @@ fusermount -u mountpoint
 ```
 
 ### C#
-2、[mRemoteNG](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mRemoteNG/mRemoteNG)：集成多协议的远程连接管理工具。这是一款功能强大的远程连接管理工具，支持 RDP、VNC、SSH 等多种主流协议。它提供了标签式界面，用户可同时管理和切换多个远程连接，支持 Windows 11、10 等系统。
+2、[mRemoteNG](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mRemoteNG/mRemoteNG)：Multi-Protocol Integrated Remote Connection Management Tool. This is a powerful remote connection management tool that supports various mainstream protocols such as RDP, VNC, and SSH. It features a tabbed interface, allowing users to manage and switch between multiple remote connections simultaneously, while supporting systems like Windows 11 and 10.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/460848.png' style="max-width:80%; max-height=80%;"></img></p>
 
-3、[msstyleEditor](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/nptr/msstyleEditor)：开箱即用的 Windows 视觉样式编辑器。这是一款用于编辑 Windows 视觉样式（.msstyles 文件）的工具，兼容 Windows 7、8、10 和 11 系统。它无需安装、开箱即用，支持快速查看所有组件并修改其属性，轻松自定义主题样式。
+3、[msstyleEditor](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/nptr/msstyleEditor)：Out-of-the-box Windows Visual Style Editor. This is a tool for editing Windows visual styles (.msstyles files), compatible with Windows 7, 8, 10, and 11 systems. It is ready to use out of the box, supports quick viewing of all components and modification of their properties, and easily customizes theme styles.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/93086337.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C++
-4、[Memento](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ripose-jp/Memento)：边看视频边学日语的视频播放器。这是一款基于 mpv 的开源视频播放器，专为学习日语而设计。它能够帮助用户在观看视频时学习日语，支持弹出式词典、字幕浏览、生成和同步生词卡等功能。
+4、[Memento](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ripose-jp/Memento)：A Video Player for Learning Japanese While Watching Videos. This is an open-source video player based on mpv, specifically designed for learning Japanese. It assists users in learning Japanese while watching videos, supporting features such as pop-up dictionaries, subtitle browsing, and the generation and synchronization of vocabulary cards.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/302477133.png' style="max-width:80%; max-height=80%;"></img></p>
 
-5、[mixxx](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mixxxdj/mixxx)：免费开源的 DJ 混音软件。该项目是一款用 C++ 开发的专业级 DJ 软件，完全免费。它提供了丰富的功能和硬件兼容性，支持自动 BPM 检测、实时效果处理、录音和直播等功能，适用于 Windows、macOS 和 Linux 平台。
+5、[mixxx](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mixxxdj/mixxx)：Free Open-Source DJ Mixing Software. This project is a professional-grade DJ software developed with C++, which is completely free. It offers a rich set of features and hardware compatibility, supports automatic BPM detection, real-time effect processing, recording, and streaming capabilities, and is applicable across Windows, macOS, and Linux platforms.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/10126031.png' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[parallel-hashmap](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/greg7mdp/parallel-hashmap)：高性能的 HashMap 库。该项目提供了多种高性能、内存友好、线程安全的哈希表和 B 树容器实现。它基于 Google 的 Abseil 库进行开发和优化，支持 C++11 标准和头文件形式，无需编译即可直接使用。
+6、[parallel-hashmap](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/greg7mdp/parallel-hashmap)：High-performance HashMap Library. This project provides various high-performance, memory-friendly, and thread-safe hash table and B-tree container implementations. It is developed and optimized based on Google's Abseil library, supports the C++11 standard, and is available in header-only form, eliminating the need for compilation.
 ```c++
 #include <iostream>
 #include <string>
@@ -68,20 +68,20 @@ int main()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/173454206.png' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[upx](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/upx/upx)：压缩可执行文件的工具。这是一款开源的可执行文件压缩工具，支持多种可执行文件格式（Windows、Linux、macOS）。它拥有出色的压缩比（50-70%），压缩后的文件可直接运行，适用于程序分发和大规模存储的场景。
+7、[upx](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/upx/upx)：Utility for Compressing Executable Files. This is an open-source tool for compressing executable files, supporting various executable file formats (Windows, Linux, macOS). It boasts an excellent compression ratio (50-70%), and the compressed files can be run directly, making it suitable for program distribution and large-scale storage scenarios.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/67031040.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Go
-8、[bunster](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/yassinebenaid/bunster)：一键“编译” shell 脚本的工具。该项目是一个 Shell-to-Go 转译器（Transpiler），原理是先把 shell 脚本转换为 Go 代码，然后利用 Go 工具链将其编译为二进制可执行文件，弥补了传统 shell 脚本在性能、可移植性和安全性方面的不足。
+8、[bunster](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/yassinebenaid/bunster)：A Tool to 'Compile' Shell Scripts in One Click. This project is a Shell-to-Go transpiler, which works by first converting shell scripts to Go code and then leveraging the Go toolchain to compile them into binary executable files, addressing the traditional performance, portability, and security deficiencies of shell scripts.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/831420946.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[daytona](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/daytonaio/daytona)：简化开发环境搭建的工具。该项目可以通过一条命令，快速创建一个配置好的开发环境，支持与主流 IDE 无缝集成，以及本地机器、远程服务器、云平台等多种基础设施。Shared by [@IZRINO](https://hellogithub.com/en/user/eK0Bv1dmJPxnrwy)
+9、[daytona](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/daytonaio/daytona)：A Tool for Simplifying Development Environment Setup. This project enables the quick creation of a configured development environment with a single command, supports seamless integration with mainstream IDEs, and integrates with various infrastructures such as local machines, remote servers, and cloud platforms.Shared by [@IZRINO](https://hellogithub.com/en/user/eK0Bv1dmJPxnrwy)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/753490180.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-10、[gopher-lua](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/yuin/gopher-lua)：将 Lua 脚本嵌入 Go 程序。这是一个 Go 语言实现的 Lua 虚拟机和编译器，完全兼容 Lua5.1 语法。开发者可以通过简单的代码，将 Lua 脚本嵌入到 Go 应用中，适用于游戏开发、自动化工具和插件系统等需要脚本化支持的场景。Shared by [@两双筷子sqldc](https://hellogithub.com/en/user/5dGtvaZ6H3L4QMY)
+10、[gopher-lua](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/yuin/gopher-lua)：Embed Lua Scripts into Go Programs. This is a Lua virtual machine and compiler implemented in Go language, fully compatible with Lua5.1 syntax. Developers can embed Lua scripts into Go applications through simple code, making it suitable for scenarios requiring script support such as game development, automation tools, and plugin systems.Shared by [@两双筷子sqldc](https://hellogithub.com/en/user/5dGtvaZ6H3L4QMY)
 ```go
 L := lua.NewState()
 defer L.Close()
@@ -90,12 +90,12 @@ if err := L.DoString(`print("hello")`); err != nil {
 }
 ```
 
-11、[SamWaf](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/samwafgo/SamWaf)：开源的轻量级 Web 应用防火墙。这是一款完全开源的轻量级 Web 应用防火墙，支持私有化部署，提供 Bot 检测、URL 白名单、CC 防护、自定义防护规则等功能，适用于小型企业、工作室和个人网站。Shared by [@猎隼丶止戈reNo7](https://hellogithub.com/en/user/Ew59HqRWjPe0zZO)
+11、[SamWaf](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/samwafgo/SamWaf)：Open source lightweight Web Application Firewall. This is a fully open-source lightweight Web Application Firewall that supports private deployment, offering Bot detection, URL whitelist, CC protection, custom protection rules, and other features, making it suitable for small businesses, studios, and personal websites.Shared by [@猎隼丶止戈reNo7](https://hellogithub.com/en/user/Ew59HqRWjPe0zZO)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/737285725.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java
-12、[mzt-biz-log](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mouzt/mzt-biz-log)：开箱即用的 Spring Boot 操作日志组件。这是一个为 Spring Boot 项目设计的操作日志组件，支持通过注解的方式，轻松记录业务操作日志，包括操作人、操作时间、操作内容等。Shared by [@FangPengbo](https://hellogithub.com/en/user/WtxAwC6DlVhTEJO)
+12、[mzt-biz-log](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mouzt/mzt-biz-log)：Out-of-the-box Spring Boot Operation Log Component. This is an operation log component designed for Spring Boot projects, supporting easy recording of business operation logs through annotations, including the operator, operation time, operation content, etc.Shared by [@FangPengbo](https://hellogithub.com/en/user/WtxAwC6DlVhTEJO)
 ```java
 @LogRecord(
         fail = "创建订单失败，失败原因：「{{#_errorMsg}}」",
@@ -115,7 +115,7 @@ public boolean createOrder(Order order) {
 }
 ```
 
-13、[poi-tl](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Sayi/poi-tl)：Java 的 Word 模板引擎。该项目是基于 Apache POI 的 Word 模板引擎，可以动态生成 Word 文档。它提供了友好的 API，支持文本、图片、表格、条件渲染、图表等多种内容的渲染，适用于批量生成合同、报告、通知、证书等场景。
+13、[poi-tl](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Sayi/poi-tl)：Java-based Word Template Engine. This project is a Word template engine based on Apache POI, capable of dynamically generating Word documents. It provides a user-friendly API, supporting the rendering of various content types such as text, images, tables, conditional rendering, and charts, suitable for mass generation of contracts, reports, notices, certificates, and other scenarios.
 ```java
 XWPFTemplate template = XWPFTemplate.compile("template.docx").render(
   new HashMap<String, Object>(){{
@@ -127,15 +127,15 @@ template.writeAndClose(new FileOutputStream("output.docx"));
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/32567673.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript
-14、[openmtp](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ganeshrvel/openmtp)：Mac 上的 Android 文件传输工具。这是一个专为 macOS 设计的开源 Android 文件传输工具。通过 USB 连接，实现 macOS 与 Android 设备之间快速稳定的文件传输，支持 macOS 11.0 及以上版本。
+14、[openmtp](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ganeshrvel/openmtp)：Android File Transfer Tool for Mac. This is an open-source Android file transfer tool designed specifically for macOS. It enables fast and stable file transfers between macOS and Android devices via USB connections, supporting macOS versions 11.0 and above.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/161636751.png' style="max-width:80%; max-height=80%;"></img></p>
 
-15、[readest](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/readest/readest)：沉浸式的电子书阅读器。这是一款为热爱阅读的用户量身打造的阅读软件，将极简设计与强大功能融合，为你带来专注、沉浸的阅读体验。它基于 Next.js 和 Tauri 开发，支持跨平台运行，现已支持 macOS、Windows、Linux 和 Web 平台，未来还将推出 iOS 和 Android 版本，实现真正的全平台覆盖。Shared by [@Huang Xin](https://hellogithub.com/en/user/eRLUbPOy2qZtDgw)
+15、[readest](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/readest/readest)：Immersive E-Book Reader. This is a reading software tailor-made for users who love reading, integrating minimalist design with powerful features to bring you a focused and immersive reading experience. It is developed based on Next.js and Tauri, supporting cross-platform operation and currently supporting macOS, Windows, Linux, and Web platforms. Future plans include the release of iOS and Android versions to achieve true all-platform coverage.Shared by [@Huang Xin](https://hellogithub.com/en/user/eRLUbPOy2qZtDgw)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/871781831.png' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[sharp](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/lovell/sharp)：高性能的 Node.js 图像处理库。这是一个基于 libvips 的高性能 Node.js 图像处理库，支持对 JPEG、PNG、WebP、GIF 和 SVG 等格式的图像进行调整大小、格式转换、裁剪和旋转等操作。
+16、[sharp](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/lovell/sharp)：High-performance Node.js Image Processing Library. This is a high-performance Node.js image processing library based on libvips, supporting operations such as resizing, format conversion, cropping, and rotation for image formats like JPEG, PNG, WebP, GIF, and SVG.
 ```javascript
 const semiTransparentRedPng = await sharp({
   create: {
@@ -149,25 +149,25 @@ const semiTransparentRedPng = await sharp({
   .toBuffer();
 ```
 
-17、[stretchly](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hovancik/stretchly)：跨平台的休息提醒助手。这是一款跨平台的 Electron 应用，旨在通过定时休息提醒，帮助用户养成健康的工作习惯，支持包括中文在内的多种语言，并提供自定义休息间隔、时长、提示音效等个性化设置。
+17、[stretchly](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hovancik/stretchly)：Cross-Platform Break Reminder Assistant. This is a cross-platform Electron application designed to help users develop healthy work habits through regular break reminders. It supports multiple languages, including Chinese, and provides personalized settings such as custom break intervals, durations, and reminder sound effects.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/63014033.png' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[svgl](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pheralb/svgl)：精美的 Logo 资源库。该项目是基于 SvelteKit 和 Tailwind CSS 构建的在线 Logo 库，收录了 400 多种标志和文字商标，覆盖技术、编程语言、框架、公司等分类，支持一键下载和复制代码。
+18、[svgl](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pheralb/svgl)：Elegant Logo Resource Library. This project is an online Logo library built with SvelteKit and Tailwind CSS, containing over 400 kinds of logos and word trademarks, covering categories such as technology, programming languages, frameworks, and companies, supporting one-click downloads and copy code.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/448688478.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Kotlin
-19、[AndroidEasterEggs](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hushenghao/AndroidEasterEggs)：Android 系统彩蛋大全。该项目收集了各种 Android 系统彩蛋，包含完整的代码和体验等功能。Shared by [@p0ssword](https://hellogithub.com/en/user/GxAPw47k9KVOyhM)
+19、[AndroidEasterEggs](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hushenghao/AndroidEasterEggs)：A Comprehensive Collection of Android System Easter Eggs. This project gathers various Easter Eggs from Android systems, including complete code and experience features.Shared by [@p0ssword](https://hellogithub.com/en/user/GxAPw47k9KVOyhM)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/306645388.png' style="max-width:80%; max-height=80%;"></img></p>
 
-20、[maestro](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mobile-dev-inc/maestro)：移动端 UI 自动化测试框架。这是一款开源的移动端和 Web 应用 UI 自动化测试工具，它采用简单易懂的 YAML 语法编写测试脚本，内置容错机制和操作延迟容忍功能，支持 Android、iOS、Flutter 和桌面浏览器。
+20、[maestro](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mobile-dev-inc/maestro)：Mobile UI Automation Testing Framework. This is an open-source UI automation testing tool for mobile devices and web applications. It uses simple and understandable YAML syntax to write test scripts, has built-in fault tolerance and operation delay tolerance, and supports Android, iOS, Flutter, and desktop browsers.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/476427476.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python
-21、[chonkie](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/chonkie-ai/chonkie)：轻量级的文本分块 Python 库。这是一个专为 RAG 应用设计的轻量级文本分块库，它简单易用、速度快，能够按固定大小分割文本，支持多种分词器、向量模型和灵活的分块策略，适用于长文本处理、构建 RAG 应用等场景。
+21、[chonkie](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/chonkie-ai/chonkie)：Lightweight Text Chunking Python Library. This is a lightweight text chunking library designed specifically for RAG applications. It is easy to use and fast, capable of splitting text into fixed sizes, supporting various tokenizers, vector models, and flexible chunking strategies, suitable for long text processing and constructing RAG applications.
 ```python
 from chonkie import TokenChunker
 from tokenizers import Tokenizer
@@ -182,7 +182,7 @@ for chunk in chunks:
     print(f"Tokens: {chunk.token_count}")
 ```
 
-22、[fonttools](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/fonttools/fonttools)：操作字体文件的 Python 库。这是一个用于编辑和转换字体文件的 Python 库，支持 TrueType 和 OpenType 字体与 XML 格式（TTX）之间的相互转换，兼容多种字体格式，适用于编辑、调试和优化字体等场景。
+22、[fonttools](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/fonttools/fonttools)：Python Library for Manipulating Font Files. This is a Python library for editing and converting font files, supporting the interconversion between TrueType and OpenType fonts and XML format (TTX), compatible with a variety of font formats, suitable for scenarios such as font editing, debugging, and optimization.
 ```python
 from fontTools.afmLib import AFM
 
@@ -194,15 +194,15 @@ f.FontName = "TestFont HelloGitHub"
 f.write("testfont-hellogithub.afm")
 ```
 
-23、[httpdbg](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/cle-b/httpdbg)：轻松捕获 Python 程序中 HTTP(S) 请求的工具。该项目是用于帮助开发者调试 Python 程序中的 HTTP(S) 请求的工具。通过 pyhttpdbg 命令运行程序，即可在浏览器中查看发出的 HTTP 请求，支持脚本运行、交互式控制台、单元测试多种运行模式。
+23、[httpdbg](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/cle-b/httpdbg)：A Tool for Easily Capturing HTTP(S) Requests in Python Programs. This project is a tool designed to assist developers in debugging HTTP(S) requests within Python programs. By running the program with the pyhttpdbg command, one can view the outgoing HTTP requests in a browser, supporting various operation modes including script execution, interactive console, and unit testing.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/273906263.png' style="max-width:80%; max-height=80%;"></img></p>
 
-24、[pwndbg](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pwndbg/pwndbg)：专为逆向工程设计的 GDB/LLDB 插件。这是一个专为 GDB 和 LLDB 调试器设计的插件，支持寄存器状态显示、内存搜索、内存泄漏查找等功能，适用于底层软件开发、硬件调试和逆向工程等场景。
+24、[pwndbg](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pwndbg/pwndbg)：GDB/LLDB Plugin Specifically for Reverse Engineering. This is a plugin designed specifically for GDB and LLDB debuggers, supporting features such as register state display, memory search, memory leak detection, and more. It is suitable for scenarios like low-level software development, hardware debugging, and reverse engineering.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/31181767.png' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[PyPSA](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/PyPSA/PyPSA)：电力系统分析 Python 库。这是一个用于电力系统分析的 Python 库，专注于电力和多能源系统的建模与优化。它基于 Pandas、NumPy、GLPK、Cbc 等库，能够高效计算最优潮流优化（OPF）、线性和非线性电力流，并支持模拟各种电力和能源系统组件的功能。
+25、[PyPSA](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/PyPSA/PyPSA)：Power System Analysis Python Library. This is a Python library for power system analysis, focusing on modeling and optimization of electric and multi-energy systems. It is based on libraries such as Pandas, NumPy, GLPK, Cbc, and can efficiently calculate optimal power flow (OPF), linear and non-linear electric power flows, and supports simulation of various electric and energy system components.
 ```python
 import pypsa
 
@@ -230,24 +230,24 @@ n.statistics.energy_balance()
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/49414256.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Rust
-26、[aquascope](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/cognitive-engineering-lab/aquascope)：可视化 Rust 代码执行过程的工具。这是一个 Rust 代码可视化的工具，直观展示代码的编译和运行细节，帮助开发者理解 Rust 语言的运行机制。
+26、[aquascope](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/cognitive-engineering-lab/aquascope)：Tool for Visualizing the Execution Process of Rust Code. This is a tool for visualizing Rust code, providing an intuitive demonstration of the details of code compilation and execution, assisting developers in understanding the operation mechanisms of the Rust language.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/537217688.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[code2prompt](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mufeedvh/code2prompt)：将代码库转换为 LLM 提示的工具。这是一个 Rust 写的命令行工具，能够将代码库快速转换为适用于 LLM 的提示词（Markdown 文件）。它会自动遍历目录，生成代码结构树并整合到提示词中，同时支持提示词模板、Token 计算、生成 Git 提交信息、文件筛选等功能。
+27、[code2prompt](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mufeedvh/code2prompt)：Toolkit for Converting Codebases to LLM Prompts. This is a Rust-written command-line tool capable of quickly transforming code repositories into prompts suitable for LLM (in Markdown files). It automatically traverses directories, generates a code structure tree, and integrates it into the prompt, while also supporting features like prompt templates, Token calculation, generating Git commit messages, file filtering, etc.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/769564277.png' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[rpg-cli](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/facundoolano/rpg-cli)：将你的文件系统变成一个地牢游戏。这是一款用 Rust 编写的命令行 RPG 游戏，每次执行 cd 命令时，都可能遭遇敌人并触发回合制战斗（自动），游戏支持角色升级、物品、职业和宝箱等功能。
+28、[rpg-cli](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/facundoolano/rpg-cli)：Turn Your File System into a Dungeon Game. This is a command-line RPG game written in Rust that simulates facing enemies and initiating turn-based combat (automatic) every time the cd command is executed. The game supports features such as character leveling, items, professions, and treasure chests.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/361019889.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift
-29、[boring.notch](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/TheBoredTeam/boring.notch)：将 MacBook 的刘海变成音乐控制中心。这是一款专为 macOS 设计的应用，可将原本单调的刘海区域变成一个炫酷的音乐控制中心，支持日历、AirDrop 和音乐控制等功能。
+29、[boring.notch](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/TheBoredTeam/boring.notch)：Turn MacBook's Notch into a Music Control Center. This is an application designed specifically for macOS that can transform the originally monotonous notch area into a cool music control center, supporting features like calendar, AirDrop, and music controls.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/837073921.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[SwiftUI-Shimmer](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/markiv/SwiftUI-Shimmer)：SwiftUI 闪烁效果动效库。这是一个轻量级的 SwiftUI 动效库，可以轻松为任意 SwiftUI 视图添加闪烁效果，支持自定义动画、渐变样式、闪烁速度等，适用于加载状态、占位符、骨架屏等场景。
+30、[SwiftUI-Shimmer](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/markiv/SwiftUI-Shimmer)：SwiftUI Flash Animation Library. This is a lightweight SwiftUI animation library that can easily add flashing effects to any SwiftUI view. It supports custom animations, gradient styles, flashing speed, and more, suitable for loading states, placeholders, skeleton screens, and other scenarios.
 ```swift
 Text("Custom Gradient Mode").bold()
     .font(.largeTitle)
@@ -261,11 +261,11 @@ Text("Custom Gradient Mode").bold()
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/350812836.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### AI
-31、[AI-on-the-edge-device](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/jomjol/AI-on-the-edge-device)：将“旧”设备接入数字世界。该项目基于 ESP32 等便宜的硬件（不到 10 欧）和 TensorFlow Lite 框架，实现对仪表数字的自动识别和数据传输，轻松将传统设备（水表、燃气表、电表）改造成智能设备。
+31、[AI-on-the-edge-device](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/jomjol/AI-on-the-edge-device)：Integrating 'Old' Devices into the Digital World. This project utilizes inexpensive hardware like ESP32 (less than 10 euros) and the TensorFlow Lite framework to achieve automatic recognition of meter readings and data transmission, making it easy to retrofit traditional devices (water meters, gas meters, electric meters) into smart devices.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/283280154.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[instructor](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/instructor-ai/instructor)：让 LLM 输出结构化数据的 Python 库。该项目是用于处理大语言模型（LLMs）结构化输出的 Python 库。它基于 Pydantic 实现了数据验证和类型注释，能够将 LLM 的结果（自然语言）转换为结构化数据，支持多种大语言模型服务，以及自动重试、流式响应等功能。
+32、[instructor](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/instructor-ai/instructor)：Python Library for Structuring LLM Outputs. This project is a Python library designed for handling structured outputs from Large Language Models (LLMs). It leverages Pydantic for data validation and type annotation, enabling the conversion of LLM results (natural language) into structured data. It supports multiple LLM services, as well as features like automatic retries and streaming responses.
 ```python
 import instructor
 from pydantic import BaseModel
@@ -294,7 +294,7 @@ print(user_info.age)
 #> 30
 ```
 
-33、[lite.ai.toolkit](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/DefTruth/lite.ai.toolkit)：轻量级的 C++ AI 工具包。这是一个用 C++ 编写的 AI 工具包，内置超过 100 种 AI 模型，包括对象检测、人脸识别、分割、抠图等领域。它支持 ONNXRuntime、MNN、NCNN、TNN 和 TensorRT 等主流推理引擎，帮助开发者快速部署和使用 AI 模型。Shared by [@wangzijian](https://hellogithub.com/en/user/1NZpMjQFDvCfaEK)
+33、[lite.ai.toolkit](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/DefTruth/lite.ai.toolkit)：Lightweight C++ AI Toolkit. This is an AI toolkit written in C++, which includes more than 100 AI models, covering areas such as object detection, facial recognition, segmentation, and background removal. It supports mainstream inference engines like ONNXRuntime, MNN, NCNN, TNN, and TensorRT, helping developers quickly deploy and utilize AI models.Shared by [@wangzijian](https://hellogithub.com/en/user/1NZpMjQFDvCfaEK)
 ```c++
 #include "lite/lite.h"
 
@@ -315,20 +315,20 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-34、[minimind](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/jingyaogong/minimind)：从零开始训练小型语言模型。这不仅是一个微型语言模型的实现，更是一份入门 LLM 的教程，旨在降低学习和上手 LLM 的门槛。它提供了从数据预处理到模型训练、微调和推理的全流程代码和教程。最小模型仅 0.02B 参数，可在普通 GPU 上轻松运行。
+34、[minimind](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/jingyaogong/minimind)：Train a Small Language Model from Scratch. This is not only an implementation of a mini-language model, but also an introductory tutorial for LLMs, aimed at lowering the barrier to learning and getting started with LLMs. It provides the full process code and tutorials from data preprocessing to model training, fine-tuning, and inference. The smallest model has a parameter count of only 0.02B, which can be easily run on a regular GPU.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/834369920.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Other
-35、[flutter_slidable](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/letsar/flutter_slidable)：Flutter 的滑动操作组件。这是一个 Flutter 的开源库，可用于快速实现列表项的滑动操作，支持多方向、滑动动画、自动关闭等功能。
+35、[flutter_slidable](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/letsar/flutter_slidable)：Flutter's Sliding Action Component. This is an open-source library for Flutter, which can quickly implement sliding operations on list items, supports multi-direction, sliding animations, and auto-closing features.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/141008724.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[inky-dashboard](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/jaeheonshim/inky-dashboard)：电子墨水屏的待办事项和日历管理工具。这是一款低功耗的电子墨水屏待办事项和日历管理工具，硬件采用 Raspberry Pi Pico W 和 Inky Frame 7.3 英寸七色电子墨水屏，同时使用 LVGL 实现界面布局，支持多种颜色显示、待办事项、日历同步等功能。
+36、[inky-dashboard](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/jaeheonshim/inky-dashboard)：E-Ink Todo List and Calendar Management Tool. This is a low-power E-Ink todo list and calendar management tool, using Raspberry Pi Pico W and Inky Frame 7.3-inch color E-Ink display for hardware, along with LVGL for interface layout, supporting multiple color displays, to-do lists, calendar synchronization, and more.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/900200373.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[nginx-proxy](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/nginx-proxy/nginx-proxy)：为 Docker 容器自动配置 Nginx 反向代理。该项目可以自动为 Docker 容器提供 Nginx 反向代理服务。它能够实时监听 Docker 容器的启动和停止事件，自动为每个 Docker 容器配置 Nginx 反向代理，无需手动干预，极大简化了容器环境下的 Nginx 配置流程。
+37、[nginx-proxy](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/nginx-proxy/nginx-proxy)：Automatic Nginx Reverse Proxy Configuration for Docker Containers. This project provides an automatic Nginx reverse proxy service for Docker containers. It can monitor the start and stop events of Docker containers in real-time, automatically configure Nginx reverse proxy for each Docker container without manual intervention, greatly simplifying the Nginx configuration process in the container environment.
 ```
 # 第一步启动 nginx-proxy
 docker run --detach \
@@ -344,11 +344,11 @@ docker run --detach \
     nginx
 ```
 
-38、[reference](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Fechin/reference)：为开发者准备的速查表。这是一份专为开发者准备的快速参考手册（cheat sheet）集合，旨在为开发者提供简洁、直观的速查表，内容涵盖多种编程语言、框架、Linux 命令和数据库等。Shared by [@databook](https://hellogithub.com/en/user/1qC4w2Ey6bu0fgR)
+38、[reference](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Fechin/reference)：Cheat Sheets for Developers. This is a collection of quick reference manuals (cheat sheets) prepared specifically for developers, aiming to provide developers with concise and intuitive quick reference guides, covering a variety of programming languages, frameworks, Linux commands, and databases.Shared by [@databook](https://hellogithub.com/en/user/1qC4w2Ey6bu0fgR)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/322855089.png' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[VoxelSpace](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/s-macke/VoxelSpace)：不到 20 行的地形渲染算法。这是一个用于地形渲染的算法，核心代码不到 20 行。它复现了经典游戏 Comanche 所采用的渲染技术（Voxel Space），为开发者提供了一个学习和参考的示例。
+39、[VoxelSpace](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/s-macke/VoxelSpace)：Terrain Rendering Algorithm in Less Than 20 Lines. This is an algorithm for terrain rendering, with the core code consisting of less than 20 lines. It recreates the rendering technique used in the classic game Comanche (Voxel Space), providing developers with an example for learning and reference.
 ```python
 def Render(p, height, horizon, scale_height, distance, screen_width, screen_height):
     # Draw from back to the front (high z coordinate to low z coordinate)
@@ -373,14 +373,14 @@ Render( Point(0, 0), 50, 120, 120, 300, 800, 600 )
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/104589662.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[zh-style-guide](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/yikeke/zh-style-guide)：中文技术文档写作风格指南。这是一个开源的中文技术文档写作规范指南，旨在为中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面提供参考规范。
+40、[zh-style-guide](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/yikeke/zh-style-guide)：Chinese Technical Documentation Writing Style Guide. This is an open-source guide for writing Chinese technical documentation, providing reference standards for aspects such as language style, structural style, content elements, punctuation, and formatting of Chinese technical documents.
 
 ### Book
-41、[Foundations-of-LLMs](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ZJU-LLMs/Foundations-of-LLMs)：《大模型基础》。该书是由浙江大学 DAILY 实验室开源的大语言模型教材，内容涵盖传统语言模型、大语言模型架构演化、Prompt 工程、参数高效微调、模型编辑、检索增强生成等方面。Shared by [@无间之钟](https://hellogithub.com/en/user/rnlYFdQcyhRm50p)
+41、[Foundations-of-LLMs](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ZJU-LLMs/Foundations-of-LLMs)：Fundamentals of Large Models. This book is an open-source textbook on large language models by the DAILY Lab at Zhejiang University. It covers topics including traditional language models, the evolution of large language model architectures, Prompt engineering, efficient fine-tuning of parameters, model editing, and retrieval-augmented generation.Shared by [@无间之钟](https://hellogithub.com/en/user/rnlYFdQcyhRm50p)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/822044840.png' style="max-width:80%; max-height=80%;"></img></p>
 
-42、[pytorch-deep-learning](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mrdbourke/pytorch-deep-learning)：《学习 PyTorch 进行深度学习：从零到精通》。该项目提供了丰富的图文教程、代码示例、视频讲解和实战项目，旨在通过实践的方式帮助初学者掌握 PyTorch 框架和深度学习技术。
+42、[pytorch-deep-learning](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mrdbourke/pytorch-deep-learning)：Learn PyTorch for Deep Learning: From Zero to Mastery. This project offers a wealth of illustrated tutorials, code examples, video explanations, and practical projects, aimed at helping beginners master the PyTorch framework and deep learning techniques through practical application.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/418718534.jpg' style="max-width:80%; max-height=80%;"></img></p>
 

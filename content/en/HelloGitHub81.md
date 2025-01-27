@@ -22,14 +22,14 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/281893656.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-3、[iodine](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/yarrick/iodine)：一款可快速创建 DNS 隧道的工具。该项目包含 C 语言写的 DNS 隧道服务器和客户端，可快速搭建 DNS 隧道传输 IPv4 数据，常用于绕过防火墙等场景。因为一般情况下防火墙的 DNS 端口是打开的，所以将流量伪装成 DNS 数据包，就可以突破防火墙限制啦。
+3、[iodine](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/yarrick/iodine)：A tool for quickly creating DNS tunnels. This project includes DNS tunnel servers and clients written in C language, which can quickly set up DNS tunnels to transmit IPv4 data, commonly used in scenarios such as bypassing firewalls. Since the DNS port of the firewall is usually open, by disguising the traffic as DNS data packets, it is possible to break through the firewall restrictions.
 
 4、[tinyriscv](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/liangkangnan/tinyriscv)：从零开始写 RISC-V 处理器。该项目是采用 Verilog 语言实现一个单核 32 位的小型 RISC-V 处理器核，包含全部代码和详细的教程。RISC-V 是一种开源指令集架构，它允许任何人设计、制造和销售 RISC-V 芯片和软件。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/226844803.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C#
-5、[DevToys](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/DevToys-app/DevToys)：程序员的瑞士军刀。该项目打包了程序员日常开发会用到的小工具，比如时间戳转化、各种解码、输出美化、颜色选择器等，使用方便颜值高。
+5、[DevToys](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/DevToys-app/DevToys)：The Swiss Army Knife for Programmers. This project bundles various small tools that programmers use in their daily development, such as timestamp conversion, various decoding, output beautification, color selectors, etc., which are easy to use and have a high aesthetic appeal.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/411493648.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -49,7 +49,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 9、[tesseract](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/tesseract-ocr/tesseract)：一款“老当益壮”的 OCR 引擎。这个项目最早诞生于 1985 年，几经易主在 2005 年的时候 HP 将其开源。目前，Tesseract 已经成为 OCR 领域 Star 数最多的开源项目，它支持包括中文在内的 100 多种语言，具有精准度高、跨平台等特点。
 
 ### CSS
-10、[china_school_badge](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/lovefc/china_school_badge)：全国高校校徽字体图标库。该项目包含国内 200 多所高校校徽制作的字体图标。Shared by [@宁静致远](https://hellogithub.com/en/user/8OZH7rITMmy1PeQ)
+10、[china_school_badge](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/lovefc/china_school_badge)：National University Emblems Font Icon Library. This project includes font icons made from the emblems of over 200 universities in China.Shared by [@宁静致远](https://hellogithub.com/en/user/8OZH7rITMmy1PeQ)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/262968659.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -102,7 +102,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/88200328.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript
-21、[infisical](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Infisical/infisical)：一款帮助团队同步环境变量的工具。该项目可用于团队成员之前同步环境变量，拥有简单易懂的操作界面，支持端到端加密、自托管、权限控制、集成 CI/CD 等功能。
+21、[infisical](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Infisical/infisical)：Integrated Token Management Platform. This project assists teams in managing application configurations and sensitive information centrally, preventing the leakage of API TOKENs, passwords, and public keys, among other details. It offers a simple interface, client SDK, command-line tools, and API interfaces for easy central management and integration into existing projects and CI/CD pipelines. Additionally, it supports token scanning, self-hosting, and access control features to prevent leaks during git commits.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/521655652.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -127,7 +127,7 @@ function getOS() {
 }
 ```
 
-23、[podcast-together](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/yenche123/podcast-together)：和你的好友一起在线听播客。该项目无需注册和登录，即可创建/进入房间和三五好友，一起收听同一个博客，支持收听小宇宙、Apple Podcast 中国区等音源。
+23、[podcast-together](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/yenche123/podcast-together)：Listen to Podcasts Online with Your Friends. This project allows you to create or join a room with a few friends to listen to the same podcast without the need for registration or login. It supports listening to sources such as Xiaoyuzhou and Apple Podcast China region.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/520061819.png' style="max-width:80%; max-height=80%;"></img></p>
 
