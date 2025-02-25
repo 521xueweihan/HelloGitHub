@@ -1,0 +1,13 @@
+# Directory for script files
+
+## Unit tests for the scripts in this directory
+
+# Test for github_bot.py
+def test_github_bot():
+    # Add your test cases here
+    pass
+
+# Test for make_content.py
+def test_make_content():
+    # Add your test cases here
+    pass

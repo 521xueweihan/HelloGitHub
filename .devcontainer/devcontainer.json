@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "build": "# No build steps required"
+  }
+}
