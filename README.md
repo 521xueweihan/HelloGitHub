@@ -16,20 +16,78 @@
 
 HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号**以月刊的形式[更新发布](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA5MzYyNzQ0MQ==&action=getalbum&album_id=1331197538447310849#wechat_redirect)，内容包括：**有趣、入门级的开源项目**、**开源书籍**、**实战项目**、**企业级项目**等，让你用很短时间感受到开源的魅力，爱上开源！
 
+## Table of Contents
+- [简介](#简介)
+- [内容](#内容)
+- [安装](#安装)
+- [使用示例](#使用示例)
+- [赞助](#赞助)
+- [声明](#声明)
+
 ## 内容
 获得更好的阅读体验 [官网](https://hellogithub.com/) 或 [HelloGitHub 公众号](https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/weixin.png)
 
-| :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
-| ------- | ----- | ------------ | ------ | --------- |
-| [第 106 期](/content/HelloGitHub106.md) |
-| [第 105 期](/content/HelloGitHub105.md) | [第 104 期](/content/HelloGitHub104.md) | [第 103 期](/content/HelloGitHub103.md) | [第 102 期](/content/HelloGitHub102.md) | [第 101 期](/content/HelloGitHub101.md) |
-| [第 100 期](/content/HelloGitHub100.md) | [第 99 期](/content/HelloGitHub99.md) | [第 98 期](/content/HelloGitHub98.md) | [第 97 期](/content/HelloGitHub97.md) | [第 96 期](/content/HelloGitHub96.md) |
-| [第 95 期](/content/HelloGitHub95.md) | [第 94 期](/content/HelloGitHub94.md) | [第 93 期](/content/HelloGitHub93.md) | [第 92 期](/content/HelloGitHub92.md) | [第 91 期](/content/HelloGitHub91.md) |
-| [第 90 期](/content/HelloGitHub90.md) | [第 89 期](/content/HelloGitHub89.md) | [第 88 期](/content/HelloGitHub88.md) | [第 87 期](/content/HelloGitHub87.md) | [第 86 期](/content/HelloGitHub86.md) |
-| [第 85 期](/content/HelloGitHub85.md) | [第 84 期](/content/HelloGitHub84.md) | [第 83 期](/content/HelloGitHub83.md) | [第 82 期](/content/HelloGitHub82.md) | [第 81 期](/content/HelloGitHub81.md) |
-| [第 80 期](/content/HelloGitHub80.md) | [第 79 期](/content/HelloGitHub79.md) | [第 78 期](/content/HelloGitHub78.md) | [第 77 期](/content/HelloGitHub77.md) | [第 76 期](/content/HelloGitHub76.md) |
-| [第 75 期](/content/HelloGitHub75.md) | [第 74 期](/content/HelloGitHub74.md) | [第 73 期](/content/HelloGitHub73.md) | [第 72 期](/content/HelloGitHub72.md) | [第 71 期](/content/HelloGitHub71.md) |
+## 安装
+1. 克隆仓库到本地：
+   ```bash
+   git clone https://github.com/521xueweihan/HelloGitHub.git
+   ```
+2. 进入项目目录：
+   ```bash
+   cd HelloGitHub
+   ```
+3. 安装依赖：
+   ```bash
+   pip install -r requirements.txt
+   ```
 
+## 使用示例
+1. 运行 GitHub Bot 脚本：
+   ```bash
+   python script/github_bot/github_bot.py
+   ```
+2. 运行生成月刊脚本：
+   ```bash
+   python script/make_content/make_content.py 期数/all（重新生成所有期）
+   ```
+
+## Table of Contents
+- [第 106 期](/content/HelloGitHub106.md)
+- [第 105 期](/content/HelloGitHub105.md)
+- [第 104 期](/content/HelloGitHub104.md)
+- [第 103 期](/content/HelloGitHub103.md)
+- [第 102 期](/content/HelloGitHub102.md)
+- [第 101 期](/content/HelloGitHub101.md)
+- [第 100 期](/content/HelloGitHub100.md)
+- [第 99 期](/content/HelloGitHub99.md)
+- [第 98 期](/content/HelloGitHub98.md)
+- [第 97 期](/content/HelloGitHub97.md)
+- [第 96 期](/content/HelloGitHub96.md)
+- [第 95 期](/content/HelloGitHub95.md)
+- [第 94 期](/content/HelloGitHub94.md)
+- [第 93 期](/content/HelloGitHub93.md)
+- [第 92 期](/content/HelloGitHub92.md)
+- [第 91 期](/content/HelloGitHub91.md)
+- [第 90 期](/content/HelloGitHub90.md)
+- [第 89 期](/content/HelloGitHub89.md)
+- [第 88 期](/content/HelloGitHub88.md)
+- [第 87 期](/content/HelloGitHub87.md)
+- [第 86 期](/content/HelloGitHub86.md)
+- [第 85 期](/content/HelloGitHub85.md)
+- [第 84 期](/content/HelloGitHub84.md)
+- [第 83 期](/content/HelloGitHub83.md)
+- [第 82 期](/content/HelloGitHub82.md)
+- [第 81 期](/content/HelloGitHub81.md)
+- [第 80 期](/content/HelloGitHub80.md)
+- [第 79 期](/content/HelloGitHub79.md)
+- [第 78 期](/content/HelloGitHub78.md)
+- [第 77 期](/content/HelloGitHub77.md)
+- [第 76 期](/content/HelloGitHub76.md)
+- [第 75 期](/content/HelloGitHub75.md)
+- [第 74 期](/content/HelloGitHub74.md)
+- [第 73 期](/content/HelloGitHub73.md)
+- [第 72 期](/content/HelloGitHub72.md)
+- [第 71 期](/content/HelloGitHub71.md)
 
 欢迎[推荐或自荐](https://hellogithub.com/periodical)项目成为 **HelloGitHub** 的[贡献者](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md)
 
