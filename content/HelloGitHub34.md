@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 34 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -93,7 +93,7 @@ adduser {
 7、[DevUtils](https://hellogithub.com/periodical/statistics/click?target=https://github.com/afkT/DevUtils)：Android 工具库，注释规范、API文档清晰明了、工具类种类多。根据不同功能模块封装，方便使用。帮助开发人员，便捷、快速地开发安全、可靠的项目。内置部分常用的资源文件，如 color.xml、layout.xml 等
 
 
-8、[hutool](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dromara/hutool)：功能丰富的 Java 工具包。它帮助我们实现了常用的工具方法，从而减少代码的体积，提高开发效率。该项目最初是作者工作项目中的`util`模块，后来慢慢积累并加入更多非业务相关工具类方法。经过整理修改，最终形成丰富的开源工具集。示例代码：
+8、[hutool](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chinabugotech/hutool)：功能丰富的 Java 工具包。它帮助我们实现了常用的工具方法，从而减少代码的体积，提高开发效率。该项目最初是作者工作项目中的`util`模块，后来慢慢积累并加入更多非业务相关工具类方法。经过整理修改，最终形成丰富的开源工具集。示例代码：
 ```java
 int a = 1;
 //aStr为"1"

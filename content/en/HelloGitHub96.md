@@ -1,5 +1,5 @@
 # HelloGitHub Vol.96
-> Passion is the best teacher. **HelloGitHub** inspires your interest in programming!
+> Passion is the best teacher. **HelloGitHub** inspires your interest in open-source!
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -42,11 +42,11 @@ XXH32_hash_t hash_string(const char* string, XXH32_hash_t seed)
 ```
 
 ### C#
-4、[reverse-proxy](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/microsoft/reverse-proxy)：Microsoft's Open Source Reverse Proxy Toolkit. This project is a toolkit developed by the Microsoft team using C#, which provides core proxy functionality and can be used as a library and project template for creating reverse proxy servers, including a simple example of a reverse proxy server.
-
-5、[Snap.Hutao](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/DGP-Studio/Snap.Hutao)：Practical Multifunctional Genshin Impact Toolbox. This is a Genshin Impact toolbox specifically designed for the Windows platform, supporting multi-account switching, custom frame rate limits, wish records, achievement management, sign-in rewards, character data queries, and training calculators. It does not make any destructive modifications to the game client, only aiming to enhance the gaming experience for Genshin Impact players on the desktop platform.Shared by [@Masterain](https://hellogithub.com/en/user/0xVspWlUv3kdeX5)
+4、[Snap.Hutao](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/DGP-Studio/Snap.Hutao)：Practical Multifunctional Genshin Impact Toolbox. This is a Genshin Impact toolbox specifically designed for the Windows platform, supporting multi-account switching, custom frame rate limits, wish records, achievement management, sign-in rewards, character data queries, and training calculators. It does not make any destructive modifications to the game client, only aiming to enhance the gaming experience for Genshin Impact players on the desktop platform.Shared by [@Masterain](https://hellogithub.com/en/user/0xVspWlUv3kdeX5)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/482734649.png' style="max-width:80%; max-height=80%;"></img></p>
+
+5、[yarp](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/dotnet/yarp)：Microsoft's Open Source Reverse Proxy Toolkit. This project is a toolkit developed by the Microsoft team using C#, which provides core proxy functionality and can be used as a library and project template for creating reverse proxy servers, including a simple example of a reverse proxy server.
 
 ### C++
 6、[ada](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ada-url/ada)：Blazing Fast URL Parsing Tool. This project is a C++ written URL parser that complies with the WHATWG specification, with parsing speed several times faster than curl. It has become the default URL parser for Node.js (versions 18.16.0 and above), note that it is for URL parsing only, not for making requests.

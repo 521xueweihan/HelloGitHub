@@ -1,5 +1,5 @@
 # HelloGitHub Vol.81
-> Passion is the best teacher. **HelloGitHub** inspires your interest in programming!
+> Passion is the best teacher. **HelloGitHub** inspires your interest in open-source!
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -53,7 +53,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/262968659.png' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[daisyui](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/saadeghi/daisyui)：一款极为流行的 Tailwind CSS 组件库。作为当下最流行的 Tailwind CSS 组件库，具有高颜值、更纯净的 HTML、深度自定义等特点。
+11、[daisyui](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/saadeghi/daisyui)：An Extremely Popular Tailwind CSS Component Library. As the most popular Tailwind CSS component library today, it features high aesthetics, cleaner HTML, and in-depth customization capabilities.
 ```html
 <ul class="menu p-3 bg-base-200 rounded-xl">
     <li class="menu-title">
@@ -106,7 +106,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/521655652.png' style="max-width:80%; max-height=80%;"></img></p>
 
-22、[outils](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/proYang/outils)：前端业务代码的工具库。该项目包含了前端开发中，经常会用到的日期格式化、浏览器类型判断、检测是否为手机号等函数。
+22、[outils](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/proYang/outils)：Front-end Business Code Utility Library. This project encompasses functions frequently used in front-end development, such as date formatting, browser type detection, and checking if a string is a mobile phone number.
 ```javascript
 /**
  * 
@@ -145,7 +145,7 @@ function getOS() {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/14346979.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python
-27、[Bottles](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/bottlesdevs/Bottles)：一款可轻松实现 Linux 上运行 Windows 软件的工具。该项目提供了清爽易用的 GUI 界面，用户就算不懂任何编程技巧，也可以轻而易举地在 Linux 系统上，运行 Windows 的游戏和软件。
+27、[Bottles](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/bottlesdevs/Bottles)：A tool to easily run Windows applications on Linux. This project provides a clean and easy-to-use GUI interface, allowing users who have no programming skills to effortlessly run Windows games and software on Linux systems.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/106949285.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -186,7 +186,7 @@ if __name__ == '__main__':
 ```
 
 ### Rust
-32、[rust-raspberrypi-OS-tutorials](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)：学习如何用 Rust 编写嵌入式操作系统。该教程会从零开始，一步步地指导你如何用 Rust 开发出一个功能齐全的嵌入式操作系统的内核。它包含了实现一般操作系统的任务，例如开发串口控制台、设置虚拟内存和处理硬件异常。教程中的所有代码，均可运行在树莓派 3 和 4 上。
+32、[rust-raspberrypi-OS-tutorials](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)：Learn How to Write an Embedded Operating System in Rust. This tutorial starts from scratch and guides you step by step on how to develop a fully functional kernel for an embedded operating system using Rust. It includes tasks common to operating systems, such as developing a serial console, setting up virtual memory, and handling hardware exceptions. All the code in the tutorial can run on Raspberry Pi 3 and 4.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/127553476.jpg' style="max-width:80%; max-height=80%;"></img></p>
 

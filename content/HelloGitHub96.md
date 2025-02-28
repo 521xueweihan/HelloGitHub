@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 96 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -49,11 +49,11 @@ XXH32_hash_t hash_string(const char* string, XXH32_hash_t seed)
 ```
 
 ### C# 项目
-4、[reverse-proxy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/reverse-proxy)：微软开源的反向代理工具包。该项目是微软团队用 C# 开发的一个提供核心代理功能的工具库，可作为库和项目模板，用于创建反向代理服务器的项目，内含简单的反向代理服务器示例项目。
-
-5、[Snap.Hutao](https://hellogithub.com/periodical/statistics/click?target=https://github.com/DGP-Studio/Snap.Hutao)：实用的多功能原神工具箱。这是一款专为 Windows 平台设计的原神工具箱，支持多账号切换、自定义帧率上限、祈愿记录、成就管理、签到奖励、查询角色资料、养成计算器等功能。它不对游戏客户端进行任何破坏性修改，只为改善原神桌面端玩家的游戏体验。来自 [@Masterain](https://hellogithub.com/user/0xVspWlUv3kdeX5) 的分享
+4、[Snap.Hutao](https://hellogithub.com/periodical/statistics/click?target=https://github.com/DGP-Studio/Snap.Hutao)：实用的多功能原神工具箱。这是一款专为 Windows 平台设计的原神工具箱，支持多账号切换、自定义帧率上限、祈愿记录、成就管理、签到奖励、查询角色资料、养成计算器等功能。它不对游戏客户端进行任何破坏性修改，只为改善原神桌面端玩家的游戏体验。来自 [@Masterain](https://hellogithub.com/user/0xVspWlUv3kdeX5) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/482734649.png' style="max-width:80%; max-height=80%;"></img></p>
+
+5、[yarp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dotnet/yarp)：微软开源的反向代理工具包。该项目是微软团队用 C# 开发的一个提供核心代理功能的工具库，可作为库和项目模板，用于创建反向代理服务器的项目，内含简单的反向代理服务器示例项目。
 
 ### C++ 项目
 6、[ada](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ada-url/ada)：快如闪电的 URL 解析利器。该项目是用 C++ 写的符合 WHATWG 规范的 URL 解析器，解析速度是 curl 的数倍，目前已成为 Node.js 默认 URL 解析器（18.16.0 及以上），注意仅仅是 URL 地址解析不是请求。

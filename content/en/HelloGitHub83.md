@@ -1,5 +1,5 @@
 # HelloGitHub Vol.83
-> Passion is the best teacher. **HelloGitHub** inspires your interest in programming!
+> Passion is the best teacher. **HelloGitHub** inspires your interest in open-source!
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -224,7 +224,11 @@ await $`mkdir /tmp/${name}`
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/464981831.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python
-24、[edgedb](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/edgedb/edgedb)：A New Open-Source Database Using Graph-Relational Model. An open-source database supported by PostgreSQL at its core, combining the characteristics of relational databases with the declarative mode of ORM and the deep query style of GraphQL. It features a built-in WebUI interface, supporting online data editing, querying, and relation visualization capabilities.
+24、[eg](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/srsudar/eg)：Common Linux Command Example Query Tool. It provides common usages of Linux commands, which are not only easy to use but also concise and practical examples.
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/31691072.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+25、[gel](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/geldata/gel)：A New Open-Source Database Using Graph-Relational Model. An open-source database supported by PostgreSQL at its core, combining the characteristics of relational databases with the declarative mode of ORM and the deep query style of GraphQL. It features a built-in WebUI interface, supporting online data editing, querying, and relation visualization capabilities.
 ```
 type Person {
   required property name -> str;
@@ -237,10 +241,6 @@ type Movie {
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/95817032.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-25、[eg](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/srsudar/eg)：Common Linux Command Example Query Tool. It provides common usages of Linux commands, which are not only easy to use but also concise and practical examples.
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/31691072.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 26、[manim](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ManimCommunity/manim)：A Python Framework for Creating Mathematical Animations. It can produce beautiful mathematical animations with simple code, intuitively explaining some complex mathematical problems through animation.Shared by [@databook](https://hellogithub.com/en/user/1qC4w2Ey6bu0fgR)
 ```python

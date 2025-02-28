@@ -1,5 +1,5 @@
 # HelloGitHub Vol.69
-> Passion is the best teacher. **HelloGitHub** inspires your interest in programming!
+> Passion is the best teacher. **HelloGitHub** inspires your interest in open-source!
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -82,8 +82,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/327859577.png' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[k9s](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/derailed/k9s)：监控和管理 K8s 集群的命令行工具。它安装简单功能齐全，命令行交互的操作方式可以轻松地解决日常问题
-
+11、[k9s](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/derailed/k9s)：Quick Command-Line Tool for Viewing and Managing K8s Clusters. This is a command-line tool for managing Kubernetes clusters, helping users easily monitor and manage K8s clusters. It provides an intuitive terminal interface and interactive experience, allowing real-time tracking of application runtime status within the cluster. It also supports various resource management (Pods, Deployments, Services, etc.), log viewing, custom configuration, and plugin extensions.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/69/167596393.png' style="max-width:80%; max-height=80%;"></img></p>
 

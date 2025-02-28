@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 83 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -231,7 +231,11 @@ await $`mkdir /tmp/${name}`
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/464981831.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
-24、[edgedb](https://hellogithub.com/periodical/statistics/click?target=https://github.com/edgedb/edgedb)：一款采用图-关系模型的新型开源数据库。一个底层由 PostgreSQL 提供支持的开源数据库，在兼容关系数据库特性的同时，结合了 ORM 的声明模式和 GraphQL 式的深度查询。自带 WebUI 界面，支持在线编辑数据、查询、关系可视化等功能。
+24、[eg](https://hellogithub.com/periodical/statistics/click?target=https://github.com/srsudar/eg)：常用的 Linux 命令示例查询工具。它提供了 Linux 命令的常见用法，不仅使用方便而且示例简洁实用。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/31691072.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+25、[gel](https://hellogithub.com/periodical/statistics/click?target=https://github.com/geldata/gel)：一款采用图-关系模型的新型开源数据库。一个底层由 PostgreSQL 提供支持的开源数据库，在兼容关系数据库特性的同时，结合了 ORM 的声明模式和 GraphQL 式的深度查询。自带 WebUI 界面，支持在线编辑数据、查询、关系可视化等功能。
 ```
 type Person {
   required property name -> str;
@@ -244,10 +248,6 @@ type Movie {
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/95817032.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-25、[eg](https://hellogithub.com/periodical/statistics/click?target=https://github.com/srsudar/eg)：常用的 Linux 命令示例查询工具。它提供了 Linux 命令的常见用法，不仅使用方便而且示例简洁实用。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/31691072.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 26、[manim](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ManimCommunity/manim)：用于创建数学动画的 Python 框架。它可以用简单的代码制作出精美的数学动画，通过动画的方式直观地解释一些复杂的数学问题。来自 [@databook](https://hellogithub.com/user/1qC4w2Ey6bu0fgR) 的分享
 ```python

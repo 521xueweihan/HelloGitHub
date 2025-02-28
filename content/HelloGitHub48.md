@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 48 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>

@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 84 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -241,7 +241,7 @@ john = table.find_one(name='John Doe')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/382787545.png' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[llama.cpp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ggerganov/llama.cpp)：在笔记本上运行 LLaMA 大模型。该项目实现了在 CPU 上流畅运行 LLaMA 模型，支持 macOS、Linux、Windows 操作系统。
+37、[llama.cpp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ggml-org/llama.cpp)：在笔记本上运行 LLaMA 大模型。该项目实现了在 CPU 上流畅运行 LLaMA 模型，支持 macOS、Linux、Windows 操作系统。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/612354784.png' style="max-width:80%; max-height=80%;"></img></p>
 

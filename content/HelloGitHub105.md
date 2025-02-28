@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 105 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -39,7 +39,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/105/188601229.png' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[WLED](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Aircoookie/WLED)：无线控制 LED 灯带。该项目是一个运行在 ESP32 和 ESP8266 上的 Web 服务器，可实现通过 WiFi 控制 LED 灯带的颜色和效果，支持 100 种特效、50 种调色板、250 个用户自定义预设等功能。
+6、[WLED](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wled/WLED)：无线控制 LED 灯带。该项目是一个运行在 ESP32 和 ESP8266 上的 Web 服务器，可实现通过 WiFi 控制 LED 灯带的颜色和效果，支持 100 种特效、50 种调色板、250 个用户自定义预设等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/105/76990209.png' style="max-width:80%; max-height=80%;"></img></p>
 

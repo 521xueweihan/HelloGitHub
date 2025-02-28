@@ -1,5 +1,5 @@
 # HelloGitHub Vol.82
-> Passion is the best teacher. **HelloGitHub** inspires your interest in programming!
+> Passion is the best teacher. **HelloGitHub** inspires your interest in open-source!
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -222,7 +222,7 @@ h_flow() # "Hello, World! I'm HelloGitHub!"
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/575340621.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[gitui](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/extrawurst/gitui)：Git Command Line Tool with Interface. This project offers a terminal interface for git, allowing users to more smoothly utilize git. The interactive prompts mean you no longer need to memorize numerous git commands.
+31、[gitui](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/gitui-org/gitui)：Git Command Line Tool with Interface. This project offers a terminal interface for git, allowing users to more smoothly utilize git. The interactive prompts mean you no longer need to memorize numerous git commands.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/247725846.gif' style="max-width:80%; max-height=80%;"></img></p>
 

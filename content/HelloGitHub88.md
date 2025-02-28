@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 88 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -266,7 +266,7 @@ async def on_hello_world(msg: HelloWorld):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/321659062.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[DeepSpeed](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/DeepSpeed)：微软开源的深度学习训练优化库。众所周知训练大模型(LLM)是一件“费时费钱”的事情，该项目通过 ZeRO++ 技术，在训练时将模型状态分割到每个 GPU 上，通过提高吞吐量的方式，降低训练所需的时间和成本。来自 [@zhizhu](https://hellogithub.com/user/8Z0noszd4uOVXyI) 的分享
+30、[DeepSpeed](https://hellogithub.com/periodical/statistics/click?target=https://github.com/deepspeedai/DeepSpeed)：微软开源的深度学习训练优化库。众所周知训练大模型(LLM)是一件“费时费钱”的事情，该项目通过 ZeRO++ 技术，在训练时将模型状态分割到每个 GPU 上，通过提高吞吐量的方式，降低训练所需的时间和成本。来自 [@zhizhu](https://hellogithub.com/user/8Z0noszd4uOVXyI) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/235860204.gif' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 95 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -246,7 +246,7 @@ client.index('movies').add_documents([
 
 33、[nn-zero-to-hero](https://hellogithub.com/periodical/statistics/click?target=https://github.com/karpathy/nn-zero-to-hero)：从零到神经网络高手。这是一门从基础开始的神经网络课程，包含视频、练习和配套源码，帮助初学者初逐步掌握神经网络的基本概念，并通过实例代码来加深理解。
 
-34、[pandas-ai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Sinaptik-AI/pandas-ai)：数据分析对话化的开源库。该项目将 AIGC 和数据分析相结合，让用户可以通过自然语言向自己的数据进行提问，并获得相应的回答。首先，需要将数据以 pandas 的方式进行导入，然后配置好 OpenAI TOKEN 就可以开始通过对话和绘制图表等方式与数据进行交互，而无需编写代码。
+34、[pandas-ai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sinaptik-ai/pandas-ai)：数据分析对话化的开源库。该项目将 AIGC 和数据分析相结合，让用户可以通过自然语言向自己的数据进行提问，并获得相应的回答。首先，需要将数据以 pandas 的方式进行导入，然后配置好 OpenAI TOKEN 就可以开始通过对话和绘制图表等方式与数据进行交互，而无需编写代码。
 ```python
 import pandas as pd
 from pandasai import SmartDataframe

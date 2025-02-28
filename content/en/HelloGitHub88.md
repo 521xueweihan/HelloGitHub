@@ -1,5 +1,5 @@
 # HelloGitHub Vol.88
-> Passion is the best teacher. **HelloGitHub** inspires your interest in programming!
+> Passion is the best teacher. **HelloGitHub** inspires your interest in open-source!
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -259,7 +259,7 @@ async def on_hello_world(msg: HelloWorld):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/321659062.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[DeepSpeed](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/microsoft/DeepSpeed)：Microsoft Open-Sources the Deep Learning Training Optimization Library. As everyone knows, training large language models (LLM) is a 'time-consuming and costly' task. This project reduces the time and cost required for training by leveraging ZeRO++ technology, which segments the model state onto each GPU, thereby increasing throughput.Shared by [@zhizhu](https://hellogithub.com/en/user/8Z0noszd4uOVXyI)
+30、[DeepSpeed](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/deepspeedai/DeepSpeed)：Microsoft Open-Sources the Deep Learning Training Optimization Library. As everyone knows, training large language models (LLM) is a 'time-consuming and costly' task. This project reduces the time and cost required for training by leveraging ZeRO++ technology, which segments the model state onto each GPU, thereby increasing throughput.Shared by [@zhizhu](https://hellogithub.com/en/user/8Z0noszd4uOVXyI)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/235860204.gif' style="max-width:80%; max-height=80%;"></img></p>
 

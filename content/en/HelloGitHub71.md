@@ -1,5 +1,5 @@
 # HelloGitHub Vol.71
-> Passion is the best teacher. **HelloGitHub** inspires your interest in programming!
+> Passion is the best teacher. **HelloGitHub** inspires your interest in open-source!
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -108,8 +108,7 @@ $ nali 1.2.3.4
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/96237042.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[vitess](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/vitessio/vitess)：用于横向扩展 MySQL 数据库的集群系统。基于 Go 语言的并发特性，它能够轻松处理数千个连接。还可以根据配置好的规则，自动优化影响数据库性能的查询，运维方面支持自动处理主故障转移和备份等功能
-
+12、[vitess](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/vitessio/vitess)：Unlocking MySQL's Horizontal Scaling Capabilities. This is a distributed database cluster system designed specifically for MySQL, used for deploying, scaling, and managing large MySQL instance clusters. By encapsulating sharding logic, it reduces the complexity of application programs and database queries. It supports dynamic sharding split/merge, high-throughput, and low-latency database operations, making it suitable for enterprise applications that require horizontal scaling of MySQL databases.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/11008207.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -299,8 +298,7 @@ try app.run()
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/49910095.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### AI
-33、[ColossalAI](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hpcaitech/ColossalAI)：高效的分布式人工智能训练系统。它能帮助用户在提升人工智能训练效率的同时降低训练成本，从而适应快速迭代的算法和模型，将 AI 大模型以低成本便捷推广到更多应用场景
-
+33、[ColossalAI](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hpcaitech/ColossalAI)：Making Large AI Models More Cost-Effective, User-Friendly, and Scalable. An efficient distributed AI training system. It helps users improve AI training efficiency while reducing training costs, thus adapting to rapidly iterating algorithms and models, and promoting large AI models to more application scenarios at a lower cost and with greater convenience.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/422274596.png' style="max-width:80%; max-height=80%;"></img></p>
 

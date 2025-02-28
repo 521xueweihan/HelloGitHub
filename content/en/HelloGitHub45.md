@@ -1,5 +1,5 @@
 # HelloGitHub Vol.45
-> Passion is the best teacher. **HelloGitHub** inspires your interest in programming!
+> Passion is the best teacher. **HelloGitHub** inspires your interest in open-source!
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -43,7 +43,7 @@ target("test")
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/113807330.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C++
-5、[pika](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/OpenAtomFoundation/pika)：一个企业级开源的可持久化的大容量（百G）redis 存储服务。兼容 redis 的绝大部分接口，解决 redis 由于存储数据量巨大而导致内存不够用的容量瓶颈。并且可以像 redis 一样，通过 slaveof 命令进行主从备份，支持全同步和部分同步
+5、[pikiwidb](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/OpenAtomFoundation/pikiwidb)：一个企业级开源的可持久化的大容量（百G）redis 存储服务。兼容 redis 的绝大部分接口，解决 redis 由于存储数据量巨大而导致内存不够用的容量瓶颈。并且可以像 redis 一样，通过 slaveof 命令进行主从备份，支持全同步和部分同步
 
 
 6、[ThreadPool](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/progschj/ThreadPool)：一个简单的 C++11 线程池实现，代码加起来不到 100 行。示例代码：

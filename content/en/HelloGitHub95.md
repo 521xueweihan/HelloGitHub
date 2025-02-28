@@ -1,5 +1,5 @@
 # HelloGitHub Vol.95
-> Passion is the best teacher. **HelloGitHub** inspires your interest in programming!
+> Passion is the best teacher. **HelloGitHub** inspires your interest in open-source!
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -239,7 +239,7 @@ client.index('movies').add_documents([
 
 33、[nn-zero-to-hero](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/karpathy/nn-zero-to-hero)：From Zero to Neural Network Expert. This course starts from the very basics, including video lectures, exercises, and corresponding source code, designed to help beginners gradually master the fundamental concepts of neural networks and deepen understanding through example code.
 
-34、[pandas-ai](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Sinaptik-AI/pandas-ai)：Open Source Library for Dialogue-based Data Analysis. This project integrates AIGC with data analysis, enabling users to ask questions to their data through natural language and receive corresponding answers. Initially, data must be imported in the manner of pandas, then after configuring the OpenAI TOKEN, one can start interacting with the data through dialogue and chart drawing without the need for writing code.
+34、[pandas-ai](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/sinaptik-ai/pandas-ai)：Open Source Library for Dialogue-based Data Analysis. This project integrates AIGC with data analysis, enabling users to ask questions to their data through natural language and receive corresponding answers. Initially, data must be imported in the manner of pandas, then after configuring the OpenAI TOKEN, one can start interacting with the data through dialogue and chart drawing without the need for writing code.
 ```python
 import pandas as pd
 from pandasai import SmartDataframe
