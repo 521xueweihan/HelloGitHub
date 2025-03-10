@@ -1,0 +1,112 @@
+name: "Submit Project"
+description: "Submit an open-source project"
+title: "[Open Source] "
+assignees:
+  - "521xueweihan"
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Project Recommendation
+
+        This is the entry point for recommending open-source projects to HelloGitHub Monthly. You're welcome to recommend your own projects or other great open-source projects. Please follow the prompts below to describe your project.
+
+  - type: input
+    id: project_url
+    attributes:
+      label: "Project URL"
+      description: "Only open-source projects hosted on GitHub are accepted. Please provide the GitHub repository URL."
+      placeholder: "https://github.com/username/repo"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: "Category"
+      description: "Please select the project's category"
+      options:
+        - C
+        - C#
+        - C++
+        - CSS
+        - Go
+        - Java
+        - JS
+        - Kotlin
+        - Objective-C
+        - PHP
+        - Python
+        - Ruby
+        - Rust
+        - Swift
+        - Other
+        - Books
+        - Machine Learning
+    validations:
+      required: true
+
+  - type: input
+    id: project_title
+    attributes:
+      label: "Project Title"
+      description: "Briefly summarize the project in about 20 words, like a clear article headline."
+      placeholder: "e.g., A tutorial project helping beginners learn Python"
+    validations:
+      required: true
+      max_length: 50
+
+  - type: textarea
+    id: project_description
+    attributes:
+      label: "Project Description"
+      description: "What is this project about? What can it do? What special features or pain points does it address? What scenarios is it suitable for, and what can beginners learn from it? (32-256 characters)"
+      placeholder: "e.g., This is a beginner-friendly Python tutorial that helps people with zero programming experience quickly grasp basic Python syntax and programming concepts."
+    validations:
+      required: true
+      min_length: 32
+      max_length: 256
+
+  - type: textarea
+    id: project_highlights
+    attributes:
+      label: "Highlights"
+      description: "What makes this project stand out? How does it differ from similar projects?"
+      placeholder: "e.g., Each topic comes with vivid and easy-to-understand examples, lowering the learning barrier."
+    validations:
+      required: true
+
+  - type: textarea
+    id: example_code
+    attributes:
+      label: "Example Code"
+      description: "Optional. Provide example code snippets from the project."
+      placeholder: "e.g.,\n```python\nprint('Hello, world!')\n```"
+      render: markdown
+    validations:
+      required: false
+  
+  - type: textarea
+    id: project_screenshot
+    attributes:
+      label: "Screenshots or Demo Videos"
+      description: "Optional. You can directly upload image or video files, or paste external links."
+      placeholder: "Paste image or video links here, or drag files directly to upload."
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Tips for Improving Project Acceptance
+
+        1. **Do not use copied content** as your project description.
+
+        2. Visit [HelloGitHub website](https://hellogithub.com) to search for the project URL you're recommending to verify if it has already been recommended.
+
+        3. Adjust your submission according to the [Project Review Guidelines](https://github.com/521xueweihan/HelloGitHub/issues/271).
+
+        If your recommended project is included in HelloGitHub Monthly, your GitHub username will appear in the [contributors list](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md), **and you'll be notified in this issue**.
+
+        Thank you for supporting the HelloGitHub project!

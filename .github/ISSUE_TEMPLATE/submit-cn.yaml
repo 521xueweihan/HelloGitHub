@@ -1,0 +1,112 @@
+name: "提交项目"
+description: "提交一个开源项目"
+title: "[开源推荐] "
+assignees:
+  - "521xueweihan"
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 推荐项目
+
+        这里是 HelloGitHub 月刊推荐项目的入口，欢迎自荐和推荐开源项目，唯一要求：请按照下面的提示介绍项目。
+
+  - type: input
+    id: project_url
+    attributes:
+      label: "项目地址"
+      description: "仅收录 GitHub 上的开源项目，请填写 GitHub 的项目地址"
+      placeholder: "https://github.com/username/repo"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: "类别"
+      description: "请选择项目的类别"
+      options:
+        - C
+        - C#
+        - C++
+        - CSS
+        - Go
+        - Java
+        - JS
+        - Kotlin
+        - Objective-C
+        - PHP
+        - Python
+        - Ruby
+        - Rust
+        - Swift
+        - 其它
+        - 书籍
+        - 人工智能
+    validations:
+      required: true
+
+  - type: input
+    id: project_title
+    attributes:
+      label: "项目标题"
+      description: "请用 20 个左右的字描述它是做什么的，类似文章标题让人一目了然"
+      placeholder: "例如：一个帮助初学者入门Python的教程项目"
+    validations:
+      required: true
+      max_length: 50
+
+  - type: textarea
+    id: project_description
+    attributes:
+      label: "项目描述"
+      description: "这是个什么项目、能用来干什么、有什么特点或解决了什么痛点，适用于什么场景、能够让初学者学到什么。长度 32-256 字符"
+      placeholder: "例如：这是一个Python入门教程，帮助零基础的初学者快速学习Python基础语法和编程思维。"
+    validations:
+      required: true
+      min_length: 32
+      max_length: 256
+
+  - type: textarea
+    id: project_highlights
+    attributes:
+      label: "亮点"
+      description: "令人眼前一亮的点是什么？类比同类型项目有什么特点！"
+      placeholder: "例如：每个知识点都配备了生动的实例，降低了学习门槛。"
+    validations:
+      required: true
+
+  - type: textarea
+    id: example_code
+    attributes:
+      label: "示例代码"
+      description: "可选，提供项目的示例代码"
+      placeholder: "例如：\n```python\nprint('Hello, world!')\n```"
+      render: markdown
+    validations:
+      required: false
+  
+  - type: textarea
+    id: project_screenshot
+    attributes:
+      label: "截图或演示视频"
+      description: "可选，请直接上传图片或演示视频文件，也可以粘贴外部链接"
+      placeholder: "在此处粘贴图片或视频链接，或直接拖拽上传"
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ## 提高项目收录的方法
+
+        1. **请勿使用复制的内容**作为项目描述提交！
+
+        2. 到 [HelloGitHub网站](https://hellogithub.com) 搜索要推荐的项目地址，查看准备推荐的项目**是否被推荐过**。
+
+        3. 根据 [项目审核标准说明](https://github.com/521xueweihan/HelloGitHub/issues/271) 修改项目。
+
+        如您推荐的项目收录到《HelloGitHub》月刊，您的 GitHub 帐号将展示在 [贡献人列表](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md)，**同时会在本 issue 中通知您**。
+
+        最后，感谢您对 HelloGitHub 项目的支持！
