@@ -68,24 +68,24 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/316836816.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Go
-12、[answer](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/apache/answer)：一款开源的问答社区。采用 Go 语言编写的问答社区，支持积分、提问、回答、标签等功能，部署简单。Shared by [@孤胆枪手](https://hellogithub.com/en/user/i1wAIyo6P3NXkxm)
+12、[answer](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/apache/answer)：An Open-Source Q&A Community. This is a Q&A community written in Go language, which supports features such as point system, asking questions, answering, tagging, etc., and is easy to deploy.Shared by [@孤胆枪手](https://hellogithub.com/en/user/i1wAIyo6P3NXkxm)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/542931741.png' style="max-width:80%; max-height=80%;"></img></p>
 
-13、[btree](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/google/btree)：Go 语言实现的 B-树 数据结构。由谷歌开源的 B-树 Go 语言实现，代码整洁、注释丰富，推荐阅读源码。B-树 这种数据结构，能够让查找数据、顺序访问、插入及删除操作，都在对数时间内完成，多用于数据库和文件系统。
+13、[btree](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/google/btree)：B-Tree Data Structure Implemented in Go Language. An open-source implementation of the B-Tree data structure in Go language by Google. The code is clean and well-commented, making it highly recommended for reading the source code. The B-Tree data structure enables data lookup, sequential access, insertion, and deletion operations to be completed in logarithmic time, and is widely used in databases and file systems.
 
-14、[nap](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/maaslalani/nap)：一款命令行的代码片段管理工具。该项目可以通过命令行界面，快速创建和管理代码片段。支持快捷键、搜索、代码高亮、自定义颜色等功能，操作简单方便。
+14、[nap](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/maaslalani/nap)：CLI Code Snippet Management Tool. This project allows for the quick creation and management of code snippets through a command-line interface. It supports features like keyboard shortcuts, search functions, code highlighting, and customizable color schemes, making operation simple and convenient.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/565010765.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-15、[oh-my-posh](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/JanDeDobbeleer/oh-my-posh)：适用于多种 shell 的终端提示个性化工具。该项目内置多款主题开箱即用，支持 Windows、Linux、macOS 三个系统上的 PowerShell、Bash、Zsh 等多种 shell，自动补全你输入的每个命令。
+15、[oh-my-posh](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/JanDeDobbeleer/oh-my-posh)：Terminal Prompt Customization Tool for Various Shells. This project comes with multiple themes ready to use out of the box and supports various shells such as PowerShell, Bash, Zsh on three operating systems: Windows, Linux, and macOS, automatically completing every command you type.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/175405157.png' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[raft](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hashicorp/raft)：Raft 算法的 Go 语言实现。Raft 是一种分布式一致性算法(共识算法)，常用于分布式集群内的任意节点，在某种状态转换上保持一致。
+16、[raft](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hashicorp/raft)：Go Implementation of Raft Algorithm. Raft is a distributed consistency algorithm (consensus algorithm), commonly used in distributed clusters to maintain consistency among arbitrary nodes during state transitions.
 
 ### Java
-17、[JimuReport](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/jeecgboot/JimuReport)：一款在线制作报表的工具。该项目可通过在线拖拽制作报表，支持报表设计、图形报表、大屏展示等功能。
+17、[jimureport](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/jeecgboot/jimureport)：An Online Tool for Creating Reports. This project allows the creation of reports through online drag and drop, supporting features such as report design, graphical reports, and large screen display.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/226096934.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -93,7 +93,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/224230574.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-19、[leetcode-editor](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/shuzijun/leetcode-editor)：刷 LeetCode 的 IDE 插件。让你可以在 IDE 里刷 LeetCode 算法题的插件，支持 IntelliJ IDEA、PyCharm、GoLand 在内的 Jetbrains 全家桶。
+19、[leetcode-editor](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/shuzijun/leetcode-editor)：LeetCode IDE Plugin for Solving Problems. A plugin that allows you to practice LeetCode algorithm questions directly within your IDE, compatible with IntelliJ IDEA, PyCharm, GoLand, and all other JetBrains IDEs.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/176555805.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -135,7 +135,7 @@ function getOS() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/141910081.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[watching-you](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/jj811208/watching-you)：让 DOM 像眼睛一样注视的 JS 动画库。这是一个简易的动画库，主要用于计算一个 DOM 与观察目标，比如鼠标、DOM、输入框值之间的位置，从而做出一些有趣的动画，比方说让它变成跟眼睛一样。
+25、[watching-you](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/jj811208/watching-you)：A JS Animation Library That Lets DOM Gaze Like Eyes. This is a simple animation library primarily used to calculate the position of a DOM element relative to a target, such as a mouse, another DOM element, or the value of an input field, to create interesting animations that make it act like eyes.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/534763581.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -165,7 +165,7 @@ def article_stats():
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/132709824.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[FileCodeBox](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/vastsa/FileCodeBox)：一款匿名口令分享文本和文件的服务。该项目是基于 FastAPI+SQLite3 开发的文件分享服务，支持分享文件、口令提取文件等功能，无需注册即可完成文件提取。Shared by [@神经蛙bAwXs](https://hellogithub.com/en/user/aBnyJNWvqRc4HXj)
+30、[FileCodeBox](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/vastsa/FileCodeBox)：Service for Anonymous Password Sharing of Text and Files. This project is a file-sharing service developed based on FastAPI and SQLite3, supporting functions such as sharing files and extracting files with passwords, allowing file extraction without registration.Shared by [@神经蛙bAwXs](https://hellogithub.com/en/user/aBnyJNWvqRc4HXj)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/576247474.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -200,7 +200,7 @@ if __name__ == '__main__':
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/232793032.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### AI
-35、[DeOldify](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/jantic/DeOldify)：一款可以给老旧照片上色的项目。该项目基于深度学习实现了对黑白图像和视频进行着色的功能。
+35、[DeOldify](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/jantic/DeOldify)：A Project for Coloring Old Photographs. This project utilizes deep learning to implement the coloring of black and white images and videos.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/155636246.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -235,7 +235,7 @@ for i in range(10):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/166813643.png' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[portal_calendar](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/wuspy/portal_calendar)：自制电子墨水屏的日历。基于 ESP32 的电子墨水屏日历，使用 4 节 7 号电池可运行多年，支持通过 OpenWeatherMap 实现天气显示等功能。
+40、[portal_calendar](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/wuspy/portal_calendar)：DIY E-Ink Calendar. An ESP32-based E-Ink calendar that can operate for years on 4 AA batteries and supports weather display and other features through OpenWeatherMap.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/519401968.jpg' style="max-width:80%; max-height=80%;"></img></p>
 

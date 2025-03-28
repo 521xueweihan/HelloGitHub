@@ -301,7 +301,7 @@ print(user_info.age)
 #> 30
 ```
 
-33、[lite.ai.toolkit](https://hellogithub.com/periodical/statistics/click?target=https://github.com/DefTruth/lite.ai.toolkit)：轻量级的 C++ AI 工具包。这是一个用 C++ 编写的 AI 工具包，内置超过 100 种 AI 模型，包括对象检测、人脸识别、分割、抠图等领域。它支持 ONNXRuntime、MNN、NCNN、TNN 和 TensorRT 等主流推理引擎，帮助开发者快速部署和使用 AI 模型。来自 [@wangzijian](https://hellogithub.com/user/1NZpMjQFDvCfaEK) 的分享
+33、[lite.ai.toolkit](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xlite-dev/lite.ai.toolkit)：轻量级的 C++ AI 工具包。这是一个用 C++ 编写的 AI 工具包，内置超过 100 种 AI 模型，包括对象检测、人脸识别、分割、抠图等领域。它支持 ONNXRuntime、MNN、NCNN、TNN 和 TensorRT 等主流推理引擎，帮助开发者快速部署和使用 AI 模型。来自 [@wangzijian](https://hellogithub.com/user/1NZpMjQFDvCfaEK) 的分享
 ```c++
 #include "lite/lite.h"
 

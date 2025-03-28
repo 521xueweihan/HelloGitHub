@@ -92,7 +92,7 @@
 16、[raft](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hashicorp/raft)：Raft 算法的 Go 语言实现。Raft 是一种分布式一致性算法(共识算法)，常用于分布式集群内的任意节点，在某种状态转换上保持一致。
 
 ### Java 项目
-17、[JimuReport](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jeecgboot/JimuReport)：一款在线制作报表的工具。该项目可通过在线拖拽制作报表，支持报表设计、图形报表、大屏展示等功能。
+17、[jimureport](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jeecgboot/jimureport)：一款在线制作报表的工具。该项目可通过在线拖拽制作报表，支持报表设计、图形报表、大屏展示等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/226096934.gif' style="max-width:80%; max-height=80%;"></img></p>
 

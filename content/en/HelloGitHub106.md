@@ -294,7 +294,7 @@ print(user_info.age)
 #> 30
 ```
 
-33、[lite.ai.toolkit](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/DefTruth/lite.ai.toolkit)：Lightweight C++ AI Toolkit. This is an AI toolkit written in C++, which includes more than 100 AI models, covering areas such as object detection, facial recognition, segmentation, and background removal. It supports mainstream inference engines like ONNXRuntime, MNN, NCNN, TNN, and TensorRT, helping developers quickly deploy and utilize AI models.Shared by [@wangzijian](https://hellogithub.com/en/user/1NZpMjQFDvCfaEK)
+33、[lite.ai.toolkit](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/xlite-dev/lite.ai.toolkit)：Lightweight C++ AI Toolkit. This is an AI toolkit written in C++, which includes more than 100 AI models, covering areas such as object detection, facial recognition, segmentation, and background removal. It supports mainstream inference engines like ONNXRuntime, MNN, NCNN, TNN, and TensorRT, helping developers quickly deploy and utilize AI models.Shared by [@wangzijian](https://hellogithub.com/en/user/1NZpMjQFDvCfaEK)
 ```c++
 #include "lite/lite.h"
 

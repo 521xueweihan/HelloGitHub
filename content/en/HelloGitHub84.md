@@ -191,7 +191,7 @@ john = table.find_one(name='John Doe')
 
 27、[secretflow](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/secretflow/secretflow)：Ant Financial's Open Source Framework for Privacy Computing. Privacy computing refers to the use of technology to ensure that data is usable by participants without being visible, allowing the data to be circulated and shared without compromising security and privacy. This project is written in Python and supports various mainstream privacy computing technologies including MPC (Multi-Party Computation), FL (Federated Learning), TEE (Trusted Execution Environment), HE (Homomorphic Encryption), and DP (Differential Privacy).Shared by [@vector](https://hellogithub.com/en/user/UBnaedx6ch7KzF4)
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/481901631.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/481901631.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 28、[shynet](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/milesmcc/shynet)：Minimalist Web Analytics Platform. This is a web analytics platform built on Django that is small, functional, user-friendly, does not track cookies, supports multiple users, and its tracking script is less than 1KB.
 

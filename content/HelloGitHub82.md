@@ -29,7 +29,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/6041301.png' style="max-width:80%; max-height=80%;"></img></p>
 
-3、[ZSWatch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jakkra/ZSWatch)：自制开源智能手表。该项目是基于开源 Zephyr 的智能手表，设备包含了一个分辨率为 240x240 的 IPS TFT 圆形屏幕和 3 个按钮(上一页/下一页/进入)，支持计步、血氧仪、心率仪、蓝牙等功能。
+3、[ZSWatch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ZSWatch/ZSWatch)：自制开源智能手表。该项目是基于开源 Zephyr 的智能手表，设备包含了一个分辨率为 240x240 的 IPS TFT 圆形屏幕和 3 个按钮(上一页/下一页/进入)，支持计步、血氧仪、心率仪、蓝牙等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/529594820.gif' style="max-width:80%; max-height=80%;"></img></p>
 

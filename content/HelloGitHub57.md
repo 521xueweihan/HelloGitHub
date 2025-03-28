@@ -201,7 +201,7 @@ $ publish new
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/230532062.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 人工智能
-26、[pulse](https://hellogithub.com/periodical/statistics/click?target=https://github.com/adamian98/pulse)：根据包含马赛克的人脸图像，生成一张相似容貌的结果。注意不是复原哦，仅可用于人脸
+26、[pulse](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alex-damian/pulse)：根据包含马赛克的人脸图像，生成一张相似容貌的结果。注意不是复原哦，仅可用于人脸
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/265645902.gif' style="max-width:80%; max-height=80%;"></img></p>

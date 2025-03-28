@@ -191,7 +191,7 @@ john = table.find_one(name='John Doe')
 
 27、[secretflow](https://hellogithub.com/periodical/statistics/click?target=https://github.com/secretflow/secretflow)：蚂蚁开源的隐私计算框架。隐私计算即通过技术的手段实现数据在参与方可用不可见，让数据在安全和不泄露隐私的情况下流通、开放。该项目采用 Python 语言编写，支持包括 MPC、FL、TEE、HE、DP 在内的多种主流隐私计算技术。来自 [@vector](https://hellogithub.com/user/UBnaedx6ch7KzF4) 的分享
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/481901631.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/481901631.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 28、[shynet](https://hellogithub.com/periodical/statistics/click?target=https://github.com/milesmcc/shynet)：极简的网站分析平台。这是一个基于 Django 构建的网站分析平台，它很小、够用、界面友好、不追踪 cookie、支持多用户，追踪脚本不到 1KB。
 

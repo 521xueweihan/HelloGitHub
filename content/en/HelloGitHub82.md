@@ -22,7 +22,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/6041301.png' style="max-width:80%; max-height=80%;"></img></p>
 
-3、[ZSWatch](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/jakkra/ZSWatch)：DIY Open-source Smartwatch. This project is an open-source smartwatch based on Zephyr. The device includes a 240x240 resolution IPS TFT round screen and three buttons (back/page up/page down), supporting functions such as step counting, pulse oximeter, heart rate monitor, and Bluetooth.
+3、[ZSWatch](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ZSWatch/ZSWatch)：DIY Open-source Smartwatch. This project is an open-source smartwatch based on Zephyr. The device includes a 240x240 resolution IPS TFT round screen and three buttons (back/page up/page down), supporting functions such as step counting, pulse oximeter, heart rate monitor, and Bluetooth.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/529594820.gif' style="max-width:80%; max-height=80%;"></img></p>
 

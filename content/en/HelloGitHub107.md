@@ -207,7 +207,7 @@ if num := v.Export().(int64); num != 4 {
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub106.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | 『Next』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub106.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub108.md">『Next』</a>
 </p>
 
 ---

@@ -179,7 +179,7 @@ def get_weather(place):
     return owm.weather_at_place(place).get_weather()
 ```
 
-22、[Ciphey](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Ciphey/Ciphey)：Automated Decryption/Decoding Tool for Various Encryption Algorithms. When using this project, you only have to input the encrypted text without specifying the specific encryption type, and it can automatically decrypt most encrypted texts within 3 seconds or less. This project supports over 50 common encryption/encoding methods, including binary, base64, hash, and Caesar ciphers, among others.
+22、[Ciphey](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/bee-san/Ciphey)：Automated Decryption/Decoding Tool for Various Encryption Algorithms. When using this project, you only have to input the encrypted text without specifying the specific encryption type, and it can automatically decrypt most encrypted texts within 3 seconds or less. This project supports over 50 common encryption/encoding methods, including binary, base64, hash, and Caesar ciphers, among others.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/197261780.gif' style="max-width:80%; max-height=80%;"></img></p>
 

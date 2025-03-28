@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/readme.gif"/>
   <br>中文 | <a href="README_en.md">English</a> | <a href="README_ja.md">日本語</a>
-  <br>分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
+  <br>分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到开源的乐趣！
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [第 107 期](/content/HelloGitHub107.md) | [第 106 期](/content/HelloGitHub106.md) |
+| [第 108 期](/content/HelloGitHub108.md) | [第 107 期](/content/HelloGitHub107.md) | [第 106 期](/content/HelloGitHub106.md) |
 | [第 105 期](/content/HelloGitHub105.md) | [第 104 期](/content/HelloGitHub104.md) | [第 103 期](/content/HelloGitHub103.md) | [第 102 期](/content/HelloGitHub102.md) | [第 101 期](/content/HelloGitHub101.md) |
 | [第 100 期](/content/HelloGitHub100.md) | [第 99 期](/content/HelloGitHub99.md) | [第 98 期](/content/HelloGitHub98.md) | [第 97 期](/content/HelloGitHub97.md) | [第 96 期](/content/HelloGitHub96.md) |
 | [第 95 期](/content/HelloGitHub95.md) | [第 94 期](/content/HelloGitHub94.md) | [第 93 期](/content/HelloGitHub93.md) | [第 92 期](/content/HelloGitHub92.md) | [第 91 期](/content/HelloGitHub91.md) |
