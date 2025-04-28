@@ -45,7 +45,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/93/631254164.png' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[zen](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/anfragment/zen)：An Ad Blocker for PC. This project is a desktop application written using the Go language with the Wails framework, capable of blocking various advertisements. It operates by setting up a proxy to intercept all application HTTP requests, thus preventing requests for advertisements and tracking behavior, and supports Windows, macOS, and Linux systems.
+9、[zen-desktop](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ZenPrivacy/zen-desktop)：An Ad Blocker for PC. This project is a desktop application written using the Go language with the Wails framework, capable of blocking various advertisements. It operates by setting up a proxy to intercept all application HTTP requests, thus preventing requests for advertisements and tracking behavior, and supports Windows, macOS, and Linux systems.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/93/646089579.png' style="max-width:80%; max-height=80%;"></img></p>
 

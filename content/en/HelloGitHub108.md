@@ -136,7 +136,7 @@ await run();
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/108/770438418.png' style="max-width:80%; max-height=80%;"></img></p>
 
-21、[deepdiff](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/seperman/deepdiff)：A Deep Comparison Tool for Python Objects. This is a Python library designed for deep comparison, searching, and manipulation of Python object data. It provides various modules to handle the differences of Python objects such as dictionaries, iterables, and strings, as well as content searching, hash generation, and incremental updates, among other functionalities.
+21、[deepdiff](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/seperman/deepdiff)：Library for In-Depth Comparison of Python Objects. This is a Python library designed for deep comparison, searching, and manipulation of Python object data. It provides various modules to handle the differences of Python objects such as dictionaries, iterables, and strings, as well as content searching, hash generation, and incremental updates, among other functionalities.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/108/24484622.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -244,7 +244,7 @@ ret = tf_fn(x1)
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub107.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | 『Next』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub107.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub109.md">『Next』</a>
 </p>
 
 ---

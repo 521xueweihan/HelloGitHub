@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/readme.gif"/>
   <br><a href="README.md">中文</a> | English | <a href="README_ja.md">日本語</a>
-  <br><strong>HelloGitHub</strong> is to share interesting, entry-level open source projects on GitHub.
-  <br>Interest is the best teacher, you will find the interests of open-source here!
+  <br>Sharing interesting, beginner-friendly open-source projects from GitHub.
+  <br>Interest is the best teacher—HelloGitHub helps you discover the joy of open source!
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ Will be released on the **28th of each month**. [Website](https://hellogithub.co
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [NO.108](/content/en/HelloGitHub108.md) | [NO.107](/content/en/HelloGitHub107.md) | [NO.106](/content/en/HelloGitHub106.md) |
+| [NO.109](/content/en/HelloGitHub109.md) | [NO.108](/content/en/HelloGitHub108.md) | [NO.107](/content/en/HelloGitHub107.md) | [NO.106](/content/en/HelloGitHub106.md) |
 | [NO.105](/content/en/HelloGitHub105.md) | [NO.104](/content/en/HelloGitHub104.md) | [NO.103](/content/en/HelloGitHub103.md) | [NO.102](/content/en/HelloGitHub102.md) | [NO.101](/content/en/HelloGitHub101.md) |
 | [NO.100](/content/en/HelloGitHub100.md) | [NO.99](/content/en/HelloGitHub99.md) | [NO.98](/content/en/HelloGitHub98.md) | [NO.97](/content/en/HelloGitHub97.md) | [NO.96](/content/en/HelloGitHub96.md) |
 | [NO.95](/content/en/HelloGitHub95.md) | [NO.94](/content/en/HelloGitHub94.md) | [NO.93](/content/en/HelloGitHub93.md) | [NO.92](/content/en/HelloGitHub92.md) | [NO.91](/content/en/HelloGitHub91.md) |

@@ -259,7 +259,7 @@ result = m.update(memory_id="m1", data="Likes to play tennis on weekends")
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/147530276.png' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[OMOTE](https://hellogithub.com/periodical/statistics/click?target=https://github.com/CoretechR/OMOTE)：开源的通用遥控器。该项目是用 ESP32 制作的通用遥控器，它拥有 2.8 英寸电容触摸屏、2000 毫安电池和实体按键，支持红外、WiFi 和蓝牙连接方式，能够控制各种家电。
+37、[OMOTE-Firmware](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OMOTE-Community/OMOTE-Firmware)：开源的通用遥控器。该项目是用 ESP32 制作的通用遥控器，它拥有 2.8 英寸电容触摸屏、2000 毫安电池和实体按键，支持红外、WiFi 和蓝牙连接方式，能够控制各种家电。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/655304519.gif' style="max-width:80%; max-height=80%;"></img></p>
 

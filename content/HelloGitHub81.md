@@ -147,7 +147,7 @@ function getOS() {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/534763581.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### PHP 项目
-26、[snipe-it](https://hellogithub.com/periodical/statistics/click?target=https://github.com/snipe/snipe-it)：一款 IT 资产管理系统。该项目是基于 Laravel 8 构建的适用于中小型企业的 IT 资产管理系统，支持资产分配、生成二维码标签、资产审计、保修到期提醒等功能。
+26、[snipe-it](https://hellogithub.com/periodical/statistics/click?target=https://github.com/grokability/snipe-it)：一款 IT 资产管理系统。该项目是基于 Laravel 8 构建的适用于中小型企业的 IT 资产管理系统，支持资产分配、生成二维码标签、资产审计、保修到期提醒等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/14346979.png' style="max-width:80%; max-height=80%;"></img></p>
 

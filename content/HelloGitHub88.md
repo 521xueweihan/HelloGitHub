@@ -201,7 +201,7 @@ print(tips_df.groupby('size').tip_percentage.mean())
 
 22、[fastapi-users](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fastapi-users/fastapi-users)：开箱即用的 FastAPI 用户管理。该项目可以快速将用户注册和身份认证功能集成到 FastAPI 项目中，支持注册、登录、密码重置、邮箱验证、OAuth2、自定义身份验证等功能。
 
-23、[faststream](https://hellogithub.com/periodical/statistics/click?target=https://github.com/airtai/faststream)：为你的 Web 服务轻松集成 Kafka 的 Python 库。基于 Pydantic、AIOKafka 构建的 Python 库，可用于快速开发与 Kafka 交互的异步 Python 程序。
+23、[faststream](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ag2ai/faststream)：为你的 Web 服务轻松集成 Kafka 的 Python 库。基于 Pydantic、AIOKafka 构建的 Python 库，可用于快速开发与 Kafka 交互的异步 Python 程序。
 ```python
 from fastkafka import FastKafka
 from pydantic import BaseModel, Field

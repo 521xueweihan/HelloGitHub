@@ -52,7 +52,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/93/631254164.png' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[zen](https://hellogithub.com/periodical/statistics/click?target=https://github.com/anfragment/zen)：一款适用于 PC 的广告拦截器。该项目是采用 Go 语言 Wails 框架写的能够屏蔽各种广告的桌面工具。它的工作原理是设置一个代理，拦截所有应用的 HTTP 请求，从而阻止广告和跟踪行为的请求，支持 Windows、macOS 和 Linux 操作系统。
+9、[zen-desktop](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ZenPrivacy/zen-desktop)：一款适用于 PC 的广告拦截器。该项目是采用 Go 语言 Wails 框架写的能够屏蔽各种广告的桌面工具。它的工作原理是设置一个代理，拦截所有应用的 HTTP 请求，从而阻止广告和跟踪行为的请求，支持 Windows、macOS 和 Linux 操作系统。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/93/646089579.png' style="max-width:80%; max-height=80%;"></img></p>
 

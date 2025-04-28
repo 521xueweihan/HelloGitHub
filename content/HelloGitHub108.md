@@ -143,7 +143,7 @@ await run();
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/108/770438418.png' style="max-width:80%; max-height=80%;"></img></p>
 
-21、[deepdiff](https://hellogithub.com/periodical/statistics/click?target=https://github.com/seperman/deepdiff)：深度比较 Python 对象的工具。这是一个用于深度比较、搜索和操作 Python 对象数据的 Python 库。它提供了多种模块，支持处理字典、可迭代对象、字符串等 Python 对象的差异，以及内容搜索、哈希生成和增量更新等功能。
+21、[deepdiff](https://hellogithub.com/periodical/statistics/click?target=https://github.com/seperman/deepdiff)：深入比较 Python 对象的库。这是一个用于深度比较、搜索和操作 Python 对象数据的 Python 库。它提供了多种模块，支持处理字典、可迭代对象、字符串等 Python 对象的差异，以及内容搜索、哈希生成和增量更新等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/108/24484622.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -251,7 +251,7 @@ ret = tf_fn(x1)
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub107.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub107.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub109.md">『下一期』</a>
 </p>
 
 ---

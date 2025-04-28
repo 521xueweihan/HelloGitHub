@@ -158,7 +158,7 @@ if num := v.Export().(int64); num != 4 {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/857733465.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[AstrBot](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Soulter/AstrBot)：Easy-to-Use Multi-platform LLM Chatbot. This project is an LLM chatbot and development framework built with Python, supporting integration with various messaging platforms and large language models. It offers a visual management panel and a flexible plugin extension mechanism, with features like rate limiting, whitelists, keyword filtering, image understanding, and speech-to-text.Shared by [@大痴小乙zt2kV](https://hellogithub.com/en/user/wg8ucRq0Lb75zTy)
+33、[AstrBot](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/AstrBotDevs/AstrBot)：Easy-to-Use Multi-platform LLM Chatbot. This project is an LLM chatbot and development framework built with Python, supporting integration with various messaging platforms and large language models. It offers a visual management panel and a flexible plugin extension mechanism, with features like rate limiting, whitelists, keyword filtering, image understanding, and speech-to-text.Shared by [@大痴小乙zt2kV](https://hellogithub.com/en/user/wg8ucRq0Lb75zTy)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/575865240.png' style="max-width:80%; max-height=80%;"></img></p>
 

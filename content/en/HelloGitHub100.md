@@ -252,7 +252,7 @@ result = m.update(memory_id="m1", data="Likes to play tennis on weekends")
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/147530276.png' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[OMOTE](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/CoretechR/OMOTE)：Open Source Universal Remote Controller. This project is a universal remote controller crafted with the ESP32 that features a 2.8-inch capacitive touch screen, a 2000 mAh battery, and physical buttons, supporting infrared, WiFi, and Bluetooth connectivity options, thus enabling control over a variety of household appliances.
+37、[OMOTE-Firmware](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/OMOTE-Community/OMOTE-Firmware)：Open Source Universal Remote Controller. This project is a universal remote controller crafted with the ESP32 that features a 2.8-inch capacitive touch screen, a 2000 mAh battery, and physical buttons, supporting infrared, WiFi, and Bluetooth connectivity options, thus enabling control over a variety of household appliances.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/655304519.gif' style="max-width:80%; max-height=80%;"></img></p>
 

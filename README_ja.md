@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/readme.gif"/>
   <br><a href="README.md">中文</a> | <a href="README_en.md">English</a> | 日本語
-  <br><strong>HelloGitHub</strong> は、興味深い、エントリーレベルのオープンソースプロジェクトを GitHub で共有することです。
-  <br>興味は最高の教師であり、あなたはここでプログラミングの興味を見つけるだろう！
+  <br>GitHub上の面白くて初心者向けのオープンソースプロジェクトを紹介します。
+  <br>興味は最高の先生です。HelloGitHubが、あなたのオープンソースの楽しさを見つけるお手伝いをします！
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [第 108 号](/content/HelloGitHub108.md) | [第 107 号](/content/HelloGitHub107.md) | [第 106 号](/content/HelloGitHub106.md) |
+| [第 109 号](/content/HelloGitHub109.md) | [第 108 号](/content/HelloGitHub108.md) | [第 107 号](/content/HelloGitHub107.md) | [第 106 号](/content/HelloGitHub106.md) |
 | [第 105 号](/content/HelloGitHub105.md) | [第 104 号](/content/HelloGitHub104.md) | [第 103 号](/content/HelloGitHub103.md) | [第 102 号](/content/HelloGitHub102.md) | [第 101 号](/content/HelloGitHub101.md) |
 | [第 100 号](/content/HelloGitHub100.md) | [第 99 号](/content/HelloGitHub99.md) | [第 98 号](/content/HelloGitHub98.md) | [第 97 号](/content/HelloGitHub97.md) | [第 96 号](/content/HelloGitHub96.md) |
 | [第 95 号](/content/HelloGitHub95.md) | [第 94 号](/content/HelloGitHub94.md) | [第 93 号](/content/HelloGitHub93.md) | [第 92 号](/content/HelloGitHub92.md) | [第 91 号](/content/HelloGitHub91.md) |

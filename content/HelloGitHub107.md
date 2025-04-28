@@ -165,7 +165,7 @@ if num := v.Export().(int64); num != 4 {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/857733465.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[AstrBot](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Soulter/AstrBot)：易上手的多平台 LLM 聊天机器人。该项目是基于 Python 构建的 LLM 聊天机器人及开发框架，支持集成多种消息平台和大语言模型。它提供了可视化管理面板和灵活的插件扩展机制，支持速率限制、白名单、关键词过滤、图片理解和语音转文字等功能。来自 [@大痴小乙zt2kV](https://hellogithub.com/user/wg8ucRq0Lb75zTy) 的分享
+33、[AstrBot](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AstrBotDevs/AstrBot)：易上手的多平台 LLM 聊天机器人。该项目是基于 Python 构建的 LLM 聊天机器人及开发框架，支持集成多种消息平台和大语言模型。它提供了可视化管理面板和灵活的插件扩展机制，支持速率限制、白名单、关键词过滤、图片理解和语音转文字等功能。来自 [@大痴小乙zt2kV](https://hellogithub.com/user/wg8ucRq0Lb75zTy) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/575865240.png' style="max-width:80%; max-height=80%;"></img></p>
 

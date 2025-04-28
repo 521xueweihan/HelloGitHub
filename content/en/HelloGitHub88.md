@@ -194,7 +194,7 @@ print(tips_df.groupby('size').tip_percentage.mean())
 
 22、[fastapi-users](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/fastapi-users/fastapi-users)：Ready-to-Use FastAPI User Management. This project quickly integrates user registration and authentication functionality into FastAPI projects, supporting features such as registration, login, password reset, email verification, OAuth2, and custom authentication.
 
-23、[faststream](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/airtai/faststream)：Python Framework for Streamlined Event Stream Integration. This is a Python library built on Pydantic and AIOKafka, suitable for rapid development of asynchronous Python programs that interact with Kafka and RabbitMQ.
+23、[faststream](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ag2ai/faststream)：Python Framework for Streamlined Event Stream Integration. This is a Python library built on Pydantic and AIOKafka, suitable for rapid development of asynchronous Python programs that interact with Kafka and RabbitMQ.
 ```python
 from fastkafka import FastKafka
 from pydantic import BaseModel, Field
