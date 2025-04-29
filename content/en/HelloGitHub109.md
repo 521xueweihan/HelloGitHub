@@ -18,25 +18,25 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/831578771.png' style="max-width:80%; max-height=80%;"></img></p>
 
-2、[shairport-sync](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mikebrady/shairport-sync)：开源的 AirPlay 音频无缝接入方案。这是一款支持 AirPlay/AirPlay 2 协议的音频播放器，能够接收并播放来自苹果设备的 AirPlay 音频流。只需树莓派等低成本设备，就可以将普通音响升级为支持 AirPlay 的无线音响，轻松打造家庭多房间无线音频系统。
+2、[shairport-sync](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mikebrady/shairport-sync)：Open Source AirPlay Audio Seamless Integration Solution. This is an audio player that supports the AirPlay/AirPlay 2 protocol, capable of receiving and playing AirPlay audio streams from Apple devices. With just a low-cost device like a Raspberry Pi, you can upgrade a regular sound system to a wireless AirPlay-compatible audio system, easily creating a multi-room wireless audio system at home.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/19316865.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C#
-3、[duplicati](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/duplicati/duplicati)：跨平台的多云安全备份工具。这是一款跨平台的备份客户端，支持多种主流云存储服务（如 S3、Dropbox、Google Drive 等）。它可将加密、增量、压缩的备份文件安全地存储到云端或服务器，适用于个人隐私数据的云备份。
+3、[duplicati](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/duplicati/duplicati)：Cross-Platform Multi-cloud Security Backup Tool. This is a cross-platform backup client that supports various mainstream cloud storage services (such as S3, Dropbox, Google Drive, etc.). It can securely store encrypted, incremental, and compressed backup files in the cloud or on servers, suitable for cloud backup of personal privacy data.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/22636263.png' style="max-width:80%; max-height=80%;"></img></p>
 
-4、[HunterPie](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/HunterPie/HunterPie)：《怪物猎人》游戏内数据展示工具。这是一款专为《怪物猎人》系列打造的游戏叠加层工具，适用于《怪物猎人：世界》和《怪物猎人：崛起》。它界面简洁，完全免费且开源，可为玩家实时展示怪物信息、异常状态、伤害统计等丰富的游戏数据，并支持插件扩展，助力提升狩猎体验。
+4、[HunterPie](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/HunterPie/HunterPie)：Monster Hunter In-Game Data Display Tool. This is a game overlay tool specially designed for the Monster Hunter series, compatible with Monster Hunter: World and Monster Hunter: Rise. It features a clean interface, is completely free and open-source, and can display real-time information about monsters, abnormal states, damage statistics, and other rich game data for players. It also supports plugin extensions to enhance the hunting experience.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/401873120.png' style="max-width:80%; max-height=80%;"></img></p>
 
-5、[Pinta](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/PintaProject/Pinta)：简单易用的轻量级绘画工具。这是一款基于 C# 和 GTK 框架开发的免费绘图软件，兼容 Windows、Linux 和 macOS 系统。它不仅提供类似 Microsoft Paint 的基础绘图功能，还增加了丰富的滤镜、多样的绘画工具、多图层管理和透明度编辑等高级功能。
+5、[Pinta](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/PintaProject/Pinta)：Easy-to-Use Lightweight Drawing Tool. This is a free drawing software developed based on C# and GTK framework, compatible with Windows, Linux, and macOS systems. It not only provides basic drawing functions similar to Microsoft Paint but also adds a wealth of filters, various drawing tools, multi-layer management, and transparency editing advanced features.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/2358713.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C++
-6、[perfetto](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/google/perfetto)：Google 开源的性能分析工具。该项目是谷歌开源的面向生产环境的性能分析与追踪工具，适用于 Android、Linux 和 Chrome。它提供可视化追踪数据的 Web 界面，支持系统与应用级的追踪、Java 堆栈分析、SQL 分析等功能。
+6、[perfetto](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/google/perfetto)：Google's Open Source Performance Analysis Tool. This project is an open-source performance analysis and tracing tool from Google, suitable for production environments on Android, Linux, and Chrome. It provides a web interface for visualizing trace data, supporting system and application-level tracing, Java stack analysis, SQL analysis, and other features.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/227091502.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -45,22 +45,22 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/54664770.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Go
-8、[anubis](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/TecharoHQ/anubis)：保护你的网站免受 AI 爬虫攻击。这是一个用于保护网站免受 AI 爬虫和恶意抓取的工具。它通过 SHA256 工作量证明（Proof-of-Work, PoW）挑战来验证每个连接的合法性，从而阻止恶意爬虫和大规模抓取行为。
+8、[anubis](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/TecharoHQ/anubis)：Protect your website from AI web scraping attacks. This is a tool designed to protect websites from AI web scraping and malicious scraping. It verifies the legality of each connection through a SHA256 Proof-of-Work (PoW) challenge, thereby preventing malicious scraping and large-scale scraping behavior.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/950140488.png' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[bitplay](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/aculix/bitplay)：在线播放视频资源的 Web 应用。该项目是用 Go 语言开发的在线视频流媒体应用，让用户能够直接在线播放视频资源。它支持通过磁力链接或 .torrent 文件流式传输高清视频，以及实时字幕转换和 Docker 部署。
+9、[bitplay](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/aculix/bitplay)：. None
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/968812883.png' style="max-width:80%; max-height=80%;"></img></p>
 
-10、[landrun](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Zouuup/landrun)：安全执行 Linux 命令的工具。这是一个轻量级、安全的 Linux 沙箱工具，基于 Linux 内核自带的 Landlock 模块实现。它为用户提供无需 root 权限和容器，即可运行任何命令的安全方式，并支持对文件读写和网络访问权限的灵活控制。
+10、[landrun](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Zouuup/landrun)：Tool for Safely Executing Linux Commands. This is a lightweight, secure Linux sandbox tool implemented based on the Landlock module that comes with the Linux kernel. It allows users to run any command in a secure manner without root privileges or containers, and supports flexible control over file read/write and network access permissions.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/952651301.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[litestream](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/benbjohnson/litestream)：零侵入 SQLite 数据库灾备工具。该项目是专为 SQLite 数据库设计的实时增量同步和备份工具。它作为后台进程运行，通过监控数据库变更，自动将数据同步至本地文件或云端存储。只需简单部署，即可为你的 SQLite 项目带来企业级的数据安全保障。
+11、[litestream](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/benbjohnson/litestream)：Low-Intrusion SQLite Database Disaster Recovery Tool. This project is a real-time incremental synchronization and backup tool specifically designed for SQLite databases. It runs as a background process, monitoring database changes, and automatically synchronizing data to local files or cloud storage. With simple deployment, it brings enterprise-level data security protection to your SQLite projects.
 
 ### Java
-12、[datafaker](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/datafaker-net/datafaker)：快速生成假数据的 Java 库。这是一个专为 JVM 生态（Java、Kotlin、Groovy）设计的假数据生成库，是 java-faker 的开源分支。它内置近 50 种语言和地区支持，能够生成多种类型和格式的假数据，包括地址、姓名、日期、电话号码等。Shared by [@塔咖](https://hellogithub.com/en/user/bzJpGyu0IanC6L7)
+12、[datafaker](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/datafaker-net/datafaker)：A Java Library for Generating Fake Data Quickly. This is an open-source fork of java-faker, designed as a fake data generation library for the JVM ecosystem (Java, Kotlin, Groovy). It supports nearly 50 languages and regions and can generate various types and formats of fake data, including addresses, names, dates, telephone numbers, and more.Shared by [@塔咖](https://hellogithub.com/en/user/bzJpGyu0IanC6L7)
 ```java
 Faker faker = new Faker();
 
@@ -71,12 +71,12 @@ String lastName = faker.name().lastName(); // Barton
 String streetAddress = faker.address().streetAddress(); // 60018 Sawayn Brooks Suite 449
 ```
 
-13、[GhidraMCP](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/LaurieWired/GhidraMCP)：让 AI 自动操作 Ghidra 进行逆向。该项目是为 Ghidra（知名逆向工具）提供 MCP 支持，实现 AI 自动调用 Ghidra 进行逆向分析。它将 Ghidra 的核心功能（如反编译和二进制分析）以服务形式开放给 MCP 客户端，支持自动重命名方法和数据，列出方法/类等信息，打通了 AI 与逆向分析自动化的通路。
+13、[GhidraMCP](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/LaurieWired/GhidraMCP)：Let AI Operate Ghidra for Reverse Engineering. This project provides MCP support for Ghidra, a well-known reverse engineering tool, enabling AI to automatically invoke Ghidra for reverse analysis. It exposes Ghidra's core functionalities such as decompilation and binary analysis as services to MCP clients, supports automatic method and data renaming, lists method/class information, thereby bridging the gap between AI and automated reverse engineering.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/953335676.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript
-14、[AlgerMusicPlayer](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/algerkong/AlgerMusicPlayer)：简约美观的音乐播放器。这是一款基于 Electron 开发的第三方音乐播放器，拥有高颜值的界面和丰富的功能，支持本地化服务、桌面歌词显示、音乐下载等，适用于多平台使用。
+14、[AlgerMusicPlayer](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/algerkong/AlgerMusicPlayer)：Minimalist and Aesthetic Music Player. This is a third-party music player developed based on Electron, featuring a high-aesthetic interface and a variety of functions. It supports localized services, desktop lyrics display, music downloading, and is suitable for use on multiple platforms.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/710867462.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -84,30 +84,30 @@ String streetAddress = faker.address().streetAddress(); // 60018 Sawayn Brooks S
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/253222599.png' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[mazanoke](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/civilblur/mazanoke)：本地优先的图片压缩工具。这是一款注重隐私保护的浏览器端图片优化工具，无需联网可离线使用。它部署简单、功能丰富，提供图片压缩、格式转换和批量上传等功能，兼容 JPG、PNG、WebP、HEIC、AVIF、GIF、SVG 等图片格式。
+16、[mazanoke](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/civilblur/mazanoke)：Local-first Image Compression Tool. This is a privacy-focused image optimization tool on the browser side that can be used offline without an internet connection. It is simple to deploy and rich in features, offering functions such as image compression, format conversion, and batch upload, and is compatible with image formats such as JPG, PNG, WebP, HEIC, AVIF, GIF, SVG, etc.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/952779352.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[pokerogue](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pagefaultgames/pokerogue)：Roguelite-style Pokémon Game.This is an online mini-game that combines elements of Pokémon and Roguelite gaming. It requires no installation and offers a fresh gameplay approach. Players take on the role of a trainer, who instead of navigating maps or completing missions, directly challenges levels. The game begins with selecting a combination of pets, then battling with trainers and bosses. As victories are achieved, items and rewards are obtained, which are used to enhance your Pokémon, making them stronger and allowing for the exploration of more levels.
+17、[pokerogue](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pagefaultgames/pokerogue)：Roguelike-style Pokémon Game.This is an online mini-game that combines elements of Pokémon and Roguelike gaming. It requires no installation and offers a fresh gameplay approach. Players take on the role of a trainer, who instead of navigating maps or completing missions, directly challenges levels. The game begins with selecting a combination of pets, then battling with trainers and bosses. As victories are achieved, items and rewards are obtained, which are used to enhance your Pokémon, making them stronger and allowing for the exploration of more levels.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/620476224.png' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[wekan](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/wekan/wekan)：完全免费开源的看板应用。这是一款基于 Meteor 框架和 MongoDB 构建的开源看板（Kanban），支持实时多用户协作、任务拖拽、标签分组、成员分配等功能。通过卡片和列表的方式，轻松组织待办事项、项目进度或团队任务，项目采用 MIT 协议，支持商用和大规模用户。
+18、[wekan](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/wekan/wekan)：Completely Free and Open Source Kanban Application. This is an open-source Kanban board built on the Meteor framework and MongoDB, supporting real-time multi-user collaboration, task dragging, tag grouping, member assignment, and other features. By using cards and lists, it easily organizes to-do items, project progress, or team tasks. The project adopts the MIT agreement, supporting commercial use and large-scale users.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/16089035.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Kotlin
-19、[LibreTube](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/libre-tube/LibreTube)：开源的油管 Android 客户端。这是一款开源的第三方 YouTube 安卓客户端，提供纯净的视频观看体验。它无需登录 Google 账号、无广告干扰，支持订阅、播放列表、观看历史、搜索历史等功能。
+19、[LibreTube](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/libre-tube/LibreTube)：Open-source YouTube Android Client. This is an open-source third-party YouTube Android client that offers a clean video watching experience. It doesn't require logging into a Google account, is free from advertisements, and supports features like subscriptions, playlists, watch history, and search history.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/436609718.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### PHP
-20、[adminer](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/vrana/adminer)：单文件即用的数据库管理工具。这是一款用 PHP 编写的数据库管理工具，仅需单一文件即可部署。它拥有极低的上手门槛和丰富的插件，支持 MySQL、MariaDB、PostgreSQL、SQLite、MS SQL 等主流数据库，并可通过插件扩展支持 Elasticsearch、MongoDB、ClickHouse 等，适用于日常数据库管理和开发等场景。
+20、[adminer](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/vrana/adminer)：Single-file Ready-to-Use Database Management Tool. This is a PHP-written database management tool that can be deployed with a single file. It has a low entry threshold and rich plugins, supporting mainstream databases such as MySQL, MariaDB, PostgreSQL, SQLite, and MS SQL, and can be extended to support Elasticsearch, MongoDB, ClickHouse, etc., through plugins. It is suitable for daily database management and development scenarios.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/627735.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python
-21、[asciimatics](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/peterbrittain/asciimatics)：生成 ASCII 动画的 Python 库。这是一个用于构建交互式文本界面（TUI）和 ASCII 艺术动画的 Python 库，支持彩色文本、自动检测终端窗口尺寸变化、ASCII 艺术效果、鼠标和键盘输入等功能。
+21、[asciimatics](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/peterbrittain/asciimatics)：Python Library for Generating ASCII Animations. This is a Python library for building interactive text interfaces (TUIs) and ASCII art animations, supporting colored text, automatic detection of terminal window size changes, ASCII art effects, and mouse and keyboard inputs.
 ```python
 from asciimatics.effects import Cycle, Stars
 from asciimatics.renderers import FigletText
@@ -133,13 +133,13 @@ Screen.wrapper(demo)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/34016445.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-22、[fail2ban](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/fail2ban/fail2ban)：抵御暴力破解攻击的防护工具。这是一款用 Python 编写的入侵检测与防御系统（IDS/IPS），保护服务器免受暴力破解攻击。它能够实时监控日志文件，一旦检测到多次认证失败，便会自动更新防火墙规则，拒绝来自可疑 IP 的连接，支持 SSH、FTP、Web 等多种常见服务。
+22、[fail2ban](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/fail2ban/fail2ban)：Protection Tool Against Brute Force Attacks. This is an intrusion detection and prevention system (IDS/IPS) written in Python, designed to protect servers from brute-force attacks. It can monitor log files in real-time and automatically update firewall rules to reject connections from suspicious IPs upon detecting multiple authentication failures, supporting various common services such as SSH, FTP, and Web.
 
-23、[isort](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/PyCQA/isort)：自动整理 Python 导入语句的工具。该项目能够自动识别并规范 Python 项目中的 import 语句，支持多行格式、智能缩进和灵活的排序规则，轻松统一代码风格和导入规范。
+23、[isort](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/PyCQA/isort)：A tool for automatically organizing Python import statements. This project can automatically identify and standardize import statements in Python projects, supporting multi-line format, intelligent indentation, and flexible sorting rules, making it easy to unify code style and import specifications.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/12550138.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-24、[pyper](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pyper-dev/pyper)：简化 Python 并发编程的框架。这是一个致力于让 Python 并发处理数据变得简单的框架。它基于函数式编程模式，提供了统一且简洁的 API，支持多种并发任务类型，适用于 ETL 系统、数据微服务、数据采集等场景。Shared by [@sam86970](https://hellogithub.com/en/user/EsKGlh9iXvAfYaJ)
+24、[pyper](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pyper-dev/pyper)：Framework Simplifying Concurrent Programming in Python. This is a framework aimed at simplifying the handling of concurrent data in Python. It is based on functional programming patterns and provides a unified and concise API. It supports various types of concurrent tasks and is suitable for ETL systems, data microservices, data collection, and other scenarios.Shared by [@sam86970](https://hellogithub.com/en/user/EsKGlh9iXvAfYaJ)
 ```python
 import time
 from pyper import task
@@ -186,16 +186,16 @@ jsonpath "$.id" matches /\d{4}/     # Check the format of the id
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/290243101.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[vector](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/vectordotdev/vector)：开源高性能可观测性数据管道。该项目是 Datadog 开源的高性能、端到端可观测性数据管道，全面掌控自己的可观测性数据。它能够采集、处理和转发日志、指标等监控数据，支持将数据发送到不同平台和服务商，实现灵活高效的观测数据管理。Shared by [@刘睿华](https://hellogithub.com/en/user/TJ65FfbQU09PLHM)
+27、[vector](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/vectordotdev/vector)：Open-Source High-Performance Observability Data Pipeline. This project is a high-performance, end-to-end observability data pipeline open-sourced by Datadog, allowing you to fully control your observability data. It can collect, process, and forward logs, metrics, and other monitoring data, supporting the dispatch of data to different platforms and service providers, achieving flexible and efficient management of observability data.Shared by [@刘睿华](https://hellogithub.com/en/user/TJ65FfbQU09PLHM)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/146327667.png' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[verus](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/verus-lang/verus)：为 Rust 提供静态验证的工具。这是一个用于验证 Rust 代码正确性的工具，避免运行时出错。它允许开发者编写代码规范（specification），然后通过静态检查，确保代码在所有可能的执行路径上都满足规范要求。
+28、[verus](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/verus-lang/verus)：Static Verification Tools for Rust. This is a tool for verifying the correctness of Rust code to prevent runtime errors. It allows developers to write code specifications and then ensures, through static checks, that the code meets the specification requirements on all possible execution paths.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/419028280.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift
-29、[QLVideo](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Marginal/QLVideo)：macOS 视频快速预览增强插件。这是一个专为 macOS 设计的 QuickLook 插件，可在 Finder 中预览原生不支持的视频文件的缩略图和静态画面，还能显示视频封面和详细的元数据信息，为用户带来更便捷的视频文件浏览体验。
+29、[QLVideo](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Marginal/QLVideo)：macOS Video Quick Preview Enhancement Plugin. This is a QuickLook plugin designed for macOS that enables the preview of native unsupported video file thumbnails and still images in Finder, as well as displaying video covers and detailed metadata information, providing users with a more convenient video file browsing experience.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/21910366.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -204,51 +204,51 @@ jsonpath "$.id" matches /\d{4}/     # Check the format of the id
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/789761983.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### AI
-31、[cua](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/trycua/cua)：为 AI 智能体提供高性能虚拟环境。这是一个专为 AI 智能体设计的高性能操作系统虚拟化与控制框架。它通过轻量级、近乎原生速度的虚拟容器，让 AI Agent 能够在完全隔离的 macOS 或 Linux 环境中自动执行“用电脑”任务，如操作应用、上网、写代码、自动化复杂办公流程等，并内置多种主流 LLM（大模型）接口。
+31、[cua](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/trycua/cua)：High-Performance Virtual Environments for AI Agents. This is a high-performance operating system virtualization and control framework designed specifically for AI agents. It allows AI agents to automatically perform tasks such as operating applications, browsing the internet, writing code, and automating complex office processes in a fully isolated macOS or Linux environment through lightweight, near-native-speed virtual containers. It also includes various mainstream LLM (Large Language Model) interfaces built-in.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/925270205.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[FramePack](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/lllyasviel/FramePack)：用笔记本轻松玩转 AI 生成长视频。这是一款用于视频生成的预测神经网络结构，可以在资源有限的设备上生成高质量的视频。它通过将上下文压缩成固定长度，使得生成任务的工作量与视频长度无关，从而实现高效且资源友好的视频生成。Shared by [@山姜](https://hellogithub.com/en/user/a5zuVQUNJmHkjL6)
+32、[FramePack](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/lllyasviel/FramePack)：Effortlessly Create AI-Generated Long Videos with a Laptop. This is a predictive neural network structure for video generation that can produce high-quality videos on devices with limited resources. It achieves efficient and resource-friendly video generation by compressing context into a fixed length, making the workload of the generation task independent of the video length.Shared by [@山姜](https://hellogithub.com/en/user/a5zuVQUNJmHkjL6)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/965159463.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[skypilot](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/skypilot-org/skypilot)：让 AI 训练推理自动选择经济型 GPU 方案。这是一个开源的跨云 AI 和批量任务调度平台，用户可以通过统一接口在 K8s、本地集群和主流云服务商（AWS、GCP、Azure 等）上运行深度学习、分布式训练、推理、批处理等任务。它会自动寻找最便宜、可用的 GPU/TPU/CPU 资源，支持队列、自动容错、资源共享、成本优化等功能。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/395140743.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-34、[Tutorial-Codebase-Knowledge](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)：AI 自动生成代码库教程。该项目利用 AI 将代码库转换为容易理解的教程。它通过分析 GitHub 仓库或本地代码目录，自动生成详细的学习指南，降低初学者理解和上手大型代码仓库的门槛。
+33、[PocketFlow-Tutorial-Codebase-Knowledge](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)：AI-Generated Codebase Tutorials. This project utilizes AI to convert codebases into easily understandable tutorials. By analyzing GitHub repositories or local code directories, it automatically generates detailed learning guides, reducing the barrier for beginners to understand and start working with large code repositories.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/959473422.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[WeClone](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/xming521/WeClone)：用微信聊天记录微调大语言模型。该项目是通过个人微信聊天记录对大语言模型（LLM）进行微调，打造专属的数字分身。它提供从聊天数据到模型微调、从文本生成到语音克隆、从训练到部署的全链路解决方案。让你的数字分身不仅“会说你的话”，还能“听起来像你本人”。
+34、[skypilot](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/skypilot-org/skypilot)：Automatic Selection of Economical GPU Options for AI Training and Inference. This is an open-source cross-cloud AI and batch job scheduling platform that allows users to run deep learning, distributed training, inference, batch processing, and other tasks on Kubernetes, local clusters, and major cloud service providers (AWS, GCP, Azure, etc.) through a unified interface. It automatically searches for the most cost-effective and available GPU/TPU/CPU resources, supporting features such as queuing, automatic fault tolerance, resource sharing, and cost optimization.
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/395140743.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+35、[WeClone](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/xming521/WeClone)：Fine-tune Large Language Models with WeChat Conversation Records. This project fine-tunes large language models (LLMs) using personal WeChat conversation records to create a personalized digital twin. It provides a full chain solution from chat data to model fine-tuning, from text generation to voice cloning, and from training to deployment. Your digital twin will not only 'speak your words' but also 'sound like you'.
 
 ### Other
-36、[Best-Flutter-UI-Templates](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mitesh77/Best-Flutter-UI-Templates)：免费精美的 Flutter UI 模板集合。该项目是完全免费的 Flutter UI 模板集合，为开发者提供高质量的界面设计参考和代码实现，包含引导页、酒店预订、健身应用等多种应用的 Flutter 界面模板。
+36、[Best-Flutter-UI-Templates](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mitesh77/Best-Flutter-UI-Templates)：Free and Beautiful Collection of Flutter UI Templates. This project is a completely free collection of Flutter UI templates, providing developers with high-quality UI design references and code implementations, including various app templates for Flutter interfaces such as onboarding pages, hotel reservation, fitness apps, etc.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/205812745.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[LinuxMirrors](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/SuperManito/LinuxMirrors)：一键更换 Linux 软件源的脚本。该项目实现了一条命令即可将 Linux 默认软件源替换为国内镜像源，支持 Debian、Ubuntu、Kali Linux、Linux Mint 和 Deepin 等多种主流发行版。Shared by [@Super Manito](https://hellogithub.com/en/user/mXoISqgeyYLDf1a)
+37、[LinuxMirrors](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/SuperManito/LinuxMirrors)：A Script to Easily Solve Linux Source Switching Issues. This project provides a script to switch the default Linux software source to a domestic mirror source with a single click, as well as a Docker installation script. It supports multiple mainstream distributions, including Debian, Ubuntu, CentOS, Raspberry Pi OS, and Deepin.Shared by [@Super Manito](https://hellogithub.com/en/user/mXoISqgeyYLDf1a)
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/332678972.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/332678972.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[maple-font](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/subframe7536/maple-font)：开源圆角等宽字体。这是一款高质量的等宽字体，具备可变字体、圆角设计、智能连字、图标等特性，支持简体中文、繁体中文和日语字符集，以及通过脚本自定义构建字体，满足不同平台和个性化需求。
+38、[maple-font](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/subframe7536/maple-font)：Open Source Rounded Monospaced Font. This is a high-quality monospaced font that features variable fonts, rounded corners, ligatures, icons, and supports Chinese (both simplified and traditional), Japanese character sets. It also offers customization and font building through scripting to meet different platform requirements and personalization needs.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/479451389.png' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[Micro-Wheeled_leg-Robot](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/MuShibo/Micro-Wheeled_leg-Robot)：桌面级开源双轮腿机器人。这是一款超小型的桌面级双轮腿机器人，集成了两轮自平衡与腿部运动能力。它提供了完整的机器人实现方案，包含硬件设计文件、软件代码和组装指南，方便机器人爱好者自制和学习。
+39、[Micro-Wheeled_leg-Robot](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/MuShibo/Micro-Wheeled_leg-Robot)：Desktop Open-Source Dual-Wheel Legged Robot. This is an ultra-compact desktop dual-wheel legged robot, integrating two-wheel self-balancing capabilities and leg movement. It provides a complete robotic implementation solution, including hardware design files, software code, and assembly guides, making it convenient for robotics enthusiasts to build and learn.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/831361535.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[ssh-action](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/appleboy/ssh-action)：让 GitHub Actions 执行远程 SSH 命令。该项目可以在 GitHub 工作流中通过 SSH 远程执行命令、脚本或部署应用程序，支持多种身份验证方式（密码、SSH 密钥）和主机连接方式（直连或通过代理）。
+40、[ssh-action](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/appleboy/ssh-action)：Execute Remote SSH Commands with GitHub Actions. This project allows you to execute remote commands, scripts, or deploy applications via SSH within GitHub workflows, supporting various authentication methods (password, SSH key) and host connection methods (direct or through a proxy).
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/186202082.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Book
-41、[english-note](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hzpt-inet-club/english-note)：《从零开始学习英语语法》。这是一本面向英语基础薄弱同学的英语语法入门书籍，内容言简意赅、插图幽默风趣。
+41、[english-note](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hzpt-inet-club/english-note)：Learn English Grammar from Scratch. This is an English grammar beginner book aimed at students with a weak foundation in English. The content is concise and clear, with humorous illustrations.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/448791842.png' style="max-width:80%; max-height=80%;"></img></p>
 
-42、[og-equity-compensation](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/jlevy/og-equity-compensation)：《股权激励开放指南》。这本书讲的是美国科技公司员工股权激励相关的知识、术语、法律、税务与实践建议，内容包括股票期权、受限股票单位（RSU）、限制性股票、行权、税收、谈判技巧、常见陷阱等。
+42、[og-equity-compensation](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/jlevy/og-equity-compensation)：The Open Guide to Equity Incentives. This book covers knowledge, terminology, legal matters, tax, and practical advice related to US tech company employee stock incentives, including stock options, restricted stock units (RSUs), restricted stock, exercise, taxation, negotiation skills, common pitfalls, and more.
 
 43、[pytudes](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/norvig/pytudes)：Workbook to Improve Python Programming Skills.This project is a collection of Python programming exercises. By writing moderately challenging and concise programs, it helps enhance Python programming skills. The content covers multiple areas, including algorithms, data processing, mathematical problems, logic puzzles, and natural language processing.
 

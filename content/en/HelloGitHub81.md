@@ -38,7 +38,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/429850227.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C++
-7、[GASDocumentation](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/tranek/GASDocumentation)：虚幻引擎 5 之 GAS 插件上手教程。该项目是讲解如何使用虚幻引擎 5 的 GameplayAbilitySystem 插件，作者从什么是 GAS 开始，最后用 GAS 做出了一个简单的多人射击游戏。如果你对虚幻引擎 5 感兴趣而且会 C++ 的话，那么看完这份教程一定会让你有所收获。
+7、[GASDocumentation](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/tranek/GASDocumentation)：Getting Started with Unreal Engine 5 GAS Plugin. This project is a tutorial on how to use the GameplayAbilitySystem (GAS) plugin in Unreal Engine 5. Starting from the basics of what GAS is, the author culminates in creating a simple multiplayer shooting game using GAS. If you are interested in Unreal Engine 5 and proficient in C++, this tutorial will definitely be rewarding.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/201692465.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -140,7 +140,7 @@ function getOS() {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/534763581.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### PHP
-26、[snipe-it](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/grokability/snipe-it)：一款 IT 资产管理系统。该项目是基于 Laravel 8 构建的适用于中小型企业的 IT 资产管理系统，支持资产分配、生成二维码标签、资产审计、保修到期提醒等功能。
+26、[snipe-it](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/grokability/snipe-it)：An IT Asset Management System. This project is an IT Asset Management System built on Laravel 8, suitable for small and medium-sized enterprises, supporting asset allocation, generation of QR code labels, asset auditing, warranty expiration reminders, and more.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/14346979.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -190,7 +190,7 @@ if __name__ == '__main__':
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/127553476.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[spacedrive](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/spacedriveapp/spacedrive)：一款 Rust 写的跨平台文件管理工具。它基于用 Rust 编写的虚拟分布式文件系统(VDFS)，可以将 macOS、Windows、Linux、iOS、Android 等不同操作系统的设备连接到一起，统一管理所有的文件。该项目还处于开发阶段，客户端需要自行编译。
+33、[spacedrive](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/spacedriveapp/spacedrive)：A Cross-Platform File Management Tool Written in Rust. Based on the Virtual Distributed File System (VDFS) written in Rust, it can connect devices from different operating systems such as macOS, Windows, Linux, iOS, and Android to manage all files in a unified manner. The project is still under development, and clients need to compile it themselves.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/410749029.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -225,13 +225,13 @@ for i in range(10):
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/86031674.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Other
-37、[chinese-independent-blogs](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/timqian/chinese-independent-blogs)：中文个人独立博客网站合集。如果说中文独立博客的时代已经过去，那么至少还有这么一块地方，属于热爱自由的博主们。Shared by [@Tianchi Gao](https://hellogithub.com/en/user/8rWP9fXUuvRdwSz)
+37、[chinese-independent-blogs](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/timqian/chinese-independent-blogs)：A Collection of Chinese Personal Independent Blog Sites. If one were to say that the era of Chinese independent blogs has passed, there remains at least one place that belongs to bloggers who love freedom.Shared by [@Tianchi Gao](https://hellogithub.com/en/user/8rWP9fXUuvRdwSz)
 
 38、[CSrankings](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/emeryberger/CSrankings)：非官方的顶级 CS 学校排名榜单。该项目以高校教师在计算机科学(CS)各领域顶级会议上发表的论文数量，作为重要的衡量标准。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/57929326.png' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[FlutterDouBan](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/kaina404/FlutterDouBan)：一款用 Flutter 写的豆瓣客户端。该项目用 Flutter 还原了豆瓣客户端的首页、书影音、小组、市集及个人中心等功能。
+39、[FlutterDouBan](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/kaina404/FlutterDouBan)：A Douban Client developed with Flutter. This project recreates Douban client features such as home, books, music, movies, discussion groups, marketplace, and personal center using Flutter.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/166813643.png' style="max-width:80%; max-height=80%;"></img></p>
 

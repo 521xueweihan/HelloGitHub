@@ -95,7 +95,7 @@ String streetAddress = faker.address().streetAddress(); // 60018 Sawayn Brooks S
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/952779352.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[pokerogue](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pagefaultgames/pokerogue)：Roguelite 风格的宝可梦游戏。这是一个融合了宠物小精灵（宝可梦）和 Roguelite 游戏元素的在线小游戏。它无需安装、玩法新颖，玩家在游戏中扮演训练师的角色，无需走地图和做任务直接挑战关卡。开局先是选择宠物组合，然后与训练师和 Boss 战斗，随着战斗胜利将获得物品和奖励，用于提升你的宝可梦，让它们变得更强从而探索更多的关卡。
+17、[pokerogue](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pagefaultgames/pokerogue)：Roguelike 风格的宝可梦游戏。这是一个融合了宠物小精灵（宝可梦）和 Roguelike 游戏元素的在线小游戏。它无需安装、玩法新颖，玩家在游戏中扮演训练师的角色，无需走地图和做任务直接挑战关卡。开局先是选择宠物组合，然后与训练师和 Boss 战斗，随着战斗胜利将获得物品和奖励，用于提升你的宝可梦，让它们变得更强从而探索更多的关卡。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/620476224.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -219,13 +219,13 @@ jsonpath "$.id" matches /\d{4}/     # Check the format of the id
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/965159463.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[skypilot](https://hellogithub.com/periodical/statistics/click?target=https://github.com/skypilot-org/skypilot)：让 AI 训练推理自动选择经济型 GPU 方案。这是一个开源的跨云 AI 和批量任务调度平台，用户可以通过统一接口在 K8s、本地集群和主流云服务商（AWS、GCP、Azure 等）上运行深度学习、分布式训练、推理、批处理等任务。它会自动寻找最便宜、可用的 GPU/TPU/CPU 资源，支持队列、自动容错、资源共享、成本优化等功能。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/395140743.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-34、[Tutorial-Codebase-Knowledge](https://hellogithub.com/periodical/statistics/click?target=https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)：AI 自动生成代码库教程。该项目利用 AI 将代码库转换为容易理解的教程。它通过分析 GitHub 仓库或本地代码目录，自动生成详细的学习指南，降低初学者理解和上手大型代码仓库的门槛。
+33、[PocketFlow-Tutorial-Codebase-Knowledge](https://hellogithub.com/periodical/statistics/click?target=https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)：AI 自动生成代码库教程。该项目利用 AI 将代码库转换为容易理解的教程。它通过分析 GitHub 仓库或本地代码目录，自动生成详细的学习指南，降低初学者理解和上手大型代码仓库的门槛。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/959473422.png' style="max-width:80%; max-height=80%;"></img></p>
+
+34、[skypilot](https://hellogithub.com/periodical/statistics/click?target=https://github.com/skypilot-org/skypilot)：让 AI 训练推理自动选择经济型 GPU 方案。这是一个开源的跨云 AI 和批量任务调度平台，用户可以通过统一接口在 K8s、本地集群和主流云服务商（AWS、GCP、Azure 等）上运行深度学习、分布式训练、推理、批处理等任务。它会自动寻找最便宜、可用的 GPU/TPU/CPU 资源，支持队列、自动容错、资源共享、成本优化等功能。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/395140743.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 35、[WeClone](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xming521/WeClone)：用微信聊天记录微调大语言模型。该项目是通过个人微信聊天记录对大语言模型（LLM）进行微调，打造专属的数字分身。它提供从聊天数据到模型微调、从文本生成到语音克隆、从训练到部署的全链路解决方案。让你的数字分身不仅“会说你的话”，还能“听起来像你本人”。
 
@@ -234,9 +234,9 @@ jsonpath "$.id" matches /\d{4}/     # Check the format of the id
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/205812745.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[LinuxMirrors](https://hellogithub.com/periodical/statistics/click?target=https://github.com/SuperManito/LinuxMirrors)：一键更换 Linux 软件源的脚本。该项目实现了一条命令即可将 Linux 默认软件源替换为国内镜像源，支持 Debian、Ubuntu、Kali Linux、Linux Mint 和 Deepin 等多种主流发行版。来自 [@Super Manito](https://hellogithub.com/user/mXoISqgeyYLDf1a) 的分享
+37、[LinuxMirrors](https://hellogithub.com/periodical/statistics/click?target=https://github.com/SuperManito/LinuxMirrors)：一键搞定 Linux 换源问题的脚本。该项目提供了一键切换 Linux 默认软件源为国内镜像源的脚本，以及 Docker 安装脚本，支持 Debian、Ubuntu、CentOS、Raspberry Pi OS 和 Deepin 等多种主流发行版。来自 [@Super Manito](https://hellogithub.com/user/mXoISqgeyYLDf1a) 的分享
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/332678972.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/332678972.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 38、[maple-font](https://hellogithub.com/periodical/statistics/click?target=https://github.com/subframe7536/maple-font)：开源圆角等宽字体。这是一款高质量的等宽字体，具备可变字体、圆角设计、智能连字、图标等特性，支持简体中文、繁体中文和日语字符集，以及通过脚本自定义构建字体，满足不同平台和个性化需求。
 
