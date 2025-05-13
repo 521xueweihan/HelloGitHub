@@ -272,7 +272,7 @@ Text("Custom Gradient Mode").bold()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/283280154.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[instructor](https://hellogithub.com/periodical/statistics/click?target=https://github.com/instructor-ai/instructor)：让 LLM 输出结构化数据的 Python 库。该项目是用于处理大语言模型（LLMs）结构化输出的 Python 库。它基于 Pydantic 实现了数据验证和类型注释，能够将 LLM 的结果（自然语言）转换为结构化数据，支持多种大语言模型服务，以及自动重试、流式响应等功能。
+32、[instructor](https://hellogithub.com/periodical/statistics/click?target=https://github.com/567-labs/instructor)：让 LLM 输出结构化数据的 Python 库。该项目是用于处理大语言模型（LLMs）结构化输出的 Python 库。它基于 Pydantic 实现了数据验证和类型注释，能够将 LLM 的结果（自然语言）转换为结构化数据，支持多种大语言模型服务，以及自动重试、流式响应等功能。
 ```python
 import instructor
 from pydantic import BaseModel
@@ -436,6 +436,13 @@ Render( Point(0, 0), 50, 120, 120, 300, 800, 600 )
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
           <sub>Apifox</sub><br>
           <sub>比 Postman 更强大</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://www.qiniu.com/?utm_source=hello">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/qiniu.jpg" width="60px"><br>
+          <sub>七牛云</sub><br>
+          <sub>百万 Token 免费体验</sub>
         </a>
       </th>
     </tr>

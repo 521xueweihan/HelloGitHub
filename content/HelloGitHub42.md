@@ -308,6 +308,13 @@ array([[4.43336608e-03, 9.95215198e-01, 3.51419231e-04, 1.68657851e-08]])
           <sub>比 Postman 更强大</sub>
         </a>
       </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://www.qiniu.com/?utm_source=hello">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/qiniu.jpg" width="60px"><br>
+          <sub>七牛云</sub><br>
+          <sub>百万 Token 免费体验</sub>
+        </a>
+      </th>
     </tr>
   </thead>
 </table>

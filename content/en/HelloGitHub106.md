@@ -265,7 +265,7 @@ Text("Custom Gradient Mode").bold()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/283280154.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[instructor](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/instructor-ai/instructor)：Python Library for Structuring LLM Outputs. This project is a Python library designed for handling structured outputs from Large Language Models (LLMs). It leverages Pydantic for data validation and type annotation, enabling the conversion of LLM results (natural language) into structured data. It supports multiple LLM services, as well as features like automatic retries and streaming responses.
+32、[instructor](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/567-labs/instructor)：Python Library for Structuring LLM Outputs. This project is a Python library designed for handling structured outputs from Large Language Models (LLMs). It leverages Pydantic for data validation and type annotation, enabling the conversion of LLM results (natural language) into structured data. It supports multiple LLM services, as well as features like automatic retries and streaming responses.
 ```python
 import instructor
 from pydantic import BaseModel
@@ -426,6 +426,13 @@ Render( Point(0, 0), 50, 120, 120, 300, 800, 600 )
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
           <sub>Apifox</sub><br>
           <sub>比 Postman 更强大</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://www.qiniu.com/?utm_source=hello">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/qiniu.jpg" width="60px"><br>
+          <sub>七牛云</sub><br>
+          <sub>百万 Token 免费体验</sub>
         </a>
       </th>
     </tr>
