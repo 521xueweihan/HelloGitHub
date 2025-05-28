@@ -21,7 +21,7 @@
 > **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
-1、[DungeonRush](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rapiz1/DungeonRush)：元气贪吃蛇游戏。作者受到元气骑士的启发，基于贪吃蛇进行一些玩法上的创新。该项目适用于 C 语言初学者、第一次尝试使用跨平台图形库的同学，参考本项目就可以写出一个可玩性高的游戏，收获满满成就感
+1、[DungeonRush](https://hellogithub.com/periodical/statistics/click?target=https://github.com/yujqiao/DungeonRush)：元气贪吃蛇游戏。作者受到元气骑士的启发，基于贪吃蛇进行一些玩法上的创新。该项目适用于 C 语言初学者、第一次尝试使用跨平台图形库的同学，参考本项目就可以写出一个可玩性高的游戏，收获满满成就感
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/48/242162049.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -262,13 +262,6 @@ results = clf.predict(x_test)
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/im.png" width="60px"><br>
           <sub>OpenIM</sub><br>
           <sub>开源IM力争No.1</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://apifox.cn/a103hello">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
-          <sub>Apifox</sub><br>
-          <sub>比 Postman 更强大</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">

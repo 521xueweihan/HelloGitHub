@@ -132,7 +132,7 @@ pres.writeFile();
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/249995750.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[vue-XiuXianGame](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/setube/vue-XiuXianGame)：Open Source Cultivation Text Adventure Game. This is a cultivation simulator developed based on Vue.js, an interactive text game suitable for players who enjoy idle games and cultivation themes.
+18、[vue-xiuxiangame](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/setube/vue-xiuxiangame)：Open Source Cultivation Text Adventure Game. This is a cultivation simulator developed based on Vue.js, an interactive text game suitable for players who enjoy idle games and cultivation themes.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/828462853.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -246,7 +246,7 @@ class TestSimpleLogin(BaseCase):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/125563061.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[mail-server](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/stalwartlabs/mail-server)：Secure and Easily Deployable Email Service. This project is an email server written in Rust, supporting common email protocols such as SMTP, IMAP, and POP3, with built-in powerful spam and phishing site filters.Shared by [@Mauro D.](https://hellogithub.com/en/user/ogvJ1bR2hPjHkVy)
+32、[stalwart](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/stalwartlabs/stalwart)：Secure and Easily Deployable Email Service. This project is an email server written in Rust, supporting common email protocols such as SMTP, IMAP, and POP3, with built-in powerful spam and phishing site filters.Shared by [@Mauro D.](https://hellogithub.com/en/user/ogvJ1bR2hPjHkVy)
 
 ### Swift
 33、[Pearcleaner](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/alienator88/Pearcleaner)：Free Mac Application Cleaning Tool. This is a free and open-source Mac application cleaning tool capable of completely uninstalling applications and cleaning up residual files. Developed with SwiftUI, it provides a simple and user-friendly interface, supporting features such as right-click uninstallation, mini mode, and Homebrew cleanup.
@@ -338,13 +338,6 @@ print(response)
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/im.png" width="60px"><br>
           <sub>OpenIM</sub><br>
           <sub>开源IM力争No.1</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://apifox.cn/a103hello">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
-          <sub>Apifox</sub><br>
-          <sub>比 Postman 更强大</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">

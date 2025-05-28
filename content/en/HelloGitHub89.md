@@ -296,13 +296,6 @@ for div in divs:
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://apifox.cn/a103hello">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
-          <sub>Apifox</sub><br>
-          <sub>比 Postman 更强大</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
         <a href="https://www.qiniu.com/?utm_source=hello">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/qiniu.jpg" width="60px"><br>
           <sub>七牛云</sub><br>

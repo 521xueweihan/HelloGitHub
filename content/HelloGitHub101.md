@@ -139,7 +139,7 @@ pres.writeFile();
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/249995750.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[vue-XiuXianGame](https://hellogithub.com/periodical/statistics/click?target=https://github.com/setube/vue-XiuXianGame)：开源的文字修仙游戏。这是一个基于 Vue.js 开发的修仙模拟器，互动式的文字游戏，适合喜欢放置类和修仙题材游戏的玩家。
+18、[vue-xiuxiangame](https://hellogithub.com/periodical/statistics/click?target=https://github.com/setube/vue-xiuxiangame)：开源的文字修仙游戏。这是一个基于 Vue.js 开发的修仙模拟器，互动式的文字游戏，适合喜欢放置类和修仙题材游戏的玩家。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/828462853.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -253,7 +253,7 @@ class TestSimpleLogin(BaseCase):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/125563061.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[mail-server](https://hellogithub.com/periodical/statistics/click?target=https://github.com/stalwartlabs/mail-server)：安全且易于部署的邮件服务。该项目是用 Rust 编写的邮件服务器，支持 SMTP、IMAP 和 POP3 等常见邮件协议，内置强大的垃圾邮件和钓鱼网站过滤器。来自 [@Mauro D.](https://hellogithub.com/user/ogvJ1bR2hPjHkVy) 的分享
+32、[stalwart](https://hellogithub.com/periodical/statistics/click?target=https://github.com/stalwartlabs/stalwart)：安全且易于部署的邮件服务。该项目是用 Rust 编写的邮件服务器，支持 SMTP、IMAP 和 POP3 等常见邮件协议，内置强大的垃圾邮件和钓鱼网站过滤器。来自 [@Mauro D.](https://hellogithub.com/user/ogvJ1bR2hPjHkVy) 的分享
 
 ### Swift 项目
 33、[Pearcleaner](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alienator88/Pearcleaner)：免费的 Mac 应用清理工具。这是一款免费开源的 Mac 应用清理工具，能够彻底卸载应用并清理残留文件。它采用 SwiftUI 开发，提供了简单易用的界面，支持右键卸载、迷你模式和 Homebrew 清理等功能。
@@ -348,13 +348,6 @@ print(response)
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/im.png" width="60px"><br>
           <sub>OpenIM</sub><br>
           <sub>开源IM力争No.1</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://apifox.cn/a103hello">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
-          <sub>Apifox</sub><br>
-          <sub>比 Postman 更强大</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
