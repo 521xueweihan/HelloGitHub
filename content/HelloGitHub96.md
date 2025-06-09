@@ -126,7 +126,7 @@ XXH32_hash_t hash_string(const char* string, XXH32_hash_t seed)
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/237222619.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
-23、[marker](https://hellogithub.com/periodical/statistics/click?target=https://github.com/VikParuchuri/marker)：将 PDF 转换为 Markdown 文件的项目。这是一个能够将 PDF、EPUB 和 MOBI 格式的文件转换为 Markdown 文件的 Python 项目。相较于 Nougat，它具有更快的速度和更高的准确度，在处理英语类内容时效果最佳，但对中文的处理就要差一些。
+23、[marker](https://hellogithub.com/periodical/statistics/click?target=https://github.com/datalab-to/marker)：将 PDF 转换为 Markdown 文件的项目。这是一个能够将 PDF、EPUB 和 MOBI 格式的文件转换为 Markdown 文件的 Python 项目。相较于 Nougat，它具有更快的速度和更高的准确度，在处理英语类内容时效果最佳，但对中文的处理就要差一些。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/712111618.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -275,7 +275,7 @@ Version: 2.7
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.qiniu.com/?utm_source=hello">
+        <a href="https://www.qiniu.com/products/ai-token-api?utm_source=hello">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/qiniu.jpg" width="60px"><br>
           <sub>七牛云</sub><br>
           <sub>百万 Token 免费体验</sub>

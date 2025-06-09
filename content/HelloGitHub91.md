@@ -250,7 +250,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/31883122.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 人工智能
-32、[AISystem](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chenzomi12/AISystem)：AI 系统 & 深度学习教程。该项目主要是关于人工智能、深度学习系统设计的教程，内容涵盖 AI 基础知识和概述、AI 芯片、AI 编译器原理、AI 框架核心技术等方面。
+32、[aisystem](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chenzomi12/aisystem)：AI 系统 & 深度学习教程。该项目主要是关于人工智能、深度学习系统设计的教程，内容涵盖 AI 基础知识和概述、AI 芯片、AI 编译器原理、AI 框架核心技术等方面。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/539888500.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -329,7 +329,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.qiniu.com/?utm_source=hello">
+        <a href="https://www.qiniu.com/products/ai-token-api?utm_source=hello">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/qiniu.jpg" width="60px"><br>
           <sub>七牛云</sub><br>
           <sub>百万 Token 免费体验</sub>

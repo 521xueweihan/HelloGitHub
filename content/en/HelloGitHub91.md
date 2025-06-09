@@ -243,7 +243,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/31883122.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### AI
-32、[AISystem](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/chenzomi12/AISystem)：AI Systems & Deep Learning Tutorials. This project primarily focuses on tutorials regarding the design of artificial intelligence and deep learning systems, covering aspects such as foundational knowledge and overviews of AI, AI chips, principles of AI compilers, and core technologies of AI frameworks.
+32、[aisystem](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/chenzomi12/aisystem)：AI Systems & Deep Learning Tutorials. This project primarily focuses on tutorials regarding the design of artificial intelligence and deep learning systems, covering aspects such as foundational knowledge and overviews of AI, AI chips, principles of AI compilers, and core technologies of AI frameworks.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/539888500.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -319,7 +319,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.qiniu.com/?utm_source=hello">
+        <a href="https://www.qiniu.com/products/ai-token-api?utm_source=hello">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/qiniu.jpg" width="60px"><br>
           <sub>七牛云</sub><br>
           <sub>百万 Token 免费体验</sub>

@@ -203,7 +203,7 @@ play(guitar, bpm=100, instrument=25)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/379429942.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[oxipng](https://hellogithub.com/periodical/statistics/click?target=https://github.com/shssoichiro/oxipng)：多线程的 PNG 图片压缩工具。这是一个 Rust 写的命令行 PNG 无损压缩工具，支持多线程压缩速度快，还可作为 Rust 库使用。
+31、[oxipng](https://hellogithub.com/periodical/statistics/click?target=https://github.com/oxipng/oxipng)：多线程的 PNG 图片压缩工具。这是一个 Rust 写的命令行 PNG 无损压缩工具，支持多线程压缩速度快，还可作为 Rust 库使用。
 
 ### Swift 项目
 32、[fsnotes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/glushchenko/fsnotes)：macOS/iOS 上的笔记管理器。这是一款适用于 macOS 和 iOS 的笔记管理工具，它支持 Markdown、加密笔记、生成网页、TouchBar 快捷键、超过 170 种编程语言的语法高亮、iCloud Drive 或 Dropbox 同步内容等功能。
@@ -294,7 +294,7 @@ play(guitar, bpm=100, instrument=25)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.qiniu.com/?utm_source=hello">
+        <a href="https://www.qiniu.com/products/ai-token-api?utm_source=hello">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/qiniu.jpg" width="60px"><br>
           <sub>七牛云</sub><br>
           <sub>百万 Token 免费体验</sub>

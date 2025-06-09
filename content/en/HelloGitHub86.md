@@ -196,7 +196,7 @@ play(guitar, bpm=100, instrument=25)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/379429942.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[oxipng](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/shssoichiro/oxipng)：Multithreaded PNG Image Compression Tool. This is a Rust-written command-line lossless PNG compression tool that supports multithreading for fast compression and can also be used as a Rust library.
+31、[oxipng](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/oxipng/oxipng)：Multithreaded PNG Image Compression Tool. This is a Rust-written command-line lossless PNG compression tool that supports multithreading for fast compression and can also be used as a Rust library.
 
 ### Swift
 32、[fsnotes](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/glushchenko/fsnotes)：Note Manager for macOS/iOS. This is a note management tool suitable for macOS and iOS that supports Markdown, encrypted notes, web page generation, TouchBar shortcuts, syntax highlighting for over 170 programming languages, and content synchronization via iCloud Drive or Dropbox.
@@ -284,7 +284,7 @@ play(guitar, bpm=100, instrument=25)
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.qiniu.com/?utm_source=hello">
+        <a href="https://www.qiniu.com/products/ai-token-api?utm_source=hello">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/qiniu.jpg" width="60px"><br>
           <sub>七牛云</sub><br>
           <sub>百万 Token 免费体验</sub>
