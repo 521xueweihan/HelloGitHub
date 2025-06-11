@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/readme.gif"/>
-  <br>中文 | <a href="README_en.md">English</a> | <a href="README_ja.md">日本語</a>
+  <br>中文 | <a href="README_en.md">English</a> | <a href="README_ja.md">日本語</a> | <a href="https://www.readme-i18n.com/521xueweihan/HelloGitHub?lang=de">Deutsch</a> | <a href="https://www.readme-i18n.com/521xueweihan/HelloGitHub?lang=es">Español</a> | <a href="https://www.readme-i18n.com/521xueweihan/HelloGitHub?lang=fr">français</a> | <a href="https://www.readme-i18n.com/521xueweihan/HelloGitHub?lang=ko">한국어</a> | <a href="https://www.readme-i18n.com/521xueweihan/HelloGitHub?lang=pt">Português</a> | <a href="https://www.readme-i18n.com/521xueweihan/HelloGitHub?lang=ru">Русский</a>
   <br>分享 GitHub 上有趣、入门级的开源项目。
   <br>兴趣是最好的老师，HelloGitHub 帮你找到开源的乐趣！
 </p>
