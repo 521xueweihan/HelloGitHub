@@ -136,7 +136,7 @@ func main() {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/182306991.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Kotlin 项目
-20、[OpenCalc](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Darkempire78/OpenCalc)：纯净的 Android 计算器。这是一款专为 Android 设计的开源计算器。它体积仅 2 MB、无需任何不必要权限，支持多主题、科学计算、历史记录、横竖屏切换和锁屏可用等功能。来自 [@ewiro](https://hellogithub.com/user/iItGgWoJjnLsr0Y) 的分享
+20、[OpenCalc](https://hellogithub.com/periodical/statistics/click?target=https://github.com/clementwzk/OpenCalc)：纯净的 Android 计算器。这是一款专为 Android 设计的开源计算器。它体积仅 2 MB、无需任何不必要权限，支持多主题、科学计算、历史记录、横竖屏切换和锁屏可用等功能。来自 [@ewiro](https://hellogithub.com/user/iItGgWoJjnLsr0Y) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/515283840.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -257,7 +257,7 @@ if __name__ == "__main__":
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub109.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub109.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub111.md">『下一期』</a>
 </p>
 
 ---

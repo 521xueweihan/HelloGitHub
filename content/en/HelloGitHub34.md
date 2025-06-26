@@ -86,21 +86,13 @@ adduser {
 7、[DevUtils](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/afkT/DevUtils)：Android 工具库，注释规范、API文档清晰明了、工具类种类多。根据不同功能模块封装，方便使用。帮助开发人员，便捷、快速地开发安全、可靠的项目。内置部分常用的资源文件，如 color.xml、layout.xml 等
 
 
-8、[hutool](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/chinabugotech/hutool)：功能丰富的 Java 工具包。它帮助我们实现了常用的工具方法，从而减少代码的体积，提高开发效率。该项目最初是作者工作项目中的`util`模块，后来慢慢积累并加入更多非业务相关工具类方法。经过整理修改，最终形成丰富的开源工具集。示例代码：
-```java
-int a = 1;
-//aStr为"1"
-String aStr = Convert.toStr(a);
-```
-
-
-9、[VIABUS-Architecture](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/KunMinX/VIABUS-Architecture)：一款响应式架构。借助总线转发数据的请求和响应，实现 UI、业务的完全解耦
+8、[VIABUS-Architecture](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/KunMinX/VIABUS-Architecture)：一款响应式架构。借助总线转发数据的请求和响应，实现 UI、业务的完全解耦
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/149297934.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript
-10、[axial3d](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/bestvist/axial3d)：实现了类似 GitHub 404 页面的动画效果。效果有趣，使用场景较多，并且实现了组件化，示例代码：
+9、[axial3d](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/bestvist/axial3d)：实现了类似 GitHub 404 页面的动画效果。效果有趣，使用场景较多，并且实现了组件化，示例代码：
 ```javascript
 <html>
 <head>
@@ -130,7 +122,7 @@ String aStr = Convert.toStr(a);
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/155164071.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[giojs](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/syt123450/giojs)：基于 Three.js 的 Web 3D 地球数据可视化的开源组件库。使用 Gio.js 的网页应用开发者，可以快速地以申明的方式创建自定义的 Web3D 数据可视化模型，添加数据，并且将其作为一个组件整合到自己的应用中。支持静态 Dom、React和微信小程序。具有一下特点：
+10、[giojs](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/syt123450/giojs)：基于 Three.js 的 Web 3D 地球数据可视化的开源组件库。使用 Gio.js 的网页应用开发者，可以快速地以申明的方式创建自定义的 Web3D 数据可视化模型，添加数据，并且将其作为一个组件整合到自己的应用中。支持静态 Dom、React和微信小程序。具有一下特点：
 - 易用性 -- 仅使用 4 行 Javascript 即可创建 3D 地球数据可视化模型
 - 定制化 -- 使用 Gio.js 提供的丰富的 API 来创建自定义样式的 3D 地球
 - 现代化 -- 基于 Gio.js 构建高交互、跨平台、自适应的现代化 3D 前端应用
@@ -138,12 +130,12 @@ String aStr = Convert.toStr(a);
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/116067411.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[gridea](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/getgridea/gridea)：静态博客写作客户端，你可以用它来记录你的生活、心情、知识、笔记、创意。使用了 electron 技术，对于学习 Javascript 桌面端开发是一个很好的项目
+11、[gridea](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/getgridea/gridea)：静态博客写作客户端，你可以用它来记录你的生活、心情、知识、笔记、创意。使用了 electron 技术，对于学习 Javascript 桌面端开发是一个很好的项目
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/126420325.png' style="max-width:80%; max-height=80%;"></img></p>
 
-13、[omi](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Tencent/omi)：腾讯开源的通用 Web 组件化框架。特点：
+12、[omi](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Tencent/omi)：腾讯开源的通用 Web 组件化框架。特点：
 - 拥有官方 UI 组件库
 - 使用 omio 可以兼容到 IE8
 - 设计精巧、兼容性好
@@ -183,10 +175,10 @@ render(<my-counter />, 'body')
 ```
 
 
-14、[RSSHub](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/DIYgod/RSSHub)：轻量、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源。现已支持丰富的源，详情见[文档](https://docs.rsshub.app/)
+13、[RSSHub](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/DIYgod/RSSHub)：轻量、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源。现已支持丰富的源，详情见[文档](https://docs.rsshub.app/)
 
 
-15、[vConsole](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Tencent/vConsole)：腾讯开源的移动 H5 的控制台开发调试工具，支持查看 console 日志、网络请求、自定义插件等。示例代码：
+14、[vConsole](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Tencent/vConsole)：腾讯开源的移动 H5 的控制台开发调试工具，支持查看 console 日志、网络请求、自定义插件等。示例代码：
 ```javascript
 <script src="path/to/vconsole.min.js"></script>
 <script>
@@ -200,22 +192,22 @@ render(<my-counter />, 'body')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/57180853.png' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[weapp-library](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/imageslr/weapp-library)：提供在线借书功能的开源小程序项目。连接读者与图书馆，实现图书借阅线上化。界面风格良好，功能完整。具有注册登录、图书搜索、书单系统、订单管理等功能。这是一个完整的小程序项目，包括了前后端的开发，并且撰写了完善的文档，适合初学者学习。可以扫描下面的小程序码体验：
+15、[weapp-library](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/imageslr/weapp-library)：提供在线借书功能的开源小程序项目。连接读者与图书馆，实现图书借阅线上化。界面风格良好，功能完整。具有注册登录、图书搜索、书单系统、订单管理等功能。这是一个完整的小程序项目，包括了前后端的开发，并且撰写了完善的文档，适合初学者学习。可以扫描下面的小程序码体验：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/150964385.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Objective-C
-17、[Karabiner-Elements](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pqrs-org/Karabiner-Elements)：一款 macOS 的强大的修键软件
+16、[Karabiner-Elements](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pqrs-org/Karabiner-Elements)：一款 macOS 的强大的修键软件
 
 
-18、[keycastr](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/keycastr/keycastr)：在屏幕上实时显示当前按键的工具
+17、[keycastr](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/keycastr/keycastr)：在屏幕上实时显示当前按键的工具
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/132914.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### PHP
-19、[laravel-s](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hhxsv5/laravel-s)：用于快速集成 [Swoole](https://www.swoole.com/) 到 [Laravel](https://laravel.com/)，开箱即用。特点：
+18、[laravel-s](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hhxsv5/laravel-s)：用于快速集成 [Swoole](https://www.swoole.com/) 到 [Laravel](https://laravel.com/)，开箱即用。特点：
 - 集成 LaravelS 之后无需使用 PHP FPM，直接基于 Swoole 开启 HTTP Server
 - 代码常驻内存之中，性能提升非常明显
 - 可快速开发 WebSocket/TCP/UDP 服务
@@ -227,10 +219,10 @@ render(<my-counter />, 'body')
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/117649937.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python
-20、[awesome-python-applications](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mahmoud/awesome-python-applications)：（英文）介绍 Python 有趣、神奇的开源项目。目前涵盖多个领域、项目丰富
+19、[awesome-python-applications](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mahmoud/awesome-python-applications)：（英文）介绍 Python 有趣、神奇的开源项目。目前涵盖多个领域、项目丰富
 
 
-21、[click](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pallets/click)：Python 的第三方库，用于快速创建命令行。支持装饰器方式调用、多种参数类型、自动生成帮助信息等。示例代码如下：
+20、[click](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pallets/click)：Python 的第三方库，用于快速创建命令行。支持装饰器方式调用、多种参数类型、自动生成帮助信息等。示例代码如下：
 ```python
 import click
 
@@ -255,7 +247,7 @@ Hello, Click!
 ```
 
 
-22、[PSpider](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/xianhu/PSpider)：代码量极少，功能却很完备的 Python 爬虫框架。特点：
+21、[PSpider](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/xianhu/PSpider)：代码量极少，功能却很完备的 Python 爬虫框架。特点：
 - 功能完备：包含抓取、解析、存储等
 - 代码量少：方便阅读源码、动手修改、二次开发
 - 等等
@@ -263,36 +255,36 @@ Hello, Click!
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/70978600.png' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[ranger](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ranger/ranger)：以类似 VIM 操作，方便、快捷地管理文件的工具
+22、[ranger](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ranger/ranger)：以类似 VIM 操作，方便、快捷地管理文件的工具
 
 
-24、[sherlock](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/sherlock-project/sherlock)：（英文）在主流社交网站，例如：GitHub、Facebook 等网站上查找指定的用户名是否存在。你想取一个独一无二的名字吗？快试试吧
+23、[sherlock](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/sherlock-project/sherlock)：（英文）在主流社交网站，例如：GitHub、Facebook 等网站上查找指定的用户名是否存在。你想取一个独一无二的名字吗？快试试吧
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/162998479.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift
-25、[iOS-Developer-Roadmap](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/BohdanOrlov/iOS-Developer-Roadmap)：（英文） iOS 开发者学习路线图
+24、[iOS-Developer-Roadmap](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/BohdanOrlov/iOS-Developer-Roadmap)：（英文） iOS 开发者学习路线图
 
 
 ### AI
-26、[RecommenderSystem-Paper](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/daicoolb/RecommenderSystem-Paper)：推荐系统论文整理列表，包括了行业顶尖会议 AAAI、NIPS 等发表的论文，以及 KDD 一些获奖论文。方便推荐系统方向以及文本表示方向等研究人员，跟踪阅读行业内经典论文和最新研究方向
+25、[RecommenderSystem-Paper](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/daicoolb/RecommenderSystem-Paper)：推荐系统论文整理列表，包括了行业顶尖会议 AAAI、NIPS 等发表的论文，以及 KDD 一些获奖论文。方便推荐系统方向以及文本表示方向等研究人员，跟踪阅读行业内经典论文和最新研究方向
 
 
-27、[Semantic-Segmentation-Suite](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/GeorgeSeif/Semantic-Segmentation-Suite)：图像语义分割模型组件整理，包含了模型、数据增广、准确率评价等模块。方便研究者快速搭建和试验一个图像语义分割模型，同时集成了一些 state-of-the-art 的模型
+26、[Semantic-Segmentation-Suite](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/GeorgeSeif/Semantic-Segmentation-Suite)：图像语义分割模型组件整理，包含了模型、数据增广、准确率评价等模块。方便研究者快速搭建和试验一个图像语义分割模型，同时集成了一些 state-of-the-art 的模型
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/113707110.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[spinningup](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/openai/spinningup)：（英文）OpenAI 制作的教育资源，可以更容易地学习深层强化学习。官方项目，浅显易懂，提供练手的例子，方便初学者或对深层强化学习感兴趣的人群学习和入门
+27、[spinningup](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/openai/spinningup)：（英文）OpenAI 制作的教育资源，可以更容易地学习深层强化学习。官方项目，浅显易懂，提供练手的例子，方便初学者或对深层强化学习感兴趣的人群学习和入门
 
 
-29、[the-gan-zoo](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hindupuravinash/the-gan-zoo)：生成对抗网络（Generative Adversarial Networks，简称GAN）的一个大集合，作者列举了生成对抗网络领域各式各样的应用集合，大部分为论文，包含少数的 GitHub 项目。该项目对于 GAN 领域覆盖面全面，论文列表整理清晰，GAN 方向的研究者可以从这个项目中查询到想看的经典的论文或者扩充自己的知识储备
+28、[the-gan-zoo](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hindupuravinash/the-gan-zoo)：生成对抗网络（Generative Adversarial Networks，简称GAN）的一个大集合，作者列举了生成对抗网络领域各式各样的应用集合，大部分为论文，包含少数的 GitHub 项目。该项目对于 GAN 领域覆盖面全面，论文列表整理清晰，GAN 方向的研究者可以从这个项目中查询到想看的经典的论文或者扩充自己的知识储备
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/88285322.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[transformers](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/huggingface/transformers)：Google 神级语言表示模型的 PyTorch 预训练模型和 PyTorch 框架结合，使得更加容易上手。PyTorch 版本更方便小白上手实验。示例代码：
+29、[transformers](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/huggingface/transformers)：Google 神级语言表示模型的 PyTorch 预训练模型和 PyTorch 框架结合，使得更加容易上手。PyTorch 版本更方便小白上手实验。示例代码：
 ```python
 import torch
 from pytorch_pretrained_bert import BertTokenizer, BertModel, BertForMaskedLM
@@ -321,13 +313,13 @@ segments_tensors = torch.tensor([segments_ids])
 
 
 ### Other
-31、[algorithm-visualizer](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/algorithm-visualizer/algorithm-visualizer)：一个交互式算法可视化网站。你可以自由选择自己想学习的算法，每个算法它都清晰描绘了其原理和运作过程
+30、[algorithm-visualizer](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/algorithm-visualizer/algorithm-visualizer)：一个交互式算法可视化网站。你可以自由选择自己想学习的算法，每个算法它都清晰描绘了其原理和运作过程
 
 
-32、[html](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/whatwg/html)：《HTML 标准》[中文版](https://whatwg-cn.github.io/html/)
+31、[html](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/whatwg/html)：《HTML 标准》[中文版](https://whatwg-cn.github.io/html/)
 
 
-33、[Visual-Studio-Code-Keymap-CN](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/OrvilleQ/Visual-Studio-Code-Keymap-CN)：VS Code 编辑器官方快捷键查图汉化版
+32、[Visual-Studio-Code-Keymap-CN](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/OrvilleQ/Visual-Studio-Code-Keymap-CN)：VS Code 编辑器官方快捷键查图汉化版
 
 
 

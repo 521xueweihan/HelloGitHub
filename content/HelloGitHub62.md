@@ -58,7 +58,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/62/233130089.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-8、[Cloudreve](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cloudreve/Cloudreve)：支持多种存储服务的云文件桌面管理工具。开箱即用，功能丰富
+8、[cloudreve](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cloudreve/cloudreve)：支持多种存储服务的云文件桌面管理工具。开箱即用，功能丰富
 - 拖拽上传、目录上传、流式上传处理
 - 客户端直传和限速下载
 - 视频、图像、音频、文本、Office 文档在线预览

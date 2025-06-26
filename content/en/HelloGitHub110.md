@@ -129,7 +129,7 @@ func main() {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/182306991.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Kotlin
-20、[OpenCalc](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Darkempire78/OpenCalc)：Pure Android Calculator.This is an open-source calculator designed specifically for Android. It has a volume of only 2 MB and does not require any unnecessary permissions. It supports multiple themes, scientific computing, history records, landscape/portrait screen switching, and can be used on the locked screen and other functions.Shared by [@ewiro](https://hellogithub.com/en/user/iItGgWoJjnLsr0Y)
+20、[OpenCalc](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/clementwzk/OpenCalc)：Pure Android Calculator.This is an open-source calculator designed specifically for Android. It has a volume of only 2 MB and does not require any unnecessary permissions. It supports multiple themes, scientific computing, history records, landscape/portrait screen switching, and can be used on the locked screen and other functions.Shared by [@ewiro](https://hellogithub.com/en/user/iItGgWoJjnLsr0Y)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/515283840.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -250,7 +250,7 @@ if __name__ == "__main__":
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub109.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | 『Next』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub109.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub111.md">『Next』</a>
 </p>
 
 ---

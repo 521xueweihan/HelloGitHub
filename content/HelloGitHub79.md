@@ -49,7 +49,7 @@ masscan -p 0-65535 IP --rate=1000
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/311683390.png' style="max-width:80%; max-height=80%;"></img></p>
 
-8、[NotepadNext](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dail8859/NotepadNext)：Notepad++  的替代品。采用 C++ 重写的跨平台文本编辑器，拥有和 Notepad++ 相似的界面和功能。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
+8、[NotepadNext](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dail8859/NotepadNext)：Notepad++  的替代品。该项目采用 C++ 重写的跨平台文本编辑器，拥有和 Notepad++ 相似的界面和功能。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/224468265.png' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -243,7 +243,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/31883122.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### AI
-32、[aisystem](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/chenzomi12/aisystem)：AI Systems & Deep Learning Tutorials. This project primarily focuses on tutorials regarding the design of artificial intelligence and deep learning systems, covering aspects such as foundational knowledge and overviews of AI, AI chips, principles of AI compilers, and core technologies of AI frameworks.
+32、[AISystem](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Infrasys-AI/AISystem)：AI Systems & Deep Learning Tutorials. This project primarily focuses on tutorials regarding the design of artificial intelligence and deep learning systems, covering aspects such as foundational knowledge and overviews of AI, AI chips, principles of AI compilers, and core technologies of AI frameworks.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/539888500.png' style="max-width:80%; max-height=80%;"></img></p>
 
