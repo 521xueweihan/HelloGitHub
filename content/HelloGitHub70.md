@@ -284,43 +284,37 @@ end
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/427532379.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 人工智能
-33、[VNN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/joyycom/VNN)：高性能、轻量级的神经网络部署框架。支持人脸关键点检测、卡通图像风格化、天气场景识别等功能，打包全部功能后的 SDK 体积还不到 3 MB，适用于 Android、iOS 等操作系统
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/435838356.gif' style="max-width:80%; max-height=80%;"></img></p>
-
 ### 其它
-34、[JetBrainsMono](https://hellogithub.com/periodical/statistics/click?target=https://github.com/JetBrains/JetBrainsMono)：JetBrains 为开发者开源的免费字体。该字体形状简单没有不必要的细节，从而阅读起来十分轻松而且小尺寸时显示更加清晰
+33、[JetBrainsMono](https://hellogithub.com/periodical/statistics/click?target=https://github.com/JetBrains/JetBrainsMono)：JetBrains 为开发者开源的免费字体。该字体形状简单没有不必要的细节，从而阅读起来十分轻松而且小尺寸时显示更加清晰
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/173314762.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[m-cli](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rgcr/m-cli)：macOS 命令行工具。实现在终端用简短命令的方式操作 macOS 系统，比如管理蓝牙、打开 Wi-Fi、清空废纸篓、操作 iTunes 等
+34、[m-cli](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rgcr/m-cli)：macOS 命令行工具。实现在终端用简短命令的方式操作 macOS 系统，比如管理蓝牙、打开 Wi-Fi、清空废纸篓、操作 iTunes 等
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/62925253.png' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[one-html-page-challenge](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Metroxe/one-html-page-challenge)：单个 HTML 页面的挑战。该项目汇集了满足仅有一个 HTML 文件、小于 1MB、不可接入 API、不能引用库条件下实现的创意网页。[在线查看](https://onehtmlpagechallenge.com/)
+35、[one-html-page-challenge](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Metroxe/one-html-page-challenge)：单个 HTML 页面的挑战。该项目汇集了满足仅有一个 HTML 文件、小于 1MB、不可接入 API、不能引用库条件下实现的创意网页。[在线查看](https://onehtmlpagechallenge.com/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/194445383.png' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[realworld](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gothinkster/realworld)：该项目汇集了不同技术栈的实战项目。这里有采用不同编程语言框架，实现相同功能内容网站的项目代码。例如用 Vue.js+Django 开发包含注册、登录、发布文章、标签、评论等功能的网站，让你通过简单但完整的实战项目，快速上手新的技术栈，消除刚接触某个技术时的手足无措。[点击查看](https://codebase.show/projects/realworld)
+36、[realworld](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gothinkster/realworld)：该项目汇集了不同技术栈的实战项目。这里有采用不同编程语言框架，实现相同功能内容网站的项目代码。例如用 Vue.js+Django 开发包含注册、登录、发布文章、标签、评论等功能的网站，让你通过简单但完整的实战项目，快速上手新的技术栈，消除刚接触某个技术时的手足无措。[点击查看](https://codebase.show/projects/realworld)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/52631841.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[WhiteSur-gtk-theme](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vinceliuice/WhiteSur-gtk-theme)：仿苹果 Big Sur 风格的 GTK 主题
+37、[WhiteSur-gtk-theme](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vinceliuice/WhiteSur-gtk-theme)：仿苹果 Big Sur 风格的 GTK 主题
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/279638102.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-39、[rust-course](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sunface/rust-course)：《Rust 语言圣经》涵盖了 Rust 语言从入门到精通的全部知识。该书目前还未完成，正处于积极更新的状态。[在线阅读](https://book.rust.team)
+38、[rust-course](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sunface/rust-course)：《Rust 语言圣经》涵盖了 Rust 语言从入门到精通的全部知识。该书目前还未完成，正处于积极更新的状态。[在线阅读](https://book.rust.team)
 
 
-40、[safe-rules](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Qihoo360/safe-rules)：由 360 质量工程部开源的《代码安全规则集合》。一份全面详细的 C/C++ 编程规范指南，适用于桌面、服务端以及嵌入式等软件开发
+39、[safe-rules](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Qihoo360/safe-rules)：由 360 质量工程部开源的《代码安全规则集合》。一份全面详细的 C/C++ 编程规范指南，适用于桌面、服务端以及嵌入式等软件开发
 
 
 

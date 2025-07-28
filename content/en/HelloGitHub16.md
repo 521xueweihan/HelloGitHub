@@ -71,7 +71,7 @@ namespace WeixinSDK.Test.Fake
 
 
 ### C++
-4、[RedisDesktopManager](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/RedisInsight/RedisDesktopManager)：Redis 桌面管理工具
+4、[RedisDesktopManager](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/redis/RedisDesktopManager)：Redis 桌面管理工具
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/16/11892946.png' style="max-width:80%; max-height=80%;"></img></p>

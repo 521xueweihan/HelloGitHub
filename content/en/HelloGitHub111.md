@@ -107,7 +107,7 @@ WebUI started, visit http://localhost:8080
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/111/274495425.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[typing-word](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/zyronon/typing-word)：Minimalist Typing Word Memorization Website.This is a web-based word memorization software that helps users remember words through keyboard input. It has a simple interface, smooth interaction, and supports functions such as word pronunciation, error statistics, and a new word list.
+16、[TypeWords](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/zyronon/TypeWords)：Minimalist Typing Word Memorization Website.This is a web-based word memorization software that helps users remember words through keyboard input. It has a simple interface, smooth interaction, and supports functions such as word pronunciation, error statistics, and a new word list.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/111/674186516.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -221,7 +221,7 @@ outputs[0]["text"]
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub110.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | 『Next』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub110.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub112.md">『Next』</a>
 </p>
 
 ---

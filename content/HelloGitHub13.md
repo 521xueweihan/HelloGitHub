@@ -170,34 +170,31 @@ Detailed:
 21、[alloyteam.github.com](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AlloyTeam/alloyteam.github.com)：腾讯 AlloyTeam 开源项目官网
 
 
-22、[Awesome](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Awesome-Windows/Awesome)：一个 Windows 上优质和精选的最佳应用程序及工具列表。[中文版](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
+22、[be-a-professional-programmer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/stanzhai/be-a-professional-programmer)：成为专业程序员路上用到的各种优秀资料、神器及框架
 
 
-23、[be-a-professional-programmer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/stanzhai/be-a-professional-programmer)：成为专业程序员路上用到的各种优秀资料、神器及框架
+23、[gold-miner](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xitu/gold-miner)：掘金翻译计划，翻译掘金上优质的英文文章
 
 
-24、[gold-miner](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xitu/gold-miner)：掘金翻译计划，翻译掘金上优质的英文文章
-
-
-25、[SuperTinyIcons](https://hellogithub.com/periodical/statistics/click?target=https://github.com/edent/SuperTinyIcons)：体积超级小、制作精致的常见网站和 app 的图标库，每个图标均小于 1KB
+24、[SuperTinyIcons](https://hellogithub.com/periodical/statistics/click?target=https://github.com/edent/SuperTinyIcons)：体积超级小、制作精致的常见网站和 app 的图标库，每个图标均小于 1KB
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/88214511.png' style="max-width:80%; max-height=80%;"></img></p>
 
-26、[SwitchHosts](https://hellogithub.com/periodical/statistics/click?target=https://github.com/oldj/SwitchHosts)：一个用于快速切换 hosts 文件的小程序，基于 Electron 开发
+25、[SwitchHosts](https://hellogithub.com/periodical/statistics/click?target=https://github.com/oldj/SwitchHosts)：一个用于快速切换 hosts 文件的小程序，基于 Electron 开发
 
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/2312977.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[uBlock](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gorhill/uBlock)：uBlock Origin 不只是一个广告过滤工具，它是具有一般性用途的过滤工具，屏蔽广告的功能是通过支持 Adblock Plus 过滤规则语法实现的。uBlock 还扩充了语法，一开始就支持自定义过滤规则，[中文文档](https://github.com/fang5566/uBlock/blob/master/README.md#ublock-origin)
+26、[uBlock](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gorhill/uBlock)：uBlock Origin 不只是一个广告过滤工具，它是具有一般性用途的过滤工具，屏蔽广告的功能是通过支持 Adblock Plus 过滤规则语法实现的。uBlock 还扩充了语法，一开始就支持自定义过滤规则，[中文文档](https://github.com/fang5566/uBlock/blob/master/README.md#ublock-origin)
 
 
 ### 开源书籍
-28、[free-programming-books-zh_CN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/justjavac/free-programming-books-zh_CN)：免费的计算机编程类中文书籍
+27、[free-programming-books-zh_CN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/justjavac/free-programming-books-zh_CN)：免费的计算机编程类中文书籍
 
 
-29、[growth-ebook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/phodal/growth-ebook)：全栈增长工程师指南，[在线阅读](http://growth.phodal.com/)
+28、[growth-ebook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/phodal/growth-ebook)：全栈增长工程师指南，[在线阅读](http://growth.phodal.com/)
 
 
 

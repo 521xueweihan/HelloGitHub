@@ -276,12 +276,7 @@ fn draw(frame: &mut Frame) {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/600886023.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift
-31、[DevUtils-app](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/DevUtilsApp/DevUtils-app)：macOS 上的开发者实用工具箱。单机应用无需联网，内含开发者开发时经常用到的 30 多种工具，比如：URL 解码、JSON 格式化、正则匹配、时间戳转化等，而且还会根据剪贴板的内容，自动推荐对应的处理工具，实用且高效
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/298938864.png' style="max-width:80%; max-height=80%;"></img></p>
-
-32、[vapor](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/vapor/vapor)：流行的 Swift 语言 Web 框架。核心框架基于非阻塞事件驱动库 SwiftNIO 构建，除此之外还提供了 ORM、模版引擎、用户身份验证等模块，可用来快速创建网站、接口等服务。[中文文档](https://cn.docs.vapor.codes)
+31、[vapor](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/vapor/vapor)：流行的 Swift 语言 Web 框架。核心框架基于非阻塞事件驱动库 SwiftNIO 构建，除此之外还提供了 ORM、模版引擎、用户身份验证等模块，可用来快速创建网站、接口等服务。[中文文档](https://cn.docs.vapor.codes)
 ```swift
 import Vapor
  
@@ -298,45 +293,45 @@ try app.run()
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/49910095.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### AI
-33、[ColossalAI](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hpcaitech/ColossalAI)：Making Large AI Models More Cost-Effective, User-Friendly, and Scalable. An efficient distributed AI training system. It helps users improve AI training efficiency while reducing training costs, thus adapting to rapidly iterating algorithms and models, and promoting large AI models to more application scenarios at a lower cost and with greater convenience.
+32、[ColossalAI](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hpcaitech/ColossalAI)：Making Large AI Models More Cost-Effective, User-Friendly, and Scalable. An efficient distributed AI training system. It helps users improve AI training efficiency while reducing training costs, thus adapting to rapidly iterating algorithms and models, and promoting large AI models to more application scenarios at a lower cost and with greater convenience.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/422274596.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Other
-34、[Arduino](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/arduino/Arduino)：开源电子平台，可用来制作嵌入式项目。Arduino 提供的电路板安装简单、价格便宜，而且电路图完全开源。官方还提供了配套的开发工具，加上交互式的开发模式使得上手变得极为简单。软硬件的完全开源让开发者社区十分活跃，为社区提供了丰富的教程、实战项目、三方资源。如果你想动手做个机器人，就从 Arduino 开始吧！[官网](https://www.arduino.cc/)
+33、[Arduino](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/arduino/Arduino)：开源电子平台，可用来制作嵌入式项目。Arduino 提供的电路板安装简单、价格便宜，而且电路图完全开源。官方还提供了配套的开发工具，加上交互式的开发模式使得上手变得极为简单。软硬件的完全开源让开发者社区十分活跃，为社区提供了丰富的教程、实战项目、三方资源。如果你想动手做个机器人，就从 Arduino 开始吧！[官网](https://www.arduino.cc/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/919161.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[db-tutorial](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/dunwu/db-tutorial)：一份关于数据库的教程。内容涵盖了 MySQL、Redis、ES、MongoDB 从入门到面试等多方面的知识
+34、[db-tutorial](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/dunwu/db-tutorial)：一份关于数据库的教程。内容涵盖了 MySQL、Redis、ES、MongoDB 从入门到面试等多方面的知识
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/99658622.png' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[HowToCook](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Anduin2017/HowToCook)：程序员做饭指南。一份极其详尽的菜谱，里面没有模糊的量词和看不懂的操作，菜品从主食到甜品应有尽有
+35、[HowToCook](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Anduin2017/HowToCook)：程序员做饭指南。一份极其详尽的菜谱，里面没有模糊的量词和看不懂的操作，菜品从主食到甜品应有尽有
 
 
-37、[macos-web](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/PuruVJ/macos-web)：在线体验 macOS 系统。该项目使用 Svelte 复刻了 macOS 操作系统的部分操作体验，虽然已实现的功能较少，但更新积极未来可期。[在线查看](https://macos-web.app/)
+36、[macos-web](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/PuruVJ/macos-web)：在线体验 macOS 系统。该项目使用 Svelte 复刻了 macOS 操作系统的部分操作体验，虽然已实现的功能较少，但更新积极未来可期。[在线查看](https://macos-web.app/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/395248907.png' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[pushdeer](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/easychen/pushdeer)：无 APP 推送服务。该项目可以实现不安装庞大的应用，就可以收到自定义的及时推送、告警和通知。还可以选择自行搭建服务（免费）或使用已有的在线服务（收费），支持快应用、iOS、macOS、Android 等客户端
+37、[pushdeer](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/easychen/pushdeer)：无 APP 推送服务。该项目可以实现不安装庞大的应用，就可以收到自定义的及时推送、告警和通知。还可以选择自行搭建服务（免费）或使用已有的在线服务（收费），支持快应用、iOS、macOS、Android 等客户端
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/438857216.png' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[resume](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/billryan/resume)：简历模板。不需要懂 LaTeX 语法就可以用，适合用来做一页纸简历
+38、[resume](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/billryan/resume)：简历模板。不需要懂 LaTeX 语法就可以用，适合用来做一页纸简历
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/36554772.png' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[svg-path-editor](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Yqnn/svg-path-editor)：在线 SVG 编辑器。[在线体验](https://yqnn.github.io/svg-path-editor/)
+39、[svg-path-editor](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Yqnn/svg-path-editor)：在线 SVG 编辑器。[在线体验](https://yqnn.github.io/svg-path-editor/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/260776764.png' style="max-width:80%; max-height=80%;"></img></p>
 
-41、[teslamate](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/teslamate-org/teslamate)：自建特斯拉的日志平台。该项目可以将车主的特斯拉行驶数据收集、存储、展示，而且方便地支持 Docker 部署
+40、[teslamate](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/teslamate-org/teslamate)：自建特斯拉的日志平台。该项目可以将车主的特斯拉行驶数据收集、存储、展示，而且方便地支持 Docker 部署
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/178738556.png' style="max-width:80%; max-height=80%;"></img></p>

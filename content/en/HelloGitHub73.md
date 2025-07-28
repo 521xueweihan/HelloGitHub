@@ -299,7 +299,7 @@ with pikepdf.open('input.pdf') as pdf:
 37、[iRedMail](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/iredmail/iRedMail)：开箱即用的免费邮件服务器。通过该项目可以快速在 Linux/BSD 上部署邮件服务，除此之外还拥有 Web 管理平台，数据均存储在服务器上，即保证了数据隐私还易于迁移和备份
 
 
-38、[RedisInsight](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/RedisInsight/RedisInsight)：官方开源的 Redis 桌面管理工具。提供了可视化操作界面、监控、内存分析、管理 Redis 集群等功能
+38、[RedisInsight](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/redis/RedisInsight)：官方开源的 Redis 桌面管理工具。提供了可视化操作界面、监控、内存分析、管理 Redis 集群等功能
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/73/391005419.png' style="max-width:80%; max-height=80%;"></img></p>

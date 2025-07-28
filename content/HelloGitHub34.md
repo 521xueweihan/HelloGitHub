@@ -323,6 +323,8 @@ segments_tensors = torch.tensor([segments_ids])
 30、[algorithm-visualizer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/algorithm-visualizer/algorithm-visualizer)：一个交互式算法可视化网站。你可以自由选择自己想学习的算法，每个算法它都清晰描绘了其原理和运作过程
 
 
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/34/58836534.png' style="max-width:80%; max-height=80%;"></img></p>
+
 31、[html](https://hellogithub.com/periodical/statistics/click?target=https://github.com/whatwg/html)：《HTML 标准》[中文版](https://whatwg-cn.github.io/html/)
 
 

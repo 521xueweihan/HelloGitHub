@@ -174,7 +174,7 @@ const semiTransparentRedPng = await sharp({
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/476427476.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
-21、[chonkie](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chonkie-ai/chonkie)：轻量级的文本分块 Python 库。这是一个专为 RAG 应用设计的轻量级文本分块库，它简单易用、速度快，能够按固定大小分割文本，支持多种分词器、向量模型和灵活的分块策略，适用于长文本处理、构建 RAG 应用等场景。
+21、[chonkie](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chonkie-inc/chonkie)：轻量级的文本分块 Python 库。这是一个专为 RAG 应用设计的轻量级文本分块库，它简单易用、速度快，能够按固定大小分割文本，支持多种分词器、向量模型和灵活的分块策略，适用于长文本处理、构建 RAG 应用等场景。
 ```python
 from chonkie import TokenChunker
 from tokenizers import Tokenizer

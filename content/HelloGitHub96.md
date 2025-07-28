@@ -173,7 +173,7 @@ XXH32_hash_t hash_string(const char* string, XXH32_hash_t seed)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/679506386.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[open-interpreter](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OpenInterpreter/open-interpreter)：让 LLM 在你的计算机上运行代码。该项目可以让大语言模型在本地运行代码，支持 Python、JavaScript、Shell 等编程语言。相当于大语言模型是一个解释器，它会理解你的意图，将自然语言转化成相应的代码脚本并运行。安装后，用户就可以在终端通过聊天的方式操作计算机，比如创建和编辑图片、视频和文件，控制 Chrome 浏览器进行搜索等。
+35、[open-interpreter](https://hellogithub.com/periodical/statistics/click?target=https://github.com/openinterpreter/open-interpreter)：让 LLM 在你的计算机上运行代码。该项目可以让大语言模型在本地运行代码，支持 Python、JavaScript、Shell 等编程语言。相当于大语言模型是一个解释器，它会理解你的意图，将自然语言转化成相应的代码脚本并运行。安装后，用户就可以在终端通过聊天的方式操作计算机，比如创建和编辑图片、视频和文件，控制 Chrome 浏览器进行搜索等。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/666299222.gif' style="max-width:80%; max-height=80%;"></img></p>
 

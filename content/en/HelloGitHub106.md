@@ -167,7 +167,7 @@ const semiTransparentRedPng = await sharp({
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/106/476427476.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python
-21、[chonkie](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/chonkie-ai/chonkie)：Lightweight Text Chunking Python Library. This is a lightweight text chunking library designed specifically for RAG applications. It is easy to use and fast, capable of splitting text into fixed sizes, supporting various tokenizers, vector models, and flexible chunking strategies, suitable for long text processing and constructing RAG applications.
+21、[chonkie](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/chonkie-inc/chonkie)：Lightweight Text Chunking Python Library. This is a lightweight text chunking library designed specifically for RAG applications. It is easy to use and fast, capable of splitting text into fixed sizes, supporting various tokenizers, vector models, and flexible chunking strategies, suitable for long text processing and constructing RAG applications.
 ```python
 from chonkie import TokenChunker
 from tokenizers import Tokenizer

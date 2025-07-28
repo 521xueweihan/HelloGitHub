@@ -88,7 +88,7 @@ luaenv.Dispose();
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/233408177.png' style="max-width:80%; max-height=80%;"></img></p>
 
-10、[go-fly](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/taoshihan1991/go-fly)：基于 Go 语言实现的在线客服系统，采用 Gin+MySQL+JWT+WebSocket 等技术栈实现
+10、[goflylivechat](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/taoshihan1991/goflylivechat)：基于 Go 语言实现的在线客服系统，采用 Gin+MySQL+JWT+WebSocket 等技术栈实现
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/255823049.jpeg' style="max-width:80%; max-height=80%;"></img></p>

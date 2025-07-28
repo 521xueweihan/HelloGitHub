@@ -123,16 +123,13 @@ print ifconfig("eth0")
 18、[open-shell-book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tinyclub/open-shell-book)：《Shell 编程范例》，面向操作对象学 Shell！
 
 
-19、[python-data-structure-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facert/python-data-structure-cn)：《Problem Solving with Algorithms and Data Structures using Python》中文版
+19、[react-cookbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/shimohq/react-cookbook)：编写简洁漂亮，可维护的 React 应用
 
 
-20、[react-cookbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/shimohq/react-cookbook)：编写简洁漂亮，可维护的 React 应用
+20、[real-world-haskell-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/huangzworks/real-world-haskell-cn)：《Real World Haskell》中文翻译项目
 
 
-21、[real-world-haskell-cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/huangzworks/real-world-haskell-cn)：《Real World Haskell》中文翻译项目
-
-
-22、[rust-book-chinese](https://hellogithub.com/periodical/statistics/click?target=https://github.com/KaiserY/rust-book-chinese)：Rust 程序设计语言 中文版
+21、[rust-book-chinese](https://hellogithub.com/periodical/statistics/click?target=https://github.com/KaiserY/rust-book-chinese)：Rust 程序设计语言 中文版
 
 
 

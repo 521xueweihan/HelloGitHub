@@ -105,34 +105,14 @@ Console.WriteLine(json);
 7、[incubator-weex](https://hellogithub.com/periodical/statistics/click?target=https://github.com/apache/incubator-weex)：移动端，跨平台前端框架，[详细的中文档](https://weex-project.io/cn/guide/)
 
 
-8、[WeFlow](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Tencent/WeFlow)：微信出品的一个高效、强大、跨平台的 Web 前端开发工作流工具，[官网](https://weflow.io/)
-
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/08/59920662.jpeg' style="max-width:80%; max-height=80%;"></img></p>
-
-### Objective-C 项目
-9、[aria2gui](https://hellogithub.com/periodical/statistics/click?target=https://github.com/NickYang29/aria2gui)：Aria2 的 Mac 客户端（下载工具），[介绍、使用方法](http://www.jianshu.com/p/1290f8e7b326)，特点：
-- 集成了 aria2，运行后即完成配置工作
-- 多线程下载
-- 未完成任务退出可以自动保存
-- 支持迅雷离线，百度、115、360 等网盘的 aria2 导出（需要浏览器插件支持）
-- 支持 PT/BT，BT 速度跟种子热度有关，如果没有速度网盘离线后再下载
-- 在 Badge 显示整体下载速度
-- 任务完成通知
-
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/08/37798806.png' style="max-width:80%; max-height=80%;"></img></p>
-
 ### Python 项目
-10、[httpstat](https://hellogithub.com/periodical/statistics/click?target=https://github.com/reorx/httpstat)：httpstat 美化了 `curl` 的结果，使得结果更加可读。同时它无依赖、兼容 Python3、一共才 300 多行。还可以显示 HTTP 请求的每个过程中消耗的时间，如下图：
+8、[httpstat](https://hellogithub.com/periodical/statistics/click?target=https://github.com/reorx/httpstat)：httpstat 美化了 `curl` 的结果，使得结果更加可读。同时它无依赖、兼容 Python3、一共才 300 多行。还可以显示 HTTP 请求的每个过程中消耗的时间，如下图：
 
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/08/66913302.png' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[PyMySQL](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PyMySQL/PyMySQL)：纯 Pyton 写的 MySQL 库，纯 Python 的好处就是可以运行在任何装有 Python 解释器（CPython、PyPy、IronPython）的平台上。相对于 [MySQLdb](https://github.com/farcepest/MySQLdb1) 性能几乎一样，使用方法也一样，但是 **PyMySQL 安装方法极其简单**——`pip install PyMySQL`，PyMySQL 使用示例代码：
+9、[PyMySQL](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PyMySQL/PyMySQL)：纯 Pyton 写的 MySQL 库，纯 Python 的好处就是可以运行在任何装有 Python 解释器（CPython、PyPy、IronPython）的平台上。相对于 [MySQLdb](https://github.com/farcepest/MySQLdb1) 性能几乎一样，使用方法也一样，但是 **PyMySQL 安装方法极其简单**——`pip install PyMySQL`，PyMySQL 使用示例代码：
 ```
 # 下面为例子需要的数据库的建表语句
 CREATE TABLE `users` (
@@ -177,36 +157,36 @@ finally:
 ```
 
 
-12、[reddit](https://hellogithub.com/periodical/statistics/click?target=https://github.com/reddit-archive/reddit)：[reddit.com](https://www.reddit.com/) 网站的源码，通过这个项目，可以学习 Python 在构建大型项目中的使用、项目结构、代码风格、Python 技巧的使用方法等。[安装教程](https://github.com/reddit/reddit/wiki/Install-guide)
+10、[reddit](https://hellogithub.com/periodical/statistics/click?target=https://github.com/reddit-archive/reddit)：[reddit.com](https://www.reddit.com/) 网站的源码，通过这个项目，可以学习 Python 在构建大型项目中的使用、项目结构、代码风格、Python 技巧的使用方法等。[安装教程](https://github.com/reddit/reddit/wiki/Install-guide)
 
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/08/26554.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Ruby 项目
-13、[discourse](https://hellogithub.com/periodical/statistics/click?target=https://github.com/discourse/discourse)：Ruby 语言写的论坛，百分之百开源、免费。
+11、[discourse](https://hellogithub.com/periodical/statistics/click?target=https://github.com/discourse/discourse)：Ruby 语言写的论坛，百分之百开源、免费。
 
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/08/7569578.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
-14、[How-To-Ask-Questions-The-Smart-Way](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)：提问的智慧，提出一个好的问题是解决问题的关键
+12、[How-To-Ask-Questions-The-Smart-Way](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)：提问的智慧，提出一个好的问题是解决问题的关键
 
 
-15、[jstraining](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ruanyf/jstraining)：阮一峰写的全栈工程师培训材料
+13、[jstraining](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ruanyf/jstraining)：阮一峰写的全栈工程师培训材料
 
 
-16、[macOS-Security-and-Privacy-Guide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/drduh/macOS-Security-and-Privacy-Guide)：MacOS 的安全和隐私指南，[中文翻译版](https://github.com/xitu/macOS-Security-and-Privacy-Guide/blob/master/README-cn.md)
+14、[macOS-Security-and-Privacy-Guide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/drduh/macOS-Security-and-Privacy-Guide)：MacOS 的安全和隐私指南，[中文翻译版](https://github.com/xitu/macOS-Security-and-Privacy-Guide/blob/master/README-cn.md)
 
 
-17、[PTVS](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/PTVS)：Visual Studio 下的 Python 开发插件
+15、[PTVS](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/PTVS)：Visual Studio 下的 Python 开发插件
 
 
-18、[styleguide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fex-team/styleguide)：百度前端研发团队的文档与源码编写风格
+16、[styleguide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fex-team/styleguide)：百度前端研发团队的文档与源码编写风格
 
 
-19、[the-swift-programming-language-in-chinese](https://hellogithub.com/periodical/statistics/click?target=https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)：中文版 Apple 官方 Swift 教程《The Swift Programming Language》
+17、[the-swift-programming-language-in-chinese](https://hellogithub.com/periodical/statistics/click?target=https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)：中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 
 
 

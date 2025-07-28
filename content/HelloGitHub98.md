@@ -30,7 +30,7 @@
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/17664381.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C# 项目
-3、[RunCat_for_windows](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Kyome22/RunCat_for_windows)：在 Windows 任务栏飞奔的“小猫”。这是一个用 C# 写的小工具，它会在 Windows 任务栏显示一只奔跑的小猫动画，CPU 使用率越高它跑得越快。
+3、[RunCat365](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Kyome22/RunCat365)：在 Windows 任务栏飞奔的“小猫”。这是一个用 C# 写的小工具，它会在 Windows 任务栏显示一只奔跑的小猫动画，CPU 使用率越高它跑得越快。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/285618804.gif' style="max-width:80%; max-height=80%;"></img></p>
 

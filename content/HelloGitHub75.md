@@ -317,7 +317,7 @@ struct ContentView: View {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/344192338.png' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[jiffyreader.com](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ansh/jiffyreader.com)：仿生阅读英文的浏览器插件。通过加粗单词的首字母部分提高阅读效率，实现更轻松、快速地浏览英文网站、文章等内容的功能。
+39、[jiffyreader-public-archive](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ansh/jiffyreader-public-archive)：仿生阅读英文的浏览器插件。通过加粗单词的首字母部分提高阅读效率，实现更轻松、快速地浏览英文网站、文章等内容的功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/494567206.png' style="max-width:80%; max-height=80%;"></img></p>
 

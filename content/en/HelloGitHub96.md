@@ -166,7 +166,7 @@ XXH32_hash_t hash_string(const char* string, XXH32_hash_t seed)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/679506386.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[open-interpreter](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/OpenInterpreter/open-interpreter)：Run Code on Your Computer with LLM. This project allows large language models to run code locally, supporting programming languages such as Python, JavaScript, and Shell. It acts as a natural language interpreter, converting spoken or written instructions into the corresponding code scripts and executing them. After installation, users can operate their computer through terminal chat, for example, creating and editing images, videos, and files, or controlling the Chrome browser to perform searches.
+35、[open-interpreter](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/openinterpreter/open-interpreter)：Run Code on Your Computer with LLM. This project allows large language models to run code locally, supporting programming languages such as Python, JavaScript, and Shell. It acts as a natural language interpreter, converting spoken or written instructions into the corresponding code scripts and executing them. After installation, users can operate their computer through terminal chat, for example, creating and editing images, videos, and files, or controlling the Chrome browser to perform searches.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/666299222.gif' style="max-width:80%; max-height=80%;"></img></p>
 

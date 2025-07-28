@@ -219,7 +219,7 @@ await $`mkdir /tmp/${name}`
 ```
 
 ### Kotlin
-23、[ReadYou](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Ashinch/ReadYou)：An Android RSS Reader with a Material Design Style. A minimalist and refreshing RSS reader that supports RSS feed subscription, update notifications, and immersive reading experiences.
+23、[ReadYou](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ReadYouApp/ReadYou)：An Android RSS Reader with a Material Design Style. A minimalist and refreshing RSS reader that supports RSS feed subscription, update notifications, and immersive reading experiences.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/464981831.png' style="max-width:80%; max-height=80%;"></img></p>
 

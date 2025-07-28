@@ -226,7 +226,7 @@ await $`mkdir /tmp/${name}`
 ```
 
 ### Kotlin 项目
-23、[ReadYou](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Ashinch/ReadYou)：一款 Material 风格的 Android RSS 阅读器。界面简洁清爽的 RSS 阅读器，支持订阅 RSS 链接、更新通知、沉浸式阅读等功能
+23、[ReadYou](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ReadYouApp/ReadYou)：一款 Material 风格的 Android RSS 阅读器。界面简洁清爽的 RSS 阅读器，支持订阅 RSS 链接、更新通知、沉浸式阅读等功能
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/464981831.png' style="max-width:80%; max-height=80%;"></img></p>
 

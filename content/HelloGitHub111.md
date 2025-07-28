@@ -114,7 +114,7 @@ WebUI started, visit http://localhost:8080
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/111/274495425.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[typing-word](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zyronon/typing-word)：极简的打字背单词网站。这是一款基于网页的背单词软件，帮助用户通过键盘输入来记忆单词。它界面简洁、交互流畅，支持单词发音、错误统计和生词本等功能。
+16、[TypeWords](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zyronon/TypeWords)：极简的打字背单词网站。这是一款基于网页的背单词软件，帮助用户通过键盘输入来记忆单词。它界面简洁、交互流畅，支持单词发音、错误统计和生词本等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/111/674186516.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -228,7 +228,7 @@ outputs[0]["text"]
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub110.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub110.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub112.md">『下一期』</a>
 </p>
 
 ---

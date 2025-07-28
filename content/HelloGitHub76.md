@@ -340,11 +340,7 @@ tagger.predict(sentence)
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/137733266.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-42、[dive-into-webpack](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gwuhaolin/dive-into-webpack)：《深入浅出 Webpack》。一本系统讲解 Webpack 的书，内容涵盖了 Webpack 的入门、配置、实战、优化以及原理。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/110203554.png' style="max-width:80%; max-height=80%;"></img></p>
-
-43、[interviews.ai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/BoltzmannEntropy/interviews.ai)：《深度学习面试》。书中包含了数百个人工智能领域面试时会遇到的问题(PRB)和解答(SOL)，作者希望可以借此帮助研究生/求职者，通过机器学习方面的面试。
+42、[interviews.ai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/BoltzmannEntropy/interviews.ai)：《深度学习面试》。书中包含了数百个人工智能领域面试时会遇到的问题(PRB)和解答(SOL)，作者希望可以借此帮助研究生/求职者，通过机器学习方面的面试。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/412151953.png' style="max-width:80%; max-height=80%;"></img></p>
 
