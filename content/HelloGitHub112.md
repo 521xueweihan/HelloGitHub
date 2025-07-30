@@ -198,33 +198,29 @@ for future in as_completed(futures):
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/1012686024.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Rust 项目
-26、[PakePlus](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Sjj1024/PakePlus)：将网页秒变桌面应用的打包工具。这是一款基于 Rust 和 Tauri 构建的开源工具，能够将任意网页或前端项目（如 Vue、React 等）快速转换为轻量级的桌面应用和移动应用。它体积仅 5 MB，可通过 GitHub Actions 实现云端自动打包，无需复杂依赖，支持 macOS、Windows 和 Linux 平台。来自 [@1024小神](https://hellogithub.com/user/LXfeQOxRDEmSUGC) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/855186891.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-27、[rustfs](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rustfs/rustfs)：基于 Rust 的高性能分布式存储系统。该项是用 Rust 构建的高性能分布式对象存储系统，致力于成为 MinIO 的开源替代品。它安装简单、兼容 S3 协议，采用更友好的开源协议，并内置界面清爽的 Web 管理后台。同时，支持国产保密设备和系统，适用于海量数据存储、大数据、互联网、工业和保密存储等场景。来自 [@SR.李](https://hellogithub.com/user/vQ0IpLkHo3T9lO1) 的分享
+26、[rustfs](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rustfs/rustfs)：基于 Rust 的高性能分布式存储系统。该项是用 Rust 构建的高性能分布式对象存储系统，致力于成为 MinIO 的开源替代品。它安装简单、兼容 S3 协议，采用更友好的开源协议，并内置界面清爽的 Web 管理后台。同时，支持国产保密设备和系统，适用于海量数据存储、大数据、互联网、工业和保密存储等场景。来自 [@SR.李](https://hellogithub.com/user/vQ0IpLkHo3T9lO1) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/722597620.png' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[tabiew](https://hellogithub.com/periodical/statistics/click?target=https://github.com/shshemi/tabiew)：命令行数据文件可视化浏览工具。这是一款用于浏览和查询表格数据文件（如 CSV、Parquet、Arrow、Excel 等）的命令行工具。它提供交互式界面体验、支持 SQL 查询、多表操作、模糊搜索和 Vim 风格快捷键等功能。来自 [@HBSpy](https://hellogithub.com/user/rIXCy0ZT2L49Ysj) 的分享
+27、[tabiew](https://hellogithub.com/periodical/statistics/click?target=https://github.com/shshemi/tabiew)：命令行数据文件可视化浏览工具。这是一款用于浏览和查询表格数据文件（如 CSV、Parquet、Arrow、Excel 等）的命令行工具。它提供交互式界面体验、支持 SQL 查询、多表操作、模糊搜索和 Vim 风格快捷键等功能。来自 [@HBSpy](https://hellogithub.com/user/rIXCy0ZT2L49Ysj) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/792805133.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift 项目
-29、[KeyboardCowboy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zenangst/KeyboardCowboy)：重塑你的 macOS 快捷键。这是一款能够重塑 macOS 快捷键体验的键盘工作流工具，可为任意应用创建强大且具备上下文感知能力的快捷键，无需手动触发。它不仅能模拟点击没有原生快捷键的按钮、选择菜单项，还能将多步操作串联为一键执行的高效流程，提升工作流效率。
+28、[KeyboardCowboy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zenangst/KeyboardCowboy)：重塑你的 macOS 快捷键。这是一款能够重塑 macOS 快捷键体验的键盘工作流工具，可为任意应用创建强大且具备上下文感知能力的快捷键，无需手动触发。它不仅能模拟点击没有原生快捷键的按钮、选择菜单项，还能将多步操作串联为一键执行的高效流程，提升工作流效率。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/292346804.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[TrackWeight](https://hellogithub.com/periodical/statistics/click?target=https://github.com/KrishKrosh/TrackWeight)：MacBook 触控板秒变电子秤。这是一款有趣的 macOS 应用，可以将 MacBook 的触控板变身为数字电子秤。它利用触控板内置的 Force Touch 压力传感器，只需将物体放在触控板上，应用即可实时显示其重量。
+29、[TrackWeight](https://hellogithub.com/periodical/statistics/click?target=https://github.com/KrishKrosh/TrackWeight)：MacBook 触控板秒变电子秤。这是一款有趣的 macOS 应用，可以将 MacBook 的触控板变身为数字电子秤。它利用触控板内置的 Force Touch 压力传感器，只需将物体放在触控板上，应用即可实时显示其重量。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/1023406764.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 人工智能
-31、[gitingest](https://hellogithub.com/periodical/statistics/click?target=https://github.com/coderamp-labs/gitingest)：一键将代码库转换为 AI 友好格式的工具。该项目可将任意 GitHub 仓库快速转换为适合大语言模型处理的纯文本摘要。使用起来十分方便，只需将 GitHub 项目地址中的 hub 替换为 ingest 即可得到文本摘要。
+30、[gitingest](https://hellogithub.com/periodical/statistics/click?target=https://github.com/coderamp-labs/gitingest)：一键将代码库转换为 AI 友好格式的工具。该项目可将任意 GitHub 仓库快速转换为适合大语言模型处理的纯文本摘要。使用起来十分方便，只需将 GitHub 项目地址中的 hub 替换为 ingest 即可得到文本摘要。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/895942941.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[ManimML](https://hellogithub.com/periodical/statistics/click?target=https://github.com/helblazer811/ManimML)：用 Python 动态演示神经网络。这是一个基于 Manim 的 Python 库，用于制作机器学习相关概念的动画和可视化效果。只需编写简单的 Python 代码，即可轻松生成神经网络结构、卷积操作、Dropout 过程等动画效果，帮助理解和展示复杂的机器学习原理。
+31、[ManimML](https://hellogithub.com/periodical/statistics/click?target=https://github.com/helblazer811/ManimML)：用 Python 动态演示神经网络。这是一个基于 Manim 的 Python 库，用于制作机器学习相关概念的动画和可视化效果。只需编写简单的 Python 代码，即可轻松生成神经网络结构、卷积操作、Dropout 过程等动画效果，帮助理解和展示复杂的机器学习原理。
 ```python
 from manim_ml.neural_network import NeuralNetwork, FeedForwardLayer
 
@@ -238,45 +234,45 @@ self.add(nn)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/454906591.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[unsloth](https://hellogithub.com/periodical/statistics/click?target=https://github.com/unslothai/unsloth)：新手友好的 LLM 微调工具库。该项目是用于微调和优化大型语言模型（LLM）的 Python 工具库。它通过动态量化和显存优化技术，提高了模型微调速度，同时将显存占用降低 70%-80%，并支持多种硬件配置、LLM、超长上下文任务等功能。除此之外，还提供了可直接在线体验的 Jupyter Notebook 示例，降低了大模型微调的门槛。
+32、[unsloth](https://hellogithub.com/periodical/statistics/click?target=https://github.com/unslothai/unsloth)：新手友好的 LLM 微调工具库。该项目是用于微调和优化大型语言模型（LLM）的 Python 工具库。它通过动态量化和显存优化技术，提高了模型微调速度，同时将显存占用降低 70%-80%，并支持多种硬件配置、LLM、超长上下文任务等功能。除此之外，还提供了可直接在线体验的 Jupyter Notebook 示例，降低了大模型微调的门槛。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/725205304.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[uzu](https://hellogithub.com/periodical/statistics/click?target=https://github.com/trymirai/uzu)：MacBook 专属的高性能 AI 推理引擎。这是一个专为 Apple M 系列芯片打造的高性能、轻量级 AI 模型推理引擎。它充分利用 Apple 硬件的特性提升推理速度，并提供简单易用的 API，助你一键部署高效本地大模型服务。来自 [@DeShuiYu](https://hellogithub.com/user/ZWJkOqsvYbPgD8p) 的分享
+33、[uzu](https://hellogithub.com/periodical/statistics/click?target=https://github.com/trymirai/uzu)：MacBook 专属的高性能 AI 推理引擎。这是一个专为 Apple M 系列芯片打造的高性能、轻量级 AI 模型推理引擎。它充分利用 Apple 硬件的特性提升推理速度，并提供简单易用的 API，助你一键部署高效本地大模型服务。来自 [@DeShuiYu](https://hellogithub.com/user/ZWJkOqsvYbPgD8p) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/1007360921.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[VideoCaptioner](https://hellogithub.com/periodical/statistics/click?target=https://github.com/WEIFENG2333/VideoCaptioner)：开箱即用的智能字幕助手。这是一款基于大语言模型的智能视频字幕处理工具。它界面简洁、操作便捷，支持语音识别、智能校对和自动生成多语言字幕等功能。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
+34、[VideoCaptioner](https://hellogithub.com/periodical/statistics/click?target=https://github.com/WEIFENG2333/VideoCaptioner)：开箱即用的智能字幕助手。这是一款基于大语言模型的智能视频字幕处理工具。它界面简洁、操作便捷，支持语音识别、智能校对和自动生成多语言字幕等功能。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/881171866.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
-36、[12-factor-agents](https://hellogithub.com/periodical/statistics/click?target=https://github.com/humanlayer/12-factor-agents)：构建生产级 LLM 应用的设计指南。这是一份为打造生产级大模型应用而编写的设计指南。作者在与多位 AI 领域优秀创始人交流后，提炼出 12 条系统化、切实可行的设计原则。
+35、[12-factor-agents](https://hellogithub.com/periodical/statistics/click?target=https://github.com/humanlayer/12-factor-agents)：构建生产级 LLM 应用的设计指南。这是一份为打造生产级大模型应用而编写的设计指南。作者在与多位 AI 领域优秀创始人交流后，提炼出 12 条系统化、切实可行的设计原则。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/957658915.png' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[60s](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vikiboss/60s)：每日 60 秒资讯 API 集合。该项目集合了包括每日新闻、实时票房、汇率、热搜榜、随机段子等多种数据的 API 服务。
+36、[60s](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vikiboss/60s)：每日 60 秒资讯 API 集合。该项目集合了包括每日新闻、实时票房、汇率、热搜榜、随机段子等多种数据的 API 服务。
 
-38、[bitwise-challenge-2048](https://hellogithub.com/periodical/statistics/click?target=https://github.com/izabera/bitwise-challenge-2048)：基于位运算的 2048 游戏。这是一个通过位运算实现了经典的 2048 游戏，仅一个文件（.bash）、零依赖、不到 200 行代码。与常见的二维数组模拟棋盘方式不同，该项目巧妙地利用位运算管理游戏状态和逻辑，将整个 4x4 棋盘压缩存储在一个 64 位整数中，所有移动、合并和生成均通过位操作实现。
+37、[bitwise-challenge-2048](https://hellogithub.com/periodical/statistics/click?target=https://github.com/izabera/bitwise-challenge-2048)：基于位运算的 2048 游戏。这是一个通过位运算实现了经典的 2048 游戏，仅一个文件（.bash）、零依赖、不到 200 行代码。与常见的二维数组模拟棋盘方式不同，该项目巧妙地利用位运算管理游戏状态和逻辑，将整个 4x4 棋盘压缩存储在一个 64 位整数中，所有移动、合并和生成均通过位操作实现。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/1004964759.png' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[CSS-Minecraft](https://hellogithub.com/periodical/statistics/click?target=https://github.com/BenjaminAster/CSS-Minecraft)：这个“世界”只有 HTML 和 CSS。该项仅用 CSS 和 HTML 实现了类似《我的世界》（Minecraft）的界面交互，没用一行 JavaScript 代码，支持方块的放置、移除、切换视角等基础操作。
+38、[CSS-Minecraft](https://hellogithub.com/periodical/statistics/click?target=https://github.com/BenjaminAster/CSS-Minecraft)：这个“世界”只有 HTML 和 CSS。该项仅用 CSS 和 HTML 实现了类似《我的世界》（Minecraft）的界面交互，没用一行 JavaScript 代码，支持方块的放置、移除、切换视角等基础操作。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/562157524.png' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[pomodoro](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Rukenshia/pomodoro)：自制电子墨水屏番茄时钟。这是一个基于 ESP32 的实体番茄钟计时器，配备 4.26 英寸黑白 ePaper 屏幕和旋钮式操作。通过旋转旋钮可快速设定工作和休息时长，按下旋钮即可立即开始计时。
+39、[pomodoro](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Rukenshia/pomodoro)：自制电子墨水屏番茄时钟。这是一个基于 ESP32 的实体番茄钟计时器，配备 4.26 英寸黑白 ePaper 屏幕和旋钮式操作。通过旋转旋钮可快速设定工作和休息时长，按下旋钮即可立即开始计时。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/956984646.png' style="max-width:80%; max-height=80%;"></img></p>
 
-41、[scriptcat](https://hellogithub.com/periodical/statistics/click?target=https://github.com/scriptscat/scriptcat)：可执行用户脚本的浏览器插件。这是一款开源的浏览器插件，支持用户安装和运行第三方的 JavaScript 代码片段，可用于屏蔽广告、增强网站功能、自动化网页操作等场景。
+40、[scriptcat](https://hellogithub.com/periodical/statistics/click?target=https://github.com/scriptscat/scriptcat)：可执行用户脚本的浏览器插件。这是一款开源的浏览器插件，支持用户安装和运行第三方的 JavaScript 代码片段，可用于屏蔽广告、增强网站功能、自动化网页操作等场景。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/327265659.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 开源书籍
-42、[book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/crypto101/book)：《Crypto 101》密码学入门。这是一本面向程序员的密码学入门书籍，从 XOR 和一次性密码本开始，循序渐进地讲解对称加密、公钥加密、哈希、MAC、签名、密钥交换、随机数等密码学“积木”，并把它们组装成 TLS、OpenPGP、OTR 等真实系统。
+41、[book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/crypto101/book)：《Crypto 101》密码学入门。这是一本面向程序员的密码学入门书籍，从 XOR 和一次性密码本开始，循序渐进地讲解对称加密、公钥加密、哈希、MAC、签名、密钥交换、随机数等密码学“积木”，并把它们组装成 TLS、OpenPGP、OTR 等真实系统。
 
-43、[ThinkStats](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AllenDowney/ThinkStats)：《Think Stats》统计思维。这是一本写给程序员的统计学电子书，所有代码示例和练习均以 Python 实现。全书围绕真实数据集展开，通过探索性数据分析、概率分布、假设检验、相关性与回归分析等统计方法，用统计思维解决实际问题。
+42、[ThinkStats](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AllenDowney/ThinkStats)：《Think Stats》统计思维。这是一本写给程序员的统计学电子书，所有代码示例和练习均以 Python 实现。全书围绕真实数据集展开，通过探索性数据分析、概率分布、假设检验、相关性与回归分析等统计方法，用统计思维解决实际问题。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/815214314.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
