@@ -224,7 +224,7 @@ Audio(audio_array, rate=SAMPLE_RATE)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/589179397.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-41、[my-re0-k8s-security](https://hellogithub.com/periodical/statistics/click?target=https://github.com/neargle/my-re0-k8s-security)：从零开始的 Kubernetes 攻防。该项目包含了作者在多处攻防场景，所遇到的云原生相关的漏洞挖掘和漏洞利用实例。
+41、[re0-kubernetes-sec-archive](https://hellogithub.com/periodical/statistics/click?target=https://github.com/neargle/re0-kubernetes-sec-archive)：从零开始的 Kubernetes 攻防。该项目包含了作者在多处攻防场景，所遇到的云原生相关的漏洞挖掘和漏洞利用实例。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/341772600.png' style="max-width:80%; max-height=80%;"></img></p>
 

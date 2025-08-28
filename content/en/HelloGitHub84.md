@@ -220,7 +220,7 @@ john = table.find_one(name='John Doe')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/274594200.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[ChatGLM-6B](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/THUDM/ChatGLM-6B)：Tsinghua KEG Open-Source Bilingual Conversational Language Model. This is a Chinese-English bilingual conversational language model based on the GLM architecture with 6.2 billion parameters, which supports inference on a single 2080Ti GPU.
+34、[ChatGLM-6B](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/zai-org/ChatGLM-6B)：Tsinghua KEG Open-Source Bilingual Conversational Language Model. This is a Chinese-English bilingual conversational language model based on the GLM architecture with 6.2 billion parameters, which supports inference on a single 2080Ti GPU.
 ```python
 >>> from transformers import AutoTokenizer, AutoModel
 >>> tokenizer = AutoTokenizer.from_pretrained("THUDM/chatglm-6b", trust_remote_code=True)
@@ -258,14 +258,10 @@ john = table.find_one(name='John Doe')
 
 41、[GameDevMind](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/gonglei007/GameDevMind)：Comprehensive Game Development Technology Map. This project presents the skills required for game development through a mind map, including technology stacks, methods, tools, processes, management, and operations.Shared by [@gonglei007](https://hellogithub.com/en/user/dl593RYb28vQBki)
 
-42、[immersive-translate](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/immersive-translate/immersive-translate)：Immersive Bilingual Web Page Translation Extension. This is a free, non-open-source translation plugin that can display translated text while preserving the original text. It supports more than 10 translation services and is compatible with Chromium, Firefox, Safari, and other browsers. This project was later acquired and is no longer open-source.Shared by [@浮生若夢](https://hellogithub.com/en/user/hKmH64UjOdwgCEi)
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/575401013.gif' style="max-width:80%; max-height=80%;"></img></p>
-
 ### Book
-43、[PPHC](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/johnlui/PPHC)：The Philosophical Principles of High-Concurrent Computing. This book discusses the high-concurrency issues in web services, covering technologies and solutions such as Apache, Nginx, epoll, switches, k8s, databases, distributed systems, and microservice architecture to tackle high-concurrency problems, with content that progresses from simple to complex.Shared by [@吕文翰](https://hellogithub.com/en/user/QkntmXFwR5yS7pr)
+42、[PPHC](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/johnlui/PPHC)：The Philosophical Principles of High-Concurrent Computing. This book discusses the high-concurrency issues in web services, covering technologies and solutions such as Apache, Nginx, epoll, switches, k8s, databases, distributed systems, and microservice architecture to tackle high-concurrency problems, with content that progresses from simple to complex.Shared by [@吕文翰](https://hellogithub.com/en/user/QkntmXFwR5yS7pr)
 
-44、[py_regular_expressions](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/learnbyexample/py_regular_expressions)：Mastering Python Regular Expressions: From Beginner to Expert. This book includes hundreds of examples and exercises, covering the use of Python regular expressions from basic to advanced levels.
+43、[py_regular_expressions](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/learnbyexample/py_regular_expressions)：Mastering Python Regular Expressions: From Beginner to Expert. This book includes hundreds of examples and exercises, covering the use of Python regular expressions from basic to advanced levels.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/165224631.png' style="max-width:80%; max-height=80%;"></img></p>
 

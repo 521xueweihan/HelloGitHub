@@ -277,7 +277,7 @@ render(<Player sources={sources} />)
 35、[ChromeAppHeroes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zhaoolee/ChromeAppHeroes)：优秀、实用的 Chrome 插件集合。该项目还包含插件的中文的使用介绍，为的是让好的插件被更多人发现和使用
 
 
-36、[FiraCode](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tonsky/FiraCode)：高逼格的具有编程连字的等宽字体，最适合在编程编辑器、IDE、终端中使用。十分酷的字体，可以增加写代码的欲望
+36、[FiraCode](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tonsky/FiraCode)：提升代码颜值的免费开源字体。这是一款专为程序员打造的开源等宽字体，其核心魅力在于独特的“编程连字”功能。它能智能地将代码中常见的多个符号（如 != 或 =>）自动合并成一个单独、易读的符号，让你的代码在视觉上更加整洁和优雅。
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/26500787.png' style="max-width:80%; max-height=80%;"></img></p>

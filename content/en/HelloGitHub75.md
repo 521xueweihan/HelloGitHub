@@ -93,7 +93,7 @@ dynamic.h：动态类型的对象，可用来处理 json-> map
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/495645548.png' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[server](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/screego/server)：多用户的屏幕分享服务。它可以快速启动一个在线共享屏幕的服务，让用户无需安装任何软件，仅使用浏览器就能分享自己的屏幕画面。项目基于网页实时通信(WebRTC) 实现，由 STUN/TURN 协议完成内网穿透和浏览器端对端的连接，既实用又有源码可以学习。
+12、[server](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/screego/server)：Multi-user Screen Sharing Service. This project can quickly start an online screen sharing service. Users can share their screen without installing any software, only using a browser. It is implemented based on WebRTC, and uses STUN/TURN protocol to complete internal network penetration and end-to-end connections on the browser side. It is practical and has source code for learning.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/280232135.png' style="max-width:80%; max-height=80%;"></img></p>
 

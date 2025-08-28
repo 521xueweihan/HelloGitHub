@@ -88,7 +88,7 @@ WebUI started, visit http://localhost:8080
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/111/791194177.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java
-11、[BookLore](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/adityachandelgit/BookLore)：Personal Digital Library for Java Development.This is an open-source, self-hosted e-book management web application that supports PDF and ePub e-book formats. It is developed with Java (Spring Boot) + Angular and supports functions such as automatic acquisition of book information, sharing of books, synchronization of reading progress, and multi-user management.
+11、[booklore](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/booklore-app/booklore)：Personal Digital Library for Java Development.This is an open-source, self-hosted e-book management web application that supports PDF and ePub e-book formats. It is developed with Java (Spring Boot) + Angular and supports functions such as automatic acquisition of book information, sharing of books, synchronization of reading progress, and multi-user management.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/111/903039267.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -140,7 +140,7 @@ WebUI started, visit http://localhost:8080
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/111/746935181.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-24、[isd](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/isd-project/isd)：Terminal Interactive systemd Management Tool.This is a systemd management tool with a terminal user interface (TUI) that supports fuzzy searching, automatic preview, smart sudo, shortcut keys, etc., simplifying the management experience of systemd units such as services and timers.
+24、[isd](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/kainctl/isd)：Terminal Interactive systemd Management Tool.This is a systemd management tool with a terminal user interface (TUI) that supports fuzzy searching, automatic preview, smart sudo, shortcut keys, etc., simplifying the management experience of systemd units such as services and timers.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/111/917864037.png' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -203,8 +203,7 @@ _attrLabel = [NudeIn make:^(NUDTextMaker *make) {
 29、[nginxconfig.io](https://hellogithub.com/periodical/statistics/click?target=https://github.com/digitalocean/nginxconfig.io)：在线生成 Nginx 配置文件网站，[在线尝试](https://nginxconfig.io/)
 
 
-30、[the-art-of-command-line](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jlevy/the-art-of-command-line)：该项目是作者在 Linux 系统上工作时，发现的一些命令行使用技巧的总结。有些技巧非常基础，而另一些则相当复杂，甚至难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了，它们会提高你在编程时的灵活性以及效率。[中文](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
-
+30、[the-art-of-command-line](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jlevy/the-art-of-command-line)：一页式命令行速查宝典。该项目是作者在 Linux 系统上工作时，发现的一些命令行使用技巧的总结。有些技巧非常基础，而另一些则相当复杂，甚至难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了，它们会提高你在编程时的灵活性以及效率。
 
 31、[weekly](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ruanyf/weekly)：[阮一峰](https://github.com/ruanyf)技术分享周刊，每周五发布
 

@@ -95,7 +95,7 @@ WebUI started, visit http://localhost:8080
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/111/791194177.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java 项目
-11、[BookLore](https://hellogithub.com/periodical/statistics/click?target=https://github.com/adityachandelgit/BookLore)：Java 开发的个人数字图书馆。这是一款开源、自托管的电子书管理 Web 应用，支持 PDF 和 ePub 电子书格式。它采用 Java（Spring Boot）+ Angular 开发，支持自动获取书籍信息、分享书籍、阅读进度同步、多用户管理等功能。
+11、[booklore](https://hellogithub.com/periodical/statistics/click?target=https://github.com/booklore-app/booklore)：Java 开发的个人数字图书馆。这是一款开源、自托管的电子书管理 Web 应用，支持 PDF 和 ePub 电子书格式。它采用 Java（Spring Boot）+ Angular 开发，支持自动获取书籍信息、分享书籍、阅读进度同步、多用户管理等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/111/903039267.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -147,7 +147,7 @@ WebUI started, visit http://localhost:8080
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/111/746935181.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-24、[isd](https://hellogithub.com/periodical/statistics/click?target=https://github.com/isd-project/isd)：终端交互式 systemd 管理工具。这是一个带终端用户界面（TUI）的 systemd 管理工具，支持模糊搜索、自动预览、智能 sudo、快捷键等功能，简化了对 systemd 单元（如服务、定时任务等）的管理体验。
+24、[isd](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kainctl/isd)：终端交互式 systemd 管理工具。这是一个带终端用户界面（TUI）的 systemd 管理工具，支持模糊搜索、自动预览、智能 sudo、快捷键等功能，简化了对 systemd 单元（如服务、定时任务等）的管理体验。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/111/917864037.png' style="max-width:80%; max-height=80%;"></img></p>
 

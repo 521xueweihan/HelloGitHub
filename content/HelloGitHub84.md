@@ -220,7 +220,7 @@ john = table.find_one(name='John Doe')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/274594200.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[ChatGLM-6B](https://hellogithub.com/periodical/statistics/click?target=https://github.com/THUDM/ChatGLM-6B)：清华 KEG 开源的双语对话语言模型。这是一个基于 GLM 架构、具有 62 亿参数的中英双语对话语言模型，支持在单张 2080Ti 上进行推理使用。
+34、[ChatGLM-6B](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zai-org/ChatGLM-6B)：清华 KEG 开源的双语对话语言模型。这是一个基于 GLM 架构、具有 62 亿参数的中英双语对话语言模型，支持在单张 2080Ti 上进行推理使用。
 ```python
 >>> from transformers import AutoTokenizer, AutoModel
 >>> tokenizer = AutoTokenizer.from_pretrained("THUDM/chatglm-6b", trust_remote_code=True)
@@ -258,14 +258,10 @@ john = table.find_one(name='John Doe')
 
 41、[GameDevMind](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gonglei007/GameDevMind)：全面的游戏开发技术图谱。该项目用思维导图的方式，展示了游戏开发需要具备的能力，包含技术栈、方法、工具、流程、管理、运营等方面。来自 [@gonglei007](https://hellogithub.com/user/dl593RYb28vQBki) 的分享
 
-42、[immersive-translate](https://hellogithub.com/periodical/statistics/click?target=https://github.com/immersive-translate/immersive-translate)：沉浸式双语网页翻译扩展。这是一个免费的翻译插件，可以在保留原文的情况下显示译文，支持接入 10 多种翻译服务，适用于 Chromium、Firefox、Safari 等浏览器。项目处于闭源开发的状态，想要贡献代码的同学需要先申请。来自 [@浮生若夢](https://hellogithub.com/user/hKmH64UjOdwgCEi) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/575401013.gif' style="max-width:80%; max-height=80%;"></img></p>
-
 ### 开源书籍
-43、[PPHC](https://hellogithub.com/periodical/statistics/click?target=https://github.com/johnlui/PPHC)：《高并发的哲学原理》。这本书讨论的是 Web 服务高并发问题，内容由浅入深地介绍了 Apache、Nginx、epoll、交换机、k8s、数据库、分布式、微服务架构等解决高并发问题的技术和方案。来自 [@吕文翰](https://hellogithub.com/user/QkntmXFwR5yS7pr) 的分享
+42、[PPHC](https://hellogithub.com/periodical/statistics/click?target=https://github.com/johnlui/PPHC)：《高并发的哲学原理》。这本书讨论的是 Web 服务高并发问题，内容由浅入深地介绍了 Apache、Nginx、epoll、交换机、k8s、数据库、分布式、微服务架构等解决高并发问题的技术和方案。来自 [@吕文翰](https://hellogithub.com/user/QkntmXFwR5yS7pr) 的分享
 
-44、[py_regular_expressions](https://hellogithub.com/periodical/statistics/click?target=https://github.com/learnbyexample/py_regular_expressions)：《Python 正则表达式从入门到精通》。这本书包含数百个示例和练习，涵盖了 Python 正则表达式从初级到高级的用法。
+43、[py_regular_expressions](https://hellogithub.com/periodical/statistics/click?target=https://github.com/learnbyexample/py_regular_expressions)：《Python 正则表达式从入门到精通》。这本书包含数百个示例和练习，涵盖了 Python 正则表达式从初级到高级的用法。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/165224631.png' style="max-width:80%; max-height=80%;"></img></p>
 

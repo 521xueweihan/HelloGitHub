@@ -193,7 +193,7 @@ for future in as_completed(futures):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/955363828.png' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[ZSim](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ZZZSimulator/ZSim)：《绝区零》战斗模拟器。这是一个专为游戏《绝区零》设计的伤害模拟和战斗仿真工具，支持全自动仿真、可视化报告、自定义 APL 等功能。玩家可自由选择游戏中的角色与装备，并配置属性参数，然后通过模拟器计算出在特定队伍组合下的预期伤害。
+25、[ZSim](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ZSim-Dev/ZSim)：《绝区零》战斗模拟器。这是一个专为游戏《绝区零》设计的伤害模拟和战斗仿真工具，支持全自动仿真、可视化报告、自定义 APL 等功能。玩家可自由选择游戏中的角色与装备，并配置属性参数，然后通过模拟器计算出在特定队伍组合下的预期伤害。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/1012686024.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -279,7 +279,7 @@ self.add(nn)
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub111.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub111.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub113.md">『下一期』</a>
 </p>
 
 ---

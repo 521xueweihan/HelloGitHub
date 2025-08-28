@@ -186,7 +186,7 @@ for future in as_completed(futures):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/955363828.png' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[ZSim](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ZZZSimulator/ZSim)：Zero District Zero Battle Simulator.This is a damage simulation and combat simulation tool specifically designed for the game 'Zero District Zero'. It supports full-auto simulation, visual reports, custom API and other functions. Players can freely choose characters and equipment in the game and configure attribute parameters, and then calculate the expected damage under specific team combinations through the simulator.
+25、[ZSim](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ZSim-Dev/ZSim)：Zero District Zero Battle Simulator.This is a damage simulation and combat simulation tool specifically designed for the game 'Zero District Zero'. It supports full-auto simulation, visual reports, custom API and other functions. Players can freely choose characters and equipment in the game and configure attribute parameters, and then calculate the expected damage under specific team combinations through the simulator.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/1012686024.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -272,7 +272,7 @@ self.add(nn)
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub111.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | 『Next』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub111.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub113.md">『Next』</a>
 </p>
 
 ---
