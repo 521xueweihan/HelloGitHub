@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### CSS 项目
 1、[mdui](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zdhxiong/mdui)：MDUI 是一套用于开发 Material Design 网页的响应式前端框架。没有任何依赖，支持主题切换，轻量级，低学习成本，[文档](https://www.mdui.org/docs)

@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[libaco](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hnes/libaco)：一个极速、轻量级、C语言非对称协程库。[中文文档](https://github.com/hnes/libaco/blob/master/README_zh.md)，项目介绍：

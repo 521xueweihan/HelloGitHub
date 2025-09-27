@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[wrk](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wg/wrk)：现代 HTTP 基准测试（实现对一类测试对象的某项性能指标进行定量的和可对比的测试）工具，使用示例：

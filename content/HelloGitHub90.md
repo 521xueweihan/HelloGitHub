@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[BlackHole](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ExistentialAudio/BlackHole)：适用于 macOS 的虚拟音频驱动。在 macOS 上录制过视频的同学，应该都遇到过收录电脑声音的问题，采用公放的方式对环境要求极高。该项目是一款 macOS 上的虚拟音频驱动，它可以零延迟地将输出的音频传递给其他应用，从而不受周围环境的影响，轻松录制电脑的声音，支持 Intel 和 Apple 芯片。
@@ -32,7 +32,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/103370157.png' style="max-width:80%; max-height=80%;"></img></p>
 
-4、[Translumo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Danily07/Translumo)：免费开源的屏幕实时翻译工具。该项目可以对屏幕上选定区域内显示的文本进行实时翻译，可识别英语、俄语、中文等语言。用户可自行选择 Tesseract、WindowsOCR、EasyOCR 多种 OCR 引擎，以及包括谷歌翻译在内的多种翻译源。
+4、[Translumo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ramjke/Translumo)：免费开源的屏幕实时翻译工具。该项目可以对屏幕上选定区域内显示的文本进行实时翻译，可识别英语、俄语、中文等语言。用户可自行选择 Tesseract、WindowsOCR、EasyOCR 多种 OCR 引擎，以及包括谷歌翻译在内的多种翻译源。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/654569590.gif' style="max-width:80%; max-height=80%;"></img></p>
 

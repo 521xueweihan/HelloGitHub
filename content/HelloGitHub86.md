@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[linux-wifi-hotspot](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lakinduakash/linux-wifi-hotspot)：功能丰富的 Linux WiFi 热点工具。这是一款拥有图形化操作界面的 Wi-Fi 创建器，它使用方便、功能丰富，支持命令行、创建热点、二维码分享网络、查看已连接设备等功能。

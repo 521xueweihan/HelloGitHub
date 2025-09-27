@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[bare-metal-programming-guide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cpq/bare-metal-programming-guide)：裸机编程指南。这是一份教你如何在不依赖 IDE 的情况下，进行单片机开发的教程。内容先是介绍了寄存器、向量表、启动代码、链接脚本等知识点，最后实现了一个带设备仪表盘的 Web 服务器。

@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[libevent](https://hellogithub.com/periodical/statistics/click?target=https://github.com/libevent/libevent)：C 语言实现的轻量级、高性能事件通知库。基于事件驱动，支持多种 I/O 多路复用技术：epoll、poll、select、kqueue 等。libevent 就是这些系统基础库的统一封装，提供更高级的 API 并解决跨平台的问题

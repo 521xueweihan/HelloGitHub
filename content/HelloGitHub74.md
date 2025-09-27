@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[entr](https://hellogithub.com/periodical/statistics/click?target=https://github.com/eradman/entr)：在文件有改动时自动触发任意命令的工具。采用 kqueue 或 inotify 事件通知接口监听文件改动事件，避免轮询造成的资源浪费，可用于实现自动编译、重启、测试、同步等功能

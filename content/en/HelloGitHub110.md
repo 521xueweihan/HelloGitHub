@@ -36,7 +36,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/20889734.png' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[jarkViewer](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/jark006/jarkViewer)：Convenient Windows Picture Viewing Tool.This is a simple and efficient Windows picture viewing software suitable for various scenarios such as daily picture browsing and professional photography work preview. It is easy to operate and supports multiple shortcuts. For example, pressing the I key can quickly view detailed information of pictures. It also supports reading prompts (if any) of AI-generated images and automatically remembering the position and size of the previous window and other practical functions.Shared by [@JARK006](https://hellogithub.com/en/user/9x4FWGZ1KvkIRNr)
+6、[JarkViewer](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/jark006/JarkViewer)：Convenient Windows Picture Viewing Tool.This is a simple and efficient Windows picture viewing software suitable for various scenarios such as daily picture browsing and professional photography work preview. It is easy to operate and supports multiple shortcuts. For example, pressing the I key can quickly view detailed information of pictures. It also supports reading prompts (if any) of AI-generated images and automatically remembering the position and size of the previous window and other practical functions.Shared by [@JARK006](https://hellogithub.com/en/user/9x4FWGZ1KvkIRNr)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/709258942.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -124,7 +124,7 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/840979384.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-19、[youtube-music](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/th-ch/youtube-music)：Pure Ad-free YouTube Music Desktop Application.This is an Electron-based YouTube Music desktop client that is ready to use without logging in. It retains the native interface of YouTube Music and supports plugin extensions. It has built-in ad blocking, downloader, theme switching, audio processing and other functions and is suitable for Windows, macOS and Linux platforms.Shared by [@vladelaina](https://hellogithub.com/en/user/JBczix10rXqNblQ)
+19、[ytmd](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ytmd-devs/ytmd)：Pure Ad-free YouTube Music Desktop Application.This is an Electron-based YouTube Music desktop client that is ready to use without logging in. It retains the native interface of YouTube Music and supports plugin extensions. It has built-in ad blocking, downloader, theme switching, audio processing and other functions and is suitable for Windows, macOS and Linux platforms.Shared by [@vladelaina](https://hellogithub.com/en/user/JBczix10rXqNblQ)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/182306991.png' style="max-width:80%; max-height=80%;"></img></p>
 

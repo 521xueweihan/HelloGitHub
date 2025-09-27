@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[linked-list-good-taste](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mkirchner/linked-list-good-taste)：Linus Torvalds 解释编码品味的链表论证。在 2016 年的 TED 访谈中，Linus Torvalds 谈到了他认为好的编码品味，并举了一个例子：在单向链表中移除项目的两种实现。为了从链表中删除第一项，其中一个实现需要处理特殊情况，而另一个则不需要，Linus 更喜欢后者。

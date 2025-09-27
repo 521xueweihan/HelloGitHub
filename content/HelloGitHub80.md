@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[cockpit](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cockpit-project/cockpit)：基于 Web 的服务器图形界面。这是一款开源的服务器管理工具，让你可以通过 Web 界面轻松管理 Linux 服务器，支持配置防火墙、Web 终端、容器管理、查看系统日志等功能。

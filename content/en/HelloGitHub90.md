@@ -25,7 +25,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/103370157.png' style="max-width:80%; max-height=80%;"></img></p>
 
-4、[Translumo](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Danily07/Translumo)：Free and Open-Source Real-time Screen Translation Tool. This project is capable of translating text displayed within a selected area on the screen in real-time, recognizing languages such as English, Russian, and Chinese. Users can choose from various OCR engines such as Tesseract, WindowsOCR, and EasyOCR, as well as translation sources including Google Translate.
+4、[Translumo](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ramjke/Translumo)：Free and Open-Source Real-time Screen Translation Tool. This project is capable of translating text displayed within a selected area on the screen in real-time, recognizing languages such as English, Russian, and Chinese. Users can choose from various OCR engines such as Tesseract, WindowsOCR, and EasyOCR, as well as translation sources including Google Translate.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/654569590.gif' style="max-width:80%; max-height=80%;"></img></p>
 

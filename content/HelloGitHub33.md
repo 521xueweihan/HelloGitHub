@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[json-tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/miloyip/json-tutorial)：由[Milo Yip](https://github.com/miloyip/json-tutorial#%E5%85%B3%E4%BA%8E%E4%BD%9C%E8%80%85)发起的用 C 从零开始编写 JSON 库教程。大纲：

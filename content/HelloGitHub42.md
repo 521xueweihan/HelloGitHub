@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[linq4c](https://hellogithub.com/periodical/statistics/click?target=https://github.com/haifenghuang/linq4c)：如果你想在 C 中使用隔壁 C# 的 linq 方法，那么不妨来使用这个项目！这是它的 C 语言版。实现了 linq 的大部分方法（60+）。现在它还在不断完善中，欢迎更多的小伙伴加入共同维护
@@ -214,7 +214,7 @@ return ["nán", "jīng", "shì", "cháng", "jiāng", "dà", "qiáo"]
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/211137351.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[cherry](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Windsooon/cherry)：简单易用的文本分类器。适用多种语言，自带两个预训练模型，使用预训练模型进行分类只需一行代码。使用自己的数据集进行定制训练也只需要十行代码。轻松达到高精确率，召回率。同时该库支持自定义分词算法、分类算法等。示例代码：
+23、[cherry](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Windsooon/cherry)：简单易用的文本分类器。这是一个 Python 写的文本分类器，适用多种语言，自带两个预训练模型，使用预训练模型进行分类只需一行代码。使用自己的数据集进行定制训练也只需要十行代码。轻松达到高精确率，召回率。同时该库支持自定义分词算法、分类算法等。
 ```bash
 >>> res = cherry.classify(model='harmful', text=['她们对计算机很有热情，也希望学习到数据分析，网络爬虫，人工智能等方面的知识，从而运用在她们工作上'])
 >>> res.word_list
@@ -223,7 +223,6 @@ return ["nán", "jīng", "shì", "cháng", "jiāng", "dà", "qiáo"]
 # 返回结果分别对应 赌博，正常，政治，色情 4个 类别的概率
 array([[4.43336608e-03, 9.95215198e-01, 3.51419231e-04, 1.68657851e-08]])
 ```
-
 
 24、[ChineseNLPCorpus](https://hellogithub.com/periodical/statistics/click?target=https://github.com/InsaneLife/ChineseNLPCorpus)：中文自然语言处理数据集
 

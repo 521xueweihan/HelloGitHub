@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[masscan](https://hellogithub.com/periodical/statistics/click?target=https://github.com/robertdavidgraham/masscan)：超快的 IP 端口扫描工具。异步的 TCP 端口扫描器，特点就是快。最快能在 5 分钟内扫描完整个互联网，但要小心别把本机打挂了。

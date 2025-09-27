@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### Go 项目
 1、[ctop](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bcicen/ctop)：实现了类 top 命令展示效果的 docker 容器监控工具

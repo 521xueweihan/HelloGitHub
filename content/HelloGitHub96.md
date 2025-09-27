@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[cosmopolitan](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jart/cosmopolitan)：让 C 成为构建一次，可随处运行的语言。这个工具可以将 C 语言编写的程序，编译成可无缝运行在多种操作系统上的可执行文件。它采用自包含式二进制文件的设计，能够将程序所有依赖打包进可执行文件中，实现真正的跨平台运行，支持 Windows、macOS 和 Linux 等主流操作系统。

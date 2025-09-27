@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[AltSnap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/RamonUnch/AltSnap)：Windows 全局 Alt 键窗口管理器。这是一款将 Linux 系统中高效的窗口管理方式复刻到 Windows 平台的工具。你只需按住 Alt 键，即可用鼠标在窗口的任何位置轻松拖动、缩放和停靠，彻底告别繁琐地寻找并点击标题栏和边框的传统操作。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
@@ -132,7 +132,7 @@ String author1 = JsonPath.read(document, "$.store.book[1].author");
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/762289766.png' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[cap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tiagorangel1/cap)：轻量级的 CAPTCHA 替代方案。这是一个轻量级、开源的验证码方案，适用于防止机器人滥用和数据抓取等场景。它基于 SHA-256 工作量证明（Proof-of-Work）技术，易于集成、即插即用，为网站提供自托管的防滥用验证机制。
+16、[cap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tiagozip/cap)：轻量级的 CAPTCHA 替代方案。这是一个轻量级、开源的验证码方案，适用于防止机器人滥用和数据抓取等场景。它基于 SHA-256 工作量证明（Proof-of-Work）技术，易于集成、即插即用，为网站提供自托管的防滥用验证机制。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/915378930.png' style="max-width:80%; max-height=80%;"></img></p>
 

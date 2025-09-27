@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[goaccess](https://hellogithub.com/periodical/statistics/click?target=https://github.com/allinurl/goaccess)：实时 Web 日志分析工具

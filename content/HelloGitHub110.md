@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[Chroma](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ubisoft/Chroma)：面向游戏开发的色盲检测工具。该项目是育碧官方开源的色盲检测工具，支持实时在游戏画面上叠加三种色盲滤镜，帮助开发者直观地看到色盲用户可能遇到的视觉障碍，从而及时调整游戏设计，提升游戏的可访问性。
@@ -43,7 +43,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/20889734.png' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[jarkViewer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jark006/jarkViewer)：便捷的 Windows 图片浏览工具。这是一款简单高效的 Windows 看图软件，适用于日常图片浏览及专业摄影作品预览等多种场景。它操作方便，支持多种快捷键，例如按下 I 键可快速查看图片详细信息。还支持读取 AI 生成图像的提示词（如有）、自动记忆上次窗口的位置和大小等实用功能。来自 [@JARK006](https://hellogithub.com/user/9x4FWGZ1KvkIRNr) 的分享
+6、[JarkViewer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jark006/JarkViewer)：便捷的 Windows 图片浏览工具。这是一款简单高效的 Windows 看图软件，适用于日常图片浏览及专业摄影作品预览等多种场景。它操作方便，支持多种快捷键，例如按下 I 键可快速查看图片详细信息。还支持读取 AI 生成图像的提示词（如有）、自动记忆上次窗口的位置和大小等实用功能。来自 [@JARK006](https://hellogithub.com/user/9x4FWGZ1KvkIRNr) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/709258942.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -131,7 +131,7 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/840979384.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-19、[youtube-music](https://hellogithub.com/periodical/statistics/click?target=https://github.com/th-ch/youtube-music)：纯净无广告的 YouTube Music 桌面应用。这是一款基于 Electron 的 YouTube Music 桌面客户端，开箱即用无需登录。它保留了 YouTube Music 的原生界面，并支持插件扩展，内置广告拦截、下载器、主题切换、音频处理等功能，适用于 Windows、macOS 和 Linux 平台。来自 [@vladelaina](https://hellogithub.com/user/JBczix10rXqNblQ) 的分享
+19、[ytmd](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ytmd-devs/ytmd)：纯净无广告的 YouTube Music 桌面应用。这是一款基于 Electron 的 YouTube Music 桌面客户端，开箱即用无需登录。它保留了 YouTube Music 的原生界面，并支持插件扩展，内置广告拦截、下载器、主题切换、音频处理等功能，适用于 Windows、macOS 和 Linux 平台。来自 [@vladelaina](https://hellogithub.com/user/JBczix10rXqNblQ) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/182306991.png' style="max-width:80%; max-height=80%;"></img></p>
 

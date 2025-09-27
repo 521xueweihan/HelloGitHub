@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[smartdns](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pymumu/smartdns)：一个运行在本地的 DNS 服务器。能够提高网络访问速度等诸多妙用，架构图如下：

@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[genann](https://hellogithub.com/periodical/statistics/click?target=https://github.com/codeplea/genann)：C 语言写的极简神经网络库。这是一个轻量、无依赖、单文件的 C 语言神经网络库，内含丰富的示例和测试。代码简洁易读，适合作为初学者学习神经网络的入门项目。来自 [@ziming012](https://hellogithub.com/user/t7lxvuwPRDamU8p) 的分享

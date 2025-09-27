@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[deskhop](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hrvach/deskhop)：基于树莓派的双机鼠标键盘共享方案。这是一款用于快速切换鼠标和键盘的桌面切换工具，解决了用户在多台计算机之间共享键盘和鼠标时遇到的繁琐和延迟问题。它通过硬件中介设备，支持在不同操作系统（Linux、macOS、Windows）之间通过拖动鼠标或使用快捷键实现输入的无缝切换。该项目完全开源，且不需要安装额外的驱动。硬件则是基于 Raspberry Pi Pico 和 USB 输入/输出协议，支持自定义配置并提供多种附加功能，如慢速鼠标模式、屏幕锁定和游戏模式。来自 [@无间之钟](https://hellogithub.com/user/rnlYFdQcyhRm50p) 的分享

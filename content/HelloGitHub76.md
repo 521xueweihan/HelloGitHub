@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[gb-studio](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chrismaltby/gb-studio)：简单好玩的 Game Boy 游戏制作工具。这是一款可视化游戏构建工具。无需编程基础即可通过拖拽的方式，快速制作出复古风格的 Game Boy 游戏。不仅支持导出游戏 ROM，还可以直接构建成在线游戏。

@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[minilisp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rui314/minilisp)：用 1000 行 C 语言写的 Lisp 解释器。实现了整数、符号、局部变量、条件语句、宏和垃圾回收等功能，为了让读者更好地理解项目，代码中包含了丰富的注释

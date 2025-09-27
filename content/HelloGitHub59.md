@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[TIC-80](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nesbox/TIC-80)：复古游戏引擎模拟器。TIC-80 支持 Windows、Linux、Mac 等主流平台，通过它你可以运行多种复古小游戏，觉得没意思？它不仅可以玩游戏还可以制作游戏，支持多种编程语言，还有地图、声音编辑器等，就是一个回到过去的“神奇迷你电脑”

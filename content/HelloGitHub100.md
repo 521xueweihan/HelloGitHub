@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[darktable](https://hellogithub.com/periodical/statistics/click?target=https://github.com/darktable-org/darktable)：开源的摄影后期处理工具。这是一款免费且专业的摄影作品后期处理软件。它像一个虚拟的光桌和暗房，能够帮助摄影师存储数字底片、放大查看和检索照片。该软件可以显示照片的焦距和曝光度等信息，并支持编辑历史、地图模式和打印照片等功能。

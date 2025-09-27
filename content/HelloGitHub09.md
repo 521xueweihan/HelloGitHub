@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C++ 项目
 1、[json](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nlohmann/json)：C++ 的 JSON 库

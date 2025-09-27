@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[fontforge](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fontforge/fontforge)：免费开源的字体编辑器。适用于 Windows、macOS、Linux 的编辑字体桌面工具，支持创建和编辑多种格式的字体，可用来构建自己的字体。

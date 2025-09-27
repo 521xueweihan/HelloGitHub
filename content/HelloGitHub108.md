@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[Catime](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vladelaina/Catime)：简洁小巧的 Windows 计时器。这是一款轻巧易用的 Windows 计时器，集显示时间、倒计时和番茄时钟功能于一体。它采用 C 语言编写，体积小、占用少，支持透明界面。用户可以调整界面大小和位置，设置超时动作（锁屏/通知/关机），以及自定义颜色和字体，满足个性化需求。来自 [@VerSion1312](https://hellogithub.com/user/hzXa4yVtAgBQdID) 的分享

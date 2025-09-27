@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[discount](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Orc/discount)：一个用 C 语言编写的 Markdown 实现，可以轻松将 MD 文档转换为 HTML 格式

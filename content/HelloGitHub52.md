@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[raspberry-pi-os](https://hellogithub.com/periodical/statistics/click?target=https://github.com/s-matyukevich/raspberry-pi-os)：基于树莓派的操作系统开发教程（还未完结）。你的树莓派在吃灰吗？把它插上电用来学习开发操作系统吧

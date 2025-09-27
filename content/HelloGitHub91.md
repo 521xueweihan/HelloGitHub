@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[barrier](https://hellogithub.com/periodical/statistics/click?target=https://github.com/debauchee/barrier)：一套键盘鼠标控制多台电脑的工具。该项目通过模拟 KVM 切换器功能，实现多台电脑、不同操作系统，共享一套键盘鼠标，让工作流程更加高效。它安装简单使用方便，无需复杂的配置，支持自定义热键、多种操作系统、可视化操作界面等功能。来自 [@loongmonkey](https://hellogithub.com/user/RK0sOtYAgBGlurU) 的分享

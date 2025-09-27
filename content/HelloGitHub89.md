@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[barco](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lucavallin/barco)：用 C 语言从头写一个 Linux 容器。该项目仅依赖底层的 Linux 功能，用 C 语言实现的一个 Linux 容器，可用来了解更多关于 Linux 容器和内核的技术细节。

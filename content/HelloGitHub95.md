@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[audacity](https://hellogithub.com/periodical/statistics/click?target=https://github.com/audacity/audacity)：一款免费、开源的音频编辑工具。该项目是最受欢迎的开源音频编辑软件之一，它拥有容易上手的界面，提供了音频的编辑和录制功能，支持多语言、录音、多音轨混音以及杂音消除等特性，适用于 Windows、macOS、GNU/Linux 操作系统。来自 [@ziming012](https://hellogithub.com/user/t7lxvuwPRDamU8p) 的分享

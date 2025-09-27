@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[chibicc](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rui314/chibicc)：迷你 C 编译器。虽然它只是一个玩具级的编译器，但是实现了大多数 C11 特性，而且能够成功编译几十万行的 C 语言项目，其中包括 Git、SQLite 等知名项目。而且它项目结构清晰、每次提交都是精心设计、代码容易理解，对编译器感兴趣的同学可以从[第一个提交](https://github.com/rui314/chibicc/commit/0522e2d77e3ab82d3b80a5be8dbbdc8d4180561c)开始学习

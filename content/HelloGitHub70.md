@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[daytripper](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dekuNukem/daytripper)：上班摸鱼神器之激光绊脚器。它分为发射器和接收器两部分，设置好后会在有人路过绊脚器时，自动触发隐藏桌面、切换应用等操作

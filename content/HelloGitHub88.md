@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[memreduct](https://hellogithub.com/periodical/statistics/click?target=https://github.com/henrypp/memreduct)：小巧的内存管理应用。这是一款 Windows 内存管理工具，可以实时监控计算机内存和清理系统缓存。它体积小(6MB)、内存释放效果明显，兼容 Windows XP 及更高版本。

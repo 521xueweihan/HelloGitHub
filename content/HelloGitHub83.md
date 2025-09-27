@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[sds](https://hellogithub.com/periodical/statistics/click?target=https://github.com/antirez/sds)：简单的 C 语言动态字符串库。Redis 作者写的 C 语言字符串库，它相较于 C 字符串，使用起来更加方便。具有速度快(常数复杂度获取字符串长度)、二进制安全(图片、音频等)、兼容部分 C 字符串函数等特点。

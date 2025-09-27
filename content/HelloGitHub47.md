@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C++ 项目
 1、[CPlusPlusThings](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Light-City/CPlusPlusThings)：这是一个适合 C++ 初学者从入门到进阶的教程。解决了面试者想要深入 C++ 及如何入坑 C++ 的问题。除此之外，该仓库拓展了更加深入的语法分析、多线程并发等的知识，是一个比较全面的 C++ 从入门学习到进阶提升的项目
@@ -172,13 +172,13 @@ print(bond_df)
 23、[book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rust-lang/book)：《Rust 编程语言》这是官方出品的关于 Rust 的入门书籍
 
 
-24、[config](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nikitavoloboev/config)：该项目罗列了作者自用、收集的 macOS 上实用、炫酷的软件。我从中找到好几个炫酷、实用提高工作的工具，你也赶快来挑挑吧
+24、[devops-exercises](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bregman-arie/devops-exercises)：这个仓库包含了 DevOps（开发运维）常见、流行服务相关的面试问题和回答，推荐给从事运维的同学
+
+
+25、[myflow](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nikitavoloboev/myflow)：该项目罗列了作者自用、收集的 macOS 上实用、炫酷的软件。我从中找到好几个炫酷、实用提高工作的工具，你也赶快来挑挑吧
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/53133861.png' style="max-width:80%; max-height=80%;"></img></p>
-
-25、[devops-exercises](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bregman-arie/devops-exercises)：这个仓库包含了 DevOps（开发运维）常见、流行服务相关的面试问题和回答，推荐给从事运维的同学
-
 
 26、[OnlineToolsBook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zhaoolee/OnlineToolsBook)：该项目收集了一些有趣、实用的在线工具网站，点开即用
 

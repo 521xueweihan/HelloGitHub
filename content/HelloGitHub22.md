@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C++ 项目
 1、[albert](https://hellogithub.com/periodical/statistics/click?target=https://github.com/albertlauncher/albert)：Linux 平台下类似于 Mac Alfred 效率神器。支持开机自启动、自定义快捷键等功能

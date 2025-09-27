@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[ttygif](https://hellogithub.com/periodical/statistics/click?target=https://github.com/icholy/ttygif)：录制终端.gif

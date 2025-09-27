@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[fluent-bit](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fluent/fluent-bit)：高效轻量的日志收集与处理工具。这是一个轻量级、高效的日志收集、处理和转发工具，支持实时收集和处理来自不同来源的日志数据，具有低内存和 CPU 占用的特性。

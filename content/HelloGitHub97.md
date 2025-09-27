@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[freeswitch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/signalwire/freeswitch)：运营商级的开源电话平台。这是一个支持 SIP、WebRTC 等多种通信协议的开源通信框架，它作为一个多用途的软交换机，可以用来创建各种语音和消息服务，比如企业电话系统、虚拟呼叫中心、视频会议服务等。

@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### Java 项目
 1、[cachecloud](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sohutv/cachecloud)：搜狐视频开源的 CacheCloud 项目，提供了一个 Redis 云管理平台，功能强大，教程详细（有视频教程），文档齐全，**企业级开源项目**

@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[HEX-LINK](https://hellogithub.com/periodical/statistics/click?target=https://github.com/JingYang1124/HEX-LINK)：自制电脑游戏的体感设备。该项目包含制作时需要的硬件设计和全部源码

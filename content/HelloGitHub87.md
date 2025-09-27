@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[kilo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/antirez/kilo)：不到 1 千行代码实现的迷你文本编辑器。该项目是 Redis 作者用 C 语言写的迷你文本编辑器，支持语法高亮和搜索等功能。它不依赖第三方库、代码简洁优雅，去掉注释和空行后不到 1000 行，且只有一个文件，源码阅读起来十分清爽。
@@ -153,7 +153,7 @@ public class BasicGameApp extends GameApplication {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/612344730.png' style="max-width:80%; max-height=80%;"></img></p>
 
-19、[Painter](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Kujiale-Mobile/Painter)：小程序生成图片库。该项目可以让小程序开发者通过 JSON 的方式绘制图片，支持绘制文本、图片、二维码、多种布局、自定义字体、圆角等功能。
+19、[Painter](https://hellogithub.com/periodical/statistics/click?target=https://github.com/manycore-maas/Painter)：小程序生成图片库。该项目可以让小程序开发者通过 JSON 的方式绘制图片，支持绘制文本、图片、二维码、多种布局、自定义字体、圆角等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/139574940.png' style="max-width:80%; max-height=80%;"></img></p>
 

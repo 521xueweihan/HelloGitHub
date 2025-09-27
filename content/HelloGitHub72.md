@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[hashcat](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hashcat/hashcat)：一款强大的密码恢复工具。破解速度超快支持多种算法，适用于 Linux、macOS 和 Windows 操作系统

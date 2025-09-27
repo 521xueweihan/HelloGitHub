@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[X-TRACK](https://hellogithub.com/periodical/statistics/click?target=https://github.com/FASTSHIFT/X-TRACK)：开源的 GPS 自行车码表。功能齐全且拥有美观的界面，支持离线地图、显示轨迹等功能。[在线观看](https://www.bilibili.com/video/BV1GB4y1K7VV)

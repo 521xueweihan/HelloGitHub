@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[rawdrawandroid](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cnlohr/rawdrawandroid)：仅用 C 语言开发 Android 应用。这是一个 Android 应用开发框架，可以让开发者不用 Java，仅用 C 和 Make 开发 Android 应用。它轻量且跨平台，支持 OpenGL ES、陀螺仪、多点触控及 Android 键盘，并能直接访问 USB 设备。

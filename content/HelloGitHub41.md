@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C# 项目
 1、[csredis](https://hellogithub.com/periodical/statistics/click?target=https://github.com/2881099/csredis)：Redis.io 官方推荐的 C# 语言 redis 客户端库，支持 redis 2.8-5.0 版本的所有命令，且包含哨兵、集群等功能。该项目从 2016 年开始持续迭代更新，实现了低门槛、高性能和分区等高级玩法。该项目作者：[2881099](https://github.com/2881099)，在 GitHub 上开源了很多有趣、实用的 C# 项目。欢迎大家关注他，同时参与到他的项目中，为开源社区贡献自己的一份力量。示例代码：

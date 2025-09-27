@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[htop](https://hellogithub.com/periodical/statistics/click?target=https://github.com/htop-dev/htop)：交互式进程查看工具，可代替 top 命令。用了这库后，我基本不用 top 命令了

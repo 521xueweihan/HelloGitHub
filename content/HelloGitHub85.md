@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[dperf](https://hellogithub.com/periodical/statistics/click?target=https://github.com/baidu/dperf)：一款能模拟巨大流量的压测工具。该项目是基于 DPDK 开发的高性能压测工具，能够每秒建立千万级的 HTTP 连接、亿级别的并发请求和数百 Gbps 的吞吐量。

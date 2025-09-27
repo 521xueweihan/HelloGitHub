@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C# 项目
 1、[KSFramework](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mr-kelly/KSFramework)：一个整合 KEngine、SLua/XLua 的 Unity 5 Asset Bundle 游戏开发框架。它为程序员、美术、策划、运营提供辅助工具集，很多大型游戏都在用的项目，快来学起来吧

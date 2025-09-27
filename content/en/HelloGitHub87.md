@@ -146,7 +146,7 @@ public class BasicGameApp extends GameApplication {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/612344730.png' style="max-width:80%; max-height=80%;"></img></p>
 
-19、[Painter](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Kujiale-Mobile/Painter)：Mini Program Image Library Generator. This project allows developers of mini programs to create images through JSON, supporting the drawing of text, images, QR codes, various layouts, custom fonts, rounded corners, and more.
+19、[Painter](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/manycore-maas/Painter)：Mini Program Image Library Generator. This project allows developers of mini programs to create images through JSON, supporting the drawing of text, images, QR codes, various layouts, custom fonts, rounded corners, and more.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/139574940.png' style="max-width:80%; max-height=80%;"></img></p>
 

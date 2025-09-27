@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[mimikatz](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gentilkiwi/mimikatz)：探索 Windows 安全机制的工具。这是一款采用 C 语言编写的用于研究 Windows 安全机制的工具。它能够从内存中提取明文密码、哈希值、PIN 码、Kerberos 票据等敏感信息，支持 pass-the-hash、Golden Ticket、DCSync 等高级操作，广泛应用于安全研究、渗透测试和系统安全分析等场景。

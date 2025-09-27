@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[ecapture](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gojue/ecapture)：一款无需 CA 证书即可抓取 HTTPS 明文的工具。该项目基于 eBPF 技术实现了 TLS 加密的明文捕获，可用于 MySQL 数据库的查询审计、bash 命令捕获等场景，仅支持 Linux 和 Android 系统。

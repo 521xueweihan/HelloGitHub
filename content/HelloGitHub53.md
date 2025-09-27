@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[baulk](https://hellogithub.com/periodical/statistics/click?target=https://github.com/baulk/baulk)：一个用 C 编写的极简 Windows 包管理器。易于使用、免安装、不修改系统环境变量，能够和 Windows Terminal 集成、添加到右键菜单。可以说是一个精简版的 Scoop

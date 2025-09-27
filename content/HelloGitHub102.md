@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[Ditto](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sabrogden/Ditto)：Windows 的剪贴板历史管理工具。这是一款免费的 Windows 剪贴板增强工具。它能够将复制到剪贴板的内容存储到数据库中（SQLite），方便日后检索，支持设定保存日期、条目总数、合并粘贴、分组、快速搜索和热键粘贴等功能。此外，还可以通过网络共享剪贴板内容，并对传输数据进行加密保护。来自 [@Veeja Liu](https://hellogithub.com/user/70zTMbIqVf9dvZp) 的分享

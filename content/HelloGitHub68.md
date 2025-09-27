@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[the_silver_searcher](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ggreer/the_silver_searcher)：比 ack 更快的命令行搜索工具。速度快、功能强大、使用简单，支持 Linux、Windows、macOS 操作系统，还能够整合到 Vim 和 Emacs 等编辑器

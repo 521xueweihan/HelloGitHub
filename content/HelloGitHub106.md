@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[sshfs](https://hellogithub.com/periodical/statistics/click?target=https://github.com/libfuse/sshfs)：通过 SSH 挂载远程文件系统的工具。这是一个基于 SFTP 协议的文件系统工具，可通过 SSH 协议将远程文件系统挂载到本地。它操作简单，仅需一条命令，即可像访问本地文件系统一样管理远程文件和目录，兼容 Linux、BSD 和 macOS 系统。

@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[rsync](https://hellogithub.com/periodical/statistics/click?target=https://github.com/RsyncProject/rsync)：Linux 远程同步文件的工具。该项目提供了一种快速、增量的文件传输方式，即仅传输有变动的部分，可用于远程同步和备份文件。

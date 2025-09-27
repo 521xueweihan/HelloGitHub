@@ -263,7 +263,7 @@ SwiftMessages.show(view: view)
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/145670234.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Other
-36、[all-contributors](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/all-contributors/all-contributors)：表彰非代码贡献者的工具。这是一个 GitHub 机器人，可以在 issues 使用指令，将贡献者增添到项目首页，进行展示和表彰。
+36、[all-contributors.github.io](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/all-contributors/all-contributors.github.io)：表彰非代码贡献者的工具。这是一个 GitHub 机器人，可以在 issues 使用指令，将贡献者增添到项目首页，进行展示和表彰。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/52710065.png' style="max-width:80%; max-height=80%;"></img></p>
 

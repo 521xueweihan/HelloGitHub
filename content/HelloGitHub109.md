@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[clay](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nicbarker/clay)：零依赖 C 语言 UI 布局库。这是一个基于 C 语言实现的高性能 2D UI 布局库，能够提供微秒级的布局性能和灵活的响应式布局能力。它采用类似 flexbox 的布局模型，支持响应式设计、文本换行、滚动容器等功能。Clay 具有零依赖和轻量级的特性，核心文件仅为 2KB，且可编译为 wasm 文件（15KB），适用于游戏开发、嵌入式设备以及轻量级 Web 应用等场景。

@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[switch-lan-play](https://hellogithub.com/periodical/statistics/click?target=https://github.com/spacemeowx2/switch-lan-play)：在局域网玩 Switch 游戏的工具。让您和您的朋友像在局域网中一样玩 switch 游戏。

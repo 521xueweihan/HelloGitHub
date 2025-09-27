@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[earlyoom](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rfjakob/earlyoom)：防止 OOM 的 Linux 守护进程。这是一款专为 Linux 设计的 OOM 守护进程，旨在弥补内核自带的 OOM Killer 仅在内存耗尽时才触发的不足。它能够提早干预（默认 10%），自动终止占用内存最多的进程，从而防止系统因内存耗尽而陷入卡死的状态。
@@ -30,7 +30,7 @@
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/789538509.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C# 项目
-3、[Flyby11](https://hellogithub.com/periodical/statistics/click?target=https://github.com/builtbybel/Flyby11)：Windows 11 升级助手。这是一款开源的 Windows 11 升级辅助工具。它能够帮助用户绕过硬件限制，将 Windows 11 最新版本，安装到官方不支持的旧设备上。
+3、[Flyoobe](https://hellogithub.com/periodical/statistics/click?target=https://github.com/builtbybel/Flyoobe)：Windows 11 升级助手。这是一款开源的 Windows 11 升级辅助工具。它能够帮助用户绕过硬件限制，将 Windows 11 最新版本，安装到官方不支持的旧设备上。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/875403491.png' style="max-width:80%; max-height=80%;"></img></p>
 

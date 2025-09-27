@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[db_tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cstack/db_tutorial)：用 C 从零创建一个简单的数据库

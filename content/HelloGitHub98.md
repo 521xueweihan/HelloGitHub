@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[cmus](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cmus/cmus)：小巧的命令行音乐播放器。这是一个专为类 Unix 系统设计的轻量级命令行音乐播放器，可以播放本地的音乐文件。它简单易用、占用资源少、启动速度快，支持多种音频格式。

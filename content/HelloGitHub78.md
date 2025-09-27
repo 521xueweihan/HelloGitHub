@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[acl](https://hellogithub.com/periodical/statistics/click?target=https://github.com/acl-dev/acl)：一款跨平台的网络通信库和服务器框架。它既可以做网络通信的客户端，也可以编写服务器端，支持 HTTP、SMTP、ICMP、MQTT、Redis、Memcache 多种常见协议，以及 XML、JSON、BASE64 等编码格式。

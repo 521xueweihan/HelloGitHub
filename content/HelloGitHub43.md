@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[tmux](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tmux/tmux)：一个终端复用工具，可极大的提高工作效率。

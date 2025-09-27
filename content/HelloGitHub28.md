@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C# 项目
 1、[choco](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chocolatey/choco)：类似 yum、apt-get、brew 的 Windows 包、软件管理、自动安装工具

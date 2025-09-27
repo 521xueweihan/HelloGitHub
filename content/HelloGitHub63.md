@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[mgba](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mgba-emu/mgba)：用 C 语言实现的 GBA 模拟器。唤起你童年回忆的同时，还能边学边玩，然后再约上三两好友一起看看源码和实现，快乐就是这么简单

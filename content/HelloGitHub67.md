@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[bytehound](https://hellogithub.com/periodical/statistics/click?target=https://github.com/koute/bytehound)：更强大的 Linux 内存分析工具。它能够显示内存变化曲线、占用详情、完整的堆栈记录等信息，有助于解决内存泄漏等问题

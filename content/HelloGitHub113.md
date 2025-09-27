@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
 1、[nob.h](https://hellogithub.com/periodical/statistics/click?target=https://github.com/tsoding/nob.h)：单文件的 C 语言构建系统。这是一个仅头文件的 C 语言库，支持通过 C 代码直接定义构建逻辑，实现自动化编译和构建，无需依赖外部工具，仅用 C 编译器即可完成项目构建。
@@ -210,7 +210,7 @@ ui.run()
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub112.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub112.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub114.md">『下一期』</a>
 </p>
 
 ---

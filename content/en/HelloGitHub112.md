@@ -125,7 +125,7 @@ String author1 = JsonPath.read(document, "$.store.book[1].author");
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/762289766.png' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[cap](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/tiagorangel1/cap)：Lightweight CAPTCHA Alternative.This is a lightweight, open-source CAPTCHA solution suitable for preventing robot abuse and data scraping. It is based on SHA-256 Proof-of-Work technology, easy to integrate and plug-and-play, providing a self-hosted anti-abuse verification mechanism for websites.
+16、[cap](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/tiagozip/cap)：Lightweight CAPTCHA Alternative.This is a lightweight, open-source CAPTCHA solution suitable for preventing robot abuse and data scraping. It is based on SHA-256 Proof-of-Work technology, easy to integrate and plug-and-play, providing a self-hosted anti-abuse verification mechanism for websites.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/915378930.png' style="max-width:80%; max-height=80%;"></img></p>
 

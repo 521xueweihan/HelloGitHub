@@ -18,7 +18,7 @@
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号更新
+> **以下为本期内容**｜每月 **28** 号更新
 
 ### C++ 项目
 1、[2048.cpp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/plibither8/2048.cpp)：C++ 写的终端 2048 游戏
