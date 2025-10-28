@@ -34,7 +34,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/111/984862298.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[usearch](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/unum-cloud/usearch)：Faster and Compact Vector Retrieval and Clustering Engine.This is a high-performance and lightweight similarity search and clustering engine with a single header file design. It can be embedded in mainstream databases and supports vector and multimodal data (text, images, geographic coordinates). It implements efficient approximate nearest neighbor search based on the HNSW algorithm and is compatible with multiple programming languages and precision types. It is suitable for scenarios such as recommendation systems, vector databases, intelligent retrieval, and geospatial analysis.
+6、[USearch](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/unum-cloud/USearch)：Faster and Compact Vector Retrieval and Clustering Engine.This is a high-performance and lightweight similarity search and clustering engine with a single header file design. It can be embedded in mainstream databases and supports vector and multimodal data (text, images, geographic coordinates). It implements efficient approximate nearest neighbor search based on the HNSW algorithm and is compatible with multiple programming languages and precision types. It is suitable for scenarios such as recommendation systems, vector databases, intelligent retrieval, and geospatial analysis.
 ```c++
 #include <usearch/index.hpp>
 #include <usearch/index_dense.hpp>

@@ -114,7 +114,7 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/274610956.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[jizhi](https://hellogithub.com/periodical/statistics/click?target=https://github.com/unicar9/jizhi)：中国风新标签页的 Chrome/Firefox 插件。它将在新标签页上展示中国传统色的层叠波浪动画效果，搭配经典诗词
+16、[jizhi](https://hellogithub.com/periodical/statistics/click?target=https://github.com/liminalpurr/jizhi)：中国风新标签页的 Chrome/Firefox 插件。它将在新标签页上展示中国传统色的层叠波浪动画效果，搭配经典诗词
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/53/173278813.gif' style="max-width:80%; max-height=80%;"></img></p>

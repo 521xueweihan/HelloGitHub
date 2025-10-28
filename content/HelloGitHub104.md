@@ -113,7 +113,7 @@ slugify('some string', '_')  // some_string
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/104/614933136.png' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[xiaoju-survey](https://hellogithub.com/periodical/statistics/click?target=https://github.com/didi/xiaoju-survey)：企业级的问卷调查平台。这是一款免费且专业的调研系统，旨在为个人和企业提供一站式产品级的调研解决方案。它前后端均已开源，并支持 Docker 一键部署，内置了多种题型和模版，支持逻辑编排、自定义品牌、权限管理、数据分析和导出等功能，可用于创建问卷、考试、测评和复杂表单。
+18、[xiaoju-survey](https://hellogithub.com/periodical/statistics/click?target=https://github.com/didi/xiaoju-survey)：企业级的问卷调研平台。这是一款免费且专业的调研系统，旨在为个人和企业提供一站式产品级的调研解决方案。它前后端均已开源，并支持 Docker 一键部署，内置了多种题型和模版，支持逻辑编排、自定义品牌、权限管理、数据分析以及 AI 生成问卷等功能，可用于创建问卷、考试、测评和复杂表单。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/104/713210442.png' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -106,7 +106,7 @@ slugify('some string', '_')  // some_string
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/104/614933136.png' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[xiaoju-survey](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/didi/xiaoju-survey)：Enterprise-level Survey Platform. This is a free and professional research system designed to provide individuals and enterprises with a one-stop product-level survey solution. It has both front-end and back-end open-sourced and supports one-click deployment with Docker. It includes a variety of question types and templates, and supports logical arrangement, custom branding, permission management, data analysis, and export functions. It can be used to create surveys, exams, assessments, and complex forms.
+18、[xiaoju-survey](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/didi/xiaoju-survey)：Enterprise-level Questionnaire Survey Platform.This is a free and professional survey system designed to provide one-stop product-level survey solutions for individuals and enterprises. Both the front-end and back-end are open source and support one-click deployment with Docker. It comes with multiple question types and templates, supports logical arrangement, custom branding, permission management, data analysis, and AI-generated questionnaires. It can be used to create questionnaires, exams, evaluations, and complex forms.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/104/713210442.png' style="max-width:80%; max-height=80%;"></img></p>
 

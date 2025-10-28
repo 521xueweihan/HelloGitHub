@@ -126,7 +126,7 @@ mammoth.convertToHtml({path: "path/to/document.docx"})
     });
 ```
 
-17、[Termix](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/LukeGus/Termix)：Good-looking One-stop Server Management Platform.This is a web-based server management platform that integrates SSH terminal, SSH tunnel, server monitoring and file management functions. It is completely open source and free, and can be self-hosted. It supports automatic reconnection, file upload, split-screen display and syntax highlighting features.Shared by [@DeShuiYu](https://hellogithub.com/en/user/ZWJkOqsvYbPgD8p)
+17、[Termix](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Termix-SSH/Termix)：Good-looking One-stop Server Management Platform.This is a web-based server management platform that integrates SSH terminal, SSH tunnel, server monitoring and file management functions. It is completely open source and free, and can be self-hosted. It supports automatic reconnection, file upload, split-screen display and syntax highlighting features.Shared by [@DeShuiYu](https://hellogithub.com/en/user/ZWJkOqsvYbPgD8p)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/114/893684207.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -290,7 +290,7 @@ whisperlivekit-server --host 0.0.0.0 --port 80 --model medium --diarization --la
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub113.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | 『Next』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub113.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub115.md">『Next』</a>
 </p>
 
 ---

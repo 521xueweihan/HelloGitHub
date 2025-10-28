@@ -35,7 +35,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/447406555.png' style="max-width:80%; max-height=80%;"></img></p>
 
-4、[LiveCharts2](https://hellogithub.com/periodical/statistics/click?target=https://github.com/beto-rodriguez/LiveCharts2)：简单、灵活、强大的 .Net 图表库。支持 WPF、WinForms、WinUI、UWP 等
+4、[LiveCharts2](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Live-Charts/LiveCharts2)：简单、灵活、强大的 .Net 图表库。支持 WPF、WinForms、WinUI、UWP 等
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/337897094.gif' style="max-width:80%; max-height=80%;"></img></p>

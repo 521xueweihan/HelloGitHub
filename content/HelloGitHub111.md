@@ -41,7 +41,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/111/984862298.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[usearch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/unum-cloud/usearch)：更快且小巧的向量检索与聚类引擎。这是一款高性能、轻量级的相似搜索和聚类引擎，单头文件设计，可嵌入主流数据库，支持向量和多模态数据（文本、图像、地理坐标）。它基于 HNSW 算法实现高效的近似最近邻搜索，兼容多种编程语言和精度类型，适用于推荐系统、向量数据库、智能检索、地理空间分析等场景。
+6、[USearch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/unum-cloud/USearch)：更快且小巧的向量检索与聚类引擎。这是一款高性能、轻量级的相似搜索和聚类引擎，单头文件设计，可嵌入主流数据库，支持向量和多模态数据（文本、图像、地理坐标）。它基于 HNSW 算法实现高效的近似最近邻搜索，兼容多种编程语言和精度类型，适用于推荐系统、向量数据库、智能检索、地理空间分析等场景。
 ```c++
 #include <usearch/index.hpp>
 #include <usearch/index_dense.hpp>

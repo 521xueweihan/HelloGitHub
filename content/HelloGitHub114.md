@@ -133,7 +133,7 @@ mammoth.convertToHtml({path: "path/to/document.docx"})
     });
 ```
 
-17、[Termix](https://hellogithub.com/periodical/statistics/click?target=https://github.com/LukeGus/Termix)：高颜值一站式服务器管理平台。这是一个基于 Web 的服务器管理平台，集成了 SSH 终端、SSH 隧道、服务器监控和文件管理等功能。它完全开源免费、可自托管，支持自动重连、文件上传、分屏显示和语法高亮等特性。来自 [@DeShuiYu](https://hellogithub.com/user/ZWJkOqsvYbPgD8p) 的分享
+17、[Termix](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Termix-SSH/Termix)：高颜值一站式服务器管理平台。这是一个基于 Web 的服务器管理平台，集成了 SSH 终端、SSH 隧道、服务器监控和文件管理等功能。它完全开源免费、可自托管，支持自动重连、文件上传、分屏显示和语法高亮等特性。来自 [@DeShuiYu](https://hellogithub.com/user/ZWJkOqsvYbPgD8p) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/114/893684207.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -297,7 +297,7 @@ whisperlivekit-server --host 0.0.0.0 --port 80 --model medium --diarization --la
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub113.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub113.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub115.md">『下一期』</a>
 </p>
 
 ---

@@ -127,13 +127,13 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/293678729.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[uilayouts](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ui-layouts/uilayouts)：免费高质量 React 动效组件库。这是一个专注于创意设计的 React/Next.js 组件库，内含 100 多个基于 Tailwind CSS、Framer Motion 和 GSAP 等技术构建的免费且美观的 UI 组件。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/840979384.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-19、[ytmd](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ytmd-devs/ytmd)：纯净无广告的 YouTube Music 桌面应用。这是一款基于 Electron 的 YouTube Music 桌面客户端，开箱即用无需登录。它保留了 YouTube Music 的原生界面，并支持插件扩展，内置广告拦截、下载器、主题切换、音频处理等功能，适用于 Windows、macOS 和 Linux 平台。来自 [@vladelaina](https://hellogithub.com/user/JBczix10rXqNblQ) 的分享
+18、[pear-desktop](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pear-devs/pear-desktop)：纯净无广告的 YouTube Music 桌面应用。这是一款基于 Electron 的 YouTube Music 桌面客户端，开箱即用无需登录。它保留了 YouTube Music 的原生界面，并支持插件扩展，内置广告拦截、下载器、主题切换、音频处理等功能，适用于 Windows、macOS 和 Linux 平台。来自 [@vladelaina](https://hellogithub.com/user/JBczix10rXqNblQ) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/182306991.png' style="max-width:80%; max-height=80%;"></img></p>
+
+19、[uilayouts](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ui-layouts/uilayouts)：免费高质量 React 动效组件库。这是一个专注于创意设计的 React/Next.js 组件库，内含 100 多个基于 Tailwind CSS、Framer Motion 和 GSAP 等技术构建的免费且美观的 UI 组件。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/840979384.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Kotlin 项目
 20、[OpenCalc](https://hellogithub.com/periodical/statistics/click?target=https://github.com/clementwzk/OpenCalc)：纯净的 Android 计算器。这是一款专为 Android 设计的开源计算器。它体积仅 2 MB、无需任何不必要权限，支持多主题、科学计算、历史记录、横竖屏切换和锁屏可用等功能。来自 [@ewiro](https://hellogithub.com/user/iItGgWoJjnLsr0Y) 的分享
