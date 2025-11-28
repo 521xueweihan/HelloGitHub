@@ -16,7 +16,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 ### C
 1、[linked-list-good-taste](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mkirchner/linked-list-good-taste)：Linus Torvalds Explains the Argument for Good Coding Taste. In a 2016 TED interview, Linus Torvalds discussed what he considers good coding taste, using an example of two implementations for removing an item from a singly linked list. To remove the first item from a list, one implementation required handling special cases, whereas the other did not, and Linus favored the latter.
 
-2、[rpi4-osdev](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/babbleberry/rpi4-osdev)：A Tutorial for Writing an Operating System for Raspberry Pi 4. This is a tutorial by the CTO of RealVNC on writing an operating system for the bare metal Raspberry Pi 4. The content is divided into 15 chapters, each completing a part of the operating system, with source code and explanations provided.Shared by [@刘三非](https://hellogithub.com/en/user/VhrXCAs7cMxL08W)
+2、[rpi4-osdev](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/sypstraw/rpi4-osdev)：A Tutorial for Writing an Operating System for Raspberry Pi 4. This is a tutorial by the CTO of RealVNC on writing an operating system for the bare metal Raspberry Pi 4. The content is divided into 15 chapters, each completing a part of the operating system, with source code and explanations provided.Shared by [@刘三非](https://hellogithub.com/en/user/VhrXCAs7cMxL08W)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/279028703.jpg' style="max-width:80%; max-height=80%;"></img></p>
 

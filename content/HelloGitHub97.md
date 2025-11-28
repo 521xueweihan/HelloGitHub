@@ -86,7 +86,7 @@ nix-env -iA nixpkgs.charm-freeze
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/22165604.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript 项目
-14、[cmdk](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pacocoursey/cmdk)：快速、无样式的命令菜单 React 组件。该项目可以帮助开发者轻松实现一个直观且功能丰富的命令菜单，类似于 ⌘K 快捷键唤起的交互式菜单，从而提升用户的交互体验，适用于各种 Web 应用。来自 [@Daaihang Wong](https://hellogithub.com/user/G8ft6na1FH03KEW) 的分享
+14、[cmdk](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dip/cmdk)：快速、无样式的命令菜单 React 组件。该项目可以帮助开发者轻松实现一个直观且功能丰富的命令菜单，类似于 ⌘K 快捷键唤起的交互式菜单，从而提升用户的交互体验，适用于各种 Web 应用。来自 [@Daaihang Wong](https://hellogithub.com/user/G8ft6na1FH03KEW) 的分享
 ```typescript
 import { Command } from 'cmdk'
 

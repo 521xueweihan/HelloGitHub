@@ -24,6 +24,7 @@
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
+| [第 116 号](/content/HelloGitHub116.md) |
 | [第 115 号](/content/HelloGitHub115.md) | [第 114 号](/content/HelloGitHub114.md) | [第 113 号](/content/HelloGitHub113.md) | [第 112 号](/content/HelloGitHub112.md) | [第 111 号](/content/HelloGitHub111.md) |
 | [第 110 号](/content/HelloGitHub110.md) | [第 109 号](/content/HelloGitHub109.md) | [第 108 号](/content/HelloGitHub108.md) | [第 107 号](/content/HelloGitHub107.md) | [第 106 号](/content/HelloGitHub106.md) |
 | [第 105 号](/content/HelloGitHub105.md) | [第 104 号](/content/HelloGitHub104.md) | [第 103 号](/content/HelloGitHub103.md) | [第 102 号](/content/HelloGitHub102.md) | [第 101 号](/content/HelloGitHub101.md) |
@@ -31,7 +32,6 @@
 | [第 95 号](/content/HelloGitHub95.md) | [第 94 号](/content/HelloGitHub94.md) | [第 93 号](/content/HelloGitHub93.md) | [第 92 号](/content/HelloGitHub92.md) | [第 91 号](/content/HelloGitHub91.md) |
 | [第 90 号](/content/HelloGitHub90.md) | [第 89 号](/content/HelloGitHub89.md) | [第 88 号](/content/HelloGitHub88.md) | [第 87 号](/content/HelloGitHub87.md) | [第 86 号](/content/HelloGitHub86.md) |
 | [第 85 号](/content/HelloGitHub85.md) | [第 84 号](/content/HelloGitHub84.md) | [第 83 号](/content/HelloGitHub83.md) | [第 82 号](/content/HelloGitHub82.md) | [第 81 号](/content/HelloGitHub81.md) |
-| [第 80 号](/content/HelloGitHub80.md) | [第 79 号](/content/HelloGitHub79.md) | [第 78 号](/content/HelloGitHub78.md) | [第 77 号](/content/HelloGitHub77.md) | [第 76 号](/content/HelloGitHub76.md) |
 
 
 ## ライセンス

@@ -112,7 +112,7 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/99/372046384.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[pouchdb](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pouchdb/pouchdb)：开源的 JavaScript 数据库。该项目是用 JavaScript 编写、运行在浏览器里的 NoSQL 数据库，它能够在离线状态下将数据存储至本地，并在网络恢复后自动同步数据，保持数据与服务器同步。
+16、[pouchdb](https://hellogithub.com/periodical/statistics/click?target=https://github.com/apache/pouchdb)：开源的 JavaScript 数据库。该项目是用 JavaScript 编写、运行在浏览器里的 NoSQL 数据库，它能够在离线状态下将数据存储至本地，并在网络恢复后自动同步数据，保持数据与服务器同步。
 ```javascript
 var db = new PouchDB('dbname');
 

@@ -79,7 +79,7 @@ nix-env -iA nixpkgs.charm-freeze
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/22165604.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript
-14、[cmdk](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pacocoursey/cmdk)：Fast, Style-agnostic Command Menu React Component. This project enables developers to easily implement an intuitive and function-rich command menu, similar to the interactive menu invoked by the ⌘K shortcut, thereby enhancing the user's interactive experience and suitable for a variety of web applications.Shared by [@Daaihang Wong](https://hellogithub.com/en/user/G8ft6na1FH03KEW)
+14、[cmdk](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/dip/cmdk)：Fast, Style-agnostic Command Menu React Component. This project enables developers to easily implement an intuitive and function-rich command menu, similar to the interactive menu invoked by the ⌘K shortcut, thereby enhancing the user's interactive experience and suitable for a variety of web applications.Shared by [@Daaihang Wong](https://hellogithub.com/en/user/G8ft6na1FH03KEW)
 ```typescript
 import { Command } from 'cmdk'
 

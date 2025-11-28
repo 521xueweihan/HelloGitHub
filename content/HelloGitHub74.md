@@ -282,7 +282,7 @@ xonsh：xxh anyhost +s xonsh
 37、[A-Programmers-Guide-to-English](https://hellogithub.com/periodical/statistics/click?target=https://github.com/yujiangshui/A-Programmers-Guide-to-English)：专为程序员编写的英语学习指南。一位程序员提升英语水平的实践经验分享，还有相关训练方法和用到的工具，[点击查看](https://a-programmers-guide-to-english.harryyu.me/)
 
 
-38、[code996](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hellodigua/code996)：根据 git 的提交时间推断工作强度的工具。通过分析 git 提交记录，得出是否加班、工作强度的可视化图表的工具
+38、[code996-web](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hellodigua/code996-web)：根据 git 的提交时间推断工作强度的工具。通过分析 git 提交记录，得出是否加班、工作强度的可视化图表的工具
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/429520684.png' style="max-width:80%; max-height=80%;"></img></p>

@@ -23,7 +23,7 @@
 ### C 项目
 1、[linked-list-good-taste](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mkirchner/linked-list-good-taste)：Linus Torvalds 解释编码品味的链表论证。在 2016 年的 TED 访谈中，Linus Torvalds 谈到了他认为好的编码品味，并举了一个例子：在单向链表中移除项目的两种实现。为了从链表中删除第一项，其中一个实现需要处理特殊情况，而另一个则不需要，Linus 更喜欢后者。
 
-2、[rpi4-osdev](https://hellogithub.com/periodical/statistics/click?target=https://github.com/babbleberry/rpi4-osdev)：为树莓派 4 编写操作系统的教程。这是一份 RealVNC 的 CTO 在树莓派 4 裸机上，编写操作系统的教程。内容分为 15 个章节，每章完成操作系统的一个部分，并提供了源码和讲解。来自 [@刘三非](https://hellogithub.com/user/VhrXCAs7cMxL08W) 的分享
+2、[rpi4-osdev](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sypstraw/rpi4-osdev)：为树莓派 4 编写操作系统的教程。这是一份 RealVNC 的 CTO 在树莓派 4 裸机上，编写操作系统的教程。内容分为 15 个章节，每章完成操作系统的一个部分，并提供了源码和讲解。来自 [@刘三非](https://hellogithub.com/user/VhrXCAs7cMxL08W) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/279028703.jpg' style="max-width:80%; max-height=80%;"></img></p>
 

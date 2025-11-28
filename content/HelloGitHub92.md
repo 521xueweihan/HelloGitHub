@@ -196,7 +196,7 @@ print(model(img))
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/589831718.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[dvc](https://hellogithub.com/periodical/statistics/click?target=https://github.com/iterative/dvc)：一款针对 AI 项目的数据版本管理工具。基于 Git 的数据版本管理工具，版本化机器学习项目的数据和模型。可用于比较代码、数据、参数、模型或性能图，共享机器学习项目的数据或重现结果。
+32、[dvc](https://hellogithub.com/periodical/statistics/click?target=https://github.com/treeverse/dvc)：一款针对 AI 项目的数据版本管理工具。基于 Git 的数据版本管理工具，版本化机器学习项目的数据和模型。可用于比较代码、数据、参数、模型或性能图，共享机器学习项目的数据或重现结果。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/83878269.gif' style="max-width:80%; max-height=80%;"></img></p>
 

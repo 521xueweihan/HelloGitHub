@@ -189,7 +189,7 @@ print(model(img))
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/589831718.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[dvc](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/iterative/dvc)：A Data Version Management Tool for AI Projects. A Git-based tool for versioning the data and models of machine learning projects. It can be used to compare code, data, parameters, models, or performance charts, and to share data of machine learning projects or replicate results.
+32、[dvc](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/treeverse/dvc)：A Data Version Management Tool for AI Projects. A Git-based tool for versioning the data and models of machine learning projects. It can be used to compare code, data, parameters, models, or performance charts, and to share data of machine learning projects or replicate results.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/83878269.gif' style="max-width:80%; max-height=80%;"></img></p>
 

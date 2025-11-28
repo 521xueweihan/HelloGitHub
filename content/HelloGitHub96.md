@@ -169,7 +169,7 @@ XXH32_hash_t hash_string(const char* string, XXH32_hash_t seed)
 
 33、[generative-ai-for-beginners](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/generative-ai-for-beginners)：面向初学者的生成式人工智能教程。这是由微软开源的面向初学者的生成式 AI 免费课程，课程共 18 节，涵盖了创建生成式 AI 应用所需要了解的一切，包括生成式 AI 和 LLMs 的简介、提示词、构建文本生成应用、聊天应用、图像生成应用、向量数据库等方面的内容。
 
-34、[jan](https://hellogithub.com/periodical/statistics/click?target=https://github.com/menloresearch/jan)：一站式体验 LLMs 的桌面应用。这是一个支持在本地运行开源 LLMs 和连接 ChatGPT 服务的 AI 对话桌面应用，它开箱即用、界面清爽、不挑硬件，支持设置代理、接入 ChatGPT、一键下载/接入适配当前电脑配置的大模型、离线运行等功能，适用于 Windows、Linux、macOS 操作系统。
+34、[jan](https://hellogithub.com/periodical/statistics/click?target=https://github.com/janhq/jan)：一站式体验 LLMs 的桌面应用。这是一个支持在本地运行开源 LLMs 和连接 ChatGPT 服务的 AI 对话桌面应用，它开箱即用、界面清爽、不挑硬件，支持设置代理、接入 ChatGPT、一键下载/接入适配当前电脑配置的大模型、离线运行等功能，适用于 Windows、Linux、macOS 操作系统。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/679506386.png' style="max-width:80%; max-height=80%;"></img></p>
 

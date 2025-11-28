@@ -168,7 +168,7 @@ print(bond_df)
 24、[devops-exercises](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/bregman-arie/devops-exercises)：这个仓库包含了 DevOps（开发运维）常见、流行服务相关的面试问题和回答，推荐给从事运维的同学
 
 
-25、[myflow](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/nikivdev/myflow)：该项目罗列了作者自用、收集的 macOS 上实用、炫酷的软件。我从中找到好几个炫酷、实用提高工作的工具，你也赶快来挑挑吧
+25、[flow](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/nikivdev/flow)：该项目罗列了作者自用、收集的 macOS 上实用、炫酷的软件。我从中找到好几个炫酷、实用提高工作的工具，你也赶快来挑挑吧
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/53133861.png' style="max-width:80%; max-height=80%;"></img></p>
