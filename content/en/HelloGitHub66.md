@@ -276,7 +276,7 @@ static void take_gil(PyThreadState *tstate)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/241270996.png' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[yabai](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/koekeishiya/yabai)：适用于 macOS 的平铺式窗口管理器。该工具可以轻松实现窗口平铺不重叠，不用鼠标仅通过键盘移动、调整、切换、全屏、自动布局等管理窗口的操作
+37、[yabai](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/asmvik/yabai)：适用于 macOS 的平铺式窗口管理器。该工具可以轻松实现窗口平铺不重叠，不用鼠标仅通过键盘移动、调整、切换、全屏、自动布局等管理窗口的操作
 - `Control+Option+A/D`：激活 平铺/浮动 模式
 - `Option+h/j/k/l`：使 左/下/上/右 侧窗口成为活动窗口
 - `Shift+Option+h/j/k/l`：向 左/下/上/右 移动当前活动窗口

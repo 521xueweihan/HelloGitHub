@@ -121,7 +121,7 @@ const MyCodeLoader = () => <Code />
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/79509385.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[Sink](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ccbikai/Sink)：基于 Cloudflare 带访问统计的短链平台。该项目是运行在 Cloudflare 上的短链接服务，支持网址缩短、访问分析和链接有效期等功能。来自 [@面条](https://hellogithub.com/user/qi74Zp23wYKeAVB) 的分享
+17、[Sink](https://hellogithub.com/periodical/statistics/click?target=https://github.com/miantiao-me/Sink)：基于 Cloudflare 带访问统计的短链平台。该项目是运行在 Cloudflare 上的短链接服务，支持网址缩短、访问分析和链接有效期等功能。来自 [@面条](https://hellogithub.com/user/qi74Zp23wYKeAVB) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/796284842.png' style="max-width:80%; max-height=80%;"></img></p>
 

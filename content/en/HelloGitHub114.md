@@ -266,7 +266,7 @@ whisperlivekit-server --host 0.0.0.0 --port 80 --model medium --diarization --la
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/114/905697354.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Other
-34、[balatro-gba](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/cellos51/balatro-gba)：Annual Poker Masterpiece GBA Port.This is a project to port the game 'Balatro' to the GBA platform. To protect the game copyright, this project only provides a simplified version of 'Balatro' and will not fully restore the original content. Users need to build the ROM file by themselves.
+34、[balatro-gba](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/GBALATRO/balatro-gba)：Annual Poker Masterpiece GBA Port.This is a project to port the game 'Balatro' to the GBA platform. To protect the game copyright, this project only provides a simplified version of 'Balatro' and will not fully restore the original content. Users need to build the ROM file by themselves.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/114/925448611.png' style="max-width:80%; max-height=80%;"></img></p>
 

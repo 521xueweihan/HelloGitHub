@@ -119,7 +119,7 @@ int main(int argc, char *argv[]) {
 13、[guava](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/google/guava)：Google 开源的 Java 三方类库。该库提供包括集合、I/O、缓存、并发等开箱即用的工具方法，任何的 Java 应用都可以通过依赖的方式引入该项目。作为 Google 的开源项目，本身的源码也是非常值得开发者学习
 
 
-14、[Mybatis-PageHelper](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pagehelper/Mybatis-PageHelper)：MyBatis 通用分页插件，[使用方法](https://github.com/pagehelper/Mybatis-PageHelper/blob/master/wikis/zh/HowToUse.md)
+14、[Mybatis-PageHelper](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pagehelper-org/Mybatis-PageHelper)：MyBatis 通用分页插件，[使用方法](https://github.com/pagehelper/Mybatis-PageHelper/blob/master/wikis/zh/HowToUse.md)
 
 
 ### JavaScript

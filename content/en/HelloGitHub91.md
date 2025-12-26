@@ -27,7 +27,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/3299208.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C#
-4、[Borderless-Gaming](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Codeusa/Borderless-Gaming)：Universal Game Full-Screen Tool. A window optimization tool specifically developed for games that can enable full-screen support for games that do not originally support it. It features a clean interface and is easy to use, supporting one-click full-screen and restoration, suitable for the Windows operating system.
+4、[Borderless-Gaming](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/andrewmd5/Borderless-Gaming)：Universal Game Full-Screen Tool. A window optimization tool specifically developed for games that can enable full-screen support for games that do not originally support it. It features a clean interface and is easy to use, supporting one-click full-screen and restoration, suitable for the Windows operating system.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/15819024.jpg' style="max-width:80%; max-height=80%;"></img></p>
 

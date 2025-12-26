@@ -34,7 +34,7 @@
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/3299208.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C# 项目
-4、[Borderless-Gaming](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Codeusa/Borderless-Gaming)：通用的游戏全屏工具。一款专门为游戏开发的窗口优化工具，能够将原本不支持全屏的游戏全屏化。它界面简洁、使用方便，支持一键全屏和恢复，适用于 Windows 系统。
+4、[Borderless-Gaming](https://hellogithub.com/periodical/statistics/click?target=https://github.com/andrewmd5/Borderless-Gaming)：通用的游戏全屏工具。一款专门为游戏开发的窗口优化工具，能够将原本不支持全屏的游戏全屏化。它界面简洁、使用方便，支持一键全屏和恢复，适用于 Windows 系统。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/91/15819024.jpg' style="max-width:80%; max-height=80%;"></img></p>
 

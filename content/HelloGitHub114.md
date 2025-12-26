@@ -273,7 +273,7 @@ whisperlivekit-server --host 0.0.0.0 --port 80 --model medium --diarization --la
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/114/905697354.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
-34、[balatro-gba](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cellos51/balatro-gba)：年度扑克神作 GBA 移植版。这是一个将游戏《小丑牌》（Balatro）移植到 GBA 平台的项目。为保护游戏版权，该项目仅提供简化版的《Balatro》，不会完整还原原作内容，且需要用户自行构建 ROM 文件。
+34、[balatro-gba](https://hellogithub.com/periodical/statistics/click?target=https://github.com/GBALATRO/balatro-gba)：年度扑克神作 GBA 移植版。这是一个将游戏《小丑牌》（Balatro）移植到 GBA 平台的项目。为保护游戏版权，该项目仅提供简化版的《Balatro》，不会完整还原原作内容，且需要用户自行构建 ROM 文件。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/114/925448611.png' style="max-width:80%; max-height=80%;"></img></p>
 

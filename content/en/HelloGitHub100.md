@@ -114,7 +114,7 @@ const MyCodeLoader = () => <Code />
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/79509385.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[Sink](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ccbikai/Sink)：Cloudflare-based Short Link Platform with Access Statistics. This project is a short link service operating on Cloudflare, supporting features such as URL shortening, access analysis, and link expiration dates.Shared by [@面条](https://hellogithub.com/en/user/qi74Zp23wYKeAVB)
+17、[Sink](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/miantiao-me/Sink)：Cloudflare-based Short Link Platform with Access Statistics. This project is a short link service operating on Cloudflare, supporting features such as URL shortening, access analysis, and link expiration dates.Shared by [@面条](https://hellogithub.com/en/user/qi74Zp23wYKeAVB)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/100/796284842.png' style="max-width:80%; max-height=80%;"></img></p>
 
