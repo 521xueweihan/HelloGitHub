@@ -1,0 +1,82 @@
+name: Auto-Sync and Notify
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Run every 6 hours
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  sync_and_notify:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to push changes
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }} # Use default token
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Configure Git
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+
+      - name: Sync with Upstream
+        env:
+          UPSTREAM_URL: "https://github.com/521xueweihan/HelloGitHub.git"
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+        run: |
+          # Add upstream remote
+          git remote add upstream $UPSTREAM_URL
+          git fetch upstream master
+
+          # Check for new content files in upstream compared to local
+          # We look for files in content/ directory that differ or are new
+          
+          # Get the list of new commits in upstream not in local master
+          NEW_COMMITS=$(git log HEAD..upstream/master --oneline)
+          
+          if [ -z "$NEW_COMMITS" ]; then
+            echo "No new commits from upstream."
+            exit 0
+          fi
+          
+          echo "Found new commits in upstream. Syncing..."
+          
+          # Merge upstream changes
+          git merge upstream/master --no-edit
+          
+          # Detect changed markdown files in the latest merge
+          # We check the difference between the state before merge (old HEAD) and now
+          # But since we just merged, 'HEAD^' might be complex if it was a fast-forward.
+          # A improved way: Get files changed in the commits we just merged.
+          
+          CHANGED_FILES=$(git diff --name-only HEAD@{1} HEAD | grep "content/HelloGitHub.*\.md" || true)
+          
+          if [ -n "$CHANGED_FILES" ]; then
+            echo "Detected new content files: $CHANGED_FILES"
+            
+            # Push the changes to the fork
+            git push origin master
+            
+            # Send notifications
+            for file in $CHANGED_FILES; do
+               if [ -f "$file" ]; then
+                 echo "Sending notification for $file..."
+                 python script/notify_feishu.py "$file"
+               fi
+            done
+          else
+             echo "Synced updates, but no specific 'content/HelloGitHub*.md' files were changed."
+             # Still push the sync to keep repo up to date
+             git push origin master
+          fi
