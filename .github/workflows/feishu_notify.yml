@@ -1,0 +1,49 @@
+name: Feishu Notification
+
+on:
+  push:
+    paths:
+      - 'content/HelloGitHub*.md'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Get changed files and notify
+        env:
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+        run: |
+          # Detect changed text files
+          if [ -z "${{ github.event.before }}" ]; then
+             # Handle initial push or cases where before is empty (though rare in existing repos)
+             files=$(git diff --name-only HEAD~1 HEAD | grep "content/HelloGitHub.*\.md" || true)
+          else
+             files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep "content/HelloGitHub.*\.md" || true)
+          fi
+
+          if [ -z "$files" ]; then
+            echo "No relevant files changed."
+            exit 0
+          fi
+          
+          for file in $files; do
+            if [ -f "$file" ]; then
+              echo "Sending notification for $file..."
+              python script/notify_feishu.py "$file"
+            else
+              echo "File $file was deleted or does not exist."
+            fi
+          done
