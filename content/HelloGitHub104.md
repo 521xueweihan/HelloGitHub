@@ -86,7 +86,7 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/104/365300077.png' style="max-width:80%; max-height=80%;"></img></p>
 
-13、[wanderer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Flomp/wanderer)：开源的探险轨迹记录与分享平台。该项目是用于记录和管理用户的户外探险轨迹的 Web 平台，帮助你保存珍贵的行程数据。它采用 Go+Svelte 开发，提供上传、保存、查看（多种视图）和分享冒险轨迹的功能，并支持自托管。
+13、[wanderer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/open-wanderer/wanderer)：开源的探险轨迹记录与分享平台。该项目是用于记录和管理用户的户外探险轨迹的 Web 平台，帮助你保存珍贵的行程数据。它采用 Go+Svelte 开发，提供上传、保存、查看（多种视图）和分享冒险轨迹的功能，并支持自托管。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/104/749092533.png' style="max-width:80%; max-height=80%;"></img></p>
 

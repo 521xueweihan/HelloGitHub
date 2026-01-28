@@ -37,7 +37,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/111/979241345.png' style="max-width:80%; max-height=80%;"></img></p>
 
-5、[Speedy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/game1024/Speedy)：开箱即用的游戏变速器。这是一款完全免费、开源的 Windows 游戏加速工具。它通过 Hook 系统时间函数，实现对游戏速度的灵活调节，并提供简单易用的界面，兼容多种单机游戏。请勿用于网络游戏，以免导致账号被封！来自 [@game1024](https://hellogithub.com/user/kmUCncHJr9SpNV7) 的分享
+5、[OpenSpeedy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/game1024/OpenSpeedy)：开箱即用的游戏变速器。这是一款完全免费、开源的 Windows 游戏加速工具。它通过 Hook 系统时间函数，实现对游戏速度的灵活调节，并提供简单易用的界面，兼容多种单机游戏。请勿用于网络游戏，以免导致账号被封！来自 [@game1024](https://hellogithub.com/user/kmUCncHJr9SpNV7) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/111/984862298.gif' style="max-width:80%; max-height=80%;"></img></p>
 

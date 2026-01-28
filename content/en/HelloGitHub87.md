@@ -164,7 +164,7 @@ public class BasicGameApp extends GameApplication {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/488069222.png' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[edx-platform](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/openedx/edx-platform)：Open Source MOOC Platform Built with Django. This project is a Massive Open Online Course (MOOC) platform jointly open-sourced by MIT and Harvard University. It provides content management and learning management services. The platform supports online lectures, course creation, previewing before publishing, content libraries, student feedback, exams, and other functions. Although it is rich in features, the interface is quite rudimentary.
+23、[openedx-platform](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/openedx/openedx-platform)：Open Source MOOC Platform Built with Django. This project is a Massive Open Online Course (MOOC) platform jointly open-sourced by MIT and Harvard University. It provides content management and learning management services. The platform supports online lectures, course creation, previewing before publishing, content libraries, student feedback, exams, and other functions. Although it is rich in features, the interface is quite rudimentary.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/10391073.png' style="max-width:80%; max-height=80%;"></img></p>
 

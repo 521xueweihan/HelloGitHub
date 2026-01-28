@@ -128,7 +128,7 @@ pres.writeFile();
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/52322425.png' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[Reactive-Resume](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/AmruthPillai/Reactive-Resume)：Free and Open-Source Resume Design Platform. This is a free, open-source, and ad-free online resume creation platform that comes with 12 professional resume templates, supports multiple languages, PDF export, and OpenAI integration.
+17、[reactive-resume](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/amruthpillai/reactive-resume)：Free and Open-Source Resume Design Platform. This is a free, open-source, and ad-free online resume creation platform that comes with 12 professional resume templates, supports multiple languages, PDF export, and OpenAI integration.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/249995750.jpg' style="max-width:80%; max-height=80%;"></img></p>
 

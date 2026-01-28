@@ -70,7 +70,7 @@ fmt.Printf("This was touched %s.", humanize.Time(someTimeInstance)) // This was 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/789247155.png' style="max-width:80%; max-height=80%;"></img></p>
 
-10、[micro](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zyedidia/micro)：现代化的终端文本编辑器。这个项目是用 Go 写的基于终端的文本编辑器，可作为 Nano 的替代品。它下载即用、无需配置、跨平台，支持多光标编辑、语法高亮、鼠标、插件扩展等功能，特别适合在 SSH 远程连接服务器时进行文本编辑工作。
+10、[micro](https://hellogithub.com/periodical/statistics/click?target=https://github.com/micro-editor/micro)：现代化的终端文本编辑器。这个项目是用 Go 写的基于终端的文本编辑器，可作为 Nano 的替代品。它下载即用、无需配置、跨平台，支持多光标编辑、语法高亮、鼠标、插件扩展等功能，特别适合在 SSH 远程连接服务器时进行文本编辑工作。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/53632140.png' style="max-width:80%; max-height=80%;"></img></p>
 

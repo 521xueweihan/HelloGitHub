@@ -171,7 +171,7 @@ public class BasicGameApp extends GameApplication {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/488069222.png' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[edx-platform](https://hellogithub.com/periodical/statistics/click?target=https://github.com/openedx/edx-platform)：Django 写的开源慕课平台。该项目是由麻省理工和哈佛大学联合开源的大规模开放式在线课堂(MOOC)平台，它提供了内容管理和学习管理服务。该平台支持在线讲课、创建课程、发布前预览、内容库、学生反馈、考试等功能。虽然它功能丰富，但界面十分简陋。
+23、[openedx-platform](https://hellogithub.com/periodical/statistics/click?target=https://github.com/openedx/openedx-platform)：Django 写的开源慕课平台。该项目是由麻省理工和哈佛大学联合开源的大规模开放式在线课堂(MOOC)平台，它提供了内容管理和学习管理服务。该平台支持在线讲课、创建课程、发布前预览、内容库、学生反馈、考试等功能。虽然它功能丰富，但界面十分简陋。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/10391073.png' style="max-width:80%; max-height=80%;"></img></p>
 

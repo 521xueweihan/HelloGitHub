@@ -143,7 +143,7 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/135614069.png' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[super-productivity](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/johannesjo/super-productivity)：An Advanced To-Do List Application. Super Productivity is an advanced TODO application developed with TypeScript, designed to help users plan tasks and manage to-do items, fostering healthy and efficient habits. It is open-source, free, requires no registration, and supports integration with third-party platforms such as Jira, GitHub, GitLab, etc., to receive notifications of task changes in real-time. In addition to the web version accessible online, it also provides clients for Windows, Linux, macOS, iOS, and Android.
+18、[super-productivity](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/super-productivity/super-productivity)：An Advanced To-Do List Application. Super Productivity is an advanced TODO application developed with TypeScript, designed to help users plan tasks and manage to-do items, fostering healthy and efficient habits. It is open-source, free, requires no registration, and supports integration with third-party platforms such as Jira, GitHub, GitLab, etc., to receive notifications of task changes in real-time. In addition to the web version accessible online, it also provides clients for Windows, Linux, macOS, iOS, and Android.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/78243781.png' style="max-width:80%; max-height=80%;"></img></p>
 

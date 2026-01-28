@@ -65,13 +65,13 @@ int main(int argc, char **argv) {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/951665915.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C++ 项目
-5、[LunaTranslator](https://hellogithub.com/periodical/statistics/click?target=https://github.com/HIllya51/LunaTranslator)：开源的视觉小说翻译工具。这是一款专为 Windows 平台设计的视觉小说（Galgame）翻译器，支持 HOOK、OCR、剪贴板等多种文本提取方式，可灵活切换，并提供在线翻译、离线翻译、语音合成等功能。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/542386106.png' style="max-width:80%; max-height=80%;"></img></p>
-
-6、[mcpp-standard](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Sunrisepeak/mcpp-standard)：动手学现代 C++ 语言特性。这是一套完全开源的现代 C++ 语言特性互动教程。它把 C++11 的核心语言特性（如类型自动推导、移动语义等），拆成可运行的迷你练习，通过自研的 xlings 工具，实现一键安装依赖和实时判题等功能。
+5、[d2mcpp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mcpp-community/d2mcpp)：动手学现代 C++ 语言特性。这是一套完全开源的现代 C++ 语言特性互动教程。它把 C++11 的核心语言特性（如类型自动推导、移动语义等），拆成可运行的迷你练习，通过自研的 xlings 工具，实现一键安装依赖和实时判题等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/964948225.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+6、[LunaTranslator](https://hellogithub.com/periodical/statistics/click?target=https://github.com/HIllya51/LunaTranslator)：开源的视觉小说翻译工具。这是一款专为 Windows 平台设计的视觉小说（Galgame）翻译器，支持 HOOK、OCR、剪贴板等多种文本提取方式，可灵活切换，并提供在线翻译、离线翻译、语音合成等功能。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/542386106.png' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[WindowsAppSDK](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/WindowsAppSDK)：为旧桌面应用注入新活力的 SDK。该项目是微软官方开源的 Windows 桌面应用开发组件和工具集，旨在帮助传统的 Win32、WPF、WinForms 等应用，轻松集成最新的 Windows UI 和平台功能。只需引入一个 NuGet 包，就能为原应用引入更美观的 UI 和推送通知、窗口圆角等功能。
 

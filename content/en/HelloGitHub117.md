@@ -138,6 +138,8 @@ writeFileSync('output.pdf', doc.build())
 ### Rust
 26、[check-if-email-exists](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/reacherhq/check-if-email-exists)：Tool for Email Validation Without Sending Emails.This is an email validation tool developed in Rust. It applies multiple checks such as regular expressions, DNS, and SMTP to verify email validity without sending emails, and supports usage methods like API and CLI, etc.
 
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/117/89359792.png' style="max-width:80%; max-height=80%;"></img></p>
+
 27、[hl](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pamburus/hl)：High-Performance Command-Line Log Viewer in Rust.This is a high-performance command-line log viewer and processor written in Rust, which can convert structured logs in JSON and logfmt formats into highlighted and human-readable formats.Shared by [@刘睿华](https://hellogithub.com/en/user/TJ65FfbQU09PLHM)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/117/284906876.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -224,7 +226,7 @@ print(f"Reason: {score.reason}")
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub116.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | 『Next』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub116.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub118.md">『Next』</a>
 </p>
 
 ---

@@ -231,7 +231,7 @@ async fn main() -> Result<(), sqlx::Error> {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/552661142.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[LLaMA-Factory](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hiyouga/LLaMA-Factory)：Framework for Fine-tuning Large Language Models. This is an open-source project that makes fine-tuning large language models easy. It supports various models such as LLaMA, Mistral, and ChatGLM, as well as features like incremental pre-training, reward model training, and precision levels. It introduces advanced algorithms and practical fine-tuning techniques, while also providing convenient monitoring tools to help users track the progress of their experiments.
+31、[LlamaFactory](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hiyouga/LlamaFactory)：Framework for Fine-tuning Large Language Models. This is an open-source project that makes fine-tuning large language models easy. It supports various models such as LLaMA, Mistral, and ChatGLM, as well as features like incremental pre-training, reward model training, and precision levels. It introduces advanced algorithms and practical fine-tuning techniques, while also providing convenient monitoring tools to help users track the progress of their experiments.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/646410686.png' style="max-width:80%; max-height=80%;"></img></p>
 

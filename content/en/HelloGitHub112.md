@@ -58,13 +58,13 @@ int main(int argc, char **argv) {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/951665915.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C++
-5、[LunaTranslator](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/HIllya51/LunaTranslator)：Open-source Visual Novel Translation Tool.This is a visual novel (Galgame) translator designed specifically for the Windows platform. It supports multiple text extraction methods such as HOOK, OCR, and clipboard, which can be switched flexibly. It also provides functions such as online translation, offline translation, and speech synthesis.
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/542386106.png' style="max-width:80%; max-height=80%;"></img></p>
-
-6、[mcpp-standard](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Sunrisepeak/mcpp-standard)：Hands-on Learning of Modern C++ Language Features.This is a completely open-source interactive tutorial on modern C++ language features. It breaks down the core language features of C++11 (such as type deduction, move semantics, etc.) into runnable mini-exercises. Through the self-developed xlings tool, it realizes functions such as one-click installation of dependencies and real-time judgment of questions.
+5、[d2mcpp](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mcpp-community/d2mcpp)：Hands-on Learning of Modern C++ Language Features.This is a completely open-source interactive tutorial on modern C++ language features. It breaks down the core language features of C++11 (such as type deduction, move semantics, etc.) into runnable mini-exercises. Through the self-developed xlings tool, it realizes functions such as one-click installation of dependencies and real-time judgment of questions.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/964948225.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+6、[LunaTranslator](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/HIllya51/LunaTranslator)：Open-source Visual Novel Translation Tool.This is a visual novel (Galgame) translator designed specifically for the Windows platform. It supports multiple text extraction methods such as HOOK, OCR, and clipboard, which can be switched flexibly. It also provides functions such as online translation, offline translation, and speech synthesis.
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/112/542386106.png' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[WindowsAppSDK](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/microsoft/WindowsAppSDK)：SDK to Infuse New Vitality into Old Desktop Applications.This project is an official open-source Windows desktop application development component and toolkit by Microsoft, aiming to assist traditional Win32, WPF, WinForms, etc. applications in easily integrating the latest Windows UI and platform features. Just by introducing a NuGet package, it can bring more beautiful UI and features such as push notifications and rounded windows to the original application.
 

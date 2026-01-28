@@ -185,7 +185,7 @@ print(model(img))
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/132975485.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[ComfyUI](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/comfyanonymous/ComfyUI)：AI Drawing Interface Based on Node-based Workflow. This project breaks down the Stable Diffusion process into multiple nodes and allows the construction of a workflow from image generation to processing by dragging and dropping various nodes. It supports versions 1.x and 2.x of Stable Diffusion, combining various models, and generating complete workflows based on PNG images.
+31、[ComfyUI](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Comfy-Org/ComfyUI)：AI Drawing Interface Based on Node-based Workflow. This project breaks down the Stable Diffusion process into multiple nodes and allows the construction of a workflow from image generation to processing by dragging and dropping various nodes. It supports versions 1.x and 2.x of Stable Diffusion, combining various models, and generating complete workflows based on PNG images.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/589831718.png' style="max-width:80%; max-height=80%;"></img></p>
 

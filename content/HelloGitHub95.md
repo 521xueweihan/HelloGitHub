@@ -150,7 +150,7 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/135614069.png' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[super-productivity](https://hellogithub.com/periodical/statistics/click?target=https://github.com/johannesjo/super-productivity)：一款先进的待办事项列表应用。超级生产力是一款用 TypeScript 开发的高级 TODO 应用，旨在帮助用户规划任务和管理待办事项，培养健康高效的习惯。它开源、免费、无需注册，支持与 Jira、GitHub、GitLab 等第三方平台集成，可即时收到任务变动的通知。除了可在线使用的 Web 网页版，还提供了 Windows、Linux、macOS、iOS 和 Android 客户端。
+18、[super-productivity](https://hellogithub.com/periodical/statistics/click?target=https://github.com/super-productivity/super-productivity)：一款先进的待办事项列表应用。超级生产力是一款用 TypeScript 开发的高级 TODO 应用，旨在帮助用户规划任务和管理待办事项，培养健康高效的习惯。它开源、免费、无需注册，支持与 Jira、GitHub、GitLab 等第三方平台集成，可即时收到任务变动的通知。除了可在线使用的 Web 网页版，还提供了 Windows、Linux、macOS、iOS 和 Android 客户端。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/78243781.png' style="max-width:80%; max-height=80%;"></img></p>
 

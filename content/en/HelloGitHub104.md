@@ -79,7 +79,7 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/104/365300077.png' style="max-width:80%; max-height=80%;"></img></p>
 
-13、[wanderer](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Flomp/wanderer)：Open-source Expedition Tracking and Sharing Platform. This project is a Web platform for recording and managing users' outdoor adventure tracks, helping you save precious journey data. It is developed with Go+Svelte, offering features such as upload, save, view (multiple views), and sharing of adventure tracks, and supports self-hosting.
+13、[wanderer](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/open-wanderer/wanderer)：Open-source Expedition Tracking and Sharing Platform. This project is a Web platform for recording and managing users' outdoor adventure tracks, helping you save precious journey data. It is developed with Go+Svelte, offering features such as upload, save, view (multiple views), and sharing of adventure tracks, and supports self-hosting.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/104/749092533.png' style="max-width:80%; max-height=80%;"></img></p>
 

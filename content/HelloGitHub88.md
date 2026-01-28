@@ -295,7 +295,7 @@ async def on_hello_world(msg: HelloWorld):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/326441188.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[SoftwareArchitect](https://hellogithub.com/periodical/statistics/click?target=https://github.com/justinamiller/SoftwareArchitect)：通往架构师之路。这是一份教你如何成为架构师的学习指南。
+37、[SoftwareArchitect](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ntegrals/SoftwareArchitect)：通往架构师之路。这是一份教你如何成为架构师的学习指南。
 
 ### 开源书籍
 38、[Book4_Power-of-Matrix](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Visualize-ML/Book4_Power-of-Matrix)：《矩阵力量》。该书介绍了向量、矩阵、向量空间、矩阵分解、微积分、空间几何等知识，内含全彩图解和 Python 示例代码。

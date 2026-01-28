@@ -30,7 +30,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/111/979241345.png' style="max-width:80%; max-height=80%;"></img></p>
 
-5、[Speedy](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/game1024/Speedy)：Ready-to-use Game Shifter.This is a completely free and open-source Windows game acceleration tool. It achieves flexible adjustment of game speed by hooking the system time function and provides a simple and easy-to-use interface, compatible with multiple single-player games. Do not use it in online games to avoid account suspension!Shared by [@game1024](https://hellogithub.com/en/user/kmUCncHJr9SpNV7)
+5、[OpenSpeedy](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/game1024/OpenSpeedy)：Ready-to-use Game Shifter.This is a completely free and open-source Windows game acceleration tool. It achieves flexible adjustment of game speed by hooking the system time function and provides a simple and easy-to-use interface, compatible with multiple single-player games. Do not use it in online games to avoid account suspension!Shared by [@game1024](https://hellogithub.com/en/user/kmUCncHJr9SpNV7)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/111/984862298.gif' style="max-width:80%; max-height=80%;"></img></p>
 

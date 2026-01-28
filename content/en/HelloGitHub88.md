@@ -288,7 +288,7 @@ async def on_hello_world(msg: HelloWorld):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/326441188.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[SoftwareArchitect](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/justinamiller/SoftwareArchitect)：The Path to Becoming an Architect. This is a learning guide on how to become an architect.
+37、[SoftwareArchitect](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ntegrals/SoftwareArchitect)：The Path to Becoming an Architect. This is a learning guide on how to become an architect.
 
 ### Book
 38、[Book4_Power-of-Matrix](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Visualize-ML/Book4_Power-of-Matrix)：The Power of Matrices. This book introduces concepts such as vectors, matrices, vector spaces, matrix decomposition, calculus, and spatial geometry, complete with full-color illustrations and Python example code.

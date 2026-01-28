@@ -238,7 +238,7 @@ async fn main() -> Result<(), sqlx::Error> {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/552661142.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[LLaMA-Factory](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hiyouga/LLaMA-Factory)：专门针对 LLM 做微调的框架。这是一个让微调大型语言模型变得轻松的开源项目，它支持 LLaMA、Mistral、ChatGLM 等多种模型，以及增量预训练、奖励模型训练和精度等级等功能。引入了先进的算法和实用的微调技巧，同时提供了便捷的监控工具，方便用户追踪实验进度。
+31、[LlamaFactory](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hiyouga/LlamaFactory)：专门针对 LLM 做微调的框架。这是一个让微调大型语言模型变得轻松的开源项目，它支持 LLaMA、Mistral、ChatGLM 等多种模型，以及增量预训练、奖励模型训练和精度等级等功能。引入了先进的算法和实用的微调技巧，同时提供了便捷的监控工具，方便用户追踪实验进度。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/646410686.png' style="max-width:80%; max-height=80%;"></img></p>
 

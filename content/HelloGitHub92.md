@@ -192,7 +192,7 @@ print(model(img))
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/132975485.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[ComfyUI](https://hellogithub.com/periodical/statistics/click?target=https://github.com/comfyanonymous/ComfyUI)：一个基于节点流程的 AI 绘图操作界面。该项目将 Stable Diffusion 流程分成多个节点，通过拖拽各种节点构成图像生成到处理的工作流，支持 Stable Diffusion 1.x 和 2.x 版本、组合各种模型、根据 PNG 图片生成完整的工作流等功能。
+31、[ComfyUI](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Comfy-Org/ComfyUI)：一个基于节点流程的 AI 绘图操作界面。该项目将 Stable Diffusion 流程分成多个节点，通过拖拽各种节点构成图像生成到处理的工作流，支持 Stable Diffusion 1.x 和 2.x 版本、组合各种模型、根据 PNG 图片生成完整的工作流等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/92/589831718.png' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -145,6 +145,8 @@ writeFileSync('output.pdf', doc.build())
 ### Rust 项目
 26、[check-if-email-exists](https://hellogithub.com/periodical/statistics/click?target=https://github.com/reacherhq/check-if-email-exists)：无需发邮件验证邮箱有效性的工具。这是一款用 Rust 开发的邮箱验证工具，通过正则表达式、DNS、SMTP 等多重校验，在不发送邮件的情况下验证邮箱有效性，支持 API 和 CLI 等使用方式。
 
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/117/89359792.png' style="max-width:80%; max-height=80%;"></img></p>
+
 27、[hl](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pamburus/hl)：Rust 高性能命令行日志查看器。这是一款 Rust 写的高性能命令行日志查看和处理工具，能够将 JSON 和 logfmt 格式的结构化日志转换为高亮且易于人类阅读的格式。来自 [@刘睿华](https://hellogithub.com/user/TJ65FfbQU09PLHM) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/117/284906876.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -231,7 +233,7 @@ print(f"Reason: {score.reason}")
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub116.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub116.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub118.md">『下一期』</a>
 </p>
 
 ---

@@ -63,7 +63,7 @@ fmt.Printf("This was touched %s.", humanize.Time(someTimeInstance)) // This was 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/789247155.png' style="max-width:80%; max-height=80%;"></img></p>
 
-10、[micro](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/zyedidia/micro)：Modern Terminal Text Editor. This project is a terminal-based text editor written in Go, which serves as an alternative to Nano. It is ready to use upon download, requires no configuration, and is cross-platform with support for multi-cursor editing, syntax highlighting, mouse operations, plugin extensions, and more, making it especially suitable for text editing tasks when remotely accessing servers via SSH.
+10、[micro](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/micro-editor/micro)：Modern Terminal Text Editor. This project is a terminal-based text editor written in Go, which serves as an alternative to Nano. It is ready to use upon download, requires no configuration, and is cross-platform with support for multi-cursor editing, syntax highlighting, mouse operations, plugin extensions, and more, making it especially suitable for text editing tasks when remotely accessing servers via SSH.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/53632140.png' style="max-width:80%; max-height=80%;"></img></p>
 
