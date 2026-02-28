@@ -199,7 +199,7 @@ tf_fn = ivy.transpile(test_fn, source="torch", target="tensorflow")
 ret = tf_fn(x1)
 ```
 
-28、[meeting-minutes](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Zackriya-Solutions/meeting-minutes)：Open Source AI Meeting Assistant. This is an AI-driven real-time meeting recording and summary generation tool that can be used offline. It is completely free and open source, supporting self-hosting, semantic search, content export, and more, suitable for Windows and macOS platforms.
+28、[meetily](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Zackriya-Solutions/meetily)：Open Source AI Meeting Assistant. This is an AI-driven real-time meeting recording and summary generation tool that can be used offline. It is completely free and open source, supporting self-hosting, semantic search, content export, and more, suitable for Windows and macOS platforms.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/108/908589694.gif' style="max-width:80%; max-height=80%;"></img></p>
 

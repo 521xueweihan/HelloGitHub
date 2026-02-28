@@ -206,7 +206,7 @@ if __name__ == "__main__":
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/972353148.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 人工智能
-29、[LivePortrait](https://hellogithub.com/periodical/statistics/click?target=https://github.com/KlingTeam/LivePortrait)：让静态照片“活”起来。该项目能够通过一张照片快速生成高质量、生动的视频，尤其擅长捕捉和还原面部表情，支持人类和动物肖像的动画生成。
+29、[LivePortrait](https://hellogithub.com/periodical/statistics/click?target=https://github.com/KlingAIResearch/LivePortrait)：让静态照片“活”起来。该项目能够通过一张照片快速生成高质量、生动的视频，尤其擅长捕捉和还原面部表情，支持人类和动物肖像的动画生成。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/823745702.gif' style="max-width:80%; max-height=80%;"></img></p>
 

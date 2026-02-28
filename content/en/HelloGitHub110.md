@@ -199,7 +199,7 @@ if __name__ == "__main__":
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/972353148.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### AI
-29、[LivePortrait](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/KlingTeam/LivePortrait)：Bringing Static Photos to Life.This project can quickly generate high-quality and vivid videos from a single photo. It is especially good at capturing and restoring facial expressions and supports the generation of animations for human and animal portraits.
+29、[LivePortrait](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/KlingAIResearch/LivePortrait)：Bringing Static Photos to Life.This project can quickly generate high-quality and vivid videos from a single photo. It is especially good at capturing and restoring facial expressions and supports the generation of animations for human and animal portraits.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/823745702.gif' style="max-width:80%; max-height=80%;"></img></p>
 

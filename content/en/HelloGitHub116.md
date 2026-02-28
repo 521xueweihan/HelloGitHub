@@ -75,7 +75,7 @@ int main(void) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/652319769.png' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[kite](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/zxh326/kite)：Open Source Lightweight K8s Management Panel.This is a lightweight and modern Kubernetes visual management platform suitable for managing and monitoring K8s clusters. It has an intuitive and easy-to-use interface and supports functions such as viewing Pod logs, executing container commands, editing YAML configurations, and managing user permissions.Shared by [@Zzde](https://hellogithub.com/en/user/w5uk718RFhDzdCX)
+9、[kite](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/kite-org/kite)：Open Source Lightweight K8s Management Panel.This is a lightweight and modern Kubernetes visual management platform suitable for managing and monitoring K8s clusters. It has an intuitive and easy-to-use interface and supports functions such as viewing Pod logs, executing container commands, editing YAML configurations, and managing user permissions.Shared by [@Zzde](https://hellogithub.com/en/user/w5uk718RFhDzdCX)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/1003614809.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -209,7 +209,11 @@ print(f"Result: R17 = {cpu.read_reg(17)}")  # Final Fibonacci number
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/983779325.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### AI
-31、[cognee](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/topoteretes/cognee)：Out-of-the-box Intelligent Agent Memory Engine.This is a Python project specifically designed to provide memory functionality for AI agents. It integrates technologies such as graph databases, knowledge graphs, and vector databases. With just 5 lines of code, it can easily provide persistent and multimodal memory for AI agents, supporting the connection and retrieval of past conversations, documents, image and audio transcripts, etc.
+31、[char](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/fastrepl/char)：Local-first AI Note and Meeting Assistant.This is a locally runnable AI intelligent note and meeting recording application. By integrating Ollama, it can complete voice transcription to summary generation locally. It supports functions such as meeting recording, real-time transcription, note organization and intelligent summary.
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/900550981.png' style="max-width:80%; max-height=80%;"></img></p>
+
+32、[cognee](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/topoteretes/cognee)：Out-of-the-box Intelligent Agent Memory Engine.This is a Python project specifically designed to provide memory functionality for AI agents. It integrates technologies such as graph databases, knowledge graphs, and vector databases. With just 5 lines of code, it can easily provide persistent and multimodal memory for AI agents, supporting the connection and retrieval of past conversations, documents, image and audio transcripts, etc.
 ```python
 import cognee
 import asyncio
@@ -236,17 +240,13 @@ if __name__ == '__main__':
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/679343504.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[droidrun](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/droidrun/droidrun)：Control Your Phone with Natural Language.This is a mobile automation framework based on LLM Agents. It allows you to control Android devices or emulators through natural language. It supports mainstream large models such as DeepSeek, OpenAI, and Gemini. When using it, you need to install DroidRun Portal on your phone to collect UI information and execute operation commands. Then, the information is passed to the DroidRun framework on the computer through ADB. The framework interacts with the LLM and gives execution instructions.
+33、[droidrun](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/droidrun/droidrun)：Control Your Phone with Natural Language.This is a mobile automation framework based on LLM Agents. It allows you to control Android devices or emulators through natural language. It supports mainstream large models such as DeepSeek, OpenAI, and Gemini. When using it, you need to install DroidRun Portal on your phone to collect UI information and execute operation commands. Then, the information is passed to the DroidRun framework on the computer through ADB. The framework interacts with the LLM and gives execution instructions.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/965313467.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[Everywhere](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/DearVa/Everywhere)：Handy AI Desktop Assistant.This is a context-aware desktop AI assistant that can automatically obtain and understand the content on the current screen without the need for screenshotting, copying content or switching applications. Just one click can summon the AI to perform tasks such as answering questions, translation and providing answers to doubts.Shared by [@Dear.Va](https://hellogithub.com/en/user/LNYEf6O9Qv5JeR2)
+34、[Everywhere](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/DearVa/Everywhere)：Handy AI Desktop Assistant.This is a context-aware desktop AI assistant that can automatically obtain and understand the content on the current screen without the need for screenshotting, copying content or switching applications. Just one click can summon the AI to perform tasks such as answering questions, translation and providing answers to doubts.Shared by [@Dear.Va](https://hellogithub.com/en/user/LNYEf6O9Qv5JeR2)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/971243074.png' style="max-width:80%; max-height=80%;"></img></p>
-
-34、[hyprnote](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/fastrepl/hyprnote)：Local-first AI Note and Meeting Assistant.This is a locally runnable AI intelligent note and meeting recording application. By integrating Ollama, it can complete voice transcription to summary generation locally. It supports functions such as meeting recording, real-time transcription, note organization and intelligent summary.
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/900550981.png' style="max-width:80%; max-height=80%;"></img></p>
 
 35、[next-ai-draw-io](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/DayuanJiang/next-ai-draw-io)：Let AI Draw Architecture Diagrams for You.This is a Web application built based on Next.js that integrates AI and draw.io chart drawing capabilities. Now you can directly generate, edit, and optimize flowcharts and architecture diagrams through conversations. It supports flowing effect connections, screenshot replication, and historical version functions.Shared by [@喜BFoCE](https://hellogithub.com/en/user/Fzr3vHc5AxqYUVj)
 

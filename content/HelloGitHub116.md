@@ -82,7 +82,7 @@ int main(void) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/652319769.png' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[kite](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zxh326/kite)：开源的轻量级 K8s 管理面板。这是一款轻量级、现代化的 Kubernetes 可视化管理平台，适用于管理和监控 K8s 集群。它拥有直观易用的界面，支持查看 Pod 日志、执行容器命令、编辑 YAML 配置、管理用户权限等功能。来自 [@Zzde](https://hellogithub.com/user/w5uk718RFhDzdCX) 的分享
+9、[kite](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kite-org/kite)：开源的轻量级 K8s 管理面板。这是一款轻量级、现代化的 Kubernetes 可视化管理平台，适用于管理和监控 K8s 集群。它拥有直观易用的界面，支持查看 Pod 日志、执行容器命令、编辑 YAML 配置、管理用户权限等功能。来自 [@Zzde](https://hellogithub.com/user/w5uk718RFhDzdCX) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/1003614809.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -216,7 +216,11 @@ print(f"Result: R17 = {cpu.read_reg(17)}")  # Final Fibonacci number
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/983779325.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 人工智能
-31、[cognee](https://hellogithub.com/periodical/statistics/click?target=https://github.com/topoteretes/cognee)：开箱即用的智能体记忆引擎。这是一个专为 AI 智能体（Agents）提供记忆功能的 Python 项目，集成了图数据库、知识图谱及向量数据库等技术。它仅需 5 行代码，即可轻松为 AI 智能体提供持久化、多模态记忆，支持连接和检索过去的对话、文档、图像和音频转录等内容。
+31、[char](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fastrepl/char)：本地优先的 AI 笔记和会议助手。这是一款可离线运行的 AI 智能笔记和会议记录应用，通过接入 Ollama 可实现语音转录到摘要生成全程在本地完成，支持会议录音、实时转录、笔记整理和智能摘要等功能。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/900550981.png' style="max-width:80%; max-height=80%;"></img></p>
+
+32、[cognee](https://hellogithub.com/periodical/statistics/click?target=https://github.com/topoteretes/cognee)：开箱即用的智能体记忆引擎。这是一个专为 AI 智能体（Agents）提供记忆功能的 Python 项目，集成了图数据库、知识图谱及向量数据库等技术。它仅需 5 行代码，即可轻松为 AI 智能体提供持久化、多模态记忆，支持连接和检索过去的对话、文档、图像和音频转录等内容。
 ```python
 import cognee
 import asyncio
@@ -243,17 +247,13 @@ if __name__ == '__main__':
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/679343504.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[droidrun](https://hellogithub.com/periodical/statistics/click?target=https://github.com/droidrun/droidrun)：用自然语言操控你的手机。这是一个基于 LLM Agents 的手机自动化框架，可通过自然语言操控 Android 设备或模拟器，支持 DeepSeek、OpenAI、Gemini 等主流大模型。使用时需要在手机上安装 DroidRun Portal，用来收集 UI 信息并执行操作命令，然后通过 ADB 将信息传给电脑上的 DroidRun 框架，由它与 LLM 交互并给出执行指令。
+33、[droidrun](https://hellogithub.com/periodical/statistics/click?target=https://github.com/droidrun/droidrun)：用自然语言操控你的手机。这是一个基于 LLM Agents 的手机自动化框架，可通过自然语言操控 Android 设备或模拟器，支持 DeepSeek、OpenAI、Gemini 等主流大模型。使用时需要在手机上安装 DroidRun Portal，用来收集 UI 信息并执行操作命令，然后通过 ADB 将信息传给电脑上的 DroidRun 框架，由它与 LLM 交互并给出执行指令。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/965313467.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[Everywhere](https://hellogithub.com/periodical/statistics/click?target=https://github.com/DearVa/Everywhere)：随手可用的 AI 桌面助手。这是一款基于上下文感知的桌面 AI 助手，能够自动获取并理解当前屏幕上的内容，无需截图、复制内容或切换应用。只需一键即可召唤出 AI，进行问答、翻译、答疑等任务。来自 [@Dear.Va](https://hellogithub.com/user/LNYEf6O9Qv5JeR2) 的分享
+34、[Everywhere](https://hellogithub.com/periodical/statistics/click?target=https://github.com/DearVa/Everywhere)：随手可用的 AI 桌面助手。这是一款基于上下文感知的桌面 AI 助手，能够自动获取并理解当前屏幕上的内容，无需截图、复制内容或切换应用。只需一键即可召唤出 AI，进行问答、翻译、答疑等任务。来自 [@Dear.Va](https://hellogithub.com/user/LNYEf6O9Qv5JeR2) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/971243074.png' style="max-width:80%; max-height=80%;"></img></p>
-
-34、[hyprnote](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fastrepl/hyprnote)：本地优先的 AI 笔记和会议助手。这是一款可离线运行的 AI 智能笔记和会议记录应用，通过接入 Ollama 可实现语音转录到摘要生成全程在本地完成，支持会议录音、实时转录、笔记整理和智能摘要等功能。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/900550981.png' style="max-width:80%; max-height=80%;"></img></p>
 
 35、[next-ai-draw-io](https://hellogithub.com/periodical/statistics/click?target=https://github.com/DayuanJiang/next-ai-draw-io)：让 AI 替你画架构图。这是一个基于 Next.js 构建的 Web 应用，融合了 AI 与 draw.io 图表绘制能力。现在你可以通过对话直接生成、编辑、优化流程图和架构图，支持流动效果连线、截图复刻、历史版本等功能。来自 [@喜BFoCE](https://hellogithub.com/user/Fzr3vHc5AxqYUVj) 的分享
 

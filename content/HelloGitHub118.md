@@ -163,7 +163,7 @@ doc.save("generated_doc.docx")
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/118/1122347787.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 人工智能
-32、[cultivation-world-simulator](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AI-Cultivation/cultivation-world-simulator)：AI 驱动的修仙世界模拟器。这是一款基于 LLM 的修仙模拟器游戏，不同于传统 RPG，游戏内的 NPC 均是 AI 智能体，有独立的性格、记忆和行为逻辑，而玩家在游戏中扮演“天道”，以上帝视角观察并干预 AI 修仙者和仙界规则，见证门派兴衰与天骄崛起。来自 [@4thfever](https://hellogithub.com/user/DogxfCROM1PBL89) 的分享
+32、[cultivation-world-simulator](https://hellogithub.com/periodical/statistics/click?target=https://github.com/4thfever/cultivation-world-simulator)：AI 驱动的修仙世界模拟器。这是一款基于 LLM 的修仙模拟器游戏，不同于传统 RPG，游戏内的 NPC 均是 AI 智能体，有独立的性格、记忆和行为逻辑，而玩家在游戏中扮演“天道”，以上帝视角观察并干预 AI 修仙者和仙界规则，见证门派兴衰与天骄崛起。来自 [@4thfever](https://hellogithub.com/user/DogxfCROM1PBL89) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/118/1040174885.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -211,7 +211,7 @@ if slimmed_model:
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub117.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub117.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub119.md">『下一期』</a>
 </p>
 
 ---

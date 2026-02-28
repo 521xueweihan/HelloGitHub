@@ -206,7 +206,7 @@ tf_fn = ivy.transpile(test_fn, source="torch", target="tensorflow")
 ret = tf_fn(x1)
 ```
 
-28、[meeting-minutes](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Zackriya-Solutions/meeting-minutes)：开源的 AI 会议助手。这是一款 AI 驱动的实时会议记录和摘要生成工具，可离线使用。它完全免费且开源，支持自托管、语义搜索、内容导出等功能，适用于 Windows 和 macOS 平台。
+28、[meetily](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Zackriya-Solutions/meetily)：开源的 AI 会议助手。这是一款 AI 驱动的实时会议记录和摘要生成工具，可离线使用。它完全免费且开源，支持自托管、语义搜索、内容导出等功能，适用于 Windows 和 macOS 平台。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/108/908589694.gif' style="max-width:80%; max-height=80%;"></img></p>
 

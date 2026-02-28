@@ -293,7 +293,7 @@ end
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/194445383.png' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[realworld](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/gothinkster/realworld)：该项目汇集了不同技术栈的实战项目。这里有采用不同编程语言框架，实现相同功能内容网站的项目代码。例如用 Vue.js+Django 开发包含注册、登录、发布文章、标签、评论等功能的网站，让你通过简单但完整的实战项目，快速上手新的技术栈，消除刚接触某个技术时的手足无措。[点击查看](https://codebase.show/projects/realworld)
+36、[realworld](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/realworld-apps/realworld)：该项目汇集了不同技术栈的实战项目。这里有采用不同编程语言框架，实现相同功能内容网站的项目代码。例如用 Vue.js+Django 开发包含注册、登录、发布文章、标签、评论等功能的网站，让你通过简单但完整的实战项目，快速上手新的技术栈，消除刚接触某个技术时的手足无措。[点击查看](https://codebase.show/projects/realworld)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/52631841.gif' style="max-width:80%; max-height=80%;"></img></p>

@@ -291,11 +291,11 @@ async def on_hello_world(msg: HelloWorld):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/63266213.png' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[OpenCat-Quadruped-Robot](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PetoiCamp/OpenCat-Quadruped-Robot)：开源的四足机器人宠物框架。这是一个基于 Arduino 和 Raspberry Pi 的四足机器人宠物框架，让你可通过 C/C++/Python 编程语言操控四足机器人。该公司生产的迷你机器猫，神似玩具版的波士顿机械狗。
+36、[openbrowser](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ntegrals/openbrowser)：通往架构师之路。这是一份教你如何成为架构师的学习指南。
+
+37、[OpenCat-Quadruped-Robot](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PetoiCamp/OpenCat-Quadruped-Robot)：开源的四足机器人宠物框架。这是一个基于 Arduino 和 Raspberry Pi 的四足机器人宠物框架，让你可通过 C/C++/Python 编程语言操控四足机器人。该公司生产的迷你机器猫，神似玩具版的波士顿机械狗。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/326441188.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-37、[SoftwareArchitect](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ntegrals/SoftwareArchitect)：通往架构师之路。这是一份教你如何成为架构师的学习指南。
 
 ### 开源书籍
 38、[Book4_Power-of-Matrix](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Visualize-ML/Book4_Power-of-Matrix)：《矩阵力量》。该书介绍了向量、矩阵、向量空间、矩阵分解、微积分、空间几何等知识，内含全彩图解和 Python 示例代码。

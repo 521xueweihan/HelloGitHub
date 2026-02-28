@@ -156,7 +156,7 @@ doc.save("generated_doc.docx")
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/118/1122347787.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### AI
-32、[cultivation-world-simulator](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/AI-Cultivation/cultivation-world-simulator)：AI-Driven Cultivation World Simulator.This is an LLM-based cultivation simulation game. Different from traditional RPGs, all NPCs in the game are AI agents with independent personalities, memories, and behavioral logics. Players play the role of 'Heaven's Will' in the game, observing and intervening in AI cultivators and the rules of the fairy world from a god-like perspective, and witnessing the rise and fall of sects and the emergence of outstanding talentsShared by [@4thfever](https://hellogithub.com/en/user/DogxfCROM1PBL89)
+32、[cultivation-world-simulator](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/4thfever/cultivation-world-simulator)：AI-Driven Cultivation World Simulator.This is an LLM-based cultivation simulation game. Different from traditional RPGs, all NPCs in the game are AI agents with independent personalities, memories, and behavioral logics. Players play the role of 'Heaven's Will' in the game, observing and intervening in AI cultivators and the rules of the fairy world from a god-like perspective, and witnessing the rise and fall of sects and the emergence of outstanding talentsShared by [@4thfever](https://hellogithub.com/en/user/DogxfCROM1PBL89)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/118/1040174885.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -204,7 +204,7 @@ if slimmed_model:
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub117.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | 『Next』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub117.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub119.md">『Next』</a>
 </p>
 
 ---
