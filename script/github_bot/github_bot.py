@@ -77,6 +77,7 @@ def get_data(page=1):
     args = '?page={page}'.format(page=page)
 
     response = requests.get(API['events']+args,
+                                timeout=10.0,
                             auth=(ACCOUNT['username'], ACCOUNT['password']))
     status_code = response.status_code
     if status_code == 200:
