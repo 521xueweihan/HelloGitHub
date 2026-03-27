@@ -101,7 +101,7 @@ writeFileSync('output.pdf', doc.build())
 ```
 
 ### Kotlin
-18、[Github-Store](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/rainxchzed/Github-Store)：Cross-Platform GitHub App Store.This is a cross-platform open-source app store client developed with Kotlin, which supports one-click discovery of popular open-source projects, downloading installation packages (such as APK, EXE, DMG, etc.), and tracking installed apps and prompting updates.Shared by [@Rainxch Zed](https://hellogithub.com/en/user/odJT8IizUEw3Gx0)
+18、[GitHub-Store](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/OpenHub-Store/GitHub-Store)：Cross-Platform GitHub App Store.This is a cross-platform open-source app store client developed with Kotlin, which supports one-click discovery of popular open-source projects, downloading installation packages (such as APK, EXE, DMG, etc.), and tracking installed apps and prompting updates.Shared by [@Rainxch Zed](https://hellogithub.com/en/user/odJT8IizUEw3Gx0)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/117/1101281251.png' style="max-width:80%; max-height=80%;"></img></p>
 

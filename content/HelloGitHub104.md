@@ -184,11 +184,7 @@ print(hash - otherhash)  # 33 汉明距离（差异度）
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/104/1198539.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[Perplexica](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ItzCrazyKns/Perplexica)：AI 驱动的搜索引擎工具。这是一个开源的 AI 搜索引擎工具，灵感来源于 Perplexity AI。它结合了 SearxNG 和大语言模型（LLMs）等技术，能够理解你的问题并深入互联网查找答案，可作为传统搜索引擎的替代品。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/104/784181462.png' style="max-width:80%; max-height=80%;"></img></p>
-
-33、[TensorRT-YOLO](https://hellogithub.com/periodical/statistics/click?target=https://github.com/laugh12321/TensorRT-YOLO)：灵活易用的 YOLO 部署工具。这是一款专为 NVIDIA 设备优化的 YOLO 部署工具。它通过集成 TensorRT 插件和 CUDA 技术，提供 C++ 和 Python API，显著提升了推理速度和易用性，支持多种 YOLO 版本，适用于目标检测、实例分割、姿态识别、旋转目标检测和视频分析等多种场景。来自 [@Laugh](https://hellogithub.com/user/2AGzE4dsO8ZUD9R) 的分享
+32、[TensorRT-YOLO](https://hellogithub.com/periodical/statistics/click?target=https://github.com/laugh12321/TensorRT-YOLO)：灵活易用的 YOLO 部署工具。这是一款专为 NVIDIA 设备优化的 YOLO 部署工具。它通过集成 TensorRT 插件和 CUDA 技术，提供 C++ 和 Python API，显著提升了推理速度和易用性，支持多种 YOLO 版本，适用于目标检测、实例分割、姿态识别、旋转目标检测和视频分析等多种场景。来自 [@Laugh](https://hellogithub.com/user/2AGzE4dsO8ZUD9R) 的分享
 ```python
 import cv2
 from tensorrt_yolo.infer import DeployDet, generate_labels_with_colors, visualize
@@ -207,6 +203,10 @@ cv2.imwrite("vis_image.jpg", vis_im)
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/104/749292767.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+33、[Vane](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ItzCrazyKns/Vane)：AI 驱动的搜索引擎工具。这是一个开源的 AI 搜索引擎工具，灵感来源于 Perplexity AI。它结合了 SearxNG 和大语言模型（LLMs）等技术，能够理解你的问题并深入互联网查找答案，可作为传统搜索引擎的替代品。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/104/784181462.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
 34、[BewlyBewly](https://hellogithub.com/periodical/statistics/click?target=https://github.com/BewlyBewly/BewlyBewly)：优化 bilibili 网站界面的浏览器插件。这是一个第三方的 B 站浏览器插件，通过优化 bilibili 网站的界面来提升用户体验，支持 Chrome、Edge 和 Firefox 浏览器。

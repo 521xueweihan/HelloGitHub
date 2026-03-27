@@ -91,7 +91,7 @@ int main()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/115/1065936302.png' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[pages-cms](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pages-cms/pages-cms)：专为静态网站打造的 CMS。这是一个专为静态网站生成器设计的内容管理系统（CMS），支持 Jekyll、Next.js、VuePress 和 Hugo 等。它提供友好的用户界面，让非技术人员也能轻松编辑和更新网站内容，所有更改将自动转化为 GitHub 上的提交。
+16、[pagescms](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pagescms/pagescms)：专为静态网站打造的 CMS。这是一个专为静态网站生成器设计的内容管理系统（CMS），支持 Jekyll、Next.js、VuePress 和 Hugo 等。它提供友好的用户界面，让非技术人员也能轻松编辑和更新网站内容，所有更改将自动转化为 GitHub 上的提交。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/115/732374797.png' style="max-width:80%; max-height=80%;"></img></p>
 

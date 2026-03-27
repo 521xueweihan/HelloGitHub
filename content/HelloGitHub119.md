@@ -25,7 +25,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/100767968.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-2、[Zen-C](https://hellogithub.com/periodical/statistics/click?target=https://github.com/z-libs/Zen-C)：像高级语言一样写 C 代码。这是一个现代系统编程语言，写起来像高级语言又能像 C 语言一样运行。它通过编译生成 GNU C/C11 代码，兼容 C ABI（应用程序二进制接口），支持无缝集成到现有的 C 语言生态，在保持 C 语言运行效率的基础上，提升开发体验。
+2、[zenc](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zenc-lang/zenc)：像高级语言一样写 C 代码。这是一个现代系统编程语言，写起来像高级语言又能像 C 语言一样运行。它通过编译生成 GNU C/C11 代码，兼容 C ABI（应用程序二进制接口），支持无缝集成到现有的 C 语言生态，在保持 C 语言运行效率的基础上，提升开发体验。
 ```
 import "std/net/tcp.zc"
 
@@ -302,11 +302,11 @@ def agent_loop(messages):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/1010681419.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[no-magic](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Mathews-Tom/no-magic)：零依赖单文件实现现代 AI 主流算法。这是一个专为学习 AI 算法设计的教学项目，包含 30 个零依赖、单文件、可直接运行的 Python 实现，涵盖从基础的 GPT 到微调（LoRA、PPO）以及推理优化（Flash Attention）等内容。通过简单易懂的代码实现每个算法，并配有对应的 Manim 动画，方便理解和学习。
+33、[no-magic](https://hellogithub.com/periodical/statistics/click?target=https://github.com/no-magic-ai/no-magic)：零依赖单文件实现现代 AI 主流算法。这是一个专为学习 AI 算法设计的教学项目，包含 30 个零依赖、单文件、可直接运行的 Python 实现，涵盖从基础的 GPT 到微调（LoRA、PPO）以及推理优化（Flash Attention）等内容。通过简单易懂的代码实现每个算法，并配有对应的 Manim 动画，方便理解和学习。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/1157073757.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[openclaw](https://hellogithub.com/periodical/statistics/click?target=https://github.com/openclaw/openclaw)：开箱即用的个人 AI 助手。这是一款用 TypeScript 开发的开源个人 AI 助手，可快速部署在 macOS、Windows 和 Linux 系统，并支持通过 WhatsApp、Telegram、Slack 等即时通讯应用进行交互。只要你的 token 额度充足，它就能 7*24 不停歇地执行任务，持续为你“打工”。来自 [@喜BFoCE](https://hellogithub.com/user/Fzr3vHc5AxqYUVj) 的分享
+34、[openclaw](https://hellogithub.com/periodical/statistics/click?target=https://github.com/openclaw/openclaw)：现象级的个人 AI 助手。这是一款用 TypeScript 开发的开源个人 AI 助手，可快速部署在 macOS、Windows 和 Linux 系统，并支持通过 WhatsApp、Telegram、Slack 等即时通讯应用进行交互。只要你的 token 额度充足，它就能 7*24 不停歇地执行任务，持续为你“打工”。来自 [@喜BFoCE](https://hellogithub.com/user/Fzr3vHc5AxqYUVj) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/1103012935.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -340,7 +340,7 @@ def agent_loop(messages):
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub118.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub118.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub120.md">『下一期』</a>
 </p>
 
 ---

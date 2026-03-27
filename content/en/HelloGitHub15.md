@@ -113,7 +113,7 @@ def test():
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/22628919.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[snake](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/chuyangliu/snake)：贪吃蛇游戏 AI 版，通过算法实现让小蛇通过吃豆，最后蛇的身体填满整个地图算结束。该项目详细描述实现思想以及相关算法的讨论
+16、[snake](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/chynl/snake)：贪吃蛇游戏 AI 版，通过算法实现让小蛇通过吃豆，最后蛇的身体填满整个地图算结束。该项目详细描述实现思想以及相关算法的讨论
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/61924149.gif' style="max-width:80%; max-height=80%;"></img></p>

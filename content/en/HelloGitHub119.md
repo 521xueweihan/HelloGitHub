@@ -18,7 +18,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/100767968.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-2、[Zen-C](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/z-libs/Zen-C)：Writing C Code Like a High-Level Language.This is a modern systems programming language that allows you to write code like a high-level language but run it like C. It compiles to GNU C/C11 code, is compatible with the C ABI (Application Binary Interface), supports seamless integration into existing C language ecosystems, and enhances the development experience while maintaining the execution efficiency of C.
+2、[zenc](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/zenc-lang/zenc)：Writing C Code Like a High-Level Language.This is a modern systems programming language that allows you to write code like a high-level language but run it like C. It compiles to GNU C/C11 code, is compatible with the C ABI (Application Binary Interface), supports seamless integration into existing C language ecosystems, and enhances the development experience while maintaining the execution efficiency of C.
 ```
 import "std/net/tcp.zc"
 
@@ -295,11 +295,11 @@ def agent_loop(messages):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/1010681419.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[no-magic](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Mathews-Tom/no-magic)：Implementing Modern Mainstream AI Algorithms in Zero-Dependency Single File.This is a teaching project designed specifically for learning AI algorithms, including 30 zero-dependency, single-file, directly runnable Python implementations covering from basic GPT to fine-tuning (LoRA, PPO) and inference optimization (Flash Attention), etc. Each algorithm is implemented with easy-to-understand code, accompanied by corresponding Manim animations for easy comprehension and learning.
+33、[no-magic](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/no-magic-ai/no-magic)：Implementing Modern Mainstream AI Algorithms in Zero-Dependency Single File.This is a teaching project designed specifically for learning AI algorithms, including 30 zero-dependency, single-file, directly runnable Python implementations covering from basic GPT to fine-tuning (LoRA, PPO) and inference optimization (Flash Attention), etc. Each algorithm is implemented with easy-to-understand code, accompanied by corresponding Manim animations for easy comprehension and learning.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/1157073757.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[openclaw](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/openclaw/openclaw)：Out-of-the-Box Personal AI Assistant.This is an open-source personal AI assistant developed with TypeScript, which can be quickly deployed on macOS, Windows, and Linux systems, and supports interaction through instant messaging apps like WhatsApp, Telegram, and Slack. As long as your token quota is sufficient, it can work continuously 24/7 to serve youShared by [@喜BFoCE](https://hellogithub.com/en/user/Fzr3vHc5AxqYUVj)
+34、[openclaw](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/openclaw/openclaw)：Phenomenal Personal AI Assistant.This is an open-source personal AI assistant developed with TypeScript, which can be quickly deployed on macOS, Windows, and Linux systems, and supports interaction through instant messaging apps like WhatsApp, Telegram, and Slack. As long as your token quota is sufficient, it can work continuously 24/7 to serve youShared by [@喜BFoCE](https://hellogithub.com/en/user/Fzr3vHc5AxqYUVj)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/1103012935.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -333,7 +333,7 @@ def agent_loop(messages):
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub118.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | 『Next』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub118.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub120.md">『Next』</a>
 </p>
 
 ---

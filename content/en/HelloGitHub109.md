@@ -195,7 +195,7 @@ jsonpath "$.id" matches /\d{4}/     # Check the format of the id
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/419028280.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift
-29、[QLVideo](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Marginal/QLVideo)：macOS Video Quick Preview Enhancement Plugin. This is a QuickLook plugin designed for macOS that enables the preview of native unsupported video file thumbnails and still images in Finder, as well as displaying video covers and detailed metadata information, providing users with a more convenient video file browsing experience.
+29、[QuickLookVideo](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Marginal/QuickLookVideo)：macOS Video Quick Preview Enhancement Plugin. This is a QuickLook plugin designed for macOS that enables the preview of native unsupported video file thumbnails and still images in Finder, as well as displaying video covers and detailed metadata information, providing users with a more convenient video file browsing experience.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/21910366.jpg' style="max-width:80%; max-height=80%;"></img></p>
 

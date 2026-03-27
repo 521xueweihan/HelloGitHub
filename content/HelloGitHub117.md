@@ -108,7 +108,7 @@ writeFileSync('output.pdf', doc.build())
 ```
 
 ### Kotlin 项目
-18、[Github-Store](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rainxchzed/Github-Store)：跨平台的 GitHub 应用商店。这是一款基于 Kotlin 开发的跨平台开源应用商店客户端，支持一键发现热门开源项目、下载安装包（如 APK、EXE、DMG 等），以及追踪已安装应用并提示更新。来自 [@Rainxch Zed](https://hellogithub.com/user/odJT8IizUEw3Gx0) 的分享
+18、[GitHub-Store](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OpenHub-Store/GitHub-Store)：跨平台的 GitHub 应用商店。这是一款基于 Kotlin 开发的跨平台开源应用商店客户端，支持一键发现热门开源项目、下载安装包（如 APK、EXE、DMG 等），以及追踪已安装应用并提示更新。来自 [@Rainxch Zed](https://hellogithub.com/user/odJT8IizUEw3Gx0) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/117/1101281251.png' style="max-width:80%; max-height=80%;"></img></p>
 

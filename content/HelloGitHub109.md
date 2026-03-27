@@ -202,7 +202,7 @@ jsonpath "$.id" matches /\d{4}/     # Check the format of the id
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/419028280.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift 项目
-29、[QLVideo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Marginal/QLVideo)：macOS 视频快速预览增强插件。这是一个专为 macOS 设计的 QuickLook 插件，可在 Finder 中预览原生不支持的视频文件的缩略图和静态画面，还能显示视频封面和详细的元数据信息，为用户带来更便捷的视频文件浏览体验。
+29、[QuickLookVideo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Marginal/QuickLookVideo)：macOS 视频快速预览增强插件。这是一个专为 macOS 设计的 QuickLook 插件，可在 Finder 中预览原生不支持的视频文件的缩略图和静态画面，还能显示视频封面和详细的元数据信息，为用户带来更便捷的视频文件浏览体验。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/21910366.jpg' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -177,11 +177,7 @@ print(hash - otherhash)  # 33 汉明距离（差异度）
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/104/1198539.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[Perplexica](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ItzCrazyKns/Perplexica)：AI-Powered Search Engine Tool. This is an open-source AI search engine tool inspired by Perplexity AI. It combines technologies such as SearxNG and Large Language Models (LLMs) to understand your queries and search the internet for answers, serving as an alternative to traditional search engines.
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/104/784181462.png' style="max-width:80%; max-height=80%;"></img></p>
-
-33、[TensorRT-YOLO](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/laugh12321/TensorRT-YOLO)：Flexible and Easy-to-Use YOLO Deployment Tool. This is a YOLO deployment tool optimized specifically for NVIDIA devices. By integrating TensorRT plugins and CUDA technology, it offers C++ and Python APIs, significantly enhancing inference speed and ease of use. It supports multiple versions of YOLO, suitable for various scenarios such as object detection, instance segmentation, pose recognition, rotated object detection, and video analysis.Shared by [@Laugh](https://hellogithub.com/en/user/2AGzE4dsO8ZUD9R)
+32、[TensorRT-YOLO](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/laugh12321/TensorRT-YOLO)：Flexible and Easy-to-Use YOLO Deployment Tool. This is a YOLO deployment tool optimized specifically for NVIDIA devices. By integrating TensorRT plugins and CUDA technology, it offers C++ and Python APIs, significantly enhancing inference speed and ease of use. It supports multiple versions of YOLO, suitable for various scenarios such as object detection, instance segmentation, pose recognition, rotated object detection, and video analysis.Shared by [@Laugh](https://hellogithub.com/en/user/2AGzE4dsO8ZUD9R)
 ```python
 import cv2
 from tensorrt_yolo.infer import DeployDet, generate_labels_with_colors, visualize
@@ -200,6 +196,10 @@ cv2.imwrite("vis_image.jpg", vis_im)
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/104/749292767.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+33、[Vane](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ItzCrazyKns/Vane)：AI-Powered Search Engine Tool. This is an open-source AI search engine tool inspired by Perplexity AI. It combines technologies such as SearxNG and Large Language Models (LLMs) to understand your queries and search the internet for answers, serving as an alternative to traditional search engines.
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/104/784181462.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Other
 34、[BewlyBewly](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/BewlyBewly/BewlyBewly)：Browser Extension to Optimize the Bilibili Website Interface. This is a third-party Bilibili browser extension that enhances the user experience by optimizing the bilibili website interface, and supports Chrome, Edge, and Firefox browsers.

@@ -84,7 +84,7 @@ int main()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/115/1065936302.png' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[pages-cms](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pages-cms/pages-cms)：CMS Designed Specifically for Static Websites.This is a content management system (CMS) designed specifically for static website generators, supporting Jekyll, Next.js, VuePress, and Hugo, etc. It provides a friendly user interface, allowing non-technical personnel to easily edit and update website content. All changes will be automatically converted into commits on GitHub.
+16、[pagescms](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pagescms/pagescms)：CMS Designed Specifically for Static Websites.This is a content management system (CMS) designed specifically for static website generators, supporting Jekyll, Next.js, VuePress, and Hugo, etc. It provides a friendly user interface, allowing non-technical personnel to easily edit and update website content. All changes will be automatically converted into commits on GitHub.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/115/732374797.png' style="max-width:80%; max-height=80%;"></img></p>
 

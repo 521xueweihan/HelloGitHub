@@ -153,7 +153,7 @@ export default class Index extends Component {
 
 
 ### Python
-18、[scylla](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/imWildCat/scylla)：一款高质量的免费代理 IP 池工具，仅支持 Python 3.6。[中文文档](https://scylla.wildcat.io/zh/latest/)，特性如下：
+18、[scylla](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/MikeChongCan/scylla)：一款高质量的免费代理 IP 池工具，仅支持 Python 3.6。[中文文档](https://scylla.wildcat.io/zh/latest/)，特性如下：
 - 自动化的代理 IP 爬取与验证
 - 易用的 JSON API
 - 简单但美观的 web 用户界面，基于 TypeScript 和 React（例如，代理的地理分布）
