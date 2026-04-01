@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/readme.gif"/>
   <br>中文 | <a href="README_en.md">English</a> | <a href="README_ja.md">日本語</a>
-  <br>分享 GitHub 上有趣、入门级的开源项目。
+  <br>分享 GitHub 上有趣的入门级开源项目
   <br>兴趣是最好的老师，HelloGitHub 帮你找到开源的乐趣！
 </p>
 
