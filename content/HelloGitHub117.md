@@ -161,7 +161,7 @@ writeFileSync('output.pdf', doc.build())
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/117/1106663535.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[beads](https://hellogithub.com/periodical/statistics/click?target=https://github.com/steveyegge/beads)：面向 AI 编程工具的记忆系统。该项目是专为 AI 编程工具设计的记忆系统，采用 Git 和 JSON 作为持久化存储，为 AI 编程智能体提供长期、结构化的记忆，解决其在处理长周期、复杂编程任务时出现的上下文丢失等问题。
+30、[beads](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gastownhall/beads)：面向 AI 编程工具的记忆系统。该项目是专为 AI 编程工具设计的记忆系统，采用 Git 和 JSON 作为持久化存储，为 AI 编程智能体提供长期、结构化的记忆，解决其在处理长周期、复杂编程任务时出现的上下文丢失等问题。
 
 31、[huggingface_hub](https://hellogithub.com/periodical/statistics/click?target=https://github.com/huggingface/huggingface_hub)：HF 的官方 Python 客户端。该项目是 Hugging Face 平台官方开源的 Python 客户端，提供了模型、数据集和 Spaces 的下载、上传、管理等功能。
 ```python
@@ -275,6 +275,13 @@ print(f"Reason: {score.reason}")
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/qiniu.jpg" width="60px"><br>
           <sub>七牛云</sub><br>
           <sub>百万 Token 免费体验</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://ofox.ai/zh?utm_source=github&utm_medium=hellogithub&utm_campaign=sponsor">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/0foxai.png" width="60px"><br>
+          <sub>OfoxAI</sub><br>
+          <sub>100+ 模型官方直连不掉线</sub>
         </a>
       </th>
     </tr>

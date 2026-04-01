@@ -395,6 +395,13 @@ result = reader.readtext('chinese.jpg')
           <sub>百万 Token 免费体验</sub>
         </a>
       </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://ofox.ai/zh?utm_source=github&utm_medium=hellogithub&utm_campaign=sponsor">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/0foxai.png" width="60px"><br>
+          <sub>OfoxAI</sub><br>
+          <sub>100+ 模型官方直连不掉线</sub>
+        </a>
+      </th>
     </tr>
   </thead>
 </table>

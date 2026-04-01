@@ -147,7 +147,7 @@ INTO sqlflow_models.my_dnn_model;
 
 29、[pyotp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pyauth/pyotp)：Python 的一次性密码库。它是一个能够生成/验证一次性密码(短信验证码)的 Python 库，可以在 Web 应用或其它需要登录的系统上，实现双因素(2FA) 或多因素(MFA) 身份验证方法。
 
-30、[sqladmin](https://hellogithub.com/periodical/statistics/click?target=https://github.com/aminalaee/sqladmin)：FastAPI/Starlette 的后台管理界面。这是一个灵活的 SQLAlchemy 管理后台，采用 Tabler 构建 Web 界面，支持集成到 FastAPI 和 Starlette，实现类似 Django 内置的管理后台功能。
+30、[sqladmin](https://hellogithub.com/periodical/statistics/click?target=https://github.com/smithyhq/sqladmin)：FastAPI/Starlette 的后台管理界面。这是一个灵活的 SQLAlchemy 管理后台，采用 Tabler 构建 Web 界面，支持集成到 FastAPI 和 Starlette，实现类似 Django 内置的管理后台功能。
 ```python
 from fastapi import FastAPI
 from sqladmin import Admin, ModelView
@@ -286,6 +286,13 @@ Audio(audio_array, rate=SAMPLE_RATE)
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/qiniu.jpg" width="60px"><br>
           <sub>七牛云</sub><br>
           <sub>百万 Token 免费体验</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://ofox.ai/zh?utm_source=github&utm_medium=hellogithub&utm_campaign=sponsor">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/0foxai.png" width="60px"><br>
+          <sub>OfoxAI</sub><br>
+          <sub>100+ 模型官方直连不掉线</sub>
         </a>
       </th>
     </tr>

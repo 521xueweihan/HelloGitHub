@@ -152,7 +152,7 @@ time.sleep(30)
 totp.verify('492039') # => False
 ```
 
-30、[sqladmin](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/aminalaee/sqladmin)：FastAPI/Starlette's Admin Backend Interface. A flexible SQLAlchemy admin backend built with the Tabler web interface, supporting integration with FastAPI and Starlette to achieve Django-like built-in admin functionality.
+30、[sqladmin](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/smithyhq/sqladmin)：FastAPI/Starlette's Admin Backend Interface. A flexible SQLAlchemy admin backend built with the Tabler web interface, supporting integration with FastAPI and Starlette to achieve Django-like built-in admin functionality.
 ```python
 from fastapi import FastAPI
 from sqladmin import Admin, ModelView
@@ -288,6 +288,13 @@ Audio(audio_array, rate=SAMPLE_RATE)
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/qiniu.jpg" width="60px"><br>
           <sub>七牛云</sub><br>
           <sub>百万 Token 免费体验</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://ofox.ai/zh?utm_source=github&utm_medium=hellogithub&utm_campaign=sponsor">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/0foxai.png" width="60px"><br>
+          <sub>OfoxAI</sub><br>
+          <sub>100+ 模型官方直连不掉线</sub>
         </a>
       </th>
     </tr>
