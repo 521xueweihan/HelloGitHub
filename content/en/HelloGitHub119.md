@@ -303,7 +303,7 @@ def agent_loop(messages):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/1103012935.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[pi-mono](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/badlogic/pi-mono)：Minimalist AI Agent Toolkit.This is a TypeScript-based AI Agent toolkit. The popular OpenClaw is developed based on this project. It provides fundamental functions for AI Agent development, including unified multi-LLM service interfaces, Agent state management, tool invocation, interactive command-line interface, WebUI, and Slack bot integration, etc.
+35、[pi](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/earendil-works/pi)：Minimalist AI Agent Toolkit.This is a TypeScript-based AI Agent toolkit. The popular OpenClaw is developed based on this project. It provides fundamental functions for AI Agent development, including unified multi-LLM service interfaces, Agent state management, tool invocation, interactive command-line interface, WebUI, and Slack bot integration, etc.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/1035029907.png' style="max-width:80%; max-height=80%;"></img></p>
 

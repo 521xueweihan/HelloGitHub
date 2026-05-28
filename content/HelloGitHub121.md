@@ -158,7 +158,7 @@ const { height, lineCount } = layout(prepared, 320, 20) // pure arithmetic. No D
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/121/1136666361.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Skills
-22、[andrej-karpathy-skills](https://hellogithub.com/periodical/statistics/click?target=https://github.com/forrestchang/andrej-karpathy-skills)：让 AI 编程助手少犯错的行为规范。该项目是受 Andrej Karpathy 对 LLM 编码陷阱观察的启发，提炼出编码前思考、简洁优先、精准修改、目标结果验证四条原则，并封装为一个技能包。支持一键安装到 Claude Code、Cursor 等工具，能有效减少 AI 乱改代码、过度抽象、不问就猜等问题。
+22、[andrej-karpathy-skills](https://hellogithub.com/periodical/statistics/click?target=https://github.com/multica-ai/andrej-karpathy-skills)：让 AI 编程助手少犯错的行为规范。该项目是受 Andrej Karpathy 对 LLM 编码陷阱观察的启发，提炼出编码前思考、简洁优先、精准修改、目标结果验证四条原则，并封装为一个技能包。支持一键安装到 Claude Code、Cursor 等工具，能有效减少 AI 乱改代码、过度抽象、不问就猜等问题。
 
 23、[caveman](https://hellogithub.com/periodical/statistics/click?target=https://github.com/JuliusBrussee/caveman)：让 AI 编程助手少说废话。这是一款让 AI 编程助手用原始人风格、极简文字回答用户问题的技能包，在保留技术准确性的前提下，可减少 75% 的输出 token。来自 [@JRZYgit](https://hellogithub.com/user/0Aj4ipeQrDYuHBX) 的分享
 
@@ -237,7 +237,7 @@ const { height, lineCount } = layout(prepared, 320, 20) // pure arithmetic. No D
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub120.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub120.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub122.md">『下一期』</a>
 </p>
 
 ---

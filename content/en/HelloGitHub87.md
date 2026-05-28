@@ -232,7 +232,7 @@ panorama = stitcher.stitch(["img?.jpg"])
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/30559599.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[personal-security-checklist](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Lissy93/personal-security-checklist)：A Checklist to Protect Your Digital Security and Privacy. This is a list that teaches you how to safeguard your personal information, including aspects such as passwords, web browsing, emails, social networks, mobile phones, and computers.
+35、[personal-security-checklist](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/lissy93/personal-security-checklist)：A Checklist to Protect Your Digital Security and Privacy. This is a list that teaches you how to safeguard your personal information, including aspects such as passwords, web browsing, emails, social networks, mobile phones, and computers.
 
 36、[radian](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/randy3k/radian)：Advanced R Language Console. This project serves as an alternative to the default R console, supporting features like auto-completion, multi-line editing, and syntax highlighting, making it more convenient and user-friendly.
 

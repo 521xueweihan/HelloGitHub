@@ -135,7 +135,7 @@ cat test.json | jql '(elem "countries" (elem (keys) (elem "name")))'
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/121380371.png' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[nav](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/xjh22222228/nav)：一个支持 SEO 的静态导航网站。不依赖后端的纯前端项目开箱即用，简单清爽
+16、[nav](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/liuzi6612/nav)：一个支持 SEO 的静态导航网站。不依赖后端的纯前端项目开箱即用，简单清爽
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/61/131143048.png' style="max-width:80%; max-height=80%;"></img></p>

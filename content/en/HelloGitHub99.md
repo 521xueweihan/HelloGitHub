@@ -290,7 +290,7 @@ Running without configuration file.
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/99/292014229.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift
-29、[Loop](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/MrKai77/Loop)：Elegant macOS Window Management Tool. This is a minimalist window management application for macOS that requires no complex configuration. With simple key combinations, you can easily move the window position, adjust the window size, and arrange the windows. The interaction is very elegant, and the user experience is excellent.
+29、[Loop](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mrkai77/Loop)：Elegant macOS Window Management Tool. This is a minimalist window management application for macOS that requires no complex configuration. With simple key combinations, you can easily move the window position, adjust the window size, and arrange the windows. The interaction is very elegant, and the user experience is excellent.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/99/592882602.gif' style="max-width:80%; max-height=80%;"></img></p>
 

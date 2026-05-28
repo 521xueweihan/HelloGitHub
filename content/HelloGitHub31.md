@@ -205,7 +205,7 @@ cup
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/31/119822304.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 人工智能
-19、[nndl.github.io](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nndl/nndl.github.io)：《神经网络与深度学习》该课程主要介绍神经网络与深度学习中的基础知识、主要模型（卷积神经网络、递归神经网络等）以及在计算机视觉、自然语言处理等领域的应用。[在线阅读](https://nndl.github.io/)
+19、[nndl](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nndl/nndl)：《神经网络与深度学习》该课程主要介绍神经网络与深度学习中的基础知识、主要模型（卷积神经网络、递归神经网络等）以及在计算机视觉、自然语言处理等领域的应用。[在线阅读](https://nndl.github.io/)
 
 
 20、[pwc](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zziz/pwc)：深度学习、机器学习论文集合（英文）

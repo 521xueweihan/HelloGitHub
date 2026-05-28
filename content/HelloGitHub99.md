@@ -233,7 +233,7 @@ print(lengths)
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/99/292014229.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift 项目
-29、[Loop](https://hellogithub.com/periodical/statistics/click?target=https://github.com/MrKai77/Loop)：一款优雅的 macOS 窗口管理工具。这是一款极简的 macOS 窗口管理应用，它无需复杂的配置，即可通过简单的组合键，轻松实现移动窗口位置、调整窗口大小以及排列窗口，交互十分优雅，使用体验极佳。
+29、[Loop](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mrkai77/Loop)：一款优雅的 macOS 窗口管理工具。这是一款极简的 macOS 窗口管理应用，它无需复杂的配置，即可通过简单的组合键，轻松实现移动窗口位置、调整窗口大小以及排列窗口，交互十分优雅，使用体验极佳。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/99/592882602.gif' style="max-width:80%; max-height=80%;"></img></p>
 

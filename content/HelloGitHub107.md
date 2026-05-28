@@ -108,7 +108,7 @@ if num := v.Export().(int64); num != 4 {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/404414397.png' style="max-width:80%; max-height=80%;"></img></p>
 
-20、[web-check](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Lissy93/web-check)：全面的网站检查工具。这是一款网站检查工具，可以显示指定网站更多的信息。比如：DNS 记录、服务器位置、站点性能、SSL 证书、性能、SEO 等信息，可用于分析网站的服务器架构、查看安全漏洞等场景。来自 [@Zhiqiang Li](https://hellogithub.com/user/GeVAyPh1pJOSaWN) 的分享
+20、[web-check](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lissy93/web-check)：全面的网站检查工具。这是一款网站检查工具，可以显示指定网站更多的信息。比如：DNS 记录、服务器位置、站点性能、SSL 证书、性能、SEO 等信息，可用于分析网站的服务器架构、查看安全漏洞等场景。来自 [@Zhiqiang Li](https://hellogithub.com/user/GeVAyPh1pJOSaWN) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/658364446.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -139,13 +139,13 @@ if num := v.Export().(int64); num != 4 {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/806285077.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Rust 项目
-27、[neovide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/neovide/neovide)：用 Rust 打造的 Neovim 客户端。这是一款为 Neovim 编辑器（Vim 的重构版本）设计的跨平台桌面客户端。它在保留 Nvim 核心功能的基础上，提供了现代化的图形界面，带来更友好的使用体验。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/226408450.png' style="max-width:80%; max-height=80%;"></img></p>
-
-28、[Nping](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hanshuaikang/Nping)：Rust 的多地址并发 Ping 工具。这是一个用 Rust 开发的可视化 Ping 工具，支持同时对多个目标地址并发 Ping 操作。它提供了分区折线图和表格视图等可视化展示，支持实时动态展示延迟、丢包率等性能指标，同时兼容 IPv4 和 IPv6 网络环境。来自 [@韩数](https://hellogithub.com/user/uT2Sc8Xli4PUA76) 的分享
+27、[NBping](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hanshuaikang/NBping)：Rust 的多地址并发 Ping 工具。这是一个用 Rust 开发的可视化 Ping 工具，支持同时对多个目标地址并发 Ping 操作。它提供了分区折线图和表格视图等可视化展示，支持实时动态展示延迟、丢包率等性能指标，同时兼容 IPv4 和 IPv6 网络环境。来自 [@韩数](https://hellogithub.com/user/uT2Sc8Xli4PUA76) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/906665483.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+28、[neovide](https://hellogithub.com/periodical/statistics/click?target=https://github.com/neovide/neovide)：用 Rust 打造的 Neovim 客户端。这是一款为 Neovim 编辑器（Vim 的重构版本）设计的跨平台桌面客户端。它在保留 Nvim 核心功能的基础上，提供了现代化的图形界面，带来更友好的使用体验。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/226408450.png' style="max-width:80%; max-height=80%;"></img></p>
 
 29、[simple-http-server](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TheWaWaR/simple-http-server)：Rust 的轻量级 HTTP(s) 服务器。该项目是用 Rust 编写的轻量级 HTTP(s) 服务器，可快速提供简单易用的静态文件服务。它拥有开箱即用、跨平台的特点，支持 HTTPS、认证、CORS 配置、文件上传等功能。
 

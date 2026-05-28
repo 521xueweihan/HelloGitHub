@@ -239,7 +239,7 @@ panorama = stitcher.stitch(["img?.jpg"])
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/87/30559599.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[personal-security-checklist](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Lissy93/personal-security-checklist)：保护你的数字安全和隐私的清单。这是一份教你如何保护个人信息的列表，包括密码、浏览网页、电子邮件、社交网络、手机、电脑等方面。
+35、[personal-security-checklist](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lissy93/personal-security-checklist)：保护你的数字安全和隐私的清单。这是一份教你如何保护个人信息的列表，包括密码、浏览网页、电子邮件、社交网络、手机、电脑等方面。
 
 36、[radian](https://hellogithub.com/periodical/statistics/click?target=https://github.com/randy3k/radian)：更先进的 R 语言控制台。该项目可作为 R 语言自带控制台的替代品，它支持自动补全、多行编辑和语法高亮，更方便、更好用。
 

@@ -247,7 +247,7 @@ if __name__ == '__main__':
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/679343504.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[Everywhere](https://hellogithub.com/periodical/statistics/click?target=https://github.com/DearVa/Everywhere)：随手可用的 AI 桌面助手。这是一款基于上下文感知的桌面 AI 助手，能够自动获取并理解当前屏幕上的内容，无需截图、复制内容或切换应用。只需一键即可召唤出 AI，进行问答、翻译、答疑等任务。来自 [@Dear.Va](https://hellogithub.com/user/LNYEf6O9Qv5JeR2) 的分享
+33、[Everywhere](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Sylinko/Everywhere)：随手可用的 AI 桌面助手。这是一款基于上下文感知的桌面 AI 助手，能够自动获取并理解当前屏幕上的内容，无需截图、复制内容或切换应用。只需一键即可召唤出 AI，进行问答、翻译、答疑等任务。来自 [@Dear.Va](https://hellogithub.com/user/LNYEf6O9Qv5JeR2) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/971243074.png' style="max-width:80%; max-height=80%;"></img></p>
 

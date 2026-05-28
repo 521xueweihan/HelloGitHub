@@ -240,7 +240,7 @@ if __name__ == '__main__':
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/679343504.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[Everywhere](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/DearVa/Everywhere)：Handy AI Desktop Assistant.This is a context-aware desktop AI assistant that can automatically obtain and understand the content on the current screen without the need for screenshotting, copying content or switching applications. Just one click can summon the AI to perform tasks such as answering questions, translation and providing answers to doubts.Shared by [@Dear.Va](https://hellogithub.com/en/user/LNYEf6O9Qv5JeR2)
+33、[Everywhere](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Sylinko/Everywhere)：Handy AI Desktop Assistant.This is a context-aware desktop AI assistant that can automatically obtain and understand the content on the current screen without the need for screenshotting, copying content or switching applications. Just one click can summon the AI to perform tasks such as answering questions, translation and providing answers to doubts.Shared by [@Dear.Va](https://hellogithub.com/en/user/LNYEf6O9Qv5JeR2)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/971243074.png' style="max-width:80%; max-height=80%;"></img></p>
 

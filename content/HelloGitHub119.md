@@ -310,7 +310,7 @@ def agent_loop(messages):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/1103012935.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[pi-mono](https://hellogithub.com/periodical/statistics/click?target=https://github.com/badlogic/pi-mono)：极简的 AI Agent 工具箱。这是一款基于 TypeScript 开发的 AI Agent 工具箱，爆火的 OpenClaw 就是基于该项目开发出来的。它提供开发 AI Agent 所需的基础功能，包括统一多 LLM 服务接口、Agent 状态管理、工具调用、交互式命令行界面、WebUI 和 Slack 机器人集成等。
+35、[pi](https://hellogithub.com/periodical/statistics/click?target=https://github.com/earendil-works/pi)：极简的 AI Agent 工具箱。这是一款基于 TypeScript 开发的 AI Agent 工具箱，爆火的 OpenClaw 就是基于该项目开发出来的。它提供开发 AI Agent 所需的基础功能，包括统一多 LLM 服务接口、Agent 状态管理、工具调用、交互式命令行界面、WebUI 和 Slack 机器人集成等。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/1035029907.png' style="max-width:80%; max-height=80%;"></img></p>
 

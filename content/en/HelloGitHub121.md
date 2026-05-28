@@ -151,7 +151,7 @@ const { height, lineCount } = layout(prepared, 320, 20) // pure arithmetic. No D
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/121/1136666361.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Skills
-22、[andrej-karpathy-skills](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/forrestchang/andrej-karpathy-skills)：Behavior Norms to Minimize Errors in AI Coding Assistants.This project is inspired by Andrej Karpathy's observations on LLM coding pitfalls. It refines four principles: thinking before coding, prioritizing conciseness, precise modification, and verifying target results, and encapsulates them into a skill pack. It supports one-click installation into tools like Claude Code and Cursor, effectively reducing issues such as AI randomly modifying code, over-abstracting, and guessing without asking.
+22、[andrej-karpathy-skills](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/multica-ai/andrej-karpathy-skills)：Behavior Norms to Minimize Errors in AI Coding Assistants.This project is inspired by Andrej Karpathy's observations on LLM coding pitfalls. It refines four principles: thinking before coding, prioritizing conciseness, precise modification, and verifying target results, and encapsulates them into a skill pack. It supports one-click installation into tools like Claude Code and Cursor, effectively reducing issues such as AI randomly modifying code, over-abstracting, and guessing without asking.
 
 23、[caveman](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/JuliusBrussee/caveman)：Make AI Coding Assistants Speak Less Nonsense.This is a skill pack that makes AI coding assistants answer users' questions in a caveman style with minimal text, reducing output tokens by 75% while maintaining technical accuracyShared by [@JRZYgit](https://hellogithub.com/en/user/0Aj4ipeQrDYuHBX)
 
@@ -230,7 +230,7 @@ const { height, lineCount } = layout(prepared, 320, 20) // pure arithmetic. No D
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub120.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | 『Next』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub120.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub122.md">『Next』</a>
 </p>
 
 ---
