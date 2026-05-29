@@ -69,3 +69,4 @@ local_settings.py
 # hellogithub
 *.db
 content*.md
+.github/skills/
