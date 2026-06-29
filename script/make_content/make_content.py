@@ -17,6 +17,7 @@
 from __future__ import print_function
 import sys
 import os
+import re
 
 CONTENT_FLAG = '{{ hello_github_content }}'
 NUM_FLAG = '{{ hello_github_num }}'
@@ -89,6 +90,8 @@ def main():
             input_arg = input_list[1]
         except Exception:
             raise InputError('Input error: Must be number')
+    if not re.match(r'^[0-9a-zA-Z]+$', input_arg) and input_arg != 'all':
+        raise InputError('Input error: Invalid argument, only alphanumeric characters or "all" are allowed')
     if len(input_arg) == 1:
         make_content('0' + input_arg)
     elif input_arg == 'all':
