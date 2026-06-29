@@ -33,7 +33,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/47449796.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-3、[ant-design](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ant-design/ant-design)：阿里开源的一套企业级的 UI 设计语言和 React 实现。[中文文档](https://ant.design/docs/react/introduce-cn)，样式偏向于后端，展示效果十分漂亮
+3、[ant-design](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ant-design/ant-design)：阿里开源的一套企业级的 UI 设计语言和 React 实现。[中文文档](https://ant.design/docs/react/introduce-cn)，样式偏向于后台，展示效果十分漂亮
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/34526884.png' style="max-width:80%; max-height=80%;"></img></p>
