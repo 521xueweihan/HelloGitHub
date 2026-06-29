@@ -191,7 +191,7 @@ driver.save_screenshot('nowsecure.png')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/213043312.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-26、[sqlx](https://hellogithub.com/periodical/statistics/click?target=https://github.com/launchbadge/sqlx)：强大的 Rust 异步 SQL 工具包。这是一个真正的异步 SQL 库，完全使用 Rust 语言开发，支持 PostgreSQL、MySQL、MariaDB、SQLite 数据库。它提供了编译时检查查询语句和自动缓存语句等功能，让 Rust 语言和 SQL 数据库之间的交互变得轻松且高效。
+26、[sqlx](https://hellogithub.com/periodical/statistics/click?target=https://github.com/transact-rs/sqlx)：强大的 Rust 异步 SQL 工具包。这是一个真正的异步 SQL 库，完全使用 Rust 语言开发，支持 PostgreSQL、MySQL、MariaDB、SQLite 数据库。它提供了编译时检查查询语句和自动缓存语句等功能，让 Rust 语言和 SQL 数据库之间的交互变得轻松且高效。
 ```rust
 use sqlx::postgres::PgPoolOptions;
 // use sqlx::mysql::MySqlPoolOptions;

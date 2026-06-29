@@ -184,7 +184,7 @@ driver.save_screenshot('nowsecure.png')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/213043312.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-26、[sqlx](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/launchbadge/sqlx)：Powerful Rust Asynchronous SQL Toolkit. This is a genuine asynchronous SQL library developed entirely in Rust language, supporting PostgreSQL, MySQL, MariaDB, and SQLite databases. It provides features such as compile-time checking of query statements and automatic statement caching, making interactions between Rust and SQL databases easy and efficient.
+26、[sqlx](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/transact-rs/sqlx)：Powerful Rust Asynchronous SQL Toolkit. This is a genuine asynchronous SQL library developed entirely in Rust language, supporting PostgreSQL, MySQL, MariaDB, and SQLite databases. It provides features such as compile-time checking of query statements and automatic statement caching, making interactions between Rust and SQL databases easy and efficient.
 ```rust
 use sqlx::postgres::PgPoolOptions;
 // use sqlx::mysql::MySqlPoolOptions;

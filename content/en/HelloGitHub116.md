@@ -150,7 +150,7 @@ const styleProps = stylex.props(styles.root, styles.element);
 ```
 
 ### Kotlin
-19、[librepods](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/kavishdevar/librepods)：Bring AirPods Back to Life on Android Devices.This project enables users to use the advanced features of AirPods Pro/Max on Android devices, including active noise cancellation switching, ear detection, head pose control, and conversation awareness. However, it requires root permission and cooperation with Xposed.
+19、[librepods](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/librepods-org/librepods)：Bring AirPods Back to Life on Android Devices.This project enables users to use the advanced features of AirPods Pro/Max on Android devices, including active noise cancellation switching, ear detection, head pose control, and conversation awareness. However, it requires root permission and cooperation with Xposed.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/863717537.png' style="max-width:80%; max-height=80%;"></img></p>
 

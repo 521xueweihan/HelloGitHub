@@ -74,7 +74,7 @@ xdotool selectwindow windowclose
 
 12、[gosec](https://hellogithub.com/periodical/statistics/click?target=https://github.com/securego/gosec)：Go 语言源码安全检查工具。该项目通过扫描 Go 代码的 AST 检查源代码是否存在安全问题，能够发现源码中硬编码密码、XSS 和 SQL 注入等问题。
 
-13、[skopeo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/containers/skopeo)：能够管理远程仓库的容器镜像的工具。它能够查看远程仓库的容器镜像信息，以及执行复制、同步、删除等操作，支持 docker.io、quay.io、私有仓库等。
+13、[skopeo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/podman-container-tools/skopeo)：能够管理远程仓库的容器镜像的工具。它能够查看远程仓库的容器镜像信息，以及执行复制、同步、删除等操作，支持 docker.io、quay.io、私有仓库等。
 ```
 $ skopeo inspect docker://registry.fedoraproject.org/fedora:latest
 {

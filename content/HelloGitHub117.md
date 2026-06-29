@@ -21,7 +21,7 @@
 > **以下为本期内容**｜每月 **28** 号更新
 
 ### C 项目
-1、[Hexecute](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ThatOtherAndrew/Hexecute)：Linux 桌面鼠标手势启动器。这是一款基于 Wayland 的手势启动器，可通过鼠标绘制图案快速启动应用。新手势录入只需一条命令并重复绘制 3 次，操作简单直观。所有手势数据均以 JSON 文件形式存储，方便编辑、备份和迁移。
+1、[Hexecute](https://hellogithub.com/periodical/statistics/click?target=https://github.com/m31-galaxy/Hexecute)：Linux 桌面鼠标手势启动器。这是一款基于 Wayland 的手势启动器，可通过鼠标绘制图案快速启动应用。新手势录入只需一条命令并重复绘制 3 次，操作简单直观。所有手势数据均以 JSON 文件形式存储，方便编辑、备份和迁移。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/117/1072559822.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -108,7 +108,7 @@ writeFileSync('output.pdf', doc.build())
 ```
 
 ### Kotlin 项目
-18、[GitHub-Store](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OpenHub-Store/GitHub-Store)：跨平台的 GitHub 应用商店。这是一款基于 Kotlin 开发的跨平台开源应用商店客户端，支持一键发现热门开源项目、下载安装包（如 APK、EXE、DMG 等），以及追踪已安装应用并提示更新。来自 [@Rainxch Zed](https://hellogithub.com/user/odJT8IizUEw3Gx0) 的分享
+18、[komi-store](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kurikomi-labs/komi-store)：跨平台的 GitHub 应用商店。这是一款基于 Kotlin 开发的跨平台开源应用商店客户端，支持一键发现热门开源项目、下载安装包（如 APK、EXE、DMG 等），以及追踪已安装应用并提示更新。来自 [@Rainxch Zed](https://hellogithub.com/user/odJT8IizUEw3Gx0) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/117/1101281251.png' style="max-width:80%; max-height=80%;"></img></p>
 

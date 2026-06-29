@@ -201,7 +201,7 @@ export default function Chat() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/182394441.png' style="max-width:80%; max-height=80%;"></img></p>
 
-19、[PixelPlayer](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/theovilardo/PixelPlayer)：Highly Aesthetic and Multi-functional Android Music Player.This is a local-first, privacy-focused Android music player featuring a beautiful Material You dynamic theme that automatically adapts to album covers or phone wallpapers. It supports lyrics display, custom song transitions, home screen widgets, casting playback, and listening statistics, among other functions.
+19、[PixelPlayer](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/PixelPlayerHQ/PixelPlayer)：Highly Aesthetic and Multi-functional Android Music Player.This is a local-first, privacy-focused Android music player featuring a beautiful Material You dynamic theme that automatically adapts to album covers or phone wallpapers. It supports lyrics display, custom song transitions, home screen widgets, casting playback, and listening statistics, among other functions.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/987110251.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -214,7 +214,7 @@ export default function Chat() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/1126431904.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-22、[great_expectations](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/great-expectations/great_expectations)：Verifying Data Quality Like Writing Unit Tests.This is a Python-based data quality verification framework that allows defining verification rules through concise code, just like writing unit tests for data, and supports multiple data access methods such as pandas, Spark, and SQLAlchemyShared by [@Ashraf Haress](https://hellogithub.com/en/user/6erlUGDQfB4qAPo)
+22、[great_expectations](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/fivetran/great_expectations)：Verifying Data Quality Like Writing Unit Tests.This is a Python-based data quality verification framework that allows defining verification rules through concise code, just like writing unit tests for data, and supports multiple data access methods such as pandas, Spark, and SQLAlchemyShared by [@Ashraf Haress](https://hellogithub.com/en/user/6erlUGDQfB4qAPo)
 ```python
 import great_expectations as gx
 

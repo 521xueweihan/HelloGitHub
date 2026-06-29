@@ -84,7 +84,7 @@ int main()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/115/1065936302.png' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[pagescms](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pagescms/pagescms)：CMS Designed Specifically for Static Websites.This is a content management system (CMS) designed specifically for static website generators, supporting Jekyll, Next.js, VuePress, and Hugo, etc. It provides a friendly user interface, allowing non-technical personnel to easily edit and update website content. All changes will be automatically converted into commits on GitHub.
+16、[pagescms](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hunvreus/pagescms)：CMS Designed Specifically for Static Websites.This is a content management system (CMS) designed specifically for static website generators, supporting Jekyll, Next.js, VuePress, and Hugo, etc. It provides a friendly user interface, allowing non-technical personnel to easily edit and update website content. All changes will be automatically converted into commits on GitHub.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/115/732374797.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -218,7 +218,7 @@ cache_dit.disable_cache(pipe) # Disable cache and run original pipe.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/115/840056306.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[LEANN](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/yichuan-w/LEANN)：Ultra-low Storage Occupancy Vector Database.This is an open-source lightweight vector database that achieves extremely low storage occupancy by computing embedded vectors on demand. Users can build powerful and fully private retrieval-augmented generation (RAG) systems on personal devices (laptops) and support semantic search on various data sources such as local files, emails, browser history, chat records, etc.Shared by [@Yichuan Wang](https://hellogithub.com/en/user/Tj5AEF9BDNXpKnk)
+33、[LEANN](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/StarTrail-org/LEANN)：Ultra-low Storage Occupancy Vector Database.This is an open-source lightweight vector database that achieves extremely low storage occupancy by computing embedded vectors on demand. Users can build powerful and fully private retrieval-augmented generation (RAG) systems on personal devices (laptops) and support semantic search on various data sources such as local files, emails, browser history, chat records, etc.Shared by [@Yichuan Wang](https://hellogithub.com/en/user/Tj5AEF9BDNXpKnk)
 ```python
 from leann import LeannBuilder, LeannSearcher, LeannChat
 from pathlib import Path

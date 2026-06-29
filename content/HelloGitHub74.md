@@ -268,7 +268,7 @@ xonsh：xxh anyhost +s xonsh
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/410249461.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[minds-platform](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mindsdb/minds-platform)：用 SQL 开启机器学习的数据库。把机器学习引入 SQL 数据库将模型作为虚拟表（AI-table），从而省去了数据准备、预处理等步骤，可以直接用 SQL 查询时间序列、回归、分类预测的结果，实现简化机器学习开发流程的效果
+35、[minds](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mindsdb/minds)：用 SQL 开启机器学习的数据库。把机器学习引入 SQL 数据库将模型作为虚拟表（AI-table），从而省去了数据准备、预处理等步骤，可以直接用 SQL 查询时间序列、回归、分类预测的结果，实现简化机器学习开发流程的效果
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/143328315.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -297,7 +297,7 @@ xonsh：xxh anyhost +s xonsh
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/61204818.png' style="max-width:80%; max-height=80%;"></img></p>
 
-41、[pinball](https://hellogithub.com/periodical/statistics/click?target=https://github.com/flutter/pinball)：谷歌开源的弹珠台游戏。使用 Flutter 和  Firebase 平台开发的弹珠台游戏，可运行在 Android、iOS、Windows、macOS、Linux 操作系统。[在线试玩](https://pinball.flutter.dev/#/)
+41、[pinball](https://hellogithub.com/periodical/statistics/click?target=https://github.com/flutter-team-archive/pinball)：谷歌开源的弹珠台游戏。使用 Flutter 和  Firebase 平台开发的弹珠台游戏，可运行在 Android、iOS、Windows、macOS、Linux 操作系统。[在线试玩](https://pinball.flutter.dev/#/)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/462900266.png' style="max-width:80%; max-height=80%;"></img></p>

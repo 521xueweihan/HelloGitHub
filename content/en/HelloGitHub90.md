@@ -93,7 +93,7 @@ c.Now().AddHours(1).Season() // 夏季
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/36485077.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java
-15、[Algorithms](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/williamfiset/Algorithms)：A Collection of Algorithms and Data Structures Implemented in Java. The importance of algorithms and data structures goes without saying. This project provides the simplest and most elegant implementations of common data structures and algorithms in Java, making it a good choice for both learning and development.Shared by [@孤胆枪手](https://hellogithub.com/en/user/i1wAIyo6P3NXkxm)
+15、[algorithms](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/williamfiset/algorithms)：A Collection of Algorithms and Data Structures Implemented in Java. The importance of algorithms and data structures goes without saying. This project provides the simplest and most elegant implementations of common data structures and algorithms in Java, making it a good choice for both learning and development.Shared by [@孤胆枪手](https://hellogithub.com/en/user/i1wAIyo6P3NXkxm)
 
 16、[Stirling-PDF](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Stirling-Tools/Stirling-PDF)：A Web Application for Various Operations on PDF Files. This is a powerful and ready-to-use PDF tool that supports splitting/merging files, adding/extracting images, compression, watermarking, and adding/removing passwords. It meets all your needs for PDF files.
 

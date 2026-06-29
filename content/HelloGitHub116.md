@@ -157,7 +157,7 @@ const styleProps = stylex.props(styles.root, styles.element);
 ```
 
 ### Kotlin 项目
-19、[librepods](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kavishdevar/librepods)：让 AirPods 在安卓设备满血复活。该项目能够让用户在 Android 设备上使用 AirPods Pro/Max 的高级功能，包括主动降噪切换、入耳检测、头部姿势控制、对话感知等，但需要 Root 权限并配合 Xposed 使用。
+19、[librepods](https://hellogithub.com/periodical/statistics/click?target=https://github.com/librepods-org/librepods)：让 AirPods 在安卓设备满血复活。该项目能够让用户在 Android 设备上使用 AirPods Pro/Max 的高级功能，包括主动降噪切换、入耳检测、头部姿势控制、对话感知等，但需要 Root 权限并配合 Xposed 使用。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/863717537.png' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -30,7 +30,7 @@
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/103/977986.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C# 项目
-3、[Bulk-Crap-Uninstaller](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Klocman/Bulk-Crap-Uninstaller)：免费的 Windows 应用卸载神器。这是一个用 C# 开发的 Windows 软件卸载工具，能够快速删除大量不需要的应用程序。它完全免费、开箱即用，支持批量和强制卸载、清理残留文件、检测隐藏或受保护的已注册应用等功能。虽然面向 IT 专业人员设计，但其简单的默认设置，让任何人都能轻松上手。来自 [@猎隼丶止戈reNo7](https://hellogithub.com/user/Ew59HqRWjPe0zZO) 的分享
+3、[Bulk-Crap-Uninstaller](https://hellogithub.com/periodical/statistics/click?target=https://github.com/BCUninstaller/Bulk-Crap-Uninstaller)：免费的 Windows 应用卸载神器。这是一个用 C# 开发的 Windows 软件卸载工具，能够快速删除大量不需要的应用程序。它完全免费、开箱即用，支持批量和强制卸载、清理残留文件、检测隐藏或受保护的已注册应用等功能。虽然面向 IT 专业人员设计，但其简单的默认设置，让任何人都能轻松上手。来自 [@猎隼丶止戈reNo7](https://hellogithub.com/user/Ew59HqRWjPe0zZO) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/103/64677873.png' style="max-width:80%; max-height=80%;"></img></p>
 

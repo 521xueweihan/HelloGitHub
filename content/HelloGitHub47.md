@@ -91,7 +91,7 @@ qprogress.finish()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/46964895.png' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[wx-promise-pro](https://hellogithub.com/periodical/statistics/click?target=https://github.com/youngjuning/wx-promise-pro)：支持 finnaly、typescript 的微信小程序异步解决方案。特性：
+11、[wx-promise-pro](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zisheng-ai/wx-promise-pro)：支持 finnaly、typescript 的微信小程序异步解决方案。特性：
 - 方便集成：一处引用，处处使用
 - 把微信小程序所有异步 API promise 化并挂在到 wx.pro 对象下
 - 支持 ES2018 finally 特性
@@ -172,13 +172,13 @@ print(bond_df)
 23、[book](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rust-lang/book)：《Rust 编程语言》这是官方出品的关于 Rust 的入门书籍
 
 
-24、[devops-exercises](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bregman-arie/devops-exercises)：这个仓库包含了 DevOps（开发运维）常见、流行服务相关的面试问题和回答，推荐给从事运维的同学
-
-
-25、[flow](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nikivdev/flow)：该项目罗列了作者自用、收集的 macOS 上实用、炫酷的软件。我从中找到好几个炫酷、实用提高工作的工具，你也赶快来挑挑吧
+24、[code](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nikivdev/code)：该项目罗列了作者自用、收集的 macOS 上实用、炫酷的软件。我从中找到好几个炫酷、实用提高工作的工具，你也赶快来挑挑吧
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/47/53133861.png' style="max-width:80%; max-height=80%;"></img></p>
+
+25、[devops-exercises](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bregman-arie/devops-exercises)：这个仓库包含了 DevOps（开发运维）常见、流行服务相关的面试问题和回答，推荐给从事运维的同学
+
 
 26、[OnlineToolsBook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zhaoolee/OnlineToolsBook)：该项目收集了一些有趣、实用的在线工具网站，点开即用
 

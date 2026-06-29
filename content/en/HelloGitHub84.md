@@ -74,7 +74,7 @@ source ~/.oceanbase-all-in-one/bin/env.sh && obd demo
 
 12、[gosec](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/securego/gosec)：Go Language Source Code Security Inspection Tool. This project scans the Abstract Syntax Tree (AST) of Go code to check for security issues in the source code, capable of identifying hard-coded passwords, XSS (Cross-Site Scripting), and SQL injection problems, among others.
 
-13、[skopeo](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/containers/skopeo)：Tool for Managing Container Images in Remote Repositories. This tool allows users to view information about container images in remote repositories and perform operations such as copying, synchronization, and deletion. It supports platforms like docker.io, quay.io, and private repositories.
+13、[skopeo](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/podman-container-tools/skopeo)：Tool for Managing Container Images in Remote Repositories. This tool allows users to view information about container images in remote repositories and perform operations such as copying, synchronization, and deletion. It supports platforms like docker.io, quay.io, and private repositories.
 ```
 $ skopeo inspect docker://registry.fedoraproject.org/fedora:latest
 {

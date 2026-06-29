@@ -47,7 +47,7 @@ nqtail
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/108/127814982.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C# 项目
-4、[OpenUtau](https://hellogithub.com/periodical/statistics/click?target=https://github.com/stakira/OpenUtau)：开源的歌声合成工具。这是一款用于创作和编辑歌声合成作品的工具，兼容 UTAU 的音色库和重采样器。它拥有简洁直观的界面，支持鼠标与键盘协同操作，并提供 MIDI 编辑、歌词调整、音色修改等功能，适用于 Windows、Linux 和 macOS 平台。
+4、[OpenUtau](https://hellogithub.com/periodical/statistics/click?target=https://github.com/openutau/OpenUtau)：开源的歌声合成工具。这是一款用于创作和编辑歌声合成作品的工具，兼容 UTAU 的音色库和重采样器。它拥有简洁直观的界面，支持鼠标与键盘协同操作，并提供 MIDI 编辑、歌词调整、音色修改等功能，适用于 Windows、Linux 和 macOS 平台。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/108/27212980.gif' style="max-width:80%; max-height=80%;"></img></p>
 

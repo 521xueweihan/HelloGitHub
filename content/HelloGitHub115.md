@@ -91,7 +91,7 @@ int main()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/115/1065936302.png' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[pagescms](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pagescms/pagescms)：专为静态网站打造的 CMS。这是一个专为静态网站生成器设计的内容管理系统（CMS），支持 Jekyll、Next.js、VuePress 和 Hugo 等。它提供友好的用户界面，让非技术人员也能轻松编辑和更新网站内容，所有更改将自动转化为 GitHub 上的提交。
+16、[pagescms](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hunvreus/pagescms)：专为静态网站打造的 CMS。这是一个专为静态网站生成器设计的内容管理系统（CMS），支持 Jekyll、Next.js、VuePress 和 Hugo 等。它提供友好的用户界面，让非技术人员也能轻松编辑和更新网站内容，所有更改将自动转化为 GitHub 上的提交。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/115/732374797.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -225,7 +225,7 @@ cache_dit.disable_cache(pipe) # Disable cache and run original pipe.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/115/840056306.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[LEANN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/yichuan-w/LEANN)：超低存储占用的向量数据库。这是一款开源的轻量级向量数据库，通过按需计算嵌入向量，实现极低的存储占用。用户可以在个人设备（笔记本电脑）上构建强大且完全私有的检索增强生成 (RAG) 系统，支持对本地文件、电子邮件、浏览器历史、聊天记录等多种数据源进行语义搜索。来自 [@Yichuan Wang](https://hellogithub.com/user/Tj5AEF9BDNXpKnk) 的分享
+33、[LEANN](https://hellogithub.com/periodical/statistics/click?target=https://github.com/StarTrail-org/LEANN)：超低存储占用的向量数据库。这是一款开源的轻量级向量数据库，通过按需计算嵌入向量，实现极低的存储占用。用户可以在个人设备（笔记本电脑）上构建强大且完全私有的检索增强生成 (RAG) 系统，支持对本地文件、电子邮件、浏览器历史、聊天记录等多种数据源进行语义搜索。来自 [@Yichuan Wang](https://hellogithub.com/user/Tj5AEF9BDNXpKnk) 的分享
 ```python
 from leann import LeannBuilder, LeannSearcher, LeannChat
 from pathlib import Path

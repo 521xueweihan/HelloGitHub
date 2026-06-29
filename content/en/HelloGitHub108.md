@@ -40,7 +40,7 @@ nqtail
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/108/127814982.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C#
-4、[OpenUtau](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/stakira/OpenUtau)：Open-source Singing Synthesis Tool. This is a tool for creating and editing singing synthesis works, compatible with UTAU's sound libraries and resamplers. It has a simple and intuitive interface, supports the cooperation of mouse and keyboard operations, and provides MIDI editing, lyric adjustment, tone modification, and other features, suitable for Windows, Linux, and macOS platforms.
+4、[OpenUtau](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/openutau/OpenUtau)：Open-source Singing Synthesis Tool. This is a tool for creating and editing singing synthesis works, compatible with UTAU's sound libraries and resamplers. It has a simple and intuitive interface, supports the cooperation of mouse and keyboard operations, and provides MIDI editing, lyric adjustment, tone modification, and other features, suitable for Windows, Linux, and macOS platforms.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/108/27212980.gif' style="max-width:80%; max-height=80%;"></img></p>
 

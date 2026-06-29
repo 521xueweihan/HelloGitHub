@@ -32,7 +32,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/50/237180335.png' style="max-width:80%; max-height=80%;"></img></p>
 
-3、[notepanda](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ChungZH/notepanda)：这是一个用 C++ 和 Qt 开发的记事本项目。支持代码高亮、自定义字体样式，还可以命令行呼出：notepanda main.cpp，支持 Windows、Linux 和 MacOS 三大系统。可作为学习 Qt、如何做开源项目的实战
+3、[notepanda](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zirnc/notepanda)：这是一个用 C++ 和 Qt 开发的记事本项目。支持代码高亮、自定义字体样式，还可以命令行呼出：notepanda main.cpp，支持 Windows、Linux 和 MacOS 三大系统。可作为学习 Qt、如何做开源项目的实战
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/50/258935245.png' style="max-width:80%; max-height=80%;"></img></p>

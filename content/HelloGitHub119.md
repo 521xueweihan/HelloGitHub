@@ -208,7 +208,7 @@ export default function Chat() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/182394441.png' style="max-width:80%; max-height=80%;"></img></p>
 
-19、[PixelPlayer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/theovilardo/PixelPlayer)：高颜值多功能的 Android 音乐播放器。这是一款本地优先、注重隐私的 Android 音乐播放器，拥有美观的 Material You 动态主题 ，界面可随专辑封面或手机壁纸自动变化，支持歌词显示、自定义歌曲过渡、桌面小部件、投屏播放、听歌统计等功能。
+19、[PixelPlayer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PixelPlayerHQ/PixelPlayer)：高颜值多功能的 Android 音乐播放器。这是一款本地优先、注重隐私的 Android 音乐播放器，拥有美观的 Material You 动态主题 ，界面可随专辑封面或手机壁纸自动变化，支持歌词显示、自定义歌曲过渡、桌面小部件、投屏播放、听歌统计等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/987110251.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -221,7 +221,7 @@ export default function Chat() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/1126431904.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-22、[great_expectations](https://hellogithub.com/periodical/statistics/click?target=https://github.com/great-expectations/great_expectations)：像写单元测试一样验证数据质量。这是一个基于 Python 的数据质量验证框架，可通过简洁的代码定义验证规则，就像为数据编写单元测试，支持 pandas、Spark 和 SQLAlchemy 等多种数据接入方式。来自 [@Ashraf Haress](https://hellogithub.com/user/6erlUGDQfB4qAPo) 的分享
+22、[great_expectations](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fivetran/great_expectations)：像写单元测试一样验证数据质量。这是一个基于 Python 的数据质量验证框架，可通过简洁的代码定义验证规则，就像为数据编写单元测试，支持 pandas、Spark 和 SQLAlchemy 等多种数据接入方式。来自 [@Ashraf Haress](https://hellogithub.com/user/6erlUGDQfB4qAPo) 的分享
 ```python
 import great_expectations as gx
 

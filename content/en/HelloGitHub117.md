@@ -14,7 +14,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 > **The content of this issue is as follows**｜Updated on the **28th** of each month
 
 ### C
-1、[Hexecute](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ThatOtherAndrew/Hexecute)：Linux Desktop Mouse Gesture Launcher.This is a Wayland-based gesture launcher that enables quick application launching by drawing patterns with the mouse. New gestures can be added with just one command and by repeating the drawing three times, which is simple and intuitive to operate. All gesture data is stored in JSON files, making it convenient for editing, backing up, and migrating.
+1、[Hexecute](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/m31-galaxy/Hexecute)：Linux Desktop Mouse Gesture Launcher.This is a Wayland-based gesture launcher that enables quick application launching by drawing patterns with the mouse. New gestures can be added with just one command and by repeating the drawing three times, which is simple and intuitive to operate. All gesture data is stored in JSON files, making it convenient for editing, backing up, and migrating.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/117/1072559822.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -101,7 +101,7 @@ writeFileSync('output.pdf', doc.build())
 ```
 
 ### Kotlin
-18、[GitHub-Store](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/OpenHub-Store/GitHub-Store)：Cross-Platform GitHub App Store.This is a cross-platform open-source app store client developed with Kotlin, which supports one-click discovery of popular open-source projects, downloading installation packages (such as APK, EXE, DMG, etc.), and tracking installed apps and prompting updates.Shared by [@Rainxch Zed](https://hellogithub.com/en/user/odJT8IizUEw3Gx0)
+18、[komi-store](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/kurikomi-labs/komi-store)：Cross-Platform GitHub App Store.This is a cross-platform open-source app store client developed with Kotlin, which supports one-click discovery of popular open-source projects, downloading installation packages (such as APK, EXE, DMG, etc.), and tracking installed apps and prompting updates.Shared by [@Rainxch Zed](https://hellogithub.com/en/user/odJT8IizUEw3Gx0)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/117/1101281251.png' style="max-width:80%; max-height=80%;"></img></p>
 
