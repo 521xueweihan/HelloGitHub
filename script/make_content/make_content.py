@@ -17,6 +17,7 @@
 from __future__ import print_function
 import sys
 import os
+import io
 
 CONTENT_FLAG = '{{ hello_github_content }}'
 NUM_FLAG = '{{ hello_github_num }}'
@@ -42,12 +43,12 @@ def check_path(path):
 
 
 def read_file(input_path):
-    with open(input_path, 'r') as fb:
+    with io.open(input_path, 'r', encoding='utf-8') as fb:
         return fb.read()
 
 
 def write_file(output_path, output_data):
-    with open(output_path, 'w') as fb:
+    with io.open(output_path, 'w', encoding='utf-8') as fb:
         fb.write(output_data)
 
 

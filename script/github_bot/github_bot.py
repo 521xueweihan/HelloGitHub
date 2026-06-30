@@ -29,7 +29,7 @@ ACCOUNT = {
 }
 
 API = {
-    'events': 'https://api.github.com/users/{username}/received_events'.format(username=ACCOUNT['username'])
+    'events': 'https://api.github.com/users/{username}/received_events'
 }
 
 # 发送邮件，邮箱的信息
@@ -75,8 +75,9 @@ def get_data(page=1):
     """
 
     args = '?page={page}'.format(page=page)
+    url = API['events'].format(username=ACCOUNT['username'])
 
-    response = requests.get(API['events']+args,
+    response = requests.get(url+args,
                             auth=(ACCOUNT['username'], ACCOUNT['password']))
     status_code = response.status_code
     if status_code == 200:
