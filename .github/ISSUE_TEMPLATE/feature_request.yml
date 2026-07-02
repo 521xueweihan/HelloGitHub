@@ -1,0 +1,17 @@
+name: "🚀 Feature Request / 功能建议"
+description: "Suggest a new section or automation improvement"
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggest enhancements for HelloGitHub. / 欢迎为 HelloGitHub 提出改进建议。
+  - type: textarea
+    id: details
+    attributes:
+      label: "Proposed Feature Details / 功能详情"
+      description: "What new automation tool, site styling, or project categories should be added?"
+      placeholder: "Add automation to check if recommended project links are dead..."
+    validations:
+      required: true
