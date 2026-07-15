@@ -36,4 +36,4 @@ Will be released on the **28th of each month**. [Website](https://hellogithub.co
 
 ## Licence
 
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en"><img alt="CC BY-NC-ND 4.0" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>This work is under the <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en">CC BY-NC-ND 4.0</a> Lisence.
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en"><img alt="CC BY-NC-ND 4.0" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>This work is under the <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en">CC BY-NC-ND 4.0</a> License.
