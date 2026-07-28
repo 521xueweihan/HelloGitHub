@@ -217,7 +217,7 @@ $ pip install uv
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/102/858437661.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 人工智能
-32、[miniMNIST-c](https://hellogithub.com/periodical/statistics/click?target=https://github.com/konrad-gajdus/miniMNIST-c)：C 语言实现的极简神经网络。该项目展示了如何用 C 语言从头实现一个最小的神经网络。它用不到 200 行代码和 C 标准库，实现了一个极简的神经网络，能够对 MNIST 数据集中的手写数字进行分类。
+32、[miniMNIST-c](https://hellogithub.com/periodical/statistics/click?target=https://github.com/itskonrad/miniMNIST-c)：C 语言实现的极简神经网络。该项目展示了如何用 C 语言从头实现一个最小的神经网络。它用不到 200 行代码和 C 标准库，实现了一个极简的神经网络，能够对 MNIST 数据集中的手写数字进行分类。
 
 33、[openvino](https://hellogithub.com/periodical/statistics/click?target=https://github.com/openvinotoolkit/openvino)：优化和部署深度学习模型的工具包。该项目是英特尔开源的工具库，旨在加速和优化深度学习模型部署。它能帮助开发者将训练好的模型部署到多种硬件平台，支持 TensorFlow、PyTorch 和 ONNX 等深度学习框架。
 ```python

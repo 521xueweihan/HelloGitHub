@@ -128,56 +128,52 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1139971460.png' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[RuView](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ruvnet/RuView)：The Tool for Sensing Human Posture Using WiFi Signals.This tool converts WiFi wireless signals into real-time spatial sensing capabilities. By analyzing the changes in channel state information caused by human activities, it can restore human postures in real time and detect heart rate and respiration without cameras or wearable devices.
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/997737944.png' style="max-width:80%; max-height=80%;"></img></p>
-
 ### Swift
-29、[cmux](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/manaflow-ai/cmux)：macOS Terminal Crafted for AI Programming.This is a macOS terminal application built on Ghostty, specifically designed for running multiple AI programming sessions simultaneously. When AI finishes a task and waits for input, the notification reminder ring helps you instantly locate the window. Its sidebar displays git branches, working directory, and port information, and it supports vertical tabs, split screens, built-in browsers, and other functions.
+28、[cmux](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/manaflow-ai/cmux)：macOS Terminal Crafted for AI Programming.This is a macOS terminal application built on Ghostty, specifically designed for running multiple AI programming sessions simultaneously. When AI finishes a task and waits for input, the notification reminder ring helps you instantly locate the window. Its sidebar displays git branches, working directory, and port information, and it supports vertical tabs, split screens, built-in browsers, and other functions.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1144115288.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[textream](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/f/textream)：Free and Open-Source macOS Teleprompter.This is a free and open-source macOS teleprompter that requires no registration, can be used offline, and allows free position adjustment. It provides three modes: word-by-word tracking, automatic scrolling, and voice control, and is suitable for scenarios such as live streaming, hosting, and podcasts.
+29、[textream](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/f/textream)：Free and Open-Source macOS Teleprompter.This is a free and open-source macOS teleprompter that requires no registration, can be used offline, and allows free position adjustment. It provides three modes: word-by-word tracking, automatic scrolling, and voice control, and is suitable for scenarios such as live streaming, hosting, and podcasts.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1152691112.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### AI
-31、[context-hub](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/andrewyng/context-hub)：Exclusive Knowledge Base for Reducing AI Coding Hallucinations.This project is a community-curated, versioned API documentation knowledge base specifically designed for AI programming tools like Claude Code. It supports on-demand retrieval, local annotation, feedback loops, and other functions, effectively reducing hallucinations in AI-generated code.
+30、[context-hub](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/andrewyng/context-hub)：Exclusive Knowledge Base for Reducing AI Coding Hallucinations.This project is a community-curated, versioned API documentation knowledge base specifically designed for AI programming tools like Claude Code. It supports on-demand retrieval, local annotation, feedback loops, and other functions, effectively reducing hallucinations in AI-generated code.
 
-32、[FireRed-OpenStoryline](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/FireRedTeam/FireRed-OpenStoryline)：AI-Driven Conversational Video Creation Agent.This is an automated video creation agent built on LLM/VLM. Users can describe their intentions in natural language, and the system automatically accomplishes material collection, editing, storyline construction, voiceover, and background music creation. It supports conversational refinement, including cutting, reorganizing, modifying subtitles, etc., and can be saved as a clip skill pack with one click for quick reproduction of videos in the same styleShared by [@minipuding](https://hellogithub.com/en/user/4QpcNTrHEAg3O8n)
+31、[FireRed-OpenStoryline](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/FireRedTeam/FireRed-OpenStoryline)：AI-Driven Conversational Video Creation Agent.This is an automated video creation agent built on LLM/VLM. Users can describe their intentions in natural language, and the system automatically accomplishes material collection, editing, storyline construction, voiceover, and background music creation. It supports conversational refinement, including cutting, reorganizing, modifying subtitles, etc., and can be saved as a clip skill pack with one click for quick reproduction of videos in the same styleShared by [@minipuding](https://hellogithub.com/en/user/4QpcNTrHEAg3O8n)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1152159038.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[gstack](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/garrytan/gstack)：Transforming AI Coding Assistants into Virtual Development Teams.This is a set of Skills to enhance the development capabilities of AI coding assistants, enabling AI to simulate the questioning methods of YC partners and roles like CEO, architect, designer, and tester, transforming Claude Code into a virtual development team that can be called upon as needed
+32、[gstack](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/garrytan/gstack)：Transforming AI Coding Assistants into Virtual Development Teams.This is a set of Skills to enhance the development capabilities of AI coding assistants, enabling AI to simulate the questioning methods of YC partners and roles like CEO, architect, designer, and tester, transforming Claude Code into a virtual development team that can be called upon as needed
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1179264259.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[harness-sdk](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/strands-agents/harness-sdk)：Python Framework for Rapid Construction of Production-Level Agents.This is a Python framework for developing AI agent applications. It can realize the construction from model capabilities, tool invocation to autonomous workflows through simple code, and supports multiple models, Agent Loop, multi-agent collaboration, voice conversation and other functions
+33、[harness-sdk](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/strands-agents/harness-sdk)：Python Framework for Rapid Construction of Production-Level Agents.This is a Python framework for developing AI agent applications. It can realize the construction from model capabilities, tool invocation to autonomous workflows through simple code, and supports multiple models, Agent Loop, multi-agent collaboration, voice conversation and other functions
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/983715534.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[page-agent](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/alibaba/page-agent)：You Website's AI Operator.This is an embedded page-based GUI Agent designed specifically for web developers. Unlike traditional browser automation tools, it needs to be integrated into a website via code, and after integration, users can interact with the page using natural language
+34、[page-agent](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/alibaba/page-agent)：You Website's AI Operator.This is an embedded page-based GUI Agent designed specifically for web developers. Unlike traditional browser automation tools, it needs to be integrated into a website via code, and after integration, users can interact with the page using natural language
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1062458369.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Other
-36、[browser](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/lightpanda-io/browser)：A Headless Browser with Lightning-Fast Startup.This is a headless browser developed entirely from scratch in Zig. It starts 11 times faster than Chrome and uses 9 times less memory. It supports JavaScript and Web APIs, and is compatible with automation tools like Playwright, Puppeteer, and chromedp.
+35、[browser](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/lightpanda-io/browser)：A Headless Browser with Lightning-Fast Startup.This is a headless browser developed entirely from scratch in Zig. It starts 11 times faster than Chrome and uses 9 times less memory. It supports JavaScript and Web APIs, and is compatible with automation tools like Playwright, Puppeteer, and chromedp.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/598667202.png' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[claude-hud](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/jarrodwatts/claude-hud)：Real-time Status Display Plugin for Claude Code.This is a Claude Code plugin that can real-time display what Claude Code is doing, context usage, running sub-agents, tool invocations, and task completion progress
+36、[claude-hud](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/jarrodwatts/claude-hud)：Real-time Status Display Plugin for Claude Code.This is a Claude Code plugin that can real-time display what Claude Code is doing, context usage, running sub-agents, tool invocations, and task completion progress
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1126473386.png' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[geo-seo-claude](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/zubair-trabzada/geo-seo-claude)：GEO Optimization Skills Plugin for Claude Code.This is a skills plugin for Claude Code. Guided by the concept of GEO priority and SEO assistance, it helps websites optimize for AI-driven search engines through 11 skills and 5 sub-agents, and supports functions such as scoring, analysis, and testing.
+37、[geo-seo-claude](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/zubair-trabzada/geo-seo-claude)：GEO Optimization Skills Plugin for Claude Code.This is a skills plugin for Claude Code. Guided by the concept of GEO priority and SEO assistance, it helps websites optimize for AI-driven search engines through 11 skills and 5 sub-agents, and supports functions such as scoring, analysis, and testing.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1160693255.png' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[Mercury-Transforming-Drone](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/L42ARO/Mercury-Transforming-Drone)：Open-Source Deformable Drone.This is an open-source deformable drone that can freely switch between aerial flight mode and ground driving mode. It is built based on Raspberry Pi and ArduPilot systems, and integrates functions like color cameras, depth cameras, GPS, and remote control.
+38、[Mercury-Transforming-Drone](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/L42ARO/Mercury-Transforming-Drone)：Open-Source Deformable Drone.This is an open-source deformable drone that can freely switch between aerial flight mode and ground driving mode. It is built based on Raspberry Pi and ArduPilot systems, and integrates functions like color cameras, depth cameras, GPS, and remote control.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1174141743.png' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[spank](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/taigrr/spank)：Give MacBook a Tap and It Moans.This is a Go-developed macOS command-line tool that can real-time detect physical taps (vibrations) on the laptop and play pre-set audio responses immediately, compatible with devices with M2+ chips.
+39、[spank](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/taigrr/spank)：Give MacBook a Tap and It Moans.This is a Go-developed macOS command-line tool that can real-time detect physical taps (vibrations) on the laptop and play pre-set audio responses immediately, compatible with devices with M2+ chips.
 
 
 

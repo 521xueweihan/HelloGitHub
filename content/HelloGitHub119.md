@@ -108,7 +108,7 @@ print(results)
 10、[task](https://hellogithub.com/periodical/statistics/click?target=https://github.com/go-task/task)：告别 Makefile 复杂语法的构建工具。这是一款基于 Go 语言开发的现代化构建工具，可作为 GNU Make 的替代品。它采用更简单的 YAML 语法，支持跨平台、依赖管理、并行执行和条件触发等功能，适用于项目构建、开发环境管理和 CI/CD 集成。来自 [@DeShuiYu](https://hellogithub.com/user/ZWJkOqsvYbPgD8p) 的分享
 
 ### Java 项目
-11、[jquick-curl](https://hellogithub.com/periodical/statistics/click?target=https://github.com/paohaijiao/jquick-curl)：直接运行 curl 命令的 Java 库。这是一款轻量级 HTTP 客户端 Java 库，可直接将 curl 命令转换为 Java 中可执行的 HTTP 请求逻辑，无需手动改写代码。适用于从 Chrome 浏览器开发者工具、API 文档等复制 curl 命令后，快速集成到 Java 项目中。来自 [@paohaijiao](https://hellogithub.com/user/iIaNjn0mSdwx6gv) 的分享
+11、[jquick-curl](https://hellogithub.com/periodical/statistics/click?target=https://github.com/paohaijiao-jquick/jquick-curl)：直接运行 curl 命令的 Java 库。这是一款轻量级 HTTP 客户端 Java 库，可直接将 curl 命令转换为 Java 中可执行的 HTTP 请求逻辑，无需手动改写代码。适用于从 Chrome 浏览器开发者工具、API 文档等复制 curl 命令后，快速集成到 Java 项目中。来自 [@paohaijiao](https://hellogithub.com/user/iIaNjn0mSdwx6gv) 的分享
 ```java
 import java.util.List;
 // 示例UserService接口定义

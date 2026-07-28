@@ -200,19 +200,19 @@ pyxel.run(update, draw)
 26、[awesome-scalability](https://hellogithub.com/periodical/statistics/click?target=https://github.com/binhnguyennus/awesome-scalability)：一个系统的阅读列表，描述了可扩展、高可用、高性能的大型系统背后的东西。每部分都是基于真实案例，讲述了如何搭建一个可扩展、高可用、高性能的大型系统，案例都是来自于经过数百万甚至数十亿用户实战检验的系统。对于所有工程师而言都是一个很好的学习资料，开卷有益
 
 
-27、[awesome-wechat-weapp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/justjavac/awesome-wechat-weapp)：该项目收集了微信小程序开发过程中会使用到的资料、问题以及第三方组件库。随着微信小程序的市场越来越大，很多公司也专门以制作小程序为业，不论对感兴趣的人还是想自己动手做小程序的人而言，这份合集省去了不少查找资料的时间
+27、[libpku](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lib-pku/libpku)：由第三方整理的北京大学课程资料，涵盖了专业课、公选课、通选课等
 
 
-28、[libpku](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lib-pku/libpku)：由第三方整理的北京大学课程资料，涵盖了专业课、公选课、通选课等
+28、[nginx-admins-handbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/trimstray/nginx-admins-handbook)：该项目描述了如何提高 Nginx 的性能、安全性等方面的步骤，让你的网站在 SSL Labs 的评级到达 A+
 
 
-29、[nginx-admins-handbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/trimstray/nginx-admins-handbook)：该项目描述了如何提高 Nginx 的性能、安全性等方面的步骤，让你的网站在 SSL Labs 的评级到达 A+
+29、[REKCARC-TSC-UHT](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PKUanonym/REKCARC-TSC-UHT)：清华大学计算机系课程相关资源集合。内容丰富，包含从大一到大四，跟着清华学子一起学习传说中高校的课程吧
 
 
-30、[REKCARC-TSC-UHT](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PKUanonym/REKCARC-TSC-UHT)：清华大学计算机系课程相关资源集合。内容丰富，包含从大一到大四，跟着清华学子一起学习传说中高校的课程吧
+30、[SJTU-Courses](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kxxwz/SJTU-Courses)：上海交通大学课程资料分享
 
 
-31、[SJTU-Courses](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kxxwz/SJTU-Courses)：上海交通大学课程资料分享
+31、[wechat-miniapp-radar](https://hellogithub.com/periodical/statistics/click?target=https://github.com/justjavac/wechat-miniapp-radar)：该项目收集了微信小程序开发过程中会使用到的资料、问题以及第三方组件库。随着微信小程序的市场越来越大，很多公司也专门以制作小程序为业，不论对感兴趣的人还是想自己动手做小程序的人而言，这份合集省去了不少查找资料的时间
 
 
 32、[zju-icicles](https://hellogithub.com/periodical/statistics/click?target=https://github.com/QSCTech/zju-icicles)：浙江大学各种课程相关资源集合。包含：课程、作业、答案、复习资料、选课攻略等，是浙大在校生的必备资源，对于有考研想法的小伙伴而言也是很好的资源

@@ -164,7 +164,7 @@ const { height, lineCount } = layout(prepared, 320, 20) // pure arithmetic. No D
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/121/1201173969.png' style="max-width:80%; max-height=80%;"></img></p>
 
-24、[graphify](https://hellogithub.com/periodical/statistics/click?target=https://github.com/safishamsi/graphify)：把代码库变成知识图谱的技能包。该项目可以扫描代码仓库、Markdown、PDF、截图和音视频等文件，自动提取概念与关系，构建一个可查询的知识图谱。支持 Claude Code、Codex、OpenCode、Cursor 等多种 AI 编程工具，适合想让 AI 更好理解项目上下文、节省 token 用量的开发者。
+24、[graphify](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Graphify-Labs/graphify)：把代码库变成知识图谱的技能包。该项目可以扫描代码仓库、Markdown、PDF、截图和音视频等文件，自动提取概念与关系，构建一个可查询的知识图谱。支持 Claude Code、Codex、OpenCode、Cursor 等多种 AI 编程工具，适合想让 AI 更好理解项目上下文、节省 token 用量的开发者。
 
 25、[huashu-design](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alchaincyf/huashu-design)：一句话生成能交付的设计稿。这是一个面向 Claude Code 等 agent 的设计技能包，基于 HTML 工作流生成高保真原型、演讲幻灯片、信息图和动画内容。它支持多种设计方向推荐、品牌资产解析、5 维度设计评审，以及 MP4、GIF、PPTX 等格式导出。来自 [@WBT907](https://hellogithub.com/user/GkDCLmVS3ItaJed) 的分享
 

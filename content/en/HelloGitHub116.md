@@ -58,7 +58,7 @@ int main(void) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/720999514.png' style="max-width:80%; max-height=80%;"></img></p>
 
-5、[MouseClick](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/SeaEpoch/MouseClick)：Open-source Mouse Clicker Tool.This is a mouse clicker built with Qt6 and is only available for Windows systems. It is ready-to-use and easy to operate, supporting custom mouse click intervals and shortcut key functions.Shared by [@SeaYJ](https://hellogithub.com/en/user/6aHSOczLEVNxDF7)
+5、[MouseClick](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/SeaEpoch/MouseClick)：Open-source Mouse Clicker Tool.This is a mouse clicker built with Qt6 and is only available for Windows systems. It is ready-to-use and easy to operate, supporting custom mouse click intervals and shortcut key functions.Shared by [@SeaEpoch](https://hellogithub.com/en/user/6aHSOczLEVNxDF7)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/383007660.png' style="max-width:80%; max-height=80%;"></img></p>
 

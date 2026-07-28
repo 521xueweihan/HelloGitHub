@@ -135,56 +135,52 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1139971460.png' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[RuView](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ruvnet/RuView)：利用 WiFi 信号感知人体姿态的工具。这是一款将 WiFi 无线信号转化为实时空间感知能力的工具，通过分析人体活动引起的信道状态信息变化，无需摄像头或穿戴设备，即可实时还原人体姿态，并检测心率和呼吸。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/997737944.png' style="max-width:80%; max-height=80%;"></img></p>
-
 ### Swift 项目
-29、[cmux](https://hellogithub.com/periodical/statistics/click?target=https://github.com/manaflow-ai/cmux)：为 AI 编程而生的 macOS 终端。这是一款基于 Ghostty 构建的 macOS 终端应用，专为同时跑多个 AI 编程会话而设计。当 AI 完成任务等待输入时，通知提醒环能帮你瞬间定位窗口。它侧边栏显示 git 分支、工作目录和端口信息，支持垂直标签页、分屏、内置浏览器等功能。
+28、[cmux](https://hellogithub.com/periodical/statistics/click?target=https://github.com/manaflow-ai/cmux)：为 AI 编程而生的 macOS 终端。这是一款基于 Ghostty 构建的 macOS 终端应用，专为同时跑多个 AI 编程会话而设计。当 AI 完成任务等待输入时，通知提醒环能帮你瞬间定位窗口。它侧边栏显示 git 分支、工作目录和端口信息，支持垂直标签页、分屏、内置浏览器等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1144115288.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[textream](https://hellogithub.com/periodical/statistics/click?target=https://github.com/f/textream)：免费开源的 macOS 提词器。这是一款免费开源的 macOS 提词器，无需注册、可离线使用、自由调整位置，提供逐词跟踪、自动滚动和声控三种模式，适用于直播、主持、播客等场景。
+29、[textream](https://hellogithub.com/periodical/statistics/click?target=https://github.com/f/textream)：免费开源的 macOS 提词器。这是一款免费开源的 macOS 提词器，无需注册、可离线使用、自由调整位置，提供逐词跟踪、自动滚动和声控三种模式，适用于直播、主持、播客等场景。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1152691112.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 人工智能
-31、[context-hub](https://hellogithub.com/periodical/statistics/click?target=https://github.com/andrewyng/context-hub)：减少 AI 编码幻觉的专属知识库。该项目是专为 Claude Code 等 AI 编程工具，提供由社区精心整理、版本化的 API 文档知识库，支持按需检索、本地标注和反馈循环等功能，有效减少 AI 生成代码时的幻觉问题。
+30、[context-hub](https://hellogithub.com/periodical/statistics/click?target=https://github.com/andrewyng/context-hub)：减少 AI 编码幻觉的专属知识库。该项目是专为 Claude Code 等 AI 编程工具，提供由社区精心整理、版本化的 API 文档知识库，支持按需检索、本地标注和反馈循环等功能，有效减少 AI 生成代码时的幻觉问题。
 
-32、[FireRed-OpenStoryline](https://hellogithub.com/periodical/statistics/click?target=https://github.com/FireRedTeam/FireRed-OpenStoryline)：AI 驱动的对话式视频创作智能体。这是一款基于 LLM/VLM 构建的自动化视频创作智能体。用户可通过自然语言描述意图，系统会自动完成素材收集、剪辑、构建故事线、配音和配乐，支持对话式精修，包括删减、重组、修改字幕等，并可一键保存为剪辑技能包，方便快速复刻同风格视频。来自 [@minipuding](https://hellogithub.com/user/4QpcNTrHEAg3O8n) 的分享
+31、[FireRed-OpenStoryline](https://hellogithub.com/periodical/statistics/click?target=https://github.com/FireRedTeam/FireRed-OpenStoryline)：AI 驱动的对话式视频创作智能体。这是一款基于 LLM/VLM 构建的自动化视频创作智能体。用户可通过自然语言描述意图，系统会自动完成素材收集、剪辑、构建故事线、配音和配乐，支持对话式精修，包括删减、重组、修改字幕等，并可一键保存为剪辑技能包，方便快速复刻同风格视频。来自 [@minipuding](https://hellogithub.com/user/4QpcNTrHEAg3O8n) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1152159038.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[gstack](https://hellogithub.com/periodical/statistics/click?target=https://github.com/garrytan/gstack)：让 AI 编程助手变身虚拟开发团队。这是一组提升 AI 编程助手开发能力的 Skills 集合，能够让 AI 模拟 YC 合伙人的提问方式，以及 CEO、架构师、设计师和测试等角色，将 Claude Code 变成一支可按需唤出的虚拟开发团队。
+32、[gstack](https://hellogithub.com/periodical/statistics/click?target=https://github.com/garrytan/gstack)：让 AI 编程助手变身虚拟开发团队。这是一组提升 AI 编程助手开发能力的 Skills 集合，能够让 AI 模拟 YC 合伙人的提问方式，以及 CEO、架构师、设计师和测试等角色，将 Claude Code 变成一支可按需唤出的虚拟开发团队。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1179264259.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[harness-sdk](https://hellogithub.com/periodical/statistics/click?target=https://github.com/strands-agents/harness-sdk)：快速构建生产级智能体的 Python 框架。这是一个开发智能体 AI 应用的 Python 框架，可通过简单的代码实现从模型能力、工具调用到自主工作流的构建，支持多种模型、Agent Loop、多智能协同和语音对话等功能。
+33、[harness-sdk](https://hellogithub.com/periodical/statistics/click?target=https://github.com/strands-agents/harness-sdk)：快速构建生产级智能体的 Python 框架。这是一个开发智能体 AI 应用的 Python 框架，可通过简单的代码实现从模型能力、工具调用到自主工作流的构建，支持多种模型、Agent Loop、多智能协同和语音对话等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/983715534.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[page-agent](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alibaba/page-agent)：你网站里的 AI 操作员。这是一个页面内嵌式 GUI Agent，专为网站开发者设计。与传统的浏览器自动化工具不同，它需要通过代码集成到网站中，集成后用户即可通过自然语言与页面进行交互。
+34、[page-agent](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alibaba/page-agent)：你网站里的 AI 操作员。这是一个页面内嵌式 GUI Agent，专为网站开发者设计。与传统的浏览器自动化工具不同，它需要通过代码集成到网站中，集成后用户即可通过自然语言与页面进行交互。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1062458369.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
-36、[browser](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lightpanda-io/browser)：启动速度极快的无头浏览器。这是一款完全用 Zig 语言从零开发的无头浏览器，启动比 Chrome 快 11 倍、内存占用低 9 倍，支持 JavaScript 和 Web API，兼容 Playwright、Puppeteer、chromedp 等自动化工具。
+35、[browser](https://hellogithub.com/periodical/statistics/click?target=https://github.com/lightpanda-io/browser)：启动速度极快的无头浏览器。这是一款完全用 Zig 语言从零开发的无头浏览器，启动比 Chrome 快 11 倍、内存占用低 9 倍，支持 JavaScript 和 Web API，兼容 Playwright、Puppeteer、chromedp 等自动化工具。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/598667202.png' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[claude-hud](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jarrodwatts/claude-hud)：实时显示 Claude Code 执行状态的插件。这是一个 Claude Code 插件，可实时显示 Claude Code 在做什么、上下文使用情况、运行的子智能体、工具调用和任务完成进度。
+36、[claude-hud](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jarrodwatts/claude-hud)：实时显示 Claude Code 执行状态的插件。这是一个 Claude Code 插件，可实时显示 Claude Code 在做什么、上下文使用情况、运行的子智能体、工具调用和任务完成进度。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1126473386.png' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[geo-seo-claude](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zubair-trabzada/geo-seo-claude)：Claude Code 的 GEO 优化技能插件。这是一个 Claude Code 技能插件，以 GEO 优先、SEO 辅助的理念，通过 11 个 skills 和 5 个子智能体，帮助网站针对 AI 驱动的搜索引擎进行优化，支持评分、分析和测试等功能。
+37、[geo-seo-claude](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zubair-trabzada/geo-seo-claude)：Claude Code 的 GEO 优化技能插件。这是一个 Claude Code 技能插件，以 GEO 优先、SEO 辅助的理念，通过 11 个 skills 和 5 个子智能体，帮助网站针对 AI 驱动的搜索引擎进行优化，支持评分、分析和测试等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1160693255.png' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[Mercury-Transforming-Drone](https://hellogithub.com/periodical/statistics/click?target=https://github.com/L42ARO/Mercury-Transforming-Drone)：开源的可变形无人机。这是一个开源的可变形无人机，能够在空中飞行模式和地面行驶模式之间自由切换。它基于树莓派和 ArduPilot 系统构建，集成了彩色摄像头、深度摄像头、GPS、远程操控等功能。
+38、[Mercury-Transforming-Drone](https://hellogithub.com/periodical/statistics/click?target=https://github.com/L42ARO/Mercury-Transforming-Drone)：开源的可变形无人机。这是一个开源的可变形无人机，能够在空中飞行模式和地面行驶模式之间自由切换。它基于树莓派和 ArduPilot 系统构建，集成了彩色摄像头、深度摄像头、GPS、远程操控等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1174141743.png' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[spank](https://hellogithub.com/periodical/statistics/click?target=https://github.com/taigrr/spank)：拍一下 MacBook 它就喊疼。这是一款 Go 开发的 macOS 命令行工具，能够实时识别笔记本受到的物理拍打（震动），并即时播放设置好的音频回应，适用于 M2+ 芯片的设备。
+39、[spank](https://hellogithub.com/periodical/statistics/click?target=https://github.com/taigrr/spank)：拍一下 MacBook 它就喊疼。这是一款 Go 开发的 macOS 命令行工具，能够实时识别笔记本受到的物理拍打（震动），并即时播放设置好的音频回应，适用于 M2+ 芯片的设备。
 
 
 

@@ -101,7 +101,7 @@ print(results)
 10、[task](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/go-task/task)：Build Tool to Say Goodbye to Complex Makefile Syntax.This is a modern build tool developed in Go, serving as a replacement for GNU Make. It uses a simpler YAML syntax and supports features like cross-platform compatibility, dependency management, parallel execution, and conditional triggering, making it suitable for project building, development environment management, and CI/CD integrationShared by [@DeShuiYu](https://hellogithub.com/en/user/ZWJkOqsvYbPgD8p)
 
 ### Java
-11、[jquick-curl](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/paohaijiao/jquick-curl)：Java Library for Directly Running curl Commands.This is a lightweight HTTP client Java library that can directly convert curl commands into executable HTTP request logic in Java without manual code rewriting. It is suitable for quickly integrating into Java projects after copying curl commands from Chrome browser developer tools, API documents, etc.Shared by [@paohaijiao](https://hellogithub.com/en/user/iIaNjn0mSdwx6gv)
+11、[jquick-curl](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/paohaijiao-jquick/jquick-curl)：Java Library for Directly Running curl Commands.This is a lightweight HTTP client Java library that can directly convert curl commands into executable HTTP request logic in Java without manual code rewriting. It is suitable for quickly integrating into Java projects after copying curl commands from Chrome browser developer tools, API documents, etc.Shared by [@paohaijiao](https://hellogithub.com/en/user/iIaNjn0mSdwx6gv)
 ```java
 import java.util.List;
 // 示例UserService接口定义

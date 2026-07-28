@@ -132,18 +132,18 @@ def test():
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/52281283.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 其它
-18、[English-level-up-tips](https://hellogithub.com/periodical/statistics/click?target=https://github.com/byoungd/English-level-up-tips)：如何提高英语技能
+18、[Spacemacs-rocks](https://hellogithub.com/periodical/statistics/click?target=https://github.com/emacs-china/Spacemacs-rocks)：用 21 天学习 Emacs 以及 Spacemacs（Emacs 的配置文件）的使用
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/92807616.png' style="max-width:80%; max-height=80%;"></img></p>
-
-19、[Spacemacs-rocks](https://hellogithub.com/periodical/statistics/click?target=https://github.com/emacs-china/Spacemacs-rocks)：用 21 天学习 Emacs 以及 Spacemacs（Emacs 的配置文件）的使用
-
-
-20、[SpaceVim](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wsdjeg/SpaceVim)：一个社区驱动的模块化 vim/neovim 配置集合，其中包含了多种功能模块，并且针对 neovim 做了功能优化。spacevim 有多种功能模块可供选择，支持多种语言。用户只需要选择需要的模块，就可以配置出一个适合自己的开发环境
+19、[SpaceVim](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wsdjeg/SpaceVim)：一个社区驱动的模块化 vim/neovim 配置集合，其中包含了多种功能模块，并且针对 neovim 做了功能优化。spacevim 有多种功能模块可供选择，支持多种语言。用户只需要选择需要的模块，就可以配置出一个适合自己的开发环境
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/77358263.png' style="max-width:80%; max-height=80%;"></img></p>
+
+20、[up](https://hellogithub.com/periodical/statistics/click?target=https://github.com/byoungd/up)：如何提高英语技能
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/92807616.png' style="max-width:80%; max-height=80%;"></img></p>
 
 21、[vim-galore-zh_cn](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wsdjeg/vim-galore-zh_cn)：Vim 从入门到精通
 

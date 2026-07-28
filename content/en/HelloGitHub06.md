@@ -67,7 +67,7 @@ java -jar moco-runner-<version>-standalone.jar http -p 12306 -c foo.json
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/06/66557478.png' style="max-width:80%; max-height=80%;"></img></p>
 
-8、[Young](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/shiyanhui/Young)：基于 Tornado 框架、MongoDB 数据库，写的功能丰富的社区项目。详细的[安装步骤](https://github.com/shiyanhui/Young/blob/master/README_CN.md)，适合学习如何创建社区类 Web App。[在线预览](http://beyoung.io/)，项目运行效果图：
+8、[Young](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/yann-shi/Young)：基于 Tornado 框架、MongoDB 数据库，写的功能丰富的社区项目。详细的[安装步骤](https://github.com/shiyanhui/Young/blob/master/README_CN.md)，适合学习如何创建社区类 Web App。[在线预览](http://beyoung.io/)，项目运行效果图：
 
 
 
