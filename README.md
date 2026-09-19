@@ -5,8 +5,7 @@
   <br>兴趣是最好的老师，HelloGitHub 帮你找到开源的乐趣！
 </p>
 
-
-<!-- very fun ! -->
+<p> very fun !</p>
 
 <p align="center">
   <a href="https://hellogithub.com/repository/d4aae58ddbf34f0799bf3e8f965e0d70" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=d4aae58ddbf34f0799bf3e8f965e0d70&claim_uid=8MKvZoxaWt" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a><br>
@@ -21,24 +20,23 @@
 HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号**以月刊的形式[更新发布](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA5MzYyNzQ0MQ==&action=getalbum&album_id=1331197538447310849#wechat_redirect)，内容包括：**有趣、入门级的开源项目**、**开源书籍**、**实战项目**、**企业级项目**等，让你用很短时间感受到开源的魅力，爱上开源！
 
 ## 内容
+
 获得更好的阅读体验 [官网](https://hellogithub.com/) 或 [HelloGitHub 公众号](https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/weixin.png)
 
-| :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
-| ------- | ----- | ------------ | ------ | --------- |
+| :card_index:                            | :jack_o_lantern:                        | :beer:                                  | :fish_cake:                             | :octocat:                               |
+| --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
 | [第 125 期](/content/HelloGitHub125.md) | [第 124 期](/content/HelloGitHub124.md) | [第 123 期](/content/HelloGitHub123.md) | [第 122 期](/content/HelloGitHub122.md) | [第 121 期](/content/HelloGitHub121.md) |
 | [第 120 期](/content/HelloGitHub120.md) | [第 119 期](/content/HelloGitHub119.md) | [第 118 期](/content/HelloGitHub118.md) | [第 117 期](/content/HelloGitHub117.md) | [第 116 期](/content/HelloGitHub116.md) |
 | [第 115 期](/content/HelloGitHub115.md) | [第 114 期](/content/HelloGitHub114.md) | [第 113 期](/content/HelloGitHub113.md) | [第 112 期](/content/HelloGitHub112.md) | [第 111 期](/content/HelloGitHub111.md) |
 | [第 110 期](/content/HelloGitHub110.md) | [第 109 期](/content/HelloGitHub109.md) | [第 108 期](/content/HelloGitHub108.md) | [第 107 期](/content/HelloGitHub107.md) | [第 106 期](/content/HelloGitHub106.md) |
 | [第 105 期](/content/HelloGitHub105.md) | [第 104 期](/content/HelloGitHub104.md) | [第 103 期](/content/HelloGitHub103.md) | [第 102 期](/content/HelloGitHub102.md) | [第 101 期](/content/HelloGitHub101.md) |
-| [第 100 期](/content/HelloGitHub100.md) | [第 99 期](/content/HelloGitHub99.md) | [第 98 期](/content/HelloGitHub98.md) | [第 97 期](/content/HelloGitHub97.md) | [第 96 期](/content/HelloGitHub96.md) |
-| [第 95 期](/content/HelloGitHub95.md) | [第 94 期](/content/HelloGitHub94.md) | [第 93 期](/content/HelloGitHub93.md) | [第 92 期](/content/HelloGitHub92.md) | [第 91 期](/content/HelloGitHub91.md) |
-| [第 90 期](/content/HelloGitHub90.md) | [第 89 期](/content/HelloGitHub89.md) | [第 88 期](/content/HelloGitHub88.md) | [第 87 期](/content/HelloGitHub87.md) | [第 86 期](/content/HelloGitHub86.md) |
-
+| [第 100 期](/content/HelloGitHub100.md) | [第 99 期](/content/HelloGitHub99.md)   | [第 98 期](/content/HelloGitHub98.md)   | [第 97 期](/content/HelloGitHub97.md)   | [第 96 期](/content/HelloGitHub96.md)   |
+| [第 95 期](/content/HelloGitHub95.md)   | [第 94 期](/content/HelloGitHub94.md)   | [第 93 期](/content/HelloGitHub93.md)   | [第 92 期](/content/HelloGitHub92.md)   | [第 91 期](/content/HelloGitHub91.md)   |
+| [第 90 期](/content/HelloGitHub90.md)   | [第 89 期](/content/HelloGitHub89.md)   | [第 88 期](/content/HelloGitHub88.md)   | [第 87 期](/content/HelloGitHub87.md)   | [第 86 期](/content/HelloGitHub86.md)   |
 
 欢迎[推荐或自荐](https://hellogithub.com/periodical)项目成为 **HelloGitHub** 的[贡献者](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md)
 
 ## 赞助
-
 
 <table>
   <thead>
@@ -80,7 +78,6 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
     </tr>
   </thead>
 </table>
-
 
 ## 声明
 
