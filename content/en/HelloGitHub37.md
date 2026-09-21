@@ -29,7 +29,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 3、[akutan](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/eBay/akutan)：eBay 开源的分布式图数据库，少数依然支持 SparQL 的图数据库
 
 
-4、[kratos](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/go-kratos/kratos)：哔哩哔哩开源的一套 Go 微服务框架，包含大量微服务相关框架及工具。解决了 gin 在微服务场景下的一些适配和微服务本身的一系列生态，[快速开始](https://github.com/bilibili/kratos/blob/master/doc/wiki-cn/quickstart.md)
+4、[kratos](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/go-kratos/kratos)：哔哩哔哩开源的一套 Go 微服务框架，包含大量微服务相关框架及工具。解决了 gin 在微服务场景下的一些适配和微服务本身的一系列生态，[快速开始](https://github.com/go-kratos/kratos/blob/master/doc/wiki-cn/quickstart.md)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/165041732.gif' style="max-width:80%; max-height=80%;"></img></p>

@@ -21,7 +21,7 @@
 > **以下为本期内容**｜每月 **28** 号更新
 
 ### C# 项目
-1、[koral](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kulics/koral)：一个专注于简单的开源跨平台编程语言。这门语言的设计目标是改进阅读与编写效率，降低语法负担。让使用者能够把真正的注意力放在解决问题上，只需极少的代码就能优雅地表达逻辑。[中文手册](https://github.com/kulics/xs/blob/master/book-zh/introduction.md)，示例代码如下：
+1、[koral](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kulics/koral)：一个专注于简单的开源跨平台编程语言。这门语言的设计目标是改进阅读与编写效率，降低语法负担。让使用者能够把真正的注意力放在解决问题上，只需极少的代码就能优雅地表达逻辑。[中文手册](https://github.com/kulics/koral/blob/master/book-zh/introduction.md)，示例代码如下：
 ```
 # export namespace
 \HelloWorld {
@@ -91,7 +91,7 @@ program -> {
 
 
 ### Go 项目
-5、[auxpi](https://hellogithub.com/periodical/statistics/click?target=https://github.com/0xDkd/auxpi)：基于 API 的简单图床应用。整合了主流图床的 API，并且做了一个 GUI 用来管理，[安装](https://github.com/aimerforreimu/AUXPI/wiki/%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)简单
+5、[auxpi](https://hellogithub.com/periodical/statistics/click?target=https://github.com/0xDkd/auxpi)：基于 API 的简单图床应用。整合了主流图床的 API，并且做了一个 GUI 用来管理，[安装](https://github.com/0xDkd/auxpi/wiki/%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)简单
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/156077183.jpeg' style="max-width:80%; max-height=80%;"></img></p>

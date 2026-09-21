@@ -78,7 +78,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 11、[LocalAI](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mudler/LocalAI)：OpenAI 的本地替代品。一个实现了在个人电脑上运行 LLM 模型，并集成了服务接口和在线聊天界面的项目。虽然效果无法和 GPT-4 媲美，但它开箱即用且免费，支持 Vicuna、Alpaca、GPT4ALL 等模型。
 ```
 # Clone LocalAI
-git clone https://github.com/go-skynet/LocalAI
+git clone https://github.com/mudler/LocalAI
 
 cd LocalAI
 

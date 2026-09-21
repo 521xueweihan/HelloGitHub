@@ -87,7 +87,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 8、[screenfull](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/sindresorhus/screenfull)：极小、跨平台的 JavaScript 全屏插件，[在线 demo](https://sindresorhus.com/screenfull.js/)
 
 
-9、[standard](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/standard/standard)：统一 JavaScript，只需一种样式，[中文](https://github.com/feross/standard/blob/master/docs/README-zhtw.md)
+9、[standard](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/standard/standard)：统一 JavaScript，只需一种样式，[中文](https://github.com/standard/standard/blob/master/docs/README-zhtw.md)
 
 
 10、[vue2-elm](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/bailicangdu/vue2-elm)：基于 vue2 + vuex 构建一个大型单页面应用，此项目大大小小共 45 个页面，涉及注册、登录、商品展示、购物车、下单等等，是一个完整的流程，

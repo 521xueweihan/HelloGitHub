@@ -71,7 +71,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 11、[LocalAI](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mudler/LocalAI)：Local Alternative to OpenAI. This is a project that implements the running of LLM models on personal computers, integrating service interfaces and an online chat interface. It can serve as a local alternative to the OpenAI interface. Although its performance cannot match GPT-4, it is ready to use and free, supporting various large models including Vicuna, Alpaca, and GPT4ALL.
 ```
 # Clone LocalAI
-git clone https://github.com/go-skynet/LocalAI
+git clone https://github.com/mudler/LocalAI
 
 cd LocalAI
 

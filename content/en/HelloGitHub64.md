@@ -119,7 +119,7 @@ int main(int argc, char *argv[]) {
 13、[guava](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/google/guava)：Google 开源的 Java 三方类库。该库提供包括集合、I/O、缓存、并发等开箱即用的工具方法，任何的 Java 应用都可以通过依赖的方式引入该项目。作为 Google 的开源项目，本身的源码也是非常值得开发者学习
 
 
-14、[Mybatis-PageHelper](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pagehelper-org/Mybatis-PageHelper)：MyBatis 通用分页插件，[使用方法](https://github.com/pagehelper/Mybatis-PageHelper/blob/master/wikis/zh/HowToUse.md)
+14、[Mybatis-PageHelper](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/pagehelper-org/Mybatis-PageHelper)：MyBatis 通用分页插件，[使用方法](https://github.com/pagehelper-org/Mybatis-PageHelper/blob/master/wikis/zh/HowToUse.md)
 
 
 ### JavaScript
@@ -269,7 +269,7 @@ alert.show()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/11152831.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[developer-roadmap](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/nilbuild/developer-roadmap)：开发者学习路线图。这是一份包含后端、前端、运维部署等方向的学习路径图，帮你指明前进的方向。[中文](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
+33、[developer-roadmap](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/nilbuild/developer-roadmap)：开发者学习路线图。这是一份包含后端、前端、运维部署等方向的学习路径图，帮你指明前进的方向。[中文](https://github.com/nilbuild/developer-roadmap/tree/master/translations/chinese)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/85077558.png' style="max-width:80%; max-height=80%;"></img></p>

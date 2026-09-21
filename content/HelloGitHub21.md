@@ -174,7 +174,7 @@ format code  extension  resolution note
 20、[git-flight-rules](https://hellogithub.com/periodical/statistics/click?target=https://github.com/k88hudson/git-flight-rules)：Git 飞行规则，所谓飞行规则就是特定场景的非常详细的标准处理流程。该项目记录了使用 Git 过程中，如果遇到问题的解决办法和步骤，[中文](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
 
 
-21、[go-advice](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cristaloleg/go-advice)：Go 建议[中文版](https://github.com/cristaloleg/go-advices/blob/master/README_ZH.md)
+21、[go-advice](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cristaloleg/go-advice)：Go 建议[中文版](https://github.com/cristaloleg/go-advice/blob/master/README_ZH.md)
 
 
 22、[hello-comic](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pipiliang/hello-comic)：程序员有关的漫画的集合，希望有更多的人可以加入该项目分享有意思程序员漫画

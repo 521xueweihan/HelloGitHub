@@ -286,7 +286,7 @@ mackup backup
 mackup restore
 ```
 
-39、[sql-injection-payload-list](https://hellogithub.com/periodical/statistics/click?target=https://github.com/payloadbox/sql-injection-payload-list)：关于 SQL 注入知识的集合。该项目解释了什么是 SQL 注入和一些常见的例子，以及如何发现、利用、防范各种 SQL 注入漏洞。
+39、[sql-injection-payload-list](https://hellogithub.com/periodical/statistics/click?target=https://github.com/payload-box/sql-injection-payload-list)：关于 SQL 注入知识的集合。该项目解释了什么是 SQL 注入和一些常见的例子，以及如何发现、利用、防范各种 SQL 注入漏洞。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/77/218447149.png' style="max-width:80%; max-height=80%;"></img></p>
 

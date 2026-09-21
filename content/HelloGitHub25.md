@@ -154,7 +154,7 @@ synonyms.seg("能量")
 15、[javascript-lessons](https://hellogithub.com/periodical/statistics/click?target=https://github.com/stone0090/javascript-lessons)：《JavaScript 闯关记》该教程部分章节精心设计了挑战关卡
 
 
-16、[linux-insides](https://hellogithub.com/periodical/statistics/click?target=https://github.com/0xAX/linux-insides)：Linux 内核揭密。[中文](https://github.com/MintCN/linux-insides-zh)
+16、[linux-insides](https://hellogithub.com/periodical/statistics/click?target=https://github.com/0xAX/linux-insides)：Linux 内核揭密。[中文](https://github.com/hust-open-atom-club/linux-insides-zh)
 
 
 17、[open-source-mac-os-apps](https://hellogithub.com/periodical/statistics/click?target=https://github.com/serhii-londar/open-source-mac-os-apps)：（英文）macOS 系统上的开源应用集合，并标注了应用通过那种编程语言实现

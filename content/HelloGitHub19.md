@@ -61,7 +61,7 @@ for (String sentence : testCase)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/76468697.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[project-guidelines](https://hellogithub.com/periodical/statistics/click?target=https://github.com/elsewhencode/project-guidelines)：JavaScript 项目规范，[中文](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md)
+7、[project-guidelines](https://hellogithub.com/periodical/statistics/click?target=https://github.com/elsewhencode/project-guidelines)：JavaScript 项目规范，[中文](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md)
 
 
 8、[SelectMenu](https://hellogithub.com/periodical/statistics/click?target=https://github.com/TerryZ/SelectMenu)：基于 jQuery 1.x 库的多样化的下拉菜单插件，源码具有中文注释，对于学习 jQuery 插件有帮助。示例代码如下：

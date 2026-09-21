@@ -123,7 +123,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 22、[games](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/leereilly/games)：GitHub 上游戏项目的合集
 
 
-23、[learn-regex](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ziishaned/learn-regex)：易学的正则表达式教程，[中文](https://github.com/zeeshanu/learn-regex/blob/master/README-cn.md)
+23、[learn-regex](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ziishaned/learn-regex)：易学的正则表达式教程，[中文](https://github.com/ziishaned/learn-regex/blob/master/README-cn.md)
 
 
 24、[Material-Design-Chinese](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/zdhxiong/Material-Design-Chinese)：Material Design 官方文档的中文翻译，保留了原版网站的样式，并保持和官方文档同步更新

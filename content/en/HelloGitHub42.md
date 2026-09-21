@@ -228,7 +228,7 @@ array([[4.43336608e-03, 9.95215198e-01, 3.51419231e-04, 1.68657851e-08]])
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/134992035.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[reverse-interview](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/viraptor/reverse-interview)：如果当面试官问“你还有什么要问我的吗？”的时候你毫无头绪，那这个项目正是你所需要的。[中文](https://github.com/yifeikong/reverse-interview-zh)
+30、[reverse-interview](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/viraptor/reverse-interview)：如果当面试官问“你还有什么要问我的吗？”的时候你毫无头绪，那这个项目正是你所需要的。[中文](https://github.com/perkfly/reverse-interview-zh)
 
 
 

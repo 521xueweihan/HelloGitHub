@@ -121,7 +121,7 @@ $ nali 1.2.3.4
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/11008207.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java 项目
-13、[from-java-to-kotlin](https://hellogithub.com/periodical/statistics/click?target=https://github.com/amitshekhariitbhu/from-java-to-kotlin)：展示 Java 和 Kotlin 语法上差别的项目。让有 Java 基础的程序员可以快速上手 Kotlin，[中文](https://github.com/MindorksOpenSource/from-java-to-kotlin/blob/master/README-ZH.md)
+13、[from-java-to-kotlin](https://hellogithub.com/periodical/statistics/click?target=https://github.com/amitshekhariitbhu/from-java-to-kotlin)：展示 Java 和 Kotlin 语法上差别的项目。让有 Java 基础的程序员可以快速上手 Kotlin，[中文](https://github.com/amitshekhariitbhu/from-java-to-kotlin/blob/master/README-ZH.md)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/71/91953571.png' style="max-width:80%; max-height=80%;"></img></p>
