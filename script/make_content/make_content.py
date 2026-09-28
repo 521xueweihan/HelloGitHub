@@ -84,11 +84,10 @@ def main():
 
     if len(input_list) != 2:
         raise InputError('Input error: Need a param')
-    else:
-        try:
-            input_arg = input_list[1]
-        except Exception:
-            raise InputError('Input error: Must be number')
+    input_arg = input_list[1]
+    if input_arg != 'all' and not input_arg.isdigit():
+        # 输入必须是期数（纯数字）或 all，否则后续路径检查会静默失败
+        raise InputError('Input error: Must be number')
     if len(input_arg) == 1:
         make_content('0' + input_arg)
     elif input_arg == 'all':
