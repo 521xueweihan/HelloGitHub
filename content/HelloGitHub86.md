@@ -135,7 +135,7 @@ curl http://localhost:8080/v1/chat/completions -H "Content-Type: application/jso
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/605357456.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript 项目
-17、[dub](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dubinc/dub)：功能丰富的短链接管理平台。采用 Next.js+Tailwind CSS 构建的短链接平台，可用于创建、追踪、分析短链接，支持地理位置统计、自定义域名、生成二维码等功能。
+17、[dub.link](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dubinc/dub.link)：功能丰富的短链接管理平台。采用 Next.js+Tailwind CSS 构建的短链接平台，可用于创建、追踪、分析短链接，支持地理位置统计、自定义域名、生成二维码等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/529708137.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -186,7 +186,7 @@ guitar = (C('CM7', 3, 1/4, 1/8)^2 |
 play(guitar, bpm=100, instrument=25)
 ```
 
-27、[OpenBB](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OpenBB-finance/OpenBB)：高颜值的命令行投资分析工具。一个有着高颜值的金融市场行情查看和分析工具，实现了在终端偷偷看股市的功能。同时，它开放了对 Pandas、Numpy、Jupyter、Pytorch、Tensorflow 等等框架的支持，帮助深入加工和分析数据辅助投资。
+27、[OpenBB](https://hellogithub.com/periodical/statistics/click?target=https://github.com/openbq-org/OpenBB)：高颜值的命令行投资分析工具。一个有着高颜值的金融市场行情查看和分析工具，实现了在终端偷偷看股市的功能。同时，它开放了对 Pandas、Numpy、Jupyter、Pytorch、Tensorflow 等等框架的支持，帮助深入加工和分析数据辅助投资。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/323048702.gif' style="max-width:80%; max-height=80%;"></img></p>
 

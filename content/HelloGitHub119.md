@@ -25,7 +25,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/100767968.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-2、[zenc](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zenc-lang/zenc)：像高级语言一样写 C 代码。这是一个现代系统编程语言，写起来像高级语言又能像 C 语言一样运行。它通过编译生成 GNU C/C11 代码，兼容 C ABI（应用程序二进制接口），支持无缝集成到现有的 C 语言生态，在保持 C 语言运行效率的基础上，提升开发体验。
+2、[zenc-lang](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Zuhaitz-dev/zenc-lang)：像高级语言一样写 C 代码。这是一个现代系统编程语言，写起来像高级语言又能像 C 语言一样运行。它通过编译生成 GNU C/C11 代码，兼容 C ABI（应用程序二进制接口），支持无缝集成到现有的 C 语言生态，在保持 C 语言运行效率的基础上，提升开发体验。
 ```
 import "std/net/tcp.zc"
 
@@ -97,7 +97,7 @@ print(results)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/1037246832.png' style="max-width:80%; max-height=80%;"></img></p>
 
-8、[sql-tap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mickamy/sql-tap)：实时监控 SQL 流量的工具。这是一款基于 Go 开发的实时 SQL 流量监控工具，无需修改代码即可使用。它作为代理部署在应用与数据库之间，通过解析数据库 wire 协议捕获所有查询，提供 TUI 和 Web 两种使用方式，支持 PostgreSQL、MySQL 和 TiDB 数据库。
+8、[sql-tap](https://hellogithub.com/periodical/statistics/click?target=https://github.com/proto-tap/sql-tap)：实时监控 SQL 流量的工具。这是一款基于 Go 开发的实时 SQL 流量监控工具，无需修改代码即可使用。它作为代理部署在应用与数据库之间，通过解析数据库 wire 协议捕获所有查询，提供 TUI 和 Web 两种使用方式，支持 PostgreSQL、MySQL 和 TiDB 数据库。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/1157577714.png' style="max-width:80%; max-height=80%;"></img></p>
 

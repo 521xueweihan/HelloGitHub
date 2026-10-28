@@ -210,9 +210,7 @@ $ pip install uv
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/102/858437661.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### AI
-32、[miniMNIST-c](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/itskonrad/miniMNIST-c)：Minimal Neural Network Implemented in C. This project demonstrates how to implement a minimalist neural network from scratch using C language. With less than 200 lines of code and the C standard library, it achieves a rudimentary neural network capable of classifying handwritten digits from the MNIST dataset.
-
-33、[openvino](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/openvinotoolkit/openvino)：Tool Kit for Optimizing and Deploying Deep Learning Models. This project is an Intel open-source toolkit aimed at accelerating and optimizing the deployment of deep learning models. It helps developers deploy trained models to a variety of hardware platforms, supporting deep learning frameworks such as TensorFlow, PyTorch, and ONNX.
+32、[openvino](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/openvinotoolkit/openvino)：Tool Kit for Optimizing and Deploying Deep Learning Models. This project is an Intel open-source toolkit aimed at accelerating and optimizing the deployment of deep learning models. It helps developers deploy trained models to a variety of hardware platforms, supporting deep learning frameworks such as TensorFlow, PyTorch, and ONNX.
 ```python
 import openvino as ov
 import torch
@@ -234,6 +232,8 @@ output = compiled_model({0: example.numpy()})
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/102/153097643.png' style="max-width:80%; max-height=80%;"></img></p>
+
+33、[tinymnist](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/itskonrad/tinymnist)：Minimal Neural Network Implemented in C. This project demonstrates how to implement a minimalist neural network from scratch using C language. With less than 200 lines of code and the C standard library, it achieves a rudimentary neural network capable of classifying handwritten digits from the MNIST dataset.
 
 ### Other
 34、[90DaysOfDevOps](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/MichaelCade/90DaysOfDevOps)：90-Day DevOps Free Tutorial. This project began as the author's notes for learning DevOps knowledge and has now evolved into a community-driven free tutorial on DevOps. The content covers a range of topics including DevOps concepts, Linux basics, computer networking, containerization, Kubernetes, CI/CD, monitoring, and cloud service providers.

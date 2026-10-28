@@ -125,7 +125,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/123/881723326.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[MacTools](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ggbond268/MacTools)：macOS Tools in the Menu Bar.This is a free and open-source macOS menu bar tool that aggregates a variety of common system operations and practical functions into the menu bar, supporting features such as preventing sleep, auto-hiding the Dock, muting the system, cleaning Xcode, ejecting disks, emptying the trash, IP query, and translation.
+29、[MacTools](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mactools-app/MacTools)：macOS Tools in the Menu Bar.This is a free and open-source macOS menu bar tool that aggregates a variety of common system operations and practical functions into the menu bar, supporting features such as preventing sleep, auto-hiding the Dock, muting the system, cleaning Xcode, ejecting disks, emptying the trash, IP query, and translation.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/123/1209106566.png' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -27,7 +27,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/203957456.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C#
-4、[lively](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/rocksdanister/lively)：Windows 动态桌面壁纸工具。支持 Windows 用户设置多种动画文件为桌面壁纸的工具，不仅安装简单效果炫酷，而且完全免费。
+4、[lively](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/lively-community/lively)：Windows 动态桌面壁纸工具。支持 Windows 用户设置多种动画文件为桌面壁纸的工具，不仅安装简单效果炫酷，而且完全免费。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/75/201188122.gif' style="max-width:80%; max-height=80%;"></img></p>
 

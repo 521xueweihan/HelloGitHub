@@ -113,13 +113,13 @@ kubectl apply -f pkg/k8s/crd/install/shifu_install.yml
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/499359479.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[HydraLab](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/microsoft/HydraLab)：Open Source Intelligent Mobile Cloud Testing Platform. This is a cross-platform cloud testing service built with Spring Boot and React. It is easy to deploy and ready to use. It supports features such as online management of test devices, execution of test cases, and visualization of test results.Shared by [@Nathan Bu](https://hellogithub.com/en/user/hsaTiud2BzvNP6g)
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/486525050.png' style="max-width:80%; max-height=80%;"></img></p>
-
-17、[neo4j](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/neo4j/neo4j)：The Most Popular Graph Database Currently. It is a native graph database developed using Java and Scala languages, equipped with its own query language Cypher, which allows for intuitive and efficient querying and processing of relationships between data.
+16、[neo4j](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/neo4j/neo4j)：The Most Popular Graph Database Currently. It is a native graph database developed using Java and Scala languages, equipped with its own query language Cypher, which allows for intuitive and efficient querying and processing of relationships between data.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/6650539.png' style="max-width:80%; max-height=80%;"></img></p>
+
+17、[XStudio](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/microsoft/XStudio)：Open Source Intelligent Mobile Cloud Testing Platform. This is a cross-platform cloud testing service built with Spring Boot and React. It is easy to deploy and ready to use. It supports features such as online management of test devices, execution of test cases, and visualization of test results.Shared by [@Nathan Bu](https://hellogithub.com/en/user/hsaTiud2BzvNP6g)
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/486525050.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript
 18、[html2canvas](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/niklasvh/html2canvas)：A JavaScript Library for In-Browser Screen Capture. This project enables you to capture the entire web page or a portion of it within the browser. It operates by reading the DOM and styles to render the current page into a canvas image.

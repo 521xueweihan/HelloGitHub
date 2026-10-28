@@ -217,9 +217,7 @@ $ pip install uv
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/102/858437661.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 人工智能
-32、[miniMNIST-c](https://hellogithub.com/periodical/statistics/click?target=https://github.com/itskonrad/miniMNIST-c)：C 语言实现的极简神经网络。该项目展示了如何用 C 语言从头实现一个最小的神经网络。它用不到 200 行代码和 C 标准库，实现了一个极简的神经网络，能够对 MNIST 数据集中的手写数字进行分类。
-
-33、[openvino](https://hellogithub.com/periodical/statistics/click?target=https://github.com/openvinotoolkit/openvino)：优化和部署深度学习模型的工具包。该项目是英特尔开源的工具库，旨在加速和优化深度学习模型部署。它能帮助开发者将训练好的模型部署到多种硬件平台，支持 TensorFlow、PyTorch 和 ONNX 等深度学习框架。
+32、[openvino](https://hellogithub.com/periodical/statistics/click?target=https://github.com/openvinotoolkit/openvino)：优化和部署深度学习模型的工具包。该项目是英特尔开源的工具库，旨在加速和优化深度学习模型部署。它能帮助开发者将训练好的模型部署到多种硬件平台，支持 TensorFlow、PyTorch 和 ONNX 等深度学习框架。
 ```python
 import openvino as ov
 import torch
@@ -241,6 +239,8 @@ output = compiled_model({0: example.numpy()})
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/102/153097643.png' style="max-width:80%; max-height=80%;"></img></p>
+
+33、[tinymnist](https://hellogithub.com/periodical/statistics/click?target=https://github.com/itskonrad/tinymnist)：C 语言实现的极简神经网络。该项目展示了如何用 C 语言从头实现一个最小的神经网络。它用不到 200 行代码和 C 标准库，实现了一个极简的神经网络，能够对 MNIST 数据集中的手写数字进行分类。
 
 ### 其它
 34、[90DaysOfDevOps](https://hellogithub.com/periodical/statistics/click?target=https://github.com/MichaelCade/90DaysOfDevOps)：为期 90 天的 DevOps 免费教程。该项目最初是作者记录自己学习 DevOps 知识的笔记，如今已发展为一个由社区驱动的 DevOps 免费教程，内容涵盖了 DevOps 概念、Linux 基础、计算机网络、容器、Kubernetes、CI/CD、监控和云服务商等。

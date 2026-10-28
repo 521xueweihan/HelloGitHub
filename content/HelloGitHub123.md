@@ -132,7 +132,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/123/881723326.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[MacTools](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ggbond268/MacTools)：住在菜单栏里的 macOS 工具集合。这是一款免费开源的 macOS 菜单栏工具，将一堆常用的系统操作和实用功能放到菜单栏里，支持防休眠、自动隐藏 Dock、系统静音、Xcode 清理、弹出磁盘、清空废纸篓、IP 查询和翻译等功能。
+29、[MacTools](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mactools-app/MacTools)：住在菜单栏里的 macOS 工具集合。这是一款免费开源的 macOS 菜单栏工具，将一堆常用的系统操作和实用功能放到菜单栏里，支持防休眠、自动隐藏 Dock、系统静音、Xcode 清理、弹出磁盘、清空废纸篓、IP 查询和翻译等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/123/1209106566.png' style="max-width:80%; max-height=80%;"></img></p>
 

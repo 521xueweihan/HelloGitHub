@@ -128,7 +128,7 @@ curl http://localhost:8080/v1/chat/completions -H "Content-Type: application/jso
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/605357456.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript
-17、[dub](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/dubinc/dub)：Feature-Rich Short Link Management Platform. A short link platform built with Next.js and Tailwind CSS, which can be used to create, track, and analyze short links, supports geographic location statistics, custom domains, QR code generation, and more.
+17、[dub.link](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/dubinc/dub.link)：Feature-Rich Short Link Management Platform. A short link platform built with Next.js and Tailwind CSS, which can be used to create, track, and analyze short links, supports geographic location statistics, custom domains, QR code generation, and more.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/529708137.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -179,7 +179,7 @@ guitar = (C('CM7', 3, 1/4, 1/8)^2 |
 play(guitar, bpm=100, instrument=25)
 ```
 
-27、[OpenBB](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/OpenBB-finance/OpenBB)：Highly Aesthetic Command-Line Financial Analysis Tool. A financial market situation viewing and analysis tool with high aesthetics, providing the functionality to stealthily check the stock market in the terminal. Additionally, it opens support for frameworks such as Pandas, Numpy, Jupyter, Pytorch, and Tensorflow, assisting in in-depth data processing and analysis to aid in investment decisions.
+27、[OpenBB](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/openbq-org/OpenBB)：Highly Aesthetic Command-Line Financial Analysis Tool. A financial market situation viewing and analysis tool with high aesthetics, providing the functionality to stealthily check the stock market in the terminal. Additionally, it opens support for frameworks such as Pandas, Numpy, Jupyter, Pytorch, and Tensorflow, assisting in in-depth data processing and analysis to aid in investment decisions.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/86/323048702.gif' style="max-width:80%; max-height=80%;"></img></p>
 

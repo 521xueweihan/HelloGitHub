@@ -132,7 +132,7 @@ func main() {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/215655521.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java
-13、[SnowJena](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/onblog/SnowJena)：基于令牌桶算法实现的分布式无锁限流框架。简单易用的 API，开箱即用、支持熔断降级、动态配置规则、可视化监控等功能。示例代码：
+13、[java-limiter](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/onblog/java-limiter)：基于令牌桶算法实现的分布式无锁限流框架。简单易用的 API，开箱即用、支持熔断降级、动态配置规则、可视化监控等功能。示例代码：
 ```java
 public class AppTest {
     Logger logger = LoggerFactory.getLogger(getClass());

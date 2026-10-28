@@ -24,7 +24,7 @@ Will be released on the **28th of each month**. [Website](https://hellogithub.co
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [NO.126](/content/en/HelloGitHub126.md) |
+| [NO.127](/content/en/HelloGitHub127.md) | [NO.126](/content/en/HelloGitHub126.md) |
 | [NO.125](/content/en/HelloGitHub125.md) | [NO.124](/content/en/HelloGitHub124.md) | [NO.123](/content/en/HelloGitHub123.md) | [NO.122](/content/en/HelloGitHub122.md) | [NO.121](/content/en/HelloGitHub121.md) |
 | [NO.120](/content/en/HelloGitHub120.md) | [NO.119](/content/en/HelloGitHub119.md) | [NO.118](/content/en/HelloGitHub118.md) | [NO.117](/content/en/HelloGitHub117.md) | [NO.116](/content/en/HelloGitHub116.md) |
 | [NO.115](/content/en/HelloGitHub115.md) | [NO.114](/content/en/HelloGitHub114.md) | [NO.113](/content/en/HelloGitHub113.md) | [NO.112](/content/en/HelloGitHub112.md) | [NO.111](/content/en/HelloGitHub111.md) |

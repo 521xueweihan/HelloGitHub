@@ -120,13 +120,13 @@ kubectl apply -f pkg/k8s/crd/install/shifu_install.yml
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/499359479.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[HydraLab](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/HydraLab)：开源的智能移动云测平台。这是一个基于 Spring Boot+React 构建的云测服务，它部署简单开箱即用，支持在线管理测试设备、执行测试用例、测试结果可视化等功能。来自 [@Nathan Bu](https://hellogithub.com/user/hsaTiud2BzvNP6g) 的分享
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/486525050.png' style="max-width:80%; max-height=80%;"></img></p>
-
-17、[neo4j](https://hellogithub.com/periodical/statistics/click?target=https://github.com/neo4j/neo4j)：目前最流行的图数据库。它是一款采用 Java 和 Scala 语言开发的原生图数据库，专属的查询语言 Cypher，能够直观且高效地查询和处理数据之间的关系。
+16、[neo4j](https://hellogithub.com/periodical/statistics/click?target=https://github.com/neo4j/neo4j)：目前最流行的图数据库。它是一款采用 Java 和 Scala 语言开发的原生图数据库，专属的查询语言 Cypher，能够直观且高效地查询和处理数据之间的关系。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/6650539.png' style="max-width:80%; max-height=80%;"></img></p>
+
+17、[XStudio](https://hellogithub.com/periodical/statistics/click?target=https://github.com/microsoft/XStudio)：开源的智能移动云测平台。这是一个基于 Spring Boot+React 构建的云测服务，它部署简单开箱即用，支持在线管理测试设备、执行测试用例、测试结果可视化等功能。来自 [@Nathan Bu](https://hellogithub.com/user/hsaTiud2BzvNP6g) 的分享
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/486525050.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript 项目
 18、[html2canvas](https://hellogithub.com/periodical/statistics/click?target=https://github.com/niklasvh/html2canvas)：实现浏览器内截屏的 JavaScript 库。该项目可以让你在浏览器内对整个网页或部分内容进行截图，原理是通过读取 DOM 和样式，将当前页面渲染成一个画布图像。

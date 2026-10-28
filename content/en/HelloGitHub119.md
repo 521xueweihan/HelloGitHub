@@ -18,7 +18,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/100767968.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-2、[zenc](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/zenc-lang/zenc)：Writing C Code Like a High-Level Language.This is a modern systems programming language that allows you to write code like a high-level language but run it like C. It compiles to GNU C/C11 code, is compatible with the C ABI (Application Binary Interface), supports seamless integration into existing C language ecosystems, and enhances the development experience while maintaining the execution efficiency of C.
+2、[zenc-lang](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Zuhaitz-dev/zenc-lang)：Writing C Code Like a High-Level Language.This is a modern systems programming language that allows you to write code like a high-level language but run it like C. It compiles to GNU C/C11 code, is compatible with the C ABI (Application Binary Interface), supports seamless integration into existing C language ecosystems, and enhances the development experience while maintaining the execution efficiency of C.
 ```
 import "std/net/tcp.zc"
 
@@ -90,7 +90,7 @@ print(results)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/1037246832.png' style="max-width:80%; max-height=80%;"></img></p>
 
-8、[sql-tap](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/mickamy/sql-tap)：Real-time SQL Traffic Monitoring Tool.This is a real-time SQL traffic monitoring tool developed in Go, which can be used without code modification. It is deployed as a proxy between the application and the database, captures all queries by parsing the database wire protocol, provides two usage methods: TUI and Web, and supports databases such as PostgreSQL, MySQL, and TiDB
+8、[sql-tap](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/proto-tap/sql-tap)：Real-time SQL Traffic Monitoring Tool.This is a real-time SQL traffic monitoring tool developed in Go, which can be used without code modification. It is deployed as a proxy between the application and the database, captures all queries by parsing the database wire protocol, provides two usage methods: TUI and Web, and supports databases such as PostgreSQL, MySQL, and TiDB
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/1157577714.png' style="max-width:80%; max-height=80%;"></img></p>
 

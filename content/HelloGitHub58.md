@@ -282,7 +282,7 @@ provider.request(.zen) { result in
 29、[Ad-papers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wzhe06/Ad-papers)：计算广告相关论文、学习资料和业界分享集合
 
 
-30、[awesome-seo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bmpi-dev/awesome-seo)：有关 Google SEO 和流量变现资料的项目。该项目是作者学习 SEO 过程中整理的权威资料，推荐给有个人网站的小伙伴们
+30、[awesome-seo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/i365dev/awesome-seo)：有关 Google SEO 和流量变现资料的项目。该项目是作者学习 SEO 过程中整理的权威资料，推荐给有个人网站的小伙伴们
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/58/327323917.png' style="max-width:80%; max-height=80%;"></img></p>

@@ -123,7 +123,7 @@ const { height, lineCount } = layout(prepared, 320, 20) // pure arithmetic. No D
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/121/1175538883.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Kotlin 项目
-14、[MicYou](https://hellogithub.com/periodical/statistics/click?target=https://github.com/LanRhyme/MicYou)：把 Android 手机变成无线麦克风。这是一款将 Android 手机变成电脑麦克风的跨平台工具，支持 Wi-Fi、USB 和蓝牙连接，可在 Windows、Linux、macOS 上接收音频。内置降噪、自动增益、去混响等音频处理能力，并支持虚拟麦克风接入、采样率和声道等参数调节。来自 [@Wong Wing Chun](https://hellogithub.com/user/J9Qu6aDd8LT1nU0) 的分享
+14、[MicYou](https://hellogithub.com/periodical/statistics/click?target=https://github.com/MicYou-Dev/MicYou)：把 Android 手机变成无线麦克风。这是一款将 Android 手机变成电脑麦克风的跨平台工具，支持 Wi-Fi、USB 和蓝牙连接，可在 Windows、Linux、macOS 上接收音频。内置降噪、自动增益、去混响等音频处理能力，并支持虚拟麦克风接入、采样率和声道等参数调节。来自 [@Wong Wing Chun](https://hellogithub.com/user/J9Qu6aDd8LT1nU0) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/121/1154312022.jpg' style="max-width:80%; max-height=80%;"></img></p>
 

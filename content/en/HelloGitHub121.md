@@ -116,7 +116,7 @@ const { height, lineCount } = layout(prepared, 320, 20) // pure arithmetic. No D
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/121/1175538883.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Kotlin
-14、[MicYou](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/LanRhyme/MicYou)：Turning Android Phones into Wireless Microphones.This is a cross-platform tool that transforms Android phones into computer microphones. It supports Wi-Fi, USB, and Bluetooth connections, and can receive audio on Windows, Linux, and macOS. It has built-in audio processing capabilities like noise reduction, automatic gain control, and de-reverberation, and supports virtual microphone access as well as parameter adjustments for sample rate and channels.Shared by [@Wong Wing Chun](https://hellogithub.com/en/user/J9Qu6aDd8LT1nU0)
+14、[MicYou](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/MicYou-Dev/MicYou)：Turning Android Phones into Wireless Microphones.This is a cross-platform tool that transforms Android phones into computer microphones. It supports Wi-Fi, USB, and Bluetooth connections, and can receive audio on Windows, Linux, and macOS. It has built-in audio processing capabilities like noise reduction, automatic gain control, and de-reverberation, and supports virtual microphone access as well as parameter adjustments for sample rate and channels.Shared by [@Wong Wing Chun](https://hellogithub.com/en/user/J9Qu6aDd8LT1nU0)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/121/1154312022.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
