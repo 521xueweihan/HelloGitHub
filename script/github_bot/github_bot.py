@@ -77,13 +77,14 @@ def get_data(page=1):
     args = '?page={page}'.format(page=page)
 
     response = requests.get(API['events']+args,
-                            auth=(ACCOUNT['username'], ACCOUNT['password']))
+                            auth=(ACCOUNT['username'], ACCOUNT['password']),
+                            timeout=10)
     status_code = response.status_code
     if status_code == 200:
         resp_json = response.json()
         return resp_json
     else:
-        logging.error('请求 event api 失败：', status_code)
+        logger.error(u'请求 event api 失败：{}'.format(status_code))
         return []
 
 
