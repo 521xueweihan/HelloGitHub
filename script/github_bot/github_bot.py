@@ -188,7 +188,6 @@ def send_email(receivers, email_content):
     发送邮件
     """
     sender = MAIL['mail']  # 发送邮件的邮箱
-    receivers = receivers   # 接收邮件的邮箱，可设置多个
 
     # 三个参数：第一个为文本内容，第二个 html 设置文本格式，第三个 utf-8 设置编码
     message = MIMEText(
