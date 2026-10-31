@@ -34,6 +34,45 @@
 | [第 95 号](/content/HelloGitHub95.md) | [第 94 号](/content/HelloGitHub94.md) | [第 93 号](/content/HelloGitHub93.md) | [第 92 号](/content/HelloGitHub92.md) | [第 91 号](/content/HelloGitHub91.md) |
 
 
+## スポンサー
+
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" style="width: 80px;">
+        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+          <sub>UCloud</sub><br>
+          <sub>200以上の主要AIモデルを集約</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/OpenIMSDK/Open-IM-Server">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/im.png" width="60px"><br>
+          <sub>OpenIM</sub><br>
+          <sub>オープンソースのインスタントメッセージング</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://ofox.ai/zh?utm_source=github&utm_medium=hellogithub&utm_campaign=sponsor">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/0foxai.png" width="60px"><br>
+          <sub>OfoxAI</sub><br>
+          <sub>100以上の公式モデルに直接アクセス</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://serpapi.com/hello-github">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/main/logo/serpapi.png" alt="SerpApi" width="60px"><br>
+          <sub>SerpApi</sub><br>
+          <sub>AIエージェント向けリアルタイム検索API</sub>
+        </a>
+      </th>
+    </tr>
+  </thead>
+</table>
+
+
 ## ライセンス
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en"><img alt="CC BY-NC-ND 4.0" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>この作品は <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en">CC BY-NC-ND 4.0</a> のライセンスに基づいています。
