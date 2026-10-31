@@ -273,7 +273,7 @@ ret = tf_fn(x1)
       </th>
       <th align="center" style="width: 80px;">
         <a href="https://github.com/OpenIMSDK/Open-IM-Server">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/im.png" width="60px"><br>
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/main/logo/im.jpg" width="60px"><br>
           <sub>OpenIM</sub><br>
           <sub>开源IM力争No.1</sub>
         </a>
@@ -290,6 +290,13 @@ ret = tf_fn(x1)
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/main/logo/serpapi.png" alt="SerpApi" width="60px"><br>
           <sub>SerpApi</sub><br>
           <sub>AI Agent 实时搜索数据 API</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/rustfs/rustfs">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/main/logo/rustfs.png" alt="RustFS" width="60px"><br>
+          <sub>RustFS</sub><br>
+          <sub>高性能 S3 兼容对象存储</sub>
         </a>
       </th>
     </tr>

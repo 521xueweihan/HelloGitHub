@@ -113,7 +113,7 @@ $pinyin->convert('带着希望去旅行，比到达终点更美好', PINYIN_ASCI
       </th>
       <th align="center" style="width: 80px;">
         <a href="https://github.com/OpenIMSDK/Open-IM-Server">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/im.png" width="60px"><br>
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/main/logo/im.jpg" width="60px"><br>
           <sub>OpenIM</sub><br>
           <sub>Open-source instant messaging</sub>
         </a>
@@ -130,6 +130,13 @@ $pinyin->convert('带着希望去旅行，比到达终点更美好', PINYIN_ASCI
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/main/logo/serpapi.png" alt="SerpApi" width="60px"><br>
           <sub>SerpApi</sub><br>
           <sub>Real-time Search APIs for AI Agent</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/rustfs/rustfs">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/main/logo/rustfs.png" alt="RustFS" width="60px"><br>
+          <sub>RustFS</sub><br>
+          <sub>High-performance S3-compatible object storage</sub>
         </a>
       </th>
     </tr>

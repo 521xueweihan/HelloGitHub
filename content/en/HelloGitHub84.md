@@ -159,9 +159,7 @@ func main() {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/382496361.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### PHP
-22、[dujiaoka](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/assimon/dujiaoka)：Open Source Vending Machine System Written in PHP. This platform for selling virtual products, such as vouchers or accounts, is implemented using Laravel and Bootstrap. After customers make a payment, the system can automatically dispatch the goods and has integrated multiple payment methods including WeChat, Alipay, and Paypal.
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/129852395.png' style="max-width:80%; max-height=80%;"></img></p>
+22、[dujiao-next](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/dujiao-next/dujiao-next)：Open Source Vending Machine System Written in PHP. This platform for selling virtual products, such as vouchers or accounts, is implemented using Laravel and Bootstrap. After customers make a payment, the system can automatically dispatch the goods and has integrated multiple payment methods including WeChat, Alipay, and Paypal.
 
 ### Python
 23、[bar_chart_race](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/dexplo/bar_chart_race)：Dynamic Bar Chart Based on Python. This project allows the creation of bar chart animation for competitions using Python, which dynamically displays data rankings, providing a visual representation of the data change process.Shared by [@databook](https://hellogithub.com/en/user/1qC4w2Ey6bu0fgR)
@@ -291,7 +289,7 @@ john = table.find_one(name='John Doe')
       </th>
       <th align="center" style="width: 80px;">
         <a href="https://github.com/OpenIMSDK/Open-IM-Server">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/im.png" width="60px"><br>
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/main/logo/im.jpg" width="60px"><br>
           <sub>OpenIM</sub><br>
           <sub>Open-source instant messaging</sub>
         </a>
@@ -308,6 +306,13 @@ john = table.find_one(name='John Doe')
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/main/logo/serpapi.png" alt="SerpApi" width="60px"><br>
           <sub>SerpApi</sub><br>
           <sub>Real-time Search APIs for AI Agent</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/rustfs/rustfs">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/main/logo/rustfs.png" alt="RustFS" width="60px"><br>
+          <sub>RustFS</sub><br>
+          <sub>High-performance S3-compatible object storage</sub>
         </a>
       </th>
     </tr>
