@@ -69,7 +69,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/14376285.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java
-6、[fresco](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/facebook/fresco)：Facebook 开源的 Android 管理图片的库，[中文文档](https://www.fresco-cn.org/docs/index.html)。包含功能如下：
+6、[fresco](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/meta/fresco)：Facebook 开源的 Android 管理图片的库，[中文文档](https://www.fresco-cn.org/docs/index.html)。包含功能如下：
 - 显示占位图直到加载完成
 - 下载图片
 - 缓存图片
@@ -166,31 +166,31 @@ Hello Google!
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">          
+        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
-          <sub>聚合200+主流大模型</sub>
+          <sub>Access 200+ leading AI models</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
         <a href="https://github.com/OpenIMSDK/Open-IM-Server">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/im.png" width="60px"><br>
           <sub>OpenIM</sub><br>
-          <sub>开源IM力争No.1</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://www.qiniu.com/products/ai-token-api?utm_source=hello">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/qiniu.jpg" width="60px"><br>
-          <sub>七牛云</sub><br>
-          <sub>百万 Token 免费体验</sub>
+          <sub>Open-source instant messaging</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
         <a href="https://ofox.ai/zh?utm_source=github&utm_medium=hellogithub&utm_campaign=sponsor">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/0foxai.png" width="60px"><br>
           <sub>OfoxAI</sub><br>
-          <sub>100+ 模型官方直连不掉线</sub>
+          <sub>Direct access to 100+ official models</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://serpapi.com/hello-github">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/main/logo/serpapi.png" alt="SerpApi" width="60px"><br>
+          <sub>SerpApi</sub><br>
+          <sub>Real-time Search APIs for AI Agent</sub>
         </a>
       </th>
     </tr>

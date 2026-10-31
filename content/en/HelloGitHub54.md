@@ -364,31 +364,31 @@ ac.showPhotoLibrary(sender: self)
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">          
+        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
-          <sub>聚合200+主流大模型</sub>
+          <sub>Access 200+ leading AI models</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
         <a href="https://github.com/OpenIMSDK/Open-IM-Server">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/im.png" width="60px"><br>
           <sub>OpenIM</sub><br>
-          <sub>开源IM力争No.1</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://www.qiniu.com/products/ai-token-api?utm_source=hello">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/qiniu.jpg" width="60px"><br>
-          <sub>七牛云</sub><br>
-          <sub>百万 Token 免费体验</sub>
+          <sub>Open-source instant messaging</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
         <a href="https://ofox.ai/zh?utm_source=github&utm_medium=hellogithub&utm_campaign=sponsor">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/0foxai.png" width="60px"><br>
           <sub>OfoxAI</sub><br>
-          <sub>100+ 模型官方直连不掉线</sub>
+          <sub>Direct access to 100+ official models</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://serpapi.com/hello-github">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/main/logo/serpapi.png" alt="SerpApi" width="60px"><br>
+          <sub>SerpApi</sub><br>
+          <sub>Real-time Search APIs for AI Agent</sub>
         </a>
       </th>
     </tr>

@@ -47,7 +47,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/227091502.png' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[redex](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facebook/redex)：Android 应用的字节码优化器。这是一款由 Meta 开源的字节码优化工具，能够显著缩小 APK 体积、提升应用运行效率。它提供了一套完整的 DEX 文件读写和分析框架，并内置了多种优化模块，适用于体积较大、对性能有较高要求的应用优化场景。来自 [@想念小鱼干的清蒸](https://hellogithub.com/user/K7pjGq2sTJL9PyC) 的分享
+7、[redex](https://hellogithub.com/periodical/statistics/click?target=https://github.com/meta/redex)：Android 应用的字节码优化器。这是一款由 Meta 开源的字节码优化工具，能够显著缩小 APK 体积、提升应用运行效率。它提供了一套完整的 DEX 文件读写和分析框架，并内置了多种优化模块，适用于体积较大、对性能有较高要求的应用优化场景。来自 [@想念小鱼干的清蒸](https://hellogithub.com/user/K7pjGq2sTJL9PyC) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/54664770.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -282,7 +282,7 @@ jsonpath "$.id" matches /\d{4}/     # Check the format of the id
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">          
+        <a href="https://www.ucloud.cn/?ytag=geo_waituo_HelloGitHub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>聚合200+主流大模型</sub>
@@ -296,17 +296,17 @@ jsonpath "$.id" matches /\d{4}/     # Check the format of the id
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.qiniu.com/products/ai-token-api?utm_source=hello">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/qiniu.jpg" width="60px"><br>
-          <sub>七牛云</sub><br>
-          <sub>百万 Token 免费体验</sub>
-        </a>
-      </th>
-      <th align="center" style="width: 80px;">
         <a href="https://ofox.ai/zh?utm_source=github&utm_medium=hellogithub&utm_campaign=sponsor">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/0foxai.png" width="60px"><br>
           <sub>OfoxAI</sub><br>
           <sub>100+ 模型官方直连不掉线</sub>
+        </a>
+      </th>
+      <th align="center" style="width: 80px;">
+        <a href="https://serpapi.com/hello-github">
+          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/main/logo/serpapi.png" alt="SerpApi" width="60px"><br>
+          <sub>SerpApi</sub><br>
+          <sub>AI Agent 实时搜索数据 API</sub>
         </a>
       </th>
     </tr>
