@@ -83,12 +83,8 @@ def main():
     input_list = sys.argv  # 获取输入的参数
 
     if len(input_list) != 2:
-        raise InputError('Input error: Need a param')
-    else:
-        try:
-            input_arg = input_list[1]
-        except Exception:
-            raise InputError('Input error: Must be number')
+        raise ValueError('Input error: Need a param')
+    input_arg = input_list[1]
     if len(input_arg) == 1:
         make_content('0' + input_arg)
     elif input_arg == 'all':
