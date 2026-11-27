@@ -113,7 +113,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/127/131135585.png' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[OpenShell](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/NVIDIA/OpenShell)：NVIDIA's Open-Source Security Sandbox for AI Agents.A secure runtime purpose-built for autonomous AI agents, letting them read and write files, install packages, and call APIs without free rein over your data, keys, or network. Each agent runs in an isolated sandbox, with kernel-level, policy-driven controls over file access, system calls, and network connections. Real credentials are injected only when a request goes to an approved address.
+25、[openshell](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ai-openshell/openshell)：NVIDIA's Open-Source Security Sandbox for AI Agents.A secure runtime purpose-built for autonomous AI agents, letting them read and write files, install packages, and call APIs without free rein over your data, keys, or network. Each agent runs in an isolated sandbox, with kernel-level, policy-driven controls over file access, system calls, and network connections. Real credentials are injected only when a request goes to an approved address.
 
 ### Skills
 26、[anatomy](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/wheresryan22/anatomy)：Drawing Technical Concepts as Animated Mechanical Diagrams.An illustration skill for AI coding assistants that turns abstract technical concepts into realistic, movable mechanical devices, rendered as polished isometric interactive illustrations—for example, depicting a cache hit as a lock cylinder that only turns when every pin is aligned. It supports SVG, SVG + WebGL shaders, and 3D, and can export to HTML pages, SVG files, or React components.Shared by [@JRZYgit](https://hellogithub.com/en/user/0Aj4ipeQrDYuHBX)
@@ -183,7 +183,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub126.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | 『Next』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub126.md">『Previous』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>Feedback</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/en/HelloGitHub128.md">『Next』</a>
 </p>
 
 ---

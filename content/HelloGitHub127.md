@@ -120,7 +120,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/127/131135585.png' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[OpenShell](https://hellogithub.com/periodical/statistics/click?target=https://github.com/NVIDIA/OpenShell)：英伟达开源的 AI 智能体安全沙箱。这是一个专为自主 AI 智能体设计的安全运行时，让智能体可以读写文件、安装软件包和调用 API，又不会随意接触你的数据、密钥和网络。每个智能体都运行在隔离的沙箱中，在内核层面按策略管控文件访问、系统调用和网络连接，真实凭据只会在请求发往已批准的地址时才被注入。
+25、[openshell](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ai-openshell/openshell)：英伟达开源的 AI 智能体安全沙箱。这是一个专为自主 AI 智能体设计的安全运行时，让智能体可以读写文件、安装软件包和调用 API，又不会随意接触你的数据、密钥和网络。每个智能体都运行在隔离的沙箱中，在内核层面按策略管控文件访问、系统调用和网络连接，真实凭据只会在请求发往已批准的地址时才被注入。
 
 ### Skills
 26、[anatomy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wheresryan22/anatomy)：把技术概念画成会动的机械图。这是一个为 AI 编程助手打造的插画技能，能把抽象的技术概念转化为真实可动的机械装置，绘制成精致的等距视角交互插图，比如把缓存命中画成只有每根锁销都对齐才能转动的锁芯。它支持 SVG、SVG+WebGL 着色器和 3D 三种形式，可导出为 HTML 页面、SVG 文件或 React 组件。来自 [@JRZYgit](https://hellogithub.com/user/0Aj4ipeQrDYuHBX) 的分享
@@ -190,7 +190,7 @@
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub126.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub126.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub128.md">『下一期』</a>
 </p>
 
 ---

@@ -173,7 +173,7 @@ admin.add_view(UserAdmin)
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/135222855.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift 项目
-33、[hidden](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dwarvesf/hidden)：帮助隐藏 macOS 菜单栏图标的小工具。它能够灵活地隐藏菜单栏应用，让你的 Mac 看起来更加简洁，可通过 App Store 一键安装。
+33、[hidden](https://hellogithub.com/periodical/statistics/click?target=https://github.com/consolelabs/hidden)：帮助隐藏 macOS 菜单栏图标的小工具。它能够灵活地隐藏菜单栏应用，让你的 Mac 看起来更加简洁，可通过 App Store 一键安装。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/170244456.gif' style="max-width:80%; max-height=80%;"></img></p>
 

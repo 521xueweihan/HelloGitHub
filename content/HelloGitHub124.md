@@ -147,7 +147,7 @@
 
 31、[harbor](https://hellogithub.com/periodical/statistics/click?target=https://github.com/harbor-framework/harbor)：AI 智能体评测框架。这是一个跑 AI 智能体和大模型评测的开源框架，一条命令就能在 Docker 里把 Claude Code、Codex CLI 这些 Agent 拉起来，用 SWE-Bench 等评测集跑分。嫌本地慢也可以接 Daytona 这类云平台，开多个环境同时跑。
 
-32、[OpenMontage](https://hellogithub.com/periodical/statistics/click?target=https://github.com/calesthio/OpenMontage)：把 AI 编程助手变成视频工作室。这是一个开源的智能体视频制作系统，可让 Claude Code、Cursor、Copilot、Windsurf 和 Codex 根据自然语言完成调研、脚本、素材生成、剪辑和合成。它内置 12 条制作流程、100 多个工具，以及 700 多份技能与制作知识文件，支持真实素材、AI 图像、配音、字幕和成片自检。
+32、[OpenMontage](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OpenMontageInc/OpenMontage)：把 AI 编程助手变成视频工作室。这是一个开源的智能体视频制作系统，可让 Claude Code、Cursor、Copilot、Windsurf 和 Codex 根据自然语言完成调研、脚本、素材生成、剪辑和合成。它内置 12 条制作流程、100 多个工具，以及 700 多份技能与制作知识文件，支持真实素材、AI 图像、配音、字幕和成片自检。
 
 33、[outlines](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dottxt-ai/outlines)：严格的 LLM 结构化输出框架。这是一个约束大语言模型输出格式的 Python 库，可在生成过程中保证结果符合指定结构，而不是生成后再用正则修补。调用时只需传入期望的类型，同一段代码还能在 OpenAI、Ollama、vLLM 之间无缝切换。
 

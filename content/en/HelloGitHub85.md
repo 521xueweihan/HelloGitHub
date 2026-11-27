@@ -178,7 +178,7 @@ admin.add_view(UserAdmin)
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/135222855.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift
-33、[hidden](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/dwarvesf/hidden)：A Handy Tool for Hiding macOS Menu Bar Icons. It allows for flexible hiding of menu bar applications, making your Mac look neater. It can be installed with one click via the App Store.
+33、[hidden](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/consolelabs/hidden)：A Handy Tool for Hiding macOS Menu Bar Icons. It allows for flexible hiding of menu bar applications, making your Mac look neater. It can be installed with one click via the App Store.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/85/170244456.gif' style="max-width:80%; max-height=80%;"></img></p>
 

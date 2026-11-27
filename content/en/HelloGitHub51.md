@@ -56,7 +56,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/21827146.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java
-9、[JApiDocs](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/YeDaxia/JApiDocs)：一个无需额外注解、开箱即用的 SpringBoot 接口文档生成工具。特性：
+9、[JApiDocs](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hidaxia/JApiDocs)：一个无需额外注解、开箱即用的 SpringBoot 接口文档生成工具。特性：
 - 代码即文档
 - 支持导出 HTML
 - 同步导出客户端 Model 代码

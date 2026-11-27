@@ -170,7 +170,7 @@ if __name__ == "__main__":
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/108/22529973.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Rust 项目
-23、[bili-shadowreplay](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Xinrea/bili-shadowreplay)：B 站直播切片助手。这是一款专为 bilibili 直播设计的切片工具，帮助用户在直播过程中实时生成和管理切片，支持实时切片、直播缓存、编辑切片、记录时间点、投稿以及多账户等功能。
+23、[bili-shadowreplay](https://hellogithub.com/periodical/statistics/click?target=https://github.com/powerlive-io/bili-shadowreplay)：B 站直播切片助手。这是一款专为 bilibili 直播设计的切片工具，帮助用户在直播过程中实时生成和管理切片，支持实时切片、直播缓存、编辑切片、记录时间点、投稿以及多账户等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/108/625141753.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -186,7 +186,7 @@ if __name__ == "__main__":
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/108/895508656.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[ivy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/unifyai/ivy)：机器学习代码跨框架转换利器。该项目可以将机器学习模型、工具和库从一个框架转换到另一个框架。开发者通过简单的函数即可完成代码的转换，支持 TensorFlow、PyTorch、JAX 等主流框架。
+27、[ivy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/djl11/ivy)：机器学习代码跨框架转换利器。该项目可以将机器学习模型、工具和库从一个框架转换到另一个框架。开发者通过简单的函数即可完成代码的转换，支持 TensorFlow、PyTorch、JAX 等主流框架。
 ```python
 import ivy
 import torch

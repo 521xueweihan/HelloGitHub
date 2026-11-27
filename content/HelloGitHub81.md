@@ -40,7 +40,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/411493648.png' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[Tai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Planshit/Tai)：Windows 上统计软件使用时长的工具。该项目会根据软件获得焦点和失去焦点的时间差，来计算软件的真实使用时长，而不是简单地统计软件存活时间。
+6、[Tai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/woijfwefw/Tai)：Windows 上统计软件使用时长的工具。该项目会根据软件获得焦点和失去焦点的时间差，来计算软件的真实使用时长，而不是简单地统计软件存活时间。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/429850227.jpg' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -51,7 +51,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/125/592748160.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-10、[hister](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/asciimoo/hister)：Personal Browsing History Search Engine.This project is a personal search engine developed in Go, which can perform full-text search on the web pages and local files you have browsed, and supports features such as automatic inclusion of newly accessed pages by Firefox/Chrome extensions, import of browser history, field filtering, wildcard and semantic search
+10、[nogon](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/asciimoo/nogon)：Personal Browsing History Search Engine.This project is a personal search engine developed in Go, which can perform full-text search on the web pages and local files you have browsed, and supports features such as automatic inclusion of newly accessed pages by Firefox/Chrome extensions, import of browser history, field filtering, wildcard and semantic search
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/125/1127650407.png' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -59,7 +59,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/125/592748160.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-10、[hister](https://hellogithub.com/periodical/statistics/click?target=https://github.com/asciimoo/hister)：个人浏览记录搜索引擎。该项目是用 Go 开发的个人搜索引擎，可全文检索你浏览过的网页和本地文件，支持 Firefox/Chrome 扩展自动收录新访问的页面、浏览器历史导入、字段过滤、通配符和语义搜索等功能。
+10、[nogon](https://hellogithub.com/periodical/statistics/click?target=https://github.com/asciimoo/nogon)：个人浏览记录搜索引擎。该项目是用 Go 开发的个人搜索引擎，可全文检索你浏览过的网页和本地文件，支持 Firefox/Chrome 扩展自动收录新访问的页面、浏览器历史导入、字段过滤、通配符和语义搜索等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/125/1127650407.png' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -163,7 +163,7 @@ if __name__ == "__main__":
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/108/22529973.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Rust
-23、[bili-shadowreplay](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Xinrea/bili-shadowreplay)：Bilibili Live Slicing Assistant. This is a slicing tool specifically designed for bilibili live streaming, helping users to generate and manage slices in real-time during the live broadcast. It supports real-time slicing, live caching, editing slices, recording time points, submitting content, and multi-account functionality.
+23、[bili-shadowreplay](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/powerlive-io/bili-shadowreplay)：Bilibili Live Slicing Assistant. This is a slicing tool specifically designed for bilibili live streaming, helping users to generate and manage slices in real-time during the live broadcast. It supports real-time slicing, live caching, editing slices, recording time points, submitting content, and multi-account functionality.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/108/625141753.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -179,7 +179,7 @@ if __name__ == "__main__":
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/108/895508656.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[ivy](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/unifyai/ivy)：Machine Learning Code Converter Across Frameworks. This project can convert machine learning models, tools, and libraries from one framework to another. Developers can easily complete code transformations using simple functions and supports mainstream frameworks such as TensorFlow, PyTorch, and JAX.
+27、[ivy](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/djl11/ivy)：Machine Learning Code Converter Across Frameworks. This project can convert machine learning models, tools, and libraries from one framework to another. Developers can easily complete code transformations using simple functions and supports mainstream frameworks such as TensorFlow, PyTorch, and JAX.
 ```python
 import ivy
 import torch
