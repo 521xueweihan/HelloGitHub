@@ -110,9 +110,10 @@ def check_condition(data):
     date_condition = create_time >= (datetime.datetime.now()
                                      - datetime.timedelta(days=DAY))
     if (data['type'] == 'WatchEvent') and date_condition:
-        # 不统计自己项目的star事件
+        # 不统计自己项目的star事件（repo['name'] 为 "owner/repo"，
+        # 仅当 owner 等于本人账号时才属于自己项目，避免子串匹配误伤他人仓库）
         if data['payload']['action'] == 'started' and \
-           ACCOUNT['username'] not in data['repo']['name']:
+           data['repo']['name'].split('/')[0] != ACCOUNT['username']:
             data['date_time'] = create_time.strftime("%Y-%m-%d %H:%M:%S")
             return True
     else:
